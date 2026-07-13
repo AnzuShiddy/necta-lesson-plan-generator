@@ -22,24 +22,39 @@ from reportlab.platypus import (
 from .schema import LessonPlanDocument
 
 
-def _header_pairs(doc: LessonPlanDocument) -> list[tuple[str, str]]:
+# Official TIE (2023 revised curriculum) lesson plan layout: portrait page,
+# LESSON PLAN title, School/Teacher, Form/Subject, Time/Date lines, a
+# Registered/Present students table, competence and activity lines, then the
+# Teaching and Learning Process table and Remarks.
+_LP_DOTS = "." * 30
+
+
+def _lp_header_lines(doc: LessonPlanDocument) -> list[str]:
     r = doc.request
-    total = r.boys + r.girls
-    pairs = [
-        ("School", r.school_name or "…………………………"),
-        ("Teacher's name", r.teacher_name or "…………………………"),
-        ("Date", r.date or "……………"),
-        ("Subject", r.subject),
-        ("Class/Form", f"{r.form} {r.stream}".strip()),
-        ("Period / Time", f"{r.period_number}  {r.time}".strip() or "……………"),
-        ("Number of students", f"Boys: {r.boys}  Girls: {r.girls}  Total: {total}"),
-        ("Duration", f"{r.duration_minutes} minutes"),
+    time = r.time
+    if r.period_number:
+        time = f"Period {r.period_number}, {time}".strip(", ")
+    if r.duration_minutes:
+        time = f"{time} ({r.duration_minutes} minutes)".strip()
+    return [
+        f"Name of School: {r.school_name or _LP_DOTS}"
+        f"        Teacher's Name: {r.teacher_name or _LP_DOTS}",
+        f"Form: {f'{r.form} {r.stream}'.strip()}        Subject: {r.subject}",
+        f"Time: {time or _LP_DOTS}        Date: {r.date or _LP_DOTS}",
     ]
-    if r.week_label:
-        pairs.append(("Scheme of work", r.week_label))
-    if r.subtopic:
-        pairs.append(("Sub-topic", r.subtopic))
-    return pairs
+
+
+def _lp_fields(doc: LessonPlanDocument) -> list[tuple[str, str]]:
+    p = doc.plan
+    fields = [
+        ("Main Competence", p.main_competence),
+        ("Specific Competence", p.specific_competence),
+        ("Main Activity", doc.request.subtopic or p.lesson_title),
+        ("Specific Activity", p.lesson_title),
+    ]
+    if doc.request.week_label:
+        fields.append(("Scheme of Work Reference", doc.request.week_label))
+    return fields
 
 
 # ---------------------------------------------------------------------------
@@ -47,6 +62,7 @@ def _header_pairs(doc: LessonPlanDocument) -> list[tuple[str, str]]:
 # ---------------------------------------------------------------------------
 
 def to_docx(doc: LessonPlanDocument) -> bytes:
+    r = doc.request
     d = Document()
     style = d.styles["Normal"]
     style.font.name = "Calibri"
@@ -58,23 +74,23 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
     run.bold = True
     run.font.size = Pt(14)
 
-    sub = d.add_paragraph()
-    sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    srun = sub.add_run(doc.plan.lesson_title)
-    srun.italic = True
-    srun.font.size = Pt(11)
+    for line in _lp_header_lines(doc):
+        d.add_paragraph(line)
 
-    # Header table (2 columns per row -> 4 cells)
-    pairs = _header_pairs(doc)
-    htable = d.add_table(rows=0, cols=4)
-    htable.style = "Table Grid"
-    for i in range(0, len(pairs), 2):
-        row = htable.add_row().cells
-        row[0].paragraphs[0].add_run(pairs[i][0] + ":").bold = True
-        row[1].text = pairs[i][1]
-        if i + 1 < len(pairs):
-            row[2].paragraphs[0].add_run(pairs[i + 1][0] + ":").bold = True
-            row[3].text = pairs[i + 1][1]
+    # Number of students: Registered vs Present (present left for the teacher)
+    stable = d.add_table(rows=4, cols=6)
+    stable.style = "Table Grid"
+    stable.alignment = WD_TABLE_ALIGNMENT.CENTER
+    top = stable.rows[0].cells
+    top[0].merge(top[5]).paragraphs[0].add_run("Number of students").bold = True
+    mid = stable.rows[1].cells
+    mid[0].merge(mid[2]).paragraphs[0].add_run("Registered").bold = True
+    mid[3].merge(mid[5]).paragraphs[0].add_run("Present").bold = True
+    for c, label in zip(stable.rows[2].cells, ["Girls", "Boys", "Total"] * 2):
+        c.paragraphs[0].add_run(label).bold = True
+    for c, value in zip(stable.rows[3].cells,
+                        [r.girls, r.boys, r.boys + r.girls, "", "", ""]):
+        c.text = str(value)
 
     d.add_paragraph()
 
@@ -83,53 +99,40 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
         p.add_run(label + ": ").bold = True
         p.add_run(value)
 
-    kv("Main competence", doc.plan.main_competence)
-    kv("Specific competence", doc.plan.specific_competence)
+    for label, value in _lp_fields(doc):
+        kv(label, value)
 
     p = d.add_paragraph()
-    p.add_run("Specific objectives:").bold = True
+    p.add_run("Specific Objectives:").bold = True
     for obj in doc.plan.specific_objectives:
         d.add_paragraph(obj, style="List Bullet")
 
-    p = d.add_paragraph()
-    p.add_run("Teaching and learning resources:").bold = True
-    for res in doc.plan.teaching_learning_resources:
-        d.add_paragraph(res, style="List Bullet")
-
-    p = d.add_paragraph()
-    p.add_run("References:").bold = True
-    for ref in doc.plan.references:
-        d.add_paragraph(ref, style="List Bullet")
+    kv("Teaching and Learning Resources",
+       "; ".join(doc.plan.teaching_learning_resources))
+    kv("References", "; ".join(doc.plan.references))
 
     d.add_paragraph()
     p = d.add_paragraph()
-    p.add_run("LESSON DEVELOPMENT").bold = True
+    p.add_run("Teaching and Learning Process").bold = True
 
-    # Stages table
     table = d.add_table(rows=1, cols=5)
     table.style = "Table Grid"
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
-    hdr = table.rows[0].cells
-    for cell, label in zip(
-        hdr,
-        ["Stage / Time", "Teaching activities", "Learning activities", "Assessment", ""],
-    ):
-        run = cell.paragraphs[0].add_run(label)
-        run.bold = True
-    # Merge last two header cells (assessment spans)
-    hdr[3].merge(hdr[4])
-
+    for cell, label in zip(table.rows[0].cells,
+                           ["Stages", "Time (Minutes)", "Teaching Activities",
+                            "Learning Activities", "Assessment Criteria"]):
+        cell.paragraphs[0].add_run(label).bold = True
     for st in doc.plan.stages:
         cells = table.add_row().cells
-        cells[0].text = f"{st.stage}\n({st.duration_minutes} min)"
-        cells[1].text = st.teaching_activities
-        cells[2].text = st.learning_activities
-        cells[3].merge(cells[4])
-        cells[3].text = st.assessment
+        cells[0].text = st.stage
+        cells[1].text = str(st.duration_minutes)
+        cells[2].text = st.teaching_activities
+        cells[3].text = st.learning_activities
+        cells[4].text = st.assessment
 
     d.add_paragraph()
-    kv("Evaluation", doc.plan.evaluation)
     kv("Remarks", doc.plan.remarks)
+    kv("Teacher's Self-evaluation", doc.plan.evaluation)
 
     buf = io.BytesIO()
     d.save(buf)
@@ -141,10 +144,11 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
 # ---------------------------------------------------------------------------
 
 def to_pdf(doc: LessonPlanDocument) -> bytes:
+    r = doc.request
     buf = io.BytesIO()
     pdf = SimpleDocTemplate(
         buf,
-        pagesize=landscape(A4),
+        pagesize=A4,
         leftMargin=1.2 * cm,
         rightMargin=1.2 * cm,
         topMargin=1.2 * cm,
@@ -153,68 +157,74 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
     )
     styles = getSampleStyleSheet()
     cell = ParagraphStyle("cell", parent=styles["Normal"], fontSize=8, leading=10)
-    cell_b = ParagraphStyle("cellb", parent=cell, fontName="Helvetica-Bold")
+    cell_b = ParagraphStyle("cellb", parent=cell, fontName="Helvetica-Bold",
+                            textColor=colors.white)
     h1 = ParagraphStyle("h1", parent=styles["Title"], fontSize=16)
     small = ParagraphStyle("small", parent=styles["Normal"], fontSize=9, leading=12)
 
-    story = [Paragraph("LESSON PLAN", h1), Paragraph(doc.plan.lesson_title, styles["Italic"]), Spacer(1, 8)]
+    story = [Paragraph("LESSON PLAN", h1)]
+    for line in _lp_header_lines(doc):
+        story.append(Paragraph(line.replace("        ", "&nbsp;" * 8), small))
+    story.append(Spacer(1, 6))
 
-    # Header grid
-    pairs = _header_pairs(doc)
-    rows = []
-    for i in range(0, len(pairs), 2):
-        left = [Paragraph(f"<b>{pairs[i][0]}:</b> {pairs[i][1]}", small)]
-        right = [Paragraph(f"<b>{pairs[i+1][0]}:</b> {pairs[i+1][1]}", small)] if i + 1 < len(pairs) else [""]
-        rows.append([left[0], right[0]])
-    htable = Table(rows, colWidths=[13.5 * cm, 13.5 * cm])
-    htable.setStyle(TableStyle([
+    # Number of students: Registered vs Present
+    total = r.boys + r.girls
+    sdata = [
+        [Paragraph("<b>Number of students</b>", small), "", "", "", "", ""],
+        [Paragraph("<b>Registered</b>", small), "", "", Paragraph("<b>Present</b>", small), "", ""],
+        [Paragraph(f"<b>{h}</b>", small) for h in ["Girls", "Boys", "Total"] * 2],
+        [Paragraph(str(v), small) for v in [r.girls, r.boys, total]] + ["", "", ""],
+    ]
+    stable = Table(sdata, colWidths=[2.2 * cm] * 6, hAlign="LEFT")
+    stable.setStyle(TableStyle([
         ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
+        ("SPAN", (0, 0), (5, 0)),
+        ("SPAN", (0, 1), (2, 1)),
+        ("SPAN", (3, 1), (5, 1)),
         ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 3),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
+        ("TOPPADDING", (0, 0), (-1, -1), 2),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
     ]))
-    story += [htable, Spacer(1, 8)]
+    story += [stable, Spacer(1, 8)]
 
     def block(label, value):
         story.append(Paragraph(f"<b>{label}:</b> {value}", small))
 
-    block("Main competence", doc.plan.main_competence)
-    block("Specific competence", doc.plan.specific_competence)
-    story.append(Paragraph("<b>Specific objectives:</b>", small))
+    for label, value in _lp_fields(doc):
+        block(label, value)
+    story.append(Paragraph("<b>Specific Objectives:</b>", small))
     for obj in doc.plan.specific_objectives:
         story.append(Paragraph("• " + obj, small))
-    story.append(Paragraph(
-        "<b>Resources:</b> " + "; ".join(doc.plan.teaching_learning_resources), small))
-    story.append(Paragraph("<b>References:</b> " + "; ".join(doc.plan.references), small))
+    block("Teaching and Learning Resources",
+          "; ".join(doc.plan.teaching_learning_resources))
+    block("References", "; ".join(doc.plan.references))
     story.append(Spacer(1, 8))
-    story.append(Paragraph("<b>LESSON DEVELOPMENT</b>", small))
+    story.append(Paragraph("<b>Teaching and Learning Process</b>", small))
     story.append(Spacer(1, 4))
 
-    data = [[
-        Paragraph("<b>Stage / Time</b>", cell_b),
-        Paragraph("<b>Teaching activities</b>", cell_b),
-        Paragraph("<b>Learning activities</b>", cell_b),
-        Paragraph("<b>Assessment</b>", cell_b),
-    ]]
+    data = [[Paragraph(h, cell_b) for h in
+             ["Stages", "Time (Minutes)", "Teaching Activities",
+              "Learning Activities", "Assessment Criteria"]]]
     for st in doc.plan.stages:
         data.append([
-            Paragraph(f"<b>{st.stage}</b><br/>({st.duration_minutes} min)", cell),
+            Paragraph(f"<b>{st.stage}</b>", cell),
+            Paragraph(str(st.duration_minutes), cell),
             Paragraph(st.teaching_activities.replace("\n", "<br/>"), cell),
             Paragraph(st.learning_activities.replace("\n", "<br/>"), cell),
             Paragraph(st.assessment.replace("\n", "<br/>"), cell),
         ])
-    table = Table(data, colWidths=[4 * cm, 8.5 * cm, 8.5 * cm, 6 * cm], repeatRows=1)
+    table = Table(data, colWidths=[2.8 * cm, 1.7 * cm, 5.5 * cm, 5.5 * cm, 3.1 * cm],
+                  repeatRows=1)
     table.setStyle(TableStyle([
         ("GRID", (0, 0), (-1, -1), 0.5, colors.black),
         ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")),
-        ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
         ("VALIGN", (0, 0), (-1, -1), "TOP"),
         ("TOPPADDING", (0, 0), (-1, -1), 4),
         ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
     ]))
     story += [table, Spacer(1, 8)]
-    block("Evaluation", doc.plan.evaluation)
     block("Remarks", doc.plan.remarks)
+    block("Teacher's Self-evaluation", doc.plan.evaluation)
 
     pdf.build(story)
     return buf.getvalue()
