@@ -171,13 +171,10 @@ function render(payload){
       <p class="kv"><b>Scheme of work:</b> ${esc(r.week_label)}</p>
       <p class="kv"><b>Main competence:</b> ${esc(p.main_competence)}</p>
       <p class="kv"><b>Specific competence:</b> ${esc(p.specific_competence)}</p>
-      <p class="kv"><b>Specific objectives:</b></p>
-      <ul>${p.specific_objectives.map(o=>`<li>${esc(o)}</li>`).join('')}</ul>
       <p class="kv"><b>Resources:</b> ${p.teaching_learning_resources.map(esc).join('; ')}</p>
       <p class="kv"><b>References:</b> ${p.references.map(esc).join('; ')}</p>
       <table class="plan"><thead><tr><th>Stage / Time</th><th>Teaching activities</th><th>Learning activities</th><th>Assessment</th></tr></thead><tbody>${stages}</tbody></table>
-      <p class="kv" style="margin-top:12px"><b>Evaluation:</b> ${esc(p.evaluation)}</p>
-      <p class="kv"><b>Remarks:</b> ${esc(p.remarks)}</p>
+      <p class="kv" style="margin-top:12px"><b>Remarks:</b> ${esc(p.remarks)}</p>
       <div class="row">
         <button type="button" class="secondary" onclick="download('docx')">↓ Download Word (.docx)</button>
         <button type="button" class="secondary" onclick="download('pdf')">↓ Download PDF</button>
