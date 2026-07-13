@@ -47,7 +47,7 @@ class GeneratedLessonPlan(BaseModel):
     specific_competence: str = Field(description="Specific competence exactly as in the syllabus")
     specific_objectives: list[str] = Field(description="2-4 measurable lesson objectives (ABCD format)")
     teaching_learning_resources: list[str] = Field(description="Resources, favouring locally available/improvised materials")
-    references: list[str] = Field(description="Syllabus citation and approved textbook references")
+    references: list[str] = Field(description="Approved TIE (2023 edition) book citations with page placeholders")
     stages: list[LessonStage] = Field(description="Lesson development stages in order")
     evaluation: str = Field(description="Short guidance for the teacher's self-evaluation after the lesson")
     remarks: str = Field(description="Space-filler guidance for the remarks section")

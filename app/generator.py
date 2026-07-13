@@ -33,6 +33,9 @@ suggested methods.
 - Prefer locally available and improvised teaching/learning resources suitable for a \
 Tanzanian school.
 - Assessment must reflect the supplied assessment criteria.
+- The learning activity often enumerates its sub-topics (usually in parentheses). \
+Every enumerated sub-topic assigned to this lesson must be visibly addressed in the \
+objectives, lesson stages or assessment — none may be skipped.
 - The stages you produce must sum (in duration_minutes) to the total lesson duration \
 supplied by the teacher.
 - Write in clear, professional English suitable for a teacher's file and for inspection."""
@@ -61,8 +64,10 @@ def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
     if entry.get("topic_weeks", 1) > 1:
         span_note = (f"\nThis topic runs across {entry['topic_weeks']} weeks in the scheme "
                      f"of work; this lesson is for WEEK {entry['topic_week']} of "
-                     f"{entry['topic_weeks']}. Cover the portion appropriate to this week, "
-                     f"not the entire topic.")
+                     f"{entry['topic_weeks']}. Split the activity's enumerated sub-topics "
+                     f"into {entry['topic_weeks']} sequential portions and cover portion "
+                     f"{entry['topic_week']} in depth this week, so that every sub-topic "
+                     f"is covered exactly once across the {entry['topic_weeks']} weeks.")
     return f"""Prepare a lesson plan for one scheduled lesson, taken from the 2026 scheme \
 of work below. The scheme entry is derived from the official TIE syllabus.
 
@@ -98,8 +103,9 @@ LESSON DEVELOPMENT FORMAT:
 
 TEACHER'S EXTRA NOTES: {req.extra_notes or '(none)'}
 
-For the references field, cite the {req.subject} Syllabus for Ordinary Secondary \
-Education ({meta['syllabus_edition']}) and leave space for the approved textbook and page.
+For the references field, cite the approved TIE books exactly as follows, leaving a \
+blank for the relevant pages (e.g. "pp. ___"):
+{entry.get('references', '')}
 
 Produce the complete lesson plan now."""
 
