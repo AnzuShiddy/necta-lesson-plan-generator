@@ -33,10 +33,10 @@
         "oral texts",
         "audio and audio-visual materials (audio/video clips, recorded stories)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w2",
@@ -47,9 +47,41 @@
       "end_date": "2026-01-23",
       "main_competence": "1.0 Demonstrate mastery of English language skills",
       "specific_competence": "1.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+      "learning_activity": "(a) Prepare and deliver short speeches about common topics (e.g., entrepreneurship, corruption, child rights and security, gender education, cyber security education, disaster management, health and reproductive education, drug abuse, life skills, financial management education, taxation)",
+      "activity_id": "engl-four-114",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Project work: Ask the students to listen to various short speeches in their environment or from online sources and analyse them based on their characteristics, parts, the language used and techniques used in delivering such speeches.",
+        "Presentation: Guide the students through presenting their work to the class",
+        "Observation: Guide the students through observing and discussing the characteristics and language used in a given short speech on common topics",
+        "Speech delivery: Guide the students through preparing short speeches on common topics and delivering such speeches to the class using appropriate techniques"
+      ],
+      "assessment": "Short speeches about common topics are prepared and delivered appropriately",
+      "resources": [
+        "Written texts of different types",
+        "dictionaries",
+        "encyclopaedia",
+        "oral texts",
+        "audio and audio-visual materials (audio/video clips, recorded stories)"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of English language skills",
+      "specific_competence": "1.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
       "learning_activity": "(b) Compose different types of essays (narrative, descriptive, argumentative and expository) using correct grammar and vocabulary",
       "activity_id": "engl-four-115",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Observation: Guide the students through observing and discussing the characteristics and language used in different types of essays. Then, let each group present its work to the class",
@@ -57,7 +89,7 @@
       ],
       "assessment": "Different types of essays are composed using correct grammar and vocabulary",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -73,7 +105,7 @@
       "specific_competence": "1.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
       "learning_activity": "(b) Compose different types of essays (narrative, descriptive, argumentative and expository) using correct grammar and vocabulary",
       "activity_id": "engl-four-115",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Observation: Guide the students through observing and discussing the characteristics and language used in different types of essays. Then, let each group present its work to the class",
@@ -81,9 +113,38 @@
       ],
       "assessment": "Different types of essays are composed using correct grammar and vocabulary",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read texts for comprehension",
+      "learning_activity": "(a) Discuss the author’s motives in a given text",
+      "activity_id": "engl-four-116",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through identifying key ideas from a given text and presenting their work to the class",
+        "Description: Guide the students through describing the author’s motives orally and in writing using the identified key ideas of the texts"
+      ],
+      "assessment": "The author’s motives in the given text are discussed correctly",
+      "resources": [
+        "Dictionaries",
+        "encyclopaedia",
+        "newspaper articles",
+        "journals"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -95,16 +156,45 @@
       "end_date": "2026-02-06",
       "main_competence": "2.0 Comprehend oral and written information",
       "specific_competence": "2.1 Read texts for comprehension",
+      "learning_activity": "(a) Discuss the author’s motives in a given text",
+      "activity_id": "engl-four-116",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through identifying key ideas from a given text and presenting their work to the class",
+        "Description: Guide the students through describing the author’s motives orally and in writing using the identified key ideas of the texts"
+      ],
+      "assessment": "The author’s motives in the given text are discussed correctly",
+      "resources": [
+        "Dictionaries",
+        "encyclopaedia",
+        "newspaper articles",
+        "journals"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read texts for comprehension",
       "learning_activity": "(b) Deliver an oral presentation about the content of a text",
       "activity_id": "engl-four-117",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Discussion: Guide the students through identifying and discussing the details of a given text and presenting their work to the class"
       ],
       "assessment": "An oral presentation about the content of the text is made appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -117,10 +207,34 @@
       "start_date": "2026-02-09",
       "end_date": "2026-02-13",
       "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read texts for comprehension",
+      "learning_activity": "(c) Draw inferences (conclusions) from a text",
+      "activity_id": "engl-four-118",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Modelling: Use a text to show the students how to draw inferences (conclusions)",
+        "Close reading: Guide the students through identifying the main details and facts from a given text and relating them with their experiences. Thereafter, guide them through drawing inferences (conclusions) and presenting their work to the class"
+      ],
+      "assessment": "Inferences (conclusions) are drawn correctly from the text",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Comprehend oral and written information",
       "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
       "learning_activity": "(a) Deduce the main ideas from an oral presentation or language task",
       "activity_id": "engl-four-119",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Modelling: Play a recorded text/ speech to the students and show them how to deduce the main ideas from the text/speech",
@@ -132,7 +246,7 @@
         "Oral texts",
         "audio and audio-visual materials (audio/video clips, recorded stories)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -148,7 +262,7 @@
       "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
       "learning_activity": "(b) Examine information from oral sources",
       "activity_id": "engl-four-120",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Pair work: Read aloud a story/ passage to the students and guide them in pairs through examining information from the story/ passage and presenting their work to the class",
@@ -157,7 +271,32 @@
       ],
       "assessment": "Information from oral sources is examined appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+      "learning_activity": "(c) Relate the core messages of an oral presentation to real life experiences",
+      "activity_id": "engl-four-121",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group work: Guide the students in groups through discussing the content of a passage heard, identifying the core messages, relating such messages to their-life experiences and presenting their work to the class",
+        "Pair work: Play a recorded text/ speech to the students and guide them in pairs through discussing its content, identifying the core messages, relating such messages to their life experiences and presenting their work to the class",
+        "Project activity: Ask the students to listen to and watch the news on the radio and TV respectively at home and school. Then, ask them to examine the information from the news broadcast, relate it to their real-life experiences and present their work to the class"
+      ],
+      "assessment": "The core messages of the oral presentation are related correctly to real-life experiences",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -173,7 +312,7 @@
       "specific_competence": "2.3 Construct meaning from a variety of texts",
       "learning_activity": "(a) Explore strategies for deriving meanings of words from given texts (e.g., contextual guessing)",
       "activity_id": "engl-four-122",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Exploration: Guide the students through exploring strategies for deriving meanings of words from texts and presenting their work to the class"
@@ -186,10 +325,56 @@
         "newspaper articles",
         "journals"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.3 Construct meaning from a variety of texts",
+      "learning_activity": "(b) Synthesise ideas and draw conclusions from multiple and diverse texts",
+      "activity_id": "engl-four-123",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through synthesising ideas and drawing conclusions from multiple and diverse texts, and presenting their work to the class"
+      ],
+      "assessment": "Ideas from multiple and diverse texts are synthesised correctly, and conclusions are drawn correctly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7-3",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.3 Construct meaning from a variety of texts",
+      "learning_activity": "(c) Write a single text from information and opinions derived from a variety of texts",
+      "activity_id": "engl-four-124",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through using the main ideas and key messages and summaries from the texts read to write one text"
+      ],
+      "assessment": "A single text from information and opinions derived from a variety of texts is written correctly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w8",
@@ -200,32 +385,78 @@
       "end_date": "2026-03-06",
       "main_competence": "2.0 Comprehend oral and written information",
       "specific_competence": "2.3 Construct meaning from a variety of texts",
+      "learning_activity": "(c) Write a single text from information and opinions derived from a variety of texts",
+      "activity_id": "engl-four-124",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through using the main ideas and key messages and summaries from the texts read to write one text"
+      ],
+      "assessment": "A single text from information and opinions derived from a variety of texts is written correctly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.3 Construct meaning from a variety of texts",
       "learning_activity": "(d) Make inferences about a variety of texts",
       "activity_id": "engl-four-125",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Group work : Guide the students in groups through finding the details of the texts, using such details and personal knowledge to make inferences and presenting their work to the class"
       ],
       "assessment": "Inferences about a variety of texts are made appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
     },
     {
-      "entry_id": "s1w9",
+      "entry_id": "s1w8-3",
       "semester": 1,
-      "week": 9,
+      "week": 8,
       "month": "March",
-      "start_date": "2026-03-09",
-      "end_date": "2026-03-13",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.3 Construct meaning from a variety of texts",
+      "learning_activity": "(e) Relate the core messages from multiple and diverse texts to real life experiences",
+      "activity_id": "engl-four-126",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Close reading: Guide the students through reading texts, discussing their contents, identifying core messages, relating such messages to their real-life experiences and presenting their work to the class"
+      ],
+      "assessment": "The core messages from multiple and diverse texts are related appropriately to real-life experiences",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8-4",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
       "main_competence": "3.0 Communicate effectively in different contexts",
       "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
       "learning_activity": "(a) Express feelings and emotions depicted/portrayed in various social contexts using appropriate phrases (e.g., I am saddened…, I am upset…, my condolences… I feel happy… hurray…)",
       "activity_id": "engl-four-127",
-      "periods": 5,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Pictures : Display pictures/ emojis representing different feelings for students to describe orally what they represent",
@@ -238,10 +469,63 @@
         "encyclopaedias",
         "relevant texts (e.g., books for English grammar)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(a) Express feelings and emotions depicted/portrayed in various social contexts using appropriate phrases (e.g., I am saddened…, I am upset…, my condolences… I feel happy… hurray…)",
+      "activity_id": "engl-four-127",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Pictures : Display pictures/ emojis representing different feelings for students to describe orally what they represent",
+        "Case study/Scenario : Provide the students with a case study/ scenario and ask them to express their feelings orally using appropriate phrases.",
+        "Dialogue: Guide the students through acting out a dialogue with appropriate phrases for expressing feelings and emotions."
+      ],
+      "assessment": "Feelings and emotions depicted/portrayed in various social contexts are expressed using appropriate phrases",
+      "resources": [
+        "Dictionaries",
+        "encyclopaedias",
+        "relevant texts (e.g., books for English grammar)"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(b) Deliver different kinds of planned and unplanned speeches (e.g., informative, persuasive speech) on different topics",
+      "activity_id": "engl-four-128",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Discussion: Guide the students through discussing different types of speeches and presenting their work to the class",
+        "Speech delivery : Guide the students through delivering planned and unplanned speeches"
+      ],
+      "assessment": "Different kinds of planned and unplanned speeches on different topics are delivered properly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w10",
@@ -252,9 +536,33 @@
       "end_date": "2026-03-20",
       "main_competence": "3.0 Communicate effectively in different contexts",
       "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(b) Deliver different kinds of planned and unplanned speeches (e.g., informative, persuasive speech) on different topics",
+      "activity_id": "engl-four-128",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Discussion: Guide the students through discussing different types of speeches and presenting their work to the class",
+        "Speech delivery : Guide the students through delivering planned and unplanned speeches"
+      ],
+      "assessment": "Different kinds of planned and unplanned speeches on different topics are delivered properly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
       "learning_activity": "(c) Negotiate solutions to various problems using appropriate formalaic language (e.g., Would you mind…, don’t you think…, is it possible…, if I were you…)",
       "activity_id": "engl-four-129",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Roleplay: Guide the students through roleplaying negotiations to various problems using appropriate formulaic language",
@@ -262,7 +570,7 @@
       ],
       "assessment": "Solutions to various problems are negotiated using appropriate formulaic language",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -290,7 +598,7 @@
         "encyclopaedia",
         "relevant texts"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -315,7 +623,7 @@
       ],
       "assessment": "Speeches on a variety of topics, including cross-cutting issues, are written properly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -331,7 +639,7 @@
       "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
       "learning_activity": "(c) Write Curriculum Vitae (CV) for different purposes",
       "activity_id": "engl-four-132",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Jigsaw: Guide the students through explaining the meaning, components and the importance of curriculum vitae using jigsaw",
@@ -340,10 +648,35 @@
       ],
       "assessment": "Curriculum Vitae (CV) for different purposes are written properly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+      "learning_activity": "(a) Analyse different functional texts in terms of purpose, content, organisation, format and design",
+      "activity_id": "engl-four-133",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Jigsaw : Guide the students through the jigsaw to analyse different functional texts read (in terms of purpose, content, organisation, format and design)"
+      ],
+      "assessment": "Different functional texts are analysed correctly in terms of purpose, content, organisation, format and design",
+      "resources": [
+        "Various kinds of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, menus)"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w14",
@@ -356,7 +689,7 @@
       "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
       "learning_activity": "(a) Analyse different functional texts in terms of purpose, content, organisation, format and design",
       "activity_id": "engl-four-133",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Jigsaw : Guide the students through the jigsaw to analyse different functional texts read (in terms of purpose, content, organisation, format and design)"
@@ -365,10 +698,33 @@
       "resources": [
         "Various kinds of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, menus)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+      "learning_activity": "(b) Read a variety of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, and menus)",
+      "activity_id": "engl-four-134",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Pair work: Provide the students in pairs with a variety of functional texts and guide them through reading the texts for comprehension"
+      ],
+      "assessment": "A variety of functional texts are read effectively",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w15",
@@ -379,16 +735,39 @@
       "end_date": "2026-05-15",
       "main_competence": "3.0 Communicate effectively in different contexts",
       "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+      "learning_activity": "(b) Read a variety of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, and menus)",
+      "activity_id": "engl-four-134",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Pair work: Provide the students in pairs with a variety of functional texts and guide them through reading the texts for comprehension"
+      ],
+      "assessment": "A variety of functional texts are read effectively",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
       "learning_activity": "(c) Comment on the usefulness of different functional texts",
       "activity_id": "engl-four-135",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Group work: Guide the students in groups through commenting on the usefulness of the functional texts read and presenting their work to the class"
       ],
       "assessment": "The usefulness of different functional texts is commented on appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -404,7 +783,7 @@
       "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
       "learning_activity": "(d) Compose functional texts to serve various purposes",
       "activity_id": "engl-four-136",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Modelling: Engage the students by showing them how to compose various functional texts",
@@ -412,23 +791,23 @@
       ],
       "assessment": "Functional texts are composed properly to serve various purposes",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
     },
     {
-      "entry_id": "s1w17",
+      "entry_id": "s1w16-2",
       "semester": 1,
-      "week": 17,
+      "week": 16,
       "month": "May",
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-29",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
       "main_competence": "4.0 Provide basic English language services to the community",
       "specific_competence": "4.1 Apply principles of editing and proofreading in a variety of texts",
       "learning_activity": "(a) Edit and proofread texts in a school context (e.g., school rules and regulations, essays/ compositions)",
       "activity_id": "engl-four-137",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Pair work: Guide the students in pairs through editing and proofreading short texts found in the school context and presenting their work to the class"
@@ -442,10 +821,63 @@
         "various essays/compositions",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.1 Apply principles of editing and proofreading in a variety of texts",
+      "learning_activity": "(a) Edit and proofread texts in a school context (e.g., school rules and regulations, essays/ compositions)",
+      "activity_id": "engl-four-137",
+      "periods": 4,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Pair work: Guide the students in pairs through editing and proofreading short texts found in the school context and presenting their work to the class"
+      ],
+      "assessment": "Texts found in the school context are edited and proofread appropriately",
+      "resources": [
+        "Relevant texts",
+        "school rules and regulations",
+        "fliers",
+        "user manuals",
+        "various essays/compositions",
+        "dictionaries"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.1 Apply principles of editing and proofreading in a variety of texts",
+      "learning_activity": "(b) Edit and proofread short texts in contexts outside the school (e.g. posters, flyers, user manuals)",
+      "activity_id": "engl-four-138",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Group work: Guide the students in groups through editing and proofreading short texts found outside the school context and presenting their work to the class"
+      ],
+      "assessment": "Texts found outside the school context are edited and proofread appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w18",
@@ -465,10 +897,10 @@
       ],
       "assessment": "Texts found outside the school context are edited and proofread appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w1",
@@ -492,7 +924,7 @@
         "oral texts",
         "audio and audio-visual materials (audio/video clips, recorded stories)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -515,7 +947,7 @@
       ],
       "assessment": "Messages in small formal settings are interpreted correctly (from English to Kiswahili and vice versa)",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -531,17 +963,43 @@
       "specific_competence": "4.2 Apply principles of interpretation to provide simple authentic interpretations",
       "learning_activity": "(c) Interpret messages in large formal settings (e.g., church, mosque and meetings) (from English to Kiswahili and vice versa).",
       "activity_id": "engl-four-141",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Simultaneous and consecutive interpretation: Guide the students in pairs through interpreting messages in informal contexts using simultaneous and consecutive interpretation"
       ],
       "assessment": "Messages in large formal settings are interpreted correctly (from English to Kiswahili and vice versa)",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+      "learning_activity": "(a) Translate texts in contexts outside the school (from English to Kiswahili and vice versa)",
+      "activity_id": "engl-four-142",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Collaborative and independent practice: Guide the students in groups and individually through translating texts found outside the school context using communicative translation"
+      ],
+      "assessment": "Texts found outside the school context are translated correctly (from English to Kiswahili and vice versa)",
+      "resources": [
+        "Dictionaries",
+        "a variety of texts"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w4",
@@ -554,7 +1012,7 @@
       "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
       "learning_activity": "(a) Translate texts in contexts outside the school (from English to Kiswahili and vice versa)",
       "activity_id": "engl-four-142",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Collaborative and independent practice: Guide the students in groups and individually through translating texts found outside the school context using communicative translation"
@@ -564,10 +1022,33 @@
         "Dictionaries",
         "a variety of texts"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+      "learning_activity": "(b) Translate a variety of short texts (e.g., advertisements and functional texts) (from English to Kiswahili and vice versa)",
+      "activity_id": "engl-four-143",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Collaborative and independent practice: Guide the students in groups and individually through translating a variety of short texts using communicative translation"
+      ],
+      "assessment": "A variety of short texts are translated correctly (from English to Kiswahili and vice versa)",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w5",
@@ -580,17 +1061,40 @@
       "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
       "learning_activity": "(b) Translate a variety of short texts (e.g., advertisements and functional texts) (from English to Kiswahili and vice versa)",
       "activity_id": "engl-four-143",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Collaborative and independent practice: Guide the students in groups and individually through translating a variety of short texts using communicative translation"
       ],
       "assessment": "A variety of short texts are translated correctly (from English to Kiswahili and vice versa)",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+      "learning_activity": "(c) Translate a variety of long texts (from English to Kiswahili and vice versa)",
+      "activity_id": "engl-four-144",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Collaborative and independent practice: Guide the students in pairs and individually through translating a variety of long texts using communicative translation"
+      ],
+      "assessment": "A variety of long texts are translated correctly (from English to Kiswahili and vice versa)",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w6",
@@ -603,17 +1107,43 @@
       "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
       "learning_activity": "(c) Translate a variety of long texts (from English to Kiswahili and vice versa)",
       "activity_id": "engl-four-144",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Collaborative and independent practice: Guide the students in pairs and individually through translating a variety of long texts using communicative translation"
       ],
       "assessment": "A variety of long texts are translated correctly (from English to Kiswahili and vice versa)",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
+      "learning_activity": "(a) Desribe the use of Computer-Assisted Tools in translating and editing",
+      "activity_id": "engl-four-145",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group work: Guide the students in groups through describing the use of Computer Assisted Tools in translating and editing"
+      ],
+      "assessment": "The use of Computer-Assisted Tools in translating and editing is described correctly",
+      "resources": [
+        "Dictionaries",
+        "a variety of texts"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w7",
@@ -626,7 +1156,7 @@
       "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
       "learning_activity": "(a) Desribe the use of Computer-Assisted Tools in translating and editing",
       "activity_id": "engl-four-145",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Group work: Guide the students in groups through describing the use of Computer Assisted Tools in translating and editing"
@@ -636,13 +1166,65 @@
         "Dictionaries",
         "a variety of texts"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
+      "learning_activity": "(b) Use Computer-Assisted Translation Tools to translate and edit short simple texts",
+      "activity_id": "engl-four-146",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Exploration : Guide the students through exploring the Computer- Assisted Tools used for translation and editing",
+        "Modelling/demonstration : Demonstrate to the students how to use Computer-Assisted Tools in translating and editing texts",
+        "Shared practice : Work with the students to translate and edit texts using Computer-Assisted Translation Tools",
+        "Collaborative and independent practice: Guide the students in groups and individually through translating and editing texts using Computer-Assisted Tools"
+      ],
+      "assessment": "Computer-Assisted Translation Tools are used appropriately to translate and edit short simple texts",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "4.0 Provide basic English language services to the community",
+      "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
+      "learning_activity": "(b) Use Computer-Assisted Translation Tools to translate and edit short simple texts",
+      "activity_id": "engl-four-146",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Exploration : Guide the students through exploring the Computer- Assisted Tools used for translation and editing",
+        "Modelling/demonstration : Demonstrate to the students how to use Computer-Assisted Tools in translating and editing texts",
+        "Shared practice : Work with the students to translate and edit texts using Computer-Assisted Translation Tools",
+        "Collaborative and independent practice: Guide the students in groups and individually through translating and editing texts using Computer-Assisted Tools"
+      ],
+      "assessment": "Computer-Assisted Translation Tools are used appropriately to translate and edit short simple texts",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8-2",
       "semester": 2,
       "week": 8,
       "month": "August",
@@ -652,7 +1234,7 @@
       "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
       "learning_activity": "(a) Assess the language used in a selected novella",
       "activity_id": "engl-four-147",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Brainstorming: Guide the students through brainstorming techniques for analysing language in texts",
@@ -663,10 +1245,10 @@
         "A variety of literary texts",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w9",
@@ -677,9 +1259,36 @@
       "end_date": "2026-09-25",
       "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+      "learning_activity": "(a) Assess the language used in a selected novella",
+      "activity_id": "engl-four-147",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students through brainstorming techniques for analysing language in texts",
+        "Close reading: Guide the students through assessing the language used in the novella read and presenting their work to the class"
+      ],
+      "assessment": "The language used in the selected novella is assessed appropriately",
+      "resources": [
+        "A variety of literary texts",
+        "dictionaries"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
       "learning_activity": "(b) Compare own values and perspectives with those implied in a selected novella",
       "activity_id": "engl-four-148",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "TIPS: Guide the students through identifying their own values and perspectives using TIPS",
@@ -687,10 +1296,33 @@
       ],
       "assessment": "Own values and perspectives are compared appropriately with those implied in the selected novella",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9-3",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+      "learning_activity": "(c) Dramatise episodes from a selected novella",
+      "activity_id": "engl-four-149",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Dramatisation: Guide the students in groups through dramatising episodes from the selected novella"
+      ],
+      "assessment": "Episodes from the selected novella are dramatised properly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w10",
@@ -700,10 +1332,33 @@
       "start_date": "2026-09-28",
       "end_date": "2026-10-02",
       "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+      "learning_activity": "(c) Dramatise episodes from a selected novella",
+      "activity_id": "engl-four-149",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Dramatisation: Guide the students in groups through dramatising episodes from the selected novella"
+      ],
+      "assessment": "Episodes from the selected novella are dramatised properly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
       "learning_activity": "(a) Examine the socio-political and cultural issues portrayed in a selected novella",
       "activity_id": "engl-four-150",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Brainstorming: Guide the students in groups through brainstorming ideas about socio-political and cultural issues and presenting their work to the class",
@@ -714,7 +1369,7 @@
         "A variety of literary texts",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -730,7 +1385,7 @@
       "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
       "learning_activity": "(a) Examine the socio-political and cultural issues portrayed in a selected novella",
       "activity_id": "engl-four-150",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Brainstorming: Guide the students in groups through brainstorming ideas about socio-political and cultural issues and presenting their work to the class",
@@ -741,7 +1396,7 @@
         "A variety of literary texts",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -757,17 +1412,17 @@
       "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
       "learning_activity": "(b) Relate the context of the story in a selected novella to real life experiences",
       "activity_id": "engl-four-151",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing the context of a story in the selected novella, relating it to real-life experiences and presenting their work to the class"
       ],
       "assessment": "The context of the story in the selected novella is related appropriately to real-life experiences",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w13",
@@ -777,10 +1432,33 @@
       "start_date": "2026-10-19",
       "end_date": "2026-10-23",
       "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
+      "learning_activity": "(b) Relate the context of the story in a selected novella to real life experiences",
+      "activity_id": "engl-four-151",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Discussion: Guide the students through discussing the context of a story in the selected novella, relating it to real-life experiences and presenting their work to the class"
+      ],
+      "assessment": "The context of the story in the selected novella is related appropriately to real-life experiences",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
       "learning_activity": "(a) Analyse techniques of critiquing literary texts based on their conventions",
       "activity_id": "engl-four-152",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Gallery walk: Guide the students through analysing and presenting techniques for critiquing literary texts using gallery walk"
@@ -790,10 +1468,10 @@
         "A variety of literary texts",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w14",
@@ -803,19 +1481,43 @@
       "start_date": "2026-10-26",
       "end_date": "2026-10-30",
       "main_competence": "5.0 Appreciate and create literary works",
-      "specific_competence": "5.4 Create simple literary works",
-      "learning_activity": "(a) Apply literary skills to compose short stories on various topics",
-      "activity_id": "engl-four-154",
-      "periods": 5,
-      "activity_total_periods": 9,
+      "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
+      "learning_activity": "(a) Analyse techniques of critiquing literary texts based on their conventions",
+      "activity_id": "engl-four-152",
+      "periods": 2,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming: Guide the students through brainstorming ideas on the skills required in composing short stories and presenting the work to the class",
-        "Collaborative and independent practice: Guide the students in groups and individually through composing short stories on various topics",
-        "Follow-up: Check the correctness of the stories(e.g., a series of events, coherence and language used)"
+        "Gallery walk: Guide the students through analysing and presenting techniques for critiquing literary texts using gallery walk"
       ],
-      "assessment": "Literary skills are applied appropriately to compose short stories on various topics",
+      "assessment": "Techniques for critiquing literary texts based on their conventions are analysed appropriately",
+      "resources": [
+        "A variety of literary texts",
+        "dictionaries"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
+      "learning_activity": "(b) Critique a selected novella based on form and content",
+      "activity_id": "engl-four-153",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group work: Guide the students in groups through critiquing the novella based on form and content and presenting the work to the class"
+      ],
+      "assessment": "The selected novella is critiqued appropriately based on form and content",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -828,10 +1530,33 @@
       "start_date": "2026-11-02",
       "end_date": "2026-11-06",
       "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
+      "learning_activity": "(b) Critique a selected novella based on form and content",
+      "activity_id": "engl-four-153",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group work: Guide the students in groups through critiquing the novella based on form and content and presenting the work to the class"
+      ],
+      "assessment": "The selected novella is critiqued appropriately based on form and content",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.4 Create simple literary works",
       "learning_activity": "(a) Apply literary skills to compose short stories on various topics",
       "activity_id": "engl-four-154",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Brainstorming: Guide the students through brainstorming ideas on the skills required in composing short stories and presenting the work to the class",
@@ -840,10 +1565,10 @@
       ],
       "assessment": "Literary skills are applied appropriately to compose short stories on various topics",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w16",
@@ -854,19 +1579,21 @@
       "end_date": "2026-11-13",
       "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.4 Create simple literary works",
-      "learning_activity": "(b) Publish the short stories on various platforms (e.g., note boards and online platforms)",
-      "activity_id": "engl-four-155",
-      "periods": 5,
+      "learning_activity": "(a) Apply literary skills to compose short stories on various topics",
+      "activity_id": "engl-four-154",
+      "periods": 4,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
-        "Project work : Guide the students through publishing the short stories they have created on various platforms (e.g., note boards and the Internet)"
+        "Brainstorming: Guide the students through brainstorming ideas on the skills required in composing short stories and presenting the work to the class",
+        "Collaborative and independent practice: Guide the students in groups and individually through composing short stories on various topics",
+        "Follow-up: Check the correctness of the stories(e.g., a series of events, coherence and language used)"
       ],
-      "assessment": "Short stories are published appropriately on various platforms",
+      "assessment": "Literary skills are applied appropriately to compose short stories on various topics",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w17",
@@ -877,19 +1604,90 @@
       "end_date": "2026-11-20",
       "main_competence": "5.0 Appreciate and create literary works",
       "specific_competence": "5.4 Create simple literary works",
+      "learning_activity": "(a) Apply literary skills to compose short stories on various topics",
+      "activity_id": "engl-four-154",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students through brainstorming ideas on the skills required in composing short stories and presenting the work to the class",
+        "Collaborative and independent practice: Guide the students in groups and individually through composing short stories on various topics",
+        "Follow-up: Check the correctness of the stories(e.g., a series of events, coherence and language used)"
+      ],
+      "assessment": "Literary skills are applied appropriately to compose short stories on various topics",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17-2",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.4 Create simple literary works",
       "learning_activity": "(b) Publish the short stories on various platforms (e.g., note boards and online platforms)",
       "activity_id": "engl-four-155",
-      "periods": 5,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Project work : Guide the students through publishing the short stories they have created on various platforms (e.g., note boards and the Internet)"
       ],
       "assessment": "Short stories are published appropriately on various platforms",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.4 Create simple literary works",
+      "learning_activity": "(b) Publish the short stories on various platforms (e.g., note boards and online platforms)",
+      "activity_id": "engl-four-155",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Project work : Guide the students through publishing the short stories they have created on various platforms (e.g., note boards and the Internet)"
+      ],
+      "assessment": "Short stories are published appropriately on various platforms",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "5.0 Appreciate and create literary works",
+      "specific_competence": "5.4 Create simple literary works",
+      "learning_activity": "(b) Publish the short stories on various platforms (e.g., note boards and online platforms)",
+      "activity_id": "engl-four-155",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Project work : Guide the students through publishing the short stories they have created on various platforms (e.g., note boards and the Internet)"
+      ],
+      "assessment": "Short stories are published appropriately on various platforms",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
     }
   ]
 }

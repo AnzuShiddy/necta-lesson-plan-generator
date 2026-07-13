@@ -237,6 +237,11 @@ def scheme_to_docx(sch: dict) -> bytes:
     sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
     sub.add_run(f"{sch['subject']} — {sch['form']}   "
                 f"(periods/week: {sch['periods_per_week']})").italic = True
+    ref = sch["entries"][0].get("references", "") if sch["entries"] else ""
+    if ref:
+        rp = d.add_paragraph()
+        rp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        rp.add_run(f"Reference: {ref}")
 
     cols = ["Month", "Week", "Main competence", "Sub-topic (learning activity)",
             "Teaching & learning activities", "Assessment", "Periods", "Remarks"]
@@ -277,6 +282,9 @@ def scheme_to_pdf(sch: dict) -> bytes:
                   styles["Italic"]),
         Spacer(1, 6),
     ]
+    ref = sch["entries"][0].get("references", "") if sch["entries"] else ""
+    if ref:
+        story += [Paragraph(f"Reference: {ref}", styles["Normal"]), Spacer(1, 6)]
     header = ["Month", "Wk", "Main competence", "Sub-topic", "Teaching & learning",
               "Assessment", "Prd"]
     data = [[Paragraph(h, cell_b) for h in header]]

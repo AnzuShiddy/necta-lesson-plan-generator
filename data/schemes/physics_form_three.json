@@ -17,7 +17,7 @@
       "specific_competence": "(b) Describe the concept and principles of equilibrium (moment of force, centre of gravity and types of equilibrium)",
       "learning_activity": "Group discussion: Facilitate students through manageable groups to discuss the concept and principles of equilibrium Practical Work: Facilitate the students through hands-on activities to explore the concept and principles of equilibrium",
       "activity_id": "phys-three-1",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Group discussion",
@@ -28,23 +28,51 @@
         "Text books",
         "other relevant materials and knife edge"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
     },
     {
-      "entry_id": "s1w2",
+      "entry_id": "s1w1-2",
       "semester": 1,
-      "week": 2,
+      "week": 1,
       "month": "January",
-      "start_date": "2026-01-19",
-      "end_date": "2026-01-23",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(c) Explain the concept and laws of friction (types of friction, laws of friction)",
+      "learning_activity": "Practical work: Provide students with hands-on activities that allow them to explore the concepts and laws of friction Interactive simulations: Guide students through PhET interactive simulations to demonstrate the concept and the laws of friction",
+      "activity_id": "phys-three-2",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Practical work",
+        "Interactive simulations"
+      ],
+      "assessment": "Concepts and laws of friction are explained clearly",
+      "resources": [
+        "Wooden block",
+        "rough surface",
+        "spring balance and standard masses"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-3",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
       "main_competence": "1.3 Use mathematics to explain physical principles and phenomena",
       "specific_competence": "(d) Explain the principles of simple machines (lever, pulley, inclined plane, screw jack, wheel and axle, hydraulic press)",
       "learning_activity": "Brainstorming: Guide students to brainstorm on different types of simple machines available in their environment Group discussion: Guide students through manageable groups, to discuss the principles of simple machines Practical Work: Provide students with hands-on activities to explore the principles of simple machines",
       "activity_id": "phys-three-3",
-      "periods": 4,
+      "periods": 1,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Brainstorming",
@@ -58,10 +86,68 @@
         "wheel barrow",
         "Spade and bottle opener"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(d) Explain the principles of simple machines (lever, pulley, inclined plane, screw jack, wheel and axle, hydraulic press)",
+      "learning_activity": "Brainstorming: Guide students to brainstorm on different types of simple machines available in their environment Group discussion: Guide students through manageable groups, to discuss the principles of simple machines Practical Work: Provide students with hands-on activities to explore the principles of simple machines",
+      "activity_id": "phys-three-3",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming",
+        "Group discussion",
+        "Practical Work"
+      ],
+      "assessment": "Concepts and principles of simple machines are explained correctly",
+      "resources": [
+        "Pulleys",
+        "pair of scissors",
+        "wheel barrow",
+        "Spade and bottle opener"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(a) Apply mathematical knowledge to describe various principles and physical phenomena related to waves, Newton’s laws of motion, equilibrium, friction and simple machines)",
+      "learning_activity": "Think-ink-pair-share: Facilitate Students through think-ink pair share strategy to apply mathematical knowledge to describe various principles and physical phenomena related to Newton’s laws of motion, equilibrium, friction force, simple machines",
+      "activity_id": "phys-three-4",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share"
+      ],
+      "assessment": "Mathematical knowledge to describe various principles and physical phenomena are correctly applied",
+      "resources": [
+        "Meter rule",
+        "stop watch",
+        "spring balance",
+        "wooden bar and knife edge"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w3",
@@ -74,7 +160,7 @@
       "specific_competence": "(a) Apply mathematical knowledge to describe various principles and physical phenomena related to waves, Newton’s laws of motion, equilibrium, friction and simple machines)",
       "learning_activity": "Think-ink-pair-share: Facilitate Students through think-ink pair share strategy to apply mathematical knowledge to describe various principles and physical phenomena related to Newton’s laws of motion, equilibrium, friction force, simple machines",
       "activity_id": "phys-three-4",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Think-ink-pair-share"
@@ -86,10 +172,10 @@
         "spring balance",
         "wooden bar and knife edge"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w4",
@@ -102,7 +188,7 @@
       "specific_competence": "(a) Apply mathematical knowledge to describe various principles and physical phenomena related to waves, Newton’s laws of motion, equilibrium, friction and simple machines)",
       "learning_activity": "Think-ink-pair-share: Facilitate Students through think-ink pair share strategy to apply mathematical knowledge to describe various principles and physical phenomena related to Newton’s laws of motion, equilibrium, friction force, simple machines",
       "activity_id": "phys-three-4",
-      "periods": 4,
+      "periods": 1,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Think-ink-pair-share"
@@ -114,10 +200,36 @@
         "spring balance",
         "wooden bar and knife edge"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "(a) Describe types of experimental variables in physics related to motion",
+      "learning_activity": "Cooperative learning: Facilitate students to work in groups to describe types of experimental variables in Physics",
+      "activity_id": "phys-three-5",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Cooperative learning"
+      ],
+      "assessment": "Experimental variables are described clearly",
+      "resources": [
+        "Physics Textbook",
+        "Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w5",
@@ -130,7 +242,7 @@
       "specific_competence": "(a) Describe types of experimental variables in physics related to motion",
       "learning_activity": "Cooperative learning: Facilitate students to work in groups to describe types of experimental variables in Physics",
       "activity_id": "phys-three-5",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Cooperative learning"
@@ -140,10 +252,10 @@
         "Physics Textbook",
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w6",
@@ -156,7 +268,7 @@
       "specific_competence": "(a) Describe types of experimental variables in physics related to motion",
       "learning_activity": "Cooperative learning: Facilitate students to work in groups to describe types of experimental variables in Physics",
       "activity_id": "phys-three-5",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Cooperative learning"
@@ -166,10 +278,10 @@
         "Physics Textbook",
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w7",
@@ -179,23 +291,47 @@
       "start_date": "2026-02-23",
       "end_date": "2026-02-27",
       "main_competence": "2.0 Conduct experiments in Physics",
-      "specific_competence": "(a) Describe types of experimental variables in physics related to motion",
-      "learning_activity": "Cooperative learning: Facilitate students to work in groups to describe types of experimental variables in Physics",
-      "activity_id": "phys-three-5",
-      "periods": 4,
-      "activity_total_periods": 14,
+      "specific_competence": "(b) Carry out scientific investigations related to waves, laws of motion, equilibrium, friction and simple machines",
+      "learning_activity": "ICT based approach: Guide students in using multimedia resources such as videos, animations, and interactive simulations to carry out scientific investigations related to waves, laws of motion, equilibrium, friction and simple machines",
+      "activity_id": "phys-three-6",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Cooperative learning"
+        "ICT based approach"
       ],
-      "assessment": "Experimental variables are described clearly",
+      "assessment": "Scientific investigations related to waves, laws of motion, equilibrium, friction and simple machines are carried out",
       "resources": [
-        "Physics Textbook",
-        "Online resources"
+        "Text books and charts"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
+      "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
+      "activity_id": "phys-three-7",
+      "periods": 3,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "ICT based learning"
+      ],
+      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
+      "resources": [
+        "Charts and online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w8",
@@ -204,24 +340,23 @@
       "month": "March",
       "start_date": "2026-03-02",
       "end_date": "2026-03-06",
-      "main_competence": "2.0 Conduct experiments in Physics",
-      "specific_competence": "(a) Describe types of experimental variables in physics related to motion",
-      "learning_activity": "Cooperative learning: Facilitate students to work in groups to describe types of experimental variables in Physics",
-      "activity_id": "phys-three-5",
-      "periods": 4,
-      "activity_total_periods": 14,
+      "main_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
+      "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
+      "activity_id": "phys-three-7",
+      "periods": 5,
+      "activity_total_periods": 40,
       "teaching_learning_activities": [
-        "Cooperative learning"
+        "ICT based learning"
       ],
-      "assessment": "Experimental variables are described clearly",
+      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
       "resources": [
-        "Physics Textbook",
-        "Online resources"
+        "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w9",
@@ -234,7 +369,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -243,10 +378,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 10
+      "topic_week": 3,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w10",
@@ -259,7 +394,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -268,10 +403,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 10
+      "topic_week": 4,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w11",
@@ -284,7 +419,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -293,10 +428,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 10
+      "topic_week": 5,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w12",
@@ -309,7 +444,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -318,10 +453,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 10
+      "topic_week": 6,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w13",
@@ -334,7 +469,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -343,10 +478,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 10
+      "topic_week": 7,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w14",
@@ -359,7 +494,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 5,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -368,10 +503,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 10
+      "topic_week": 8,
+      "topic_weeks": 9
     },
     {
       "entry_id": "s1w15",
@@ -384,7 +519,7 @@
       "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
       "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
       "activity_id": "phys-three-7",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 40,
       "teaching_learning_activities": [
         "ICT based learning"
@@ -393,10 +528,36 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 10
+      "topic_week": 9,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
+      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
+      "activity_id": "phys-three-8",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Collaborative learning",
+        "Multimedia approach"
+      ],
+      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
+      "resources": [
+        "Online resources and other relevant materials"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s1w16",
@@ -405,23 +566,24 @@
       "month": "May",
       "start_date": "2026-05-18",
       "end_date": "2026-05-22",
-      "main_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
-      "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
-      "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
-      "activity_id": "phys-three-7",
-      "periods": 4,
-      "activity_total_periods": 40,
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
+      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
+      "activity_id": "phys-three-8",
+      "periods": 5,
+      "activity_total_periods": 30,
       "teaching_learning_activities": [
-        "ICT based learning"
+        "Collaborative learning",
+        "Multimedia approach"
       ],
-      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
+      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
       "resources": [
-        "Charts and online resources"
+        "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 10
+      "topic_week": 2,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s1w17",
@@ -430,23 +592,24 @@
       "month": "May",
       "start_date": "2026-05-25",
       "end_date": "2026-05-29",
-      "main_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
-      "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
-      "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
-      "activity_id": "phys-three-7",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
+      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
+      "activity_id": "phys-three-8",
       "periods": 4,
-      "activity_total_periods": 40,
+      "activity_total_periods": 30,
       "teaching_learning_activities": [
-        "ICT based learning"
+        "Collaborative learning",
+        "Multimedia approach"
       ],
-      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
+      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
       "resources": [
-        "Charts and online resources"
+        "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 10
+      "topic_week": 3,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s1w18",
@@ -455,23 +618,24 @@
       "month": "June",
       "start_date": "2026-06-01",
       "end_date": "2026-06-05",
-      "main_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
-      "specific_competence": "(a) Use scientific report to communicate experimental results in Physics",
-      "learning_activity": "ICT based learning: Guide students the proper use of online resources in presenting the scientific investigation report",
-      "activity_id": "phys-three-7",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
+      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
+      "activity_id": "phys-three-8",
       "periods": 4,
-      "activity_total_periods": 40,
+      "activity_total_periods": 30,
       "teaching_learning_activities": [
-        "ICT based learning"
+        "Collaborative learning",
+        "Multimedia approach"
       ],
-      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
+      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
       "resources": [
-        "Charts and online resources"
+        "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 10
+      "topic_week": 4,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w1",
@@ -494,10 +658,10 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 7
+      "topic_week": 5,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w2",
@@ -520,10 +684,10 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 7
+      "topic_week": 6,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w3",
@@ -546,10 +710,10 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 7
+      "topic_week": 7,
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w4",
@@ -562,7 +726,7 @@
       "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
       "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
       "activity_id": "phys-three-8",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 30,
       "teaching_learning_activities": [
         "Collaborative learning",
@@ -572,101 +736,23 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 7
+      "topic_week": 8,
+      "topic_weeks": 8
     },
     {
-      "entry_id": "s2w5",
+      "entry_id": "s2w4-2",
       "semester": 2,
-      "week": 5,
-      "month": "August",
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-07",
-      "main_competence": "3.0 Evaluate and use information in Physics",
-      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
-      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
-      "activity_id": "phys-three-8",
-      "periods": 4,
-      "activity_total_periods": 30,
-      "teaching_learning_activities": [
-        "Collaborative learning",
-        "Multimedia approach"
-      ],
-      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
-      "resources": [
-        "Online resources and other relevant materials"
-      ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w6",
-      "semester": 2,
-      "week": 6,
-      "month": "August",
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-14",
-      "main_competence": "3.0 Evaluate and use information in Physics",
-      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
-      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
-      "activity_id": "phys-three-8",
-      "periods": 4,
-      "activity_total_periods": 30,
-      "teaching_learning_activities": [
-        "Collaborative learning",
-        "Multimedia approach"
-      ],
-      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
-      "resources": [
-        "Online resources and other relevant materials"
-      ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w7",
-      "semester": 2,
-      "week": 7,
-      "month": "August",
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-21",
-      "main_competence": "3.0 Evaluate and use information in Physics",
-      "specific_competence": "(a) Collect and analyse data to explain various physical parameters (Waves, Newton’ s laws of motion, equilibrium, friction and simple machines)",
-      "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyse and interpret collected physics data Multimedia approach: Guide students in utilizing technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
-      "activity_id": "phys-three-8",
-      "periods": 4,
-      "activity_total_periods": 30,
-      "teaching_learning_activities": [
-        "Collaborative learning",
-        "Multimedia approach"
-      ],
-      "assessment": "Collected physical data are correctly analysed to explain various physical parameters",
-      "resources": [
-        "Online resources and other relevant materials"
-      ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w8",
-      "semester": 2,
-      "week": 8,
-      "month": "August",
-      "start_date": "2026-08-24",
-      "end_date": "2026-08-28",
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
       "main_competence": "3.0 Evaluate and use information in Physics",
       "specific_competence": "(b) Collect and analyse data to explain experimental observations related to Newton’s laws of motion, equilibrium, friction and simple machines",
       "learning_activity": "Collaborative learning: Guide students to work in pairs or small groups to analyze collected physics data ICT based learning: Guide students through the use of technology such as computer software, online tools, and simulations to analyze collected data explaining various physical quantities",
       "activity_id": "phys-three-9",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Collaborative learning",
@@ -677,10 +763,118 @@
         "Online resources and other relevant materials",
         "stop watch and trolley model"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.2 Carry out a project in Physics",
+      "specific_competence": "(a) Develop and carry out a research project in Physics",
+      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
+      "activity_id": "phys-three-10",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Digital interactive simulation",
+        "Experimentation"
+      ],
+      "assessment": "A research project in Physics is developed and carried out correctly",
+      "resources": [
+        "Online resources and other relevant materials"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.2 Carry out a project in Physics",
+      "specific_competence": "(a) Develop and carry out a research project in Physics",
+      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
+      "activity_id": "phys-three-10",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Digital interactive simulation",
+        "Experimentation"
+      ],
+      "assessment": "A research project in Physics is developed and carried out correctly",
+      "resources": [
+        "Online resources and other relevant materials"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.2 Carry out a project in Physics",
+      "specific_competence": "(a) Develop and carry out a research project in Physics",
+      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
+      "activity_id": "phys-three-10",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Digital interactive simulation",
+        "Experimentation"
+      ],
+      "assessment": "A research project in Physics is developed and carried out correctly",
+      "resources": [
+        "Online resources and other relevant materials"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.2 Carry out a project in Physics",
+      "specific_competence": "(a) Develop and carry out a research project in Physics",
+      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
+      "activity_id": "phys-three-10",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Digital interactive simulation",
+        "Experimentation"
+      ],
+      "assessment": "A research project in Physics is developed and carried out correctly",
+      "resources": [
+        "Online resources and other relevant materials"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w9",
@@ -704,9 +898,9 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
+      "topic_week": 5,
       "topic_weeks": 5
     },
     {
@@ -716,25 +910,30 @@
       "month": "September",
       "start_date": "2026-09-28",
       "end_date": "2026-10-02",
-      "main_competence": "3.2 Carry out a project in Physics",
-      "specific_competence": "(a) Develop and carry out a research project in Physics",
-      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
-      "activity_id": "phys-three-10",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "(a) Explore the basic tenets of heat (measurement of temperature, thermal expansion, thermal energy, transfer of thermal energy, measurement of thermal energy, vapour and humidity in relation to air temperature )",
+      "learning_activity": "Brainstorming: Guide students to brainstorm on the concept of heat Experimentation: Guide students in manageable groups to investigate melting and boiling point of different liquids Demostrations: Guide students to show the expansion of solid and transfer of heat ICT based learning: Guide students to use of interactive simulations on the concept of heat",
+      "activity_id": "phys-three-11",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 40,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Digital interactive simulation",
-        "Experimentation"
+        "Brainstorming",
+        "Experimentation",
+        "Demostrations",
+        "ICT based learning"
       ],
-      "assessment": "A research project in Physics is developed and carried out correctly",
+      "assessment": "Concepts of heat are explored appropriately",
       "resources": [
-        "Online resources and other relevant materials"
+        "Thermometer",
+        "calorimeter",
+        "ball and ring",
+        "heat source",
+        "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 5
+      "topic_week": 1,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w11",
@@ -743,25 +942,30 @@
       "month": "October",
       "start_date": "2026-10-05",
       "end_date": "2026-10-09",
-      "main_competence": "3.2 Carry out a project in Physics",
-      "specific_competence": "(a) Develop and carry out a research project in Physics",
-      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
-      "activity_id": "phys-three-10",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "(a) Explore the basic tenets of heat (measurement of temperature, thermal expansion, thermal energy, transfer of thermal energy, measurement of thermal energy, vapour and humidity in relation to air temperature )",
+      "learning_activity": "Brainstorming: Guide students to brainstorm on the concept of heat Experimentation: Guide students in manageable groups to investigate melting and boiling point of different liquids Demostrations: Guide students to show the expansion of solid and transfer of heat ICT based learning: Guide students to use of interactive simulations on the concept of heat",
+      "activity_id": "phys-three-11",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 40,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Digital interactive simulation",
-        "Experimentation"
+        "Brainstorming",
+        "Experimentation",
+        "Demostrations",
+        "ICT based learning"
       ],
-      "assessment": "A research project in Physics is developed and carried out correctly",
+      "assessment": "Concepts of heat are explored appropriately",
       "resources": [
-        "Online resources and other relevant materials"
+        "Thermometer",
+        "calorimeter",
+        "ball and ring",
+        "heat source",
+        "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 5
+      "topic_week": 2,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w12",
@@ -770,25 +974,30 @@
       "month": "October",
       "start_date": "2026-10-12",
       "end_date": "2026-10-16",
-      "main_competence": "3.2 Carry out a project in Physics",
-      "specific_competence": "(a) Develop and carry out a research project in Physics",
-      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
-      "activity_id": "phys-three-10",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "(a) Explore the basic tenets of heat (measurement of temperature, thermal expansion, thermal energy, transfer of thermal energy, measurement of thermal energy, vapour and humidity in relation to air temperature )",
+      "learning_activity": "Brainstorming: Guide students to brainstorm on the concept of heat Experimentation: Guide students in manageable groups to investigate melting and boiling point of different liquids Demostrations: Guide students to show the expansion of solid and transfer of heat ICT based learning: Guide students to use of interactive simulations on the concept of heat",
+      "activity_id": "phys-three-11",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 40,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Digital interactive simulation",
-        "Experimentation"
+        "Brainstorming",
+        "Experimentation",
+        "Demostrations",
+        "ICT based learning"
       ],
-      "assessment": "A research project in Physics is developed and carried out correctly",
+      "assessment": "Concepts of heat are explored appropriately",
       "resources": [
-        "Online resources and other relevant materials"
+        "Thermometer",
+        "calorimeter",
+        "ball and ring",
+        "heat source",
+        "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 5
+      "topic_week": 3,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w13",
@@ -797,25 +1006,30 @@
       "month": "October",
       "start_date": "2026-10-19",
       "end_date": "2026-10-23",
-      "main_competence": "3.2 Carry out a project in Physics",
-      "specific_competence": "(a) Develop and carry out a research project in Physics",
-      "learning_activity": "Group discussion: Guide students through manageable groups to discuss various procedure for carrying out a project Digital interactive simulation: Facilitate students to use virtual labs to analyse the collected data Experimentation: Guide the students using real lab instruments to perform scientific investigations",
-      "activity_id": "phys-three-10",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "(a) Explore the basic tenets of heat (measurement of temperature, thermal expansion, thermal energy, transfer of thermal energy, measurement of thermal energy, vapour and humidity in relation to air temperature )",
+      "learning_activity": "Brainstorming: Guide students to brainstorm on the concept of heat Experimentation: Guide students in manageable groups to investigate melting and boiling point of different liquids Demostrations: Guide students to show the expansion of solid and transfer of heat ICT based learning: Guide students to use of interactive simulations on the concept of heat",
+      "activity_id": "phys-three-11",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 40,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Digital interactive simulation",
-        "Experimentation"
+        "Brainstorming",
+        "Experimentation",
+        "Demostrations",
+        "ICT based learning"
       ],
-      "assessment": "A research project in Physics is developed and carried out correctly",
+      "assessment": "Concepts of heat are explored appropriately",
       "resources": [
-        "Online resources and other relevant materials"
+        "Thermometer",
+        "calorimeter",
+        "ball and ring",
+        "heat source",
+        "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 5
+      "topic_week": 4,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w14",
@@ -844,10 +1058,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 6
+      "topic_week": 5,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w15",
@@ -876,10 +1090,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 6
+      "topic_week": 6,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w16",
@@ -908,10 +1122,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 6
+      "topic_week": 7,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w17",
@@ -940,10 +1154,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 6
+      "topic_week": 8,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w18",
@@ -972,10 +1186,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 6
+      "topic_week": 9,
+      "topic_weeks": 10
     },
     {
       "entry_id": "s2w19",
@@ -1004,10 +1218,10 @@
         "heat source",
         "metal rods and hygrometer"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 6
+      "topic_week": 10,
+      "topic_weeks": 10
     }
   ]
 }

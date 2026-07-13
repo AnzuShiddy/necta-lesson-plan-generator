@@ -133,7 +133,7 @@ async function loadScheme(){
   $('pickInfo').textContent = 'No week selected yet.';
   const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value))).json();
   $('schemeMeta').textContent = s.entries.length
-    ? `${s.subject} ${s.form} · ${s.entries.length} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
+    ? `${s.subject} ${s.form} · ${s.teaching_weeks} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
     : 'No scheme available for this subject/form.';
   $('schemeBody').innerHTML = s.entries.map(e=>{
     const cont = e.topic_weeks>1 ? ` <span class="muted">(wk ${e.topic_week}/${e.topic_weeks})</span>` : '';

@@ -17,7 +17,7 @@
       "specific_competence": "(b) Describe the concept of electronic arrangements",
       "learning_activity": "",
       "activity_id": "chem-two-11",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Technological-based learning: Guide students to watch visual aids for simulations and animations, showing the arrangements of electrons in atoms of elements in their shells and write a report",
@@ -27,7 +27,32 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating energy shell diagram, and locally available materials for designing electronic models"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(c) Use the concept of atomic structure to determine the atomic and mass numbers of an element",
+      "learning_activity": "",
+      "activity_id": "chem-two-12",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to calculate the atomic number and mass number of an element for the given compound"
+      ],
+      "assessment": "Atomic numbers and mass numbers of elements are correctly determined",
+      "resources": [
+        "Models, charts and pictures showing the atomic number of elements, and wall charts showing the number of protons and neutrons of elements"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -43,7 +68,7 @@
       "specific_competence": "(d) Explain the concept of chemical formulae and nomenclature (valence, oxidation state, radicals and naming of binary inorganic compounds using the IUP AC system)",
       "learning_activity": "",
       "activity_id": "chem-two-13",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Inquiry-based learning: Assign students to collect commonly used substances and give their common names and identify their constituent elements",
@@ -54,7 +79,33 @@
       "resources": [
         "Valence cards, modern periodic table, wall charts showing oxidation states and common radicals, and labelled bottles containing different laboratory chemicals"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(e) Determine empirical and molecular formulae of common compounds",
+      "learning_activity": "",
+      "activity_id": "chem-two-14",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to determine percentage compositions of each element and in a compound",
+        "Problem solving: Guide students to apply steps for calculating empirical formulae and molecular formulae of different compounds"
+      ],
+      "assessment": "Empirical formulae and molecular formulae of different compounds are correctly determined",
+      "resources": [
+        "Model depicting empirical formulae and molecular formulae, wall charts showing molecular fomulae and modern periodic table"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -67,20 +118,47 @@
       "start_date": "2026-01-26",
       "end_date": "2026-01-30",
       "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(e) Determine empirical and molecular formulae of common compounds",
+      "specific_competence": "(f) Describe the concept of chemical bonding (covalent and electrovalent bonding)",
       "learning_activity": "",
-      "activity_id": "chem-two-14",
-      "periods": 3,
+      "activity_id": "chem-two-15",
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to determine percentage compositions of each element and in a compound",
-        "Problem solving: Guide students to apply steps for calculating empirical formulae and molecular formulae of different compounds"
+        "Outdoor activity: Guide students to reflect on real-environment about bonding such as building blocks erecting a walls and relate with the concepts of bonding",
+        "Technological-based learning: Use software such as ChemDraw to demonstrate the process of bonding"
       ],
-      "assessment": "Empirical formulae and molecular formulae of different compounds are correctly determined",
+      "assessment": "The concept of chemical bonding is clearly described",
       "resources": [
-        "Model depicting empirical formulae and molecular formulae, wall charts showing molecular fomulae and modern periodic table"
+        "Selected organic and inorganic structures, Computers installed with Chemistry software"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(g) Describe the concept of chemical reactions (chemical equations, balancing chemical equations, and types of chemical reactions)",
+      "learning_activity": "",
+      "activity_id": "chem-two-16",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to write simple word equations and chemical equations with symbols",
+        "Think-ink-pair-share: Guide students in pairs to identify types of chemical reactions, balance chemical equations, interpret word equations into chemical equations",
+        "Experimentation: Guide students to perform an experiment to verify the law of conservation of matter and write the report"
+      ],
+      "assessment": "The concept of chemical reactions is clearly described",
+      "resources": [
+        "Kerosene, candles, KOH/NaOH, HCl, glycerine, selected apparatus and equipment"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -93,21 +171,46 @@
       "start_date": "2026-02-02",
       "end_date": "2026-02-06",
       "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(g) Describe the concept of chemical reactions (chemical equations, balancing chemical equations, and types of chemical reactions)",
+      "specific_competence": "(h) Relate the types of chemical reactions with common processes in daily life such as burning of fuel and digestion in living organisms",
       "learning_activity": "",
-      "activity_id": "chem-two-16",
-      "periods": 3,
+      "activity_id": "chem-two-17",
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to write simple word equations and chemical equations with symbols",
-        "Think-ink-pair-share: Guide students in pairs to identify types of chemical reactions, balance chemical equations, interpret word equations into chemical equations",
-        "Experimentation: Guide students to perform an experiment to verify the law of conservation of matter and write the report"
+        "Project works: Task students to carry-out project to examine applications of chemical reactions in the burning of fuel and digestion in living organisms"
       ],
-      "assessment": "The concept of chemical reactions is clearly described",
+      "assessment": "The types of chemical reactions are clearly related with common processes in daily life",
       "resources": [
-        "Kerosene, candles, KOH/NaOH, HCl, glycerine, selected apparatus and equipment"
+        "Laboratory note book, heat source and fuel such as charcoal"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(i) Describe acids, bases and salts (reactions of acids and bases with various substances) and their applications in daily life",
+      "learning_activity": "",
+      "activity_id": "chem-two-18",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students to analyse various substances with acidic and basic properties commonly found in their environment and describe the concepts of acids, bases and salts",
+        "Group discussion: Guide students in manageable groups to describe the reactions of acids and bases",
+        "Field trips: Guide students to visit nearby food and beverages processing industries to examine the applications of acids, bases and salts"
+      ],
+      "assessment": "The concepts of acids, bases and salts are clearly described",
+      "resources": [
+        "Citrus fruits, vinegar, sour milk, apples, wood ash, tooth paste, baking powder, mineral acids, hydroxides and indicators"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -120,22 +223,22 @@
       "start_date": "2026-02-09",
       "end_date": "2026-02-13",
       "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(h) Relate the types of chemical reactions with common processes in daily life such as burning of fuel and digestion in living organisms",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
       "learning_activity": "",
-      "activity_id": "chem-two-17",
-      "periods": 3,
-      "activity_total_periods": 2,
+      "activity_id": "chem-two-19",
+      "periods": 4,
+      "activity_total_periods": 18,
       "teaching_learning_activities": [
-        "Project works: Task students to carry-out project to examine applications of chemical reactions in the burning of fuel and digestion in living organisms"
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
       ],
-      "assessment": "The types of chemical reactions are clearly related with common processes in daily life",
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
       "resources": [
-        "Laboratory note book, heat source and fuel such as charcoal"
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w6",
@@ -157,9 +260,9 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
+      "topic_week": 2,
       "topic_weeks": 6
     },
     {
@@ -182,9 +285,9 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
+      "topic_week": 3,
       "topic_weeks": 6
     },
     {
@@ -207,9 +310,9 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
+      "topic_week": 4,
       "topic_weeks": 6
     },
     {
@@ -232,9 +335,9 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
+      "topic_week": 5,
       "topic_weeks": 6
     },
     {
@@ -248,7 +351,7 @@
       "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
       "learning_activity": "",
       "activity_id": "chem-two-19",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 18,
       "teaching_learning_activities": [
         "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
@@ -257,10 +360,35 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
+      "topic_week": 6,
       "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Use the electronic configuration of an element to locate their positions in the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-20",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discusion: Guide students in manageable groups to apply the periodic law in locating elements in the periodic table"
+      ],
+      "assessment": "The electronic configurations of elements are correctly used to locate the positions of elements in the periodic table",
+      "resources": [
+        "Wall charts of modern periodic table showing electronic configuration of some elements"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w11",
@@ -270,22 +398,47 @@
       "start_date": "2026-04-13",
       "end_date": "2026-04-17",
       "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "specific_competence": "(b) Use the electronic configuration of an element to locate their positions in the periodic table",
       "learning_activity": "",
-      "activity_id": "chem-two-19",
-      "periods": 3,
+      "activity_id": "chem-two-20",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discusion: Guide students in manageable groups to apply the periodic law in locating elements in the periodic table"
+      ],
+      "assessment": "The electronic configurations of elements are correctly used to locate the positions of elements in the periodic table",
+      "resources": [
+        "Wall charts of modern periodic table showing electronic configuration of some elements"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 2,
       "activity_total_periods": 18,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
       ],
-      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
       "resources": [
-        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 6
+      "topic_week": 1,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w12",
@@ -295,22 +448,22 @@
       "start_date": "2026-04-20",
       "end_date": "2026-04-24",
       "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(b) Use the electronic configuration of an element to locate their positions in the periodic table",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
       "learning_activity": "",
-      "activity_id": "chem-two-20",
+      "activity_id": "chem-two-21",
       "periods": 3,
-      "activity_total_periods": 2,
+      "activity_total_periods": 18,
       "teaching_learning_activities": [
-        "Group discusion: Guide students in manageable groups to apply the periodic law in locating elements in the periodic table"
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
       ],
-      "assessment": "The electronic configurations of elements are correctly used to locate the positions of elements in the periodic table",
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
       "resources": [
-        "Wall charts of modern periodic table showing electronic configuration of some elements"
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w13",
@@ -332,10 +485,10 @@
       "resources": [
         "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 6
+      "topic_week": 3,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w14",
@@ -357,10 +510,10 @@
       "resources": [
         "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 6
+      "topic_week": 4,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w15",
@@ -382,10 +535,10 @@
       "resources": [
         "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 6
+      "topic_week": 5,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w16",
@@ -407,10 +560,10 @@
       "resources": [
         "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 6
+      "topic_week": 6,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s1w17",
@@ -423,7 +576,7 @@
       "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
       "learning_activity": "",
       "activity_id": "chem-two-21",
-      "periods": 3,
+      "periods": 1,
       "activity_total_periods": 18,
       "teaching_learning_activities": [
         "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
@@ -432,48 +585,23 @@
       "resources": [
         "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 6
+      "topic_week": 7,
+      "topic_weeks": 7
     },
     {
-      "entry_id": "s1w18",
+      "entry_id": "s1w17-2",
       "semester": 1,
-      "week": 18,
-      "month": "June",
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-05",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
-      "learning_activity": "",
-      "activity_id": "chem-two-21",
-      "periods": 3,
-      "activity_total_periods": 18,
-      "teaching_learning_activities": [
-        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
-      ],
-      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
-      "resources": [
-        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
-      ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 6
-    },
-    {
-      "entry_id": "s2w1",
-      "semester": 2,
-      "week": 1,
-      "month": "July",
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-10",
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
       "main_competence": "2.0 Conduct experiments in Chemistry",
       "specific_competence": "(b) Use the prepared indicators to test acidity and alkalinity of substances found in the locality",
       "learning_activity": "",
       "activity_id": "chem-two-22",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Experimentation: Guide students to perform experiments using locally made indicators to test acidity and alkalinity of subtances found in the locality"
@@ -482,10 +610,62 @@
       "resources": [
         "Locally prepared indicator, POP indicator, MO indicator, lemon juice, tomato juice, sour milk, vinegar and soft"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 20
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w2",
@@ -508,10 +688,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 18
+      "topic_week": 3,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w3",
@@ -534,10 +714,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 18
+      "topic_week": 4,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w4",
@@ -560,10 +740,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 18
+      "topic_week": 5,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w5",
@@ -586,10 +766,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 18
+      "topic_week": 6,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w6",
@@ -612,10 +792,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 18
+      "topic_week": 7,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w7",
@@ -638,10 +818,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 18
+      "topic_week": 8,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w8",
@@ -664,10 +844,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 18
+      "topic_week": 9,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w9",
@@ -690,10 +870,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 18
+      "topic_week": 10,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w10",
@@ -716,10 +896,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 18
+      "topic_week": 11,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w11",
@@ -742,10 +922,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 18
+      "topic_week": 12,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w12",
@@ -768,10 +948,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 11,
-      "topic_weeks": 18
+      "topic_week": 13,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w13",
@@ -794,10 +974,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 12,
-      "topic_weeks": 18
+      "topic_week": 14,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w14",
@@ -820,10 +1000,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 13,
-      "topic_weeks": 18
+      "topic_week": 15,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w15",
@@ -846,10 +1026,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 14,
-      "topic_weeks": 18
+      "topic_week": 16,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w16",
@@ -872,10 +1052,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 15,
-      "topic_weeks": 18
+      "topic_week": 17,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w17",
@@ -898,10 +1078,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 16,
-      "topic_weeks": 18
+      "topic_week": 18,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w18",
@@ -924,10 +1104,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 17,
-      "topic_weeks": 18
+      "topic_week": 19,
+      "topic_weeks": 20
     },
     {
       "entry_id": "s2w19",
@@ -950,10 +1130,10 @@
       "resources": [
         "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 18,
-      "topic_weeks": 18
+      "topic_week": 20,
+      "topic_weeks": 20
     }
   ]
 }

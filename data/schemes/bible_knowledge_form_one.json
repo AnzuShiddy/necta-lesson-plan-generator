@@ -29,7 +29,7 @@
         "and chats",
         "relevant biblical texts and commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 5
@@ -57,7 +57,7 @@
         "and chats",
         "relevant biblical texts and commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 5
@@ -85,7 +85,7 @@
         "and chats",
         "relevant biblical texts and commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 5
@@ -113,7 +113,7 @@
         "and chats",
         "relevant biblical texts and commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 5
@@ -129,7 +129,7 @@
       "specific_competence": "1.1 Use the Book of Genesis to learn about creation, responsibility and taking care of life",
       "learning_activity": "(a) Explain the concept of the Bible and Bible Knowledge",
       "activity_id": "bibl-one-1",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the meaning of Bible and Bible Knowledge"
@@ -141,9 +141,32 @@
         "and chats",
         "relevant biblical texts and commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate an understanding of Creation and God’s commandments",
+      "specific_competence": "1.1 Use the Book of Genesis to learn about creation, responsibility and taking care of life",
+      "learning_activity": "(b) Classify the books in the Bible",
+      "activity_id": "bibl-one-2",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to discuss the classification of the books in the Bible"
+      ],
+      "assessment": "The books in the Bible are well classified",
+      "resources": [],
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 5
     },
     {
@@ -164,10 +187,10 @@
       ],
       "assessment": "The books in the Bible are well classified",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w7",
@@ -187,10 +210,10 @@
       ],
       "assessment": "The books in the Bible are well classified",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 3,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w8",
@@ -210,10 +233,10 @@
       ],
       "assessment": "The books in the Bible are well classified",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 4,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w9",
@@ -233,10 +256,10 @@
       ],
       "assessment": "The books in the Bible are well classified",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 5,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w10",
@@ -256,7 +279,7 @@
       ],
       "assessment": "The concept of the Book of Genesis is well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 5
@@ -279,7 +302,7 @@
       ],
       "assessment": "The concept of the Book of Genesis is well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 5
@@ -302,7 +325,7 @@
       ],
       "assessment": "The concept of the Book of Genesis is well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 5
@@ -325,7 +348,7 @@
       ],
       "assessment": "The concept of the Book of Genesis is well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 5
@@ -341,16 +364,39 @@
       "specific_competence": "1.1 Use the Book of Genesis to learn about creation, responsibility and taking care of life",
       "learning_activity": "(c) Explain the concept of the Book of Genesis",
       "activity_id": "bibl-one-3",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concept of the Book of Genesis"
       ],
       "assessment": "The concept of the Book of Genesis is well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Demonstrate an understanding of Creation and God’s commandments",
+      "specific_competence": "1.1 Use the Book of Genesis to learn about creation, responsibility and taking care of life",
+      "learning_activity": "(d) Describe the concept of God’s creation",
+      "activity_id": "bibl-one-4",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Debate: Guide students to debate on the concept of God’s creation"
+      ],
+      "assessment": "The concept of God’s creation is well described",
+      "resources": [],
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 5
     },
     {
@@ -371,10 +417,10 @@
       ],
       "assessment": "The concept of God’s creation is well described",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w16",
@@ -394,10 +440,10 @@
       ],
       "assessment": "The concept of God’s creation is well described",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 3,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w17",
@@ -417,10 +463,10 @@
       ],
       "assessment": "The concept of God’s creation is well described",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 4,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w18",
@@ -440,10 +486,10 @@
       ],
       "assessment": "The concept of God’s creation is well described",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 5,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w1",
@@ -463,7 +509,7 @@
       ],
       "assessment": "Man’s Responsibility for God’s creation are well clarified.",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -486,7 +532,7 @@
       ],
       "assessment": "Man’s Responsibility for God’s creation are well clarified.",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -509,7 +555,7 @@
       ],
       "assessment": "Man’s Responsibility for God’s creation are well clarified.",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -532,7 +578,7 @@
       ],
       "assessment": "Man’s Responsibility for God’s creation are well clarified.",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 4
@@ -555,7 +601,7 @@
       ],
       "assessment": "The importance of taking care of life and environment are well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -578,7 +624,7 @@
       ],
       "assessment": "The importance of taking care of life and environment are well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -601,7 +647,7 @@
       ],
       "assessment": "The importance of taking care of life and environment are well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -624,7 +670,7 @@
       ],
       "assessment": "The importance of taking care of life and environment are well explained",
       "resources": [],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 4
@@ -651,7 +697,7 @@
         "relevant biblical literature",
         "video the fall of man and its consequences and bible commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 5
@@ -678,7 +724,7 @@
         "relevant biblical literature",
         "video the fall of man and its consequences and bible commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 5
@@ -705,7 +751,7 @@
         "relevant biblical literature",
         "video the fall of man and its consequences and bible commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 5
@@ -732,7 +778,7 @@
         "relevant biblical literature",
         "video the fall of man and its consequences and bible commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 5
@@ -748,7 +794,7 @@
       "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
       "learning_activity": "(a) Analyse the Fall of Man and its consequences",
       "activity_id": "bibl-one-7",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Group discussion: Guide students in managable groups to discuss the fall of man and its consequences"
@@ -759,10 +805,36 @@
         "relevant biblical literature",
         "video the fall of man and its consequences and bible commentaries"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
       "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate an understanding of Creation and God’s commandments",
+      "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
+      "learning_activity": "(b) Describe the history of the biblical Patriarchs",
+      "activity_id": "bibl-one-8",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case study: Provide a case study on the history of Abraham, Isaac, Jacob and Joseph. Guide students in manageable groups to discuss, summarize and present the history of Patriarchs according to case study"
+      ],
+      "assessment": "The Patriarchal History are well described",
+      "resources": [
+        "The Bible",
+        "relevant biblical text and ICT simulation tools"
+      ],
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s2w14",
@@ -785,10 +857,10 @@
         "The Bible",
         "relevant biblical text and ICT simulation tools"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s2w15",
@@ -811,10 +883,10 @@
         "The Bible",
         "relevant biblical text and ICT simulation tools"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 3,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s2w16",
@@ -827,7 +899,7 @@
       "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
       "learning_activity": "(b) Describe the history of the biblical Patriarchs",
       "activity_id": "bibl-one-8",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Case study: Provide a case study on the history of Abraham, Isaac, Jacob and Joseph. Guide students in manageable groups to discuss, summarize and present the history of Patriarchs according to case study"
@@ -837,10 +909,10 @@
         "The Bible",
         "relevant biblical text and ICT simulation tools"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 4,
+      "topic_weeks": 7
     },
     {
       "entry_id": "s2w17",
@@ -853,7 +925,7 @@
       "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
       "learning_activity": "(b) Describe the history of the biblical Patriarchs",
       "activity_id": "bibl-one-8",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Case study: Provide a case study on the history of Abraham, Isaac, Jacob and Joseph. Guide students in manageable groups to discuss, summarize and present the history of Patriarchs according to case study"
@@ -863,10 +935,62 @@
         "The Bible",
         "relevant biblical text and ICT simulation tools"
       ],
-      "references": "Bible Knowledge Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate an understanding of Creation and God’s commandments",
+      "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
+      "learning_activity": "(b) Describe the history of the biblical Patriarchs",
+      "activity_id": "bibl-one-8",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case study: Provide a case study on the history of Abraham, Isaac, Jacob and Joseph. Guide students in manageable groups to discuss, summarize and present the history of Patriarchs according to case study"
+      ],
+      "assessment": "The Patriarchal History are well described",
+      "resources": [
+        "The Bible",
+        "relevant biblical text and ICT simulation tools"
+      ],
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate an understanding of Creation and God’s commandments",
+      "specific_competence": "1.2 Demonstrate mastery of the Holy Scripture through the Book of Genesis",
+      "learning_activity": "(b) Describe the history of the biblical Patriarchs",
+      "activity_id": "bibl-one-8",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case study: Provide a case study on the history of Abraham, Isaac, Jacob and Joseph. Guide students in manageable groups to discuss, summarize and present the history of Patriarchs according to case study"
+      ],
+      "assessment": "The Patriarchal History are well described",
+      "resources": [
+        "The Bible",
+        "relevant biblical text and ICT simulation tools"
+      ],
+      "references": "TIE, Bible Knowledge for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
     }
   ]
 }

@@ -27,7 +27,7 @@
       "resources": [
         "Relevant texts and journals"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -43,7 +43,7 @@
       "specific_competence": "1.1 Use ICT tools to search for information from different sources",
       "learning_activity": "(a) Familiarise with various types of search engines (e.g., Google, Google Scholar, Bing)",
       "activity_id": "engl-one-1",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Brainstorming : Guide the students through brainstorming different types of search engines and the information they can search through them",
@@ -53,10 +53,33 @@
       "resources": [
         "Relevant texts and journals"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+      "specific_competence": "1.1 Use ICT tools to search for information from different sources",
+      "learning_activity": "(b) Utilise ICT tools to search for general information (e.g., books, journals)",
+      "activity_id": "engl-one-2",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Practical: Guide the students through completing web search tasks to find books, journals, articles, and images and storing them for use"
+      ],
+      "assessment": "ICT tools are utilised effectively in searching for general information",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w3",
@@ -76,10 +99,10 @@
       ],
       "assessment": "ICT tools are utilised effectively in searching for general information",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w4",
@@ -92,16 +115,47 @@
       "specific_competence": "1.1 Use ICT tools to search for information from different sources",
       "learning_activity": "(b) Utilise ICT tools to search for general information (e.g., books, journals)",
       "activity_id": "engl-one-2",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Practical: Guide the students through completing web search tasks to find books, journals, articles, and images and storing them for use"
       ],
       "assessment": "ICT tools are utilised effectively in searching for general information",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.1. Develop listening skills",
+      "learning_activity": "(a) Answer questions based on information from presentations/tasks",
+      "activity_id": "engl-one-3",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Presentation: Make a presentation on a selected topic to the students and ask them questions",
+        "Guide the students in groups through presenting topics and responding to questions from others’ presentations"
+      ],
+      "assessment": "Questions based on information from presentations/tasks are answered correctly",
+      "resources": [
+        "Texts about a wide range of events",
+        "recorded materials on various situations",
+        "pictures",
+        "songs",
+        "tongue twisters",
+        "and language games"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -113,9 +167,40 @@
       "end_date": "2026-02-13",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.1. Develop listening skills",
+      "learning_activity": "(a) Answer questions based on information from presentations/tasks",
+      "activity_id": "engl-one-3",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Presentation: Make a presentation on a selected topic to the students and ask them questions",
+        "Guide the students in groups through presenting topics and responding to questions from others’ presentations"
+      ],
+      "assessment": "Questions based on information from presentations/tasks are answered correctly",
+      "resources": [
+        "Texts about a wide range of events",
+        "recorded materials on various situations",
+        "pictures",
+        "songs",
+        "tongue twisters",
+        "and language games"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.1. Develop listening skills",
       "learning_activity": "(b) Practise pronunciation of words from oral and audio/audio-visual sources",
       "activity_id": "engl-one-4",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Tongue twisters: Play recorded tongue twisters for students to listen and note down new words they learned to pronounce",
@@ -124,10 +209,10 @@
       ],
       "assessment": "Pronunciation of words from oral and audio/audio-visual sources is practised appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w6",
@@ -138,9 +223,34 @@
       "end_date": "2026-02-20",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.1. Develop listening skills",
+      "learning_activity": "(b) Practise pronunciation of words from oral and audio/audio-visual sources",
+      "activity_id": "engl-one-4",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Tongue twisters: Play recorded tongue twisters for students to listen and note down new words they learned to pronounce",
+        "Reciting: Guide the students through reciting the tongue twisters by pronouncing words correctly",
+        "Songs: Play recorded authentic songs with the appropriate pronunciations for students to listen. Then, guide the students through singing the songs by pronouncing words correctly"
+      ],
+      "assessment": "Pronunciation of words from oral and audio/audio-visual sources is practised appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.1. Develop listening skills",
       "learning_activity": "(c) Write words heard from oral and audio/audio-visual sources",
       "activity_id": "engl-one-5",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Dictation: Guide the students through writing the words heard from audio/audio-visual recordings",
@@ -148,7 +258,7 @@
       ],
       "assessment": "Words heard from oral and audio/audio-visual sources are written",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -164,7 +274,7 @@
       "specific_competence": "2.1. Develop listening skills",
       "learning_activity": "(d) Reproduce messages from oral presentations",
       "activity_id": "engl-one-6",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Imitation: Guide the students through reproducing messages from the information presented orally",
@@ -172,10 +282,42 @@
       ],
       "assessment": "Messages from oral presentations are reproduced accurately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+      "learning_activity": "(a) Distinguish words with minimal sound distinctions that have different meanings (cut/cat; paper/pepper; date/debt)",
+      "activity_id": "engl-one-7",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Word cards: Use an appropriate number of cards to write minimal pairs and ask the students to distinguish their sounds and meanings",
+        "Tongue twisters : Guide the students through pronouncing tongue twisters with minimal pairs",
+        "Minimal pairs games: Guide the students through pronouncing words with nearly similar sounds by using games (e.g., Is it a pair ?, odd one out , minimal pair up, minimal pair slap , minimal pairs pelmanism, and pronunciation journey)"
+      ],
+      "assessment": "Words with minimal sound distinctions that have different meanings are distinguished correctly",
+      "resources": [
+        "Dictionaries",
+        "speakers",
+        "written texts",
+        "recorded materials on various situations",
+        "cards",
+        "tongue twisters"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w8",
@@ -186,9 +328,41 @@
       "end_date": "2026-03-06",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+      "learning_activity": "(a) Distinguish words with minimal sound distinctions that have different meanings (cut/cat; paper/pepper; date/debt)",
+      "activity_id": "engl-one-7",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Word cards: Use an appropriate number of cards to write minimal pairs and ask the students to distinguish their sounds and meanings",
+        "Tongue twisters : Guide the students through pronouncing tongue twisters with minimal pairs",
+        "Minimal pairs games: Guide the students through pronouncing words with nearly similar sounds by using games (e.g., Is it a pair ?, odd one out , minimal pair up, minimal pair slap , minimal pairs pelmanism, and pronunciation journey)"
+      ],
+      "assessment": "Words with minimal sound distinctions that have different meanings are distinguished correctly",
+      "resources": [
+        "Dictionaries",
+        "speakers",
+        "written texts",
+        "recorded materials on various situations",
+        "cards",
+        "tongue twisters"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
       "learning_activity": "(b) Practise pronunciation with proper word stress assignment",
       "activity_id": "engl-one-8",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Mimic : Use ICT to play word pronunciation with appropriate stress placement and ask the students to mimic",
@@ -197,10 +371,10 @@
       ],
       "assessment": "Pronunciation with proper word stress assignment is practised appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w9",
@@ -211,9 +385,34 @@
       "end_date": "2026-03-13",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+      "learning_activity": "(b) Practise pronunciation with proper word stress assignment",
+      "activity_id": "engl-one-8",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Mimic : Use ICT to play word pronunciation with appropriate stress placement and ask the students to mimic",
+        "Dictionary use : Use a dictionary to show the students how to indicate stress on syllables of words, and guide them through pronouncing the words",
+        "Games: Use games like Clap or Clicking fingers on the stresse d syllables and mumbling stress pattern"
+      ],
+      "assessment": "Pronunciation with proper word stress assignment is practised appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
       "learning_activity": "(c) Practise pronunciation of words with short and long vowels (e.g., sit/seat, hit/heat, pot/port)",
       "activity_id": "engl-one-9",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Mimic: Use ICT to play pronunciation of words with short and long vowels and ask the students to mimic",
@@ -221,7 +420,7 @@
       ],
       "assessment": "Pronunciation of words with short and long vowels is practised appropriately",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -237,7 +436,7 @@
       "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
       "learning_activity": "(d) Practise pronunciation of unfamiliar sounds (e.g., through the use of tongue twisters, songs, poems)",
       "activity_id": "engl-one-10",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Information search: Guide the students through searching for unfamiliar words from different sources and presenting their work to the class",
@@ -248,10 +447,34 @@
       ],
       "assessment": "Pronunciation of unfamiliar sounds is practised appropriately through the use of various techniques",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+      "learning_activity": "(e) Practise pronunciation of words with similar sounds that have different spellings (e.g., one/won, ewe/you)",
+      "activity_id": "engl-one-11",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Drill: Guide the students through choral and individual repetition to pronounce correctly words with similar sounds",
+        "Games: Guide the students through pronouncing words with similar sounds but different spellings by using games (e.g., Is it a pair?, odd one out, pelmanism and homophone go fish)"
+      ],
+      "assessment": "Pronunciation of words with similar sounds but different spellings is practised appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w11",
@@ -261,10 +484,34 @@
       "start_date": "2026-04-13",
       "end_date": "2026-04-17",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+      "learning_activity": "(e) Practise pronunciation of words with similar sounds that have different spellings (e.g., one/won, ewe/you)",
+      "activity_id": "engl-one-11",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Drill: Guide the students through choral and individual repetition to pronounce correctly words with similar sounds",
+        "Games: Guide the students through pronouncing words with similar sounds but different spellings by using games (e.g., Is it a pair?, odd one out, pelmanism and homophone go fish)"
+      ],
+      "assessment": "Pronunciation of words with similar sounds but different spellings is practised appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
       "learning_activity": "(a) Write new vocabulary from conversations and written texts on particular topics (e.g., politics, sports, tourism, agriculture)",
       "activity_id": "engl-one-12",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing a particular topic and writing the vocabulary heard and their meanings",
@@ -277,7 +524,7 @@
         "texts of different types",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -293,7 +540,7 @@
       "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
       "learning_activity": "(a) Write new vocabulary from conversations and written texts on particular topics (e.g., politics, sports, tourism, agriculture)",
       "activity_id": "engl-one-12",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing a particular topic and writing the vocabulary heard and their meanings",
@@ -306,9 +553,35 @@
         "texts of different types",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
+      "learning_activity": "(b) Construct sentences using vocabulary acquired from conversations and written texts",
+      "activity_id": "engl-one-13",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Dialogue: Guide the students through acting out a dialogue and constructing sentences using the new vocabulary learned",
+        "Debate: Guide the students through participating in a debate and constructing sentences using the new vocabulary learned",
+        "Spotting words : Guide the students through identifying new vocabulary from written texts and constructing sentences using the words",
+        "Close reading: Guide the students through reading texts and constructing sentences using the new words learned"
+      ],
+      "assessment": "Sentences are constructed correctly using vocabulary acquired from conversations and written texts",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -322,7 +595,7 @@
       "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
       "learning_activity": "(b) Construct sentences using vocabulary acquired from conversations and written texts",
       "activity_id": "engl-one-13",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Dialogue: Guide the students through acting out a dialogue and constructing sentences using the new vocabulary learned",
@@ -332,10 +605,35 @@
       ],
       "assessment": "Sentences are constructed correctly using vocabulary acquired from conversations and written texts",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
+      "learning_activity": "(c) Play vocabulary building games using digital and non-digital resources (e.g., word board games, charades, picture games, flash cards)",
+      "activity_id": "engl-one-14",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Games: Guide the students through playing vocabulary building games",
+        "Questions and answers: Ask the students some questions about the new vocabulary they have learned",
+        "Collaborative practice : Guide the students in pairs/groups through constructing sentences using the new vocabulary they have learned"
+      ],
+      "assessment": "V ocabulary building games are played accurately using digital and non-digital resources",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w14",
@@ -357,10 +655,10 @@
       ],
       "assessment": "V ocabulary building games are played accurately using digital and non-digital resources",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w15",
@@ -386,10 +684,10 @@
         "texts of different types",
         "dictionaries"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w16",
@@ -400,9 +698,38 @@
       "end_date": "2026-05-22",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+      "learning_activity": "(a) Express ideas or opinions in contextualised oral and written language tasks using proper grammar and vocabulary (e.g hospital, market, library, bus stop, sport and games)",
+      "activity_id": "engl-one-15",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Conversations : Guide the students through expressing their opinions orally and in writing by participating in conversations (e.g., discussion, debate, dialogue, bargaining) on controversial issues",
+        "Scenario: Present some controversial cases and ask the students to discuss and express their opinions orally and in writing.",
+        "Roleplay: Guide the students through roleplaying radio/TV programmes by giving opinions on given topics"
+      ],
+      "assessment": "Ideas or opinions are expressed correctly in contextualised oral and written language tasks using proper grammar and vocabulary",
+      "resources": [
+        "Audio and audio-visual materials (audio clips, recorded stories)",
+        "texts of different types",
+        "dictionaries"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
       "learning_activity": "(b) Construct sentences using appropriate grammar and vocabulary relating to a specific context (structure: tenses – simple past, simple present, articles, present progressive, pronouns, coordinators, prepositions, adjectives, adverbs)",
       "activity_id": "engl-one-16",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Description: Guide the students through describing objects, events, and places using appropriate grammar and vocabulary",
@@ -411,10 +738,10 @@
       ],
       "assessment": "Sentences are constructed correctly using appropriate grammar and vocabulary relating to a specific context",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w17",
@@ -425,22 +752,70 @@
       "end_date": "2026-05-29",
       "main_competence": "2.0 Demonstrate mastery of English language skills",
       "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+      "learning_activity": "(b) Construct sentences using appropriate grammar and vocabulary relating to a specific context (structure: tenses – simple past, simple present, articles, present progressive, pronouns, coordinators, prepositions, adjectives, adverbs)",
+      "activity_id": "engl-one-16",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Description: Guide the students through describing objects, events, and places using appropriate grammar and vocabulary",
+        "Pair work: Guide the students in pairs through writing sentences in different tenses and discussing why the sentences are written in those tenses",
+        "Group work : Guide the students in groups through constructing sentences orally and in writing which describe qualities using pronouns, coordinators, prepositions, adjectives and adverbs"
+      ],
+      "assessment": "Sentences are constructed correctly using appropriate grammar and vocabulary relating to a specific context",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
       "learning_activity": "(c) Debate on topics using proper grammar and vocabulary",
       "activity_id": "engl-one-17",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Debates: Guide the students through conducting debates on cross-cutting topics using proper grammar and vocabulary"
       ],
       "assessment": "Topics are debated appropriately using proper grammar and vocabulary",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Demonstrate mastery of English language skills",
+      "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+      "learning_activity": "(c) Debate on topics using proper grammar and vocabulary",
+      "activity_id": "engl-one-17",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Debates: Guide the students through conducting debates on cross-cutting topics using proper grammar and vocabulary"
+      ],
+      "assessment": "Topics are debated appropriately using proper grammar and vocabulary",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18-2",
       "semester": 1,
       "week": 18,
       "month": "June",
@@ -450,7 +825,7 @@
       "specific_competence": "3.1 Read texts for comprehension",
       "learning_activity": "(a) Sequence the order of events in stories",
       "activity_id": "engl-one-18",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Reading stories : Guide the students through reading stories with sequence words. (e.g., next, then, after, earlier, first, second, and later) Then, ask them to identify the words and use them to write a paragraph",
@@ -467,10 +842,10 @@
         "journals",
         "encyclopaedia"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w1",
@@ -481,9 +856,42 @@
       "end_date": "2026-07-10",
       "main_competence": "3.0 Comprehend oral and written information",
       "specific_competence": "3.1 Read texts for comprehension",
+      "learning_activity": "(a) Sequence the order of events in stories",
+      "activity_id": "engl-one-18",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Reading stories : Guide the students through reading stories with sequence words. (e.g., next, then, after, earlier, first, second, and later) Then, ask them to identify the words and use them to write a paragraph",
+        "Filling the missing parts: Give the students stories with skipped parts and ask them to fill in the missing parts using sequence words",
+        "Strip story: Guide the students through sequencing the order of events in stories using strip story. Then, let them read their stories aloud in the classroom",
+        "Story completion: Provide the students with a beginning part of a story and guide them through completing it using sequence words",
+        "Jumbled texts : Use jumbled texts to guide the students through ordering the sequence of events in the stories"
+      ],
+      "assessment": "The order of events in a story is sequenced logically",
+      "resources": [
+        "A variety of texts",
+        "selected class readers",
+        "newspaper articles",
+        "journals",
+        "encyclopaedia"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "3.0 Comprehend oral and written information",
+      "specific_competence": "3.1 Read texts for comprehension",
       "learning_activity": "(b) Make a summary of stories",
       "activity_id": "engl-one-19",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing the main issues in a story",
@@ -491,7 +899,7 @@
       ],
       "assessment": "Stories are summarised correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -507,7 +915,7 @@
       "specific_competence": "3.1 Read texts for comprehension",
       "learning_activity": "(b) Make a summary of stories",
       "activity_id": "engl-one-19",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing the main issues in a story",
@@ -515,9 +923,33 @@
       ],
       "assessment": "Stories are summarised correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "3.0 Comprehend oral and written information",
+      "specific_competence": "3.1 Read texts for comprehension",
+      "learning_activity": "(c) Retell stories",
+      "activity_id": "engl-one-20",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Retelling stories: Guide the students in pairs through retelling stories by taking turns",
+        "Narration: Guide the students through narrating to others about story books and appropriate movies they have watched"
+      ],
+      "assessment": "Stories are retold accordingly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -531,7 +963,7 @@
       "specific_competence": "3.1 Read texts for comprehension",
       "learning_activity": "(c) Retell stories",
       "activity_id": "engl-one-20",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Retelling stories: Guide the students in pairs through retelling stories by taking turns",
@@ -539,10 +971,37 @@
       ],
       "assessment": "Stories are retold accordingly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "3.0 Comprehend oral and written information",
+      "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+      "learning_activity": "(a) Paraphrase various oral messages from different contexts",
+      "activity_id": "engl-one-21",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Paraphrasing: Read passages orally, play recorded texts and guide the students through paraphrasing the messages",
+        "Project: Ask the students to listen to various oral messages (presentations, on radio, TV) and paraphrase the messages for presentation in the classroom"
+      ],
+      "assessment": "Various oral messages are paraphrased appropriately from different contexts",
+      "resources": [
+        "Oral and written texts",
+        "audio and audio-visual materials (audio clips, recorded stories)"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w4",
@@ -566,10 +1025,10 @@
         "Oral and written texts",
         "audio and audio-visual materials (audio clips, recorded stories)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w5",
@@ -590,7 +1049,7 @@
       ],
       "assessment": "Oral messages from different contexts are responded to correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -613,7 +1072,7 @@
       ],
       "assessment": "Questions about oral messages are responded to correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -640,7 +1099,7 @@
         "Dictionaries",
         "a variety of texts"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -664,7 +1123,7 @@
       ],
       "assessment": "Appropriate non-verbal cues are used correctly in interpersonal communication",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -687,7 +1146,7 @@
       ],
       "assessment": "Grammar and vocabulary are used correctly in different interpersonal communication contexts",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -703,7 +1162,7 @@
       "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
       "learning_activity": "(d) Use appropriate language and expressions in communicating with people of different age groups and statuses (e.g., peers, elders, family members, leaders)",
       "activity_id": "engl-one-27",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Brainstorming: Guide the students in groups through brainstorming ideas on the differences in conversations between different groups of people",
@@ -711,7 +1170,7 @@
       ],
       "assessment": "Appropriate language and expressions are used with different age groups and statuses",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -727,7 +1186,7 @@
       "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
       "learning_activity": "(a) Express daily routines (structure: present simple)",
       "activity_id": "engl-one-28",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Real-life expression: Guide the students through expressing orally what they do usually",
@@ -741,7 +1200,7 @@
         "pictures",
         "maps of various places (e.g., school, village)"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -755,20 +1214,16 @@
       "end_date": "2026-10-16",
       "main_competence": "4.0 Communicate effectively in different contexts",
       "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
-      "learning_activity": "(c) Express family relationship and occupations (structure: present simple+progressive)",
-      "activity_id": "engl-one-30",
-      "periods": 5,
+      "learning_activity": "(b) Express ongoing activities (structure: present progressive)",
+      "activity_id": "engl-one-29",
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming: Guide the students in pairs through brainstorming ideas about family relationship and different kinds of occupations",
-        "Songs and games : Guide the students through singing songs and playing games about family relationships and occupations",
-        "Matching: Guide the students through matching pictures with occupations and occupations with their descriptions",
-        "The use of pictures: Display pictures of people with different occupations and ask the students to express their occupations using the present simple+progressive tenses",
-        "Real-life expression: Ask the students to express the occupations of their parents/guardians and other relatives using the present simple+progressive tenses"
+        "Description: Guide the students through describing events as they occur (e.g., wedding ceremonies, birthday parties, burial ceremonies, processes, and public events) using the present progressive tense"
       ],
-      "assessment": "Family relationship and occupations are expressed correctly",
+      "assessment": "Ongoing activities are expressed correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -782,18 +1237,20 @@
       "end_date": "2026-10-23",
       "main_competence": "4.0 Communicate effectively in different contexts",
       "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
-      "learning_activity": "(d) Express ownership/possession (structure: have/has in present simple and had in past simple, apostrophe, possessive pronouns)",
-      "activity_id": "engl-one-31",
-      "periods": 5,
-      "activity_total_periods": 3,
+      "learning_activity": "(c) Express family relationship and occupations (structure: present simple+progressive)",
+      "activity_id": "engl-one-30",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Information search: Guide the students through reading texts on expressing possession using have, has, had, apostrophe, and possessive pronouns",
-        "Real-life expression: Guide the students through expressing possessions using the real objects they posses",
-        "Conversation: Guide the students in groups through engaging in conversations about what their relatives and neighbours posses"
+        "Brainstorming: Guide the students in pairs through brainstorming ideas about family relationship and different kinds of occupations",
+        "Songs and games : Guide the students through singing songs and playing games about family relationships and occupations",
+        "Matching: Guide the students through matching pictures with occupations and occupations with their descriptions",
+        "The use of pictures: Display pictures of people with different occupations and ask the students to express their occupations using the present simple+progressive tenses",
+        "Real-life expression: Ask the students to express the occupations of their parents/guardians and other relatives using the present simple+progressive tenses"
       ],
-      "assessment": "Ownership/possession is expressed correctly",
+      "assessment": "Family relationship and occupations are expressed correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -806,10 +1263,85 @@
       "start_date": "2026-10-26",
       "end_date": "2026-10-30",
       "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(d) Express ownership/possession (structure: have/has in present simple and had in past simple, apostrophe, possessive pronouns)",
+      "activity_id": "engl-one-31",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Information search: Guide the students through reading texts on expressing possession using have, has, had, apostrophe, and possessive pronouns",
+        "Real-life expression: Guide the students through expressing possessions using the real objects they posses",
+        "Conversation: Guide the students in groups through engaging in conversations about what their relatives and neighbours posses"
+      ],
+      "assessment": "Ownership/possession is expressed correctly",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(e) Give directions",
+      "activity_id": "engl-one-32",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Information search: Guide the students through searching for information on how to ask for and give directions and present the work to the class",
+        "Map reading: Guide the students in pairs through directing each other how to reach various stations/points (from one point to another) as indicated in the map",
+        "Group work: Guide the students in groups through asking and giving directions on how to reach various places (e.g., offices, classrooms, and toilets) within the school compound"
+      ],
+      "assessment": "Directions are given appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+      "learning_activity": "(e) Give directions",
+      "activity_id": "engl-one-32",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Information search: Guide the students through searching for information on how to ask for and give directions and present the work to the class",
+        "Map reading: Guide the students in pairs through directing each other how to reach various stations/points (from one point to another) as indicated in the map",
+        "Group work: Guide the students in groups through asking and giving directions on how to reach various places (e.g., offices, classrooms, and toilets) within the school compound"
+      ],
+      "assessment": "Directions are given appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "4.0 Communicate effectively in different contexts",
       "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
       "learning_activity": "(a) Recognise the main stages of writing texts ( e.g., pre-writing, drafting, revising, editing)",
       "activity_id": "engl-one-33",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Discussion: Guide the students through discussing stages of writing texts and presenting their work to the class",
@@ -821,34 +1353,10 @@
         "dictionaries",
         "samples of friendly letters and invitations"
       ],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
-    },
-    {
-      "entry_id": "s2w15",
-      "semester": 2,
-      "week": 15,
-      "month": "November",
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-06",
-      "main_competence": "4.0 Communicate effectively in different contexts",
-      "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
-      "learning_activity": "(b) Write a variety of friendly letters and invitations (vocabulary: Dear Father/Uncle, Dear Mother/Aunt, Mr/Mrs…, Dr./Prof./Madam/Ms …)",
-      "activity_id": "engl-one-34",
-      "periods": 5,
-      "activity_total_periods": 5,
-      "teaching_learning_activities": [
-        "Observation: Display/distribute samples of friendly letters and invitations for the students to study and discover their parts",
-        "Collaboration : Guide the students through collaborating in writing friendly letters and invitations"
-      ],
-      "assessment": "A variety of friendly letters and invitations are written correctly with appropriate vocabulary",
-      "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w16",
@@ -859,22 +1367,48 @@
       "end_date": "2026-11-13",
       "main_competence": "4.0 Communicate effectively in different contexts",
       "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
-      "learning_activity": "(c) Create dialogues on various topics (e.g., the value of education, environment, culture, gender equality)",
-      "activity_id": "engl-one-35",
-      "periods": 5,
-      "activity_total_periods": 4,
+      "learning_activity": "(a) Recognise the main stages of writing texts ( e.g., pre-writing, drafting, revising, editing)",
+      "activity_id": "engl-one-33",
+      "periods": 3,
+      "activity_total_periods": 5,
       "teaching_learning_activities": [
-        "Brainstorming: Guide the students in groups through brainstorming ideas on the meaning and structure of dialogues",
-        "Observation: Guide the students through studying a prepared dialogue and writing down the key features they observe",
-        "Pair work: Guide the students in pairs through creating dialogues on various topics",
-        "Act it out: Guide the students in pairs through acti ng out the dialogues they have prepared"
+        "Discussion: Guide the students through discussing stages of writing texts and presenting their work to the class",
+        "Demonstration: Demonstrate how to begin writing by asking the students to give ideas and help you plan the text"
       ],
-      "assessment": "Dialogues on various topics are created appropriately",
+      "assessment": "The stages of writing texts are recognised appropriately",
+      "resources": [
+        "Relevant texts",
+        "dictionaries",
+        "samples of friendly letters and invitations"
+      ],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+      "learning_activity": "(b) Write a variety of friendly letters and invitations (vocabulary: Dear Father/Uncle, Dear Mother/Aunt, Mr/Mrs…, Dr./Prof./Madam/Ms …)",
+      "activity_id": "engl-one-34",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Observation: Display/distribute samples of friendly letters and invitations for the students to study and discover their parts",
+        "Collaboration : Guide the students through collaborating in writing friendly letters and invitations"
+      ],
+      "assessment": "A variety of friendly letters and invitations are written correctly with appropriate vocabulary",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w17",
@@ -885,9 +1419,59 @@
       "end_date": "2026-11-20",
       "main_competence": "4.0 Communicate effectively in different contexts",
       "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+      "learning_activity": "(b) Write a variety of friendly letters and invitations (vocabulary: Dear Father/Uncle, Dear Mother/Aunt, Mr/Mrs…, Dr./Prof./Madam/Ms …)",
+      "activity_id": "engl-one-34",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Observation: Display/distribute samples of friendly letters and invitations for the students to study and discover their parts",
+        "Collaboration : Guide the students through collaborating in writing friendly letters and invitations"
+      ],
+      "assessment": "A variety of friendly letters and invitations are written correctly with appropriate vocabulary",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+      "learning_activity": "(c) Create dialogues on various topics (e.g., the value of education, environment, culture, gender equality)",
+      "activity_id": "engl-one-35",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students in groups through brainstorming ideas on the meaning and structure of dialogues",
+        "Observation: Guide the students through studying a prepared dialogue and writing down the key features they observe",
+        "Pair work: Guide the students in pairs through creating dialogues on various topics",
+        "Act it out: Guide the students in pairs through acti ng out the dialogues they have prepared"
+      ],
+      "assessment": "Dialogues on various topics are created appropriately",
+      "resources": [],
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "4.0 Communicate effectively in different contexts",
+      "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
       "learning_activity": "(d) Create and express orally daily and weekly timetables for routines",
       "activity_id": "engl-one-36",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Real-life expression: Guide the students through expressing orally and in writing what they do weekly",
@@ -897,7 +1481,7 @@
       ],
       "assessment": "Daily and weekly time-tables for routines are created and expressed correctly",
       "resources": [],
-      "references": "English Language Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, English Language for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1

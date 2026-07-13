@@ -27,7 +27,7 @@
       "resources": [
         "Pictures, diagrams, simulations, animations or videos illustrating the meaning, branches, applications and relationship with other disciplines"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -53,7 +53,7 @@
       "resources": [
         "Pictures, diagrams, simulations, animations or videos illustrating the meaning, branches, applications and relationship with other disciplines"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -69,7 +69,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the concept of Chemistry (meaning, branches, applications and relationships with other disciplines)",
       "activity_id": "chem-one-1",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Brainstorming: Assign students in manageable groups to brainstorm on chemical basis of materials from their environment, give the meaning of Chemistry and justifying the reason for studying Chemistry",
@@ -79,10 +79,35 @@
       "resources": [
         "Pictures, diagrams, simulations, animations or videos illustrating the meaning, branches, applications and relationship with other disciplines"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Discuss the contribution of Chemistry in the development of modern society",
+      "activity_id": "chem-one-2",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to visit any nearby industry, health facilities, mining sites and agricultural farms to appreciate the importance of Chemistry in the development of societies"
+      ],
+      "assessment": "The contribution of Chemistry in the development of modern society is clearly recognised",
+      "resources": [
+        "Simulations, animations or videos illustrating the contribution of Chemistry in the development of modern society"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w4",
@@ -104,10 +129,10 @@
       "resources": [
         "Simulations, animations or videos illustrating the contribution of Chemistry in the development of modern society"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w5",
@@ -129,10 +154,10 @@
       "resources": [
         "Simulations, animations or videos illustrating the contribution of Chemistry in the development of modern society"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w6",
@@ -143,9 +168,34 @@
       "end_date": "2026-02-20",
       "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Discuss the contribution of Chemistry in the development of modern society",
+      "activity_id": "chem-one-2",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to visit any nearby industry, health facilities, mining sites and agricultural farms to appreciate the importance of Chemistry in the development of societies"
+      ],
+      "assessment": "The contribution of Chemistry in the development of modern society is clearly recognised",
+      "resources": [
+        "Simulations, animations or videos illustrating the contribution of Chemistry in the development of modern society"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(c) Describe the concept of matter (physical and chemical changes of matter)",
       "activity_id": "chem-one-3",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Practical work: Guide students to carry-out hands-on activities to investigate the physical and chemical changes of matter using samples of substances found in their environment",
@@ -155,7 +205,7 @@
       "resources": [
         "Ice, water, source of heat, evaporating basin, metal nails, beaker, table salt, sugar, iodine crystals, magnet, magnesium ribbon, acids, fruits, paper, CuSO4 solution, aluminium foil, candle, CaCO3 , Pb(NO3)2 solution and simulations and videos illustrating physical and chemical changes of matter"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -181,7 +231,7 @@
       "resources": [
         "Ice, water, source of heat, evaporating basin, metal nails, beaker, table salt, sugar, iodine crystals, magnet, magnesium ribbon, acids, fruits, paper, CuSO4 solution, aluminium foil, candle, CaCO3 , Pb(NO3)2 solution and simulations and videos illustrating physical and chemical changes of matter"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -197,7 +247,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(c) Describe the concept of matter (physical and chemical changes of matter)",
       "activity_id": "chem-one-3",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Practical work: Guide students to carry-out hands-on activities to investigate the physical and chemical changes of matter using samples of substances found in their environment",
@@ -207,10 +257,36 @@
       "resources": [
         "Ice, water, source of heat, evaporating basin, metal nails, beaker, table salt, sugar, iodine crystals, magnet, magnesium ribbon, acids, fruits, paper, CuSO4 solution, aluminium foil, candle, CaCO3 , Pb(NO3)2 solution and simulations and videos illustrating physical and chemical changes of matter"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(d) Describe the concepts of chemical elements (criteria for assigning chemical symbols), compounds (binary compound) and mixtures (types of solution and separation of mixtures)",
+      "activity_id": "chem-one-4",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students in pairs to think and share about various types of industrial products they commonly use in their home for various activities, reflect on their constituent elements and explain the meaning of element, compound and mixture",
+        "Hands-on-minds-on: Assign students to prepare solutions using materials available in their home settings and reflect their properties to practices of using them in various applications such as pharmaceuticals and domestic activities"
+      ],
+      "assessment": "The concepts of chemical elements, compounds and mixture are clearly described",
+      "resources": [
+        "Periodic table, copper, zinc, aluminium, iron, sulphur, hydrogen, common salt, iron filings, magnet, powdered sulphur, crucible and lid, heat source, HCl solution, water, chalk FeS, milk, clay soil,"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w9",
@@ -233,10 +309,10 @@
       "resources": [
         "Periodic table, copper, zinc, aluminium, iron, sulphur, hydrogen, common salt, iron filings, magnet, powdered sulphur, crucible and lid, heat source, HCl solution, water, chalk FeS, milk, clay soil,"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w10",
@@ -259,10 +335,10 @@
       "resources": [
         "Periodic table, copper, zinc, aluminium, iron, sulphur, hydrogen, common salt, iron filings, magnet, powdered sulphur, crucible and lid, heat source, HCl solution, water, chalk FeS, milk, clay soil,"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w11",
@@ -273,9 +349,35 @@
       "end_date": "2026-04-17",
       "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(d) Describe the concepts of chemical elements (criteria for assigning chemical symbols), compounds (binary compound) and mixtures (types of solution and separation of mixtures)",
+      "activity_id": "chem-one-4",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students in pairs to think and share about various types of industrial products they commonly use in their home for various activities, reflect on their constituent elements and explain the meaning of element, compound and mixture",
+        "Hands-on-minds-on: Assign students to prepare solutions using materials available in their home settings and reflect their properties to practices of using them in various applications such as pharmaceuticals and domestic activities"
+      ],
+      "assessment": "The concepts of chemical elements, compounds and mixture are clearly described",
+      "resources": [
+        "Periodic table, copper, zinc, aluminium, iron, sulphur, hydrogen, common salt, iron filings, magnet, powdered sulphur, crucible and lid, heat source, HCl solution, water, chalk FeS, milk, clay soil,"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(e) Compare the properties of compounds with those of constituent elements",
       "activity_id": "chem-one-5",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Group discussion: Guide students in manageable groups to explore the properties of chemical compounds useful in real-life situation",
@@ -285,7 +387,7 @@
       "resources": [
         "margarine, filter paper, funnel, ethanol, iodine crystals, kerosene, ink, sugar, wall charts, and pictures of distillers"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -311,7 +413,7 @@
       "resources": [
         "margarine, filter paper, funnel, ethanol, iodine crystals, kerosene, ink, sugar, wall charts, and pictures of distillers"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -337,7 +439,7 @@
       "resources": [
         "margarine, filter paper, funnel, ethanol, iodine crystals, kerosene, ink, sugar, wall charts, and pictures of distillers"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -363,7 +465,7 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating 1st 20 elements in the Periodic Table; metals and non-metals"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -389,7 +491,7 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating 1st 20 elements in the Periodic Table; metals and non-metals"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -405,7 +507,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(f) Explain the concept of the periodic table (1st 20 elements in the Periodic Table; metals and non-metals)",
       "activity_id": "chem-one-6",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Outdoor activity: Assign students to collect materials in their environment and classify into metals and non-metals",
@@ -415,10 +517,37 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating 1st 20 elements in the Periodic Table; metals and non-metals"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Describe basic Chemistry laboratory skills (chemistry laboratory rules and safety measures, first aid, fire and firefighting, and Chemistry laboratory apparatus)",
+      "activity_id": "chem-one-7",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to interpret basic laboratory skills related to rules and precautions, safety measures and chemical warning signs",
+        "Guest speaker from fire brigade: Guide students to interpret classes of fire and practice on firefighting basing on speaker’s instructions and write a report",
+        "Outdoor activity: Guide students to practice on extinguishing small fires"
+      ],
+      "assessment": "Basic Chemistry laboratory skills are clearly described",
+      "resources": [
+        "Laboratory manuals, models, pictures, wall charts with written laboratory rules, first aid kit, laboratory apparatus, fire extinguishers and videos illustrating basic chemistry laboratory skills"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w17",
@@ -442,10 +571,10 @@
       "resources": [
         "Laboratory manuals, models, pictures, wall charts with written laboratory rules, first aid kit, laboratory apparatus, fire extinguishers and videos illustrating basic chemistry laboratory skills"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w18",
@@ -469,10 +598,10 @@
       "resources": [
         "Laboratory manuals, models, pictures, wall charts with written laboratory rules, first aid kit, laboratory apparatus, fire extinguishers and videos illustrating basic chemistry laboratory skills"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w1",
@@ -483,9 +612,36 @@
       "end_date": "2026-07-10",
       "main_competence": "Conduct experiments in Chemistry",
       "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Describe basic Chemistry laboratory skills (chemistry laboratory rules and safety measures, first aid, fire and firefighting, and Chemistry laboratory apparatus)",
+      "activity_id": "chem-one-7",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to interpret basic laboratory skills related to rules and precautions, safety measures and chemical warning signs",
+        "Guest speaker from fire brigade: Guide students to interpret classes of fire and practice on firefighting basing on speaker’s instructions and write a report",
+        "Outdoor activity: Guide students to practice on extinguishing small fires"
+      ],
+      "assessment": "Basic Chemistry laboratory skills are clearly described",
+      "resources": [
+        "Laboratory manuals, models, pictures, wall charts with written laboratory rules, first aid kit, laboratory apparatus, fire extinguishers and videos illustrating basic chemistry laboratory skills"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
       "learning_activity": "(b) Perform experiments on the changes of matter from one state to another",
       "activity_id": "chem-one-8",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Experimentation: Guide students to perform experiments on various materials from the environment and laboratory, and use chemicals to demonstrate changes of matter"
@@ -494,7 +650,7 @@
       "resources": [
         "Ice, water, iron chips, heat source, clay soil, margarine, filter paper, funnel, iodine crystals, anhydrous CuSO4 kerosene, salt and sugar"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -519,7 +675,7 @@
       "resources": [
         "Ice, water, iron chips, heat source, clay soil, margarine, filter paper, funnel, iodine crystals, anhydrous CuSO4 kerosene, salt and sugar"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -535,7 +691,7 @@
       "specific_competence": "Conduct experiments in Chemistry",
       "learning_activity": "(b) Perform experiments on the changes of matter from one state to another",
       "activity_id": "chem-one-8",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Experimentation: Guide students to perform experiments on various materials from the environment and laboratory, and use chemicals to demonstrate changes of matter"
@@ -544,10 +700,37 @@
       "resources": [
         "Ice, water, iron chips, heat source, clay soil, margarine, filter paper, funnel, iodine crystals, anhydrous CuSO4 kerosene, salt and sugar"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(c) Perform experiments on separation of different mixtures using different methods",
+      "activity_id": "chem-one-9",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Home-based project: Assign students to carry-out simple experiments on separating mixtures in their daily life",
+        "Experimentation: Guide students to perform experiments on separating mixtures basing on specific properties of substances such as solubility and boiling point",
+        "Questions and answers: Guide students to present the common and commercial applications of the various methods for separating mixtures, for examples simple distillation, fractional distillation and decantation"
+      ],
+      "assessment": "Experiments on separation of different mixtures using different methods are correctly performed",
+      "resources": [
+        "Common salt, iron filings, magnet, powdered Sulphur, crucible and lid, heat source, HCl solution, FeS, milk, clay soil, margarine, kerosene, filter paper, funnel, ethanol, kerosene, ink, sugar, distillation system and animations or videos illustrating separation of different mixtures using different methods"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w4",
@@ -571,10 +754,10 @@
       "resources": [
         "Common salt, iron filings, magnet, powdered Sulphur, crucible and lid, heat source, HCl solution, FeS, milk, clay soil, margarine, kerosene, filter paper, funnel, ethanol, kerosene, ink, sugar, distillation system and animations or videos illustrating separation of different mixtures using different methods"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w5",
@@ -598,13 +781,40 @@
       "resources": [
         "Common salt, iron filings, magnet, powdered Sulphur, crucible and lid, heat source, HCl solution, FeS, milk, clay soil, margarine, kerosene, filter paper, funnel, ethanol, kerosene, ink, sugar, distillation system and animations or videos illustrating separation of different mixtures using different methods"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(c) Perform experiments on separation of different mixtures using different methods",
+      "activity_id": "chem-one-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Home-based project: Assign students to carry-out simple experiments on separating mixtures in their daily life",
+        "Experimentation: Guide students to perform experiments on separating mixtures basing on specific properties of substances such as solubility and boiling point",
+        "Questions and answers: Guide students to present the common and commercial applications of the various methods for separating mixtures, for examples simple distillation, fractional distillation and decantation"
+      ],
+      "assessment": "Experiments on separation of different mixtures using different methods are correctly performed",
+      "resources": [
+        "Common salt, iron filings, magnet, powdered Sulphur, crucible and lid, heat source, HCl solution, FeS, milk, clay soil, margarine, kerosene, filter paper, funnel, ethanol, kerosene, ink, sugar, distillation system and animations or videos illustrating separation of different mixtures using different methods"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6-2",
       "semester": 2,
       "week": 6,
       "month": "August",
@@ -614,7 +824,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -624,10 +834,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w7",
@@ -650,10 +860,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w8",
@@ -676,10 +886,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w9",
@@ -702,10 +912,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w10",
@@ -728,10 +938,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w11",
@@ -754,10 +964,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w12",
@@ -770,7 +980,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -780,10 +990,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w13",
@@ -796,7 +1006,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -806,10 +1016,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 8,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w14",
@@ -822,7 +1032,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -832,10 +1042,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 9,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w15",
@@ -848,7 +1058,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -858,10 +1068,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 10,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w16",
@@ -874,7 +1084,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -884,10 +1094,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 11,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w17",
@@ -900,7 +1110,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -910,10 +1120,10 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 12,
-      "topic_weeks": 13
+      "topic_weeks": 14
     },
     {
       "entry_id": "s2w18",
@@ -926,7 +1136,7 @@
       "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
       "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
       "activity_id": "chem-one-10",
-      "periods": 2,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
@@ -936,10 +1146,36 @@
       "resources": [
         "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
       ],
-      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 13,
-      "topic_weeks": 13
+      "topic_weeks": 14
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
+      "activity_id": "chem-one-10",
+      "periods": 4,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
+        "Technological-based learning: Guide students to account for the structure of an atom basing on ICT facilities and write a report"
+      ],
+      "assessment": "The modern concept of atomic structure is clearly described",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 14,
+      "topic_weeks": 14
     }
   ]
 }

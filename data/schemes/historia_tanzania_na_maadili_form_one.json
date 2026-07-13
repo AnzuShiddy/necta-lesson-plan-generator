@@ -30,7 +30,7 @@
         "Ramani kuonesha mtawanyiko wa jamii za asili",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -46,7 +46,7 @@
       "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
       "learning_activity": "(a) Kueleza asili ya jamii za Kitanzania (Wabantu, Wanilo, Wakushito, Wakichembe)",
       "activity_id": "hist-one-1",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Bunguabongo: Ongoza wanafunzi kubungua bongo ili kubainisha jamii mbalimbali za Kitanzania",
@@ -59,9 +59,33 @@
         "Ramani kuonesha mtawanyiko wa jamii za asili",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
+      "learning_activity": "(b) Kubaini shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania",
+      "activity_id": "hist-one-2",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Fikiri-andika-jozisha-shirikisha: Ongoza wanafunzi kufikiri, kuandika, kukaa katika jozi na kujadili shughuli walizoandika, kisha wajadili katika vikundi ili kuorodhesha shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania.",
+        "Majadiliano: Ongoza majadiliano ya darasa kujadili shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania."
+      ],
+      "assessment": "Shughuli za makundi ya asili ya jamii za Kitanzania zimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -83,10 +107,10 @@
       ],
       "assessment": "Shughuli za makundi ya asili ya jamii za Kitanzania zimebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w4",
@@ -108,7 +132,7 @@
       ],
       "assessment": "Maadili ya jamii za asili ya Kitanzania yameelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -124,7 +148,7 @@
       "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
       "learning_activity": "(c) Kueleza maadili ya jamii za asili ya Kitanzania",
       "activity_id": "hist-one-3",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Bunguabongo: Ongoza wanafunzi kujibu maswali kuhusu maadili ya jamii mbalimbali za asili.",
@@ -133,10 +157,37 @@
       ],
       "assessment": "Maadili ya jamii za asili ya Kitanzania yameelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa na ujuzi wa maadili na urithi wa jamii za Kitanzania",
+      "learning_activity": "(a) Kuchambua maadili na urithi wa jamii za Kitanzania",
+      "activity_id": "hist-one-4",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete: Gawa visamafunzo mbalimbali kuhusu maadili na urithi wa jamii za Kitanzania kwenye makundi.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuandika muhtasari wa walichojifunza."
+      ],
+      "assessment": "Maadili na urithi wa jamii za Kitanzania yamecha-mbuliwa kwa ufasaha",
+      "resources": [
+        "Ramani kuonesha maeneo yenye urithi wa Tanzania",
+        "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w6",
@@ -160,10 +211,10 @@
         "Ramani kuonesha maeneo yenye urithi wa Tanzania",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w7",
@@ -187,10 +238,10 @@
         "Ramani kuonesha maeneo yenye urithi wa Tanzania",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w8",
@@ -210,7 +261,7 @@
       ],
       "assessment": "Matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania yameelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -233,7 +284,7 @@
       ],
       "assessment": "Matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania yameelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -249,16 +300,44 @@
       "specific_competence": "1.2 Kumudu maarifa na ujuzi wa maadili na urithi wa jamii za Kitanzania",
       "learning_activity": "(b) Kueleza matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania",
       "activity_id": "hist-one-5",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Majadiliano: Ongoza wanafunzi katika vikundi vidogovidogo, kujadili matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania."
       ],
       "assessment": "Matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania yameelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+      "learning_activity": "(a) Kubaini fursa mbalimbali zilizopo kwenye urithi wa jamii za Kitanzania",
+      "activity_id": "hist-one-6",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Ongoza wanafunzi katika vikundi vyao watembelee na kubaini fursa anuai zilizopo katika maeneo wanamoishi zenye urithi wa jamii za Kitanzanai.",
+        "Matembezi ya galari: Ongoza wanafunzi kuziorodhesha, kubandika kwenye kuta za darasa, kufanya matembezi na kuuliza maswali katika vikundi mbalimbali."
+      ],
+      "assessment": "Fursa mbalimbali zilizopo kwenye urithi wa jamii za Kitanzania zimebainishwa",
+      "resources": [
+        "Matini kuhusu fursa kwenye urithi wa jamii za Kitanzania",
+        "Ramani kuonesha maeneo yenye urithi wa Tanzania",
+        "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -284,10 +363,10 @@
         "Ramani kuonesha maeneo yenye urithi wa Tanzania",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w12",
@@ -300,7 +379,7 @@
       "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
       "learning_activity": "(a) Kubaini fursa mbalimbali zilizopo kwenye urithi wa jamii za Kitanzania",
       "activity_id": "hist-one-6",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Ongoza wanafunzi katika vikundi vyao watembelee na kubaini fursa anuai zilizopo katika maeneo wanamoishi zenye urithi wa jamii za Kitanzanai.",
@@ -312,9 +391,33 @@
         "Ramani kuonesha maeneo yenye urithi wa Tanzania",
         "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+      "learning_activity": "(b) Kueleza namna fursa zilizopo kwenye urithi wa jamii za Kitanzania zinavyoweza kutumika kukuza uchumi binafsi na jamii",
+      "activity_id": "hist-one-7",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Ongoza wanafunzi kujadili kisamafunzo na kutoa maoni yao kuhusu fursa za urithi na manufaa yake katika jamii za Kitanzania.",
+        "Mtaalamu mwalikwa: Ongoza wanafunzi kumsikiliza na kuuliza maswali mtaalamu kuhusu namna ya kutumia fursa za urithi katika kukuza uchumi binafsi na jamii."
+      ],
+      "assessment": "Fursa zilizopo kwenye urithi wa jamii za Kitanzania zinavyoweza kutumika kukuza uchumi binafsi na jamii zimeelezwa kwa ufasaha",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -336,10 +439,10 @@
       ],
       "assessment": "Fursa zilizopo kwenye urithi wa jamii za Kitanzania zinavyoweza kutumika kukuza uchumi binafsi na jamii zimeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w14",
@@ -360,10 +463,10 @@
       ],
       "assessment": "Njia mbalimbali za kutunza urithi wa jamii za Kitanzania zimeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w15",
@@ -373,10 +476,34 @@
       "start_date": "2026-05-11",
       "end_date": "2026-05-15",
       "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+      "learning_activity": "(c) Kueleza njia mbalimbali za kutunza urithi wa jamii za Kitanzania",
+      "activity_id": "hist-one-8",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Fikiri -andika-jozisha -shirikisha: Ongoza wanafunzi kufikiri, kuandika, kujozisha na kushirikishana katika vikundi kuelezea njia mbalimbali za kutunza urithi wa jamii inayowazunguka.",
+        "Majadiliano: Ongoza wanafunzi kufanya majadiliano katika darasa kuelezea njia mbalimbali za kutunza urithi wa jamii za Kitanzania."
+      ],
+      "assessment": "Njia mbalimbali za kutunza urithi wa jamii za Kitanzania zimeelezwa kwa ufasaha",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
       "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
       "learning_activity": "(a) Kuainisha shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa",
       "activity_id": "hist-one-9",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Ongoza wanafunzi kutembelea maeneo mbalimbali yenye shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa.",
@@ -388,7 +515,7 @@
         "Picha kuonesha shughuli mbalimbali",
         "Ramani kuonesha maeneo yenye fursa mbalimbali"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -416,7 +543,7 @@
         "Picha kuonesha shughuli mbalimbali",
         "Ramani kuonesha maeneo yenye fursa mbalimbali"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -432,7 +559,7 @@
       "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
       "learning_activity": "(a) Kuainisha shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa",
       "activity_id": "hist-one-9",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Ongoza wanafunzi kutembelea maeneo mbalimbali yenye shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa.",
@@ -444,9 +571,33 @@
         "Picha kuonesha shughuli mbalimbali",
         "Ramani kuonesha maeneo yenye fursa mbalimbali"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
+      "learning_activity": "(b) Kufafanua namna shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa",
+      "activity_id": "hist-one-10",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Ongoza mtaalamu kufafanua shughuli mbalimbali zinavyochangia ushirikiano na uchumi wa Taifa.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi vidogovidogo kujadili kisha kuwasilisha kwenye darasa kwa majadiliano."
+      ],
+      "assessment": "Shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa zimefafanuliwa kwa ufasaha",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -468,10 +619,10 @@
       ],
       "assessment": "Shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa zimefafanuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w1",
@@ -484,7 +635,7 @@
       "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
       "learning_activity": "(b) Kufafanua namna shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa",
       "activity_id": "hist-one-10",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Mtaalamu mwalikwa: Ongoza mtaalamu kufafanua shughuli mbalimbali zinavyochangia ushirikiano na uchumi wa Taifa.",
@@ -492,10 +643,38 @@
       ],
       "assessment": "Shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa zimefafanuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuchambua mifumo ya kijamii (elimu, afya, utamaduni) iliyokuza na kuendeleza maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(a) Kubaini mifumo ya kijamii ya Tanzania kabla ya ukoloni",
+      "activity_id": "hist-one-11",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika sehemu mbalimbali kama maktaba na Intaneti na kuandika kwa ufupi kuhusu mifumo ya kijamii za Tanzania kabla ya ukoloni.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha darasani kwa majadiliano ya pamoja."
+      ],
+      "assessment": "Mifumo ya kijamii za Tanzania kabla ya ukoloni imebainishwa",
+      "resources": [
+        "Picha kuonesha miundombinu ya elimu, afya na utamaduni kabla ya ukoloni",
+        "Ramani kuonesha mtawanyiko wa miundombinu elimu, afya na utamaduni kabla ya ukoloni",
+        "Vitu halisi vilivyotumika kabla ya ukoloni"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w2",
@@ -520,10 +699,10 @@
         "Ramani kuonesha mtawanyiko wa miundombinu elimu, afya na utamaduni kabla ya ukoloni",
         "Vitu halisi vilivyotumika kabla ya ukoloni"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w3",
@@ -548,10 +727,10 @@
         "Ramani kuonesha mtawanyiko wa miundombinu elimu, afya na utamaduni kabla ya ukoloni",
         "Vitu halisi vilivyotumika kabla ya ukoloni"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w4",
@@ -572,7 +751,7 @@
       ],
       "assessment": "Mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni imeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -596,7 +775,7 @@
       ],
       "assessment": "Mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni imeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -612,7 +791,7 @@
       "specific_competence": "2.1 Kuchambua mifumo ya kijamii (elimu, afya, utamaduni) iliyokuza na kuendeleza maadili ya jamii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(b) Kueleza mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni",
       "activity_id": "hist-one-12",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Mtaalamu mwalikwa: Ongoza wanafunzi kusikiliza na kuuliza maswali mtaalamu mwalikwa kuhusu jinsi mifumo ya jamii za Tanzania ilivyokuza maadili kabla ya ukoloni.",
@@ -620,9 +799,36 @@
       ],
       "assessment": "Mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni imeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(a) Kubaini mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni",
+      "activity_id": "hist-one-13",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika vyanzo mbalimbali na kuandika maelezo kuhusu mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kisha kuwasilisha darasani kwa majadiliano ya pamoja."
+      ],
+      "assessment": "Mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni imebainishwa",
+      "resources": [
+        "Matini kuhusu mifumo ya kiuchumi na kisiasa kabla ya ukoloni",
+        "Ramani kuonesha maeneo mbalimbali ya jamii za asili za Kitanzania"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -647,10 +853,10 @@
         "Matini kuhusu mifumo ya kiuchumi na kisiasa kabla ya ukoloni",
         "Ramani kuonesha maeneo mbalimbali ya jamii za asili za Kitanzania"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w8",
@@ -663,7 +869,7 @@
       "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(a) Kubaini mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni",
       "activity_id": "hist-one-13",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika vyanzo mbalimbali na kuandika maelezo kuhusu mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni.",
@@ -674,10 +880,34 @@
         "Matini kuhusu mifumo ya kiuchumi na kisiasa kabla ya ukoloni",
         "Ramani kuonesha maeneo mbalimbali ya jamii za asili za Kitanzania"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kueleza jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
+      "activity_id": "hist-one-14",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni.",
+        "Majadiliano: Ongoza majadiliano ya vikundi kuhusu jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni"
+      ],
+      "assessment": "Mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni imeelezwa kwa ufasaha",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w9",
@@ -698,10 +928,10 @@
       ],
       "assessment": "Mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni imeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w10",
@@ -714,7 +944,7 @@
       "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(b) Kueleza jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
       "activity_id": "hist-one-14",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni.",
@@ -722,10 +952,34 @@
       ],
       "assessment": "Mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni imeelezwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(c) Kufafanua uhusiano kati ya jamiii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
+      "activity_id": "hist-one-15",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Changanyakete: Ongoza wanafunzi katika vikundi kusoma matini kuhusu uhusiano wa jamii mmoja ya Kitanzania na jamii za Mashariki ya Kati au Mashariki ya Mbali au Ulaya.",
+        "Elekeza kila kikundi kutoa mwakilishi mmoja kwenda kikundi kingine kufundisha walichojifunza katika kundi lao."
+      ],
+      "assessment": "Uhusiano kati ya jamii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni umefafanuliwa kwa ufasaha",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w11",
@@ -746,10 +1000,10 @@
       ],
       "assessment": "Uhusiano kati ya jamii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni umefafanuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w12",
@@ -762,7 +1016,7 @@
       "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(c) Kufafanua uhusiano kati ya jamiii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
       "activity_id": "hist-one-15",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Changanyakete: Ongoza wanafunzi katika vikundi kusoma matini kuhusu uhusiano wa jamii mmoja ya Kitanzania na jamii za Mashariki ya Kati au Mashariki ya Mbali au Ulaya.",
@@ -770,9 +1024,33 @@
       ],
       "assessment": "Uhusiano kati ya jamii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni umefafanuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(d) Kutathmini mchango wa mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "activity_id": "hist-one-16",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Elekeza wanafunzi katika vikundi kusoma na kuchambua faida na hasara za mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni.",
+        "Majadiliano: Ongoza vikundi kuwasilisha darasani kwa majadiliano ya pamoja."
+      ],
+      "assessment": "Mchango wa mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni umetathminiwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -794,10 +1072,10 @@
       ],
       "assessment": "Mchango wa mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni umetathminiwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w14",
@@ -822,7 +1100,7 @@
         "Picha ya bidhaa zilizozalishwa na jamii za Kitanzania kabla ya ukoloni",
         "Ramani kuonesha maeneo yaliyokuwa ya uzalishaji wa bidhaa kabla ya ukoloni"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -850,7 +1128,7 @@
         "Picha ya bidhaa zilizozalishwa na jamii za Kitanzania kabla ya ukoloni",
         "Ramani kuonesha maeneo yaliyokuwa ya uzalishaji wa bidhaa kabla ya ukoloni"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -866,7 +1144,7 @@
       "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(b) Kubaini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
       "activity_id": "hist-one-18",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii mojawapo ya Kitanzania kabla ya ukoloni.",
@@ -874,10 +1152,10 @@
       ],
       "assessment": "Vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni vimebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w17",
@@ -890,7 +1168,7 @@
       "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
       "learning_activity": "(b) Kubaini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
       "activity_id": "hist-one-18",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii mojawapo ya Kitanzania kabla ya ukoloni.",
@@ -898,10 +1176,58 @@
       ],
       "assessment": "Vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni vimebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kubaini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+      "activity_id": "hist-one-18",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii mojawapo ya Kitanzania kabla ya ukoloni.",
+        "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kuzungumzia jamii zingine za Kitanzania"
+      ],
+      "assessment": "Vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni vimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+      "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kubaini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+      "activity_id": "hist-one-18",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii mojawapo ya Kitanzania kabla ya ukoloni.",
+        "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kuzungumzia jamii zingine za Kitanzania"
+      ],
+      "assessment": "Vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni vimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Kwanza: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
     }
   ]
 }

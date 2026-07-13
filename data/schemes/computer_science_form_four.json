@@ -29,7 +29,7 @@
         "Computer (desktop, laptop, tablets, mobile)",
         "Internet connectivity"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -57,7 +57,7 @@
         "Computer (desktop, laptop, tablets, mobile)",
         "Internet connectivity"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -80,7 +80,7 @@
       ],
       "assessment": "Clearly identify the roles of system administrator and responsibly troubleshoot a system",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -96,16 +96,39 @@
       "specific_competence": "1.4 Demonstrate mastery of systems administration",
       "learning_activity": "(b) Apply troubleshooting tools and techniques",
       "activity_id": "comp-four-41",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Demonstration: Through demonstration guide student to apply troubleshooting and maintenance tools"
       ],
       "assessment": "Clearly identify the roles of system administrator and responsibly troubleshoot a system",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+      "specific_competence": "1.4 Demonstrate mastery of systems administration",
+      "learning_activity": "(c) Use selected OS to Perform system administration tasks",
+      "activity_id": "comp-four-42",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration: Through demonstration guide student to use selected OS to perform system administration duty"
+      ],
+      "assessment": "Responsibly administer and maintain a system",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -126,10 +149,10 @@
       ],
       "assessment": "Responsibly administer and maintain a system",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w6",
@@ -151,7 +174,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -176,7 +199,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -201,7 +224,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -224,7 +247,7 @@
       ],
       "assessment": "Mastery the installation and configuration of CSS and JavaScript interpreter",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -247,7 +270,7 @@
       ],
       "assessment": "Mastery the installation and configuration of CSS and JavaScript interpreter",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -270,7 +293,7 @@
       ],
       "assessment": "Mastery the installation and configuration of CSS and JavaScript interpreter",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -293,7 +316,7 @@
       ],
       "assessment": "Successfully create static webpage using HTML, CSS, and JavaScript",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -316,7 +339,7 @@
       ],
       "assessment": "Successfully create static webpage using HTML, CSS, and JavaScript",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -339,7 +362,7 @@
       ],
       "assessment": "Successfully create static webpage using HTML, CSS, and JavaScript",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -362,7 +385,7 @@
       ],
       "assessment": "Successfully publish the website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -385,7 +408,7 @@
       ],
       "assessment": "Successfully publish the website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -408,7 +431,7 @@
       ],
       "assessment": "Successfully publish the website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -431,7 +454,7 @@
       ],
       "assessment": "Can point out the use of developed website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -454,7 +477,7 @@
       ],
       "assessment": "Can point out the use of developed website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -477,7 +500,7 @@
       ],
       "assessment": "Can point out the use of developed website",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -502,7 +525,7 @@
       "resources": [
         "Computer installed with appropriate programming tools for mobole Apps"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -527,7 +550,7 @@
       "resources": [
         "Computer installed with appropriate programming tools for mobole Apps"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -552,7 +575,7 @@
       "resources": [
         "Computer installed with appropriate programming tools for mobole Apps"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -568,7 +591,7 @@
       "specific_competence": "2.6 Demonstrate mastery of basic principles of mobile App",
       "learning_activity": "(a) Create mobile App using the syntax of the selected program",
       "activity_id": "comp-four-48",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Demonstration: Guide student through demonstration to create mobile app using the syntax of the selected program"
@@ -577,9 +600,32 @@
       "resources": [
         "Computer installed with appropriate programming tools for mobole Apps"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.6 Demonstrate mastery of basic principles of mobile App",
+      "learning_activity": "(b) Publish Mobile Apps",
+      "activity_id": "comp-four-49",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Demonstration: Guide students through demonstration to publish Mobile Apps"
+      ],
+      "assessment": "Can publish a mobile App",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 4
     },
     {
@@ -600,10 +646,10 @@
       ],
       "assessment": "Can publish a mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 3
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w8",
@@ -623,10 +669,10 @@
       ],
       "assessment": "Can publish a mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 3
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w9",
@@ -646,10 +692,10 @@
       ],
       "assessment": "Can publish a mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 3
+      "topic_week": 4,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w10",
@@ -669,7 +715,7 @@
       ],
       "assessment": "Can point out the use of developed mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -692,7 +738,7 @@
       ],
       "assessment": "Can point out the use of developed mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -715,7 +761,7 @@
       ],
       "assessment": "Can point out the use of developed mobile App",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -741,7 +787,7 @@
         "Computer installed with data analysis tools",
         "projector"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -767,7 +813,7 @@
         "Computer installed with data analysis tools",
         "projector"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -783,7 +829,7 @@
       "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
       "learning_activity": "(a) Describe principles of data analysis (data collection, pre-processing, processing, visualization, interpretation)",
       "activity_id": "comp-four-51",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Questions and answer: Through question and answer to guide students to describe principles of data analysis"
@@ -793,10 +839,33 @@
         "Computer installed with data analysis tools",
         "projector"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
+      "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
+      "activity_id": "comp-four-52",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
+      ],
+      "assessment": "Successfully analysis simple data using selected tools",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w16",
@@ -809,17 +878,17 @@
       "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
       "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
       "activity_id": "comp-four-52",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
       ],
       "assessment": "Successfully analysis simple data using selected tools",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w17",
@@ -832,17 +901,63 @@
       "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
       "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
       "activity_id": "comp-four-52",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
       ],
       "assessment": "Successfully analysis simple data using selected tools",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
+      "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
+      "activity_id": "comp-four-52",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
+      ],
+      "assessment": "Successfully analysis simple data using selected tools",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
+      "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
+      "activity_id": "comp-four-52",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
+      ],
+      "assessment": "Successfully analysis simple data using selected tools",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
     }
   ]
 }

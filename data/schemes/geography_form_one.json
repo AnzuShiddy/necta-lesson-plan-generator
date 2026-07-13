@@ -27,7 +27,7 @@
       "resources": [
         "Relevant books, charts, and ICT simulation tools on the concept of Geography"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -53,7 +53,7 @@
       "resources": [
         "Relevant books, charts, and ICT simulation tools on the concept of Geography"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -69,7 +69,7 @@
       "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and Earth systems",
       "learning_activity": "(a) Explain the concept and scope of Geography (branches, importance and relationship with other disciplines)",
       "activity_id": "geog-one-1",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Brainstorming:\nIn manageable groups students brainstorm on the meaning, branches and importance of Geography, and relationship between Geography and other disciplines",
@@ -79,9 +79,36 @@
       "resources": [
         "Relevant books, charts, and ICT simulation tools on the concept of Geography"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and Earth systems",
+      "learning_activity": "(b) Describe the Earth (origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians)",
+      "activity_id": "geog-one-2",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: \nGuide students to brainstorm and present about the origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians",
+        "Field Observation:\nGuide students to observe the Earth’s surface and identify some of the components of the solar system",
+        "Project work:\nGroup students to design a model on the components of the solar system (size, shape, distance, position), and then present in class"
+      ],
+      "assessment": "The Earth is described correctly",
+      "resources": [
+        "Relevant books, globe, picture of solar system, relevant ICT simulation tools and models on the planet earth"
+      ],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -106,10 +133,10 @@
       "resources": [
         "Relevant books, globe, picture of solar system, relevant ICT simulation tools and models on the planet earth"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w5",
@@ -122,7 +149,7 @@
       "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and Earth systems",
       "learning_activity": "(b) Describe the Earth (origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians)",
       "activity_id": "geog-one-2",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Brainstorming: \nGuide students to brainstorm and present about the origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians",
@@ -133,10 +160,37 @@
       "resources": [
         "Relevant books, globe, picture of solar system, relevant ICT simulation tools and models on the planet earth"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
+      "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
+      "activity_id": "geog-one-3",
+      "periods": 1,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
+        "Field observation:\nGuide students to visit the nearby landforms, vegetation and water bodies available in their communities to examine the formation, distribution and their importance to the communities",
+        "Group Discussion:\nGuide students to discuss the size and distribution of continents, then present in the class"
+      ],
+      "assessment": "The major features of the Earth are correctly described",
+      "resources": [
+        "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
+      ],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w6",
@@ -160,10 +214,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 30
+      "topic_week": 2,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w7",
@@ -187,10 +241,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 30
+      "topic_week": 3,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w8",
@@ -214,10 +268,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 30
+      "topic_week": 4,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w9",
@@ -241,10 +295,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 30
+      "topic_week": 5,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w10",
@@ -268,10 +322,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 30
+      "topic_week": 6,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w11",
@@ -295,10 +349,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 30
+      "topic_week": 7,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w12",
@@ -322,10 +376,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 30
+      "topic_week": 8,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w13",
@@ -349,10 +403,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 30
+      "topic_week": 9,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w14",
@@ -376,10 +430,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 30
+      "topic_week": 10,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w15",
@@ -403,10 +457,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 30
+      "topic_week": 11,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w16",
@@ -430,10 +484,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 11,
-      "topic_weeks": 30
+      "topic_week": 12,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w17",
@@ -457,10 +511,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 12,
-      "topic_weeks": 30
+      "topic_week": 13,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s1w18",
@@ -484,10 +538,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 13,
-      "topic_weeks": 30
+      "topic_week": 14,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w1",
@@ -511,10 +565,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 14,
-      "topic_weeks": 30
+      "topic_week": 15,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w2",
@@ -538,10 +592,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 15,
-      "topic_weeks": 30
+      "topic_week": 16,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w3",
@@ -565,10 +619,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 16,
-      "topic_weeks": 30
+      "topic_week": 17,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w4",
@@ -592,10 +646,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 17,
-      "topic_weeks": 30
+      "topic_week": 18,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w5",
@@ -619,10 +673,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 18,
-      "topic_weeks": 30
+      "topic_week": 19,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w6",
@@ -646,10 +700,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 19,
-      "topic_weeks": 30
+      "topic_week": 20,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w7",
@@ -673,10 +727,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 20,
-      "topic_weeks": 30
+      "topic_week": 21,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w8",
@@ -700,10 +754,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 21,
-      "topic_weeks": 30
+      "topic_week": 22,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w9",
@@ -727,10 +781,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 22,
-      "topic_weeks": 30
+      "topic_week": 23,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w10",
@@ -754,10 +808,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 23,
-      "topic_weeks": 30
+      "topic_week": 24,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w11",
@@ -781,10 +835,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 24,
-      "topic_weeks": 30
+      "topic_week": 25,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w12",
@@ -808,10 +862,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 25,
-      "topic_weeks": 30
+      "topic_week": 26,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w13",
@@ -835,10 +889,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 26,
-      "topic_weeks": 30
+      "topic_week": 27,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w14",
@@ -862,10 +916,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 27,
-      "topic_weeks": 30
+      "topic_week": 28,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w15",
@@ -878,7 +932,7 @@
       "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
       "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
       "activity_id": "geog-one-3",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
@@ -889,10 +943,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 28,
-      "topic_weeks": 30
+      "topic_week": 29,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w16",
@@ -905,7 +959,7 @@
       "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
       "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
       "activity_id": "geog-one-3",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
@@ -916,10 +970,10 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 29,
-      "topic_weeks": 30
+      "topic_week": 30,
+      "topic_weeks": 33
     },
     {
       "entry_id": "s2w17",
@@ -943,10 +997,64 @@
       "resources": [
         "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
       ],
-      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 30,
-      "topic_weeks": 30
+      "topic_week": 31,
+      "topic_weeks": 33
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
+      "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
+      "activity_id": "geog-one-3",
+      "periods": 1,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
+        "Field observation:\nGuide students to visit the nearby landforms, vegetation and water bodies available in their communities to examine the formation, distribution and their importance to the communities",
+        "Group Discussion:\nGuide students to discuss the size and distribution of continents, then present in the class"
+      ],
+      "assessment": "The major features of the Earth are correctly described",
+      "resources": [
+        "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
+      ],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 32,
+      "topic_weeks": 33
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
+      "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
+      "activity_id": "geog-one-3",
+      "periods": 1,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
+        "Field observation:\nGuide students to visit the nearby landforms, vegetation and water bodies available in their communities to examine the formation, distribution and their importance to the communities",
+        "Group Discussion:\nGuide students to discuss the size and distribution of continents, then present in the class"
+      ],
+      "assessment": "The major features of the Earth are correctly described",
+      "resources": [
+        "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
+      ],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 33,
+      "topic_weeks": 33
     }
   ]
 }

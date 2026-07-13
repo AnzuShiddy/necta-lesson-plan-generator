@@ -27,7 +27,7 @@
       "resources": [
         "Nakala za wasifukazi na tawasifu"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -53,7 +53,7 @@
       "resources": [
         "Nakala za wasifukazi na tawasifu"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -79,7 +79,7 @@
       "resources": [
         "Nakala za wasifukazi na tawasifu"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -105,7 +105,7 @@
       "resources": [
         "Nakala za wasifukazi na tawasifu"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -130,7 +130,7 @@
       "resources": [
         "Diwani mbalimbali na matini zenye mashairi, riwaya, tamthiliya, chati ya fani na maudhui"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -146,7 +146,7 @@
       "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
       "learning_activity": "(a)  Kujadili dhana ya mashairi andishi",
       "activity_id": "kisw-four-56",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Uchambuzi wa matini: Waongoze wanafunzi kusoma matini zenye mashairi andishi kisha waeleze dhana ya mashairi andishi"
@@ -155,10 +155,35 @@
       "resources": [
         "Diwani mbalimbali na matini zenye mashairi, riwaya, tamthiliya, chati ya fani na maudhui"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
+      "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
+      "learning_activity": "(b)  Kuhakiki fani na maudhui katika mashairi andishi",
+      "activity_id": "kisw-four-57",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini: Waongoze wanafunzi kusoma matini zenye mashairi andishi kisha wachambue vipengele vya fani na maudhui vya utanzu huo"
+      ],
+      "assessment": "Fani na maudhui katika mashairi andishi vimehakikiwa",
+      "resources": [
+        "Diwani mbalimbali na matini zenye mashairi, riwaya, tamthiliya, chati ya fani na maudhui"
+      ],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w7",
@@ -180,10 +205,10 @@
       "resources": [
         "Diwani mbalimbali na matini zenye mashairi, riwaya, tamthiliya, chati ya fani na maudhui"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w8",
@@ -196,7 +221,7 @@
       "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
       "learning_activity": "(b)  Kuhakiki fani na maudhui katika mashairi andishi",
       "activity_id": "kisw-four-57",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Uchambuzi wa matini: Waongoze wanafunzi kusoma matini zenye mashairi andishi kisha wachambue vipengele vya fani na maudhui vya utanzu huo"
@@ -205,10 +230,33 @@
       "resources": [
         "Diwani mbalimbali na matini zenye mashairi, riwaya, tamthiliya, chati ya fani na maudhui"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
+      "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
+      "learning_activity": "(c)  Kuhakiki fani na maudhui katika riwaya",
+      "activity_id": "kisw-four-58",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kusoma riwaya teule kisha wabainishe vipengele vya fani na maudhui"
+      ],
+      "assessment": "Fani na maudhui katika riwaya vimehakikiwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w9",
@@ -228,10 +276,10 @@
       ],
       "assessment": "Fani na maudhui katika riwaya vimehakikiwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w10",
@@ -242,16 +290,39 @@
       "end_date": "2026-03-20",
       "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
       "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
+      "learning_activity": "(c)  Kuhakiki fani na maudhui katika riwaya",
+      "activity_id": "kisw-four-58",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kusoma riwaya teule kisha wabainishe vipengele vya fani na maudhui"
+      ],
+      "assessment": "Fani na maudhui katika riwaya vimehakikiwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
+      "specific_competence": "2.1  Kuhakiki kazi za fasihi ya Kiswahili",
       "learning_activity": "(d)  Kuhusianisha kazi za fasihi na maisha halisi",
       "activity_id": "kisw-four-59",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Majadiliano: Waongoze wanafunzi katika vikundi kujadiliana namna ujumbe walioupata katika kazi walizozihakiki unavyofungamana na maisha halisi"
       ],
       "assessment": "Kazi za fasihi zimehusanishwa na maisha halisi",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -274,7 +345,7 @@
       ],
       "assessment": "Kazi za fasihi zimehusanishwa na maisha halisi",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -300,7 +371,7 @@
       "resources": [
         "Matini zenye hadithi, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -326,7 +397,7 @@
       "resources": [
         "Matini zenye hadithi, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -342,7 +413,7 @@
       "specific_competence": "2.2   Kubuni kazi za fasihi ya Kiswahili",
       "learning_activity": "(a)  Kujadili kanuni za utunzi wa hadithi fupi simulizi na andishi",
       "activity_id": "kisw-four-60",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 11,
       "teaching_learning_activities": [
         "Masimulizi: Waongoze wanafunzi kusimuliana hadithi mbalimbali kisha wajadili kanuni za utunzi",
@@ -352,10 +423,33 @@
       "resources": [
         "Matini zenye hadithi, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
+      "specific_competence": "2.2   Kubuni kazi za fasihi ya Kiswahili",
+      "learning_activity": "(b)  Kutunga hadithi fupi simulizi na andishi",
+      "activity_id": "kisw-four-61",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi kutunga hadithi fupi na hadithi simulizi"
+      ],
+      "assessment": "Hadithi fupi na hadithi simulizi zimetungwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w15",
@@ -375,10 +469,10 @@
       ],
       "assessment": "Hadithi fupi na hadithi simulizi zimetungwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w16",
@@ -398,10 +492,10 @@
       ],
       "assessment": "Hadithi fupi na hadithi simulizi zimetungwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w17",
@@ -412,9 +506,32 @@
       "end_date": "2026-05-29",
       "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
       "specific_competence": "2.2   Kubuni kazi za fasihi ya Kiswahili",
+      "learning_activity": "(b)  Kutunga hadithi fupi simulizi na andishi",
+      "activity_id": "kisw-four-61",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi kutunga hadithi fupi na hadithi simulizi"
+      ],
+      "assessment": "Hadithi fupi na hadithi simulizi zimetungwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0  Kuthamini kazi za fasihi ya Kiswahili",
+      "specific_competence": "2.2   Kubuni kazi za fasihi ya Kiswahili",
       "learning_activity": "(c)   Kutamba hadithi",
       "activity_id": "kisw-four-62",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Masimulizi: Waongoze wanafunzi kutamba hadithi simulizi",
@@ -422,7 +539,7 @@
       ],
       "assessment": "Hadithi zimetambwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -446,7 +563,7 @@
       ],
       "assessment": "Hadithi zimetambwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -470,7 +587,7 @@
       ],
       "assessment": "Hadithi zimetambwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -495,7 +612,7 @@
       "resources": [
         "Matini mbalimbali, kamusi, orodha ya vifupisho na orodha ya istilahi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -520,7 +637,7 @@
       "resources": [
         "Matini mbalimbali, kamusi, orodha ya vifupisho na orodha ya istilahi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -536,7 +653,7 @@
       "specific_competence": "3.1  Kufanya tafsiri sahili katika lugha ya Kiswahili",
       "learning_activity": "(a)  Kutafsiri matini ndefu sahili",
       "activity_id": "kisw-four-63",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Kazimradi: Waweke wanafunzi katika vikundi vidogovidogo, wape matini wazitafsiri katika muda maalumu kisha waziwasilishe darasani"
@@ -545,9 +662,32 @@
       "resources": [
         "Matini mbalimbali, kamusi, orodha ya vifupisho na orodha ya istilahi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.1  Kufanya tafsiri sahili katika lugha ya Kiswahili",
+      "learning_activity": "(b)  Kutathmini matini zilizotafsiriwa",
+      "activity_id": "kisw-four-64",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini: Waongoze wanafunzi kusoma matini zilizotafsiriwa, wabainishe makosa yaliyomo, kisha wapendekeze tafsiri sahihi katika vipengele vyenye makosa"
+      ],
+      "assessment": "Matini zilizotafsiriwa zimetathminiwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -568,10 +708,10 @@
       ],
       "assessment": "Matini zilizotafsiriwa zimetathminiwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w6",
@@ -591,10 +731,10 @@
       ],
       "assessment": "Matini zilizotafsiriwa zimetathminiwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w7",
@@ -616,7 +756,7 @@
       "resources": [
         "Matini mbalimbali, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -641,7 +781,7 @@
       "resources": [
         "Matini mbalimbali, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -657,7 +797,7 @@
       "specific_competence": "3.2  Kuhariri matini mbalimbali za Kiswahili",
       "learning_activity": "(a)  Kuhariri matini ndefu za Kiswahili",
       "activity_id": "kisw-four-65",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Uchambuzi wa matini: Waongoze wanafunzi kuchambua matini mbalimbali kisha wabainishe makosa ya kiuandishi, na kuzihariri matini hizo"
@@ -666,9 +806,32 @@
       "resources": [
         "Matini mbalimbali, kamusi"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.2  Kuhariri matini mbalimbali za Kiswahili",
+      "learning_activity": "(b)  Kutathmini matini zilizohaririwa",
+      "activity_id": "kisw-four-66",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kazimradi: Wape wanafunzi matini zilizohaririwa, wazisome na kuzitathimini katika muda maalumu kisha waziwasilishe darasani"
+      ],
+      "assessment": "Matini zilizohaririwa zimetathminiwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -689,10 +852,10 @@
       ],
       "assessment": "Matini zilizohaririwa zimetathminiwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w11",
@@ -712,10 +875,10 @@
       ],
       "assessment": "Matini zilizohaririwa zimetathminiwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w12",
@@ -728,7 +891,7 @@
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
       "learning_activity": "(a)  Kujadili dhana na misingi ya ukalimani",
       "activity_id": "kisw-four-67",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu maana na istilahi zinazotokana na fasili ya ukalimani",
@@ -738,10 +901,10 @@
       "resources": [
         "Video zenye maudhui ya ukalimani"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w13",
@@ -754,7 +917,7 @@
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
       "learning_activity": "(a)  Kujadili dhana na misingi ya ukalimani",
       "activity_id": "kisw-four-67",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu maana na istilahi zinazotokana na fasili ya ukalimani",
@@ -764,10 +927,10 @@
       "resources": [
         "Video zenye maudhui ya ukalimani"
       ],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w14",
@@ -778,19 +941,45 @@
       "end_date": "2026-10-30",
       "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
+      "learning_activity": "(a)  Kujadili dhana na misingi ya ukalimani",
+      "activity_id": "kisw-four-67",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu maana na istilahi zinazotokana na fasili ya ukalimani",
+        "Majadiliano: Waongoze wanafunzi katika vikundi kujadili misingi ya ukalimani"
+      ],
+      "assessment": "Dhana na misingi ya ukalimani imejadiliwa",
+      "resources": [
+        "Video zenye maudhui ya ukalimani"
+      ],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
       "learning_activity": "(b)  Kueleza stadi muhimu katika ukalimani",
       "activity_id": "kisw-four-68",
-      "periods": 4,
+      "periods": 1,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Maswali na majibu: Wanafunzi wasikilize ukalimani, kisha mwalimu awaulize na kuwaongoza kujibu maswali kuhusu stadi muhimu za ukalimani"
       ],
       "assessment": "Stadi muhimu katika ukalimani zimeelezwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w15",
@@ -803,17 +992,17 @@
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
       "learning_activity": "(b)  Kueleza stadi muhimu katika ukalimani",
       "activity_id": "kisw-four-68",
-      "periods": 4,
+      "periods": 3,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Maswali na majibu: Wanafunzi wasikilize ukalimani, kisha mwalimu awaulize na kuwaongoza kujibu maswali kuhusu stadi muhimu za ukalimani"
       ],
       "assessment": "Stadi muhimu katika ukalimani zimeelezwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w16",
@@ -824,19 +1013,19 @@
       "end_date": "2026-11-13",
       "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
-      "learning_activity": "(c)  Kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali",
-      "activity_id": "kisw-four-69",
-      "periods": 4,
+      "learning_activity": "(b)  Kueleza stadi muhimu katika ukalimani",
+      "activity_id": "kisw-four-68",
+      "periods": 3,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Igizodhima: Waongoze wanafunzi kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali"
+        "Maswali na majibu: Wanafunzi wasikilize ukalimani, kisha mwalimu awaulize na kuwaongoza kujibu maswali kuhusu stadi muhimu za ukalimani"
       ],
-      "assessment": "Mazungumzo mafupi na sahili yamekalimaniwa katika miktadha mbalimbali",
+      "assessment": "Stadi muhimu katika ukalimani zimeelezwa",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w17",
@@ -847,19 +1036,88 @@
       "end_date": "2026-11-20",
       "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
       "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
+      "learning_activity": "(b)  Kueleza stadi muhimu katika ukalimani",
+      "activity_id": "kisw-four-68",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi wasikilize ukalimani, kisha mwalimu awaulize na kuwaongoza kujibu maswali kuhusu stadi muhimu za ukalimani"
+      ],
+      "assessment": "Stadi muhimu katika ukalimani zimeelezwa",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17-2",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
       "learning_activity": "(c)  Kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali",
       "activity_id": "kisw-four-69",
-      "periods": 4,
+      "periods": 2,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Igizodhima: Waongoze wanafunzi kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali"
       ],
       "assessment": "Mazungumzo mafupi na sahili yamekalimaniwa katika miktadha mbalimbali",
       "resources": [],
-      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
+      "learning_activity": "(c)  Kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali",
+      "activity_id": "kisw-four-69",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo mafupi na sahili yamekalimaniwa katika miktadha mbalimbali",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0  Kutoa huduma ya lugha ya Kiswahili katika jamii",
+      "specific_competence": "3.3  Kufanya ukalimani sahili kwa lugha ya Kiswahili",
+      "learning_activity": "(c)  Kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali",
+      "activity_id": "kisw-four-69",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kukalimani mazungumzo mafupi na sahili katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo mafupi na sahili yamekalimaniwa katika miktadha mbalimbali",
+      "resources": [],
+      "references": "TET, Kiswahili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
     }
   ]
 }

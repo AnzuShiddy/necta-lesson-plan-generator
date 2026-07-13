@@ -27,7 +27,7 @@
       "resources": [
         "Selected literary texts and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -53,7 +53,7 @@
       "resources": [
         "Selected literary texts and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -69,7 +69,7 @@
       "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
       "learning_activity": "(a)  Analyse themes depicted in selected plays",
       "activity_id": "lite-four-32",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Engagement with a text: Guide students in manageable groups through reading, analysing and discussing the depicted themes in a selected play",
@@ -79,9 +79,32 @@
       "resources": [
         "Selected literary texts and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+      "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+      "learning_activity": "(b)  Analyse conflicts portrayed in selected plays",
+      "activity_id": "lite-four-33",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups through discussing characters relationships, tensions and misunderstandings in selected plays"
+      ],
+      "assessment": "Conflicts portrayed in selected plays are well analysed",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -102,10 +125,10 @@
       ],
       "assessment": "Conflicts portrayed in selected plays are well analysed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w5",
@@ -125,10 +148,10 @@
       ],
       "assessment": "Conflicts portrayed in selected plays are well analysed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w6",
@@ -149,7 +172,7 @@
       ],
       "assessment": "Personal experiences are well related to themes in selected plays",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -173,7 +196,7 @@
       ],
       "assessment": "Personal experiences are well related to themes in selected plays",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -189,7 +212,7 @@
       "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
       "learning_activity": "(c)  Relate personal experiences to themes in selected plays",
       "activity_id": "lite-four-34",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Brainstorming: Guide students in manageable groups through brainstorming personal life experiences",
@@ -197,9 +220,32 @@
       ],
       "assessment": "Personal experiences are well related to themes in selected plays",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+      "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+      "learning_activity": "(d)  Discuss the  motivations of characters’ choices and decisions in selected plays",
+      "activity_id": "lite-four-35",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Engagement with a text: Guide students in manageable groups through discussing intrinsic and extrinsic reasons for character’s behaviors, choices and decisions in selected plays"
+      ],
+      "assessment": "Motivations of characters’ choices and decisions in selected plays are well discussed",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -220,10 +266,10 @@
       ],
       "assessment": "Motivations of characters’ choices and decisions in selected plays are well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w10",
@@ -243,10 +289,10 @@
       ],
       "assessment": "Motivations of characters’ choices and decisions in selected plays are well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w11",
@@ -267,7 +313,7 @@
       ],
       "assessment": "Solutions to challenges depicted in selected plays are clearly suggested",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -291,7 +337,7 @@
       ],
       "assessment": "Solutions to challenges depicted in selected plays are clearly suggested",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -307,7 +353,7 @@
       "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
       "learning_activity": "(e)  Suggest solutions to challenges depicted in selected plays",
       "activity_id": "lite-four-36",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Dramatisation: Guide students through staging some scenes portraying challenges in a selected play",
@@ -315,9 +361,34 @@
       ],
       "assessment": "Solutions to challenges depicted in selected plays are clearly suggested",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Compose literary works",
+      "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+      "learning_activity": "(a)  Explain the concepts of character, plot, setting, stage direction and spectacle in a play",
+      "activity_id": "lite-four-37",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups through discussing the concepts of character, plot, setting, stage direction and spectacle"
+      ],
+      "assessment": "The concepts of character, plot, setting, stage direction and spectacle are well explained",
+      "resources": [
+        "Selected literary texts and audio/audio-visual materials"
+      ],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -340,10 +411,10 @@
       "resources": [
         "Selected literary texts and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w15",
@@ -365,10 +436,10 @@
       "resources": [
         "Selected literary texts and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w16",
@@ -389,7 +460,7 @@
       ],
       "assessment": "Stages of plot development are correctly analysed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -413,7 +484,7 @@
       ],
       "assessment": "Stages of plot development are correctly analysed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -429,7 +500,7 @@
       "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
       "learning_activity": "(b)  Analyse stages of plot development",
       "activity_id": "lite-four-38",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Project activity: Task students to analyse stages of plot development a play of their choice (exposition, rising action, climax, falling action and resolution)",
@@ -437,9 +508,32 @@
       ],
       "assessment": "Stages of plot development are correctly analysed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Compose literary works",
+      "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+      "learning_activity": "(c)  Apply literary skills to compose a two-acts play",
+      "activity_id": "lite-four-39",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Collaborative composition: Guide students in pairs or groups through composing a play"
+      ],
+      "assessment": "Literary skills for composing a two-acts play are correctly applied",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -460,10 +554,10 @@
       ],
       "assessment": "Literary skills for composing a two-acts play are correctly applied",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w2",
@@ -483,10 +577,10 @@
       ],
       "assessment": "Literary skills for composing a two-acts play are correctly applied",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w3",
@@ -508,7 +602,7 @@
       ],
       "assessment": "Dramatic and situational irony in selected plays are well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -533,7 +627,7 @@
       ],
       "assessment": "Dramatic and situational irony in selected plays are well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -549,7 +643,7 @@
       "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
       "learning_activity": "(a)  Discuss dramatic and situational irony in selected plays",
       "activity_id": "lite-four-40",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Engagement with texts: Guide students through analysing congruities between what happens and what is expected; what is known to audience and what is known to characters",
@@ -558,9 +652,33 @@
       ],
       "assessment": "Dramatic and situational irony in selected plays are well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Compose literary works",
+      "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+      "learning_activity": "(b)  Discuss the effectiveness of suspense in selected plays",
+      "activity_id": "lite-four-41",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Engagement with texts: Guide students in manageable groups through analysing how conflict, pacing, red herrings, atmosphere and high stakes are used in selected plays",
+        "Discussion: Guide students in manageable groups through discussing how suspense controls the story line in selected plays"
+      ],
+      "assessment": "The effectiveness of suspense in selected plays is well discussed",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -582,10 +700,10 @@
       ],
       "assessment": "The effectiveness of suspense in selected plays is well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w7",
@@ -606,10 +724,10 @@
       ],
       "assessment": "The effectiveness of suspense in selected plays is well discussed",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w8",
@@ -630,7 +748,7 @@
       ],
       "assessment": "Creation of ambiguity through antithesis in selected plays is well explained",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -654,7 +772,7 @@
       ],
       "assessment": "Creation of ambiguity through antithesis in selected plays is well explained",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -670,7 +788,7 @@
       "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
       "learning_activity": "(c)  Explain how antithesis creates ambiguity in selected plays",
       "activity_id": "lite-four-42",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Engagement with texts: Guide students through identifying exciting, apprehensive and uncertain conditions; disappointing ends; self-contradicting statements; and deliberate misleads in selected plays",
@@ -678,9 +796,35 @@
       ],
       "assessment": "Creation of ambiguity through antithesis in selected plays is well explained",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.3    Create imaginative and original literary works",
+      "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+      "learning_activity": "(a) Make a plan for composing a play (plot, setting, characterisation and stage direction)",
+      "activity_id": "lite-four-43",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Shared planning: Collaborate with students to make a plan for composing a play",
+        "Collaborative planning: Guide students in pairs or manageable groups through making a plan for composing a play"
+      ],
+      "assessment": "A plan for composing a play is correctly made",
+      "resources": [
+        "Selected literary texts, ICT tools and audio/audio-visual materials"
+      ],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -704,10 +848,10 @@
       "resources": [
         "Selected literary texts, ICT tools and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w12",
@@ -730,10 +874,10 @@
       "resources": [
         "Selected literary texts, ICT tools and audio/audio-visual materials"
       ],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w13",
@@ -753,7 +897,7 @@
       ],
       "assessment": "Literary skills for composing a two-acts play are correctly applied",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -776,7 +920,7 @@
       ],
       "assessment": "Literary skills for composing a two-acts play are correctly applied",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -792,17 +936,41 @@
       "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
       "learning_activity": "(b)  Apply literary skills to compose a two-acts play",
       "activity_id": "lite-four-44",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Independent composition: Guide individual students through composing a two-acts play"
       ],
       "assessment": "Literary skills for composing a two-acts play are correctly applied",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.3    Create imaginative and original literary works",
+      "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+      "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
+      "activity_id": "lite-four-45",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Skills lab: Guide students through composing a play using ICT tools",
+        "Publishing: Guide students independently or in manageable groups through publishing their plays on available digital platforms"
+      ],
+      "assessment": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w16",
@@ -815,7 +983,7 @@
       "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
       "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
       "activity_id": "lite-four-45",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Skills lab: Guide students through composing a play using ICT tools",
@@ -823,10 +991,10 @@
       ],
       "assessment": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w17",
@@ -839,7 +1007,7 @@
       "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
       "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
       "activity_id": "lite-four-45",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Skills lab: Guide students through composing a play using ICT tools",
@@ -847,10 +1015,58 @@
       ],
       "assessment": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
       "resources": [],
-      "references": "Literature in English Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.3    Create imaginative and original literary works",
+      "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+      "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
+      "activity_id": "lite-four-45",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Skills lab: Guide students through composing a play using ICT tools",
+        "Publishing: Guide students independently or in manageable groups through publishing their plays on available digital platforms"
+      ],
+      "assessment": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.3    Create imaginative and original literary works",
+      "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+      "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
+      "activity_id": "lite-four-45",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Skills lab: Guide students through composing a play using ICT tools",
+        "Publishing: Guide students independently or in manageable groups through publishing their plays on available digital platforms"
+      ],
+      "assessment": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
+      "resources": [],
+      "references": "TIE, Literature in English for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
     }
   ]
 }

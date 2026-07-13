@@ -29,7 +29,7 @@
         "Hand outs",
         "standard codes"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -45,7 +45,7 @@
       "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
       "learning_activity": "(a) Describe the concept of data representation (digital data, number systems, data type, character coding (UNICODE and ASCII)",
       "activity_id": "comp-three-24",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Question-and-answer",
@@ -57,9 +57,32 @@
         "Hand outs",
         "standard codes"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(b) Represent numbers in different number systems (binary, octal, decimal, and hexadecimal)",
+      "activity_id": "comp-three-25",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently represent numbers in different number systems",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -80,10 +103,10 @@
       ],
       "assessment": "Confidently represent numbers in different number systems",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w4",
@@ -103,7 +126,7 @@
       ],
       "assessment": "Competently convert numbers from one system to another",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -126,7 +149,7 @@
       ],
       "assessment": "Capability to perform arithmetic operations",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -151,7 +174,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -176,7 +199,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -201,7 +224,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -226,7 +249,7 @@
       "resources": [
         "Computer installed with appropriate programming tools"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 4
@@ -249,7 +272,7 @@
       ],
       "assessment": "Confidently describe and use the concept of scope of variable",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -272,7 +295,7 @@
       ],
       "assessment": "Confidently describe and use the concept of scope of variable",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -295,7 +318,7 @@
       ],
       "assessment": "Confidently describe and use the concept of scope of variable",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -318,7 +341,7 @@
       ],
       "assessment": "Confidently describe and use the concept of scope of variable",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 4
@@ -341,7 +364,7 @@
       ],
       "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 4
@@ -364,7 +387,7 @@
       ],
       "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 4
@@ -387,7 +410,7 @@
       ],
       "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 4
@@ -403,16 +426,39 @@
       "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
       "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
       "activity_id": "comp-three-30",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Demonstration"
       ],
       "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(d) Appraise the utility of the developed program",
+      "activity_id": "comp-three-31",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Questions and answer"
+      ],
+      "assessment": "Clearly evaluate the efficacy of the developed application",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 4
     },
     {
@@ -433,10 +479,10 @@
       ],
       "assessment": "Clearly evaluate the efficacy of the developed application",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 3
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w1",
@@ -456,10 +502,10 @@
       ],
       "assessment": "Clearly evaluate the efficacy of the developed application",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 3
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w2",
@@ -479,10 +525,10 @@
       ],
       "assessment": "Clearly evaluate the efficacy of the developed application",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 3
+      "topic_week": 4,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w3",
@@ -505,7 +551,7 @@
         "Computer with installed internet",
         "network cables and network card"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -531,7 +577,7 @@
         "Computer with installed internet",
         "network cables and network card"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -554,7 +600,7 @@
       ],
       "assessment": "Can design a simple computer network of a given topology",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -570,16 +616,40 @@
       "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
       "learning_activity": "(b) Design a simple computer network involving a typical topology",
       "activity_id": "comp-three-33",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 3,
       "teaching_learning_activities": [
         "Demonstration"
       ],
       "assessment": "Can design a simple computer network of a given topology",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(c) Create a computer network involving typical topology",
+      "activity_id": "comp-three-34",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration",
+        "Practical work"
+      ],
+      "assessment": "Confidently can use topology, data transmission mode and media to set computer network",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -601,10 +671,10 @@
       ],
       "assessment": "Confidently can use topology, data transmission mode and media to set computer network",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w8",
@@ -626,7 +696,7 @@
       "resources": [
         "Computer installed with appropriate tools for managing data"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -651,7 +721,7 @@
       "resources": [
         "Computer installed with appropriate tools for managing data"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -674,7 +744,7 @@
       ],
       "assessment": "Successfully manage simple data",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -697,7 +767,7 @@
       ],
       "assessment": "Successfully manage simple data",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -720,7 +790,7 @@
       ],
       "assessment": "Explicitly elaborate the concept of database and database management system",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -743,7 +813,7 @@
       ],
       "assessment": "Explicitly elaborate the concept of database and database management system",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -769,7 +839,7 @@
       "resources": [
         "Computer installed with appropriate tools for database design"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -795,7 +865,7 @@
       "resources": [
         "Computer installed with appropriate tools for database design"
       ],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -811,17 +881,17 @@
       "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
       "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
       "activity_id": "comp-three-39",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Practical work"
       ],
       "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w17",
@@ -834,17 +904,63 @@
       "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
       "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
       "activity_id": "comp-three-39",
-      "periods": 2,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Practical work"
       ],
       "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
       "resources": [],
-      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
+      "activity_id": "comp-three-39",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Practical work"
+      ],
+      "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
+      "activity_id": "comp-three-39",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Practical work"
+      ],
+      "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
+      "resources": [],
+      "references": "TIE, Computer Science for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
     }
   ]
 }

@@ -31,7 +31,7 @@
         "cardboard with slit",
         "light emitting diodes and fluorescent tube"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -61,7 +61,7 @@
         "cardboard with slit",
         "light emitting diodes and fluorescent tube"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -77,7 +77,7 @@
       "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
       "learning_activity": "(a) Describe the concept and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
       "activity_id": "phys-two-18",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concepts and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
@@ -91,10 +91,40 @@
         "cardboard with slit",
         "light emitting diodes and fluorescent tube"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(b) Describe the concept and principles of magnetism (magnetization and demagnetization, magnetic fields)",
+      "activity_id": "phys-two-19",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concepts and principles of magnetism through hands-on activities",
+        "ICT based learning: Guide the students through the use of interactive simulations and animations to visualise magnetic field patterns",
+        "Project work: Guide students in groups to work on different projects on magnetization and demagnetization of different materials"
+      ],
+      "assessment": "The concepts and principles of magnetism are described correctly",
+      "resources": [
+        "Different types of magnets",
+        "iron fillings",
+        "card board",
+        "connecting wires and batteries"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w4",
@@ -121,10 +151,10 @@
         "card board",
         "connecting wires and batteries"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w5",
@@ -151,10 +181,10 @@
         "card board",
         "connecting wires and batteries"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w6",
@@ -165,9 +195,39 @@
       "end_date": "2026-02-20",
       "main_competence": "1.0 Apply knowledge of Physics in various contexts",
       "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(b) Describe the concept and principles of magnetism (magnetization and demagnetization, magnetic fields)",
+      "activity_id": "phys-two-19",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concepts and principles of magnetism through hands-on activities",
+        "ICT based learning: Guide the students through the use of interactive simulations and animations to visualise magnetic field patterns",
+        "Project work: Guide students in groups to work on different projects on magnetization and demagnetization of different materials"
+      ],
+      "assessment": "The concepts and principles of magnetism are described correctly",
+      "resources": [
+        "Different types of magnets",
+        "iron fillings",
+        "card board",
+        "connecting wires and batteries"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
       "learning_activity": "(c) Explain the concept and principles of static electricity (detection of static charges, types of materials, capacitors, charge distributions and lightning conductor)",
       "activity_id": "phys-two-20",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Practical Work and Experiment: Guide learners to explore the concepts and principles of static electricity through hands-on activities.",
@@ -182,7 +242,7 @@
         "capacitor and lighting conductor",
         "rod and wires"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -213,7 +273,7 @@
         "capacitor and lighting conductor",
         "rod and wires"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -229,7 +289,7 @@
       "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
       "learning_activity": "(c) Explain the concept and principles of static electricity (detection of static charges, types of materials, capacitors, charge distributions and lightning conductor)",
       "activity_id": "phys-two-20",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Practical Work and Experiment: Guide learners to explore the concepts and principles of static electricity through hands-on activities.",
@@ -244,9 +304,41 @@
         "capacitor and lighting conductor",
         "rod and wires"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(d) Describe the concept and laws of current electricity (electromotive force, potential difference, resistance, effect of electric current, domestic electrical installation)",
+      "activity_id": "phys-two-21",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the concept of current electricity",
+        "Hands-on activity: Guide learners to explore the concept and laws of current electricity through hands-on activities.",
+        "Interactive simulations: Facilitate students to visualize the flow of charges"
+      ],
+      "assessment": "The concept and laws of current electricity are described correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistors",
+        "connecting wire and batteries"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -276,10 +368,10 @@
         "resistors",
         "connecting wire and batteries"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w10",
@@ -308,10 +400,10 @@
         "resistors",
         "connecting wire and batteries"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w11",
@@ -335,7 +427,7 @@
       "resources": [
         "Text books"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -362,7 +454,7 @@
       "resources": [
         "Text books"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -389,7 +481,7 @@
       "resources": [
         "Text books"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -424,7 +516,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 7
@@ -459,7 +551,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 7
@@ -494,7 +586,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 7
@@ -529,7 +621,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 7
@@ -564,7 +656,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
       "topic_weeks": 7
@@ -599,7 +691,7 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
       "topic_weeks": 7
@@ -615,7 +707,7 @@
       "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
       "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
       "activity_id": "phys-two-23",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 20,
       "teaching_learning_activities": [
         "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
@@ -634,10 +726,34 @@
         "triangular prism",
         "plane mirrors and curved mirrors"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
       "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Use spreadsheet to process experimental data in physics",
+      "activity_id": "phys-two-24",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through the use of ICT-programs such as spreadsheet to process experimental data in Physics",
+        "Experimentation: Guide students through experiments to deduce the relationship between various parameters related to light, magnetism, static electricity and current electricity"
+      ],
+      "assessment": "Experimental data are correctily processed using various spread sheet programs",
+      "resources": [],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w3",
@@ -658,10 +774,10 @@
       ],
       "assessment": "Experimental data are correctily processed using various spread sheet programs",
       "resources": [],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 3
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w4",
@@ -682,10 +798,10 @@
       ],
       "assessment": "Experimental data are correctily processed using various spread sheet programs",
       "resources": [],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 3
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w5",
@@ -706,10 +822,10 @@
       ],
       "assessment": "Experimental data are correctily processed using various spread sheet programs",
       "resources": [],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 3
+      "topic_week": 4,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w6",
@@ -737,7 +853,7 @@
         "manila",
         "chart other resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -768,7 +884,7 @@
         "manila",
         "chart other resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -799,7 +915,7 @@
         "manila",
         "chart other resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -826,10 +942,10 @@
       "resources": [
         "Variuos graphs based on experimental data and Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w10",
@@ -842,7 +958,7 @@
       "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
       "learning_activity": "(c) Communicate experimental results orally",
       "activity_id": "phys-two-26",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
@@ -853,10 +969,10 @@
       "resources": [
         "Variuos graphs based on experimental data and Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w11",
@@ -869,7 +985,7 @@
       "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
       "learning_activity": "(c) Communicate experimental results orally",
       "activity_id": "phys-two-26",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 9,
       "teaching_learning_activities": [
         "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
@@ -880,10 +996,10 @@
       "resources": [
         "Variuos graphs based on experimental data and Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w12",
@@ -892,11 +1008,38 @@
       "month": "October",
       "start_date": "2026-10-12",
       "end_date": "2026-10-16",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Communicate experimental results orally",
+      "activity_id": "phys-two-26",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
+        "Problem-based learning: Guide students with real-world problems that require them to analyse and interpret graphs to determine the mathematical relationship between variables",
+        "Guided practice approach: Facilitate students with guided practice in analysing and interpreting graphs"
+      ],
+      "assessment": "The experimental results are communicate orally correctly",
+      "resources": [
+        "Variuos graphs based on experimental data and Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
       "main_competence": "3.0 Evaluate and use information in Physics",
       "specific_competence": "3.1 Collect, describe and relate physical data",
       "learning_activity": "(a) Collect and analyse data to explain various physical quantities (light, magnetism, static electricity and current electricity)",
       "activity_id": "phys-two-27",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Problem-solving approach: Guide students with real-world problems that require them to analyse collected physics data to explain various physical quantities",
@@ -908,34 +1051,7 @@
         "Online resources",
         "other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
-    },
-    {
-      "entry_id": "s2w13",
-      "semester": 2,
-      "week": 13,
-      "month": "October",
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-23",
-      "main_competence": "3.0 Evaluate and use information in Physics",
-      "specific_competence": "3.1 Collect, describe and relate physical data",
-      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
-      "activity_id": "phys-two-28",
-      "periods": 3,
-      "activity_total_periods": 4,
-      "teaching_learning_activities": [
-        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
-        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
-      ],
-      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
-      "resources": [
-        "Online resources",
-        "watch, trolley and model"
-      ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -949,20 +1065,21 @@
       "end_date": "2026-10-30",
       "main_competence": "3.0 Evaluate and use information in Physics",
       "specific_competence": "3.1 Collect, describe and relate physical data",
-      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
-      "activity_id": "phys-two-28",
-      "periods": 3,
+      "learning_activity": "(a) Collect and analyse data to explain various physical quantities (light, magnetism, static electricity and current electricity)",
+      "activity_id": "phys-two-27",
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
+        "Problem-solving approach: Guide students with real-world problems that require them to analyse collected physics data to explain various physical quantities",
+        "Collaborative learning: Guide the students to work in pairs or small groups to analyse and interpret collected Physics data",
         "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
       ],
-      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "assessment": "Collected physics data are correctly analysed to explain various physical quantities",
       "resources": [
         "Online resources",
-        "watch, trolley and model"
+        "other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
@@ -975,20 +1092,21 @@
       "start_date": "2026-11-02",
       "end_date": "2026-11-06",
       "main_competence": "3.0 Evaluate and use information in Physics",
-      "specific_competence": "3.2 Carry out a project in Physics",
-      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
-      "activity_id": "phys-two-29",
-      "periods": 3,
-      "activity_total_periods": 6,
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-28",
+      "periods": 2,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Inquiry-based approach: Guide the students to develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
-        "Problem-based approach: Guide the students in discussion to present the way the developed prototypes real world problems related to light and electricity"
+        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
+        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
       ],
-      "assessment": "Appropriate prototype devices are developed based on the concepts, theories, principles, and laws gained from given Physics concepts",
+      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
       "resources": [
-        "Online resources"
+        "Online resources",
+        "watch, trolley and model"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -1000,6 +1118,33 @@
       "month": "November",
       "start_date": "2026-11-09",
       "end_date": "2026-11-13",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-28",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
+        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
+      ],
+      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "resources": [
+        "Online resources",
+        "watch, trolley and model"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
       "main_competence": "3.0 Evaluate and use information in Physics",
       "specific_competence": "3.2 Carry out a project in Physics",
       "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
@@ -1014,10 +1159,62 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-29",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Inquiry-based approach: Guide the students to develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+        "Problem-based approach: Guide the students in discussion to present the way the developed prototypes real world problems related to light and electricity"
+      ],
+      "assessment": "Appropriate prototype devices are developed based on the concepts, theories, principles, and laws gained from given Physics concepts",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-29",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Inquiry-based approach: Guide the students to develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+        "Problem-based approach: Guide the students in discussion to present the way the developed prototypes real world problems related to light and electricity"
+      ],
+      "assessment": "Appropriate prototype devices are developed based on the concepts, theories, principles, and laws gained from given Physics concepts",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
     }
   ]
 }

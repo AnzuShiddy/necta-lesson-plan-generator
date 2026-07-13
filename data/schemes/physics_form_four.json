@@ -17,7 +17,7 @@
       "specific_competence": "(b) Explore the basic tenets of the physics of the atom (structure of atom and structure nuclear, radioactivity, nuclear radiations, nuclear processes and thermionic emission)",
       "learning_activity": "",
       "activity_id": "phys-four-30",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concepts of nuclear physics, radioactivity, nuclear radiation and thermionic emission",
@@ -29,10 +29,44 @@
         "GM counter",
         "Periodic Table and chart showing radioactive elements"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(c) Describe the basic principles of electronics (semiconductors, diode, transistor, amplifier)",
+      "learning_activity": "",
+      "activity_id": "phys-four-31",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on electronic components in their environment",
+        "Scenario: Organise students in manageable groups and provide a scenario for them to investigate the conduction of different materials",
+        "ICT based learning: Guide students with the help of ICT to visualize various electronic components and their functions",
+        "Experiment: Guide students in manageable groups to investigate the conduction of a semiconductor diode"
+      ],
+      "assessment": "The concepts of electronics are described correctly",
+      "resources": [
+        "Periodic Table",
+        "online resources",
+        "Text books",
+        "CRO",
+        "Diode",
+        "Transistor",
+        "AC V oltage Generator and connecting wires"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w2",
@@ -42,10 +76,44 @@
       "start_date": "2026-01-19",
       "end_date": "2026-01-23",
       "main_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(c) Describe the basic principles of electronics (semiconductors, diode, transistor, amplifier)",
+      "learning_activity": "",
+      "activity_id": "phys-four-31",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on electronic components in their environment",
+        "Scenario: Organise students in manageable groups and provide a scenario for them to investigate the conduction of different materials",
+        "ICT based learning: Guide students with the help of ICT to visualize various electronic components and their functions",
+        "Experiment: Guide students in manageable groups to investigate the conduction of a semiconductor diode"
+      ],
+      "assessment": "The concepts of electronics are described correctly",
+      "resources": [
+        "Periodic Table",
+        "online resources",
+        "Text books",
+        "CRO",
+        "Diode",
+        "Transistor",
+        "AC V oltage Generator and connecting wires"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.2 Use mathematics to explain physical principles and phenomena",
       "specific_competence": "(d) Describe the concept of renewable energy (solar, hydropower, wind and geothermal energy)",
       "learning_activity": "",
       "activity_id": "phys-four-32",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concepts of renewable energy",
@@ -61,7 +129,7 @@
         "batteries",
         "connecting wires and inverters"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -87,10 +155,10 @@
       "resources": [
         "Online resources and textbooks"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 5
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w4",
@@ -113,10 +181,10 @@
       "resources": [
         "Online resources and textbooks"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 5
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w5",
@@ -139,10 +207,10 @@
       "resources": [
         "Online resources and textbooks"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 5
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w6",
@@ -165,10 +233,10 @@
       "resources": [
         "Online resources and textbooks"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 5
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w7",
@@ -191,13 +259,39 @@
       "resources": [
         "Online resources and textbooks"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
-      "topic_weeks": 5
+      "topic_weeks": 6
     },
     {
       "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "specific_competence": "(a) Apply mathematical knowledge to describe various principles and physical phenomena related to heat, physics of the atom, electronics and renewable energy",
+      "learning_activity": "",
+      "activity_id": "phys-four-33",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Facilitate students in groups to apply mathematical knowledge to describe various principles and physical phenomena related to heat, physics of the atom, electronics and renewable energy",
+        "Problem based learning: Guide students to identify problems related to heat, physics of the atom electronics and renewable energy, and facilitate them to use mathematical knowledge or identified mathematical formula to find the solutions of identified problems"
+      ],
+      "assessment": "Mathematical knowledge to describe various principles and physical phenomena are correctly applied",
+      "resources": [
+        "Online resources and textbooks"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8-2",
       "semester": 1,
       "week": 8,
       "month": "March",
@@ -207,7 +301,7 @@
       "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics (a) Carry out scientific investigations related to heat, physics of the atom, electronics and renewable energy",
       "learning_activity": "",
       "activity_id": "phys-four-34",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 20,
       "teaching_learning_activities": [
         "ICT based learning: Use different Online sources to guide students to conduct the scientific investigations on the application of various instruments in electronics, renewable and to investigate the physics of the atom and heat",
@@ -219,7 +313,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 7
@@ -247,7 +341,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 7
@@ -275,7 +369,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 7
@@ -303,7 +397,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 7
@@ -331,7 +425,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
       "topic_weeks": 7
@@ -359,7 +453,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
       "topic_weeks": 7
@@ -387,7 +481,7 @@
         "calorimeter",
         "online resources (Simulation) and GM counter"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
       "topic_weeks": 7
@@ -412,10 +506,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w16",
@@ -437,10 +531,10 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w17",
@@ -462,13 +556,38 @@
       "resources": [
         "Charts and online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics (a) Use scientific report to communicate experimental results in Physics",
+      "learning_activity": "",
+      "activity_id": "phys-four-35",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Cooperative learning: Guide students in the proper use of online resources in presenting a scientific investigation report to communicate experimental results"
+      ],
+      "assessment": "A scientific report is correctly used to communicate experimental results in Physics",
+      "resources": [
+        "Charts and online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18-2",
       "semester": 1,
       "week": 18,
       "month": "June",
@@ -478,7 +597,7 @@
       "specific_competence": "3.1 Collect, describe and relate physical data (a) Collect and analyse data to explain various physical parameters (heat, physics of atom, electronics and renewable energy)",
       "learning_activity": "",
       "activity_id": "phys-four-36",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 30,
       "teaching_learning_activities": [
         "ICT based learning: Use different online sources (virtual lab) and web-based information to guide students to explore different methods of data collection in physics experiments"
@@ -487,10 +606,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w1",
@@ -512,10 +631,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w2",
@@ -537,10 +656,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w3",
@@ -562,10 +681,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w4",
@@ -587,10 +706,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w5",
@@ -612,10 +731,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w6",
@@ -637,10 +756,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w7",
@@ -662,10 +781,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 8,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w8",
@@ -687,10 +806,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 9,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w9",
@@ -712,10 +831,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 10,
-      "topic_weeks": 10
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w10",
@@ -725,10 +844,35 @@
       "start_date": "2026-09-28",
       "end_date": "2026-10-02",
       "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data (a) Collect and analyse data to explain various physical parameters (heat, physics of atom, electronics and renewable energy)",
+      "learning_activity": "",
+      "activity_id": "phys-four-36",
+      "periods": 1,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "ICT based learning: Use different online sources (virtual lab) and web-based information to guide students to explore different methods of data collection in physics experiments"
+      ],
+      "assessment": "Collected physics data are correctly analysed to explain various physical quantities",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 11,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Evaluate and use information in Physics",
       "specific_competence": "(b) Collect and analyse data to explain experimental observations related to heat, physics of atom, electronics and renewable energy",
       "learning_activity": "",
       "activity_id": "phys-four-37",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Group discussion: Guide students in groups to discuss various methods of data collections",
@@ -739,7 +883,7 @@
       "resources": [
         "Online resources and other relevant materials"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -766,10 +910,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w12",
@@ -793,10 +937,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w13",
@@ -820,10 +964,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w14",
@@ -847,10 +991,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w15",
@@ -874,10 +1018,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w16",
@@ -901,10 +1045,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w17",
@@ -917,7 +1061,7 @@
       "specific_competence": "3.2 Carry out a project in Physics (a) Complete and submit a report for the research project started in Form III",
       "learning_activity": "",
       "activity_id": "phys-four-38",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 24,
       "teaching_learning_activities": [
         "Problem-solving approach: Guide students with real-world problems that require them to analyze collected physics data to explain various physical parameters",
@@ -928,10 +1072,10 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
-      "topic_weeks": 8
+      "topic_weeks": 9
     },
     {
       "entry_id": "s2w18",
@@ -944,7 +1088,7 @@
       "specific_competence": "3.2 Carry out a project in Physics (a) Complete and submit a report for the research project started in Form III",
       "learning_activity": "",
       "activity_id": "phys-four-38",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 24,
       "teaching_learning_activities": [
         "Problem-solving approach: Guide students with real-world problems that require them to analyze collected physics data to explain various physical parameters",
@@ -955,10 +1099,37 @@
       "resources": [
         "Online resources"
       ],
-      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 8,
-      "topic_weeks": 8
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics (a) Complete and submit a report for the research project started in Form III",
+      "learning_activity": "",
+      "activity_id": "phys-four-38",
+      "periods": 2,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Problem-solving approach: Guide students with real-world problems that require them to analyze collected physics data to explain various physical parameters",
+        "Collaborative Learning: Guide the students to work in pairs or small groups to analyze and interpret collected physics data",
+        "ICT-based learning: Use different online sources and web-based information to guide to complete and submit project report"
+      ],
+      "assessment": "Report for the research project started in Form III is completed and submitted",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "TIE, Physics for Secondary Schools Form Four: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 9,
+      "topic_weeks": 9
     }
   ]
 }

@@ -28,7 +28,7 @@
         "Matini kuhusu historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
         "Matini kuhusu mfumo wa uliberali"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -44,7 +44,7 @@
       "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
       "learning_activity": "(a) Kufafanua dhana ya uliberali na utandawazi",
       "activity_id": "hist-four-45",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu maana na viashiria vya uliberali na utandawazi.",
@@ -55,10 +55,35 @@
         "Matini kuhusu historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
         "Matini kuhusu mfumo wa uliberali"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+      "learning_activity": "(b) Kubaini vichocheo vilivyo-sababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi",
+      "activity_id": "hist-four-46",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuorodhesha vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+        "Mtaalamu mwalikwa: Ongoza mtaalamu kuja kutoa maelezo kuhusu sababu zilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+        "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kufafanua vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi."
+      ],
+      "assessment": "Vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi vimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w3",
@@ -80,10 +105,10 @@
       ],
       "assessment": "Vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi vimebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w4",
@@ -94,9 +119,34 @@
       "end_date": "2026-02-06",
       "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
       "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+      "learning_activity": "(b) Kubaini vichocheo vilivyo-sababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi",
+      "activity_id": "hist-four-46",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuorodhesha vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+        "Mtaalamu mwalikwa: Ongoza mtaalamu kuja kutoa maelezo kuhusu sababu zilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+        "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kufafanua vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi."
+      ],
+      "assessment": "Vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi vimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
       "learning_activity": "(c) Kueleza athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili",
       "activity_id": "hist-four-47",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi katika vikundi kufanya utafiti kwa kuuliza watu mbalimbali katika jamii wanamoishi kuhusu athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili.",
@@ -104,7 +154,7 @@
       ],
       "assessment": "Athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili imeelezwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -120,7 +170,7 @@
       "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
       "learning_activity": "(c) Kueleza athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili",
       "activity_id": "hist-four-47",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi katika vikundi kufanya utafiti kwa kuuliza watu mbalimbali katika jamii wanamoishi kuhusu athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili.",
@@ -128,9 +178,32 @@
       ],
       "assessment": "Athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili imeelezwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+      "learning_activity": "(d) Kubaini jitihada zinazohukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi",
+      "activity_id": "hist-four-48",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika na kushrikisha mwenzake mawazo yake na kisha katika kikundi kuhusu jitihada zinazochukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi."
+      ],
+      "assessment": "Jitihadi zinazochukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi zimebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -151,10 +224,10 @@
       ],
       "assessment": "Jitihadi zinazochukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi zimebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w7",
@@ -177,7 +250,7 @@
       "resources": [
         "Matini kuhusu maadili mema katika kipindi cha uliberali na utandawazi"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 2
@@ -193,7 +266,7 @@
       "specific_competence": "1.2 Kuishi maadili mema ya Kitanzania wakati wa uliberali na utandawazi",
       "learning_activity": "(a) Kujadili matendo ya uadilifu katika muktadha wa uliberali na utandawazi",
       "activity_id": "hist-four-49",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Tafakuri: Uliza maswali kuhusu matendo ya uadilifu yanayopaswa kufanywa na wanajamii.",
@@ -203,10 +276,33 @@
       "resources": [
         "Matini kuhusu maadili mema katika kipindi cha uliberali na utandawazi"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "1.2 Kuishi maadili mema ya Kitanzania wakati wa uliberali na utandawazi",
+      "learning_activity": "(b) Kujadili mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania",
+      "activity_id": "hist-four-50",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika taasisi za Serikali kama TAKUKURU, skauti na taasisi za dini na waulize mikakati mbalimbali waliyonayo kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania."
+      ],
+      "assessment": "Mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania imebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w9",
@@ -226,13 +322,36 @@
       ],
       "assessment": "Mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania imebainishwa",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "1.2 Kuishi maadili mema ya Kitanzania wakati wa uliberali na utandawazi",
+      "learning_activity": "(b) Kujadili mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania",
+      "activity_id": "hist-four-50",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika taasisi za Serikali kama TAKUKURU, skauti na taasisi za dini na waulize mikakati mbalimbali waliyonayo kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania."
+      ],
+      "assessment": "Mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania imebainishwa",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-2",
       "semester": 1,
       "week": 10,
       "month": "March",
@@ -242,7 +361,7 @@
       "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
       "learning_activity": "(a) Kuchambua muundo na kazi za mhimili tendaji (Executive) ya Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi Zanzibar",
       "activity_id": "hist-four-51",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili tendaji wa Serikali.",
@@ -253,7 +372,7 @@
         "Matini kuhusu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
         "Katiba ya Jamhuri wa Muungano wa Tanzania"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -280,7 +399,7 @@
         "Matini kuhusu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
         "Katiba ya Jamhuri wa Muungano wa Tanzania"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -296,7 +415,7 @@
       "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
       "learning_activity": "(a) Kuchambua muundo na kazi za mhimili tendaji (Executive) ya Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi Zanzibar",
       "activity_id": "hist-four-51",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili tendaji wa Serikali.",
@@ -307,9 +426,34 @@
         "Matini kuhusu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
         "Katiba ya Jamhuri wa Muungano wa Tanzania"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+      "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+      "learning_activity": "(b) Kuchambua muundo na kazi za Bunge la Jamhuri na za Baraza la Wawakilishi Zanzibar",
+      "activity_id": "hist-four-52",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Bunge la Jamhuri na Baraza la Wawakilishi.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu muundo na kazi za Bunge la Jamhuri wa Tanzania na Baraza la Wawakilishi kisha kuwasilisha",
+        "Igizodhima: Elekeza wanafunzi kuandaa na kuigiza kazi mbalimbali za Bunge la Jamhuri la Tanzania na Baraza la Wawakilishi."
+      ],
+      "assessment": "Muundo na kazi za Bunge zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -332,10 +476,10 @@
       ],
       "assessment": "Muundo na kazi za Bunge zimechambuliwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w14",
@@ -348,7 +492,7 @@
       "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
       "learning_activity": "(b) Kuchambua muundo na kazi za Bunge la Jamhuri na za Baraza la Wawakilishi Zanzibar",
       "activity_id": "hist-four-52",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Bunge la Jamhuri na Baraza la Wawakilishi.",
@@ -357,10 +501,35 @@
       ],
       "assessment": "Muundo na kazi za Bunge zimechambuliwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+      "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+      "learning_activity": "(c) Kuchambua muundo na kazi za Mahakama katika pande zote za Muungano",
+      "activity_id": "hist-four-53",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Mahakama.",
+        "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu muundo na kazi za Mahakama na kisha kuwasilisha kwa majadiliano ya pamoja.",
+        "Igizodhima: Ongoza wanafunzi kuandaa na kuigiza kazi za Mahakama."
+      ],
+      "assessment": "Muundo na kazi za Mahakama zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w15",
@@ -382,10 +551,10 @@
       ],
       "assessment": "Muundo na kazi za Mahakama zimechambuliwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w16",
@@ -398,7 +567,7 @@
       "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
       "learning_activity": "(c) Kuchambua muundo na kazi za Mahakama katika pande zote za Muungano",
       "activity_id": "hist-four-53",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 6,
       "teaching_learning_activities": [
         "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Mahakama.",
@@ -407,10 +576,39 @@
       ],
       "assessment": "Muundo na kazi za Mahakama zimechambuliwa kwa kina",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+      "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
+      "learning_activity": "(a) Kueleza dhana na chimbuko la serikali za mitaa",
+      "activity_id": "hist-four-54",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika, kumshirikisha mwezake na kisha kujadili katika kikundi kuhusu maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+        "Mtaalamu mwalikwa: Ongoza mtaalamu kueleza maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+        "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kuandika muhtasari kuhusu maana, umuhimu, na chimbuko la serikali za mitaa nchini."
+      ],
+      "assessment": "Dhana na chimbuko la serikali za mitaa limeelezwa kwa ufasaha",
+      "resources": [
+        "Matini kuhusu muundo na kazi za serikali za mitaa",
+        "Katiba ya Jamhuri wa Muungano wa Tanzania",
+        "Sheria ya Serikali za Mitaa ya 1984 na mabadiliko yake"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w17",
@@ -436,10 +634,10 @@
         "Katiba ya Jamhuri wa Muungano wa Tanzania",
         "Sheria ya Serikali za Mitaa ya 1984 na mabadiliko yake"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w18",
@@ -465,10 +663,10 @@
         "Katiba ya Jamhuri wa Muungano wa Tanzania",
         "Sheria ya Serikali za Mitaa ya 1984 na mabadiliko yake"
       ],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w1",
@@ -479,9 +677,38 @@
       "end_date": "2026-07-10",
       "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
       "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
+      "learning_activity": "(a) Kueleza dhana na chimbuko la serikali za mitaa",
+      "activity_id": "hist-four-54",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika, kumshirikisha mwezake na kisha kujadili katika kikundi kuhusu maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+        "Mtaalamu mwalikwa: Ongoza mtaalamu kueleza maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+        "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kuandika muhtasari kuhusu maana, umuhimu, na chimbuko la serikali za mitaa nchini."
+      ],
+      "assessment": "Dhana na chimbuko la serikali za mitaa limeelezwa kwa ufasaha",
+      "resources": [
+        "Matini kuhusu muundo na kazi za serikali za mitaa",
+        "Katiba ya Jamhuri wa Muungano wa Tanzania",
+        "Sheria ya Serikali za Mitaa ya 1984 na mabadiliko yake"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+      "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
       "learning_activity": "(b) Kuchambua muundo na kazi za serikali za mitaa katika ngazi mbalimbali za Jamhuri ya Muungano",
       "activity_id": "hist-four-55",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika ofisi ya serikali ya mtaa/kijiji kupata maelezo kuhusu muundo na kazi za serikali ya mtaa/kijiji.",
@@ -490,7 +717,7 @@
       ],
       "assessment": "Muundo na kazi za mamlaka za miji na vijiji zimechambuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -515,7 +742,7 @@
       ],
       "assessment": "Muundo na kazi za mamlaka za miji na vijiji zimechambuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -531,7 +758,7 @@
       "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
       "learning_activity": "(b) Kuchambua muundo na kazi za serikali za mitaa katika ngazi mbalimbali za Jamhuri ya Muungano",
       "activity_id": "hist-four-55",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika ofisi ya serikali ya mtaa/kijiji kupata maelezo kuhusu muundo na kazi za serikali ya mtaa/kijiji.",
@@ -540,10 +767,34 @@
       ],
       "assessment": "Muundo na kazi za mamlaka za miji na vijiji zimechambuliwa kwa ufasaha",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "3.0 Kufanya utafiti wa historia ya Tanzania na maadili",
+      "specific_competence": "3.1 Kutumia misingi ya utafiti wa kihistoria kufanya kazimradi",
+      "learning_activity": "Kukamilisha kazimradi iliyoanza Kidato cha III na kuiwasilisha kwa tathmini",
+      "activity_id": "hist-four-56",
+      "periods": 1,
+      "activity_total_periods": 48,
+      "teaching_learning_activities": [
+        "Kazi binafsi: Ongoza wanafunzi kumalizia utekelezaji wa kazimradi na kuandika ripoti kwa kuzingatia utaratibu uliowekwa.",
+        "Uwasilishaji: Ongoza kila mwanafunzi kufanya uwasilishaji wa ripoti ya kazimradi."
+      ],
+      "assessment": "Kazimradi iliyoanza",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w4",
@@ -564,10 +815,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 16
+      "topic_week": 2,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w5",
@@ -588,10 +839,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 16
+      "topic_week": 3,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w6",
@@ -612,10 +863,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 16
+      "topic_week": 4,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w7",
@@ -636,10 +887,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 16
+      "topic_week": 5,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w8",
@@ -660,10 +911,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 16
+      "topic_week": 6,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w9",
@@ -684,10 +935,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 16
+      "topic_week": 7,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w10",
@@ -708,10 +959,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 16
+      "topic_week": 8,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w11",
@@ -732,10 +983,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 16
+      "topic_week": 9,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w12",
@@ -756,10 +1007,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 16
+      "topic_week": 10,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w13",
@@ -780,10 +1031,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 16
+      "topic_week": 11,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w14",
@@ -804,10 +1055,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 11,
-      "topic_weeks": 16
+      "topic_week": 12,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w15",
@@ -828,10 +1079,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 12,
-      "topic_weeks": 16
+      "topic_week": 13,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w16",
@@ -852,10 +1103,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 13,
-      "topic_weeks": 16
+      "topic_week": 14,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w17",
@@ -876,10 +1127,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 14,
-      "topic_weeks": 16
+      "topic_week": 15,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w18",
@@ -900,10 +1151,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 15,
-      "topic_weeks": 16
+      "topic_week": 16,
+      "topic_weeks": 17
     },
     {
       "entry_id": "s2w19",
@@ -924,10 +1175,10 @@
       ],
       "assessment": "Kazimradi iliyoanza",
       "resources": [],
-      "references": "Historia ya Tanzania na Maadili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TET, Historia ya Tanzania na Maadili Kidato cha Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
       "remarks": "",
-      "topic_week": 16,
-      "topic_weeks": 16
+      "topic_week": 17,
+      "topic_weeks": 17
     }
   ]
 }

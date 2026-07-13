@@ -33,7 +33,7 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -65,7 +65,7 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -81,7 +81,7 @@
       "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "Describe the concepts of relations and functions (linear and quadratic) (types of relations, domain and range of relations, graphs of relations and functions, inverse of relations, and functions)",
       "activity_id": "math-three-42",
-      "periods": 6,
+      "periods": 3,
       "activity_total_periods": 15,
       "teaching_learning_activities": [
         "Collaborative learning: Organise students in manageable groups to discuss the concepts of relations, functions, types of relations and functions, and link between relations and functions",
@@ -97,9 +97,38 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "Find the domain and range of relations and functions",
+      "activity_id": "math-three-43",
+      "periods": 3,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups and guide them to determine domain and range from graphs, charts, and tables of relations and functions"
+      ],
+      "assessment": "Domain and range of relations and functions are clearly described",
+      "resources": [
+        "Function animation",
+        "graph boards and papers",
+        "calculators",
+        "charts of real life scenarios",
+        "Mathematical software such as Mathematica, GeoGebra"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -126,10 +155,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w5",
@@ -155,10 +184,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w6",
@@ -184,10 +213,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w7",
@@ -213,10 +242,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w8",
@@ -227,9 +256,38 @@
       "end_date": "2026-03-06",
       "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "Find the inverses of relations and functions",
+      "activity_id": "math-three-44",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Problem solving: Equip students with appropriate materials on relations and functions. Guide them to discuss the provided questions on inverses of relations and functions and present their findings"
+      ],
+      "assessment": "The inverse of relations and functions are correctly found",
+      "resources": [
+        "Function animation",
+        "graph boards and papers",
+        "calculators",
+        "charts of real life scenarios",
+        "Mathematical software such as Mathematica, GeoGebra"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "Draw graphs of relations and functions",
       "activity_id": "math-three-45",
-      "periods": 6,
+      "periods": 4,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Visual representation: In manageable groups guide students to use visual aid to draw graphs of relations and functions",
@@ -243,7 +301,7 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -273,7 +331,7 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -289,7 +347,7 @@
       "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "Draw graphs of relations and functions",
       "activity_id": "math-three-45",
-      "periods": 6,
+      "periods": 4,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Visual representation: In manageable groups guide students to use visual aid to draw graphs of relations and functions",
@@ -303,10 +361,42 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use algebra and matrices in problem solving",
+      "learning_activity": "Explore the basic tenets of algebra (linear programming: constraints, objective functions, and optimal solution)",
+      "activity_id": "math-three-46",
+      "periods": 2,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discuss the concepts of linear programming, constraints, objective functions, and optimal solutions of linear programming using real-life examples",
+        "Graphical methods: In manageable groups, guide students to use graphs to determine optimal solutions of linear programming problems with two variables",
+        "Use of technology: Guide students to use technology such as Excel and MATLAB to determine the optimal solutions of linear programming problems with two variables",
+        "Problems solving: In manageable groups, guide students to find optimal solutions of linear programming problems"
+      ],
+      "assessment": "The concepts of linear programming are clearly explored",
+      "resources": [
+        "Function animation",
+        "graph boards and papers",
+        "calculators",
+        "charts of real life scenarios",
+        "Mathematical software such as Mathematica, GeoGebra"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w11",
@@ -335,10 +425,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 10
+      "topic_week": 2,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w12",
@@ -367,10 +457,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 10
+      "topic_week": 3,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w13",
@@ -399,10 +489,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 10
+      "topic_week": 4,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w14",
@@ -431,10 +521,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 10
+      "topic_week": 5,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w15",
@@ -463,10 +553,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 10
+      "topic_week": 6,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w16",
@@ -495,10 +585,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 10
+      "topic_week": 7,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w17",
@@ -527,10 +617,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 10
+      "topic_week": 8,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s1w18",
@@ -559,10 +649,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 10
+      "topic_week": 9,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w1",
@@ -591,10 +681,10 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 10
+      "topic_week": 10,
+      "topic_weeks": 11
     },
     {
       "entry_id": "s2w2",
@@ -607,7 +697,7 @@
       "specific_competence": "Use algebra and matrices in problem solving",
       "learning_activity": "Explore the basic tenets of algebra (linear programming: constraints, objective functions, and optimal solution)",
       "activity_id": "math-three-46",
-      "periods": 6,
+      "periods": 4,
       "activity_total_periods": 60,
       "teaching_learning_activities": [
         "Jigsaw: Organise students in manageable groups to discuss the concepts of linear programming, constraints, objective functions, and optimal solutions of linear programming using real-life examples",
@@ -623,10 +713,40 @@
         "charts of real life scenarios",
         "Mathematical software such as Mathematica, GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 10
+      "topic_week": 11,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use sets, sequences and series in problem solving",
+      "learning_activity": "Explore the basic tenets of sequences and series (Arithmetic progression AP , Geometric progression GP)",
+      "activity_id": "math-three-47",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Exploration: Guide students to explore the concepts of sequences and series",
+        "Visual representation: Guide students to use visual aids such as charts, diagrams, graphs, and real objects to discuss the concepts of Arithmetic Progression (AP) and Geometric Progression (GP)"
+      ],
+      "assessment": "The concepts of sequences and series are clearly explored",
+      "resources": [
+        "Pattern puzzles",
+        "pattern blocks",
+        "visual aids",
+        "sequence and series games and applications",
+        "calculators"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w3",
@@ -653,10 +773,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 3
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w4",
@@ -683,10 +803,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 3
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w5",
@@ -713,10 +833,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 3
+      "topic_week": 4,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w6",
@@ -743,10 +863,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w7",
@@ -773,10 +893,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w8",
@@ -803,10 +923,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w9",
@@ -817,9 +937,39 @@
       "end_date": "2026-09-25",
       "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "Use sets, sequences and series in problem solving",
+      "learning_activity": "Find the general term for AP and GP and use them to derive formulae for the sums of APs and GPs",
+      "activity_id": "math-three-48",
+      "periods": 1,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Exploration: Organise students in manageable groups to discover and derive the nth terms of AP and GP",
+        "Group discussion: In manageable groups, guide students to determine the nth terms of APs and GPs"
+      ],
+      "assessment": "The formulae for the sum of APs and GPs are correctly derived",
+      "resources": [
+        "Pattern puzzles",
+        "pattern blocks",
+        "visual aids",
+        "sequence and series games and applications",
+        "calculators"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use sets, sequences and series in problem solving",
       "learning_activity": "Calculate arithmetic mean, geometric mean, and compound interest",
       "activity_id": "math-three-49",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 19,
       "teaching_learning_activities": [
         "Exploration: Organise students in manageable groups to explore the concepts of arithmetic mean, geometric mean, and compound interest",
@@ -834,10 +984,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w10",
@@ -865,10 +1015,10 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w11",
@@ -896,13 +1046,44 @@
         "sequence and series games and applications",
         "calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 3
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "Use sets, sequences and series in problem solving",
+      "learning_activity": "Calculate arithmetic mean, geometric mean, and compound interest",
+      "activity_id": "math-three-49",
+      "periods": 2,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Exploration: Organise students in manageable groups to explore the concepts of arithmetic mean, geometric mean, and compound interest",
+        "Think-ink-pair-share: In manageable groups, instruct students to discuss and apply the concepts of arithmetic mean, geometric mean, and compound interest in their real-life situation",
+        "Interactive discussion: Guide students to apply the concept of compound interest in real-life situations, such as calculating the total cost of loan or the return on an investment over time"
+      ],
+      "assessment": "The arithmetic mean, geometric mean, and compound interest are correctly found",
+      "resources": [
+        "Pattern puzzles",
+        "pattern blocks",
+        "visual aids",
+        "sequence and series games and applications",
+        "calculators"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12-2",
       "semester": 2,
       "week": 12,
       "month": "October",
@@ -912,7 +1093,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 4,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -928,10 +1109,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w13",
@@ -944,7 +1125,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -960,10 +1141,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w14",
@@ -976,7 +1157,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -992,10 +1173,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w15",
@@ -1008,7 +1189,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -1024,10 +1205,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w16",
@@ -1040,7 +1221,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -1056,10 +1237,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w17",
@@ -1072,7 +1253,7 @@
       "specific_competence": "Use basic skills of circles in daily life",
       "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
       "activity_id": "math-three-50",
-      "periods": 6,
+      "periods": 5,
       "activity_total_periods": 39,
       "teaching_learning_activities": [
         "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
@@ -1088,10 +1269,10 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 6,
-      "topic_weeks": 7
+      "topic_weeks": 8
     },
     {
       "entry_id": "s2w18",
@@ -1120,10 +1301,42 @@
         "visual aids",
         "Mathematical software such as GeoGebra"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 7,
-      "topic_weeks": 7
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "Use basic skills of circles in daily life",
+      "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
+      "activity_id": "math-three-50",
+      "periods": 5,
+      "activity_total_periods": 39,
+      "teaching_learning_activities": [
+        "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
+        "Scenario: Provide a scenario that shows the application of circles. Allow learners to discuss, make follow up and provide feedback",
+        "Visual representation: Guide students to use visual aids such as diagrams, pictures, and animations to understand the concepts of angle properties of a circle, tangent, theorems, chords, and radians"
+      ],
+      "assessment": "The concept of circle is clearly explored",
+      "resources": [
+        "Charts of circle theorems",
+        "circle theorems animations",
+        "circle simulations",
+        "mathematical sets",
+        "visual aids",
+        "Mathematical software such as GeoGebra"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 8,
+      "topic_weeks": 8
     }
   ]
 }

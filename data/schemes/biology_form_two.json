@@ -33,10 +33,10 @@
         "dissected mammal specimen displaying digestive system",
         "charts/ photographs showing common disorders"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w2",
@@ -65,10 +65,10 @@
         "dissected mammal specimen displaying digestive system",
         "charts/ photographs showing common disorders"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w3",
@@ -97,10 +97,10 @@
         "dissected mammal specimen displaying digestive system",
         "charts/ photographs showing common disorders"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w4",
@@ -129,10 +129,10 @@
         "dissected mammal specimen displaying digestive system",
         "charts/ photographs showing common disorders"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w5",
@@ -143,9 +143,41 @@
       "end_date": "2026-02-13",
       "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
       "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe nutrition in human and ruminants (nutrients, digestive system and processes)",
+      "activity_id": "biol-two-10",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of nutrition in human and ruminants",
+        "Jigsaw: Guide students to explore nutrients, nutritional deficiency and disorders through jigsaw",
+        "ICT-Based learning: Guide student to explain the digestive system, digestion processes in human and ruminants through simulation",
+        "Group discussion: Guide students in manageable groups to discuss diseases and disorders of human digestive system and diseases of human digestive system"
+      ],
+      "assessment": "Nutrition in human and ruminants is described clearly",
+      "resources": [
+        "Variety of food substances",
+        "charts/ pictures displaying variety of food nutrients",
+        "models/charts of human and ruminant digestive system",
+        "dissected mammal specimen displaying digestive system",
+        "charts/ photographs showing common disorders"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
       "learning_activity": "(b) Describe the mechanism of transportation of materials in flowering plants (vascular system, absorption and movement of water and mineral salts and transpiration)",
       "activity_id": "biol-two-11",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concept of transportation of materials in flowering plants",
@@ -162,7 +194,7 @@
         "germinated seeds",
         "transportation of materials in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 5
@@ -195,7 +227,7 @@
         "germinated seeds",
         "transportation of materials in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 5
@@ -228,7 +260,7 @@
         "germinated seeds",
         "transportation of materials in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 5
@@ -261,7 +293,7 @@
         "germinated seeds",
         "transportation of materials in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
       "topic_weeks": 5
@@ -277,7 +309,7 @@
       "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
       "learning_activity": "(b) Describe the mechanism of transportation of materials in flowering plants (vascular system, absorption and movement of water and mineral salts and transpiration)",
       "activity_id": "biol-two-11",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 13,
       "teaching_learning_activities": [
         "Brainstorming: Guide students to brainstorm on the concept of transportation of materials in flowering plants",
@@ -294,9 +326,40 @@
         "germinated seeds",
         "transportation of materials in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of transportation of materials in the human body (the mammalian heart, blood vessels, blood, blood circulation)",
+      "activity_id": "biol-two-12",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of transportation of materials in human body",
+        "Field trip: Guide students to visit nearby health facility to learn about blood cells, blood groups, blood pressure and blood transfusion",
+        "ICT-Based learning: Guide students to explain the structure of the heart and blood circulation in human through simulation",
+        "Group discussion: Guide students in manageable groups to discuss the importance of blood circulation, diseases and disorders of the human circulatory system"
+      ],
+      "assessment": "The mechanism of transportation of materials in the human body are described clearly",
+      "resources": [
+        "Mammalian heart models/ charts/ photographs",
+        "blood circulatory system online resources",
+        "dissected mammal displaying the heart and major blood vessels",
+        "charts showing diseases and disorders of human circulatory system"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 5
     },
     {
@@ -325,10 +388,10 @@
         "dissected mammal displaying the heart and major blood vessels",
         "charts showing diseases and disorders of human circulatory system"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
+      "topic_week": 2,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w11",
@@ -356,10 +419,10 @@
         "dissected mammal displaying the heart and major blood vessels",
         "charts showing diseases and disorders of human circulatory system"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 3,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w12",
@@ -387,10 +450,10 @@
         "dissected mammal displaying the heart and major blood vessels",
         "charts showing diseases and disorders of human circulatory system"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 4,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w13",
@@ -418,10 +481,10 @@
         "dissected mammal displaying the heart and major blood vessels",
         "charts showing diseases and disorders of human circulatory system"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 5,
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w14",
@@ -448,10 +511,10 @@
         "Models/ photographs/ charts showing structure of the lungs and alveolus in human",
         "online resources on gaseous exchange and respiration in mammals"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w15",
@@ -478,10 +541,10 @@
         "Models/ photographs/ charts showing structure of the lungs and alveolus in human",
         "online resources on gaseous exchange and respiration in mammals"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w16",
@@ -508,10 +571,10 @@
         "Models/ photographs/ charts showing structure of the lungs and alveolus in human",
         "online resources on gaseous exchange and respiration in mammals"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w17",
@@ -538,10 +601,10 @@
         "Models/ photographs/ charts showing structure of the lungs and alveolus in human",
         "online resources on gaseous exchange and respiration in mammals"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s1w18",
@@ -552,9 +615,39 @@
       "end_date": "2026-06-05",
       "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
       "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(d) Describe the mechanisms of gaseous exchange and respiration in mammals (gaseous exchange in mammals, aerobic and anaerobic respiration)",
+      "activity_id": "biol-two-13",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm the concept of gaseous exchange and respiration in mammals",
+        "ICT-based learning: Guide students to explain the mechanism of gaseous exchange and respiration in mammals through simulation/ animation/ video",
+        "Group discussion: Guide students in manageable groups to discuss on factors affecting the rate of gaseous exchange and respiration in mammals",
+        "Guest speaker: Invite guest speaker to share with students on various infections and diseases of respiratory system",
+        "Exploration: Guide students to explore how aerobic and anaerobic respiration are applied in their real life"
+      ],
+      "assessment": "The mechanisms of gaseous exchange and respiration in mammals are described clearly",
+      "resources": [
+        "Models/ photographs/ charts showing structure of the lungs and alveolus in human",
+        "online resources on gaseous exchange and respiration in mammals"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
       "learning_activity": "(e) Describe the mechanism of gaseous exchange in plants (parts of plants responsible for gaseous exchange and the process)",
       "activity_id": "biol-two-14",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 12,
       "teaching_learning_activities": [
         "Questions and answers: Guide students to explain the concept of gaseous exchange in plants through question and answers",
@@ -568,10 +661,10 @@
         "charts/pictures of gaseous exchange in plants",
         "gaseous exchange in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w1",
@@ -598,10 +691,10 @@
         "charts/pictures of gaseous exchange in plants",
         "gaseous exchange in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w2",
@@ -628,10 +721,10 @@
         "charts/pictures of gaseous exchange in plants",
         "gaseous exchange in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w3",
@@ -658,13 +751,43 @@
         "charts/pictures of gaseous exchange in plants",
         "gaseous exchange in plants online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 4,
-      "topic_weeks": 4
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(e) Describe the mechanism of gaseous exchange in plants (parts of plants responsible for gaseous exchange and the process)",
+      "activity_id": "biol-two-14",
+      "periods": 1,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions and answers: Guide students to explain the concept of gaseous exchange in plants through question and answers",
+        "ICT based learning: Guide students to explain the mechanism of gaseous exchange in plants through simulation / animation/video"
+      ],
+      "assessment": "The mechanism of gaseous exchange in plants is described clearly",
+      "resources": [
+        "Plant leaves",
+        "photographs showing the structure of stomata",
+        "potted plants",
+        "charts/pictures of gaseous exchange in plants",
+        "gaseous exchange in plants online resources"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4-2",
       "semester": 2,
       "week": 4,
       "month": "July",
@@ -674,7 +797,7 @@
       "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
       "learning_activity": "(a) Investigate food nutrients in various food samples",
       "activity_id": "biol-two-15",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Group discussion: Guide students in manageable groups to explore the scientific procedures required to conduct food test",
@@ -686,7 +809,7 @@
         "various food samples",
         "apparati and source of heat"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -714,7 +837,7 @@
         "various food samples",
         "apparati and source of heat"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -742,7 +865,7 @@
         "various food samples",
         "apparati and source of heat"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -776,7 +899,7 @@
         "charts/ video showing transportation of materials in plants",
         "online resources on transportation of materials in plants"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -810,7 +933,7 @@
         "charts/ video showing transportation of materials in plants",
         "online resources on transportation of materials in plants"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -826,7 +949,7 @@
       "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
       "learning_activity": "(b) Investigate processes of transportation of materials in flowering plants",
       "activity_id": "biol-two-16",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 8,
       "teaching_learning_activities": [
         "Group discussion: Guide students in manageable groups to discuss procedures/ steps for investigating processes of transportation of materials in flowering plants",
@@ -844,10 +967,37 @@
         "charts/ video showing transportation of materials in plants",
         "online resources on transportation of materials in plants"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out experiments to determine the pulse rate in human",
+      "activity_id": "biol-two-17",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out experiment to determine pulse rate among themselves"
+      ],
+      "assessment": "Experiments to determine the pulse rate in human are carried out correctly",
+      "resources": [
+        "Blood pressure machine",
+        "smartphone app",
+        "digital fitness trackers and exercise machine"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w10",
@@ -871,10 +1021,10 @@
         "smartphone app",
         "digital fitness trackers and exercise machine"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w11",
@@ -898,10 +1048,10 @@
         "smartphone app",
         "digital fitness trackers and exercise machine"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s2w12",
@@ -912,9 +1062,36 @@
       "end_date": "2026-10-16",
       "main_competence": "2.0 Conduct biological investigations",
       "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out experiments to determine the pulse rate in human",
+      "activity_id": "biol-two-17",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out experiment to determine pulse rate among themselves"
+      ],
+      "assessment": "Experiments to determine the pulse rate in human are carried out correctly",
+      "resources": [
+        "Blood pressure machine",
+        "smartphone app",
+        "digital fitness trackers and exercise machine"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
       "learning_activity": "(d) Investigate aerobic and anaerobic respiration in living organisms",
       "activity_id": "biol-two-18",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Experimentation: Guide students to investigate aerobic and anaerobic respiration in living organisms through experiment"
@@ -923,7 +1100,7 @@
       "resources": [
         "Charts/ diagrams on aerobic and anaerobic respiration of living organisms"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -948,7 +1125,7 @@
       "resources": [
         "Charts/ diagrams on aerobic and anaerobic respiration of living organisms"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -964,7 +1141,7 @@
       "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
       "learning_activity": "(d) Investigate aerobic and anaerobic respiration in living organisms",
       "activity_id": "biol-two-18",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 7,
       "teaching_learning_activities": [
         "Experimentation: Guide students to investigate aerobic and anaerobic respiration in living organisms through experiment"
@@ -973,7 +1150,7 @@
       "resources": [
         "Charts/ diagrams on aerobic and anaerobic respiration of living organisms"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -989,7 +1166,7 @@
       "specific_competence": "2.2 Prepare and present results of biological investigations",
       "learning_activity": "(a) Prepare and present a report of a biological investigation on ( food nutrients in various food samples, transportation of materials in flowering plants, pulse rate in human, aerobic and anaerobic respiration )",
       "activity_id": "biol-two-19",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Project: Guide students to prepare biological investigation report using scientific steps/ procedures",
@@ -999,10 +1176,10 @@
       "resources": [
         "Steps / procedures for biological investigations online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 3
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w16",
@@ -1015,7 +1192,7 @@
       "specific_competence": "2.2 Prepare and present results of biological investigations",
       "learning_activity": "(a) Prepare and present a report of a biological investigation on ( food nutrients in various food samples, transportation of materials in flowering plants, pulse rate in human, aerobic and anaerobic respiration )",
       "activity_id": "biol-two-19",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Project: Guide students to prepare biological investigation report using scientific steps/ procedures",
@@ -1025,10 +1202,10 @@
       "resources": [
         "Steps / procedures for biological investigations online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 3
+      "topic_weeks": 5
     },
     {
       "entry_id": "s2w17",
@@ -1041,7 +1218,7 @@
       "specific_competence": "2.2 Prepare and present results of biological investigations",
       "learning_activity": "(a) Prepare and present a report of a biological investigation on ( food nutrients in various food samples, transportation of materials in flowering plants, pulse rate in human, aerobic and anaerobic respiration )",
       "activity_id": "biol-two-19",
-      "periods": 3,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Project: Guide students to prepare biological investigation report using scientific steps/ procedures",
@@ -1051,10 +1228,62 @@
       "resources": [
         "Steps / procedures for biological investigations online resources"
       ],
-      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
-      "topic_weeks": 3
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Prepare and present results of biological investigations",
+      "learning_activity": "(a) Prepare and present a report of a biological investigation on ( food nutrients in various food samples, transportation of materials in flowering plants, pulse rate in human, aerobic and anaerobic respiration )",
+      "activity_id": "biol-two-19",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Project: Guide students to prepare biological investigation report using scientific steps/ procedures",
+        "Presentation: Guide students to present a biological investigation report"
+      ],
+      "assessment": "A biological investigation report is prepared and presented correctly using scientific procedures",
+      "resources": [
+        "Steps / procedures for biological investigations online resources"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Prepare and present results of biological investigations",
+      "learning_activity": "(a) Prepare and present a report of a biological investigation on ( food nutrients in various food samples, transportation of materials in flowering plants, pulse rate in human, aerobic and anaerobic respiration )",
+      "activity_id": "biol-two-19",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Project: Guide students to prepare biological investigation report using scientific steps/ procedures",
+        "Presentation: Guide students to present a biological investigation report"
+      ],
+      "assessment": "A biological investigation report is prepared and presented correctly using scientific procedures",
+      "resources": [
+        "Steps / procedures for biological investigations online resources"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
     }
   ]
 }

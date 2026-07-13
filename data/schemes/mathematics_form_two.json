@@ -31,10 +31,10 @@
         "graph papers",
         "rates and variation animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w2",
@@ -45,22 +45,75 @@
       "end_date": "2026-01-23",
       "main_competence": "1.0 Demonstrate mastery of mathematical language",
       "specific_competence": "1.1 Use rates and variations in different contexts",
+      "learning_activity": "(a) Describe the concepts of rates and variations",
+      "activity_id": "math-two-22",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Exploration: Organise students in manageable groups and guide them to explore real-life problems related to the concepts of rates and variations"
+      ],
+      "assessment": "Concepts of rates and variations are well described",
+      "resources": [
+        "Mathematical sets",
+        "marker pens",
+        "calculators",
+        "charts of real life scenarios",
+        "graph papers",
+        "rates and variation animations"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use rates and variations in different contexts",
       "learning_activity": "(b) Solve problems on rates and variations",
       "activity_id": "math-two-23",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 5,
       "teaching_learning_activities": [
         "Group discussion: In manageable groups, guide students to solve problems involving rates and variations"
       ],
       "assessment": "Problems on rates and variations are correctly solved",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use rates and variations in different contexts",
+      "learning_activity": "(b) Solve problems on rates and variations",
+      "activity_id": "math-two-23",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide students to solve problems involving rates and variations"
+      ],
+      "assessment": "Problems on rates and variations are correctly solved",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
       "semester": 1,
       "week": 3,
       "month": "January",
@@ -70,7 +123,7 @@
       "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "(a) Describe the concepts of geometry (similarities and congruence)",
       "activity_id": "math-two-24",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Exploration: Guide the students to explore shapes and identify congruent and similar figures through direct comparison",
@@ -85,7 +138,7 @@
         "geometrical figures animations",
         "congruence and similarities simulations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -116,7 +169,7 @@
         "geometrical figures animations",
         "congruence and similarities simulations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -147,7 +200,7 @@
         "geometrical figures animations",
         "congruence and similarities simulations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
@@ -172,7 +225,7 @@
       ],
       "assessment": "Properties of similar triangles are clearly recognized",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -197,7 +250,7 @@
       ],
       "assessment": "Properties of similar triangles are clearly recognized",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -213,7 +266,7 @@
       "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "(b) Recognize properties of similar triangles",
       "activity_id": "math-two-25",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Visual representation: Guide students to use pictures, charts, diagrams, and models to recognize properties of similar triangles",
@@ -222,10 +275,33 @@
       ],
       "assessment": "Properties of similar triangles are clearly recognized",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
       "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(c) Explain postulates, proofs, and theorems of congruent triangles",
+      "activity_id": "math-two-26",
+      "periods": 1,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss postulates, proofs, and theorems of congruent triangles"
+      ],
+      "assessment": "Postulates, proofs, and theorems of congruent triangles are clearly explained",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w9",
@@ -245,10 +321,10 @@
       ],
       "assessment": "Postulates, proofs, and theorems of congruent triangles are clearly explained",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 3
+      "topic_week": 2,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w10",
@@ -268,10 +344,10 @@
       ],
       "assessment": "Postulates, proofs, and theorems of congruent triangles are clearly explained",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 3
+      "topic_week": 3,
+      "topic_weeks": 4
     },
     {
       "entry_id": "s1w11",
@@ -284,16 +360,47 @@
       "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
       "learning_activity": "(c) Explain postulates, proofs, and theorems of congruent triangles",
       "activity_id": "math-two-26",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 14,
       "teaching_learning_activities": [
         "Group discussion: Guide students to discuss postulates, proofs, and theorems of congruent triangles"
       ],
       "assessment": "Postulates, proofs, and theorems of congruent triangles are clearly explained",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(a) Explore the basic tenets of algebra (binary operations, quadratic expressions and equations, radicals, exponents, and logarithms)",
+      "activity_id": "math-two-27",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discuss the concepts of algebra (binary operations, quadratic expressions and equations, radicals, exponents, and logarithms)",
+        "Graphical methods: Organize students in manageable groups and guide them to use graphs to solve quadratic equations",
+        "Use of technology: Guide students to use technology such as Excel, GeoGebra, Microsoft Mathematics, and MATLAB to solve quadratic equations",
+        "Problems solving: In manageable groups, guide students to apply binary operations to simplify quadratic expressions"
+      ],
+      "assessment": "Basic tenets of algebra are explored correctly",
+      "resources": [
+        "Mathematical sets",
+        "marker pens",
+        "calculators",
+        "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graphing calculators"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -322,10 +429,10 @@
         "calculators",
         "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graphing calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w13",
@@ -353,10 +460,10 @@
         "calculators",
         "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graphing calculators"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w14",
@@ -376,10 +483,10 @@
       ],
       "assessment": "Quadratic equations are solved correctly",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w15",
@@ -399,10 +506,10 @@
       ],
       "assessment": "Quadratic equations are solved correctly",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s1w16",
@@ -413,9 +520,32 @@
       "end_date": "2026-05-22",
       "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(b) Solve quadratic equations by using different methods (factorisation, Completing the square, and quadratic formula)",
+      "activity_id": "math-two-28",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students through solving quadratic equations by using factorisation, completing the square, and quadratic formula"
+      ],
+      "assessment": "Quadratic equations are solved correctly",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
       "learning_activity": "(c) Identify and use laws of exponents involving positive, negative, and zero exponents (multiplication law, division law, power law, and zero index)",
       "activity_id": "math-two-29",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 11,
       "teaching_learning_activities": [
         "Group discussion: In manageable groups, guide students to identify and discuss multiplication law, division law, power law, and zero index",
@@ -429,7 +559,7 @@
         "visual aids",
         "exponent animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 3
@@ -459,7 +589,7 @@
         "visual aids",
         "exponent animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
       "topic_weeks": 3
@@ -475,7 +605,7 @@
       "specific_competence": "2.2 Use algebra and matrices in problem solving",
       "learning_activity": "(c) Identify and use laws of exponents involving positive, negative, and zero exponents (multiplication law, division law, power law, and zero index)",
       "activity_id": "math-two-29",
-      "periods": 5,
+      "periods": 3,
       "activity_total_periods": 11,
       "teaching_learning_activities": [
         "Group discussion: In manageable groups, guide students to identify and discuss multiplication law, division law, power law, and zero index",
@@ -489,9 +619,40 @@
         "visual aids",
         "exponent animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(d) Write numbers in standard form",
+      "activity_id": "math-two-30",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide students to discuss and write numbers in standard form"
+      ],
+      "assessment": "Numbers are correctly written in standard form",
+      "resources": [
+        "Calculators",
+        "number charts",
+        "exponent games and applications",
+        "exponent puzzles",
+        "exponent rule posters",
+        "visual aids",
+        "exponent animations"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
       "topic_weeks": 3
     },
     {
@@ -520,10 +681,10 @@
         "visual aids",
         "exponent animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w2",
@@ -536,7 +697,7 @@
       "specific_competence": "2.2 Use algebra and matrices in problem solving",
       "learning_activity": "(d) Write numbers in standard form",
       "activity_id": "math-two-30",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 11,
       "teaching_learning_activities": [
         "Group discussion: In manageable groups, guide students to discuss and write numbers in standard form"
@@ -551,10 +712,33 @@
         "visual aids",
         "exponent animations"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(e) Use laws of logarithms to solve problems",
+      "activity_id": "math-two-31",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Interactive discussion: Guide students to discuss and use laws of logarithms to solve problems involving logarithms"
+      ],
+      "assessment": "Laws of logarithms are used to solve problems correctly",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w3",
@@ -574,10 +758,10 @@
       ],
       "assessment": "Laws of logarithms are used to solve problems correctly",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w4",
@@ -597,10 +781,10 @@
       ],
       "assessment": "Laws of logarithms are used to solve problems correctly",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w5",
@@ -620,10 +804,10 @@
       ],
       "assessment": "Operations on radicals and denominators are clearly performed",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w6",
@@ -643,10 +827,10 @@
       ],
       "assessment": "Operations on radicals and denominators are clearly performed",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w7",
@@ -656,10 +840,33 @@
       "start_date": "2026-08-17",
       "end_date": "2026-08-21",
       "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(f) Perform operations on radicals and rationalize the denominators",
+      "activity_id": "math-two-32",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Problem solving: Guide students to discuss and perform operations on radicals and rationalize the denominators"
+      ],
+      "assessment": "Operations on radicals and denominators are clearly performed",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "2.3 Use sets, sequences and series in problem solving",
       "learning_activity": "(a) Explore the basic tenets of sets (types of sets, subsets, operation with sets, and Venn diagrams of two sets)",
       "activity_id": "math-two-33",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Exploration: Organise students in manageable groups to explore the concepts of sets, subsets, operations of sets, and Venn diagram of two sets",
@@ -673,7 +880,7 @@
         "playing cards",
         "coloured chalks"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
@@ -689,30 +896,30 @@
       "specific_competence": "2.3 Use sets, sequences and series in problem solving",
       "learning_activity": "(b) Distinguish among different types of sets (universal set, equal sets, empty/null set, finite and infinite sets, equivalent sets, and disjoint sets)",
       "activity_id": "math-two-34",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Group discussion: Organise students in manageable groups to discuss the different types of sets"
       ],
       "assessment": "Different types of sets are clearly distinguished",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
     },
     {
-      "entry_id": "s2w9",
+      "entry_id": "s2w8-2",
       "semester": 2,
-      "week": 9,
-      "month": "September",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-25",
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
       "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "2.3 Use sets, sequences and series in problem solving",
       "learning_activity": "(c) Compare sets (subsets and universal sets)",
       "activity_id": "math-two-35",
-      "periods": 5,
+      "periods": 1,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Group discussion: Organise students in manageable groups to compare subsets and universal sets"
@@ -725,10 +932,62 @@
         "playing cards",
         "coloured chalks"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+      "learning_activity": "(c) Compare sets (subsets and universal sets)",
+      "activity_id": "math-two-35",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to compare subsets and universal sets"
+      ],
+      "assessment": "Sets are clearly compared",
+      "resources": [
+        "Real objects",
+        "set simulations",
+        "charts of different sets",
+        "playing cards",
+        "coloured chalks"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+      "learning_activity": "(d) Perform operations with sets (union, intersection, and complement of a set)",
+      "activity_id": "math-two-36",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to perform operations with sets"
+      ],
+      "assessment": "Operations with sets are correctly performed",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w10",
@@ -739,19 +998,42 @@
       "end_date": "2026-10-02",
       "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+      "learning_activity": "(d) Perform operations with sets (union, intersection, and complement of a set)",
+      "activity_id": "math-two-36",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to perform operations with sets"
+      ],
+      "assessment": "Operations with sets are correctly performed",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.3 Use sets, sequences and series in problem solving",
       "learning_activity": "(e) Represent two sets in a Venn diagram",
       "activity_id": "math-two-37",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Visual representation: Guide students to use charts and tables to represent two sets in a Venn diagram"
       ],
       "assessment": "Sets in a Venn diagram are correctly represented",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w11",
@@ -762,22 +1044,68 @@
       "end_date": "2026-10-09",
       "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
       "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+      "learning_activity": "(e) Represent two sets in a Venn diagram",
+      "activity_id": "math-two-37",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Visual representation: Guide students to use charts and tables to represent two sets in a Venn diagram"
+      ],
+      "assessment": "Sets in a Venn diagram are correctly represented",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w11-2",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.3 Use sets, sequences and series in problem solving",
       "learning_activity": "(f) Find the number of elements in a set",
       "activity_id": "math-two-38",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 4,
       "teaching_learning_activities": [
         "Group discussion: Organise students in manageable groups to discuss and determine the number of elements in a set"
       ],
       "assessment": "Number of elements in a set are correctly found",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 1
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+      "learning_activity": "(f) Find the number of elements in a set",
+      "activity_id": "math-two-38",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to discuss and determine the number of elements in a set"
+      ],
+      "assessment": "Number of elements in a set are correctly found",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w12-2",
       "semester": 2,
       "week": 12,
       "month": "October",
@@ -787,7 +1115,7 @@
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
       "learning_activity": "(a) Explore the basic tenets of trigonometry (trigonometric ratios, angles of elevation and depression)",
       "activity_id": "math-two-39",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Exploration: Organise students in manageable groups to explore the concepts of trigonometric ratios, angles of elevation and depression using real-life examples"
@@ -797,10 +1125,10 @@
         "Geometry animations",
         "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graph paper, mathematical set"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w13",
@@ -813,7 +1141,7 @@
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
       "learning_activity": "(a) Explore the basic tenets of trigonometry (trigonometric ratios, angles of elevation and depression)",
       "activity_id": "math-two-39",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Exploration: Organise students in manageable groups to explore the concepts of trigonometric ratios, angles of elevation and depression using real-life examples"
@@ -823,10 +1151,10 @@
         "Geometry animations",
         "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graph paper, mathematical set"
       ],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w14",
@@ -837,19 +1165,22 @@
       "end_date": "2026-10-30",
       "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
-      "learning_activity": "(b) Determine trigonometric ratios of angles and special angles",
-      "activity_id": "math-two-40",
-      "periods": 5,
+      "learning_activity": "(a) Explore the basic tenets of trigonometry (trigonometric ratios, angles of elevation and depression)",
+      "activity_id": "math-two-39",
+      "periods": 4,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
-        "Group discussion: In manageable groups, guide students to discuss and determine trigonometric ratios of angles and special angles"
+        "Exploration: Organise students in manageable groups to explore the concepts of trigonometric ratios, angles of elevation and depression using real-life examples"
       ],
-      "assessment": "Trigonometric ratios of angles and special angles are clearly determined",
-      "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "assessment": "The basic tenets of trigonometry are clearly explored",
+      "resources": [
+        "Geometry animations",
+        "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graph paper, mathematical set"
+      ],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 3,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w15",
@@ -862,17 +1193,17 @@
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
       "learning_activity": "(b) Determine trigonometric ratios of angles and special angles",
       "activity_id": "math-two-40",
-      "periods": 5,
+      "periods": 4,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Group discussion: In manageable groups, guide students to discuss and determine trigonometric ratios of angles and special angles"
       ],
       "assessment": "Trigonometric ratios of angles and special angles are clearly determined",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 1,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w16",
@@ -883,19 +1214,19 @@
       "end_date": "2026-11-13",
       "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
-      "learning_activity": "(c) Calculate angles of elevation and depression",
-      "activity_id": "math-two-41",
-      "periods": 5,
+      "learning_activity": "(b) Determine trigonometric ratios of angles and special angles",
+      "activity_id": "math-two-40",
+      "periods": 4,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
-        "Jigsaw: Organise students in manageable groups to discuss and calculate angles of elevation and depression"
+        "Group discussion: In manageable groups, guide students to discuss and determine trigonometric ratios of angles and special angles"
       ],
-      "assessment": "Angles of elevation and depression are calculated correctly",
+      "assessment": "Trigonometric ratios of angles and special angles are clearly determined",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
+      "topic_week": 2,
+      "topic_weeks": 3
     },
     {
       "entry_id": "s2w17",
@@ -906,19 +1237,88 @@
       "end_date": "2026-11-20",
       "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
       "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(b) Determine trigonometric ratios of angles and special angles",
+      "activity_id": "math-two-40",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide students to discuss and determine trigonometric ratios of angles and special angles"
+      ],
+      "assessment": "Trigonometric ratios of angles and special angles are clearly determined",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17-2",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
       "learning_activity": "(c) Calculate angles of elevation and depression",
       "activity_id": "math-two-41",
-      "periods": 5,
+      "periods": 2,
       "activity_total_periods": 10,
       "teaching_learning_activities": [
         "Jigsaw: Organise students in manageable groups to discuss and calculate angles of elevation and depression"
       ],
       "assessment": "Angles of elevation and depression are calculated correctly",
       "resources": [],
-      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(c) Calculate angles of elevation and depression",
+      "activity_id": "math-two-41",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discuss and calculate angles of elevation and depression"
+      ],
+      "assessment": "Angles of elevation and depression are calculated correctly",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 2
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(c) Calculate angles of elevation and depression",
+      "activity_id": "math-two-41",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discuss and calculate angles of elevation and depression"
+      ],
+      "assessment": "Angles of elevation and depression are calculated correctly",
+      "resources": [],
+      "references": "TIE, Mathematics for Secondary Schools Form Two: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
     }
   ]
 }

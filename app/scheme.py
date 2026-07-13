@@ -61,10 +61,26 @@ def _activity_periods(activities: list[dict]) -> list[int]:
     return periods
 
 
-def _references(subject: str) -> str:
-    meta = syllabus.get_subject_meta(subject)
-    ed = meta.get("syllabus_edition", "2023 (Tanzania Institute of Education)")
-    return f"{subject} Syllabus for Ordinary Secondary Education, {ed}"
+# Schemes of work cite the approved TIE textbooks. Subjects taught in Kiswahili
+# cite the Kiswahili editions (TET = Taasisi ya Elimu Tanzania).
+_KISWAHILI_MEDIUM = {"Kiswahili", "Historia ya Tanzania na Maadili",
+                     "Elimu ya Dini ya Kiislamu"}
+_FORM_KISWAHILI = {
+    "Form One": "Kidato cha Kwanza",
+    "Form Two": "Kidato cha Pili",
+    "Form Three": "Kidato cha Tatu",
+    "Form Four": "Kidato cha Nne",
+}
+
+
+def _references(subject: str, form: str) -> str:
+    """TIE book citation for the scheme's reference (rejea) column."""
+    if subject in _KISWAHILI_MEDIUM:
+        kidato = _FORM_KISWAHILI.get(form, form)
+        return (f"TET, {subject} {kidato}: Kitabu cha Mwanafunzi na Kiongozi "
+                "cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania")
+    return (f"TIE, {subject} for Secondary Schools {form}: Student's Book and "
+            "Teacher's Guide (2023 Edition), Tanzania Institute of Education")
 
 
 @lru_cache(maxsize=64)
@@ -80,46 +96,58 @@ def build_scheme(subject: str, form: str) -> dict:
     total_periods = sum(periods)
     # derive periods/week from the syllabus's own totals over the real 2026 weeks
     ppw = max(1, round(total_periods / len(weeks)))
-    refs = _references(subject)
+    refs = _references(subject, form)
 
     # Expand the syllabus into an ordered queue of period-slots, each tagged
-    # with the activity it belongs to, then chunk the queue into weeks of `ppw`
-    # periods. A multi-week topic naturally spans several week rows.
+    # with the activity it belongs to. Distribute the slots as evenly as
+    # possible over ALL 2026 teaching weeks (per-week load varies by at most
+    # one period), so every syllabus activity is scheduled — nothing is cut by
+    # rounding. A week teaching several activities gets one row per activity,
+    # each row keeping its own competences, methods and assessment.
     slots: list[int] = []
     for i, p in enumerate(periods):
         slots.extend([i] * p)
 
-    n_week_rows = min(len(weeks), max(1, -(-len(slots) // ppw)))  # ceil division
+    n_weeks = len(weeks)
+    base, extra = divmod(len(slots), n_weeks)
     entries: list[dict] = []
-    for row in range(n_week_rows):
-        chunk = slots[row * ppw:(row + 1) * ppw]
+    pos = 0
+    for row in range(n_weeks):
+        size = base + (1 if row < extra else 0)
+        chunk = slots[pos:pos + size]
+        pos += size
         if not chunk:
-            break
+            continue
         wk = weeks[row]
-        # primary activity for the week = the one with the most periods in it
-        primary_i = max(set(chunk), key=chunk.count)
-        a = activities[primary_i]
-        # which week (of how many) this activity is currently in, for display
-        span = periods[primary_i]
-        entries.append({
-            "entry_id": f"s{wk['semester']}w{wk['week']}",
-            "semester": wk["semester"],
-            "week": wk["week"],
-            "month": wk["month"],
-            "start_date": wk["start_date"],
-            "end_date": wk["end_date"],
-            "main_competence": a.get("main_competence", ""),
-            "specific_competence": a.get("specific_competence", ""),
-            "learning_activity": a.get("learning_activity", ""),
-            "activity_id": a.get("id", ""),
-            "periods": len(chunk),
-            "activity_total_periods": span,
-            "teaching_learning_activities": a.get("suggested_methods", []),
-            "assessment": a.get("assessment_criteria", ""),
-            "resources": a.get("suggested_resources", []),
-            "references": refs,
-            "remarks": "",
-        })
+        # activities taught this week, in syllabus order, with their share
+        week_acts: list[int] = []
+        share: dict[int, int] = {}
+        for i in chunk:
+            if i not in share:
+                week_acts.append(i)
+                share[i] = 0
+            share[i] += 1
+        for k, i in enumerate(week_acts):
+            a = activities[i]
+            entries.append({
+                "entry_id": f"s{wk['semester']}w{wk['week']}" + (f"-{k + 1}" if k else ""),
+                "semester": wk["semester"],
+                "week": wk["week"],
+                "month": wk["month"],
+                "start_date": wk["start_date"],
+                "end_date": wk["end_date"],
+                "main_competence": a.get("main_competence", ""),
+                "specific_competence": a.get("specific_competence", ""),
+                "learning_activity": a.get("learning_activity", ""),
+                "activity_id": a.get("id", ""),
+                "periods": share[i],
+                "activity_total_periods": periods[i],
+                "teaching_learning_activities": a.get("suggested_methods", []),
+                "assessment": a.get("assessment_criteria", ""),
+                "resources": a.get("suggested_resources", []),
+                "references": refs,
+                "remarks": "",
+            })
 
     # annotate "week X of Y" for topics that span several weeks
     from collections import Counter
