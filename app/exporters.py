@@ -3,9 +3,10 @@
 import io
 
 from docx import Document
+from docx.enum.section import WD_ORIENT
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.enum.text import WD_ALIGN_PARAGRAPH
-from docx.shared import Pt, RGBColor
+from docx.shared import Cm, Pt, RGBColor
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4, landscape
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
@@ -223,45 +224,96 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
 # Scheme of work exporters (the scheme is itself a document teachers submit)
 # ---------------------------------------------------------------------------
 
+# Official TIE (2023 revised curriculum) scheme-of-work layout: landscape page,
+# SCHEME OF WORK title, School/Teacher/Subject/Year/Term header lines, then a
+# 12-column table, one table per term.
+_SCHEME_COLS = [
+    ("Main Competence", 2.6),
+    ("Specific Competences", 2.8),
+    ("Learning Activities", 3.4),
+    ("Specific Activities", 2.0),
+    ("Month", 1.4),
+    ("Week", 0.9),
+    ("Number of Periods", 1.0),
+    ("Teaching and Learning Methods", 4.1),
+    ("Teaching and Learning Resources", 2.6),
+    ("Assessment Tools", 2.4),
+    ("References", 2.8),
+    ("Remarks", 1.4),
+]
+_TERM_NAMES = {1: "TERM I", 2: "TERM II"}
+_DOTS = "." * 44
+
+
+def _scheme_row(e: dict) -> list[str]:
+    # Specific Activities is the teacher's own breakdown of the learning
+    # activity; pre-fill only the multi-week split so the teacher completes it.
+    specific = ""
+    if e.get("topic_weeks", 1) > 1:
+        specific = f"Part {e['topic_week']} of {e['topic_weeks']} of the learning activity"
+    return [
+        e.get("main_competence", ""),
+        e.get("specific_competence", ""),
+        e.get("learning_activity", ""),
+        specific,
+        e["month"],
+        str(e["week"]),
+        str(e["periods"]),
+        "; ".join(e.get("teaching_learning_activities", [])),
+        ", ".join(e.get("resources", [])),
+        e.get("assessment", ""),
+        e.get("references", ""),
+        e.get("remarks", ""),
+    ]
+
+
+def _scheme_terms(sch: dict) -> list[tuple[str, list[dict]]]:
+    terms: list[tuple[str, list[dict]]] = []
+    for sem in (1, 2):
+        entries = [e for e in sch["entries"] if e["semester"] == sem]
+        if entries:
+            terms.append((_TERM_NAMES[sem], entries))
+    return terms
+
+
 def scheme_to_docx(sch: dict) -> bytes:
     d = Document()
+    sec = d.sections[0]
+    sec.orientation = WD_ORIENT.LANDSCAPE
+    sec.page_width, sec.page_height = sec.page_height, sec.page_width
+    sec.left_margin = sec.right_margin = Cm(1)
     d.styles["Normal"].font.name = "Calibri"
-    d.styles["Normal"].font.size = Pt(8)
+    d.styles["Normal"].font.size = Pt(7)
 
     title = d.add_paragraph()
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = title.add_run(f"SCHEME OF WORK — {sch['year']}")
+    run = title.add_run("SCHEME OF WORK")
     run.bold = True
-    run.font.size = Pt(13)
-    sub = d.add_paragraph()
-    sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    sub.add_run(f"{sch['subject']} — {sch['form']}   "
-                f"(periods/week: {sch['periods_per_week']})").italic = True
-    ref = sch["entries"][0].get("references", "") if sch["entries"] else ""
-    if ref:
-        rp = d.add_paragraph()
-        rp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        rp.add_run(f"Reference: {ref}")
+    run.font.size = Pt(14)
+    for line in (
+        f"Name of School: {_DOTS}        Teacher's Name: {_DOTS}",
+        f"Subject: {sch['subject']}        Form: {sch['form']}",
+        f"Year: {sch['year']}        Periods per week: {sch['periods_per_week']}",
+    ):
+        p = d.add_paragraph()
+        p.add_run(line).font.size = Pt(10)
 
-    cols = ["Month", "Week", "Main competence", "Sub-topic (learning activity)",
-            "Teaching & learning activities", "Assessment", "Periods", "Remarks"]
-    table = d.add_table(rows=1, cols=len(cols))
-    table.style = "Table Grid"
-    for c, label in zip(table.rows[0].cells, cols):
-        c.paragraphs[0].add_run(label).bold = True
-    for e in sch["entries"]:
-        cells = table.add_row().cells
-        cells[0].text = e["month"]
-        cells[1].text = str(e["week"])
-        cells[2].text = e["main_competence"]
-        st = e["learning_activity"]
-        if e.get("topic_weeks", 1) > 1:
-            st += f"  (week {e['topic_week']} of {e['topic_weeks']})"
-        cells[3].text = st
-        cells[4].text = "; ".join(e.get("teaching_learning_activities", []))
-        cells[5].text = e.get("assessment", "")
-        cells[6].text = str(e["periods"])
-        cells[7].text = e.get("remarks", "")
+    for term_name, entries in _scheme_terms(sch):
+        hp = d.add_paragraph()
+        hr = hp.add_run(term_name)
+        hr.bold = True
+        hr.font.size = Pt(11)
+        table = d.add_table(rows=1, cols=len(_SCHEME_COLS))
+        table.style = "Table Grid"
+        table.autofit = False
+        for c, (label, width) in zip(table.rows[0].cells, _SCHEME_COLS):
+            c.width = Cm(width)
+            c.paragraphs[0].add_run(label).bold = True
+        for e in entries:
+            cells = table.add_row().cells
+            for c, (_, width), text in zip(cells, _SCHEME_COLS, _scheme_row(e)):
+                c.width = Cm(width)
+                c.text = text
 
     buf = io.BytesIO()
     d.save(buf)
@@ -274,42 +326,32 @@ def scheme_to_pdf(sch: dict) -> bytes:
                             rightMargin=1 * cm, topMargin=1 * cm, bottomMargin=1 * cm,
                             title="Scheme of Work")
     styles = getSampleStyleSheet()
-    cell = ParagraphStyle("scell", parent=styles["Normal"], fontSize=7, leading=8)
-    cell_b = ParagraphStyle("scellb", parent=cell, fontName="Helvetica-Bold", textColor=colors.white)
+    head = ParagraphStyle("shead", parent=styles["Normal"], fontSize=10, leading=14)
+    cell = ParagraphStyle("scell", parent=styles["Normal"], fontSize=6.5, leading=7.5)
+    cell_b = ParagraphStyle("scellb", parent=cell, fontName="Helvetica-Bold",
+                            textColor=colors.white)
+    gap = "&nbsp;" * 8
     story = [
-        Paragraph(f"SCHEME OF WORK — {sch['year']}", styles["Title"]),
-        Paragraph(f"{sch['subject']} — {sch['form']} (periods/week: {sch['periods_per_week']})",
-                  styles["Italic"]),
+        Paragraph("SCHEME OF WORK", styles["Title"]),
+        Paragraph(f"Name of School: {_DOTS}{gap}Teacher's Name: {_DOTS}", head),
+        Paragraph(f"Subject: {sch['subject']}{gap}Form: {sch['form']}", head),
+        Paragraph(f"Year: {sch['year']}{gap}Periods per week: {sch['periods_per_week']}", head),
         Spacer(1, 6),
     ]
-    ref = sch["entries"][0].get("references", "") if sch["entries"] else ""
-    if ref:
-        story += [Paragraph(f"Reference: {ref}", styles["Normal"]), Spacer(1, 6)]
-    header = ["Month", "Wk", "Main competence", "Sub-topic", "Teaching & learning",
-              "Assessment", "Prd"]
-    data = [[Paragraph(h, cell_b) for h in header]]
-    for e in sch["entries"]:
-        st = e["learning_activity"]
-        if e.get("topic_weeks", 1) > 1:
-            st += f" (wk {e['topic_week']}/{e['topic_weeks']})"
-        data.append([
-            Paragraph(e["month"], cell),
-            Paragraph(str(e["week"]), cell),
-            Paragraph(e["main_competence"], cell),
-            Paragraph(st, cell),
-            Paragraph("; ".join(e.get("teaching_learning_activities", [])), cell),
-            Paragraph(e.get("assessment", ""), cell),
-            Paragraph(str(e["periods"]), cell),
-        ])
-    table = Table(data, colWidths=[1.8 * cm, 0.9 * cm, 5.5 * cm, 6 * cm, 8 * cm, 4.3 * cm, 1 * cm],
-                  repeatRows=1)
-    table.setStyle(TableStyle([
-        ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
-        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")),
-        ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 2),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
-    ]))
-    story.append(table)
+    for term_name, entries in _scheme_terms(sch):
+        story.append(Paragraph(term_name, styles["Heading3"]))
+        data = [[Paragraph(label, cell_b) for label, _ in _SCHEME_COLS]]
+        for e in entries:
+            data.append([Paragraph(text, cell) for text in _scheme_row(e)])
+        table = Table(data, colWidths=[w * cm for _, w in _SCHEME_COLS], repeatRows=1)
+        table.setStyle(TableStyle([
+            ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
+            ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")),
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("TOPPADDING", (0, 0), (-1, -1), 2),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+        ]))
+        story.append(table)
+        story.append(Spacer(1, 10))
     pdf.build(story)
     return buf.getvalue()
