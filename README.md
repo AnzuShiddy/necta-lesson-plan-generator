@@ -6,6 +6,8 @@ revised curriculum**. Teachers pick a subject, form, and a real syllabus learnin
 activity; the AI (Google Gemini) expands it into a full classroom-ready plan that they can preview
 and download as **Word (.docx)** or **PDF**.
 
+![Screenshot: choosing a Biology Form One activity and the generated competence-based lesson plan](docs/screenshot.png)
+
 ## Why it's grounded, not invented
 
 The curriculum content is stored as structured data in `data/syllabus/*.json`,
