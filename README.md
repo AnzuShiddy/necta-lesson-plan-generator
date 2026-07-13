@@ -8,6 +8,34 @@ and download as **Word (.docx)** or **PDF**.
 
 ![Screenshot: choosing a Biology Form One activity and the generated competence-based lesson plan](docs/screenshot.png)
 
+## Getting started
+
+**Prerequisites:** Python 3.10+ and a free Google Gemini API key.
+
+```bash
+# 1. Clone
+git clone https://github.com/AnzuShiddy/necta-lesson-plan-generator.git
+cd necta-lesson-plan-generator
+
+# 2. Get a free Gemini key at https://aistudio.google.com/apikey, then:
+export GEMINI_API_KEY=your-key-here
+
+# 3. Install dependencies and start the app
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+./run.sh
+```
+
+Open **http://localhost:8000**, pick a subject → form → learning activity, fill in
+the lesson header, and click **Generate lesson plan**. Preview it in the browser,
+then download it as **Word (.docx)** or **PDF**.
+
+> The 14 subjects with syllabus data (see below) work out of the box. Without a
+> `GEMINI_API_KEY` the browsing UI still loads and exports work, but **Generate**
+> returns an error asking you to set the key. On Google's free tier, per-model
+> daily request limits are small — if generation is rate-limited, wait and retry
+> or set a different model via `LESSONPLAN_MODEL` (see *Model* below).
+
 ## Why it's grounded, not invented
 
 The curriculum content is stored as structured data in `data/syllabus/*.json`,
@@ -23,14 +51,13 @@ knowledge.
 The app advertises all 18 subjects (`data/registry.json`). Each shows a status:
 
 - **ready** — has structured syllabus data and can generate plans now.
-  Currently: **Biology, Form One** (9 activities, hand-transcribed from the PDF).
-- **pdf** — the official 2023 TIE PDF is downloaded in `data/pdfs/` and can be
-  turned into data with one command (see *Populating subjects* below).
-  Currently 13: **Chemistry, Physics, Mathematics, Geography, History,
-  Computer Science, Kiswahili, English Language, Literature in English,
-  Business Studies, Bible Knowledge, Historia ya Tanzania na Maadili,
-  Elimu ya Dini ya Kiislamu**. (Literature is a Form III–IV subject, so its
-  data only covers those two forms — that is correct, not a gap.)
+  Currently **14 subjects, 769 learning activities** across Forms I–IV: Biology,
+  Chemistry, Physics, Mathematics, Geography, History, Computer Science,
+  Kiswahili, English Language, Literature in English, Business Studies,
+  Bible Knowledge, Historia ya Tanzania na Maadili, Elimu ya Dini ya Kiislamu.
+  (Literature is a Form III–IV subject, so its data covers only those two
+  forms — that is correct, not a gap.) All were transcribed verbatim from the
+  official TIE PDFs via `scripts/ingest_syllabus.py`.
 - **pending** — no usable 2023 PDF found. Currently 4: **Arabic** (TIE's own
   publications-page link 404s — broken on their server), **Civics** (not
   published standalone in 2023; its content was folded into *Historia ya
@@ -99,10 +126,12 @@ Without a key, the browsing/preview UI still loads and exports work, but
 
 ## Model
 
-Uses **Google Gemini** (`gemini-2.5-flash`, free tier) with structured outputs
-so the response always matches the lesson-plan schema. The provider lives in one
-file, `app/llm.py` — change the model via `LESSONPLAN_MODEL`, or swap providers
-there without touching the rest of the app.
+Uses **Google Gemini** (default `gemini-flash-lite-latest`, free tier) with
+structured outputs so the response always matches the lesson-plan schema. The
+provider lives in one file, `app/llm.py` — change the model via the
+`LESSONPLAN_MODEL` environment variable (e.g. a stronger model on a paid tier for
+higher-quality plans), or swap providers there without touching the rest of the
+app.
 
 ## Extending the syllabus
 
