@@ -1,0 +1,1023 @@
+{
+  "subject": "Physics",
+  "form": "Form Two",
+  "year": 2026,
+  "periods_per_week": 3,
+  "total_periods": 101,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(a) Describe the concept and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+      "activity_id": "phys-two-18",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concepts and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+        "Group discussion: Guide students in manageable groups to explore the concepts and principles of light",
+        "Field trip: Organise field trips help students to explore applications of light"
+      ],
+      "assessment": "The concepts and principles of light are described correctly",
+      "resources": [
+        "Torch",
+        "candle",
+        "cardboard with slit",
+        "light emitting diodes and fluorescent tube"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(a) Describe the concept and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+      "activity_id": "phys-two-18",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concepts and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+        "Group discussion: Guide students in manageable groups to explore the concepts and principles of light",
+        "Field trip: Organise field trips help students to explore applications of light"
+      ],
+      "assessment": "The concepts and principles of light are described correctly",
+      "resources": [
+        "Torch",
+        "candle",
+        "cardboard with slit",
+        "light emitting diodes and fluorescent tube"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(a) Describe the concept and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+      "activity_id": "phys-two-18",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concepts and principles of light (sources of light, propagation and transmission, image formation, colours, optical instruments)",
+        "Group discussion: Guide students in manageable groups to explore the concepts and principles of light",
+        "Field trip: Organise field trips help students to explore applications of light"
+      ],
+      "assessment": "The concepts and principles of light are described correctly",
+      "resources": [
+        "Torch",
+        "candle",
+        "cardboard with slit",
+        "light emitting diodes and fluorescent tube"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(b) Describe the concept and principles of magnetism (magnetization and demagnetization, magnetic fields)",
+      "activity_id": "phys-two-19",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concepts and principles of magnetism through hands-on activities",
+        "ICT based learning: Guide the students through the use of interactive simulations and animations to visualise magnetic field patterns",
+        "Project work: Guide students in groups to work on different projects on magnetization and demagnetization of different materials"
+      ],
+      "assessment": "The concepts and principles of magnetism are described correctly",
+      "resources": [
+        "Different types of magnets",
+        "iron fillings",
+        "card board",
+        "connecting wires and batteries"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(b) Describe the concept and principles of magnetism (magnetization and demagnetization, magnetic fields)",
+      "activity_id": "phys-two-19",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concepts and principles of magnetism through hands-on activities",
+        "ICT based learning: Guide the students through the use of interactive simulations and animations to visualise magnetic field patterns",
+        "Project work: Guide students in groups to work on different projects on magnetization and demagnetization of different materials"
+      ],
+      "assessment": "The concepts and principles of magnetism are described correctly",
+      "resources": [
+        "Different types of magnets",
+        "iron fillings",
+        "card board",
+        "connecting wires and batteries"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(c) Explain the concept and principles of static electricity (detection of static charges, types of materials, capacitors, charge distributions and lightning conductor)",
+      "activity_id": "phys-two-20",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Practical Work and Experiment: Guide learners to explore the concepts and principles of static electricity through hands-on activities.",
+        "Interactive simulations Facilitate students to visualize and understand the concepts and principles of static electricity",
+        "Brainstorming: Guide students to explore the application of static electricity in their environment"
+      ],
+      "assessment": "The concepts and principles of static electricity are clearly explained",
+      "resources": [
+        "Small pieces of paper",
+        "plastic comb",
+        "polythene rod",
+        "capacitor and lighting conductor",
+        "rod and wires"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(c) Explain the concept and principles of static electricity (detection of static charges, types of materials, capacitors, charge distributions and lightning conductor)",
+      "activity_id": "phys-two-20",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Practical Work and Experiment: Guide learners to explore the concepts and principles of static electricity through hands-on activities.",
+        "Interactive simulations Facilitate students to visualize and understand the concepts and principles of static electricity",
+        "Brainstorming: Guide students to explore the application of static electricity in their environment"
+      ],
+      "assessment": "The concepts and principles of static electricity are clearly explained",
+      "resources": [
+        "Small pieces of paper",
+        "plastic comb",
+        "polythene rod",
+        "capacitor and lighting conductor",
+        "rod and wires"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(c) Explain the concept and principles of static electricity (detection of static charges, types of materials, capacitors, charge distributions and lightning conductor)",
+      "activity_id": "phys-two-20",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Practical Work and Experiment: Guide learners to explore the concepts and principles of static electricity through hands-on activities.",
+        "Interactive simulations Facilitate students to visualize and understand the concepts and principles of static electricity",
+        "Brainstorming: Guide students to explore the application of static electricity in their environment"
+      ],
+      "assessment": "The concepts and principles of static electricity are clearly explained",
+      "resources": [
+        "Small pieces of paper",
+        "plastic comb",
+        "polythene rod",
+        "capacitor and lighting conductor",
+        "rod and wires"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(d) Describe the concept and laws of current electricity (electromotive force, potential difference, resistance, effect of electric current, domestic electrical installation)",
+      "activity_id": "phys-two-21",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the concept of current electricity",
+        "Hands-on activity: Guide learners to explore the concept and laws of current electricity through hands-on activities.",
+        "Interactive simulations: Facilitate students to visualize the flow of charges"
+      ],
+      "assessment": "The concept and laws of current electricity are described correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistors",
+        "connecting wire and batteries"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(d) Describe the concept and laws of current electricity (electromotive force, potential difference, resistance, effect of electric current, domestic electrical installation)",
+      "activity_id": "phys-two-21",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the concept of current electricity",
+        "Hands-on activity: Guide learners to explore the concept and laws of current electricity through hands-on activities.",
+        "Interactive simulations: Facilitate students to visualize the flow of charges"
+      ],
+      "assessment": "The concept and laws of current electricity are described correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistors",
+        "connecting wire and batteries"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Apply mathematical knowledge to describe various relations related to light and current electricity",
+      "activity_id": "phys-two-22",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students through manageable groups to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Think ink pair share: Guide students through think ink pair share to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Problem based learning: Guide students to relate the principles related to light and current electricity with real-life situation."
+      ],
+      "assessment": "Mathematical knowledge is applied correctly to describe various relations related to light and current electricity",
+      "resources": [
+        "Text books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Apply mathematical knowledge to describe various relations related to light and current electricity",
+      "activity_id": "phys-two-22",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students through manageable groups to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Think ink pair share: Guide students through think ink pair share to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Problem based learning: Guide students to relate the principles related to light and current electricity with real-life situation."
+      ],
+      "assessment": "Mathematical knowledge is applied correctly to describe various relations related to light and current electricity",
+      "resources": [
+        "Text books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Apply mathematical knowledge to describe various relations related to light and current electricity",
+      "activity_id": "phys-two-22",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students through manageable groups to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Think ink pair share: Guide students through think ink pair share to apply mathematical knowledge to describe various relations related to light and current electricity",
+        "Problem based learning: Guide students to relate the principles related to light and current electricity with real-life situation."
+      ],
+      "assessment": "Mathematical knowledge is applied correctly to describe various relations related to light and current electricity",
+      "resources": [
+        "Text books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Carry out experiments related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-23",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Practical works: Guide students through hands-on activities to investigate relationship between different parameters related to light, magnetism, static electricity and current electricity",
+        "ICT based approach: Guide students through interactive simulations to visualize and carry out experiments related to light, magnetism, static electricity, and current electricity"
+      ],
+      "assessment": "Experiments related to light, magnetism, static electricity and current electricity are carried out correctly",
+      "resources": [
+        "Ammeter",
+        "V oltmeter",
+        "switch.",
+        "Meter bridge",
+        "resistor",
+        "connecting wire",
+        "Torch",
+        "card board with slits",
+        "triangular prism",
+        "plane mirrors and curved mirrors"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Use spreadsheet to process experimental data in physics",
+      "activity_id": "phys-two-24",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through the use of ICT-programs such as spreadsheet to process experimental data in Physics",
+        "Experimentation: Guide students through experiments to deduce the relationship between various parameters related to light, magnetism, static electricity and current electricity"
+      ],
+      "assessment": "Experimental data are correctily processed using various spread sheet programs",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Use spreadsheet to process experimental data in physics",
+      "activity_id": "phys-two-24",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through the use of ICT-programs such as spreadsheet to process experimental data in Physics",
+        "Experimentation: Guide students through experiments to deduce the relationship between various parameters related to light, magnetism, static electricity and current electricity"
+      ],
+      "assessment": "Experimental data are correctily processed using various spread sheet programs",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Use spreadsheet to process experimental data in physics",
+      "activity_id": "phys-two-24",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through the use of ICT-programs such as spreadsheet to process experimental data in Physics",
+        "Experimentation: Guide students through experiments to deduce the relationship between various parameters related to light, magnetism, static electricity and current electricity"
+      ],
+      "assessment": "Experimental data are correctily processed using various spread sheet programs",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(b) Use graphs to analyse and determine mathematical relationships between various variables in Physics",
+      "activity_id": "phys-two-25",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through interactive simulations to collect and analyse the experimental data using graphs and use the graphs to establish the mathematical relationships between various variables in Physics",
+        "Group discussion: Facilitate the students through manageable groups to discuss the use of graphs to analyse the experimental data and use it to establish the relationship between the variables in Physics"
+      ],
+      "assessment": "The graphs are used appropriately to analyse and determine mathematical relationships between various variables in Physics",
+      "resources": [
+        "Online resources",
+        "graph paper",
+        "protractor",
+        "ruler",
+        "manila",
+        "chart other resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(b) Use graphs to analyse and determine mathematical relationships between various variables in Physics",
+      "activity_id": "phys-two-25",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through interactive simulations to collect and analyse the experimental data using graphs and use the graphs to establish the mathematical relationships between various variables in Physics",
+        "Group discussion: Facilitate the students through manageable groups to discuss the use of graphs to analyse the experimental data and use it to establish the relationship between the variables in Physics"
+      ],
+      "assessment": "The graphs are used appropriately to analyse and determine mathematical relationships between various variables in Physics",
+      "resources": [
+        "Online resources",
+        "graph paper",
+        "protractor",
+        "ruler",
+        "manila",
+        "chart other resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(b) Use graphs to analyse and determine mathematical relationships between various variables in Physics",
+      "activity_id": "phys-two-25",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students through interactive simulations to collect and analyse the experimental data using graphs and use the graphs to establish the mathematical relationships between various variables in Physics",
+        "Group discussion: Facilitate the students through manageable groups to discuss the use of graphs to analyse the experimental data and use it to establish the relationship between the variables in Physics"
+      ],
+      "assessment": "The graphs are used appropriately to analyse and determine mathematical relationships between various variables in Physics",
+      "resources": [
+        "Online resources",
+        "graph paper",
+        "protractor",
+        "ruler",
+        "manila",
+        "chart other resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Communicate experimental results orally",
+      "activity_id": "phys-two-26",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
+        "Problem-based learning: Guide students with real-world problems that require them to analyse and interpret graphs to determine the mathematical relationship between variables",
+        "Guided practice approach: Facilitate students with guided practice in analysing and interpreting graphs"
+      ],
+      "assessment": "The experimental results are communicate orally correctly",
+      "resources": [
+        "Variuos graphs based on experimental data and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Communicate experimental results orally",
+      "activity_id": "phys-two-26",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
+        "Problem-based learning: Guide students with real-world problems that require them to analyse and interpret graphs to determine the mathematical relationship between variables",
+        "Guided practice approach: Facilitate students with guided practice in analysing and interpreting graphs"
+      ],
+      "assessment": "The experimental results are communicate orally correctly",
+      "resources": [
+        "Variuos graphs based on experimental data and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Communicate experimental results orally",
+      "activity_id": "phys-two-26",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Cooperative learning: Guide students to work in pairs or small groups to analyse and interpret graphs",
+        "Problem-based learning: Guide students with real-world problems that require them to analyse and interpret graphs to determine the mathematical relationship between variables",
+        "Guided practice approach: Facilitate students with guided practice in analysing and interpreting graphs"
+      ],
+      "assessment": "The experimental results are communicate orally correctly",
+      "resources": [
+        "Variuos graphs based on experimental data and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(a) Collect and analyse data to explain various physical quantities (light, magnetism, static electricity and current electricity)",
+      "activity_id": "phys-two-27",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Problem-solving approach: Guide students with real-world problems that require them to analyse collected physics data to explain various physical quantities",
+        "Collaborative learning: Guide the students to work in pairs or small groups to analyse and interpret collected Physics data",
+        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
+      ],
+      "assessment": "Collected physics data are correctly analysed to explain various physical quantities",
+      "resources": [
+        "Online resources",
+        "other relevant materials"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-28",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
+        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
+      ],
+      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "resources": [
+        "Online resources",
+        "watch, trolley and model"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-28",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use electrical equipment and light locally available materials to design experiments to investigate the properties of light, magnetism, static electricity and current electricity",
+        "ICT-based approach: Guide students through the use of technology such as computer software, online tools, and simulations to analyse and interpret collected data to explain various physical quantities"
+      ],
+      "assessment": "Collected physics data are correctly analysed to explain experimental observations related to light, magnetism, static electricity and current electricity",
+      "resources": [
+        "Online resources",
+        "watch, trolley and model"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-29",
+      "periods": 3,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Inquiry-based approach: Guide the students to develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+        "Problem-based approach: Guide the students in discussion to present the way the developed prototypes real world problems related to light and electricity"
+      ],
+      "assessment": "Appropriate prototype devices are developed based on the concepts, theories, principles, and laws gained from given Physics concepts",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+      "activity_id": "phys-two-29",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Inquiry-based approach: Guide the students to develop prototype devices based on the concepts, theories, principles, and laws gained from the field of light, magnetism, static electricity and current electricity",
+        "Problem-based approach: Guide the students in discussion to present the way the developed prototypes real world problems related to light and electricity"
+      ],
+      "assessment": "Appropriate prototype devices are developed based on the concepts, theories, principles, and laws gained from given Physics concepts",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    }
+  ]
+}

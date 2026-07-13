@@ -2,9 +2,11 @@
 
 An AI-assisted web app that produces competence-based lesson plans for Tanzanian
 secondary education, grounded in the **Tanzania Institute of Education (TIE) 2023
-revised curriculum**. Teachers pick a subject, form, and a real syllabus learning
-activity; the AI (Google Gemini) expands it into a full classroom-ready plan that they can preview
-and download as **Word (.docx)** or **PDF**.
+revised curriculum**. It follows the real teaching workflow: the syllabus is laid
+out as a **2026 scheme of work** (weeks and dates on the official school calendar),
+the teacher picks a week, and the AI (Google Gemini) expands that week's sub-topic
+into a full classroom-ready lesson plan — previewable and downloadable as
+**Word (.docx)** or **PDF**. The scheme of work itself is also exportable.
 
 ![Screenshot: choosing a Biology Form One activity and the generated competence-based lesson plan](docs/screenshot.png)
 
@@ -35,6 +37,28 @@ then download it as **Word (.docx)** or **PDF**.
 > returns an error asking you to set the key. On Google's free tier, per-model
 > daily request limits are small — if generation is rate-limited, wait and retry
 > or set a different model via `LESSONPLAN_MODEL` (see *Model* below).
+
+## Scheme of work → lesson plan
+
+In Tanzanian practice a lesson plan is drawn from the **scheme of work (azimio la
+kazi)** — the syllabus distributed across the year's teaching weeks. The app builds
+that scheme **deterministically and grounded**, with no AI and no scraping:
+
+- **competences, activities, methods, assessment** come from the syllabus data;
+- **periods per topic** come from the syllabus's own `periods_for_specific_competence`;
+- **weeks and dates** come from the official MoEST **2026** calendar
+  (`app/calendar2026.py` — Sem 1: 13 Jan–5 Jun, break 27 Mar–8 Apr; Sem 2:
+  6 Jul–4 Dec, break 4 Sep–14 Sep; 37 teaching weeks).
+
+Periods-per-week is *derived* (total syllabus periods ÷ 2026 teaching weeks), not
+guessed, and multi-week topics span consecutive weeks. The generated schemes are
+materialised in `data/schemes/*.json` (via `scripts/build_schemes.py`) and are also
+exportable to Word/PDF. Then the lesson plan flows from a chosen week, inheriting
+its week number, dates and sub-topic.
+
+> Third-party 2026 scheme files (wazaelimu, elimuchap, …) are paywalled or gated,
+> and are themselves just the syllabus on the calendar — so generating gives the
+> same result, complete for all subjects and consistent with the plans.
 
 ## Why it's grounded, not invented
 
@@ -116,13 +140,16 @@ Without a key, the browsing/preview UI still loads and exports work, but
 | File | Role |
 |------|------|
 | `app/syllabus.py` | Loads structured TIE syllabus JSON |
-| `app/llm.py` | Single point where the app calls the LLM (Google Gemini)
-| `app/generator.py` | Builds the grounded prompt and calls `llm.structured()` |
-| `app/exporters.py` | Renders the plan to `.docx` (python-docx) and `.pdf` (reportlab) |
+| `app/calendar2026.py` | Official MoEST 2026 term dates → ordered teaching weeks |
+| `app/scheme.py` | Builds the 2026 scheme of work from syllabus + calendar |
+| `app/llm.py` | Single point where the app calls the LLM (Google Gemini) |
+| `app/generator.py` | Builds the grounded prompt (from a scheme week) and calls `llm.structured()` |
+| `app/exporters.py` | Renders lesson plans and schemes to `.docx` / `.pdf` |
 | `app/main.py` | FastAPI endpoints + serves the single-page UI |
-| `app/static/index.html` | Teacher-facing form and live preview |
+| `app/static/index.html` | Teacher-facing scheme table + lesson preview |
 | `data/syllabus/*.json` | Structured curriculum data (ground truth) |
-| `scripts/` | Helpers for extracting more syllabi from TIE PDFs |
+| `data/schemes/*.json` | Generated 2026 schemes of work (via `scripts/build_schemes.py`) |
+| `scripts/` | PDF ingestion + scheme generation helpers |
 
 ## Model
 

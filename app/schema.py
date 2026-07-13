@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 class LessonPlanRequest(BaseModel):
     subject: str
     form: str                      # e.g. "Form One"
-    activity_id: str               # id of the syllabus learning activity
+    entry_id: str                  # scheme-of-work week, e.g. "s1w4"
     plan_format: str = "classic"   # "classic" or "tie2023"
 
     school_name: str = ""
@@ -23,6 +23,10 @@ class LessonPlanRequest(BaseModel):
     boys: int = 0
     girls: int = 0
     extra_notes: str = ""          # anything the teacher wants emphasised
+
+    # populated server-side from the chosen scheme-of-work week (for export)
+    week_label: str = ""           # e.g. "Semester 1, Week 4 (02-Feb - 06-Feb 2026)"
+    subtopic: str = ""             # the learning activity taught this week
 
 
 # ---------------------------------------------------------------------------

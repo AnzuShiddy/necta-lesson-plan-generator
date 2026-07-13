@@ -5,50 +5,70 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Tanzania Lesson Plan Generator</title>
   <style>
-    :root { --green:#1f7a4d; --ink:#1a2b22; --line:#d8e0da; --bg:#f5f7f5; }
+    :root { --green:#1f7a4d; --ink:#1a2b22; --line:#d8e0da; --bg:#f5f7f5; --sel:#e3f0e8; }
     * { box-sizing:border-box; }
     body { margin:0; font-family:system-ui,Segoe UI,Roboto,sans-serif; color:var(--ink); background:var(--bg); }
     header { background:var(--green); color:#fff; padding:18px 22px; }
     header h1 { margin:0; font-size:1.25rem; }
     header p { margin:4px 0 0; opacity:.85; font-size:.85rem; }
-    .wrap { max-width:1100px; margin:0 auto; padding:20px; }
+    .wrap { max-width:1150px; margin:0 auto; padding:20px; }
     .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
     label { display:block; font-size:.8rem; font-weight:600; margin-bottom:4px; }
     input, select, textarea { width:100%; padding:8px 10px; border:1px solid var(--line); border-radius:8px; font-size:.9rem; background:#fff; }
     fieldset { border:1px solid var(--line); border-radius:12px; padding:16px; margin:0 0 16px; background:#fff; }
     legend { font-weight:700; padding:0 8px; color:var(--green); }
     button { background:var(--green); color:#fff; border:0; border-radius:8px; padding:11px 18px; font-size:.95rem; font-weight:600; cursor:pointer; }
-    button.secondary { background:#fff; color:var(--green); border:1px solid var(--green); }
+    button.secondary { background:#fff; color:var(--green); border:1px solid var(--green); padding:7px 12px; font-size:.85rem; }
     button:disabled { opacity:.5; cursor:not-allowed; }
     .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:8px; }
     #status { font-size:.85rem; margin-left:6px; }
+    .muted { color:#5a6b60; font-size:.8rem; }
+    .schemeWrap { max-height:320px; overflow:auto; border:1px solid var(--line); border-radius:8px; margin-top:8px; }
+    table.scheme { width:100%; border-collapse:collapse; font-size:.8rem; }
+    table.scheme th, table.scheme td { border-bottom:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top; }
+    table.scheme thead th { position:sticky; top:0; background:var(--green); color:#fff; z-index:1; }
+    table.scheme tbody tr { cursor:pointer; }
+    table.scheme tbody tr:hover { background:#eef4f0; }
+    table.scheme tbody tr.sel { background:var(--sel); outline:2px solid var(--green); }
     .preview { background:#fff; border:1px solid var(--line); border-radius:12px; padding:18px; margin-top:16px; }
     .preview h2 { margin-top:0; color:var(--green); }
-    table { width:100%; border-collapse:collapse; margin-top:10px; font-size:.85rem; }
-    th, td { border:1px solid var(--line); padding:7px; vertical-align:top; text-align:left; }
-    th { background:var(--green); color:#fff; }
+    table.plan { width:100%; border-collapse:collapse; margin-top:10px; font-size:.85rem; }
+    table.plan th, table.plan td { border:1px solid var(--line); padding:7px; vertical-align:top; text-align:left; }
+    table.plan th { background:var(--green); color:#fff; }
     .kv b { color:var(--green); }
     ul { margin:4px 0; padding-left:20px; }
-    .muted { color:#5a6b60; font-size:.8rem; }
     @media (max-width:760px){ .grid{grid-template-columns:1fr;} }
   </style>
 </head>
 <body>
   <header>
     <h1><svg viewBox="0 0 36 24" width="30" height="20" style="vertical-align:-3px;border-radius:2px" aria-label="Tanzania flag" role="img"><polygon points="0,0 36,0 0,24" fill="#1EB53A"/><polygon points="36,0 36,24 0,24" fill="#00A3DD"/><line x1="0" y1="24" x2="36" y2="0" stroke="#FCD116" stroke-width="9"/><line x1="0" y1="24" x2="36" y2="0" stroke="#000" stroke-width="5"/></svg> Lesson Plan Generator</h1>
-    <p>Competence-based lesson plans from the Tanzania Institute of Education (TIE) 2023 curriculum — for NECTA secondary education.</p>
+    <p>Scheme of work &rarr; lesson plan, from the Tanzania Institute of Education (TIE) 2023 curriculum on the official 2026 school calendar.</p>
   </header>
 
   <div class="wrap">
     <form id="planForm">
       <fieldset>
-        <legend>1. Choose from the syllabus</legend>
+        <legend>1. Subject &amp; scheme of work (2026)</legend>
         <div class="grid">
           <div><label>Subject</label><select id="subject"></select></div>
           <div><label>Form</label><select id="form"></select></div>
         </div>
-        <div style="margin-top:12px"><label>Learning activity (topic)</label><select id="activity"></select></div>
-        <p class="muted" id="compInfo"></p>
+        <div class="row" style="justify-content:space-between">
+          <span class="muted" id="schemeMeta"></span>
+          <span>
+            <button type="button" class="secondary" onclick="downloadScheme('docx')">↓ Scheme (Word)</button>
+            <button type="button" class="secondary" onclick="downloadScheme('pdf')">↓ Scheme (PDF)</button>
+          </span>
+        </div>
+        <p class="muted" style="margin:8px 0 0">Click a week to prepare its lesson plan:</p>
+        <div class="schemeWrap">
+          <table class="scheme">
+            <thead><tr><th>Sem</th><th>Wk</th><th>Dates</th><th>Sub-topic (learning activity)</th><th>Periods</th></tr></thead>
+            <tbody id="schemeBody"></tbody>
+          </table>
+        </div>
+        <p class="muted" id="pickInfo" style="margin-top:8px">No week selected yet.</p>
       </fieldset>
 
       <fieldset>
@@ -77,11 +97,11 @@
             </select>
           </div>
         </div>
-        <div style="margin-top:12px"><label>Extra notes for the AI (optional)</label><textarea id="extra_notes" rows="2" placeholder="e.g. Emphasise locally available materials; large class; focus on group work"></textarea></div>
+        <div style="margin-top:12px"><label>Extra notes for the AI (optional)</label><textarea id="extra_notes" rows="2" placeholder="e.g. Emphasise locally available materials; large class"></textarea></div>
       </fieldset>
 
       <div class="row">
-        <button type="submit" id="genBtn">Generate lesson plan</button>
+        <button type="submit" id="genBtn" disabled>Generate lesson plan</button>
         <span id="status"></span>
       </div>
     </form>
@@ -91,58 +111,76 @@
 
 <script>
 const $ = id => document.getElementById(id);
-let currentPayload = null;
-
-const STATUS_LABEL = {ready:'', pdf:' — data pending (PDF ready)', pending:' — syllabus not yet added'};
-async function loadSubjects(){
-  const r = await fetch('/api/subjects'); const d = await r.json();
-  $('subject').innerHTML = d.subjects.map(s=>`<option value="${s.name}" data-status="${s.status}"${s.status!=='ready'?' disabled':''}>${s.name}${STATUS_LABEL[s.status]}</option>`).join('');
-  const firstReady = d.subjects.find(s=>s.status==='ready');
-  if(firstReady) $('subject').value = firstReady.name;
-  await loadForms();
-}
-async function loadForms(){
-  const r = await fetch('/api/forms?subject='+encodeURIComponent($('subject').value));
-  const d = await r.json();
-  $('form').innerHTML = d.forms.map(f=>`<option>${f}</option>`).join('');
-  await loadActivities();
-}
-async function loadActivities(){
-  const r = await fetch('/api/activities?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value));
-  const d = await r.json();
-  $('activity').innerHTML = d.activities.map(a=>`<option value="${a.id}" data-mc="${encodeURIComponent(a.main_competence)}" data-sc="${encodeURIComponent(a.specific_competence)}">${a.learning_activity}</option>`).join('');
-  showComp();
-}
-function showComp(){
-  const opt = $('activity').selectedOptions[0];
-  if(!opt) return;
-  $('compInfo').innerHTML = '<b>Main competence:</b> '+decodeURIComponent(opt.dataset.mc)+'<br><b>Specific competence:</b> '+decodeURIComponent(opt.dataset.sc);
-}
-
-$('subject').onchange = loadForms;
-$('form').onchange = loadActivities;
-$('activity').onchange = showComp;
+const STATUS_LABEL = {ready:'', pdf:' — data pending', pending:' — not yet added'};
+let currentPayload = null, selectedEntry = null;
 
 function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
 
+async function loadSubjects(){
+  const d = await (await fetch('/api/subjects')).json();
+  $('subject').innerHTML = d.subjects.map(s=>`<option value="${s.name}"${s.status!=='ready'?' disabled':''}>${s.name}${STATUS_LABEL[s.status]}</option>`).join('');
+  const first = d.subjects.find(s=>s.status==='ready');
+  if(first) $('subject').value = first.name;
+  await loadForms();
+}
+async function loadForms(){
+  const d = await (await fetch('/api/forms?subject='+encodeURIComponent($('subject').value))).json();
+  $('form').innerHTML = d.forms.map(f=>`<option>${f}</option>`).join('');
+  await loadScheme();
+}
+async function loadScheme(){
+  selectedEntry = null; $('genBtn').disabled = true;
+  $('pickInfo').textContent = 'No week selected yet.';
+  const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value))).json();
+  $('schemeMeta').textContent = s.entries.length
+    ? `${s.subject} ${s.form} · ${s.entries.length} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
+    : 'No scheme available for this subject/form.';
+  $('schemeBody').innerHTML = s.entries.map(e=>{
+    const cont = e.topic_weeks>1 ? ` <span class="muted">(wk ${e.topic_week}/${e.topic_weeks})</span>` : '';
+    return `<tr data-id="${e.entry_id}" data-mc="${encodeURIComponent(e.main_competence)}" data-sc="${encodeURIComponent(e.specific_competence)}" data-la="${encodeURIComponent(e.learning_activity)}" data-wl="Semester ${e.semester}, Week ${e.week} (${e.month} ${e.start_date} to ${e.end_date})">
+      <td>${e.semester}</td><td>${e.week}</td><td>${e.start_date}<br><span class="muted">${e.end_date}</span></td>
+      <td>${esc(e.learning_activity)}${cont}</td><td>${e.periods}</td></tr>`;
+  }).join('');
+  [...$('schemeBody').querySelectorAll('tr')].forEach(tr=>tr.onclick=()=>selectWeek(tr));
+}
+function selectWeek(tr){
+  [...$('schemeBody').querySelectorAll('tr')].forEach(x=>x.classList.remove('sel'));
+  tr.classList.add('sel');
+  selectedEntry = tr.dataset.id;
+  $('genBtn').disabled = false;
+  $('pickInfo').innerHTML = `<b>Selected:</b> ${esc(tr.dataset.wl)}<br>`
+    + `<b>Main competence:</b> ${esc(decodeURIComponent(tr.dataset.mc))}<br>`
+    + `<b>Sub-topic:</b> ${esc(decodeURIComponent(tr.dataset.la))}`;
+}
+async function downloadScheme(kind){
+  const url = '/api/scheme/export/'+kind+'?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value);
+  const r = await fetch(url); if(!r.ok){ alert('Scheme export failed'); return; }
+  const a = document.createElement('a'); a.href = URL.createObjectURL(await r.blob());
+  a.download = 'scheme_of_work.'+kind; a.click();
+}
+
+$('subject').onchange = loadForms;
+$('form').onchange = loadScheme;
+
 function render(payload){
-  const p = payload.plan;
+  const p = payload.plan, r = payload.request;
   const stages = p.stages.map(s=>`<tr><td><b>${esc(s.stage)}</b><br><span class="muted">${s.duration_minutes} min</span></td><td>${esc(s.teaching_activities)}</td><td>${esc(s.learning_activities)}</td><td>${esc(s.assessment)}</td></tr>`).join('');
   $('output').innerHTML = `
     <div class="preview">
       <h2>${esc(p.lesson_title)}</h2>
+      <p class="kv"><b>Scheme of work:</b> ${esc(r.week_label)}</p>
       <p class="kv"><b>Main competence:</b> ${esc(p.main_competence)}</p>
       <p class="kv"><b>Specific competence:</b> ${esc(p.specific_competence)}</p>
       <p class="kv"><b>Specific objectives:</b></p>
       <ul>${p.specific_objectives.map(o=>`<li>${esc(o)}</li>`).join('')}</ul>
       <p class="kv"><b>Resources:</b> ${p.teaching_learning_resources.map(esc).join('; ')}</p>
       <p class="kv"><b>References:</b> ${p.references.map(esc).join('; ')}</p>
-      <table><thead><tr><th>Stage / Time</th><th>Teaching activities</th><th>Learning activities</th><th>Assessment</th></tr></thead><tbody>${stages}</tbody></table>
+      <table class="plan"><thead><tr><th>Stage / Time</th><th>Teaching activities</th><th>Learning activities</th><th>Assessment</th></tr></thead><tbody>${stages}</tbody></table>
       <p class="kv" style="margin-top:12px"><b>Evaluation:</b> ${esc(p.evaluation)}</p>
       <p class="kv"><b>Remarks:</b> ${esc(p.remarks)}</p>
       <div class="row">
-        <button class="secondary" onclick="download('docx')">↓ Download Word (.docx)</button>
-        <button class="secondary" onclick="download('pdf')">↓ Download PDF</button>
+        <button type="button" class="secondary" onclick="download('docx')">↓ Download Word (.docx)</button>
+        <button type="button" class="secondary" onclick="download('pdf')">↓ Download PDF</button>
       </div>
     </div>`;
 }
@@ -150,19 +188,17 @@ function render(payload){
 async function download(kind){
   const r = await fetch('/api/export/'+kind, {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(currentPayload)});
   if(!r.ok){ alert('Export failed'); return; }
-  const blob = await r.blob();
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'lesson_plan.'+kind;
-  a.click();
+  const a = document.createElement('a'); a.href = URL.createObjectURL(await r.blob());
+  a.download = 'lesson_plan.'+kind; a.click();
 }
 
-$('form').closest('form') && ($('genBtn').closest('form').onsubmit = async (e)=>{
+$('planForm').onsubmit = async (e)=>{
   e.preventDefault();
+  if(!selectedEntry){ $('status').textContent = 'Pick a week from the scheme first.'; return; }
   $('genBtn').disabled = true;
   $('status').textContent = 'Generating…';
   const body = {
-    subject:$('subject').value, form:$('form').value, activity_id:$('activity').value,
+    subject:$('subject').value, form:$('form').value, entry_id:selectedEntry,
     plan_format:$('plan_format').value,
     school_name:$('school_name').value, teacher_name:$('teacher_name').value,
     date:$('date').value, stream:$('stream').value, period_number:$('period_number').value,
@@ -174,15 +210,14 @@ $('form').closest('form') && ($('genBtn').closest('form').onsubmit = async (e)=>
     const r = await fetch('/api/generate', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)});
     const d = await r.json();
     if(!r.ok){ throw new Error(d.detail || 'error'); }
-    currentPayload = d;
-    render(d);
+    currentPayload = d; render(d);
     $('status').textContent = '✓ Done';
   } catch(err){
     $('status').textContent = 'Error: '+err.message;
   } finally {
     $('genBtn').disabled = false;
   }
-});
+};
 
 loadSubjects();
 </script>

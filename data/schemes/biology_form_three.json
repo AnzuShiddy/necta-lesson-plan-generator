@@ -1,0 +1,966 @@
+{
+  "subject": "Biology",
+  "form": "Form Three",
+  "year": 2026,
+  "periods_per_week": 4,
+  "total_periods": 142,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+      "activity_id": "biol-three-20",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
+        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
+        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+      ],
+      "assessment": "Coordination in plants and animals described clearly",
+      "resources": [
+        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "activity_id": "biol-three-21",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
+        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
+        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+      ],
+      "assessment": "The mechanism of excretion in human body is described clearly",
+      "resources": [
+        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 26,
+      "teaching_learning_activities": [
+        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
+        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
+        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+      ],
+      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "resources": [
+        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
+        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
+        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+      ],
+      "assessment": "The process of nervous coordination is investigated correctly",
+      "resources": [
+        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
+        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
+        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+      ],
+      "assessment": "The process of nervous coordination is investigated correctly",
+      "resources": [
+        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
+        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
+        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+      ],
+      "assessment": "The process of nervous coordination is investigated correctly",
+      "resources": [
+        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
+        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
+        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+      ],
+      "assessment": "The process of nervous coordination is investigated correctly",
+      "resources": [
+        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
+        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
+        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+      ],
+      "assessment": "The process of nervous coordination is investigated correctly",
+      "resources": [
+        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Investigate tropic responses in plants",
+      "activity_id": "biol-three-24",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+      ],
+      "assessment": "Tropic responses in plants are investigated correctly",
+      "resources": [
+        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Investigate tropic responses in plants",
+      "activity_id": "biol-three-24",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+      ],
+      "assessment": "Tropic responses in plants are investigated correctly",
+      "resources": [
+        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Investigate tropic responses in plants",
+      "activity_id": "biol-three-24",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+      ],
+      "assessment": "Tropic responses in plants are investigated correctly",
+      "resources": [
+        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Investigate tropic responses in plants",
+      "activity_id": "biol-three-24",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+      ],
+      "assessment": "Tropic responses in plants are investigated correctly",
+      "resources": [
+        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Investigate tropic responses in plants",
+      "activity_id": "biol-three-24",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+      ],
+      "assessment": "Tropic responses in plants are investigated correctly",
+      "resources": [
+        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Carry out a biological project work using biological principles",
+      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+      "activity_id": "biol-three-25",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
+        "Experiment: Guide students to carry out a biological research project using the required principles"
+      ],
+      "assessment": "A biological research project work is developed and carried out correctly",
+      "resources": [
+        "Text/online resources on principles of biological projects"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Carry out a biological project work using biological principles",
+      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+      "activity_id": "biol-three-25",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
+        "Experiment: Guide students to carry out a biological research project using the required principles"
+      ],
+      "assessment": "A biological research project work is developed and carried out correctly",
+      "resources": [
+        "Text/online resources on principles of biological projects"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Carry out a biological project work using biological principles",
+      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+      "activity_id": "biol-three-25",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
+        "Experiment: Guide students to carry out a biological research project using the required principles"
+      ],
+      "assessment": "A biological research project work is developed and carried out correctly",
+      "resources": [
+        "Text/online resources on principles of biological projects"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Carry out a biological project work using biological principles",
+      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+      "activity_id": "biol-three-25",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
+        "Experiment: Guide students to carry out a biological research project using the required principles"
+      ],
+      "assessment": "A biological research project work is developed and carried out correctly",
+      "resources": [
+        "Text/online resources on principles of biological projects"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Conduct biological investigations",
+      "specific_competence": "2.2 Carry out a biological project work using biological principles",
+      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+      "activity_id": "biol-three-25",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
+        "Experiment: Guide students to carry out a biological research project using the required principles"
+      ],
+      "assessment": "A biological research project work is developed and carried out correctly",
+      "resources": [
+        "Text/online resources on principles of biological projects"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Describe reproduction in plants (concept of reproduction in plants, asexual and sexual reproduction, pollination and fertilization)",
+      "activity_id": "biol-three-26",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of reproduction in plants",
+        "Group discussion:Guide students in manageable groups to discuss on the asexual and sexual reproduction, pollination and fertilization in plants"
+      ],
+      "assessment": "Reproduction in plants is described clearly",
+      "resources": [
+        "Reproduction in plants online resources, potted plants, hibiscus flowers, bean flowers, elephant grass flowers, hand lens, surgical/ razor blade, pictures/ illustration showing reproduction in plants"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

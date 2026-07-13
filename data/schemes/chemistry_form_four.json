@@ -1,0 +1,902 @@
+{
+  "subject": "Chemistry",
+  "form": "Form Four",
+  "year": 2026,
+  "periods_per_week": 4,
+  "total_periods": 134,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+      "activity_id": "chem-four-38",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+        "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+      ],
+      "assessment": "The basic tenets of qualitative analysis are clearly decribed",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+      "activity_id": "chem-four-38",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+        "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+      ],
+      "assessment": "The basic tenets of qualitative analysis are clearly decribed",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+      "activity_id": "chem-four-38",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+        "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+      ],
+      "assessment": "The basic tenets of qualitative analysis are clearly decribed",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+      "activity_id": "chem-four-38",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+        "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+      ],
+      "assessment": "The basic tenets of qualitative analysis are clearly decribed",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+      "activity_id": "chem-four-38",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+        "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+      ],
+      "assessment": "The basic tenets of qualitative analysis are clearly decribed",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Explore the basic tenets of Organic Chemistry (organic compounds; aliphatic hydrocarbons and alcohols)",
+      "activity_id": "chem-four-39",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of Organic Chemistry",
+        "Group discussion: Guide students in manageable groups to describe categories of hydrocarbons and alcohols and make presentations"
+      ],
+      "assessment": "The basic tenets of Organic Chemistry are clearly explained",
+      "resources": [
+        "Molecular models and organic substances present in environment"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Explore the basic tenets of Organic Chemistry (organic compounds; aliphatic hydrocarbons and alcohols)",
+      "activity_id": "chem-four-39",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of Organic Chemistry",
+        "Group discussion: Guide students in manageable groups to describe categories of hydrocarbons and alcohols and make presentations"
+      ],
+      "assessment": "The basic tenets of Organic Chemistry are clearly explained",
+      "resources": [
+        "Molecular models and organic substances present in environment"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Explore the basic tenets of Organic Chemistry (organic compounds; aliphatic hydrocarbons and alcohols)",
+      "activity_id": "chem-four-39",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of Organic Chemistry",
+        "Group discussion: Guide students in manageable groups to describe categories of hydrocarbons and alcohols and make presentations"
+      ],
+      "assessment": "The basic tenets of Organic Chemistry are clearly explained",
+      "resources": [
+        "Molecular models and organic substances present in environment"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Explore the basic tenets of Organic Chemistry (organic compounds; aliphatic hydrocarbons and alcohols)",
+      "activity_id": "chem-four-39",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concept of Organic Chemistry",
+        "Group discussion: Guide students in manageable groups to describe categories of hydrocarbons and alcohols and make presentations"
+      ],
+      "assessment": "The basic tenets of Organic Chemistry are clearly explained",
+      "resources": [
+        "Molecular models and organic substances present in environment"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+      "activity_id": "chem-four-40",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+      ],
+      "assessment": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+      "resources": [
+        "Chemistry-based computer software, organic model and wall chart"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+      "activity_id": "chem-four-40",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+      ],
+      "assessment": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+      "resources": [
+        "Chemistry-based computer software, organic model and wall chart"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+      "activity_id": "chem-four-40",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+      ],
+      "assessment": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+      "resources": [
+        "Chemistry-based computer software, organic model and wall chart"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+      "activity_id": "chem-four-40",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+      ],
+      "assessment": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+      "resources": [
+        "Chemistry-based computer software, organic model and wall chart"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+      "activity_id": "chem-four-40",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+      ],
+      "assessment": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+      "resources": [
+        "Chemistry-based computer software, organic model and wall chart"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(b) Name aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms using the IUPAC system and Chemistry software",
+      "activity_id": "chem-four-41",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to identify and name the first ten compounds of aliphatic hydrocarbons using IUPAC system and chemistry software, and make presentation",
+        "Laboratory observations: Guide students to make laboratory observations of labels on containers of hydrocarbons and alcohols"
+      ],
+      "assessment": "Aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly named using IUPAC system",
+      "resources": [
+        "Wall charts showing structures of hydrocarbons, molecular model kits, bottles/ containers containing labelled hydrocarbons and alcohols"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(b) Name aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms using the IUPAC system and Chemistry software",
+      "activity_id": "chem-four-41",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to identify and name the first ten compounds of aliphatic hydrocarbons using IUPAC system and chemistry software, and make presentation",
+        "Laboratory observations: Guide students to make laboratory observations of labels on containers of hydrocarbons and alcohols"
+      ],
+      "assessment": "Aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly named using IUPAC system",
+      "resources": [
+        "Wall charts showing structures of hydrocarbons, molecular model kits, bottles/ containers containing labelled hydrocarbons and alcohols"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(b) Name aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms using the IUPAC system and Chemistry software",
+      "activity_id": "chem-four-41",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to identify and name the first ten compounds of aliphatic hydrocarbons using IUPAC system and chemistry software, and make presentation",
+        "Laboratory observations: Guide students to make laboratory observations of labels on containers of hydrocarbons and alcohols"
+      ],
+      "assessment": "Aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly named using IUPAC system",
+      "resources": [
+        "Wall charts showing structures of hydrocarbons, molecular model kits, bottles/ containers containing labelled hydrocarbons and alcohols"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+      "learning_activity": "(b) Name aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms using the IUPAC system and Chemistry software",
+      "activity_id": "chem-four-41",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to identify and name the first ten compounds of aliphatic hydrocarbons using IUPAC system and chemistry software, and make presentation",
+        "Laboratory observations: Guide students to make laboratory observations of labels on containers of hydrocarbons and alcohols"
+      ],
+      "assessment": "Aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly named using IUPAC system",
+      "resources": [
+        "Wall charts showing structures of hydrocarbons, molecular model kits, bottles/ containers containing labelled hydrocarbons and alcohols"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+      "specific_competence": "Use chemical symbols, formulae and equations to represent chemical reaction",
+      "learning_activity": "(a) Describe the chemical reactions of aliphatic hydrocarbons and alcohols in relation to their structures",
+      "activity_id": "chem-four-42",
+      "periods": 4,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Gallery walk: Guide students to describe chemical reactions and make presentations",
+        "Role play: Guide students to demonstrate on the structures of aliphatic hydrocarbons and write report",
+        "Group discussion: Guide students in manageable groups to describe reactions of alcohols and make presentations"
+      ],
+      "assessment": "Chemical reactions of aliphatic hydrocarbons and alcohols are described clearly in relation to their structures",
+      "resources": [
+        "Wall charts, pictures and videos showing chemical reactions of aliphatic hydrocarbons and alcohols"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Investigate the composition of chemical species in substances using systematic qualitative analysis",
+      "activity_id": "chem-four-43",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Assign students to investigate on the composition of substances using appropriate qualitative analysis procedures",
+        "Group discussion: Guide students in manageable groups to describe the behaviours/ properties for cations and anions in a chemical reactions"
+      ],
+      "assessment": "The composition of chemical species in substances using systematic qualitative analysis are correctly investigated",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Investigate the composition of chemical species in substances using systematic qualitative analysis",
+      "activity_id": "chem-four-43",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Assign students to investigate on the composition of substances using appropriate qualitative analysis procedures",
+        "Group discussion: Guide students in manageable groups to describe the behaviours/ properties for cations and anions in a chemical reactions"
+      ],
+      "assessment": "The composition of chemical species in substances using systematic qualitative analysis are correctly investigated",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Investigate the composition of chemical species in substances using systematic qualitative analysis",
+      "activity_id": "chem-four-43",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Assign students to investigate on the composition of substances using appropriate qualitative analysis procedures",
+        "Group discussion: Guide students in manageable groups to describe the behaviours/ properties for cations and anions in a chemical reactions"
+      ],
+      "assessment": "The composition of chemical species in substances using systematic qualitative analysis are correctly investigated",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(a) Investigate the composition of chemical species in substances using systematic qualitative analysis",
+      "activity_id": "chem-four-43",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Assign students to investigate on the composition of substances using appropriate qualitative analysis procedures",
+        "Group discussion: Guide students in manageable groups to describe the behaviours/ properties for cations and anions in a chemical reactions"
+      ],
+      "assessment": "The composition of chemical species in substances using systematic qualitative analysis are correctly investigated",
+      "resources": [
+        "Qualitative analysis reagents",
+        "apparatus for qualitative analysis",
+        "qualitative analysis sheets, wall charts and samples of salts"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+      "activity_id": "chem-four-44",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+        "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+      ],
+      "assessment": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+      "resources": [
+        "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+      "activity_id": "chem-four-44",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+        "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+      ],
+      "assessment": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+      "resources": [
+        "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+      "activity_id": "chem-four-44",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+        "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+      ],
+      "assessment": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+      "resources": [
+        "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+      "activity_id": "chem-four-44",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+        "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+      ],
+      "assessment": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+      "resources": [
+        "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "Conduct experiments in Chemistry",
+      "specific_competence": "Conduct experiments in Chemistry",
+      "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+      "activity_id": "chem-four-44",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+        "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+      ],
+      "assessment": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+      "resources": [
+        "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 4,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 4,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 4,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 4,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 4,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "Conduct a project in Chemistry",
+      "specific_competence": "Conduct a project in Chemistry",
+      "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+      "activity_id": "chem-four-45",
+      "periods": 2,
+      "activity_total_periods": 24,
+      "teaching_learning_activities": [
+        "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+      ],
+      "assessment": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+      "resources": [
+        "Samples, project guidelines, sample of project reports and chemistry based software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    }
+  ]
+}

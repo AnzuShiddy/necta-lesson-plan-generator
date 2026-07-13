@@ -1,0 +1,880 @@
+{
+  "subject": "Kiswahili",
+  "form": "Form Two",
+  "year": 2026,
+  "periods_per_week": 4,
+  "total_periods": 139,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(a)  Kuandika habari kwa kuzingatia upatanisho wa kisarufi (kwa kuzingatia ngeli za nomino na viambishi vya upatanisho) Kuandika na kuwasilisha: Waongoze wanafunzi kuandika kuhusu habari fulani na kuwasilisha darasani ili kubaini uzingativu wa upatanisho wa kisarufi Ziara: Wanafunzi wafanye ziara eneo fulani mahususi kisha waandike kuhusiana na tukio walilolisikia au kulishuhudia kwenye ziara hiyo kwa kuzingatia upatanisho wa kisarufi",
+      "activity_id": "kisw-two-17",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Kuandika na kuwasilisha",
+        "Ziara"
+      ],
+      "assessment": "Habari imeandikwa kwa kuzingatia upatanisho wa kisarufi",
+      "resources": [
+        "Chati za maneno/ tungo",
+        "matini za sarufi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(a)  Kuandika habari kwa kuzingatia upatanisho wa kisarufi (kwa kuzingatia ngeli za nomino na viambishi vya upatanisho) Kuandika na kuwasilisha: Waongoze wanafunzi kuandika kuhusu habari fulani na kuwasilisha darasani ili kubaini uzingativu wa upatanisho wa kisarufi Ziara: Wanafunzi wafanye ziara eneo fulani mahususi kisha waandike kuhusiana na tukio walilolisikia au kulishuhudia kwenye ziara hiyo kwa kuzingatia upatanisho wa kisarufi",
+      "activity_id": "kisw-two-17",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Kuandika na kuwasilisha",
+        "Ziara"
+      ],
+      "assessment": "Habari imeandikwa kwa kuzingatia upatanisho wa kisarufi",
+      "resources": [
+        "Chati za maneno/ tungo",
+        "matini za sarufi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(a)  Kuandika habari kwa kuzingatia upatanisho wa kisarufi (kwa kuzingatia ngeli za nomino na viambishi vya upatanisho) Kuandika na kuwasilisha: Waongoze wanafunzi kuandika kuhusu habari fulani na kuwasilisha darasani ili kubaini uzingativu wa upatanisho wa kisarufi Ziara: Wanafunzi wafanye ziara eneo fulani mahususi kisha waandike kuhusiana na tukio walilolisikia au kulishuhudia kwenye ziara hiyo kwa kuzingatia upatanisho wa kisarufi",
+      "activity_id": "kisw-two-17",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Kuandika na kuwasilisha",
+        "Ziara"
+      ],
+      "assessment": "Habari imeandikwa kwa kuzingatia upatanisho wa kisarufi",
+      "resources": [
+        "Chati za maneno/ tungo",
+        "matini za sarufi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(a)  Kuandika habari kwa kuzingatia upatanisho wa kisarufi (kwa kuzingatia ngeli za nomino na viambishi vya upatanisho) Kuandika na kuwasilisha: Waongoze wanafunzi kuandika kuhusu habari fulani na kuwasilisha darasani ili kubaini uzingativu wa upatanisho wa kisarufi Ziara: Wanafunzi wafanye ziara eneo fulani mahususi kisha waandike kuhusiana na tukio walilolisikia au kulishuhudia kwenye ziara hiyo kwa kuzingatia upatanisho wa kisarufi",
+      "activity_id": "kisw-two-17",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Kuandika na kuwasilisha",
+        "Ziara"
+      ],
+      "assessment": "Habari imeandikwa kwa kuzingatia upatanisho wa kisarufi",
+      "resources": [
+        "Chati za maneno/ tungo",
+        "matini za sarufi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(b)  Kuzungumza kwa kutumia miundo changamani ya sentensi katika miktadha mbalimbali (sentensi ambatani na changamani) Igizodhima: Waongoze wanafunzi kuigiza kuhusu mada fulani inayoruhusu kujenga hoja na kutumia miundo changamani ya sentensi",
+      "activity_id": "kisw-two-18",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Miundo changamani ya sentensi imetumiwa katika mazungumzo kulingana na miktadha mbalimbali",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(b)  Kuzungumza kwa kutumia miundo changamani ya sentensi katika miktadha mbalimbali (sentensi ambatani na changamani) Igizodhima: Waongoze wanafunzi kuigiza kuhusu mada fulani inayoruhusu kujenga hoja na kutumia miundo changamani ya sentensi",
+      "activity_id": "kisw-two-18",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Miundo changamani ya sentensi imetumiwa katika mazungumzo kulingana na miktadha mbalimbali",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(b)  Kuzungumza kwa kutumia miundo changamani ya sentensi katika miktadha mbalimbali (sentensi ambatani na changamani) Igizodhima: Waongoze wanafunzi kuigiza kuhusu mada fulani inayoruhusu kujenga hoja na kutumia miundo changamani ya sentensi",
+      "activity_id": "kisw-two-18",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Miundo changamani ya sentensi imetumiwa katika mazungumzo kulingana na miktadha mbalimbali",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(c)   Kuandika matini fupi kwa kutumia miundo changamani ya sentensi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini mbalimbali zenye miundo changamani, kisha wabainishe miundo hiyo na kuitumia kuandika matini fupi",
+      "activity_id": "kisw-two-19",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini fupi zimeandikwa kwa kutumia miundo changamani ya sentensi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(c)   Kuandika matini fupi kwa kutumia miundo changamani ya sentensi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini mbalimbali zenye miundo changamani, kisha wabainishe miundo hiyo na kuitumia kuandika matini fupi",
+      "activity_id": "kisw-two-19",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini fupi zimeandikwa kwa kutumia miundo changamani ya sentensi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0  Kumudu misingi ya Kiswahili",
+      "specific_competence": "1.1  Kukuza uelewa wa sarufi ya Kiswahili",
+      "learning_activity": "(c)   Kuandika matini fupi kwa kutumia miundo changamani ya sentensi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini mbalimbali zenye miundo changamani, kisha wabainishe miundo hiyo na kuitumia kuandika matini fupi",
+      "activity_id": "kisw-two-19",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini fupi zimeandikwa kwa kutumia miundo changamani ya sentensi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(a)  Kusikiliza habari changamani kwa umakini, udadisi na kuuliza maswali Masimulizi: Waongoze wanafunzi wasikilize habari changamani kwa umakini na udadisi ili kuelewa mazungumzo Maswali na majibu: Waongoze wanafunzi kujibu maswali kutokana na habari changamani waliyoisikiliza",
+      "activity_id": "kisw-two-20",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Masimulizi",
+        "Maswali na majibu"
+      ],
+      "assessment": "Habari changamani zimesikilizwa kwa umakini, udadisi na maswali yameulizwa",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mazungumzo mbalimbali"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(a)  Kusikiliza habari changamani kwa umakini, udadisi na kuuliza maswali Masimulizi: Waongoze wanafunzi wasikilize habari changamani kwa umakini na udadisi ili kuelewa mazungumzo Maswali na majibu: Waongoze wanafunzi kujibu maswali kutokana na habari changamani waliyoisikiliza",
+      "activity_id": "kisw-two-20",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Masimulizi",
+        "Maswali na majibu"
+      ],
+      "assessment": "Habari changamani zimesikilizwa kwa umakini, udadisi na maswali yameulizwa",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mazungumzo mbalimbali"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(a)  Kusikiliza habari changamani kwa umakini, udadisi na kuuliza maswali Masimulizi: Waongoze wanafunzi wasikilize habari changamani kwa umakini na udadisi ili kuelewa mazungumzo Maswali na majibu: Waongoze wanafunzi kujibu maswali kutokana na habari changamani waliyoisikiliza",
+      "activity_id": "kisw-two-20",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Masimulizi",
+        "Maswali na majibu"
+      ],
+      "assessment": "Habari changamani zimesikilizwa kwa umakini, udadisi na maswali yameulizwa",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mazungumzo mbalimbali"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(b)  Kusikiliza mijadala/habari changamani na kuwasilisha mawazo makuu aliyoyapata kwa kuzingatia uwazi na uwekevu Majadiliano: Waongoze wanafunzi kusikiliza mijadala/ habari changamani kisha wajadiliane na kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu Masimulizi: Waongoze wanafunzi kusimulia habari changamani kisha kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu",
+      "activity_id": "kisw-two-21",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Masimulizi"
+      ],
+      "assessment": "Mijadala/habari changamani zimesikilizwa na mawazo makuu aliyoyapata yamewasilishwa kwa kuzingatia uwazi na uwekevu",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(b)  Kusikiliza mijadala/habari changamani na kuwasilisha mawazo makuu aliyoyapata kwa kuzingatia uwazi na uwekevu Majadiliano: Waongoze wanafunzi kusikiliza mijadala/ habari changamani kisha wajadiliane na kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu Masimulizi: Waongoze wanafunzi kusimulia habari changamani kisha kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu",
+      "activity_id": "kisw-two-21",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Masimulizi"
+      ],
+      "assessment": "Mijadala/habari changamani zimesikilizwa na mawazo makuu aliyoyapata yamewasilishwa kwa kuzingatia uwazi na uwekevu",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.1  Kusikiliza na kuelewa mazungumzo",
+      "learning_activity": "(b)  Kusikiliza mijadala/habari changamani na kuwasilisha mawazo makuu aliyoyapata kwa kuzingatia uwazi na uwekevu Majadiliano: Waongoze wanafunzi kusikiliza mijadala/ habari changamani kisha wajadiliane na kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu Masimulizi: Waongoze wanafunzi kusimulia habari changamani kisha kuwasilisha mawazo makuu waliyoyapata kwa kuzingatia uwazi na uwekevu",
+      "activity_id": "kisw-two-21",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Masimulizi"
+      ],
+      "assessment": "Mijadala/habari changamani zimesikilizwa na mawazo makuu aliyoyapata yamewasilishwa kwa kuzingatia uwazi na uwekevu",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(a)  Kusoma matini ndefu changamani kwa kina na utunduizi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kwa kina na utunduizi kisha waeleze mambo makuu yaliyomo katika matini hizo",
+      "activity_id": "kisw-two-22",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa kwa kina na kwa utunduizi na mambo makuu yaliyomo yameelezwa",
+      "resources": [
+        "Matini changamani za kusoma",
+        "kadi za maneno/ tungo"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(a)  Kusoma matini ndefu changamani kwa kina na utunduizi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kwa kina na utunduizi kisha waeleze mambo makuu yaliyomo katika matini hizo",
+      "activity_id": "kisw-two-22",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa kwa kina na kwa utunduizi na mambo makuu yaliyomo yameelezwa",
+      "resources": [
+        "Matini changamani za kusoma",
+        "kadi za maneno/ tungo"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(a)  Kusoma matini ndefu changamani kwa kina na utunduizi Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kwa kina na utunduizi kisha waeleze mambo makuu yaliyomo katika matini hizo",
+      "activity_id": "kisw-two-22",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa kwa kina na kwa utunduizi na mambo makuu yaliyomo yameelezwa",
+      "resources": [
+        "Matini changamani za kusoma",
+        "kadi za maneno/ tungo"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(b)  Kusoma matini ndefu changamani, kuandika muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kisha waandike muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo",
+      "activity_id": "kisw-two-23",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa, muhtasari wa hoja kuu zilizomo umeandikwa na maoni juu ya hoja hizo yametolewa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(b)  Kusoma matini ndefu changamani, kuandika muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kisha waandike muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo",
+      "activity_id": "kisw-two-23",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa, muhtasari wa hoja kuu zilizomo umeandikwa na maoni juu ya hoja hizo yametolewa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0   Kumudu lugha ya mazungumzo na ya maandishi",
+      "specific_competence": "2.2  Kusoma matini kwa ufasaha na ufahamu",
+      "learning_activity": "(b)  Kusoma matini ndefu changamani, kuandika muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo Uchambuzi wa matini: Waongoze wanafunzi kusoma matini ndefu changamani kisha waandike muhtasari wa hoja kuu zilizomo na kutoa maoni juu ya hoja hizo",
+      "activity_id": "kisw-two-23",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Uchambuzi wa matini"
+      ],
+      "assessment": "Matini ndefu changamani zimesomwa, muhtasari wa hoja kuu zilizomo umeandikwa na maoni juu ya hoja hizo yametolewa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(a)  Kuzungumza kwa kutumia mitindo mbalimbali ya lugha ya mazungumzo na kwa kuzingatia miktadha, umri, jinsia na uhusiano Igizodhima: Waongoze wanafunzi kuigiza kwa kuzingatia uhusika fulani kulingana na muktadha wa tukio, umri, jinsia na uhusiano",
+      "activity_id": "kisw-two-24",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Mitindo mbalimbali ya lugha ya mazungumzo imetumika katika kuzungumza kwa kuzingatia miktadha, umri, jinsia na uhusiano",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mitindo mbalimbali ya lugha",
+        "michoro"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(a)  Kuzungumza kwa kutumia mitindo mbalimbali ya lugha ya mazungumzo na kwa kuzingatia miktadha, umri, jinsia na uhusiano Igizodhima: Waongoze wanafunzi kuigiza kwa kuzingatia uhusika fulani kulingana na muktadha wa tukio, umri, jinsia na uhusiano",
+      "activity_id": "kisw-two-24",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Mitindo mbalimbali ya lugha ya mazungumzo imetumika katika kuzungumza kwa kuzingatia miktadha, umri, jinsia na uhusiano",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mitindo mbalimbali ya lugha",
+        "michoro"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(a)  Kuzungumza kwa kutumia mitindo mbalimbali ya lugha ya mazungumzo na kwa kuzingatia miktadha, umri, jinsia na uhusiano Igizodhima: Waongoze wanafunzi kuigiza kwa kuzingatia uhusika fulani kulingana na muktadha wa tukio, umri, jinsia na uhusiano",
+      "activity_id": "kisw-two-24",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Mitindo mbalimbali ya lugha ya mazungumzo imetumika katika kuzungumza kwa kuzingatia miktadha, umri, jinsia na uhusiano",
+      "resources": [
+        "Video na kinyonyi kilichohifadhiwa mitindo mbalimbali ya lugha",
+        "michoro"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(b)  Kutumia kwa usahihi ishara zinazoambatana na mazungumzo katika kuwasiliana Igizodhima: Wanafunzi waigize mazungumzo mbalimbali wakizingatia ishara zinazoambatana na mazungumzo",
+      "activity_id": "kisw-two-25",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Ishara zinazoambatana na mazungumzo katika kuwasiliana zimetumika kwa usahihi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(b)  Kutumia kwa usahihi ishara zinazoambatana na mazungumzo katika kuwasiliana Igizodhima: Wanafunzi waigize mazungumzo mbalimbali wakizingatia ishara zinazoambatana na mazungumzo",
+      "activity_id": "kisw-two-25",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Ishara zinazoambatana na mazungumzo katika kuwasiliana zimetumika kwa usahihi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.1  Kuwasiliana kwa ufasaha kwa njia ya mazungumzo",
+      "learning_activity": "(b)  Kutumia kwa usahihi ishara zinazoambatana na mazungumzo katika kuwasiliana Igizodhima: Wanafunzi waigize mazungumzo mbalimbali wakizingatia ishara zinazoambatana na mazungumzo",
+      "activity_id": "kisw-two-25",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Ishara zinazoambatana na mazungumzo katika kuwasiliana zimetumika kwa usahihi",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(a)  Kuandika insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) Fikiri - Andika- Jozisha - Shirikisha: Waongoze wanafunzi katika jozi kufikiri kisha waandike mambo ya kuzingatia katika uandishi wa insha za wasifu na hoja na kuwasilisha darasani Uchunguzi: Andaa insha kisha waongoze wanafunzi kuchunguza insha za kisanaa na zisizo za kisanaa, wabainishe vipengele vilivyojitokeza katika insha hizo kisha waandike insha",
+      "activity_id": "kisw-two-26",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Fikiri - Andika- Jozisha - Shirikisha",
+        "Uchunguzi"
+      ],
+      "assessment": "Insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) zimeandikwa",
+      "resources": [
+        "Matini za kuandika",
+        "picha na michoro",
+        "chati za miundo mbalimbali ya uandishi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(a)  Kuandika insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) Fikiri - Andika- Jozisha - Shirikisha: Waongoze wanafunzi katika jozi kufikiri kisha waandike mambo ya kuzingatia katika uandishi wa insha za wasifu na hoja na kuwasilisha darasani Uchunguzi: Andaa insha kisha waongoze wanafunzi kuchunguza insha za kisanaa na zisizo za kisanaa, wabainishe vipengele vilivyojitokeza katika insha hizo kisha waandike insha",
+      "activity_id": "kisw-two-26",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Fikiri - Andika- Jozisha - Shirikisha",
+        "Uchunguzi"
+      ],
+      "assessment": "Insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) zimeandikwa",
+      "resources": [
+        "Matini za kuandika",
+        "picha na michoro",
+        "chati za miundo mbalimbali ya uandishi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(a)  Kuandika insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) Fikiri - Andika- Jozisha - Shirikisha: Waongoze wanafunzi katika jozi kufikiri kisha waandike mambo ya kuzingatia katika uandishi wa insha za wasifu na hoja na kuwasilisha darasani Uchunguzi: Andaa insha kisha waongoze wanafunzi kuchunguza insha za kisanaa na zisizo za kisanaa, wabainishe vipengele vilivyojitokeza katika insha hizo kisha waandike insha",
+      "activity_id": "kisw-two-26",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Fikiri - Andika- Jozisha - Shirikisha",
+        "Uchunguzi"
+      ],
+      "assessment": "Insha za wasifu na hoja (za kisanaa na zisizo za kisanaa) zimeandikwa",
+      "resources": [
+        "Matini za kuandika",
+        "picha na michoro",
+        "chati za miundo mbalimbali ya uandishi"
+      ],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(b)  Kusikiliza hoja na kuandika kumbukumbu Ziara: Waongoze wanafunzi kushiriki mikutano mbalimbali na kuandika kumbukumbu Maigizo: Waongoze wanafunzi kuigiza vikao vyenye kuhusisha hoja mbalimbali",
+      "activity_id": "kisw-two-27",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Ziara",
+        "Maigizo"
+      ],
+      "assessment": "Hoja zimesikilizwa na kumbukumbu zimeandikwa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(b)  Kusikiliza hoja na kuandika kumbukumbu Ziara: Waongoze wanafunzi kushiriki mikutano mbalimbali na kuandika kumbukumbu Maigizo: Waongoze wanafunzi kuigiza vikao vyenye kuhusisha hoja mbalimbali",
+      "activity_id": "kisw-two-27",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Ziara",
+        "Maigizo"
+      ],
+      "assessment": "Hoja zimesikilizwa na kumbukumbu zimeandikwa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(b)  Kusikiliza hoja na kuandika kumbukumbu Ziara: Waongoze wanafunzi kushiriki mikutano mbalimbali na kuandika kumbukumbu Maigizo: Waongoze wanafunzi kuigiza vikao vyenye kuhusisha hoja mbalimbali",
+      "activity_id": "kisw-two-27",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Ziara",
+        "Maigizo"
+      ],
+      "assessment": "Hoja zimesikilizwa na kumbukumbu zimeandikwa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0  Kuwasiliana katika miktadha mbalimbali",
+      "specific_competence": "3.2  Kuwasiliana kwa njia ya maandishi katika miktadha mbalimbali",
+      "learning_activity": "(b)  Kusikiliza hoja na kuandika kumbukumbu Ziara: Waongoze wanafunzi kushiriki mikutano mbalimbali na kuandika kumbukumbu Maigizo: Waongoze wanafunzi kuigiza vikao vyenye kuhusisha hoja mbalimbali",
+      "activity_id": "kisw-two-27",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Ziara",
+        "Maigizo"
+      ],
+      "assessment": "Hoja zimesikilizwa na kumbukumbu zimeandikwa",
+      "resources": [],
+      "references": "Kiswahili Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    }
+  ]
+}

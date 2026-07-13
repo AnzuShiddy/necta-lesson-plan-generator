@@ -1,0 +1,922 @@
+{
+  "subject": "Geography",
+  "form": "Form Three",
+  "year": 2026,
+  "periods_per_week": 2,
+  "total_periods": 67,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+      "activity_id": "geog-three-9",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on major world climatic regions",
+        "Group Discussion: Guide students to characterise the major world climatic regions",
+        "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+        "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+      ],
+      "assessment": "The major climatic regions of the World are categorised or classified clearly",
+      "resources": [
+        "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+      "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+      "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+      "activity_id": "geog-three-10",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+        "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+      ],
+      "assessment": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+      "resources": [
+        "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+      "activity_id": "geog-three-11",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students to explain the basic concepts of surveying",
+        "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+      ],
+      "assessment": "The basic tenets of surveying are correctly explored",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+      "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+      "learning_activity": "(b) Carry out simple tape/chain surveying",
+      "activity_id": "geog-three-12",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+        "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+        "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+      ],
+      "assessment": "The simple tape/ chain surveying is correctly carried out",
+      "resources": [
+        "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Demonstrate mastery of human geography",
+      "specific_competence": "3.1 Carry out a project in Geography",
+      "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+      "activity_id": "geog-three-13",
+      "periods": 1,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Project work: Guide students in groups to prepare a good research title for the project",
+        "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+      ],
+      "assessment": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+      "resources": [
+        "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+      ],
+      "references": "Geography Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    }
+  ]
+}

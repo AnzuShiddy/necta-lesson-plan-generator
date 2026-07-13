@@ -1,0 +1,968 @@
+{
+  "subject": "Chemistry",
+  "form": "Form Three",
+  "year": 2026,
+  "periods_per_week": 3,
+  "total_periods": 110,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Explain Avogadro’s law in relation to molar quantities",
+      "learning_activity": "Group discussion: Guide student in manageable groups to use the Avogadros Law in explaining the molar quantities",
+      "activity_id": "chem-three-24",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "The Avogadro’s Law is clearly explained and correctly applied in calculating molar quantities",
+      "resources": [
+        "Scientific calculator and analytical balance"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(d) Describe the applications of volumetric analysis in real life and industrial settings as in soft drinks and cocktail making, medicine and in agriculture",
+      "learning_activity": "Experimentation: Guide students to perform experiments related to the applications of volumetric analysis",
+      "activity_id": "chem-three-26",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "The applications of volumetric analysis in real life and industrial settings are clearly described",
+      "resources": [
+        "Pipettes, burettes, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, backing powder, vinegar, processed juice, antacids tablets and suspensions, fertiliser, NaOH, HCl, H2SO4 , HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(e) Explore the basic tenets of ionic theory and electrolysis (ionic theory, mechanism of electrolysis and laws of electrolysis)",
+      "learning_activity": "Group discussion: Guide students in manageable groups to describe the concept of ionic theory and electrolysis and make presentations Experimentation: Guide students to carry-out experiments that demonstrate the mechanism of electrolysis using simple available chemicals and apparatus Field Trip: Guide students to carry-out fields trips to near by industries involved in extraction, electroplating and purification of metals and examine the applications of electrolysis",
+      "activity_id": "chem-three-27",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Experimentation",
+        "Field Trip"
+      ],
+      "assessment": "The basic principles of ionic theory and electrolysis are clearly described",
+      "resources": [
+        "Electrolytic cells, pencils, battery (dry cells), connecting wire, distilled water, acid, H2SO4, CuSO4, ZnSO4, NaCl, KCl, and simulations or videos, diagrams, pictures, wall charts, illustrating principles of ionic theory and electrolysis"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(g) Describe the oxidizing and displacement properties of non-metal compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia, and carbon dioxide)",
+      "learning_activity": "Group discussion: Guide students in manageable groups to describe the properties of non-metals and write report Project works: Guide students to carry-out visits to nearby industries for making gases, pesticides, fertilisers and other chemicals, analyse properties of the compounds of non-metals",
+      "activity_id": "chem-three-29",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "Oxidizing and displacement properties of non-metal compounds are clearly described",
+      "resources": [
+        "Wall charts and pictures showing some important oxidation reactions, periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, Iron(II) chloride, potassium dichromate and potassium permanganate"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 8,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 9,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 10,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 11,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 12,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 13,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 14,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 15,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 16,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 17,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 18,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+      "activity_id": "chem-three-30",
+      "periods": 3,
+      "activity_total_periods": 58,
+      "teaching_learning_activities": [
+        "Experimentation",
+        "Field trips"
+      ],
+      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "resources": [
+        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 19,
+      "topic_weeks": 19
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Perform experiments on the applications of electrolysis in corrosion inhibition and purification of metals",
+      "learning_activity": "Experimentation: Guide students to investigate the applications of electrolysis in the electroplating process for common items in the environment",
+      "activity_id": "chem-three-31",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "Experiments on the applications of electrolysis in corrosion, inhibition and purification of metals are correctly performed",
+      "resources": [
+        "Graph papers, sand papers, dry cells Li-ion (3 V &6 V), Lead acid cells (12 V , 5 Ah-7 Ah), Sulphuric acid, copper(II) sulphate, copper ores and sheets, spoon, copper wires, sodium chloride, graphite rods plate, aluminium ores, gold, zinc, impure copper plates, chloride/ sulphate, iron plates, distilled water, potassium dichromate, coulometer, pure copper rods, ammeter, voltmeter, and 100 mL and 250 mL beakers"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(c) Use appropriate software to sketch the set-ups of experiments",
+      "learning_activity": "Experimentation: Guide students to use various software in sketching experimental set-ups",
+      "activity_id": "chem-three-32",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "The set-ups of experiments are correctly sketched using Chemistry software",
+      "resources": [
+        "Chemistry-based computer software"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(e) Demonstrate oxidizing and displacement properties of non-metallic compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia and carbon dioxide)",
+      "learning_activity": "Group discussion: Organise students in manageable groups to describe properties of non-metal compounds and make presentations Inquiry-based learning: Guide students to investigate industrial mechanisms involving oxidizing and displacement properties of non-metals",
+      "activity_id": "chem-three-34",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Inquiry-based learning"
+      ],
+      "assessment": "Oxidizing and displacement properties of non-metal compounds are correctly demonstrated",
+      "resources": [
+        "Periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, iron (II) chloride, potassium dichromate and potassium permanganate and videos, animations or simulations, wall charts and pictures illustrating some important oxidation reactions"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(f) Prepare sulphuric acid from sulphur dioxide",
+      "learning_activity": "Experimentation: Guide students to prepare sulphuric acid by using sulphur dioxide",
+      "activity_id": "chem-three-35",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "Sulphuric acid from sulphur dioxide is correctly prepared",
+      "resources": [
+        "Wall charts showing the laboratory / industrial preparation of sulphuric acid, sulphur dioxide, distilled water, delivery tubes and flasks with side arms"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
+      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
+      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
+      "activity_id": "chem-three-36",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Field trips",
+        "Group discussion"
+      ],
+      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "resources": [
+        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
+      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
+      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
+      "activity_id": "chem-three-36",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Field trips",
+        "Group discussion"
+      ],
+      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "resources": [
+        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
+      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
+      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
+      "activity_id": "chem-three-36",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Field trips",
+        "Group discussion"
+      ],
+      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "resources": [
+        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "4.0 Conduct a project in Chemistry",
+      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+      "activity_id": "chem-three-37",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Project works"
+      ],
+      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "resources": [
+        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    }
+  ]
+}

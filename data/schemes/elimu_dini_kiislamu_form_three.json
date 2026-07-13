@@ -1,0 +1,798 @@
+{
+  "subject": "Elimu ya Dini ya Kiislamu",
+  "form": "Form Three",
+  "year": 2026,
+  "periods_per_week": 1,
+  "total_periods": 29,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake",
+      "learning_activity": "(a) Kuchambua nguzo ya kuamini malaika wa Allaah (S.W) (maana, umuhimu, sifa, kazi na athari ya kuamini malaika katika maisha ya kila siku)",
+      "activity_id": "elim-three-16",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa ili wajifunze kwa kujadiliana kuhusu (i) Maana ya kuamini Malaika (ii) Umuhimu wa kuamini ya Malaika (iii) Sifa na kazi za Malaika (iv) Athari ya kuamini Malaika katika maisha ya kila siku. Kila kikundi kutoa mwakilishi mmoja kuwasilisha walichojifunza kwa wenzao darasani"
+      ],
+      "assessment": "Kuchambua nguzo ya kuamini malaika wa Allaah (S.W) kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdulla Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu kuamini malaika wa Allaah (S.W) ."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake",
+      "learning_activity": "(b) Kuchambua nguzo ya kuamini vitabu vya Allaah (S.W). (Umuhimu wa kuamini vitabu vya Allaah (S.W), lengo la vitabu vya Allaah (S.W), tofauti ya Qur’an na vitabu vingine vya Allaah (S.W), Qur an haipitwi na wakati, athari ya kuamini vitabu vya Allaah (S.W) katika maisha ya jamii) (iv) Qur’an haipitwi na wakati. (v) Athari ya kuamini vitabu vya Allaah (S.W) katika maisha ya jamii.",
+      "activity_id": "elim-three-17",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi katika vikundi kusoma matini uliyoandaa ili wajifunze kwa kujadiliana juu ya: (i) Umuhimu wa kuamini vitabu vya Allaah (S.W) (ii) Lengo la vitabu vya Allaah (S.W), (iii) Tofauti ya Qur’an na vitabu vingine vya Allaah (S.W) (iv) Qur’an haipitwi na wakati. (v) Athari ya kuamini vitabu vya Allaah (S.W) katika maisha ya jamii. Kila kikundi kutoa mwakilishi mmoja kuwasilisha mbele ya darasa."
+      ],
+      "assessment": "Kuchambua nguzo ya kuamini vitabu vya Allaah (S.W) kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdulla Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu kuamini vitabu vya Allaah (S.W)"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake",
+      "learning_activity": "(c ) Kuchambua ufahamu wa kuamini mitume wa Allaah (S.W). (uwepo wa mitume, sifa zao, mafundisho yao mwisho wa utume na taathira ya kuamini mitume katika maisha ya kila siku).",
+      "activity_id": "elim-three-18",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano na Kuwasilisha; Ongoza wanafunzi katika vikundi vidogo vidogo kubainisha (i) Ushahidi wa uwepo wa mitume (ii) Sifa za mitume (iii) mafundisho ya mitume (iv) Mwisho wa utume (v) Taathira ya kuamini mitume katika maisha ya kila siku."
+      ],
+      "assessment": "Kuchambua ufahamu juu ya kuamini mitume wa Allaah (S.W) kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu kuamini mitume wa Allaah (S.W).",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake",
+      "learning_activity": "(d) Kuchambua ufahamu wa kuamini siku ya mwisho. (Mazingira ya siku ya mwisho, udhaifu wa madai ya makafiri dhidi ya siku ya mwisho, hoja za kuthibitisha kuwepo kwa siku ya mwisho, ufahamu wa shufaa, athari ya kuamini siku ya mwisho katika maisha ya kila siku)",
+      "activity_id": "elim-three-19",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano na Kuwasilisha; Wanafunzi wakiwa katika vikundi vidogo vidogo waongoze; (i) Kubaini mazingira ya siku ya mwisho (ii) kueleza hoja za makafiri dhidi ya uwepo wa siku ya mwisho na udhaifu wake (iii) Kufafanua hoja za kimantiki na kihistoria kuthibitisha uwepo wa siku ya mwisho (iv) Kueleza shufaa itakavyokuwa siku ya kiyama. (v) Kubaini taathira ya kuamini siku ya mwisho katika maisha ya kila siku."
+      ],
+      "assessment": "Ufahamu wa kuamini siku ya mwisho umechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu Kuamini siku ya mwisho",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake",
+      "learning_activity": "(e) Kufafanua ufahamu wa kuamini Qadar ya Allaah (S.W). (Maana, tofauti ya Qadar na Qudra, umuhimu, na athari ya kuamini Qadar katika maisha ya kila siku).",
+      "activity_id": "elim-three-20",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri -andika - jozisha -shirikisha: Ongoza wanafunzi kufikiri, kuandika, kujozisha na kushirikishana katika vikundi kufafanua (i) Maana na tofauti kati ya Qadar na Qudra ya Allaah (S.W) (ii) Umuhimu wa kuamini Qadar ya Allah (S.W) (iii) Athari za kuamini Qadar katika maisha ya kila siku."
+      ],
+      "assessment": "Kufafanua ufahamu wa kuamaini Qadar ya Allaah (S.W) kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu Qadar ya Allaah (S.W)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "learning_activity": "(a) Kuchambua ufahamu wa usomaji wa Qur’an. (Hukumu za lam, hukumu za qalqala, hukumu za mada, hukumu za waqfu).",
+      "activity_id": "elim-three-21",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano Ongoza wanafunzi katika vikundi vidogo vidogo kujadiliana kisha kuwasilisha walichojifunza juu ya: (i) Hukumu za lam (ii) Hukumu za qalqala (iii) Hukumu za mada (iv) Hukumu za waqfu"
+      ],
+      "assessment": "Kuchambua ufahamu wa usomaji wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu tajwiid."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "learning_activity": "(a) Kuchambua ufahamu wa usomaji wa Qur’an. (Hukumu za lam, hukumu za qalqala, hukumu za mada, hukumu za waqfu).",
+      "activity_id": "elim-three-21",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano Ongoza wanafunzi katika vikundi vidogo vidogo kujadiliana kisha kuwasilisha walichojifunza juu ya: (i) Hukumu za lam (ii) Hukumu za qalqala (iii) Hukumu za mada (iv) Hukumu za waqfu"
+      ],
+      "assessment": "Kuchambua ufahamu wa usomaji wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu tajwiid."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "learning_activity": "(b) Kuchambua ithibati ya Qur’an. (Tofauti kati ya sura za Makka na sura za Madina, ufahamu wa sababu nuzuli).",
+      "activity_id": "elim-three-22",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa waweze kujifunza kwa kujadiliana kisha kutoa ufafanuzi juu ya (i) Tofauti kati ya sura zilizoshuka Makkah na sura zilizoshuka Madinah (ii) ufahamu wa sababu nuzuli Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya darasa. Ramani ya Ufahamu. Andaa ramani ya ufahamu kuhusu sifa za sura za Makkah na zile za Madina ambapo utajaza baadhi na kuacha nyingine wanafunzi wajaze."
+      ],
+      "assessment": "Kuchambua ithibati ya Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdulla Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "learning_activity": "(c) Kuchambua sura zilizoteuliwa: Quraysh (106), Fiil (105), Humazah (104), Asr (103). (Kusoma kwa hukumu, kuhifadhi na kutoa mafunzo).",
+      "activity_id": "elim-three-23",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao wa ziada nje ya darasa kusoma kwa kuhifadhi na kutoa tafsiri ya sura zifuatazo; Quraysh (106), Al – fyl (105), Humazah (104), ‘Asr (103) wabaini mafunzo katika kila sura, kisha kuwasilisha kazi zao baada ya muda uliowapa kukamilika. Majadiliano; Jadiliana na wanafunzi namna ya kutekeleza ujumbe wa sura walizojifunza."
+      ],
+      "assessment": "Sura zilizoteuliwa zimechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdulla Saleh Farsy"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad S.A.W)",
+      "learning_activity": "(a) Kuchambua sayansi ya Hadithi za Mtume Muhammad (S.W). (Aina, tanzu na uhakiki wa Hadithi).",
+      "activity_id": "elim-three-24",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Maswali na majibu na Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini iliyoandaliwa waweze kujifunza na kufafanua (i) Aina na tanzu za Hadithi. (ii) Vigezo vya uhakiki wa Hadithi Ramani ya Ufahamu. Andaa ramani ya ufahamu kuhusu aina na tanzu za Hadithi ambapo utajaza baadhi ya tanzu /aina na utaacha nyingine wanafunzi wajaze."
+      ],
+      "assessment": "Kuchambua sayansi ya Hadithi za Mtume Muhammad s kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada",
+        "kidato cha 3",
+        "Matini mbalimbali kuhusu sayansi ya Hadithi za Mtume Muhammad (S.W)"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad S.A.W)",
+      "learning_activity": "(a) Kuchambua sayansi ya Hadithi za Mtume Muhammad (S.W). (Aina, tanzu na uhakiki wa Hadithi).",
+      "activity_id": "elim-three-24",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Maswali na majibu na Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini iliyoandaliwa waweze kujifunza na kufafanua (i) Aina na tanzu za Hadithi. (ii) Vigezo vya uhakiki wa Hadithi Ramani ya Ufahamu. Andaa ramani ya ufahamu kuhusu aina na tanzu za Hadithi ambapo utajaza baadhi ya tanzu /aina na utaacha nyingine wanafunzi wajaze."
+      ],
+      "assessment": "Kuchambua sayansi ya Hadithi za Mtume Muhammad s kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada",
+        "kidato cha 3",
+        "Matini mbalimbali kuhusu sayansi ya Hadithi za Mtume Muhammad (S.W)"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad S.A.W)",
+      "learning_activity": "(b) Kuchambua Hadithi zilizoteuliwa kuhusu kujiepusha na ria na kujiona, kujiepusha na unafiki, kuwa mwenye huruma, kuwa na haya, kudhibiti hasira, kuwa mwenye subira na uvumilivu, kuwa mkarimu, kuepuka uchoyo na ubakhili, kuwa mwenye kutosheka, kuepuka husda. (Kusoma kwa kuhifadhi kuandika, kutafsiri na kung’amua mafunzo).",
+      "activity_id": "elim-three-25",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao nje ya darasa kusoma kwa kuhifadhi, kuandika na kutoa tafsiri ya Hadithi zilizoteuliwa kuhusu kujiepusha na ria na kujiona, kujiepusha na unafiki, kuwa mwenye huruma, kuwa na haya, kudhibiti hasira, kuwa mwenye subira na uvumilivu, kuwa mkarimu, kuepuka uchoyo na ubakhili, kuwa mwenye kutosheka, kuepuka husuda. Matembezi ya galari; Ongoza wanafunzi kuorodhesha mafunzo yatokanayo na Hadithi husika na kubandika kwenye kuta za darasa, kufanya matembezi na kuuliza maswali katika vikundi mbalimbali. Fikiri - andika - jozisha - shirikisha; Ongoza wanafunzi katika vikundi vidogo vidogo kutafakari na kuandika mapendekezo namna ya kutekeleza mafunzo ya Hadithi husika kisha ufanye majumuisho."
+      ],
+      "assessment": "Kuchambua Hadithi zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu Hadithi zilizoteuliwa.",
+        "TEHAMA",
+        "tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W)",
+      "specific_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad S.A.W)",
+      "learning_activity": "(b) Kuchambua Hadithi zilizoteuliwa kuhusu kujiepusha na ria na kujiona, kujiepusha na unafiki, kuwa mwenye huruma, kuwa na haya, kudhibiti hasira, kuwa mwenye subira na uvumilivu, kuwa mkarimu, kuepuka uchoyo na ubakhili, kuwa mwenye kutosheka, kuepuka husda. (Kusoma kwa kuhifadhi kuandika, kutafsiri na kung’amua mafunzo).",
+      "activity_id": "elim-three-25",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao nje ya darasa kusoma kwa kuhifadhi, kuandika na kutoa tafsiri ya Hadithi zilizoteuliwa kuhusu kujiepusha na ria na kujiona, kujiepusha na unafiki, kuwa mwenye huruma, kuwa na haya, kudhibiti hasira, kuwa mwenye subira na uvumilivu, kuwa mkarimu, kuepuka uchoyo na ubakhili, kuwa mwenye kutosheka, kuepuka husuda. Matembezi ya galari; Ongoza wanafunzi kuorodhesha mafunzo yatokanayo na Hadithi husika na kubandika kwenye kuta za darasa, kufanya matembezi na kuuliza maswali katika vikundi mbalimbali. Fikiri - andika - jozisha - shirikisha; Ongoza wanafunzi katika vikundi vidogo vidogo kutafakari na kuandika mapendekezo namna ya kutekeleza mafunzo ya Hadithi husika kisha ufanye majumuisho."
+      ],
+      "assessment": "Kuchambua Hadithi zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu Hadithi zilizoteuliwa.",
+        "TEHAMA",
+        "tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo.",
+      "learning_activity": "(a) Kuchambua nguzo ya Hija (maana, aina, umuhimu, masharti, nguzo na sunnah)",
+      "activity_id": "elim-three-26",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Bunguabongo: Waongoze wanafunzi kupitia bunguabongo kueleza maana ya hija Fikiri – jozisha – shirikisha: Waongoze wanafunzi kupitia fikiri – jozisha – shirikisha kueleza maana na aina za Hija na umuhimu wake, Maana ya Umra. Igizodhima: Waongoze wanafunzi wafanye igizo la ibada ya Hija kwa kuzingatia masharti, nguzo na Sunnah zake."
+      ],
+      "assessment": "Nguzo ya Hija imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3.",
+        "Vitu halisi, chati/jedwali, Qur’an tukufu"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo.",
+      "learning_activity": "(a) Kuchambua nguzo ya Hija (maana, aina, umuhimu, masharti, nguzo na sunnah)",
+      "activity_id": "elim-three-26",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Bunguabongo: Waongoze wanafunzi kupitia bunguabongo kueleza maana ya hija Fikiri – jozisha – shirikisha: Waongoze wanafunzi kupitia fikiri – jozisha – shirikisha kueleza maana na aina za Hija na umuhimu wake, Maana ya Umra. Igizodhima: Waongoze wanafunzi wafanye igizo la ibada ya Hija kwa kuzingatia masharti, nguzo na Sunnah zake."
+      ],
+      "assessment": "Nguzo ya Hija imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3.",
+        "Vitu halisi, chati/jedwali, Qur’an tukufu"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo.",
+      "learning_activity": "(b) Kutathmini malengo ya nguzo za Uislamu (namna lengo la kila nguzo linavyofikiwa, sababu za baadhi ya Waislamu kutofikia malengo ya nguzo za Uislamu)",
+      "activity_id": "elim-three-27",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha Kusoma matini na maswali uliyoandaa kwa kujadiliana waweze kuchambua (i) Jinsi utekelezaji wa kila nguzo ya Uislamu unavyomuwezesha mja kufikia lengo (ii) Kwanini baadhi ya waislamu hawafikii malengo ya nguzo za Uislamu. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kutathmini malengo ya nguzo za Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu Nguzo za Uislamu.",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo.",
+      "learning_activity": "(c) Kuchanganua faida za utekelezaji wa nguzo za Uislamu.",
+      "activity_id": "elim-three-28",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha kusoma matini na maswali uliyoandaa kwa kujadiliana waweze kuchanganua: (i) Faida za kijamii za kila nguzo ya Uislamu (ii) Faida za jumla za nguzo za Uislamu. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kuchanganua faida za nguzo za Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "learning_activity": "(a) Kufafanua ufahamu wa talaka na eda katika Uislamu. (maana, hekima ya talaka, Sulhu kati ya mume na mke, aina za talaka, Taratibu za talaka, aina za eda,).",
+      "activity_id": "elim-three-29",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Changanyakete; Ongoza wanafunzi katika vikundi kusoma matini kuhusu (i) Maana na hekima ya talaka (ii) Sulhu ya hitilafu zilizojitokeza baina ya mume na mke (iii) Aina za talaka, (iv) Taratibu za kutaliki (v) Aina za eda Elekeza kila kikundi kutoa mwakilishi mmoja kwenda kikundi kingine kufundisha walichojifunza katika kundi lao. Majadiliano na Kuwasilisha; Wanafunzi wakiwa katika vikundi vidogo vidogo waongoze kujadili sababu za kukithiri kwa talaka na madhara ya kifamilia na kijamii."
+      ],
+      "assessment": "Kufafanua ufahamu wa talaka na eda katika Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu talaka na eda katika Uislamu.",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "learning_activity": "(a) Kufafanua ufahamu wa talaka na eda katika Uislamu. (maana, hekima ya talaka, Sulhu kati ya mume na mke, aina za talaka, Taratibu za talaka, aina za eda,).",
+      "activity_id": "elim-three-29",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Changanyakete; Ongoza wanafunzi katika vikundi kusoma matini kuhusu (i) Maana na hekima ya talaka (ii) Sulhu ya hitilafu zilizojitokeza baina ya mume na mke (iii) Aina za talaka, (iv) Taratibu za kutaliki (v) Aina za eda Elekeza kila kikundi kutoa mwakilishi mmoja kwenda kikundi kingine kufundisha walichojifunza katika kundi lao. Majadiliano na Kuwasilisha; Wanafunzi wakiwa katika vikundi vidogo vidogo waongoze kujadili sababu za kukithiri kwa talaka na madhara ya kifamilia na kijamii."
+      ],
+      "assessment": "Kufafanua ufahamu wa talaka na eda katika Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu talaka na eda katika Uislamu.",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "learning_activity": "(b) Kuchambua malezi ya watoto baada ya ndoa kuvunjika (mwenye haki na wajibu wa kulea, ukomo wa kulelewa watoto na haki zao)",
+      "activity_id": "elim-three-30",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha kusoma matini na maswali uliyoandaa kwa kujadiliana waweze kuchanganua: (i) Mwenye haki na wajibu wa kulea baada ya kuvunjika ndoa. (ii) Ukomo wa kulelewa watoto (iii) Haki za watoto Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kuchambua malezi ya watoto baada ya ndoa kuvunjika kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu malezi ya watoto baada ya ndoa kuvunjika.",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha.",
+      "specific_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "learning_activity": "(c) Kuchambua ufahamu wa wasia na mirathi katika Uislamu (maana, taratibu, masharti ya wasia na mirathi, kanuni za kugawa mirathi na kukokotoa mafungu ya mirathi kwa kufuata sharia ya Kiislamu)",
+      "activity_id": "elim-three-31",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Kumualika Mgeni; Mwalike mgeni aliye na ujuzi wa kutosha juu ya Mirathi katika Uislamu. Mwalikwa! Jadiliana na wanafunzi katika vikundi kuhusu (i) Maana na taratibu za wasia. Maana ya mirathi (ii) Masharti na kanuni za kugawa mirathi. (iii) kukokotoa mafungu ya mirathi kwa sharia ya Kiislamu."
+      ],
+      "assessment": "Kuchambua ufahamu wa wasia na mirathi katika Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali kuhusu mirathi ya Kiislamu.",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.1Kutumia Qur’an na Sunnah kulingania jamii.",
+      "learning_activity": "(a) Kuchambua mipango katika Da`awah (Maana, umuhimu, hatua, vigezo, mipango ya kistratejia).",
+      "activity_id": "elim-three-32",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi katika vikudi kusoma matini kwa mazingatio iliyoandaliwa waweze kujifunza kwa kujadiliana juu ya (i) maana na umuhimu, (ii) Hatua na vigezo. (iii) mipango ya kistratejia"
+      ],
+      "assessment": "Kuchambua mipango katika Da`awah kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu mipango katika ulinganiaji."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.1Kutumia Qur’an na Sunnah kulingania jamii.",
+      "learning_activity": "(b) Kuchambua ufahamu wa uongozi bora katika kulingania (Maana, umuhimu, aina na sifa za kiongozi wa Kiislamu).",
+      "activity_id": "elim-three-33",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha kusoma matini na maswali uliyoandaa kwa kujadiliana waweze kuchanganua: (i) Maana ya uongozi (ii) Umuhimu wa uongozi (iii) Aina za uongozi (iv) Sifa za kiongozi wa Kiislamu."
+      ],
+      "assessment": "Kuchambua ufahamu wa uongozi katika kulingania kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu uongozi bora katika ulinganiaji"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.1Kutumia Qur’an na Sunnah kulingania jamii.",
+      "learning_activity": "(c) Kuchambua mafunzo na mazoezi ya kuwaandaa walinganiaji (Kutoa elimu, kuilea nafsi, kujihusisha na masuala ya kijamii, kuandaa na kutoa ujumbe).",
+      "activity_id": "elim-three-34",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Fikiri -andika - jozisha -shirikisha: Ongoza wanafunzi kufikiri, kuandika, kujozisha na kushirikishana katika vikundi kuchambua; (i) darsa duara na kazi zake (ii) Namna ya kuilea nafsi na kujihusisha na masuala ya kijamii (iii) Namna ya kuandaa na kutoa ujumbe. Kisha fanya majumuisho."
+      ],
+      "assessment": "Kuchambua mafunzo na mazoezi ya kuwaandaa walinganiaji kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu maandalizi ya ulinganiaji."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.1Kutumia Qur’an na Sunnah kulingania jamii.",
+      "learning_activity": "(d) Kuchambua hali ya Uislamu hivi leo. (Mtawanyo wa Waislamu na wasiokuwa waislamu, mafanikio-kielimu, kiuchumi, kisiasa na kijamii, vikwazo na utatuzi wake).",
+      "activity_id": "elim-three-35",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano; Ongoza wanafunzi katika vikundi vidogovidogo kuchambua (i) idadi ya waislamu duniani (ii) mafanikio yaliyofikiwa na uislamu duniani (iii) vikwazo vinavyokwamisha harakati za kiislamu na namna ya kuvitatua. kisha elekeza kila kikundi kutoa mwakilishi mmoja kwenda kikundi kingine kufundisha walichojifunza katika kundi lao kisha ufanye majumuisho."
+      ],
+      "assessment": "Kuchambua hali ya Uislamu hivi leo kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Matini mbalimbali yanayohusu hali ya uislamu duniani."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "learning_activity": "(a) Kuchambua uanzishwaji na uendeshaji wa dola ya Kiislamu Madina. (Hali ya Madina kabla ya kuhamia Mtume Muhammad (S.A.W) kiuchumi na kisiasa, hatua alizochukua Mtume Muhammad (S.A.W) katika uanzishaji dola, mifumo ya kiuchumi, kisiasa, usalama na diplomasia).",
+      "activity_id": "elim-three-36",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano, Maswali na Majibu; Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa kwa kujadiliana kwa kuongozwa na maswali uliyoandaa waweze kufafanua kwa kina (i) Hatua alizochukua Mtume Muhammad (S.A.W) kuanzisha Dola ya Kiislamu Madinah na mafunzo yatokanayo (ii) Mfumo wa siasa na uchumi, diplomasia, ulinzi na usalama wa dola ya Kiislamu Madinah na Mafunzo yatokanayo. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kuchambua uanzishwaji na uendeshaji wa dola ya Kiislamu Madina kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu uanzishwaji na uendeshaji wa dola ya Kiislamu Madina.",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "learning_activity": "(a) Kuchambua uanzishwaji na uendeshaji wa dola ya Kiislamu Madina. (Hali ya Madina kabla ya kuhamia Mtume Muhammad (S.A.W) kiuchumi na kisiasa, hatua alizochukua Mtume Muhammad (S.A.W) katika uanzishaji dola, mifumo ya kiuchumi, kisiasa, usalama na diplomasia).",
+      "activity_id": "elim-three-36",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano, Maswali na Majibu; Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa kwa kujadiliana kwa kuongozwa na maswali uliyoandaa waweze kufafanua kwa kina (i) Hatua alizochukua Mtume Muhammad (S.A.W) kuanzisha Dola ya Kiislamu Madinah na mafunzo yatokanayo (ii) Mfumo wa siasa na uchumi, diplomasia, ulinzi na usalama wa dola ya Kiislamu Madinah na Mafunzo yatokanayo. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kuchambua uanzishwaji na uendeshaji wa dola ya Kiislamu Madina kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu uanzishwaji na uendeshaji wa dola ya Kiislamu Madina.",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "learning_activity": "(b) Kuchambua upinzani dhidi ya Dola ya Kiislamu Madina. (vita vya Badri, vita vya Uhud, vita vya Ahzab, uadui wa Mayahudi, vita vya Hunein, hatua zilizochukuliwa na Mtume Muhammad (S.A.W) mafunzo yatokanayo).",
+      "activity_id": "elim-three-37",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano, Maswali na Majibu; Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa kwa kujadiliana kwa kuongozwa na maswali uliyoandaa wawezi kufafanua: (i) Mbinu za maadui (ii) hatua zilizochukuliwa (mikataba – Madina na makabila ya kiyahudi nje ya madina, diplomasia na mapambano – Badri, Uhud, Ahzab na Hunein) (iii) Mafunzo yatokanayo na mbinu za maadui na hatua zilizochukuliwa. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kuchambua upinzani dhidi ya dola ya Kiislamu Madina kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu upinzani dhidi ya Dola ya Kiislamu Madina."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii.",
+      "specific_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "learning_activity": "(c) Kubainisha ushindi wa Waislamu (Fat-hu- Makkah). (Mkataba wa Hudaybiyya, kukombolewa mji wa Makka msafara wa Tabuuk, Hija ya kuaga na Mafunzo yatokanayo).",
+      "activity_id": "elim-three-38",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Majadiliano, Maswali na Majibu; Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa kwa kujadiliana kwa kuongozwa na maswali uliyoandaa wawezi kufafanua kwa kina (i) Mazingira yaliyopelekea mkataba wa Hudaybiyah (ii) Vifungu vya mkataba (iii) Msafara wa Tabuk (iv) Hija ya kuaga ya Mtume Muhammad (S.A.W) (v) Mafunzo yatokanayo na mkataba wa hudaibiya na msafara wa Tabuk. Kila kundi kutoa mwakilishi kuwasilisha walichojifunza mbele ya wenzao darasani."
+      ],
+      "assessment": "Kubainisha ushindi wa waislamu (Fat-hu- Makkah). kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 3",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu ushindi wa waislamu (Fat-hu- Makkah)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "subject": "Mathematics",
+  "form": "Form One",
+  "year": 2026,
+  "periods_per_week": 5,
+  "total_periods": 175,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(a) Explain the basic concepts of Mathematics (Meaning of mathematics, branches of mathematics, relationship between mathematics and other subjects, importance of mathematics)",
+      "activity_id": "math-one-1",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss meaning of mathematics and branches of mathematics",
+        "Brainstorming: Guide students to brainstorm on importance of mathematics in daily life",
+        "Jigsaw: Guide students to explain the relationship of mathematics with other disciplines"
+      ],
+      "assessment": "The basic concept of mathematics are clearly explained",
+      "resources": [
+        "Charts of relationships between mathematics and other fields, real life objects, Math Games and Apps, Educational channels"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(b) Explain the concept of rational, irrational, and real numbers",
+      "activity_id": "math-one-2",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Observation: Provide students with visual aids like bars/strips or circles and guide them to cut the aids in small equal parts. Relate their responses to the meaning of fractions",
+        "Problem solving: Organise students in manageable groups and assign each group word problems that require students to apply their knowledge of fractions, decimals and percentages to real word scenarios. Guide them to present the results and relate their findings with rational numbers",
+        "Exploration: Guide students to relate real numbers to real-life situations, for example, money and measurement"
+      ],
+      "assessment": "Rational, irrational, and real numbers are well explained",
+      "resources": [
+        "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(b) Convert repeating/recurring decimals into fractions and vice versa",
+      "activity_id": "math-one-3",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Problem solving: Provide students with examples of decimals and guide them to identify repeating/recurring decimals, and convert repeating/recurring decimals into fractions and vice versa and share with the rest of the class through presentations"
+      ],
+      "assessment": "Repeating/recurring decimals are correctly converted into fractions",
+      "resources": [
+        "Calculator, Charts of real numbers, ruler, tape measure, graph papers"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(c) Represent rational numbers on a number line",
+      "activity_id": "math-one-4",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to draw number lines. Guide them to discuss steps of representing rational numbers on a number line and share their results with the rest of the class through presentations",
+        "Problem solving: Guide students to suggest real-life problems involving rational numbers. Ask them to locate points on the number line and perform calculations based on the given scenario"
+      ],
+      "assessment": "Rational numbers are well represented on the number line",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(d) Explain the concept of inequalities and absolute values of real numbers",
+      "activity_id": "math-one-5",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Intuitive approach: Guide students visual aids such as number line charts and graphing tools to explore the basic concepts of inequalities and absolute values of real numbers."
+      ],
+      "assessment": "Absolute values and inequalities in real numbers are properly determined",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.1 Use numerical skills in different contexts",
+      "learning_activity": "(e) Describe the importance of numbers in real-life situations",
+      "activity_id": "math-one-6",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students to describe the importance of numbers and apply numbers in real-life situations"
+      ],
+      "assessment": "Importance of numbers are well described",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(a) Explain the concept of ratios and proportions",
+      "activity_id": "math-one-7",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to discuss and come up with real-life scenarios involving the concept of ratios and proportions. Share with the rest of the class through presentations",
+        "Jigsaw: Guide students to explore how other subjects relate to concept of ratios and proportions"
+      ],
+      "assessment": "Ratios and proportions are clearly explained",
+      "resources": [
+        "Money, charts of real-life scenarios, interest calculators, and games real objects, and bank statements"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(a) Explain the concept of ratios and proportions",
+      "activity_id": "math-one-7",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to discuss and come up with real-life scenarios involving the concept of ratios and proportions. Share with the rest of the class through presentations",
+        "Jigsaw: Guide students to explore how other subjects relate to concept of ratios and proportions"
+      ],
+      "assessment": "Ratios and proportions are clearly explained",
+      "resources": [
+        "Money, charts of real-life scenarios, interest calculators, and games real objects, and bank statements"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(a) Explain the concept of ratios and proportions",
+      "activity_id": "math-one-7",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to discuss and come up with real-life scenarios involving the concept of ratios and proportions. Share with the rest of the class through presentations",
+        "Jigsaw: Guide students to explore how other subjects relate to concept of ratios and proportions"
+      ],
+      "assessment": "Ratios and proportions are clearly explained",
+      "resources": [
+        "Money, charts of real-life scenarios, interest calculators, and games real objects, and bank statements"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(a) Explain the concept of ratios and proportions",
+      "activity_id": "math-one-7",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Organise students in manageable groups to discuss and come up with real-life scenarios involving the concept of ratios and proportions. Share with the rest of the class through presentations",
+        "Jigsaw: Guide students to explore how other subjects relate to concept of ratios and proportions"
+      ],
+      "assessment": "Ratios and proportions are clearly explained",
+      "resources": [
+        "Money, charts of real-life scenarios, interest calculators, and games real objects, and bank statements"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(b) Solve ratio and proportion problems",
+      "activity_id": "math-one-8",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students to solve ratio and proportion problems and share the results with classmates"
+      ],
+      "assessment": "Problems on ratios and proportions are correctly solved",
+      "resources": [
+        "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(b) Solve ratio and proportion problems",
+      "activity_id": "math-one-8",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students to solve ratio and proportion problems and share the results with classmates"
+      ],
+      "assessment": "Problems on ratios and proportions are correctly solved",
+      "resources": [
+        "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Demonstrate mastery of mathematical language",
+      "specific_competence": "1.2 Use ratios and proportions in daily life",
+      "learning_activity": "(b) Solve ratio and proportion problems",
+      "activity_id": "math-one-8",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students to solve ratio and proportion problems and share the results with classmates"
+      ],
+      "assessment": "Problems on ratios and proportions are correctly solved",
+      "resources": [
+        "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(a) Explain the concept of approximations (rounding off, significant figures, and decimal places)",
+      "activity_id": "math-one-9",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Brainstorming: In manageable groups guide Students to explore the concept of approximations and share their findings with other groups.",
+        "Think-ink-pair-share: Guide students to pair up to discuss their ideas, thereafter, some of the pairs share their ideas with the whole class"
+      ],
+      "assessment": "Approximations are clearly explained",
+      "resources": [
+        "Charts of a number line, estimation jars, estimation games and applications"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(a) Explain the concept of approximations (rounding off, significant figures, and decimal places)",
+      "activity_id": "math-one-9",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Brainstorming: In manageable groups guide Students to explore the concept of approximations and share their findings with other groups.",
+        "Think-ink-pair-share: Guide students to pair up to discuss their ideas, thereafter, some of the pairs share their ideas with the whole class"
+      ],
+      "assessment": "Approximations are clearly explained",
+      "resources": [
+        "Charts of a number line, estimation jars, estimation games and applications"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(b) Round off numbers and estimate values of expressions",
+      "activity_id": "math-one-10",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide students to round off numbers and estimate values of expressions and share their findings"
+      ],
+      "assessment": "Numbers are rounded off and values of expressions are correctly estimated",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(b) Round off numbers and estimate values of expressions",
+      "activity_id": "math-one-10",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide students to round off numbers and estimate values of expressions and share their findings"
+      ],
+      "assessment": "Numbers are rounded off and values of expressions are correctly estimated",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(c) Approximate numbers to the required significant figures and decimal places",
+      "activity_id": "math-one-11",
+      "periods": 5,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Jigsaw: Guide students to use real-life examples to approximate numbers to the required significant figures and decimal places",
+        "Problem solving: Assess the accuracy of answers provided by students when approximating numbers and provide them with feedback"
+      ],
+      "assessment": "Numbers are approximated to required significant figures and decimal places correctly",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(d) Use approximations in computations and measurements of quantities in various contexts",
+      "activity_id": "math-one-12",
+      "periods": 5,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discover the use of approximations in computations and measurements of quantities in various contexts"
+      ],
+      "assessment": "Approximations are correctly applied in computations and measurements.",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+      "learning_activity": "(d) Use approximations in computations and measurements of quantities in various contexts",
+      "activity_id": "math-one-12",
+      "periods": 5,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Jigsaw: Organise students in manageable groups to discover the use of approximations in computations and measurements of quantities in various contexts"
+      ],
+      "assessment": "Approximations are correctly applied in computations and measurements.",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(a) Explore the basic tenets of algebra (algebraic expressions and equations, linear simultaneous equations of two unknowns, inequalities in one unknown)",
+      "activity_id": "math-one-13",
+      "periods": 5,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups, guide them to discuss algebraic expressions and equations",
+        "Visual representations: Provide learners with visual aids such as diagrams, charts, and graphs to illustrate the graphs of linear equations"
+      ],
+      "assessment": "The basic tenets of algebra are correctly explored",
+      "resources": [
+        "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(a) Explore the basic tenets of algebra (algebraic expressions and equations, linear simultaneous equations of two unknowns, inequalities in one unknown)",
+      "activity_id": "math-one-13",
+      "periods": 5,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups, guide them to discuss algebraic expressions and equations",
+        "Visual representations: Provide learners with visual aids such as diagrams, charts, and graphs to illustrate the graphs of linear equations"
+      ],
+      "assessment": "The basic tenets of algebra are correctly explored",
+      "resources": [
+        "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(b) Use algebraic expressions to model situations (word problems into algebraic expressions and equations)",
+      "activity_id": "math-one-14",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Problem solving: Incorporate word problems that require students to translate verbal descriptions into algebraic expressions and equations. Guide them to identify key words that indicate mathematical operations"
+      ],
+      "assessment": "Algebraic expressions are applied to model situations correctly",
+      "resources": [
+        "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(b) Use algebraic expressions to model situations (word problems into algebraic expressions and equations)",
+      "activity_id": "math-one-14",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Problem solving: Incorporate word problems that require students to translate verbal descriptions into algebraic expressions and equations. Guide them to identify key words that indicate mathematical operations"
+      ],
+      "assessment": "Algebraic expressions are applied to model situations correctly",
+      "resources": [
+        "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(b) Use algebraic expressions to model situations (word problems into algebraic expressions and equations)",
+      "activity_id": "math-one-14",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Problem solving: Incorporate word problems that require students to translate verbal descriptions into algebraic expressions and equations. Guide them to identify key words that indicate mathematical operations"
+      ],
+      "assessment": "Algebraic expressions are applied to model situations correctly",
+      "resources": [
+        "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(c) Solve simultaneous equations using substitution and elimination methods",
+      "activity_id": "math-one-15",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students in pair to solve simultaneous equations using substitution and elimination methods Thereafter, allow some of the pairs to share their results with the whole class"
+      ],
+      "assessment": "Simultaneous linear equations are solved correctly",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(c) Solve simultaneous equations using substitution and elimination methods",
+      "activity_id": "math-one-15",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Think-ink-pair-share: Guide students in pair to solve simultaneous equations using substitution and elimination methods Thereafter, allow some of the pairs to share their results with the whole class"
+      ],
+      "assessment": "Simultaneous linear equations are solved correctly",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(d) Solve inequalities in one unknown",
+      "activity_id": "math-one-16",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide the students to solve inequalities in one unknown and present results for common understanding"
+      ],
+      "assessment": "Inequalities are solved properly",
+      "resources": [
+        "Number line chart, graphing calculator, real objects"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+      "specific_competence": "2.2 Use algebra and matrices in problem solving",
+      "learning_activity": "(d) Solve inequalities in one unknown",
+      "activity_id": "math-one-16",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Group discussion: In manageable groups, guide the students to solve inequalities in one unknown and present results for common understanding"
+      ],
+      "assessment": "Inequalities are solved properly",
+      "resources": [
+        "Number line chart, graphing calculator, real objects"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(a) Explore the basic tenets of coordinate geometry (gradient and equations of a straight line, graphs of linear equations)",
+      "activity_id": "math-one-17",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Collaborative learning: Guide students to use visual aids, such as graphs and coordinate planes to establish the relationship between coordinates and geometrical shapes"
+      ],
+      "assessment": "Basic tenets of coordinate geometry are explored",
+      "resources": [
+        "Mathematical software such as MATLAB, and GeoGebra, Maple, Mathematica, graph papers"
+      ],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(b) Find the gradient/slope of a line",
+      "activity_id": "math-one-18",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Problem solving: In manageable groups, guide the students to determine the slope of a given line"
+      ],
+      "assessment": "Gradient of line is found properly",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(c) Determine the equation of a straight line and draw its graph",
+      "activity_id": "math-one-19",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Visual representation: Utilize visual aids like diagrams and charts to illustrate the concept of a straight line visually. Provide examples of different types of straight lines and their corresponding equations and draw their graphs"
+      ],
+      "assessment": "Equation of straight line is determined and its graph is properly drawn",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(c) Determine the equation of a straight line and draw its graph",
+      "activity_id": "math-one-19",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Visual representation: Utilize visual aids like diagrams and charts to illustrate the concept of a straight line visually. Provide examples of different types of straight lines and their corresponding equations and draw their graphs"
+      ],
+      "assessment": "Equation of straight line is determined and its graph is properly drawn",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(d) Solve linear simultaneous equations graphically",
+      "activity_id": "math-one-20",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Visual representation: Guide students to use visual aids such as a coordinate plane, graph paper, or interactive whiteboard to plot points, draw lines, and interpret the graph",
+        "Group discussion: In manageable groups, guide the students to solve linear simultaneous equations graphically"
+      ],
+      "assessment": "Simultaneous equations are correctly solved graphically",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+      "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+      "learning_activity": "(e) Use mathematical software to solve and draw graphs of simultaneous equations",
+      "activity_id": "math-one-21",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Use of technology: Guide students to use mathematical software such as Excel, GeoGebra, Mathematica, MATLAB to solve and draw graphs of simultaneous equations.",
+        "Problem solving: In manageable groups, provide students with plenty examples and exercise to solve and draw graphs of simultaneous equations using mathematical software"
+      ],
+      "assessment": "Simultaneous equations are solved and drawn correctly",
+      "resources": [],
+      "references": "Mathematics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+{
+  "subject": "Chemistry",
+  "form": "Form Two",
+  "year": 2026,
+  "periods_per_week": 3,
+  "total_periods": 116,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Describe the concept of electronic arrangements",
+      "learning_activity": "",
+      "activity_id": "chem-two-11",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Technological-based learning: Guide students to watch visual aids for simulations and animations, showing the arrangements of electrons in atoms of elements in their shells and write a report",
+        "Group activity: Assign students in manageable groups to practice the arrangement of electrons in shells of atoms of different elements through models designing using locally available materials"
+      ],
+      "assessment": "The concept of electronic arrangements in atoms is clearly described",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating energy shell diagram, and locally available materials for designing electronic models"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(d) Explain the concept of chemical formulae and nomenclature (valence, oxidation state, radicals and naming of binary inorganic compounds using the IUP AC system)",
+      "learning_activity": "",
+      "activity_id": "chem-two-13",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Assign students to collect commonly used substances and give their common names and identify their constituent elements",
+        "Group discussion: Guide student in manageable groups to describe the concepts of chemical formula, valence, oxidation state, radicals and name binary inorganic compounds using the IUPAC system",
+        "Gallery work: Guide students to brainstorm and share key rules in writing chemical formulae"
+      ],
+      "assessment": "The concept of chemical formulae and nomenclature are clearly explained",
+      "resources": [
+        "Valence cards, modern periodic table, wall charts showing oxidation states and common radicals, and labelled bottles containing different laboratory chemicals"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(e) Determine empirical and molecular formulae of common compounds",
+      "learning_activity": "",
+      "activity_id": "chem-two-14",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to determine percentage compositions of each element and in a compound",
+        "Problem solving: Guide students to apply steps for calculating empirical formulae and molecular formulae of different compounds"
+      ],
+      "assessment": "Empirical formulae and molecular formulae of different compounds are correctly determined",
+      "resources": [
+        "Model depicting empirical formulae and molecular formulae, wall charts showing molecular fomulae and modern periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(g) Describe the concept of chemical reactions (chemical equations, balancing chemical equations, and types of chemical reactions)",
+      "learning_activity": "",
+      "activity_id": "chem-two-16",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to write simple word equations and chemical equations with symbols",
+        "Think-ink-pair-share: Guide students in pairs to identify types of chemical reactions, balance chemical equations, interpret word equations into chemical equations",
+        "Experimentation: Guide students to perform an experiment to verify the law of conservation of matter and write the report"
+      ],
+      "assessment": "The concept of chemical reactions is clearly described",
+      "resources": [
+        "Kerosene, candles, KOH/NaOH, HCl, glycerine, selected apparatus and equipment"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(h) Relate the types of chemical reactions with common processes in daily life such as burning of fuel and digestion in living organisms",
+      "learning_activity": "",
+      "activity_id": "chem-two-17",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Project works: Task students to carry-out project to examine applications of chemical reactions in the burning of fuel and digestion in living organisms"
+      ],
+      "assessment": "The types of chemical reactions are clearly related with common processes in daily life",
+      "resources": [
+        "Laboratory note book, heat source and fuel such as charcoal"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-19",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+      ],
+      "assessment": "Changes in properties of elements across and down the periodic table are correctly explained",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Use the electronic configuration of an element to locate their positions in the periodic table",
+      "learning_activity": "",
+      "activity_id": "chem-two-20",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discusion: Guide students in manageable groups to apply the periodic law in locating elements in the periodic table"
+      ],
+      "assessment": "The electronic configurations of elements are correctly used to locate the positions of elements in the periodic table",
+      "resources": [
+        "Wall charts of modern periodic table showing electronic configuration of some elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+      "learning_activity": "",
+      "activity_id": "chem-two-21",
+      "periods": 3,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+      ],
+      "assessment": "Acid-base indicators are correctly prepared using locally available materials",
+      "resources": [
+        "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Conduct experiments in Chemistry",
+      "specific_competence": "(b) Use the prepared indicators to test acidity and alkalinity of substances found in the locality",
+      "learning_activity": "",
+      "activity_id": "chem-two-22",
+      "periods": 3,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to perform experiments using locally made indicators to test acidity and alkalinity of subtances found in the locality"
+      ],
+      "assessment": "Acidity and alkalinity of substances found in the locality are tested using the prepared indicators",
+      "resources": [
+        "Locally prepared indicator, POP indicator, MO indicator, lemon juice, tomato juice, sour milk, vinegar and soft"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 8,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 9,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 10,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 11,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 12,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 13,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 14,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 15,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 16,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 17,
+      "topic_weeks": 18
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+      "learning_activity": "",
+      "activity_id": "chem-two-23",
+      "periods": 3,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+        "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+      ],
+      "assessment": "The mole concept is clearly decribed",
+      "resources": [
+        "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+      ],
+      "references": "Chemistry Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 18,
+      "topic_weeks": 18
+    }
+  ]
+}

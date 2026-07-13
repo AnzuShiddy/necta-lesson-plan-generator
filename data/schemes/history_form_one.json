@@ -1,0 +1,927 @@
+{
+  "subject": "History",
+  "form": "Form One",
+  "year": 2026,
+  "periods_per_week": 2,
+  "total_periods": 70,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of History and sources of historical information",
+      "learning_activity": "Describe the concept of History and the sources of historical information",
+      "activity_id": "hist-one-1",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "brainstorming",
+        "group discussion",
+        "jigsaw",
+        "resourceful person",
+        "study tour",
+        "self-reflection"
+      ],
+      "assessment": "The concept of History and sources of Historical information is clearly described",
+      "resources": [
+        "On-line materials and journal articles on the concept of History and historical charts, graphs, time-line on the sources of historical information"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(a) Describe the theories of the origin of human beings",
+      "activity_id": "hist-one-2",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Invite religious leaders and historian/archaeologist to present on the origin of human beings.",
+        "Guide students to write a report on the theories and present for discussions"
+      ],
+      "assessment": "Theories of the origin of human beings are correctly described",
+      "resources": [
+        "On-line sources, and journal articles on theories of the origin of human beings"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(a) Describe the theories of the origin of human beings",
+      "activity_id": "hist-one-2",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Invite religious leaders and historian/archaeologist to present on the origin of human beings.",
+        "Guide students to write a report on the theories and present for discussions"
+      ],
+      "assessment": "Theories of the origin of human beings are correctly described",
+      "resources": [
+        "On-line sources, and journal articles on theories of the origin of human beings"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(a) Describe the theories of the origin of human beings",
+      "activity_id": "hist-one-2",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Invite religious leaders and historian/archaeologist to present on the origin of human beings.",
+        "Guide students to write a report on the theories and present for discussions"
+      ],
+      "assessment": "Theories of the origin of human beings are correctly described",
+      "resources": [
+        "On-line sources, and journal articles on theories of the origin of human beings"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(a) Describe the theories of the origin of human beings",
+      "activity_id": "hist-one-2",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Invite religious leaders and historian/archaeologist to present on the origin of human beings.",
+        "Guide students to write a report on the theories and present for discussions"
+      ],
+      "assessment": "Theories of the origin of human beings are correctly described",
+      "resources": [
+        "On-line sources, and journal articles on theories of the origin of human beings"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(a) Describe the theories of the origin of human beings",
+      "activity_id": "hist-one-2",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Invite religious leaders and historian/archaeologist to present on the origin of human beings.",
+        "Guide students to write a report on the theories and present for discussions"
+      ],
+      "assessment": "Theories of the origin of human beings are correctly described",
+      "resources": [
+        "On-line sources, and journal articles on theories of the origin of human beings"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(b) Describe the stages of human evolution and their technological Ages",
+      "activity_id": "hist-one-3",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Guide students in groups to role-play the physical development of a child from sitting, crawling to walking in relation to stages of human evolution from primates, homo erectus to homo-sapiens, including tools used and economic activities performed in each stage of human evolution"
+      ],
+      "assessment": "The stages of human evolution and their technological ages are clearly described",
+      "resources": [
+        "Charts, pictures, journal articles on the stages of human evolution and their technological Ages"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(b) Describe the stages of human evolution and their technological Ages",
+      "activity_id": "hist-one-3",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Guide students in groups to role-play the physical development of a child from sitting, crawling to walking in relation to stages of human evolution from primates, homo erectus to homo-sapiens, including tools used and economic activities performed in each stage of human evolution"
+      ],
+      "assessment": "The stages of human evolution and their technological ages are clearly described",
+      "resources": [
+        "Charts, pictures, journal articles on the stages of human evolution and their technological Ages"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(b) Describe the stages of human evolution and their technological Ages",
+      "activity_id": "hist-one-3",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Guide students in groups to role-play the physical development of a child from sitting, crawling to walking in relation to stages of human evolution from primates, homo erectus to homo-sapiens, including tools used and economic activities performed in each stage of human evolution"
+      ],
+      "assessment": "The stages of human evolution and their technological ages are clearly described",
+      "resources": [
+        "Charts, pictures, journal articles on the stages of human evolution and their technological Ages"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.2 Demonstrate an understanding of theories of the origin of human beings",
+      "learning_activity": "(b) Describe the stages of human evolution and their technological Ages",
+      "activity_id": "hist-one-3",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Guide students in groups to role-play the physical development of a child from sitting, crawling to walking in relation to stages of human evolution from primates, homo erectus to homo-sapiens, including tools used and economic activities performed in each stage of human evolution"
+      ],
+      "assessment": "The stages of human evolution and their technological ages are clearly described",
+      "resources": [
+        "Charts, pictures, journal articles on the stages of human evolution and their technological Ages"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(a) Describe different modes of production in pre-colonial Africa",
+      "activity_id": "hist-one-4",
+      "periods": 2,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Let students visit a nearby society to study ownership and characteristics of various production activities, paste each group’s findings on class walls, and let each group study other groups’ findings.",
+        "Let them relate the findings with various modes of production one after another in pre-colonial Africa"
+      ],
+      "assessment": "Different modes of production in pre-colonial Africa are evidently described",
+      "resources": [
+        "Pictures and journal articles on different modes of production in pre-colonial Africa"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(b) Explain different economic activities and their impact on pre-colonial African societies",
+      "activity_id": "hist-one-5",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students to share economic activities available in the nearby society and their impacts on society. Let them relate the findings with different economic activities and their impact on pre-colonial African societies"
+      ],
+      "assessment": "Different economic activities and their impact on pre-colonial African societies are clearly explained",
+      "resources": [
+        "Journal articles and on-line sources on different economic activities and their impact on pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of African history before colonialism",
+      "specific_competence": "1.3 Demonstrate an understanding of the economic, political, social and technological development of pre-colonial Africa",
+      "learning_activity": "(c) Describe social-political organisations and education in pre-colonial African societies",
+      "activity_id": "hist-one-6",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Organise students in manageable groups to discuss social-political organisations and education in pre-colonial African societies"
+      ],
+      "assessment": "Social-political organisations and education in pre-colonial African societies are evidently described",
+      "resources": [
+        "Charts, and pictures on social-political organisations and education in pre-colonial African societies"
+      ],
+      "references": "History Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    }
+  ]
+}

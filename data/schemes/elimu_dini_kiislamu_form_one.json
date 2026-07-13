@@ -1,0 +1,1061 @@
+{
+  "subject": "Elimu ya Dini ya Kiislamu",
+  "form": "Form One",
+  "year": 2026,
+  "periods_per_week": 2,
+  "total_periods": 78,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "(ii) Aina za dini kwa mujibu wa Qur’an na Sunnah,",
+      "learning_activity": "Kila kundi kutoa muwakilishi mmoja kuwasilisha walichojifunza.",
+      "activity_id": "elim-one-1",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [],
+      "assessment": "",
+      "resources": [],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "(c) Kuchambua ufahamu wa Imani kwa mujibu wa Qur’an na Sunnah. (Maana, nguzo za Imani na nguzo ya ihsani, sifa za muumini wa kweli katika aya za Quran; (49:15), ( 8:2 – 4), (2:2 – 5), (23:1-11)",
+      "learning_activity": "Bunguabongo na majadiliano: Ongoza wanafunzi katika vikundi kubungua bongo kisha wajadiliane juu ya (i) Maana ya Imani (ii) Nguzo za Imani na nguzo ya Ihsan (iii) Sifa za muumini wa kweli kwa mujibu wa Quran; (49:15), (8:2 – 4), (2:2 – 5), (23:1-11)",
+      "activity_id": "elim-one-2",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Bunguabongo",
+        "majadiliano"
+      ],
+      "assessment": "Ufahamu wa Imani umechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Imani ya Kiislamu."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "(c) Kuchambua ufahamu wa Imani kwa mujibu wa Qur’an na Sunnah. (Maana, nguzo za Imani na nguzo ya ihsani, sifa za muumini wa kweli katika aya za Quran; (49:15), ( 8:2 – 4), (2:2 – 5), (23:1-11)",
+      "learning_activity": "Bunguabongo na majadiliano: Ongoza wanafunzi katika vikundi kubungua bongo kisha wajadiliane juu ya (i) Maana ya Imani (ii) Nguzo za Imani na nguzo ya Ihsan (iii) Sifa za muumini wa kweli kwa mujibu wa Quran; (49:15), (8:2 – 4), (2:2 – 5), (23:1-11)",
+      "activity_id": "elim-one-2",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Bunguabongo",
+        "majadiliano"
+      ],
+      "assessment": "Ufahamu wa Imani umechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Imani ya Kiislamu."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "(d) Kufafanua ufahamu wa Tawhiid na shirki. (Maana,namna ya kumpwekesha Allaah (SW), umuhimu wa Tawhiid, aina za shirki, madhara ya shirki)",
+      "learning_activity": "Bunguabongo: Ongoza wanafunzi katika vikundi kubungua bongo juu ya maana ya Tawhiid Majadiliano: Ongoza wanafunzi kujadiliana juu ya umuhimu wa Tawhiid, aina na madhara ya shirki.",
+      "activity_id": "elim-one-3",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Bunguabongo",
+        "Majadiliano"
+      ],
+      "assessment": "Ufahamu wa Tawhiid na shirki umefafanuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Tawhiid."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(a) Kuchambua ufahamu wa Qur’an. (Maana, kushuka, namna ilivyo hifadhiwa na misingi ya kuifahamu)",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo wajadiliane kisha kuwasilisha kwa zamu mbele ya wenzao darasani walichojifunza juu ya (i) Maana ya Qur’an (ii) Historia ya kushuka kwa Qur’an (iii) Njia zilizotumika kuhifadhi Qur’an (iv) Misingi ya kuifahamu Qur’an.",
+      "activity_id": "elim-one-4",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Ufahamu wa Qur’an umechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(b) Kuchambua ufahamu wa usomaji wa Qur’an. (umuhimu wa kusoma Qur’an kwa kuzingatia hukumu za Tajwiid, hukumu za nun sakina na tanwin)",
+      "learning_activity": "Majadiliano Ongoza wanafunzi katika vikundi vidogo vidogo kujadiliana kisha kuwasilisha walichojifunza juu ya: (i) umuhimu wa kusoma Qur’an kwa kuzingatia hukumu za Tajwiid. (ii) hukumu za nun sakina na tanwin,",
+      "activity_id": "elim-one-5",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua ufahamu wa usomaji wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Matini mbalimbali kuhusu Tajwiid.",
+        "Juzuu Amma"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(b) Kuchambua ufahamu wa usomaji wa Qur’an. (umuhimu wa kusoma Qur’an kwa kuzingatia hukumu za Tajwiid, hukumu za nun sakina na tanwin)",
+      "learning_activity": "Majadiliano Ongoza wanafunzi katika vikundi vidogo vidogo kujadiliana kisha kuwasilisha walichojifunza juu ya: (i) umuhimu wa kusoma Qur’an kwa kuzingatia hukumu za Tajwiid. (ii) hukumu za nun sakina na tanwin,",
+      "activity_id": "elim-one-5",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua ufahamu wa usomaji wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Matini mbalimbali kuhusu Tajwiid.",
+        "Juzuu Amma"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(c) Kuchambua sura zilizoteuliwa: Al-Fat-ha (1); An-Naas (114); Al-Falaq (113); Ikhlas (112). (Kusoma kwa hukumu, kuhifadhi, kutafsiri na kueleza mafunzo ya kila sura)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao wa ziada nje ya darasa kusoma kwa hukumu, kuhifadhi, kutafsiri sura zifuatazo: Al – Fat-ha (1), An Naas (114), Falaq (113) na Ikhlas (112) wang’amue mafunzo katika kila sura, kisha kuwasilisha kazi zao baada ya muda waliopewa kukamilika. Majadiliano; Jadiliana na wanafunzi namna ya kutekeleza ujumbe wa sura walizojifunza.",
+      "activity_id": "elim-one-6",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua sura zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "TEHAMA",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(c) Kuchambua sura zilizoteuliwa: Al-Fat-ha (1); An-Naas (114); Al-Falaq (113); Ikhlas (112). (Kusoma kwa hukumu, kuhifadhi, kutafsiri na kueleza mafunzo ya kila sura)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao wa ziada nje ya darasa kusoma kwa hukumu, kuhifadhi, kutafsiri sura zifuatazo: Al – Fat-ha (1), An Naas (114), Falaq (113) na Ikhlas (112) wang’amue mafunzo katika kila sura, kisha kuwasilisha kazi zao baada ya muda waliopewa kukamilika. Majadiliano; Jadiliana na wanafunzi namna ya kutekeleza ujumbe wa sura walizojifunza.",
+      "activity_id": "elim-one-6",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua sura zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "TEHAMA",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.2 Kuisoma Qur’an kwa mazingatio ya hukumu na ujumbe.",
+      "specific_competence": "(c) Kuchambua sura zilizoteuliwa: Al-Fat-ha (1); An-Naas (114); Al-Falaq (113); Ikhlas (112). (Kusoma kwa hukumu, kuhifadhi, kutafsiri na kueleza mafunzo ya kila sura)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao wa ziada nje ya darasa kusoma kwa hukumu, kuhifadhi, kutafsiri sura zifuatazo: Al – Fat-ha (1), An Naas (114), Falaq (113) na Ikhlas (112) wang’amue mafunzo katika kila sura, kisha kuwasilisha kazi zao baada ya muda waliopewa kukamilika. Majadiliano; Jadiliana na wanafunzi namna ya kutekeleza ujumbe wa sura walizojifunza.",
+      "activity_id": "elim-one-6",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua sura zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "TEHAMA",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad (S.A.W)",
+      "specific_competence": "(a) Kuchambua ufahamu wa Sunnah na Hadithi. (Maana, umuhimu na tofauti ya Sunnah na Hadithi, kazi ya Sunnah)",
+      "learning_activity": "Fikiri – jozisha – shirikishi: Waongoze wanafunzi kupitia fikiri – jozisha – shirikishi kufafanua maana na umuhimu wa Sunnah na Hadithi. Majadiliano: Waongoze wanafunzi kupitia majadiliano katika vikundi kueleza tofauti ya Sunnah na Hadithi na kazi ya sunnah.",
+      "activity_id": "elim-one-7",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikishi",
+        "Majadiliano"
+      ],
+      "assessment": "Kuchambua ufahamu wa Sunnah na Hadithi kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Matini ya Hadithi zilizoteuliwa",
+        "Tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad (S.A.W)",
+      "specific_competence": "(b) Kuchambua Hadithi zilizoteuliwa kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, viongozi na wakubwa, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/ kusuka nywele (Kusoma kwa kuhifadhi, kuandika, kutafsiri na kubainisha mafunzo)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao nje ya darasa kusoma kwa kuhifadhi, kuandika na kutoa tafsiri pamoja na kutoa mafunzo ya Hadithi kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, wakubwa na viongozi, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/kusuka nywele Matembezi ya galari; Ongoza wanafunzi kuorodhesha mafunzo yatokanayo na Hadithi husika na kubandika kwenye kuta za darasa, kufanya matembezi na kuulizana maswali katika vikundi mbalimbali. Fikiri - andika - jozisha - shirikisha; Ongoza wanafunzi katika vikundi vidogo vidogo kutafakari na kuandika mapendekezo namna ya kutekeleza mafunzo ya Hadithi husika kisha ufanye majumuisho.",
+      "activity_id": "elim-one-8",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Matembezi ya galari",
+        "Fikiri - andika - jozisha - shirikisha"
+      ],
+      "assessment": "Kuchambua Hadithi zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad (S.A.W)",
+      "specific_competence": "(b) Kuchambua Hadithi zilizoteuliwa kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, viongozi na wakubwa, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/ kusuka nywele (Kusoma kwa kuhifadhi, kuandika, kutafsiri na kubainisha mafunzo)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao nje ya darasa kusoma kwa kuhifadhi, kuandika na kutoa tafsiri pamoja na kutoa mafunzo ya Hadithi kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, wakubwa na viongozi, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/kusuka nywele Matembezi ya galari; Ongoza wanafunzi kuorodhesha mafunzo yatokanayo na Hadithi husika na kubandika kwenye kuta za darasa, kufanya matembezi na kuulizana maswali katika vikundi mbalimbali. Fikiri - andika - jozisha - shirikisha; Ongoza wanafunzi katika vikundi vidogo vidogo kutafakari na kuandika mapendekezo namna ya kutekeleza mafunzo ya Hadithi husika kisha ufanye majumuisho.",
+      "activity_id": "elim-one-8",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Matembezi ya galari",
+        "Fikiri - andika - jozisha - shirikisha"
+      ],
+      "assessment": "Kuchambua Hadithi zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.3 Kuishi kwa kuzingatia Sunnah ya Mtume Muhammad (S.A.W)",
+      "specific_competence": "(b) Kuchambua Hadithi zilizoteuliwa kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, viongozi na wakubwa, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/ kusuka nywele (Kusoma kwa kuhifadhi, kuandika, kutafsiri na kubainisha mafunzo)",
+      "learning_activity": "Kazimradi; Waongoze wanafunzi katika vikundi wakutane kwa muda wao nje ya darasa kusoma kwa kuhifadhi, kuandika na kutoa tafsiri pamoja na kutoa mafunzo ya Hadithi kuhusu Ikhlas, kujiheshimu na kuheshimu wazazi, wakubwa na viongozi, kuwa mpole na mnyenyekevu, kuwa mkweli na kujiepusha na uongo, kuwa mwaminifu na mwadilifu, kuchunga ahadi, kujiepusha na maongezi ya kipuuzi, kuwa na upendo, adabu za kunyoa/kusuka nywele Matembezi ya galari; Ongoza wanafunzi kuorodhesha mafunzo yatokanayo na Hadithi husika na kubandika kwenye kuta za darasa, kufanya matembezi na kuulizana maswali katika vikundi mbalimbali. Fikiri - andika - jozisha - shirikisha; Ongoza wanafunzi katika vikundi vidogo vidogo kutafakari na kuandika mapendekezo namna ya kutekeleza mafunzo ya Hadithi husika kisha ufanye majumuisho.",
+      "activity_id": "elim-one-8",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Kazimradi",
+        "Matembezi ya galari",
+        "Fikiri - andika - jozisha - shirikisha"
+      ],
+      "assessment": "Kuchambua Hadithi zilizoteuliwa kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Tafsiri ya Riyadhus Salihin."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo. (a) Kufafanua ufahamu juu ya Uislamu na nguzo za Uislamu kwa mujibu wa Qur an na Sunnah (Maana, sifa za Muislamu, lengo, umuhimu wa kila nguzo)",
+      "learning_activity": "Maswali na majibu; Ongoza wanafunzi Kusoma matini uliyoandaa kisha kujibu maswali uliyoandaa ili kubaini (i) Maana ya Uislamu. (ii) Sifa za Muislamu (iii) Maana ya kila nguzo ya Uislamu (iv) Lengo la kila nguzo ya Uislamu (iv) Umuhimu wa nguzo za Uislamu. (v) Tofauti kati ya Uislamu umejengwa juu ya nguzo tano na Uislamu ni nguzo tano",
+      "activity_id": "elim-one-9",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Maswali na majibu"
+      ],
+      "assessment": "Kufafanua ufahamu wa nguzo za Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Mchoro wa Jengo",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "2.1 Kutekeleza nguzo za Uislamu kwa kuzingatia lengo la kila nguzo. (a) Kufafanua ufahamu juu ya Uislamu na nguzo za Uislamu kwa mujibu wa Qur an na Sunnah (Maana, sifa za Muislamu, lengo, umuhimu wa kila nguzo)",
+      "learning_activity": "Maswali na majibu; Ongoza wanafunzi Kusoma matini uliyoandaa kisha kujibu maswali uliyoandaa ili kubaini (i) Maana ya Uislamu. (ii) Sifa za Muislamu (iii) Maana ya kila nguzo ya Uislamu (iv) Lengo la kila nguzo ya Uislamu (iv) Umuhimu wa nguzo za Uislamu. (v) Tofauti kati ya Uislamu umejengwa juu ya nguzo tano na Uislamu ni nguzo tano",
+      "activity_id": "elim-one-9",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Maswali na majibu"
+      ],
+      "assessment": "Kufafanua ufahamu wa nguzo za Uislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Mchoro wa Jengo",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(b) Kueleza ufahamu wa Shahada. (Kutamka shahada mbili kwa matini ya kiarabu, Tafsiri ya shahada, hatua za shahada, umuhimu wa shahada)",
+      "learning_activity": "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha kusoma matini uliyoandaa ili waweze: (i) kutamka shahada mbili (ii) kutafsiri shahada mbili (iii) kubainisha hatua tatu za shahada (iv) kueleza umuhimu wa shahada",
+      "activity_id": "elim-one-10",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha"
+      ],
+      "assessment": "Kueleza ufahamu wa shahada kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Chati/jedwali",
+        "ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(c) Kufafanua utekelezaji wa swala za faradhi Sharti: (twahara- udhu, josho, tayamamu, kuondoa najisi), kuelekea qibla, kujisitiri, kuingia kwa wakati) nguzo, Sunnah, Makruh na yanayobatilisha sala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani,)",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano katika vikundi kufafanua (i) sharti, nguzo na Sunnah za swala (ii) namna ya kuswali nyakati za dharura - safarini, mgonjwa na vitani, (iii) namna ya kuswali swala za jamaa. Oneshombinu: Ongoza wanafunzi katika vikundi kuswali kwa kuzingatia masharti, nguzo na Sunnah, Makruh na yanayobatilisha swala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani).",
+      "activity_id": "elim-one-11",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Oneshombinu"
+      ],
+      "assessment": "Kufafanua utekelezaji wa swala za faradhi kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Dira, maji safi, vifaa vya kutilia udhu",
+        "Michoro mbalimbali",
+        "Mswala",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Manila kadi"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(c) Kufafanua utekelezaji wa swala za faradhi Sharti: (twahara- udhu, josho, tayamamu, kuondoa najisi), kuelekea qibla, kujisitiri, kuingia kwa wakati) nguzo, Sunnah, Makruh na yanayobatilisha sala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani,)",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano katika vikundi kufafanua (i) sharti, nguzo na Sunnah za swala (ii) namna ya kuswali nyakati za dharura - safarini, mgonjwa na vitani, (iii) namna ya kuswali swala za jamaa. Oneshombinu: Ongoza wanafunzi katika vikundi kuswali kwa kuzingatia masharti, nguzo na Sunnah, Makruh na yanayobatilisha swala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani).",
+      "activity_id": "elim-one-11",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Oneshombinu"
+      ],
+      "assessment": "Kufafanua utekelezaji wa swala za faradhi kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Dira, maji safi, vifaa vya kutilia udhu",
+        "Michoro mbalimbali",
+        "Mswala",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Manila kadi"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(c) Kufafanua utekelezaji wa swala za faradhi Sharti: (twahara- udhu, josho, tayamamu, kuondoa najisi), kuelekea qibla, kujisitiri, kuingia kwa wakati) nguzo, Sunnah, Makruh na yanayobatilisha sala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani,)",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano katika vikundi kufafanua (i) sharti, nguzo na Sunnah za swala (ii) namna ya kuswali nyakati za dharura - safarini, mgonjwa na vitani, (iii) namna ya kuswali swala za jamaa. Oneshombinu: Ongoza wanafunzi katika vikundi kuswali kwa kuzingatia masharti, nguzo na Sunnah, Makruh na yanayobatilisha swala, namna ya kuswali swala za jamaa na swala ya ijumaa , kuswali nyakati za dharura safarini, mgonjwa na vitani).",
+      "activity_id": "elim-one-11",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Oneshombinu"
+      ],
+      "assessment": "Kufafanua utekelezaji wa swala za faradhi kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Dira, maji safi, vifaa vya kutilia udhu",
+        "Michoro mbalimbali",
+        "Mswala",
+        "Tafsiri ya Qur’an ya sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Manila kadi"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(d) Kubainisha swala za sunnah (Swala za Iddi, Tarawehe, witri, Qabliyyah na Ba’adiyyah, Dhuha, Tahiyyaatul masjid, Qiyaamullayl na Istikhara).",
+      "learning_activity": "Fikiri – jozisha – shirikisha: Ongoza wanafunzi kupitia fikiri – jozisha – shirikisha kusoma matini uliyoandaa ili waweze kubainisha: Swala za Iddi, Tarawehe, swala ya witri, Qabliyyah na Ba’adiyyah, Dhuha, tahiyyaatul – masjid, Qiyaamullayl na Istikhara.",
+      "activity_id": "elim-one-12",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – shirikisha"
+      ],
+      "assessment": "Kubainisha swala za sunnah kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I.",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(e) Kufafanua mambo anayostahiki kufanyiwa maiti wa Kiislamu. (Kuoshwa, kuvishwa sanda, kuswaliwa na kuzikwa).",
+      "learning_activity": "Igizodhima: Ongoza wanafunzi kufanya igizo ili kuchanganua mambo anayofanyiwa maiti wa Kiislamu (i) Hatua za kumuosha, kumvika sanda na kumswalia (ii) sharti na nguzo za swala ya maiti (iii) namna ya kumswalia maiti (iv) kuandaa kaburi na namna ya kumzika maiti.",
+      "activity_id": "elim-one-13",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Mambo anayostahiki kufanyiwa maiti muislamu yamefafanuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Vitu halisi – sanda, maji n.k)",
+        "Mahali pa kuoshea maiti",
+        "TEHAMA."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Kumtumikia Allaah (S.W) katika kila kipengele cha maisha",
+      "specific_competence": "(e) Kufafanua mambo anayostahiki kufanyiwa maiti wa Kiislamu. (Kuoshwa, kuvishwa sanda, kuswaliwa na kuzikwa).",
+      "learning_activity": "Igizodhima: Ongoza wanafunzi kufanya igizo ili kuchanganua mambo anayofanyiwa maiti wa Kiislamu (i) Hatua za kumuosha, kumvika sanda na kumswalia (ii) sharti na nguzo za swala ya maiti (iii) namna ya kumswalia maiti (iv) kuandaa kaburi na namna ya kumzika maiti.",
+      "activity_id": "elim-one-13",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Igizodhima"
+      ],
+      "assessment": "Mambo anayostahiki kufanyiwa maiti muislamu yamefafanuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 1",
+        "Vitu halisi – sanda, maji n.k)",
+        "Mahali pa kuoshea maiti",
+        "TEHAMA."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "specific_competence": "(a) Kuchambua ufahamu wa Fiqh. (maana ya Fiqh, matapo ya Fiqh, chimbuko, na umuhimu wa fiqh)",
+      "learning_activity": "Fikiri – jozisha – fikirisha: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia fikiri – jozisha – fikirisha kufafanua: (i) Maana ya Fiqh (ii) Matapo ya Fiqh (iii) Chimbuko la fiqh (iv) Umuhimu wa Fiqh Kisha mmoja wao katika kikundi kuwasilisha",
+      "activity_id": "elim-one-14",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – fikirisha"
+      ],
+      "assessment": "Kuchambua ufahamu wa fiqh kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.2 Kuchunga mipaka ya Allaah (S.W) katika kuendesha maisha ya binafsi na jamii",
+      "specific_competence": "(b) Kufafanua misingi na vyanzo vya sharia ya Kiislamu (Qur an, Sunnah na Ijtihad).",
+      "learning_activity": "Fikiri – jozisha – fikirisha: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia fikiri – jozisha – fikirisha kufafanua misingi na vyanzo vya sharia za Kiislamu. kisha mmoja wao katika kikundi kuwasilisha walichojifunza",
+      "activity_id": "elim-one-15",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – fikirisha"
+      ],
+      "assessment": "Kufafanua misingi na vyanzo vya sharia ya Kiislamu kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii",
+      "specific_competence": "3.1 Kutumia Qur’an na Sunnah kulingania jamii. (a) Kuchambua Ufahamu wa kulingania Uislamu katika jamii. (Maana, lengo, misingi, umuhimu na faida).",
+      "learning_activity": "Fikiri – jozisha – fikirisha: Ongoza wanafunzi katika vikundi vidogo vidogo kuchambua (i) maana, misingi na lengo la kulingania (ii) Umuhimu wa kulingania Uislamu na faida zake. Kisha mmoja wao katika kikundi kuwasilisha walichojifunza na ufanye majumuisho.",
+      "activity_id": "elim-one-16",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – fikirisha"
+      ],
+      "assessment": "Kuchambua Ufahamu wa kulingania Uislamu katika jamii kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii",
+      "specific_competence": "3.1 Kutumia Qur’an na Sunnah kulingania jamii. (a) Kuchambua Ufahamu wa kulingania Uislamu katika jamii. (Maana, lengo, misingi, umuhimu na faida).",
+      "learning_activity": "Fikiri – jozisha – fikirisha: Ongoza wanafunzi katika vikundi vidogo vidogo kuchambua (i) maana, misingi na lengo la kulingania (ii) Umuhimu wa kulingania Uislamu na faida zake. Kisha mmoja wao katika kikundi kuwasilisha walichojifunza na ufanye majumuisho.",
+      "activity_id": "elim-one-16",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Fikiri – jozisha – fikirisha"
+      ],
+      "assessment": "Kuchambua Ufahamu wa kulingania Uislamu katika jamii kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii",
+      "specific_competence": "(b) Kufafanua nguzo za da`awah (Da`i, hadhira na ujumbe).",
+      "learning_activity": "Majadiliano na Maswali na majibu: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano kufafanua nguzo tatu za da`awah ambazo ni da`i, hadhira na ujumbe. Kisha ufanye majumuisho.",
+      "activity_id": "elim-one-17",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Maswali na majibu"
+      ],
+      "assessment": "Kufafanua nguzo za da`awah kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu nguzo za da`awah."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Kulingania na kusimamisha haki na uadilifu katika jamii",
+      "specific_competence": "(b) Kufafanua nguzo za da`awah (Da`i, hadhira na ujumbe).",
+      "learning_activity": "Majadiliano na Maswali na majibu: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano kufafanua nguzo tatu za da`awah ambazo ni da`i, hadhira na ujumbe. Kisha ufanye majumuisho.",
+      "activity_id": "elim-one-17",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Maswali na majibu"
+      ],
+      "assessment": "Kufafanua nguzo za da`awah kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Matini mbalimbali kuhusu nguzo za da`awah."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "specific_competence": "(a) Kufafanua ufahamu wa historia ya mwanadamu kwa mujibu wa Uislamu. (Tofauti ya mtazamo wa Uislamu na ule wa makafiri juu ya maana, umuhimu wa historia,lengo la kuumbwa mwanadamu na hadhi yake hapa ulimwenguni).",
+      "learning_activity": "Bunguabongo: Ongoza wanafunzi katika vikundi vidogo vidogo kufafanua maana ya historia kwa mtazamo wa Uislamu. Majadiliano na Maswali na majibu: Ongoza wanafunzi katika vikundi vidogo vidogo kupitia majadiliano kufafanua; (i) Umuhimu wa historia (ii) Tofauti ya mtazamo wa Uislamu na ule wa makafiri juu ya historia (iii) Mtazamo wa Uislamu juu ya lengo la kuumbwa mwanadamu na hadhi yake Kila kikundi kitoe muwakilishi mmoja awasilishe walichojifuza.",
+      "activity_id": "elim-one-18",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Bunguabongo",
+        "Majadiliano",
+        "Maswali na majibu"
+      ],
+      "assessment": "Ufahamu wa historia ya mwanadamu kwa mujibu wa Uislamu umefafanuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu historia ya mwanadamu kwa mujibu wa Uislamu."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "specific_competence": "(b) Kuchambua historia ya nabii Adam (A.S), (Kuumbwa, maisha ya peponi, kuteremshwa ardhini na maisha ya watoto wake).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi kujadiliana katika vikundi mafunzo yatokanayo na historia ya nabii Adam (A.S).",
+      "activity_id": "elim-one-19",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Historia ya nabii Adam (A.S) imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "Matini mbalimbali kuhusu Historia ya nabii Adam (A.S)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "specific_competence": "(c) Kuchambua historia ya manabii kabla ya Mtume Muhammad (S.A.W): Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S). (wasifu, hali ya jamii zao, mbinu za kulingania na mafunzo yatokanayo katika kujenga jamii bora).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi kujadiliana katika vikundi mafunzo yatokanayo na historia ya manabii (Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S) Matembezi ya galari: Ongoza wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza mafunzo yatokanayo na historia ya manabii.",
+      "activity_id": "elim-one-20",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Matembezi ya galari"
+      ],
+      "assessment": "Historia ya Manabii kabla ya Mtume Muhammad (S.A.W) imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Historia ya Manabii kabla ya Mtume Muhammad (S.A.W)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "specific_competence": "(c) Kuchambua historia ya manabii kabla ya Mtume Muhammad (S.A.W): Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S). (wasifu, hali ya jamii zao, mbinu za kulingania na mafunzo yatokanayo katika kujenga jamii bora).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi kujadiliana katika vikundi mafunzo yatokanayo na historia ya manabii (Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S) Matembezi ya galari: Ongoza wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza mafunzo yatokanayo na historia ya manabii.",
+      "activity_id": "elim-one-20",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Matembezi ya galari"
+      ],
+      "assessment": "Historia ya Manabii kabla ya Mtume Muhammad (S.A.W) imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Historia ya Manabii kabla ya Mtume Muhammad (S.A.W)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.2 Kutumia historia ya Uislamu kujenga mwenendo mwema wa jamii.",
+      "specific_competence": "(c) Kuchambua historia ya manabii kabla ya Mtume Muhammad (S.A.W): Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S). (wasifu, hali ya jamii zao, mbinu za kulingania na mafunzo yatokanayo katika kujenga jamii bora).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi kujadiliana katika vikundi mafunzo yatokanayo na historia ya manabii (Nuhu (A.S), Ibrahim (A.S), Lut (A.S), Musa (A.S); na Isa (A.S) Matembezi ya galari: Ongoza wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza mafunzo yatokanayo na historia ya manabii.",
+      "activity_id": "elim-one-20",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Majadiliano",
+        "Matembezi ya galari"
+      ],
+      "assessment": "Historia ya Manabii kabla ya Mtume Muhammad (S.A.W) imechambuliwa kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha I",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdullah Saleh Farsy",
+        "TEHAMA",
+        "Matini mbalimbali kuhusu Historia ya Manabii kabla ya Mtume Muhammad (S.A.W)."
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake. (a) Kufafanua ufahamu wa dini kwa mujibu wa Qur’an. (tofauti ya mtazamo wa Uislamu na ukafiri juu ya chanzo na kazi ya dini, sababu za hitajio la dini kwa mwanadamu).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa waweze kujifunza kisha kufafanua. (i) tofauti kati ya mtazamo wa Uislamu na mtazamo wa kikafiri juu ya chanzo na kazi ya dini katika jamii, (ii) sababu za hitajio la dini kwa mwanadamu. Kila kikundi kuwepo mwakilishi wa kuwasilisha walichojifunza mbele ya darasa.",
+      "activity_id": "elim-one-21",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Kufafanua ufahamu wa dini kwa mujibu wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 2",
+        "Matini mbalimbali kuhusu ufahamu wa dini kwa mujibu wa Qur’an",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "1.1 Kutambua uwepo wa Allaah (S.W) na sifa zake. (a) Kufafanua ufahamu wa dini kwa mujibu wa Qur’an. (tofauti ya mtazamo wa Uislamu na ukafiri juu ya chanzo na kazi ya dini, sababu za hitajio la dini kwa mwanadamu).",
+      "learning_activity": "Majadiliano: Ongoza wanafunzi katika vikundi vidogo vidogo kusoma matini uliyoandaa waweze kujifunza kisha kufafanua. (i) tofauti kati ya mtazamo wa Uislamu na mtazamo wa kikafiri juu ya chanzo na kazi ya dini katika jamii, (ii) sababu za hitajio la dini kwa mwanadamu. Kila kikundi kuwepo mwakilishi wa kuwasilisha walichojifunza mbele ya darasa.",
+      "activity_id": "elim-one-21",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Majadiliano"
+      ],
+      "assessment": "Kufafanua ufahamu wa dini kwa mujibu wa Qur’an kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 2",
+        "Matini mbalimbali kuhusu ufahamu wa dini kwa mujibu wa Qur’an",
+        "Bango kitita"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Kumtambua, kumpenda, kumtukuza na kumsifu Allaah (S.W).",
+      "specific_competence": "(b) Kufafanua njia za kumjua Allaah (S.W) na kuthibitisha kuwepo kwake (njia za kumjua Allaah, kumuamini Allah sio sualla la kibubusa, udhaifu wa madia ya makafiri dhidi ya kuwepo Allaah (S.W), dalili za kuwepo Allaah (S.W))",
+      "learning_activity": "Utafiti mdogo: elekeza wanafunzi kusoma matini ulioandaa ya njia za kumjua Allaah (S.W) na kuandika maelezo yao binafsi kuhusu nafasi ya fitra na akili katika kumtambua Allaah (S.W). Majadiliano; Ongoza wanafunzi katika vikundi kusoma matini uliyoandaa kisha kujadiliana juu ya kuonesha kuwa, kumuamini Allaah (S.W) si suala la kufuata mkumbo:",
+      "activity_id": "elim-one-22",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Utafiti mdogo",
+        "Majadiliano"
+      ],
+      "assessment": "Kufafanua njia za kumjua Allaah (S.W) na kuthibitisha kuwepo kwake kumefanyika kwa usahihi.",
+      "resources": [
+        "Kitabu cha kiada kidato cha 2",
+        "Bango kitita",
+        "Tafsiri ya Qur’an ya Sheikh Abdulla Saleh Farsy",
+        "TEHAMA.",
+        "Matini mbalimbali",
+        "TEHAMA"
+      ],
+      "references": "Elimu ya Dini ya Kiislamu Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

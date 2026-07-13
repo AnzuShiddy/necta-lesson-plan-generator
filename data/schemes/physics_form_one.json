@@ -1,0 +1,1051 @@
+{
+  "subject": "Physics",
+  "form": "Form One",
+  "year": 2026,
+  "periods_per_week": 3,
+  "total_periods": 109,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(a) Explain the concept of Physics (Meaning, branches and connection with other disciplines)",
+      "activity_id": "phys-one-1",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm different physical phenomena (natural and man-made) in their environment in relation to Physics",
+        "Group discussion: Guide students in manageable groups through the use of ICT to come up with the meaning and branches of Physics",
+        "Field trip: Organise field trips to help students to explore the applications of Physics in real life experience"
+      ],
+      "assessment": "Concept of Physics is clearly explained",
+      "resources": [
+        "Online resources",
+        "multimedia sources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(b) Discuss the contribution of Physics to the development of modern society",
+      "activity_id": "phys-one-2",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the contributions of Physics in the development of modern society",
+        "ICT-based learning: Guide the students through different Online sources and web-based information to explore contributions of Physics in the development of modern society"
+      ],
+      "assessment": "Contributions of Physics to the development of modern society are clearly discussed",
+      "resources": [
+        "Balls",
+        "conical pendulum",
+        "banked road",
+        "whirling water in bucket",
+        "telescope",
+        "solid object",
+        "Earth globe",
+        "calipers or rulers",
+        "jug",
+        "F1-10 hydraulics bench and stopwatch"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(c) Explain concepts of physical quantities (fundamental and derived quantities) and their, SI units",
+      "activity_id": "phys-one-3",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on measurable objects found in their environment",
+        "Jigsaw: Guide students through Jigsaw method to measure the size of various objects assign the SI Unit of the measured quantities"
+      ],
+      "assessment": "The concepts of physical quantities are clearly explained",
+      "resources": [
+        "Tape measure",
+        "vernier caliper",
+        "stopwatch",
+        "protractor",
+        "beam balance",
+        "magnetic compass and force gauge"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(d) Describe concepts of linear motion (speed, velocity, acceleration, distance, and displacement)",
+      "activity_id": "phys-one-4",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Circle the sage: Guide students through circle-the-sage to explore the concept of linear motion",
+        "Questions and answers: Facilitate the students through questions and answers on the real-life applications of linear motion",
+        "ICT based learning: Guide students through the use of interactive simulations to visualize the concept of linear motion"
+      ],
+      "assessment": "The concepts of linear motion are clearly described",
+      "resources": [
+        "String",
+        "bob",
+        "fixed point",
+        "smooth table surface",
+        "single pulley",
+        "springs",
+        "masses and online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(e) Explain the concepts and principles related to force, density, pressure, work, power, energy",
+      "activity_id": "phys-one-5",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the concepts and principles related to force, density, pressure work, power and energy",
+        "ICT based learning: Guide students through the use of interactive simulations to visualize the concepts and principles related to force, density, pressure, work, power, energy",
+        "Questions and answers: Use questions and answers to guide students explaining the principle related to force, density, pressure, power and energy"
+      ],
+      "assessment": "The concepts and principles related to force, density, pressure, work, power and energy are explained clearly",
+      "resources": [
+        "Water tank",
+        "basin",
+        "different liquids",
+        "different solid materials",
+        "worksheet",
+        "online resources",
+        "spring balance and video"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(f) Deduce the relationship between density, sinking and floating",
+      "activity_id": "phys-one-6",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Experimentation: Guide the students to perform an experiment to deduce the relationship between density, sinking and floating",
+        "ICT-based learning: Guide student through the use of different online sources and web-based information to explore principles related to density, sinking and floating"
+      ],
+      "assessment": "The relationship between density, sinking and floating is correctly deduced",
+      "resources": [
+        "Water tank",
+        "sinking objects",
+        "worksheets",
+        "stone",
+        "dry wood",
+        "picture of floating and sinking objects and online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.1 Demonstrate mastery of basic concepts, theories and principles of Physics",
+      "learning_activity": "(g) Describe the mechanical properties of matter in relation to force and energy",
+      "activity_id": "phys-one-7",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Think-ink pair share: Guide the students through Think ink pair share to explore the mechanical properties of matter in relation to force and energy",
+        "Group discussion: Organize students in manageable groups to discuss different terms related to mechanical properties of matter",
+        "Experimentation: Guide the students through experiment to investigate the relationship between various mechanical properties of matter"
+      ],
+      "assessment": "The concepts and principles related to force, density, pressure, power and energy are explained clearly",
+      "resources": [
+        "Metal rod",
+        "wooeden rod",
+        "spring and masses",
+        "liquid (water)",
+        "different shapes and sizes conatiner",
+        "glass jar with cork and rubber band"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Demonstrate mastery of basic terminologies, measurements and symbols in Physics",
+      "learning_activity": "(a) Describe various instruments used for measurement in Physics",
+      "activity_id": "phys-one-8",
+      "periods": 3,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Circle-the-sage: Guide students through circle-the-sage strategy to describe various instruments used for measurements in Physics",
+        "Project work: Facilitate the students to describe various instruments used in Physics measurement",
+        "Virtual lab experiment: Facilitate the students through the use of Virtual lab to perform experiments to measure various objects"
+      ],
+      "assessment": "Measuring instruments used in Physics measurements are correctly described",
+      "resources": [
+        "Online resources",
+        "flow-tube",
+        "thermometers",
+        "stopwatch",
+        "retort stand",
+        "vernier calliper and steel balls of varying diameters"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Demonstrate mastery of basic terminologies, measurements and symbols in Physics",
+      "learning_activity": "(a) Describe various instruments used for measurement in Physics",
+      "activity_id": "phys-one-8",
+      "periods": 3,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Circle-the-sage: Guide students through circle-the-sage strategy to describe various instruments used for measurements in Physics",
+        "Project work: Facilitate the students to describe various instruments used in Physics measurement",
+        "Virtual lab experiment: Facilitate the students through the use of Virtual lab to perform experiments to measure various objects"
+      ],
+      "assessment": "Measuring instruments used in Physics measurements are correctly described",
+      "resources": [
+        "Online resources",
+        "flow-tube",
+        "thermometers",
+        "stopwatch",
+        "retort stand",
+        "vernier calliper and steel balls of varying diameters"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Demonstrate mastery of basic terminologies, measurements and symbols in Physics",
+      "learning_activity": "(b) Relate measuring instruments to physical quantities",
+      "activity_id": "phys-one-9",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Practical work and experimentation: Guide the students through practical work and experiment to measure different physical quantities by using appropriate instruments"
+      ],
+      "assessment": "Precision and accuracy of measurements are clearly related",
+      "resources": [
+        "Data and online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.2 Demonstrate mastery of basic terminologies, measurements and symbols in Physics",
+      "learning_activity": "(b) Relate measuring instruments to physical quantities",
+      "activity_id": "phys-one-9",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Practical work and experimentation: Guide the students through practical work and experiment to measure different physical quantities by using appropriate instruments"
+      ],
+      "assessment": "Precision and accuracy of measurements are clearly related",
+      "resources": [
+        "Data and online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Use mathematical knowledge to describe relationship between various physical quantities (force, velocity, acceleration, density, pressure)",
+      "activity_id": "phys-one-10",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups through the use of mathematical knowledge to describe the relationship between various physical quantities",
+        "Problem solving: Guide the students to use physical principles to solve real life problems"
+      ],
+      "assessment": "The mathematical knowledge is used to describe the relationship between various physical quantities",
+      "resources": [
+        "Online resources and Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Use mathematical knowledge to describe relationship between various physical quantities (force, velocity, acceleration, density, pressure)",
+      "activity_id": "phys-one-10",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups through the use of mathematical knowledge to describe the relationship between various physical quantities",
+        "Problem solving: Guide the students to use physical principles to solve real life problems"
+      ],
+      "assessment": "The mathematical knowledge is used to describe the relationship between various physical quantities",
+      "resources": [
+        "Online resources and Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Use mathematical knowledge to describe relationship between various physical quantities (force, velocity, acceleration, density, pressure)",
+      "activity_id": "phys-one-10",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups through the use of mathematical knowledge to describe the relationship between various physical quantities",
+        "Problem solving: Guide the students to use physical principles to solve real life problems"
+      ],
+      "assessment": "The mathematical knowledge is used to describe the relationship between various physical quantities",
+      "resources": [
+        "Online resources and Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Use mathematical knowledge to describe relationship between various physical quantities (force, velocity, acceleration, density, pressure)",
+      "activity_id": "phys-one-10",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups through the use of mathematical knowledge to describe the relationship between various physical quantities",
+        "Problem solving: Guide the students to use physical principles to solve real life problems"
+      ],
+      "assessment": "The mathematical knowledge is used to describe the relationship between various physical quantities",
+      "resources": [
+        "Online resources and Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Apply knowledge of Physics in various contexts",
+      "specific_competence": "1.3 Use mathematics to explain physical principles and phenomena",
+      "learning_activity": "(a) Use mathematical knowledge to describe relationship between various physical quantities (force, velocity, acceleration, density, pressure)",
+      "activity_id": "phys-one-10",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups through the use of mathematical knowledge to describe the relationship between various physical quantities",
+        "Problem solving: Guide the students to use physical principles to solve real life problems"
+      ],
+      "assessment": "The mathematical knowledge is used to describe the relationship between various physical quantities",
+      "resources": [
+        "Online resources and Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Conduct experiments related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+      "activity_id": "phys-one-11",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students through experiments to investigate the relationship between various parameters related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+        "ICT based learning: Facilitate the students through the use of virtual lab, to investigate the principles related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter"
+      ],
+      "assessment": "Experiments are properly conducted following the scientific method",
+      "resources": [
+        "Online resources",
+        "Small masses",
+        "meter rule",
+        "stop watch",
+        "trolley model calipers",
+        "wooden and metal rods",
+        "balances",
+        "string and pulley"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Conduct experiments related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+      "activity_id": "phys-one-11",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students through experiments to investigate the relationship between various parameters related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+        "ICT based learning: Facilitate the students through the use of virtual lab, to investigate the principles related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter"
+      ],
+      "assessment": "Experiments are properly conducted following the scientific method",
+      "resources": [
+        "Online resources",
+        "Small masses",
+        "meter rule",
+        "stop watch",
+        "trolley model calipers",
+        "wooden and metal rods",
+        "balances",
+        "string and pulley"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Conduct experiments related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+      "activity_id": "phys-one-11",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students through experiments to investigate the relationship between various parameters related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+        "ICT based learning: Facilitate the students through the use of virtual lab, to investigate the principles related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter"
+      ],
+      "assessment": "Experiments are properly conducted following the scientific method",
+      "resources": [
+        "Online resources",
+        "Small masses",
+        "meter rule",
+        "stop watch",
+        "trolley model calipers",
+        "wooden and metal rods",
+        "balances",
+        "string and pulley"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Conduct experiments related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+      "activity_id": "phys-one-11",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students through experiments to investigate the relationship between various parameters related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+        "ICT based learning: Facilitate the students through the use of virtual lab, to investigate the principles related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter"
+      ],
+      "assessment": "Experiments are properly conducted following the scientific method",
+      "resources": [
+        "Online resources",
+        "Small masses",
+        "meter rule",
+        "stop watch",
+        "trolley model calipers",
+        "wooden and metal rods",
+        "balances",
+        "string and pulley"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.1 Demonstrate mastery of basic experimental skills in Physics",
+      "learning_activity": "(a) Conduct experiments related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+      "activity_id": "phys-one-11",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students through experiments to investigate the relationship between various parameters related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter",
+        "ICT based learning: Facilitate the students through the use of virtual lab, to investigate the principles related to linear motion, density, force, pressure, work, energy, power and mechanical properties of matter"
+      ],
+      "assessment": "Experiments are properly conducted following the scientific method",
+      "resources": [
+        "Online resources",
+        "Small masses",
+        "meter rule",
+        "stop watch",
+        "trolley model calipers",
+        "wooden and metal rods",
+        "balances",
+        "string and pulley"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Explain the methods of analysing experimental data in physics (statistical analysis)",
+      "activity_id": "phys-one-12",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to investigate various methods used to analyse experimental data in physics (statistical analysis)",
+        "ICT based approach: Guide students through the use of ICT to investigate the best methods for analysing experimental data in Physics (statistical analysis)"
+      ],
+      "assessment": "The methods of analysing experimental data are explained correctly",
+      "resources": [
+        "Data and Online resources",
+        "Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(a) Explain the methods of analysing experimental data in physics (statistical analysis)",
+      "activity_id": "phys-one-12",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to investigate various methods used to analyse experimental data in physics (statistical analysis)",
+        "ICT based approach: Guide students through the use of ICT to investigate the best methods for analysing experimental data in Physics (statistical analysis)"
+      ],
+      "assessment": "The methods of analysing experimental data are explained correctly",
+      "resources": [
+        "Data and Online resources",
+        "Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(b) Use analytical methods to manipulate experimental data in physics",
+      "activity_id": "phys-one-13",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Brainstorming: Facilitate the students to brainstorm on the analytical methods used to manipulate experimental data in physics",
+        "ICT based approach: Guide students in utilizing interactive digital simulations to explore the hands-on activities for analytical methods to manipulate experimental data in physics"
+      ],
+      "assessment": "Analytical methods to manipulate experimental data in physics are correctly performed",
+      "resources": [
+        "Data and Online resources",
+        "Physics reference books"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Use graphical method to present experimental results in physics",
+      "activity_id": "phys-one-14",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Facilitate students through the use of graphical method to present experimental results in physics",
+        "Use of ICT facility: Guide students in utilizing interactive digital simulations and other software to present the experimental results using graphs"
+      ],
+      "assessment": "The graphical method to present experimental results in physics is clearly used",
+      "resources": [
+        "Data and online resources",
+        "Physics reference books and different graph papers"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Conduct experiments in Physics",
+      "specific_competence": "2.2 Demonstrate mastery of data analysis, presentation and report writing in Physics",
+      "learning_activity": "(c) Use graphical method to present experimental results in physics",
+      "activity_id": "phys-one-14",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Group discussion: Facilitate students through the use of graphical method to present experimental results in physics",
+        "Use of ICT facility: Guide students in utilizing interactive digital simulations and other software to present the experimental results using graphs"
+      ],
+      "assessment": "The graphical method to present experimental results in physics is clearly used",
+      "resources": [
+        "Data and online resources",
+        "Physics reference books and different graph papers"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(a) Collect and analyse data to explain various physical quantities (density, force, pressure)",
+      "activity_id": "phys-one-15",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Cooperative learning strategy: Guide students to share their understanding on how to collect and analyse data to explain various physical parameters (density, force, pressure)",
+        "Project work: Facilitate students to do projects to collect, analyse data and explain various physical parameters (density, force, pressure)"
+      ],
+      "assessment": "The data used to explain various physical parameters are collected and analysed appropriately",
+      "resources": [
+        "Text books and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(a) Collect and analyse data to explain various physical quantities (density, force, pressure)",
+      "activity_id": "phys-one-15",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Cooperative learning strategy: Guide students to share their understanding on how to collect and analyse data to explain various physical parameters (density, force, pressure)",
+        "Project work: Facilitate students to do projects to collect, analyse data and explain various physical parameters (density, force, pressure)"
+      ],
+      "assessment": "The data used to explain various physical parameters are collected and analysed appropriately",
+      "resources": [
+        "Text books and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(a) Collect and analyse data to explain various physical quantities (density, force, pressure)",
+      "activity_id": "phys-one-15",
+      "periods": 3,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Cooperative learning strategy: Guide students to share their understanding on how to collect and analyse data to explain various physical parameters (density, force, pressure)",
+        "Project work: Facilitate students to do projects to collect, analyse data and explain various physical parameters (density, force, pressure)"
+      ],
+      "assessment": "The data used to explain various physical parameters are collected and analysed appropriately",
+      "resources": [
+        "Text books and Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-16",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students in utilizing interactive digital simulations to collect analyse data and explain experimental observations related to linear motion, force, density, pressure and mechanical properties of matter",
+        "Experimentation: Guide students in manageable groups to conduct experiments and analyse collected data"
+      ],
+      "assessment": "The physical data to explain experimental observations related to given concepts are appropriately collected and analysed",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.1 Collect, describe and relate physical data",
+      "learning_activity": "(b) Collect and analyse data to explain experimental observations related to linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-16",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "ICT based approach: Guide students in utilizing interactive digital simulations to collect analyse data and explain experimental observations related to linear motion, force, density, pressure and mechanical properties of matter",
+        "Experimentation: Guide students in manageable groups to conduct experiments and analyse collected data"
+      ],
+      "assessment": "The physical data to explain experimental observations related to given concepts are appropriately collected and analysed",
+      "resources": [
+        "Online resources"
+      ],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Evaluate and use information in Physics",
+      "specific_competence": "3.2 Carry out a project in Physics",
+      "learning_activity": "(a) Develop prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+      "activity_id": "phys-one-17",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Group discussion: Organize students in manageable groups to discuss the procedure for the development of prototype devices based on the concepts, theories, principles and laws gained from the field of linear motion, force, density, pressure and mechanical properties of matter",
+        "Problem based approach: Guide students to relate the designed prototypes and real life."
+      ],
+      "assessment": "Prototypes are developed based on Physics",
+      "resources": [],
+      "references": "Physics Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 6,
+      "topic_weeks": 6
+    }
+  ]
+}

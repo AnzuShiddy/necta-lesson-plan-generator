@@ -1,0 +1,937 @@
+{
+  "subject": "Biology",
+  "form": "Form One",
+  "year": 2026,
+  "periods_per_week": 3,
+  "total_periods": 105,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Explain the basic concepts of Biology (meaning, branches, basic terminologies, importance and its relationship with other disciplines)",
+      "activity_id": "biol-one-1",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss meaning of biology, basic biological terminologies and branches of biology",
+        "Brainstorming: Guide students to brainstorm on importance of biology in our life",
+        "Jigsaw: Guide students in manageable groups, to explain the relationship of Biology with other disciplines through jigsaw"
+      ],
+      "assessment": "The basic concept of Biology are clearly explained",
+      "resources": [
+        "Charts, relevant text, and online resources on basic concept of biology"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Explain the basic concepts of Biology (meaning, branches, basic terminologies, importance and its relationship with other disciplines)",
+      "activity_id": "biol-one-1",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss meaning of biology, basic biological terminologies and branches of biology",
+        "Brainstorming: Guide students to brainstorm on importance of biology in our life",
+        "Jigsaw: Guide students in manageable groups, to explain the relationship of Biology with other disciplines through jigsaw"
+      ],
+      "assessment": "The basic concept of Biology are clearly explained",
+      "resources": [
+        "Charts, relevant text, and online resources on basic concept of biology"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(a) Explain the basic concepts of Biology (meaning, branches, basic terminologies, importance and its relationship with other disciplines)",
+      "activity_id": "biol-one-1",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to discuss meaning of biology, basic biological terminologies and branches of biology",
+        "Brainstorming: Guide students to brainstorm on importance of biology in our life",
+        "Jigsaw: Guide students in manageable groups, to explain the relationship of Biology with other disciplines through jigsaw"
+      ],
+      "assessment": "The basic concept of Biology are clearly explained",
+      "resources": [
+        "Charts, relevant text, and online resources on basic concept of biology"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe a cell (meaning,types, structures and functions)",
+      "activity_id": "biol-one-2",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students in manageable groups to discuss concept of cell",
+        "ICT-Based learning: Guide students to explain cell structures and cell differentiation through simulation",
+        "Experimentation: Guide students to prepare microscope slides of a plant and animal cell"
+      ],
+      "assessment": "The concept of cell is described clearly",
+      "resources": [
+        "Cells charts/ models, light microscope, slide covers, microscope slides, and cells online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe a cell (meaning,types, structures and functions)",
+      "activity_id": "biol-one-2",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students in manageable groups to discuss concept of cell",
+        "ICT-Based learning: Guide students to explain cell structures and cell differentiation through simulation",
+        "Experimentation: Guide students to prepare microscope slides of a plant and animal cell"
+      ],
+      "assessment": "The concept of cell is described clearly",
+      "resources": [
+        "Cells charts/ models, light microscope, slide covers, microscope slides, and cells online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(b) Describe a cell (meaning,types, structures and functions)",
+      "activity_id": "biol-one-2",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Group Discussion: Guide students in manageable groups to discuss concept of cell",
+        "ICT-Based learning: Guide students to explain cell structures and cell differentiation through simulation",
+        "Experimentation: Guide students to prepare microscope slides of a plant and animal cell"
+      ],
+      "assessment": "The concept of cell is described clearly",
+      "resources": [
+        "Cells charts/ models, light microscope, slide covers, microscope slides, and cells online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe nutrition in plants (photosynthesis, leaf structure and mineral requirements)",
+      "activity_id": "biol-one-3",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect different plant leaves around the school compound to observe and explain the external structure of leaves",
+        "Group Discussion: Guide students in manageable groups to discuss the concept of nutrition in plants, internal structure of a leaf and how photosynthesis occurs in the leaf",
+        "Guest speaker: Invite guest speaker (Agricultural extension officer) to share with students on mineral requirements in plants"
+      ],
+      "assessment": "Nutrition in plants is described clearly",
+      "resources": [
+        "Relevant equipment and apparati, heat sources, water, relevant chemicals and reagents, leaves, pond weeds, nutrition in plants models/ charts, and nutrition in plants online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe nutrition in plants (photosynthesis, leaf structure and mineral requirements)",
+      "activity_id": "biol-one-3",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect different plant leaves around the school compound to observe and explain the external structure of leaves",
+        "Group Discussion: Guide students in manageable groups to discuss the concept of nutrition in plants, internal structure of a leaf and how photosynthesis occurs in the leaf",
+        "Guest speaker: Invite guest speaker (Agricultural extension officer) to share with students on mineral requirements in plants"
+      ],
+      "assessment": "Nutrition in plants is described clearly",
+      "resources": [
+        "Relevant equipment and apparati, heat sources, water, relevant chemicals and reagents, leaves, pond weeds, nutrition in plants models/ charts, and nutrition in plants online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+      "learning_activity": "(c) Describe nutrition in plants (photosynthesis, leaf structure and mineral requirements)",
+      "activity_id": "biol-one-3",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect different plant leaves around the school compound to observe and explain the external structure of leaves",
+        "Group Discussion: Guide students in manageable groups to discuss the concept of nutrition in plants, internal structure of a leaf and how photosynthesis occurs in the leaf",
+        "Guest speaker: Invite guest speaker (Agricultural extension officer) to share with students on mineral requirements in plants"
+      ],
+      "assessment": "Nutrition in plants is described clearly",
+      "resources": [
+        "Relevant equipment and apparati, heat sources, water, relevant chemicals and reagents, leaves, pond weeds, nutrition in plants models/ charts, and nutrition in plants online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+      "activity_id": "biol-one-4",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
+        "Brainstorming: Guide students to brainstorm on the concept of classification",
+        "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
+        "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+      ],
+      "assessment": "Concept and systems of classification explained clearly",
+      "resources": [
+        "Variety of living organisms, classification charts, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+      "activity_id": "biol-one-4",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
+        "Brainstorming: Guide students to brainstorm on the concept of classification",
+        "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
+        "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+      ],
+      "assessment": "Concept and systems of classification explained clearly",
+      "resources": [
+        "Variety of living organisms, classification charts, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+      "activity_id": "biol-one-4",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
+        "Brainstorming: Guide students to brainstorm on the concept of classification",
+        "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
+        "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+      ],
+      "assessment": "Concept and systems of classification explained clearly",
+      "resources": [
+        "Variety of living organisms, classification charts, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+      "activity_id": "biol-one-4",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
+        "Brainstorming: Guide students to brainstorm on the concept of classification",
+        "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
+        "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+      ],
+      "assessment": "Concept and systems of classification explained clearly",
+      "resources": [
+        "Variety of living organisms, classification charts, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+      "activity_id": "biol-one-4",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
+        "Brainstorming: Guide students to brainstorm on the concept of classification",
+        "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
+        "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+      ],
+      "assessment": "Concept and systems of classification explained clearly",
+      "resources": [
+        "Variety of living organisms, classification charts, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(b) Describe the major groups of organisms: (Monera, Protista, Fungi, Plantae, Animalia and Viruses)",
+      "activity_id": "biol-one-5",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field vist: Guide students in groups to collect various living organisms around the school compound which are representatives of the major groups of organisms and classify them",
+        "Group Discussion: Guide students in manageable groups, to identify the major groups of organisms and viruses, discuss their features and economic importance"
+      ],
+      "assessment": "The major groups of organisms and viruses are described clearly",
+      "resources": [
+        "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(b) Describe the major groups of organisms: (Monera, Protista, Fungi, Plantae, Animalia and Viruses)",
+      "activity_id": "biol-one-5",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field vist: Guide students in groups to collect various living organisms around the school compound which are representatives of the major groups of organisms and classify them",
+        "Group Discussion: Guide students in manageable groups, to identify the major groups of organisms and viruses, discuss their features and economic importance"
+      ],
+      "assessment": "The major groups of organisms and viruses are described clearly",
+      "resources": [
+        "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(b) Describe the major groups of organisms: (Monera, Protista, Fungi, Plantae, Animalia and Viruses)",
+      "activity_id": "biol-one-5",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field vist: Guide students in groups to collect various living organisms around the school compound which are representatives of the major groups of organisms and classify them",
+        "Group Discussion: Guide students in manageable groups, to identify the major groups of organisms and viruses, discuss their features and economic importance"
+      ],
+      "assessment": "The major groups of organisms and viruses are described clearly",
+      "resources": [
+        "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Communicating using scientific biological terminologies",
+      "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
+      "learning_activity": "(b) Describe the major groups of organisms: (Monera, Protista, Fungi, Plantae, Animalia and Viruses)",
+      "activity_id": "biol-one-5",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Field vist: Guide students in groups to collect various living organisms around the school compound which are representatives of the major groups of organisms and classify them",
+        "Group Discussion: Guide students in manageable groups, to identify the major groups of organisms and viruses, discuss their features and economic importance"
+      ],
+      "assessment": "The major groups of organisms and viruses are described clearly",
+      "resources": [
+        "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+      "activity_id": "biol-one-6",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
+        "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+      ],
+      "assessment": "Basic skills for conducting biological experiments are correctly described",
+      "resources": [
+        "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+      "activity_id": "biol-one-6",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
+        "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+      ],
+      "assessment": "Basic skills for conducting biological experiments are correctly described",
+      "resources": [
+        "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+      "activity_id": "biol-one-6",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
+        "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+      ],
+      "assessment": "Basic skills for conducting biological experiments are correctly described",
+      "resources": [
+        "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+      "activity_id": "biol-one-6",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
+        "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+      ],
+      "assessment": "Basic skills for conducting biological experiments are correctly described",
+      "resources": [
+        "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+      "activity_id": "biol-one-6",
+      "periods": 3,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
+        "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+      ],
+      "assessment": "Basic skills for conducting biological experiments are correctly described",
+      "resources": [
+        "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Carry out microscopic observation of a cell",
+      "activity_id": "biol-one-7",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explore procedures that are required to observe a cell under a microscope",
+        "Laboratory practical: Guide students to observe cells of living things under light microscope"
+      ],
+      "assessment": "Microscopic observation of a cells carried out correctly",
+      "resources": [
+        "Light microscope, slide covers, microscope slide, online resources on microscopic observation of a cell and relevant apparati"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Carry out microscopic observation of a cell",
+      "activity_id": "biol-one-7",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explore procedures that are required to observe a cell under a microscope",
+        "Laboratory practical: Guide students to observe cells of living things under light microscope"
+      ],
+      "assessment": "Microscopic observation of a cells carried out correctly",
+      "resources": [
+        "Light microscope, slide covers, microscope slide, online resources on microscopic observation of a cell and relevant apparati"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Carry out microscopic observation of a cell",
+      "activity_id": "biol-one-7",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explore procedures that are required to observe a cell under a microscope",
+        "Laboratory practical: Guide students to observe cells of living things under light microscope"
+      ],
+      "assessment": "Microscopic observation of a cells carried out correctly",
+      "resources": [
+        "Light microscope, slide covers, microscope slide, online resources on microscopic observation of a cell and relevant apparati"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(b) Carry out microscopic observation of a cell",
+      "activity_id": "biol-one-7",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in manageable groups to explore procedures that are required to observe a cell under a microscope",
+        "Laboratory practical: Guide students to observe cells of living things under light microscope"
+      ],
+      "assessment": "Microscopic observation of a cells carried out correctly",
+      "resources": [
+        "Light microscope, slide covers, microscope slide, online resources on microscopic observation of a cell and relevant apparati"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+      "activity_id": "biol-one-8",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+      ],
+      "assessment": "Investigations related to photosynthesis are carried out correctly",
+      "resources": [
+        "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+      "activity_id": "biol-one-8",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+      ],
+      "assessment": "Investigations related to photosynthesis are carried out correctly",
+      "resources": [
+        "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+      "activity_id": "biol-one-8",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+      ],
+      "assessment": "Investigations related to photosynthesis are carried out correctly",
+      "resources": [
+        "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+      "activity_id": "biol-one-8",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+      ],
+      "assessment": "Investigations related to photosynthesis are carried out correctly",
+      "resources": [
+        "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+      "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+      "activity_id": "biol-one-8",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+      ],
+      "assessment": "Investigations related to photosynthesis are carried out correctly",
+      "resources": [
+        "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.2 Prepare and present results of biological investigations",
+      "learning_activity": "(a) Prepare and present a report on cell and photosynthesis investigations",
+      "activity_id": "biol-one-9",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the steps in preparation of biological investigation report",
+        "Project: Guide students to prepare a report using the steps in preparation of a biological investigation report",
+        "Presentation: Guide students to present a biological investigation report"
+      ],
+      "assessment": "Investigation report on cell and photosynthesis is prepared and presented correctly",
+      "resources": [
+        "Relevant text on steps for scientific investigations and report writing, online resources on report writing"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.2 Prepare and present results of biological investigations",
+      "learning_activity": "(a) Prepare and present a report on cell and photosynthesis investigations",
+      "activity_id": "biol-one-9",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the steps in preparation of biological investigation report",
+        "Project: Guide students to prepare a report using the steps in preparation of a biological investigation report",
+        "Presentation: Guide students to present a biological investigation report"
+      ],
+      "assessment": "Investigation report on cell and photosynthesis is prepared and presented correctly",
+      "resources": [
+        "Relevant text on steps for scientific investigations and report writing, online resources on report writing"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Conduct biological investigations",
+      "specific_competence": "3.2 Prepare and present results of biological investigations",
+      "learning_activity": "(a) Prepare and present a report on cell and photosynthesis investigations",
+      "activity_id": "biol-one-9",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss the steps in preparation of biological investigation report",
+        "Project: Guide students to prepare a report using the steps in preparation of a biological investigation report",
+        "Presentation: Guide students to present a biological investigation report"
+      ],
+      "assessment": "Investigation report on cell and photosynthesis is prepared and presented correctly",
+      "resources": [
+        "Relevant text on steps for scientific investigations and report writing, online resources on report writing"
+      ],
+      "references": "Biology Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    }
+  ]
+}

@@ -1,0 +1,850 @@
+{
+  "subject": "Computer Science",
+  "form": "Form Three",
+  "year": 2026,
+  "periods_per_week": 2,
+  "total_periods": 70,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(a) Describe the concept of data representation (digital data, number systems, data type, character coding (UNICODE and ASCII)",
+      "activity_id": "comp-three-24",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Question-and-answer",
+        "TIPS",
+        "small group discussion"
+      ],
+      "assessment": "Explicitly explain the concept of digital data representation",
+      "resources": [
+        "Hand outs",
+        "standard codes"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(a) Describe the concept of data representation (digital data, number systems, data type, character coding (UNICODE and ASCII)",
+      "activity_id": "comp-three-24",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Question-and-answer",
+        "TIPS",
+        "small group discussion"
+      ],
+      "assessment": "Explicitly explain the concept of digital data representation",
+      "resources": [
+        "Hand outs",
+        "standard codes"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(b) Represent numbers in different number systems (binary, octal, decimal, and hexadecimal)",
+      "activity_id": "comp-three-25",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently represent numbers in different number systems",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(c) Convert numbers from one system to another (binary, decimal, and hexadecimal)",
+      "activity_id": "comp-three-26",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Competently convert numbers from one system to another",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+      "learning_activity": "(d) Perform arithmetic operations (addition and subtraction) using binary numbers",
+      "activity_id": "comp-three-27",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Capability to perform arithmetic operations",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(a) Use the syntax and constructs of selected programming language to write program (using an appropriate structured programming language such as C, python, etc.) (iteration, functions, array, and string)",
+      "activity_id": "comp-three-28",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently use iteration and functions in a program",
+      "resources": [
+        "Computer installed with appropriate programming tools"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(a) Use the syntax and constructs of selected programming language to write program (using an appropriate structured programming language such as C, python, etc.) (iteration, functions, array, and string)",
+      "activity_id": "comp-three-28",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently use iteration and functions in a program",
+      "resources": [
+        "Computer installed with appropriate programming tools"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(a) Use the syntax and constructs of selected programming language to write program (using an appropriate structured programming language such as C, python, etc.) (iteration, functions, array, and string)",
+      "activity_id": "comp-three-28",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently use iteration and functions in a program",
+      "resources": [
+        "Computer installed with appropriate programming tools"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(a) Use the syntax and constructs of selected programming language to write program (using an appropriate structured programming language such as C, python, etc.) (iteration, functions, array, and string)",
+      "activity_id": "comp-three-28",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently use iteration and functions in a program",
+      "resources": [
+        "Computer installed with appropriate programming tools"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(b) Use scope of variable in a program",
+      "activity_id": "comp-three-29",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently describe and use the concept of scope of variable",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(b) Use scope of variable in a program",
+      "activity_id": "comp-three-29",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently describe and use the concept of scope of variable",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(b) Use scope of variable in a program",
+      "activity_id": "comp-three-29",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently describe and use the concept of scope of variable",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(b) Use scope of variable in a program",
+      "activity_id": "comp-three-29",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently describe and use the concept of scope of variable",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
+      "activity_id": "comp-three-30",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
+      "activity_id": "comp-three-30",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
+      "activity_id": "comp-three-30",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
+      "activity_id": "comp-three-30",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Confidently debug computer program that employs iteration and functions branching and functions",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(d) Appraise the utility of the developed program",
+      "activity_id": "comp-three-31",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Questions and answer"
+      ],
+      "assessment": "Clearly evaluate the efficacy of the developed application",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(d) Appraise the utility of the developed program",
+      "activity_id": "comp-three-31",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Questions and answer"
+      ],
+      "assessment": "Clearly evaluate the efficacy of the developed application",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+      "learning_activity": "(d) Appraise the utility of the developed program",
+      "activity_id": "comp-three-31",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Questions and answer"
+      ],
+      "assessment": "Clearly evaluate the efficacy of the developed application",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(a) Describe the concept of computer network) (meaning, mode, media, components, etc.)",
+      "activity_id": "comp-three-32",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Can clarify the concept computer network",
+      "resources": [
+        "Computer with installed internet",
+        "network cables and network card"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(a) Describe the concept of computer network) (meaning, mode, media, components, etc.)",
+      "activity_id": "comp-three-32",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Can clarify the concept computer network",
+      "resources": [
+        "Computer with installed internet",
+        "network cables and network card"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(b) Design a simple computer network involving a typical topology",
+      "activity_id": "comp-three-33",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Can design a simple computer network of a given topology",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(b) Design a simple computer network involving a typical topology",
+      "activity_id": "comp-three-33",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration"
+      ],
+      "assessment": "Can design a simple computer network of a given topology",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+      "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+      "learning_activity": "(c) Create a computer network involving typical topology",
+      "activity_id": "comp-three-34",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Demonstration",
+        "Practical work"
+      ],
+      "assessment": "Confidently can use topology, data transmission mode and media to set computer network",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(a) Describe the concept of data and information",
+      "activity_id": "comp-three-35",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming"
+      ],
+      "assessment": "Cleary describe the concepts of data and information",
+      "resources": [
+        "Computer installed with appropriate tools for managing data"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(a) Describe the concept of data and information",
+      "activity_id": "comp-three-35",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming"
+      ],
+      "assessment": "Cleary describe the concepts of data and information",
+      "resources": [
+        "Computer installed with appropriate tools for managing data"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(b) Manage simple data (create, store, retrieve, check data quality)",
+      "activity_id": "comp-three-36",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "TIPS"
+      ],
+      "assessment": "Successfully manage simple data",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(b) Manage simple data (create, store, retrieve, check data quality)",
+      "activity_id": "comp-three-36",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "TIPS"
+      ],
+      "assessment": "Successfully manage simple data",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(c) Describe the concept of database and database management system",
+      "activity_id": "comp-three-37",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming"
+      ],
+      "assessment": "Explicitly elaborate the concept of database and database management system",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(c) Describe the concept of database and database management system",
+      "activity_id": "comp-three-37",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming"
+      ],
+      "assessment": "Explicitly elaborate the concept of database and database management system",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(d) Design a database",
+      "activity_id": "comp-three-38",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Demonstration",
+        "Practical work"
+      ],
+      "assessment": "Clearly explain the concept of database",
+      "resources": [
+        "Computer installed with appropriate tools for database design"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(d) Design a database",
+      "activity_id": "comp-three-38",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Demonstration",
+        "Practical work"
+      ],
+      "assessment": "Clearly explain the concept of database",
+      "resources": [
+        "Computer installed with appropriate tools for database design"
+      ],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
+      "activity_id": "comp-three-39",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Practical work"
+      ],
+      "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+      "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+      "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
+      "activity_id": "comp-three-39",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Practical work"
+      ],
+      "assessment": "Clearly identify steps of designing and developing a database and step by step create a database",
+      "resources": [],
+      "references": "Computer Science Syllabus for Ordinary Secondary Education, 2023 (Tanzania Institute of Education)",
+      "remarks": "",
+      "topic_week": 2,
+      "topic_weeks": 2
+    }
+  ]
+}

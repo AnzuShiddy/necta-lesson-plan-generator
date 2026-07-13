@@ -7,7 +7,7 @@ Claude expands it into a full, classroom-ready lesson plan. It is instructed to
 copy the competence statements verbatim so the plan cites the real syllabus.
 """
 
-from . import llm, syllabus
+from . import llm, scheme, syllabus
 from .schema import GeneratedLessonPlan, LessonPlanRequest
 
 SYSTEM_PROMPT = """You are an experienced Tanzanian secondary school teacher and \
@@ -51,59 +51,69 @@ STAGE_GUIDES = {
 }
 
 
-def build_user_prompt(req: LessonPlanRequest, activity: dict) -> str:
+def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
     meta = syllabus.get_subject_meta(req.subject)
     periods = req.duration_minutes / max(meta["period_length_minutes"], 1)
     stage_guide = STAGE_GUIDES.get(req.plan_format, STAGE_GUIDES["classic"])
-    return f"""Prepare a lesson plan from the following official TIE syllabus entry.
+    methods = entry.get("teaching_learning_activities", [])
+    resources = entry.get("resources", [])
+    span_note = ""
+    if entry.get("topic_weeks", 1) > 1:
+        span_note = (f"\nThis topic runs across {entry['topic_weeks']} weeks in the scheme "
+                     f"of work; this lesson is for WEEK {entry['topic_week']} of "
+                     f"{entry['topic_weeks']}. Cover the portion appropriate to this week, "
+                     f"not the entire topic.")
+    return f"""Prepare a lesson plan for one scheduled lesson, taken from the 2026 scheme \
+of work below. The scheme entry is derived from the official TIE syllabus.
 
 SUBJECT: {req.subject}
 SYLLABUS: {meta['syllabus_edition']}
 FORM: {req.form}
+SCHEME OF WORK SLOT: Semester {entry['semester']}, Week {entry['week']} \
+({entry['month']}, {entry['start_date']} to {entry['end_date']})
 LESSON DURATION: {req.duration_minutes} minutes (~{periods:.0f} period(s) of \
 {meta['period_length_minutes']} minutes)
 CLASS SIZE: {req.boys} boys, {req.girls} girls
 
 MAIN COMPETENCE (copy verbatim):
-{activity['main_competence']}
+{entry['main_competence']}
 
 SPECIFIC COMPETENCE (copy verbatim):
-{activity['specific_competence']}
+{entry['specific_competence']}
 
-LEARNING ACTIVITY (the focus of this lesson):
-{activity['learning_activity']}
+LEARNING ACTIVITY / SUB-TOPIC (the focus of this lesson):
+{entry['learning_activity']}{span_note}
 
 SUGGESTED TEACHING AND LEARNING METHODS:
-{chr(10).join('- ' + m for m in activity['suggested_methods'])}
+{chr(10).join('- ' + m for m in methods) if methods else '- (use suitable student-centred methods)'}
 
 ASSESSMENT CRITERIA:
-{activity['assessment_criteria']}
+{entry.get('assessment', '')}
 
 SUGGESTED RESOURCES:
-{', '.join(activity['suggested_resources'])}
+{', '.join(resources) if resources else '(use locally available materials)'}
 
 LESSON DEVELOPMENT FORMAT:
 {stage_guide}
 
 TEACHER'S EXTRA NOTES: {req.extra_notes or '(none)'}
 
-For the references field, include a citation to the {req.subject} Syllabus for Ordinary \
-Secondary Education ({meta['syllabus_edition']}) and add space for the teacher to insert \
-the approved textbook and page.
+For the references field, cite the {req.subject} Syllabus for Ordinary Secondary \
+Education ({meta['syllabus_edition']}) and leave space for the approved textbook and page.
 
 Produce the complete lesson plan now."""
 
 
 def generate(req: LessonPlanRequest) -> GeneratedLessonPlan:
-    activity = syllabus.get_activity(req.subject, req.form, req.activity_id)
-    if activity is None:
+    entry = scheme.get_entry(req.subject, req.form, req.entry_id)
+    if entry is None:
         raise ValueError(
-            f"Unknown activity {req.activity_id!r} for {req.subject} {req.form}"
+            f"Unknown scheme week {req.entry_id!r} for {req.subject} {req.form}"
         )
 
     plan = llm.structured(
         system=SYSTEM_PROMPT,
-        user=build_user_prompt(req, activity),
+        user=build_user_prompt(req, entry),
         schema=GeneratedLessonPlan,
     )
     if plan is None:

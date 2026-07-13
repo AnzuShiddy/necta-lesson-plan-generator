@@ -24,7 +24,7 @@ from .schema import LessonPlanDocument
 def _header_pairs(doc: LessonPlanDocument) -> list[tuple[str, str]]:
     r = doc.request
     total = r.boys + r.girls
-    return [
+    pairs = [
         ("School", r.school_name or "…………………………"),
         ("Teacher's name", r.teacher_name or "…………………………"),
         ("Date", r.date or "……………"),
@@ -34,6 +34,11 @@ def _header_pairs(doc: LessonPlanDocument) -> list[tuple[str, str]]:
         ("Number of students", f"Boys: {r.boys}  Girls: {r.girls}  Total: {total}"),
         ("Duration", f"{r.duration_minutes} minutes"),
     ]
+    if r.week_label:
+        pairs.append(("Scheme of work", r.week_label))
+    if r.subtopic:
+        pairs.append(("Sub-topic", r.subtopic))
+    return pairs
 
 
 # ---------------------------------------------------------------------------
@@ -210,5 +215,93 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
     block("Evaluation", doc.plan.evaluation)
     block("Remarks", doc.plan.remarks)
 
+    pdf.build(story)
+    return buf.getvalue()
+
+
+# ---------------------------------------------------------------------------
+# Scheme of work exporters (the scheme is itself a document teachers submit)
+# ---------------------------------------------------------------------------
+
+def scheme_to_docx(sch: dict) -> bytes:
+    d = Document()
+    d.styles["Normal"].font.name = "Calibri"
+    d.styles["Normal"].font.size = Pt(8)
+
+    title = d.add_paragraph()
+    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = title.add_run(f"SCHEME OF WORK — {sch['year']}")
+    run.bold = True
+    run.font.size = Pt(13)
+    sub = d.add_paragraph()
+    sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    sub.add_run(f"{sch['subject']} — {sch['form']}   "
+                f"(periods/week: {sch['periods_per_week']})").italic = True
+
+    cols = ["Month", "Week", "Main competence", "Sub-topic (learning activity)",
+            "Teaching & learning activities", "Assessment", "Periods", "Remarks"]
+    table = d.add_table(rows=1, cols=len(cols))
+    table.style = "Table Grid"
+    for c, label in zip(table.rows[0].cells, cols):
+        c.paragraphs[0].add_run(label).bold = True
+    for e in sch["entries"]:
+        cells = table.add_row().cells
+        cells[0].text = e["month"]
+        cells[1].text = str(e["week"])
+        cells[2].text = e["main_competence"]
+        st = e["learning_activity"]
+        if e.get("topic_weeks", 1) > 1:
+            st += f"  (week {e['topic_week']} of {e['topic_weeks']})"
+        cells[3].text = st
+        cells[4].text = "; ".join(e.get("teaching_learning_activities", []))
+        cells[5].text = e.get("assessment", "")
+        cells[6].text = str(e["periods"])
+        cells[7].text = e.get("remarks", "")
+
+    buf = io.BytesIO()
+    d.save(buf)
+    return buf.getvalue()
+
+
+def scheme_to_pdf(sch: dict) -> bytes:
+    buf = io.BytesIO()
+    pdf = SimpleDocTemplate(buf, pagesize=landscape(A4), leftMargin=1 * cm,
+                            rightMargin=1 * cm, topMargin=1 * cm, bottomMargin=1 * cm,
+                            title="Scheme of Work")
+    styles = getSampleStyleSheet()
+    cell = ParagraphStyle("scell", parent=styles["Normal"], fontSize=7, leading=8)
+    cell_b = ParagraphStyle("scellb", parent=cell, fontName="Helvetica-Bold", textColor=colors.white)
+    story = [
+        Paragraph(f"SCHEME OF WORK — {sch['year']}", styles["Title"]),
+        Paragraph(f"{sch['subject']} — {sch['form']} (periods/week: {sch['periods_per_week']})",
+                  styles["Italic"]),
+        Spacer(1, 6),
+    ]
+    header = ["Month", "Wk", "Main competence", "Sub-topic", "Teaching & learning",
+              "Assessment", "Prd"]
+    data = [[Paragraph(h, cell_b) for h in header]]
+    for e in sch["entries"]:
+        st = e["learning_activity"]
+        if e.get("topic_weeks", 1) > 1:
+            st += f" (wk {e['topic_week']}/{e['topic_weeks']})"
+        data.append([
+            Paragraph(e["month"], cell),
+            Paragraph(str(e["week"]), cell),
+            Paragraph(e["main_competence"], cell),
+            Paragraph(st, cell),
+            Paragraph("; ".join(e.get("teaching_learning_activities", [])), cell),
+            Paragraph(e.get("assessment", ""), cell),
+            Paragraph(str(e["periods"]), cell),
+        ])
+    table = Table(data, colWidths=[1.8 * cm, 0.9 * cm, 5.5 * cm, 6 * cm, 8 * cm, 4.3 * cm, 1 * cm],
+                  repeatRows=1)
+    table.setStyle(TableStyle([
+        ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
+        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("TOPPADDING", (0, 0), (-1, -1), 2),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+    ]))
+    story.append(table)
     pdf.build(story)
     return buf.getvalue()
