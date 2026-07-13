@@ -1,0 +1,739 @@
+{
+  "subject": "Computer Science",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727193276-COMPUTER%20SCIENCE%20SYLABUS%20I%20TO%20IV%20(12_07_2023).pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.1 Demonstrate an understanding of the concept of Computer Science",
+          "learning_activity": "(a) Describe the concept of Computer Science (meaning, importance, application)",
+          "suggested_methods": [
+            "Brainstorming and Think-Ink-Pair Share (TIPS): Through brainstorming and Think-Ink-Pair Share (TIPS) guide students to describe the concept of Computer Science"
+          ],
+          "assessment_criteria": "Confidently describe the concept of Computer Science field",
+          "suggested_resources": [
+            "Handouts with contents of Computer Science concepts"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "comp-one-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.1 Demonstrate an understanding of the concept of Computer Science",
+          "learning_activity": "(b) Describe fields related to Computer Science (IT, ICT, IS, Computer Engineering)",
+          "suggested_methods": [
+            "Question and answer, guest speaker; and/or case study: Use question and answer, guest speaker; and case study to guide students to describe fields related to Computer Science"
+          ],
+          "assessment_criteria": "Confidently describe fields related to Computer Science",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.2 Demonstrate an understanding of computer systems",
+          "learning_activity": "(a) Describe computer systems (Meaning, types, functions, and significance)",
+          "suggested_methods": [
+            "Questions and answers: Through questions and answers guide students to describe computer system"
+          ],
+          "assessment_criteria": "Clearly describe computer systems",
+          "suggested_resources": [
+            "Computer",
+            "Hand-out",
+            "Flip board and digital podium",
+            "electronic blackboard"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "comp-one-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.2 Demonstrate an understanding of computer systems",
+          "learning_activity": "(b) Describe computer hardware (meaning, components, functions, computer generation)",
+          "suggested_methods": [
+            "Small groups: Guide students in small groups to describe computer hardware.",
+            "Demonstration: Use demonstration to show different components of computer hardware",
+            "practical work: Guide students through practical work to connect different parts of computer system"
+          ],
+          "assessment_criteria": "Realise parts of computer hardware and their functions",
+          "suggested_resources": [
+            "Computer",
+            "printer",
+            "scaner",
+            "camera",
+            "projector",
+            "flashdisk",
+            "hard disk memory card",
+            "smart phone",
+            "tablets and motherboard"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.2 Demonstrate an understanding of computer systems",
+          "learning_activity": "(c) Describe computer software (meaning, types, functions)",
+          "suggested_methods": [
+            "TIPS and Demonstration: Using TIPS and demonstration to guide students to describe computer software"
+          ],
+          "assessment_criteria": "Realise types of computer software and their functions",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.2 Demonstrate an understanding of computer systems",
+          "learning_activity": "(d) Describe and observe principles of computer system handling (safety measures, management, cleanliness, data backup and utilities)",
+          "suggested_methods": [
+            "Group discussion: Though group discussion students to describe principles of computer handling.",
+            "Demonstration: Teacher to demonstrate on how to perform computer handling technique",
+            "Practical work: Students through practical work to practice on computer handling"
+          ],
+          "assessment_criteria": "Clearly observe principles of handling the computer system",
+          "suggested_resources": [
+            "Computer",
+            "printer",
+            "scaner",
+            "projector",
+            "flashdisk",
+            "memory card",
+            "smart phone",
+            "tablets and hard disk"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.3 Demonstrate mastery of maintenance and troubleshooting of computer system",
+          "learning_activity": "(a) Install simple computer software",
+          "suggested_methods": [
+            "Demonstration",
+            "Practical Work: Through demonstration guide students to install simple software and students to do Practical work on installation of software"
+          ],
+          "assessment_criteria": "Can install computer software",
+          "suggested_resources": [
+            "Computer",
+            "CDs with different software",
+            "hand out and dard disk"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "comp-one-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.3 Demonstrate mastery of maintenance and troubleshooting of computer system",
+          "learning_activity": "(b) Organise computer files in different operating systems (windows, Linux, etc)",
+          "suggested_methods": [
+            "Demonstration",
+            "Practical Work: Through demonstration guide students to organise computer files and students to do practical work to organise computer files"
+          ],
+          "assessment_criteria": "Can use operating systems to organise computer files",
+          "suggested_resources": [
+            "Computer installed with recommended OSs",
+            "hand out",
+            "simulated steps videos and smart phone"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-8"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.1 Demonstrate mastery of the basic principles in problem solving",
+          "learning_activity": "(a) Describe the steps in solving a problem using computers (concept of problem solving, steps of problem solving, concept of algorithms)",
+          "suggested_methods": [
+            "Brainstorming: Through brainstorming guide students to describe the steps of solving a problem using computer"
+          ],
+          "assessment_criteria": "Clearly describe the steps of solving a problem using computer",
+          "suggested_resources": [
+            "Computer",
+            "smart phone",
+            "hand outs of of the basic principles in problem solving and tablets"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "comp-one-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.1 Demonstrate mastery of the basic principles in problem solving",
+          "learning_activity": "(b) Demonstrate an understanding of basic principle of algorithms",
+          "suggested_methods": [
+            "Brainstorming and Demonstration: Through brainstorming and demonstration guide students to describe the concept of an algorithm"
+          ],
+          "assessment_criteria": "Clearly explain how the algorithm can be used to address problems",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.1 Demonstrate mastery of the basic principles in problem solving",
+          "learning_activity": "(c) Design and present a single algorithm using flow charts and pseudocode",
+          "suggested_methods": [
+            "Demonstration: Guide students through demonstration on how to present algorithms using flow charts and pseudocode"
+          ],
+          "assessment_criteria": "Confidently can apply algorithms to present new ways to address problems",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-one-11"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.5 Demonstrate mastery of the Internet, and basics of cyber security",
+          "learning_activity": "(a) Describe the concept of internet and cyber security (ethics, security, and privacy)",
+          "suggested_methods": [
+            "Group discussion and Case study: Through group discussion and case study guide students to describe the concept of cyber security"
+          ],
+          "assessment_criteria": "Clearly explain the concept of cyber security",
+          "suggested_resources": [
+            "Projector",
+            "computer",
+            "Hand-out",
+            "TV ",
+            "Smart board",
+            "digital podium",
+            "Internet connectivity"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "comp-two-12"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.5 Demonstrate mastery of the Internet, and basics of cyber security",
+          "learning_activity": "(b) Use Internet services (searching information, www, electronic mail)",
+          "suggested_methods": [
+            "Practical work: Through practical work guide students to use Internet service"
+          ],
+          "assessment_criteria": "Confidently can use Internet service",
+          "suggested_resources": [
+            "Computer with internet connectivity"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.5 Demonstrate mastery of the Internet, and basics of cyber security",
+          "learning_activity": "(c) Understand cyber security threats and related counter measures",
+          "suggested_methods": [
+            "TIPS: Through TIPS guide students to elaborate security threats and related counter measures",
+            "Case Study: Use case study for example to demonstrate threats and counter measures"
+          ],
+          "assessment_criteria": "Clearly Elaborate security threats and related measures",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.5 Demonstrate mastery of the Internet, and basics of cyber security",
+          "learning_activity": "(d) Evaluate ethical issues, related principles, and practices of cyber security",
+          "suggested_methods": [
+            "Case study: Using case study guide students to evaluate ethical issues"
+          ],
+          "assessment_criteria": "Clearly evaluates issues and related policies governing ethics, security and privacy maintenance and troubleshooting of computer system",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.5 Demonstrate mastery of the Internet, and basics of cyber security",
+          "learning_activity": "(e) Apply basic cyber security measures (passwords, safe browsing, netiquette)",
+          "suggested_methods": [
+            "Case study: Using case studies to guide students to apply basic cyber security measures.",
+            "Practical work: Students to do practical work to set password"
+          ],
+          "assessment_criteria": "Confidently basic cyber security measures",
+          "suggested_resources": [
+            "Projectors",
+            "computers",
+            "Internet connectivity"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-16"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(a) Describe concept of programming language (categories, paradigm, generic structures)",
+          "suggested_methods": [
+            "TIPS, question and answer, and group discussion: Through TIPS, question and answer, and group discussion guide students to describe computer programming language"
+          ],
+          "assessment_criteria": "Clearly explain the concept of programming language",
+          "suggested_resources": [
+            "Computer installed with appropriate programming tools"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "comp-two-17"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(b) Describe programming tools (compiler/interpreter, text editor, IDE, Debugger)",
+          "suggested_methods": [
+            "Group discussion: Through group discussion guide students to describe programming tools"
+          ],
+          "assessment_criteria": "Clearly can describe programming tools",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-18"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(c) Install and configure the selected programming language (compiler/interpreter, text editor, IDE, Debugger)",
+          "suggested_methods": [
+            "Demonstration and Practical work: Through demonstration and practical work teacher to guide students to install and configure the selected programming language tools"
+          ],
+          "assessment_criteria": "Mastering the environment of the selected program Can install and configure programming tools",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-19"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(d) Use programming tools of selected programming language to write a program (compile/run and debug a simple program)",
+          "suggested_methods": [
+            "Practical work: Through practical work teacher to guide student to use program tools of selected programming language to write a simple program"
+          ],
+          "assessment_criteria": "Mastering the of use programming tools of selected programming language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-20"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(e) Use variables, constants, and data types of a selected programming language in a program (operators and expressions)",
+          "suggested_methods": [
+            "Practical work: Through practical work teacher to guide students to use variables and data types of a selected programming language"
+          ],
+          "assessment_criteria": "Can use variable and data type in programming language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-21"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(f) Use syntax and constructs of the selected programming language to write programs branching",
+          "suggested_methods": [
+            "Practical work: Through practical work teacher to guide students to write a program employing branching"
+          ],
+          "assessment_criteria": "Can use syntax and various constructs to write programs",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-22"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming (using an appropriate structured programming language such as C, python, etc.)",
+          "learning_activity": "(g) Debugging computer programs",
+          "suggested_methods": [
+            "Demonstration: Guide students through demonstration to debug a program"
+          ],
+          "assessment_criteria": "Confidently debug the program",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-two-23"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+          "learning_activity": "(a) Describe the concept of data representation (digital data, number systems, data type, character coding (UNICODE and ASCII)",
+          "suggested_methods": [
+            "Question-and-answer",
+            "TIPS",
+            "small group discussion"
+          ],
+          "assessment_criteria": "Explicitly explain the concept of digital data representation",
+          "suggested_resources": [
+            "Hand outs",
+            "standard codes"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "comp-three-24"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+          "learning_activity": "(b) Represent numbers in different number systems (binary, octal, decimal, and hexadecimal)",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Confidently represent numbers in different number systems",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-25"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+          "learning_activity": "(c) Convert numbers from one system to another (binary, decimal, and hexadecimal)",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Competently convert numbers from one system to another",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-26"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.3 Demonstrate an understanding of the basic principles of computer architecture",
+          "learning_activity": "(d) Perform arithmetic operations (addition and subtraction) using binary numbers",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Capability to perform arithmetic operations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-27"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+          "learning_activity": "(a) Use the syntax and constructs of selected programming language to write program (using an appropriate structured programming language such as C, python, etc.) (iteration, functions, array, and string)",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Confidently use iteration and functions in a program",
+          "suggested_resources": [
+            "Computer installed with appropriate programming tools"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "comp-three-28"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+          "learning_activity": "(b) Use scope of variable in a program",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Confidently describe and use the concept of scope of variable",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-29"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+          "learning_activity": "(c) Text and Debug computer program that employs iteration, array, string, branching and functions",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Confidently debug computer program that employs iteration and functions branching and functions",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-30"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.2 Demonstrate an understanding of basic principles of computer programming",
+          "learning_activity": "(d) Appraise the utility of the developed program",
+          "suggested_methods": [
+            "Questions and answer"
+          ],
+          "assessment_criteria": "Clearly evaluate the efficacy of the developed application",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-31"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+          "learning_activity": "(a) Describe the concept of computer network) (meaning, mode, media, components, etc.)",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Can clarify the concept computer network",
+          "suggested_resources": [
+            "Computer with installed internet",
+            "network cables and network card"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "comp-three-32"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+          "learning_activity": "(b) Design a simple computer network involving a typical topology",
+          "suggested_methods": [
+            "Demonstration"
+          ],
+          "assessment_criteria": "Can design a simple computer network of a given topology",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-33"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.4 Demonstrate an understanding of the basics of computer networks",
+          "learning_activity": "(c) Create a computer network involving typical topology",
+          "suggested_methods": [
+            "Demonstration",
+            "Practical work"
+          ],
+          "assessment_criteria": "Confidently can use topology, data transmission mode and media to set computer network",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-34"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+          "learning_activity": "(a) Describe the concept of data and information",
+          "suggested_methods": [
+            "Brainstorming"
+          ],
+          "assessment_criteria": "Cleary describe the concepts of data and information",
+          "suggested_resources": [
+            "Computer installed with appropriate tools for managing data"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "comp-three-35"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+          "learning_activity": "(b) Manage simple data (create, store, retrieve, check data quality)",
+          "suggested_methods": [
+            "TIPS"
+          ],
+          "assessment_criteria": "Successfully manage simple data",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-36"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+          "learning_activity": "(c) Describe the concept of database and database management system",
+          "suggested_methods": [
+            "Brainstorming"
+          ],
+          "assessment_criteria": "Explicitly elaborate the concept of database and database management system",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-37"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+          "learning_activity": "(d) Design a database",
+          "suggested_methods": [
+            "Demonstration",
+            "Practical work"
+          ],
+          "assessment_criteria": "Clearly explain the concept of database",
+          "suggested_resources": [
+            "Computer installed with appropriate tools for database design"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-38"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.1 Demonstrate the mastery of basic principles of databases and database management systems",
+          "learning_activity": "(e) Create a database using selected software (e.g., MS – Access)",
+          "suggested_methods": [
+            "Practical work"
+          ],
+          "assessment_criteria": "Clearly identify steps of designing and developing a database and step by step create a database",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-three-39"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.4 Demonstrate mastery of systems administration",
+          "learning_activity": "(a) Maintain computer systems – desktop, laptop, tablets, mobile (create, delete/ disable user account, create, modify, and reset password, user support, peripherals)",
+          "suggested_methods": [
+            "TIPS: Through TIPS guide students to explain the roles of system administrator.",
+            "Practical work: Through practical work students to maintain a computer system"
+          ],
+          "assessment_criteria": "confidently maintain the computer system",
+          "suggested_resources": [
+            "Projector",
+            "Computer (desktop, laptop, tablets, mobile)",
+            "Internet connectivity"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "comp-four-40"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.4 Demonstrate mastery of systems administration",
+          "learning_activity": "(b) Apply troubleshooting tools and techniques",
+          "suggested_methods": [
+            "Demonstration: Through demonstration guide student to apply troubleshooting and maintenance tools"
+          ],
+          "assessment_criteria": "Clearly identify the roles of system administrator and responsibly troubleshoot a system",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-41"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the basic Concepts of Computer Science",
+          "specific_competence": "1.4 Demonstrate mastery of systems administration",
+          "learning_activity": "(c) Use selected OS to Perform system administration tasks",
+          "suggested_methods": [
+            "Demonstration: Through demonstration guide student to use selected OS to perform system administration duty"
+          ],
+          "assessment_criteria": "Responsibly administer and maintain a system",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-42"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.5 Demonstrate mastery of basic principles of web development (HTML, CSS, and JavaScript)",
+          "learning_activity": "(a) Describe the background of HTML and selected programming languages (CSS, JavaScript)",
+          "suggested_methods": [
+            "Brainstorming or TIPS: Guide student through brainstorming or TIPS to describe the background of HTML and selected programming languages"
+          ],
+          "assessment_criteria": "Clearly explain the background of HTML, CSS, and JavaScript",
+          "suggested_resources": [
+            "Computer installed with appropriate programming tools"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "comp-four-43"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.5 Demonstrate mastery of basic principles of web development (HTML, CSS, and JavaScript)",
+          "learning_activity": "(b) Install and configure the CSS and JavaScript interpreter (e.g., a web browser)",
+          "suggested_methods": [
+            "Demonstration: Guide student through demonstration to install and configure the CSS and JavaScript interpreter"
+          ],
+          "assessment_criteria": "Mastery the installation and configuration of CSS and JavaScript interpreter",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-44"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.5 Demonstrate mastery of basic principles of web development (HTML, CSS, and JavaScript)",
+          "learning_activity": "(c) Create webpages using HTML and CSS, JavaScript",
+          "suggested_methods": [
+            "Demonstration: Guide students through demonstration to create webpages using HTML, CSS, and JavaScript"
+          ],
+          "assessment_criteria": "Successfully create static webpage using HTML, CSS, and JavaScript",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-45"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.5 Demonstrate mastery of basic principles of web development (HTML, CSS, and JavaScript)",
+          "learning_activity": "(d) Publish website",
+          "suggested_methods": [
+            "Demonstration: Guide student through demonstration to publish a website"
+          ],
+          "assessment_criteria": "Successfully publish the website",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-46"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.5 Demonstrate mastery of basic principles of web development (HTML, CSS, and JavaScript)",
+          "learning_activity": "(e) Appraise the published website",
+          "suggested_methods": [
+            "Demonstration: Through questions and answer to guide student to appraise the published website"
+          ],
+          "assessment_criteria": "Can point out the use of developed website",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-47"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.6 Demonstrate mastery of basic principles of mobile App",
+          "learning_activity": "(a) Create mobile App using the syntax of the selected program",
+          "suggested_methods": [
+            "Demonstration: Guide student through demonstration to create mobile app using the syntax of the selected program"
+          ],
+          "assessment_criteria": "Can read, write, test, and modify JavaScript languages upon creating a mobile App",
+          "suggested_resources": [
+            "Computer installed with appropriate programming tools for mobole Apps"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "comp-four-48"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.6 Demonstrate mastery of basic principles of mobile App",
+          "learning_activity": "(b) Publish Mobile Apps",
+          "suggested_methods": [
+            "Demonstration: Guide students through demonstration to publish Mobile Apps"
+          ],
+          "assessment_criteria": "Can publish a mobile App",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-49"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the basic principles of Computer Science",
+          "specific_competence": "2.6 Demonstrate mastery of basic principles of mobile App",
+          "learning_activity": "(c) Appraise the efficacy of the published Mobile Apps",
+          "suggested_methods": [
+            "Questions and answer: Through questions and answer to guide students to appraise the efficacy of the published Mobile Apps"
+          ],
+          "assessment_criteria": "Can point out the use of developed mobile App",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-50"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
+          "learning_activity": "(a) Describe principles of data analysis (data collection, pre-processing, processing, visualization, interpretation)",
+          "suggested_methods": [
+            "Questions and answer: Through question and answer to guide students to describe principles of data analysis"
+          ],
+          "assessment_criteria": "Can point out the principles of data analysis",
+          "suggested_resources": [
+            "Computer installed with data analysis tools",
+            "projector"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "comp-four-51"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of the basic principles of data management",
+          "specific_competence": "3.2 Demonstrate the mastery of the basic principles of data analysis",
+          "learning_activity": "(b) Analysis simple data using selected tools (e.g., SPSS, Excel, etc.)",
+          "suggested_methods": [
+            "Practical work: Through practical work teacher to guide students to analysis simple data using selected tools"
+          ],
+          "assessment_criteria": "Successfully analysis simple data using selected tools",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-four-52"
+        }
+      ]
+    }
+  }
+}

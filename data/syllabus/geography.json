@@ -1,0 +1,294 @@
+{
+  "subject": "Geography",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727255849-GEOGRAPHY%20O-Level.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and Earth systems",
+          "learning_activity": "(a) Explain the concept and scope of Geography (branches, importance and relationship with other disciplines)",
+          "suggested_methods": [
+            "Brainstorming:\nIn manageable groups students brainstorm on the meaning, branches and importance of Geography, and relationship between Geography and other disciplines",
+            "Field Observation:\nGuide students to observe landforms, vegetations and human activities to support the concept of geography and summarise their importance in relationship to other disciplines"
+          ],
+          "assessment_criteria": "Basic concepts of Geography are clearly explained",
+          "suggested_resources": [
+            "Relevant books, charts, and ICT simulation tools on the concept of Geography"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "geog-one-1"
+        },
+        {
+          "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and Earth systems",
+          "learning_activity": "(b) Describe the Earth (origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians)",
+          "suggested_methods": [
+            "Brainstorming: \nGuide students to brainstorm and present about the origin, shape, size, position and movements of the earth in the solar system, and parallels and meridians",
+            "Field Observation:\nGuide students to observe the Earth’s surface and identify some of the components of the solar system",
+            "Project work:\nGroup students to design a model on the components of the solar system (size, shape, distance, position), and then present in class"
+          ],
+          "assessment_criteria": "The Earth is described correctly",
+          "suggested_resources": [
+            "Relevant books, globe, picture of solar system, relevant ICT simulation tools and models on the planet earth"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "geog-one-2"
+        },
+        {
+          "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.2   Demonstrate an understanding of the major features of the Earth surface",
+          "learning_activity": "(a) Describe major features of the Earth’s surface (continents, oceans, major relief features, large inland water bodies and vegetation zones)",
+          "suggested_methods": [
+            "Questions &Answers:\nGuide students to mention landforms available in their surroundings",
+            "Field observation:\nGuide students to visit the nearby landforms, vegetation and water bodies available in their communities to examine the formation, distribution and their importance to the communities",
+            "Group Discussion:\nGuide students to discuss the size and distribution of continents, then present in the class"
+          ],
+          "assessment_criteria": "The major features of the Earth are correctly described",
+          "suggested_resources": [
+            "Environment, relevant books, relief maps, globe/models, and relevant ICT simulation tools"
+          ],
+          "periods_for_specific_competence": 76,
+          "id": "geog-one-3"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "1.0  Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and earth systems",
+          "learning_activity": "(a)  Describe the internal structure of the Earth (crust, mantle, core) and their major characteristics (location, size/ thickness, density and gross composition)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the internal structure of the Earth",
+            "Group work: Assign students to design models and drawings to characterise the internal structure of the Earth"
+          ],
+          "assessment_criteria": "The internal structure of the Earth is correctly described",
+          "suggested_resources": [
+            "Relevant books",
+            "globe/models",
+            "environment",
+            "and flash with content on internal structure of the earth"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "geog-two-4"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1  Demonstrate an understanding of the origin and the structure of the Earth and earth systems",
+          "learning_activity": "(b)   Describe the main external Earth systems (Hydrosphere, Atmosphere and Biosphere)",
+          "suggested_methods": [
+            "Questions &Answers: Guide students to explain the main external earth systems",
+            "Field observation: Guide students to observe and discuss the hydrosphere, atmosphere and biosphere with cases from their communities",
+            "Independent library study: Organise students to to examine the main external earth systems"
+          ],
+          "assessment_criteria": "The external structure of the Earth is correctly described",
+          "suggested_resources": [
+            "Relevant books",
+            "globe/models",
+            "environment",
+            "and relevant ICT tools",
+            "flash with content on external structure of the earth (atmosphere, hydrosphere, biosphere and cryosphere)"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "geog-two-5"
+        },
+        {
+          "main_competence": "2.0   Demonstrate mastery of basic skills and techniques in Geography",
+          "specific_competence": "2.1  Demonstrate an understanding of the basic techniques of map and photograph interpretation",
+          "learning_activity": "(a)  Describe the basic principles of reading and interpreting maps (key, symbols, direction, margin/frame, map title, scale and contour patterns) (b) Reading and interpreting various type of maps and their importance (topographical and statistical map)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the basic principles of reading and interpreting maps",
+            "Group Discussion: Guide students to discuss basic principles of reading and interpreting maps",
+            "Case Study: Guide students to interpret and analyse various types of maps and their importance to the community"
+          ],
+          "assessment_criteria": "The basic principles of reading and interpretation of maps are clearly explained",
+          "suggested_resources": [
+            "Maps",
+            "relevant books",
+            "and relevant ICT simulation tools"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "geog-two-6"
+        },
+        {
+          "main_competence": "2.0   Demonstrate mastery of basic skills and techniques in Geography",
+          "specific_competence": "2.1  Demonstrate an understanding of the basic techniques of map and photograph interpretation",
+          "learning_activity": "(b) Describe the basic concept of photograph in Geography (meaning, types, elements and uses)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the meaning, types, elements and importance of photographs in Geography",
+            "Group Discussion: Guide students to discuss the basic uses of photographs in Geography",
+            "Guest Speaker: Invite resourceful persons (e.g., cartographer, photographer, camera man/woman) to share their experiences on uses of photographs"
+          ],
+          "assessment_criteria": "The concept of photograph and its contents are clearly explained",
+          "suggested_resources": [
+            "Relevant books and photographs (ground, vertical and oblique)",
+            "magazine/newspapers",
+            "camera",
+            "relevant ICT tools)"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "geog-two-7"
+        },
+        {
+          "main_competence": "2.0   Demonstrate mastery of basic skills and techniques in Geography",
+          "specific_competence": "2.1  Demonstrate an understanding of the basic techniques of map and photograph interpretation",
+          "learning_activity": "(c)  Describe the basic principles of photograph interpretation (identifying foreground, middle ground and background, associating objects with geographical phenomena)",
+          "suggested_methods": [
+            "Question & Answers: Guide students to discuss basic principles of photograph interpretation",
+            "Group Discussion: Guide students to identify different parts of photographs, interpret them and make association with geographical phenomena",
+            "Case Study: Guide students to use photographs to interpret different cases of geographical phenomena"
+          ],
+          "assessment_criteria": "The basic principles of interpretation of photography are clearly described",
+          "suggested_resources": [
+            "Relevant books on photographs",
+            "photographs (ground, vertical and oblique)",
+            "magazine/newspapers",
+            "and relevant ICT tools"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "geog-two-8"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+          "learning_activity": "(a) Describe the major climatic regions of the world (tropical, temperate, polar and sub-tropical)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on major world climatic regions",
+            "Group Discussion: Guide students to characterise the major world climatic regions",
+            "Field visit: Guide students to observe local climate characteristics and associate them with the world climatic regions",
+            "Graphical and Maps presentation: Guide students to draw graphs and maps to characterise major world climatic regions"
+          ],
+          "assessment_criteria": "The major climatic regions of the World are categorised or classified clearly",
+          "suggested_resources": [
+            "Map, graphs, photographs, globe, variety of living organisms, and online materials on the major climatic regions of the world."
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "geog-three-9"
+        },
+        {
+          "main_competence": "1.0   Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1 Demonstrate an understanding of the relationship between relief, climate and natural vegetation",
+          "learning_activity": "(b) Describe the relationship between major features of the Earth’s surface, climate, and natural vegetation",
+          "suggested_methods": [
+            "Question & Answers: Guide students to describe the relationship between major features of the Earth’s surface, climate and natural vegetation",
+            "Case study: Guide students to justify the relationship between major features of the Earth’s surface, climate and natural vegetation"
+          ],
+          "assessment_criteria": "The relationship between major features of the Earth’s surface, climate and natural vegetation are correctly described",
+          "suggested_resources": [
+            "Maps, photographs, globe and online materials on the relationship between major features of the earth’s surface, climate and natural vegetations"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "geog-three-10"
+        },
+        {
+          "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+          "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+          "learning_activity": "(a) Explore the basic tenets of surveying (meaning, types, equipment, methods, and importance)",
+          "suggested_methods": [
+            "Group Discussion: Guide students to explain the basic concepts of surveying",
+            "Brainstorming: Guide students to brainstorm on methods and importance of surveying",
+            "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences on surveying activities"
+          ],
+          "assessment_criteria": "The basic tenets of surveying are correctly explored",
+          "suggested_resources": [
+            "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "geog-three-11"
+        },
+        {
+          "main_competence": "2.0  Demonstrate mastery of basic skills and techniques in Geography",
+          "specific_competence": "2.1  Demonstrate an understanding of the basic techniques in land surveying",
+          "learning_activity": "(b) Carry out simple tape/chain surveying",
+          "suggested_methods": [
+            "Project work: Guide students to carry out simple surveying activities around the schools and their local communities",
+            "Guest speaker: Invite resourceful persons from surveying institutions/ companies to share experiences and conduct simple surveying activities",
+            "Group Discussion: Guide students to discuss and apply the findings from surveying on socio-economic and environmental activities"
+          ],
+          "assessment_criteria": "The simple tape/ chain surveying is correctly carried out",
+          "suggested_resources": [
+            "Relevant books on land surveying, tape measure/chain, Arrows, plumb bob, cross-staff ranging poles, pegs, notebook, pencil/pen, and relevant ICT tools"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "geog-three-12"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of human geography",
+          "specific_competence": "3.1 Carry out a project in Geography",
+          "learning_activity": "(a) Develop and carry out a simple research project in Geography",
+          "suggested_methods": [
+            "Project work: Guide students in groups to prepare a good research title for the project",
+            "Field work: Guide students to conduct a simple research project in the field on geographical research titles of their choice."
+          ],
+          "assessment_criteria": "The research title of each group is correctly prepared. A simple research project is effectively conducted in the field by each group",
+          "suggested_resources": [
+            "Environment, institutions, note books, pen, pencil, key informants, camera/smart-phones, and relevant ICT tools"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "geog-three-13"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of human geography",
+          "specific_competence": "1.1 Demonstrate an understanding of the relationship between geography, environmental health, human settlements and economic activities",
+          "learning_activity": "(a) Describe the geographical factors that influence the spatial distribution of population, human settlements and economic activities (climate, soil, relief, vegetation, transport and water supply)",
+          "suggested_methods": [
+            "Field observation: Guide students to observe and discuss on the types and characteristics of human settlements and settlement patterns from the surrounding communities",
+            "Brainstorming: Guide students to brainstorm the factors influencing population distribution and human settlements",
+            "Case studies: Guide students to apply different cases of human settlements and link them with geographical factors"
+          ],
+          "assessment_criteria": "The geographical factors that influence the spatial distribution of population, human settlements and economic activities are clearly described",
+          "suggested_resources": [
+            "Relevant books on human settlement, population distribution, National census reports, data from birth and death rate, and migration"
+          ],
+          "periods_for_specific_competence": 72,
+          "id": "geog-four-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of human geography",
+          "specific_competence": "1.1 Demonstrate an understanding of the relationship between geography, environmental health, human settlements and economic activities",
+          "learning_activity": "(b) Examine the impacts of population distribution on economic activities and the environment (land use and settlement patterns changes)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm about the impacts of population distribution on economic activities and the environment",
+            "Group Discussion: Guide students to discuss and present in class on the impacts of population distribution on sustainability of the environment",
+            "Field observation: Guide students to observe and summarise the relationship between population distribution and environmental change (land use change, change in settlement patterns etc)",
+            "Case studies: Guide students to apply different cases from local communities to show the relationship between population distribution and the environment"
+          ],
+          "assessment_criteria": "The impacts of population distribution on economic activities and the environment are clearly explained",
+          "suggested_resources": [
+            "Relevant books on human settlement, population, photographs on human settlement patterns environment"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "geog-four-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of human geography",
+          "specific_competence": "1.2 Carry out a project in Geography",
+          "learning_activity": "(a) Complete and submit a report of the project started in Form Three",
+          "suggested_methods": [
+            "Project work: Guide students to write a report for the project started in Form Three",
+            "Role Play Organise students to practice report presentations on geographical research",
+            "Group Presentation: Organise students to present and submit a report for assessment"
+          ],
+          "assessment_criteria": "The assessment of the project started in Form Three is completed and submitted on time",
+          "suggested_resources": [
+            "Relevant books on geographical research, research reports, and relevant ICT tools"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "geog-four-16"
+        }
+      ]
+    }
+  }
+}

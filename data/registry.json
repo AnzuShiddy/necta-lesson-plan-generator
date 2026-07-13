@@ -1,0 +1,23 @@
+{
+  "note": "The full subject list the app advertises. Status is derived at runtime: 'ready' if data/syllabus/<slug>.json exists, else 'pdf' if the PDF is downloaded (run scripts/ingest_syllabus.py), else 'pending' (needs the official TIE PDF URL).",
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "Geography",
+    "History",
+    "Kiswahili",
+    "English Language",
+    "Business Studies",
+    "Literature in English",
+    "Historia ya Tanzania na Maadili",
+    "Computer Science",
+    "Civics",
+    "French",
+    "Arabic",
+    "Chinese",
+    "Elimu ya Dini ya Kiislamu",
+    "Bible Knowledge"
+  ]
+}

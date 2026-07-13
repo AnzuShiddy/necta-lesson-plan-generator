@@ -1,0 +1,635 @@
+{
+  "subject": "Literature in English",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727256752-LITERATURE%20IN%20ENGLISH%20O-LEVEL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.1 Demonstrate empathy for other people’s experiences nationally and globally",
+          "learning_activity": "(a) Explain the concept of literature and its functions",
+          "suggested_methods": [
+            "Concept mapping: Guide students through explaining the concept of literature",
+            "Discussion: Guide students in manageable groups through discussing the functions of literature",
+            "Story telling: Guide students through narrating a story and writing down notes on what they perceive as possible literary qualities and functions of that story"
+          ],
+          "assessment_criteria": "The concept of literature and its functions are well explained",
+          "suggested_resources": [
+            "Selected literary texts, pictures and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "lite-three-1"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.1 Demonstrate empathy for other people’s experiences nationally and globally",
+          "learning_activity": "(b) Explain the concepts of oral and written literature",
+          "suggested_methods": [
+            "Project activity: Guide students through collecting literary materials found and shared in their community",
+            "Discussion: Guide students in manageable groups through discussing how the literary materials they have collected are stored and shared",
+            "Questions and answers: Guide students in manageable groups through discussing the meanings and characteristics of oral and written literature",
+            "Skills Lab: Guide students in manageable groups through classifying the collected oral and written literary materials in terms of their genres and sub-genres"
+          ],
+          "assessment_criteria": "The concepts of oral and written literature are clearly explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "lite-three-2"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.1 Demonstrate empathy for other people’s experiences nationally and globally",
+          "learning_activity": "(c) Relate people’s life experiences with folktales, songs, riddles, proverbs, fables and idioms from the Tanzanian context",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through identifying various people’s life experiences evident in their immediate surroundings",
+            "Project activity: Guide students through collecting folktales, songs, riddles, proverbs, fables and idioms found and shared in their community",
+            "Engaging with oral materials: Organise students in manageable groups to analyse people’s life experiences reflected in oral materials"
+          ],
+          "assessment_criteria": "People’s life experiences with folktales, songs, riddles, proverbs, fables and idioms from the Tanzanian contexts are well related",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 11,
+          "id": "lite-three-3"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.1 Demonstrate empathy for other people’s experiences nationally and globally",
+          "learning_activity": "(d) Reflect on the characters’ actions, attitudes and experiences in selected novels",
+          "suggested_methods": [
+            "Close reading: Guide students through studying characters’ personalities (gender, status, deeds, choices, appearance, feelings and judgement) in a selected novel",
+            "Discussion: Guide students through discussing characters’ actions, attitudes and experiences in a selected novel"
+          ],
+          "assessment_criteria": "Characters actions, attitudes and experiences in selected novels are well reflected on",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-4"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.2 Appreciate multiculturalism and develop self-consciousness",
+          "learning_activity": "(a) Explain the concepts of multiculturalism and self-consciousness in the context of literature",
+          "suggested_methods": [
+            "Role play: Guide students through role playing various personalities of interest to them",
+            "Simulation: Guide students through simulating various personalities of interest to them",
+            "Discussion: Guide students through discussing the concepts of multiculturalism and self-consciousness in the context of literature",
+            "Close reading: Guide students through identifying and discussing varying beliefs, values, symbols, customs, language and practices in a selected text"
+          ],
+          "assessment_criteria": "The concepts of multiculturalism and self-consciousness in the context of literature are well explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "lite-three-5"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.2 Appreciate multiculturalism and develop self-consciousness",
+          "learning_activity": "(b) Reflect on one’s cultural values against those depicted in selected novels",
+          "suggested_methods": [
+            "Brainstorming: Guide students in manageable groups through sharing information on beliefs, customs, values and taboos they associate with",
+            "Questions and answers: Guide students through discussing and reflecting on their cultural values against those depicted in a selected novel"
+          ],
+          "assessment_criteria": "One’s cultural values against those depicted in selected novels are well reflected on",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-6"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.2 Appreciate multiculturalism and develop self-consciousness",
+          "learning_activity": "(c) Assess the development of the protagonist and antagonist characters in selected novels",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing protagonist and antagonist characters’ personalities, backstories, goals, strengths and weaknesses",
+            "Jigsaw: Guide students through discussing their insights on characters’ development"
+          ],
+          "assessment_criteria": "The development of protagonist and antagonist characters in selected novels is clearly assessed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-7"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.3 Reflect values, perspectives and identities, and the impact of their beliefs and actions on society",
+          "learning_activity": "(a) Explain the concepts of values, perspectives and identities",
+          "suggested_methods": [
+            "Discussion: Guide students through discussing attitudes, thoughts, religious and cultural values familiar to them",
+            "Role play: Guide students through role playing the impact of their actions and beliefs in a society"
+          ],
+          "assessment_criteria": "Concepts of values, perspectives and identities are well explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 4,
+          "id": "lite-three-8"
+        },
+        {
+          "main_competence": "1.0 Develop awareness of and empathy with national and global literary works",
+          "specific_competence": "1.3 Reflect values, perspectives and identities, and the impact of their beliefs and actions on society",
+          "learning_activity": "(b) Reflect on the characters’ perspectives, and values against one’s own",
+          "suggested_methods": [
+            "Engagement with a text: Guide students individually through identifying the main and minor characters’ perspectives and values",
+            "Discussion: Guide students in manageable groups through discussing characters’ perspectives and values and relate them with their own"
+          ],
+          "assessment_criteria": "The characters’ perspectives, and values against one’s own are clearly reflected on",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-9"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.1 Appreciate the use of literary devices in the works of art",
+          "learning_activity": "(a) Analyse narrative techniques and stylistic devices in selected literary texts",
+          "suggested_methods": [
+            "Brainstorming: Guide students in manageable groups through brainstorming about what makes the literary works they know interesting.",
+            "Close reading: Guide students through analysing the narrative techniques and stylistic devices used in a selected literary text",
+            "Jigsaw: Guide students through discussing the narrative techniques and stylistic devices used in a selected literary text"
+          ],
+          "assessment_criteria": "Narrative techniques and stylistic devices in selected literary texts are clearly analysed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "lite-three-10"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.1 Appreciate the use of literary devices in the works of art",
+          "learning_activity": "(b) Explain the significance of narrative techniques and stylistic devices in selected novels",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing the significance of narrative techniques and stylistic devices in a selected novel"
+          ],
+          "assessment_criteria": "Significance of narrative techniques and stylistic devices in selected novels are well explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-11"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.1 Appreciate the use of literary devices in the works of art",
+          "learning_activity": "(c) Discuss literary devices which evoke emotions in selected novels",
+          "suggested_methods": [
+            "Concept mapping: Guide students through explaining the concept of literary devices",
+            "Engagement with texts: Guide students through discussing literary devices which evoke emotions in a selected novel"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-12"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.2 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(a) Discuss the roles of observation, analysis, inference, communication and problem-solving in literature",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming various methods of problem-solving",
+            "Discussion: Guide students in manageable groups through discussing the roles of observation, analysis, inference, communication and problem-solving in literature",
+            "Engagement with texts: Guide students through suggesting solutions to problems depicted in a selected text"
+          ],
+          "assessment_criteria": "Roles of observation, analysis, inference, communication and problem-solving in literature are well discussed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "lite-three-13"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.2 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(b) Assess the relationship among characters in selected novels",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming how people are variously related in the community",
+            "Close reading: Guide students through assessing the characters’ relationship in a selected text"
+          ],
+          "assessment_criteria": "The relationship among characters in selected novels is well assessed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-14"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.2 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(c) Discuss the lessons derived from the choices and decisions of characters in selected novels",
+          "suggested_methods": [
+            "Think-Ink-Share: Guide students through sharing various lessons they have learned following their decisions and choices made in various life contexts",
+            "Engagement with a text: Guide students through discussing characters’ choices and decisions",
+            "Discussion: Guide students in manageable groups through discussing possible lessons resulting from characters’ actions and decisions"
+          ],
+          "assessment_criteria": "Lessons derived from the choices and decisions of characters in selected novels are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-15"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.2 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(d) Identify major themes in the selected novels",
+          "suggested_methods": [
+            "Scaffold reading: Guide students through four reading stages (setting the scene, assigning tasks, asking questions and giving feedback) to grasp details such as how the story starts and ends, major and minor events, and their likes and dislikes about the story"
+          ],
+          "assessment_criteria": "Major issues in the selected novels are correctly identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-16"
+        },
+        {
+          "main_competence": "2.0 Appreciate different implications and layers of meaning in literary works",
+          "specific_competence": "2.2 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(e) Analyse themes such as corruption and bribery in selected novels",
+          "suggested_methods": [
+            "Thematic triad: Guide students through identifying thematic ideas found in a selected novel and evaluate them to get themes",
+            "Discussion: Guide students in manageable groups through discussing themes conveyed in a selected text"
+          ],
+          "assessment_criteria": "Themes such as corruption and bribery in selected novels are correctly analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-17"
+        },
+        {
+          "main_competence": "1.3 Justify interpretations based on evidence and logic",
+          "specific_competence": "1.3 Justify interpretations based on evidence and logic",
+          "learning_activity": "(a) Justify the actions and context of characters in relation to themes in selected novels",
+          "suggested_methods": [
+            "Brainstorming: Guide student through brainstorming how issues in their society are related to people’s actions and context",
+            "Close reading: Guide students through studying characters’ actions, language and context in a selected novel",
+            "Discussion: Guide students through discussing how the setting, circumstances, language and characters’ actions, contribute to the development of themes"
+          ],
+          "assessment_criteria": "The actions and context of characters in relation to themes in selected novels are correctly justified",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "lite-three-18"
+        },
+        {
+          "main_competence": "1.3 Justify interpretations based on evidence and logic",
+          "specific_competence": "1.3 Justify interpretations based on evidence and logic",
+          "learning_activity": "(b) Discuss the relationship between the title and messages in selected novels",
+          "suggested_methods": [
+            "Project activity: Engage students in manageable groups to collect several stories and news titles and identify which and why some titles grab attention, predict content and establish tone of the story",
+            "Follow-up on project activity: Guide students through reflecting on the mind-set and skills they used to study the titles they collected to identify the relationship between titles of selected novels and messages they are likely to convey"
+          ],
+          "assessment_criteria": "The relationship between the title and messages in selected novels is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-19"
+        },
+        {
+          "main_competence": "1.3 Justify interpretations based on evidence and logic",
+          "specific_competence": "1.3 Justify interpretations based on evidence and logic",
+          "learning_activity": "(c) Discuss the relevance of the novel to one’s society",
+          "suggested_methods": [
+            "Brainstorming: Guide students in manageable groups through brainstorming several socio-political and economic issues in their community",
+            "Discussion: Guide students through discussing and relating issues they have identified to those depicted in a selected novel"
+          ],
+          "assessment_criteria": "The relevance of the content to one’s society is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-20"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(a) Discuss forms of poetry and figurative language",
+          "suggested_methods": [
+            "Engagement with texts: Guide students in manageable groups through identifying sound patterns, verse and stanza’s structures, style and language of several types of poems (haiku, ballad, sonnet and lyrics)",
+            "Discussion: Engage students through discussing forms of poetry and mwanipulation of language",
+            "Resource person: Invite a guest speaker to present the forms of poetry and figurative language"
+          ],
+          "assessment_criteria": "Forms of poetry and figurative language are well discussed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "lite-three-21"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(b) Analyse themes portrayed in selected poems",
+          "suggested_methods": [
+            "Recitation: Guide students through reciting selected poems in class and identifying themes portrayed",
+            "Discussion: Guide students in manageable groups through discussing themes portrayed in selected poems"
+          ],
+          "assessment_criteria": "Themes portrayed in selected poems are well analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-22"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(c) Discuss lessons derived from selected poems",
+          "suggested_methods": [
+            "Jig saw: Guide students in manageable groups through studying repetitions and persona’s actions and speeches focusing on how they suggest varying lessons",
+            "Discussion: Guide students in manageable groups through discussing lessons derived from selected poems"
+          ],
+          "assessment_criteria": "Lessons derived from selected poems are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-23"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(d) Apply literary skills to compose a poem",
+          "suggested_methods": [
+            "Project activity: Guide students in manageable groups through thinking about a topic, and form, writing the first line, developing ideas and devices, writing the closing line and editing the poem",
+            "Shared composition: Collaborate with students to compose a poem",
+            "Collaborative composition: Guide students in pairs or groups through composing a poem",
+            "Independent composition: Guide students through composing a poem on a topic of their choice"
+          ],
+          "assessment_criteria": "Literary skills for composing a poem are correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-24"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(a) Explain the concepts of antithesis, anticlimax, paradox, irony, unreliable narrator and suspense in literary works",
+          "suggested_methods": [
+            "Story telling: Guide students through telling stories and identifying exciting, apprehensive and uncertain conditions, disappointing ends, self-contradicting statements, and deliberate misleads",
+            "Discussion: Guide students through discussing antithesis, anticlimax, paradox, irony, unreliable narrator and suspense in literary works",
+            "Explanation: Guide students in manageable groups through applying the acquired knowledge to explain antithesis, anticlimax, paradox, irony, unreliable narrator and suspense"
+          ],
+          "assessment_criteria": "The concepts of antithesis, anticlimax, paradox, irony, unreliable narrator and suspense are well explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "lite-three-25"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(b) Discuss the relationship between the title and the content of selected plays",
+          "suggested_methods": [
+            "Think-Ink-Share: Guide students through sharing the relationship between people’s physical appearance and behaviour",
+            "Close reading: Guide students in manageable groups through relating the title and the central idea of selected plays",
+            "Discussion: Guide students through discussion how the tittle relates to the content of selected plays"
+          ],
+          "assessment_criteria": "The relationship between the title and content of selected plays is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-26"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(c) Discuss the effect of ironical titles in selected plays",
+          "suggested_methods": [
+            "Think-ink-share: Guide students through sharing statements/scenarios/events reflecting something said but means the opposite; the opposite of what is expected happens; and the audience knows something that characters do not",
+            "Knowledge-based approach: Guide students through using gained knowledge from the previous activity to discuss the effectiveness of ironical titles of selected plays",
+            "Discussion: Guide students through discussing how the title relates to the content of the selected plays"
+          ],
+          "assessment_criteria": "The effect of ironical titles in selected plays are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-27"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.3 Create imaginative and original literary works",
+          "learning_activity": "(a) Explain the concepts of creativity and visualization in literary composition",
+          "suggested_methods": [
+            "Discussion: Guide students through discussing features of newspapers, fictional and non-fictional works",
+            "Knowledge-based approach: Guide students through applying the knowledge gained from the discussion to explain the concepts of creativity and visualisation/imagination"
+          ],
+          "assessment_criteria": "The concepts of creativity and visualization in literary composition are correctly explained",
+          "suggested_resources": [
+            "Selected literary texts, ICT tools and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "lite-three-28"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.3 Create imaginative and original literary works",
+          "learning_activity": "(b) Make a plan for composing a poem (decide what to write about, determine the best format, explore words, rhymes, and rhythm)",
+          "suggested_methods": [
+            "Project activity: Task students to research about several issues within their immediate surroundings and compose a poem about them",
+            "Shared planning: Collaborate with students to make a plan (outline, select words, write, edit, revise and organise the idea into a full poem) for composing a poem"
+          ],
+          "assessment_criteria": "A plan for composing a poem is clearly made",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-29"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.3 Create imaginative and original literary works",
+          "learning_activity": "(c) Apply writing skills to compose a poem",
+          "suggested_methods": [
+            "Independent composition: Guide each individual student through composing a poem on a topic of their choice"
+          ],
+          "assessment_criteria": "Writing skills for composing a poem are correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-30"
+        },
+        {
+          "main_competence": "3.0 Compose literary works",
+          "specific_competence": "3.3 Create imaginative and original literary works",
+          "learning_activity": "(d) Apply ICT tools and digital platforms in writing and publishing a poem",
+          "suggested_methods": [
+            "Skills lab: Task students to use ICT tools and writing skills to compose poems",
+            "Publishing: Guide students through publishing their poems on available digital platforms"
+          ],
+          "assessment_criteria": "ICT tools and digital platforms are appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-three-31"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+          "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(a)  Analyse themes depicted in selected plays",
+          "suggested_methods": [
+            "Engagement with a text: Guide students in manageable groups through reading, analysing and discussing the depicted themes in a selected play",
+            "Discussion: Guide students in manageable groups through discussing themes depicted in selected plays"
+          ],
+          "assessment_criteria": "Themes  depicted in selected plays are well analysed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "lite-four-32"
+        },
+        {
+          "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+          "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(b)  Analyse conflicts portrayed in selected plays",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing characters relationships, tensions and misunderstandings in selected plays"
+          ],
+          "assessment_criteria": "Conflicts portrayed in selected plays are well analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 32,
+          "id": "lite-four-33"
+        },
+        {
+          "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+          "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(c)  Relate personal experiences to themes in selected plays",
+          "suggested_methods": [
+            "Brainstorming: Guide students in manageable groups through brainstorming personal life experiences",
+            "Discussion: Guide students through relating personal life experiences to themes portrayed in selected plays"
+          ],
+          "assessment_criteria": "Personal experiences are well related to themes in selected plays",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-34"
+        },
+        {
+          "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+          "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(d)  Discuss the  motivations of characters’ choices and decisions in selected plays",
+          "suggested_methods": [
+            "Engagement with a text: Guide students in manageable groups through discussing intrinsic and extrinsic reasons for character’s behaviors, choices and decisions in selected plays"
+          ],
+          "assessment_criteria": "Motivations of characters’ choices and decisions in selected plays are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "lite-four-35"
+        },
+        {
+          "main_competence": "1.0  Appreciate   different implications and layers of meaning in literary works",
+          "specific_competence": "1.1 Apply critical thinking when reading, discussing and writing about literary texts",
+          "learning_activity": "(e)  Suggest solutions to challenges depicted in selected plays",
+          "suggested_methods": [
+            "Dramatisation: Guide students through staging some scenes portraying challenges in a selected play",
+            "Discussion: Guide students through discussing and suggesting solutions to the depicted challenges by applying principles of resolution (affiliate, empathize, engage, own, self-restrain and build trust)"
+          ],
+          "assessment_criteria": "Solutions to challenges depicted in selected plays are clearly suggested",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-36"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(a)  Explain the concepts of character, plot, setting, stage direction and spectacle in a play",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing the concepts of character, plot, setting, stage direction and spectacle"
+          ],
+          "assessment_criteria": "The concepts of character, plot, setting, stage direction and spectacle are well explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "lite-four-37"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(b)  Analyse stages of plot development",
+          "suggested_methods": [
+            "Project activity: Task students to analyse stages of plot development a play of their choice (exposition, rising action, climax, falling action and resolution)",
+            "Exploration: Guide students in manageable groups through exploring stages of plot development"
+          ],
+          "assessment_criteria": "Stages of plot development are correctly analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-38"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.1 Synthesize literary characteristics, themes, and/or approaches in several literary texts",
+          "learning_activity": "(c)  Apply literary skills to compose a two-acts play",
+          "suggested_methods": [
+            "Collaborative composition: Guide students in pairs or groups through composing a play"
+          ],
+          "assessment_criteria": "Literary skills for composing a two-acts play are correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-39"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(a)  Discuss dramatic and situational irony in selected plays",
+          "suggested_methods": [
+            "Engagement with texts: Guide students through analysing congruities between what happens and what is expected; what is known to audience and what is known to characters",
+            "Discussion: Guide students through discussing dramatic and situational irony in selected plays",
+            "Explanation: Guide students through explaining the concepts of dramatic and situational ironies"
+          ],
+          "assessment_criteria": "Dramatic and situational irony in selected plays are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 15,
+          "id": "lite-four-40"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(b)  Discuss the effectiveness of suspense in selected plays",
+          "suggested_methods": [
+            "Engagement with texts: Guide students in manageable groups through analysing how conflict, pacing, red herrings, atmosphere and high stakes are used in selected plays",
+            "Discussion: Guide students in manageable groups through discussing how suspense controls the story line in selected plays"
+          ],
+          "assessment_criteria": "The effectiveness of suspense in selected plays is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-41"
+        },
+        {
+          "main_competence": "2.0 Compose literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(c)  Explain how antithesis creates ambiguity in selected plays",
+          "suggested_methods": [
+            "Engagement with texts: Guide students through identifying exciting, apprehensive and uncertain conditions; disappointing ends; self-contradicting statements; and deliberate misleads in selected plays",
+            "Discussion: Guide students through discussing how antithesis creates ambiguity in selected plays"
+          ],
+          "assessment_criteria": "Creation of ambiguity through antithesis in selected plays is well explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-42"
+        },
+        {
+          "main_competence": "1.3    Create imaginative and original literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(a) Make a plan for composing a play (plot, setting, characterisation and stage direction)",
+          "suggested_methods": [
+            "Shared planning: Collaborate with students to make a plan for composing a play",
+            "Collaborative planning: Guide students in pairs or manageable groups through making a plan for composing a play"
+          ],
+          "assessment_criteria": "A plan for composing a play is correctly made",
+          "suggested_resources": [
+            "Selected literary texts, ICT tools and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "lite-four-43"
+        },
+        {
+          "main_competence": "1.3    Create imaginative and original literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(b)  Apply literary skills to compose a two-acts play",
+          "suggested_methods": [
+            "Independent composition: Guide individual students through composing a two-acts play"
+          ],
+          "assessment_criteria": "Literary skills for composing a two-acts play are correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-44"
+        },
+        {
+          "main_competence": "1.3    Create imaginative and original literary works",
+          "specific_competence": "2.2 Recognise ambiguity and uncertainty as necessary in creating literary works",
+          "learning_activity": "(c)  Apply ICT tools and digital platforms in writing and publishing a play",
+          "suggested_methods": [
+            "Skills lab: Guide students through composing a play using ICT tools",
+            "Publishing: Guide students independently or in manageable groups through publishing their plays on available digital platforms"
+          ],
+          "assessment_criteria": "ICT tools and digital platforms are appropriately applied in writing and publishing a play",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-four-45"
+        }
+      ]
+    }
+  }
+}

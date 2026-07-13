@@ -1,0 +1,25 @@
+{
+  "note": "Official TIE 2023 Ordinary Secondary Education syllabus PDFs. uploads/documents/sw-* = 2023 revised edition (used). uploads/files/* = older 2018/2019 edition (NOT used).",
+  "subjects": {
+    "Biology": "https://www.tie.go.tz/uploads/documents/sw-1727192422-BIOLOGY%20SYLLABUS%20ORDINARY%20SECONDARY%20FINAL%20.pdf",
+    "Chemistry": "https://www.tie.go.tz/uploads/documents/sw-1727192894-CHEMISTRY%20O'LEVEL%20EDUCATION%20FINAL.pdf",
+    "Physics": "https://www.tie.go.tz/uploads/documents/sw-1727257838-PHYSICS%20FOR%20ORDINARY%20SECONDARY%20EDUCATION%20FINAL.pdf",
+    "Mathematics": "https://www.tie.go.tz/uploads/documents/sw-1727256902-MATHEMATICS%20SYLLABUS%20-%20O%20level%20final.pdf",
+    "Geography": "https://www.tie.go.tz/uploads/documents/sw-1727255849-GEOGRAPHY%20O-Level.pdf",
+    "History": "https://www.tie.go.tz/uploads/documents/sw-1727255952-HISTORY%20FOR%20FORM%20I-IV.pdf",
+    "Computer Science": "https://www.tie.go.tz/uploads/documents/sw-1727193276-COMPUTER%20SCIENCE%20SYLABUS%20I%20TO%20IV%20(12_07_2023).pdf",
+    "Kiswahili": "https://www.tie.go.tz/uploads/documents/sw-1741937359-MUHTASARI%20WA%20KISWAHILI%20KIDATO%20%20I-IV%20FINAL.pdf",
+    "English Language": "https://www.tie.go.tz/uploads/documents/sw-1756459411-ENGLISH%20lANGUAGE%20FINAL.pdf",
+    "Literature in English": "https://www.tie.go.tz/uploads/documents/sw-1727256752-LITERATURE%20IN%20ENGLISH%20O-LEVEL%20FINAL.pdf",
+    "Business Studies": "https://www.tie.go.tz/uploads/documents/sw-1727192697-BUSINESS%20STUDIES%20SYLLABUS%20FOR%20ORDINARY%20LEVEL%20SECONDARY%20EDUCATION.pdf",
+    "Bible Knowledge": "https://www.tie.go.tz/uploads/documents/sw-1727192234-BIBLE%20KNOWLEDGE%20COMMISSIONER%20FINAL.pdf",
+    "Elimu ya Dini ya Kiislamu": "https://www.tie.go.tz/uploads/documents/sw-1727257430-MUHTASARI%20WA%20ELIMU%20YA%20DINI%20YA%20KIISLAM%20KWA%20SHULE%20ZA%20SEKONDARI%20KIDATO%20CHA%20I%20-%20IV.pdf",
+    "Historia ya Tanzania na Maadili": "https://www.tie.go.tz/uploads/documents/sw-1727257138-Muhtasari%20Historia%20ya%20Tanzania%20&%20Maadili%20I%20-%20IV.pdf"
+  },
+  "unavailable": {
+    "Arabic": "TIE lists sw-1727256074 (KIARABU ... FINAL SYLLABUS) on its publications page, but the link returns HTTP 404 (broken on TIE's server). Retry later or source from ol.tie.go.tz.",
+    "Civics": "No standalone 2023 Ordinary Secondary Civics syllabus was published. In the 2023 revised curriculum, Civics content was folded into 'Historia ya Tanzania na Maadili' (taught in Kiswahili), which is included above.",
+    "French": "No 2023 sw-* Ordinary Secondary syllabus located. Not published as a document on tie.go.tz at time of search.",
+    "Chinese": "No 2023 sw-* Ordinary Secondary syllabus located. Only an older uploads/files edition ('SYLLABUS FOR CHINESSE LANGUAGE (O'LEVEL)') existed previously; the 2023 revised version is not yet posted."
+  }
+}

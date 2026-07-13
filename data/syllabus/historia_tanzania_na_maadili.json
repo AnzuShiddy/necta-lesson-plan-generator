@@ -1,0 +1,983 @@
+{
+  "subject": "Historia ya Tanzania na Maadili",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727257138-Muhtasari%20Historia%20ya%20Tanzania%20&%20Maadili%20I%20-%20IV.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
+          "learning_activity": "(a) Kueleza asili ya jamii za Kitanzania (Wabantu, Wanilo, Wakushito, Wakichembe)",
+          "suggested_methods": [
+            "Bunguabongo: Ongoza wanafunzi kubungua bongo ili kubainisha jamii mbalimbali za Kitanzania",
+            "Kualika mtaalamu: Ongoza mtaalamu kutoa maelezo kwa wanafunzi juu ya asili za jamii mbalimbali za Kitanzania.",
+            "Majadiliano: Ongoza wanafunzi kwenye vikundi vidogovidogo kujadili na kuandika muhtasari wa maelezo yaliyotolewa na mtaalamu na kuwasilisha darasani."
+          ],
+          "assessment_criteria": "Asili ya jamii za Kitanzania zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini zenye kuonesha asili ya jamii za Kitanzania",
+            "Ramani kuonesha mtawanyiko wa jamii za asili",
+            "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "hist-one-1"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
+          "learning_activity": "(b) Kubaini shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania",
+          "suggested_methods": [
+            "Fikiri-andika-jozisha-shirikisha: Ongoza wanafunzi kufikiri, kuandika, kukaa katika jozi na kujadili shughuli walizoandika, kisha wajadili katika vikundi ili kuorodhesha shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania.",
+            "Majadiliano: Ongoza majadiliano ya darasa kujadili shughuli mbalimbali za makundi ya asili ya jamii za Kitanzania."
+          ],
+          "assessment_criteria": "Shughuli za makundi ya asili ya jamii za Kitanzania zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-2"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.1 Kuelezea chimbuko la jamii za Kitanzania na maadili yake",
+          "learning_activity": "(c) Kueleza maadili ya jamii za asili ya Kitanzania",
+          "suggested_methods": [
+            "Bunguabongo: Ongoza wanafunzi kujibu maswali kuhusu maadili ya jamii mbalimbali za asili.",
+            "Kisa mafunzo: Ongoza wanafunzi kusoma visamafunzo katika vikundi vyao kwa kutumia maswali yaliyotolewa ili kufanya uchambuzi wa kina.",
+            "Majadiliano: Ongoza majadiliano darasani kwa wanafunzi kuwasilisha walichojadili katika vikundi vyao kuhusu maadili ya jamii za asili za Kitanzania."
+          ],
+          "assessment_criteria": "Maadili ya jamii za asili ya Kitanzania yameelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 12,
+          "id": "hist-one-3"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.2 Kumudu maarifa na ujuzi wa maadili na urithi wa jamii za Kitanzania",
+          "learning_activity": "(a) Kuchambua maadili na urithi wa jamii za Kitanzania",
+          "suggested_methods": [
+            "Changanyakete: Gawa visamafunzo mbalimbali kuhusu maadili na urithi wa jamii za Kitanzania kwenye makundi.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuandika muhtasari wa walichojifunza."
+          ],
+          "assessment_criteria": "Maadili na urithi wa jamii za Kitanzania yamecha-mbuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Ramani kuonesha maeneo yenye urithi wa Tanzania",
+            "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-one-4"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.2 Kumudu maarifa na ujuzi wa maadili na urithi wa jamii za Kitanzania",
+          "learning_activity": "(b) Kueleza matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi katika vikundi vidogovidogo, kujadili matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania."
+          ],
+          "assessment_criteria": "Matendo ya msingi yanayokuza na kulinda maadili na urithi wa jamii za Kitanzania yameelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-5"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+          "learning_activity": "(a) Kubaini fursa mbalimbali zilizopo kwenye urithi wa jamii za Kitanzania",
+          "suggested_methods": [
+            "Utafiti mdogo: Ongoza wanafunzi katika vikundi vyao watembelee na kubaini fursa anuai zilizopo katika maeneo wanamoishi zenye urithi wa jamii za Kitanzanai.",
+            "Matembezi ya galari: Ongoza wanafunzi kuziorodhesha, kubandika kwenye kuta za darasa, kufanya matembezi na kuuliza maswali katika vikundi mbalimbali."
+          ],
+          "assessment_criteria": "Fursa mbalimbali zilizopo kwenye urithi wa jamii za Kitanzania zimebainishwa",
+          "suggested_resources": [
+            "Matini kuhusu fursa kwenye urithi wa jamii za Kitanzania",
+            "Ramani kuonesha maeneo yenye urithi wa Tanzania",
+            "Vitu halisi vilivyotumiwa na watu wa jamii za asili"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-one-6"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+          "learning_activity": "(b) Kueleza namna fursa zilizopo kwenye urithi wa jamii za Kitanzania zinavyoweza kutumika kukuza uchumi binafsi na jamii",
+          "suggested_methods": [
+            "Kisamafunzo: Ongoza wanafunzi kujadili kisamafunzo na kutoa maoni yao kuhusu fursa za urithi na manufaa yake katika jamii za Kitanzania.",
+            "Mtaalamu mwalikwa: Ongoza wanafunzi kumsikiliza na kuuliza maswali mtaalamu kuhusu namna ya kutumia fursa za urithi katika kukuza uchumi binafsi na jamii."
+          ],
+          "assessment_criteria": "Fursa zilizopo kwenye urithi wa jamii za Kitanzania zinavyoweza kutumika kukuza uchumi binafsi na jamii zimeelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-7"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.3 Kutumia maarifa na ujuzi wa historia na urithi kubuni fursa mbalimbali zilizopo katika jamii za Kitanzania",
+          "learning_activity": "(c) Kueleza njia mbalimbali za kutunza urithi wa jamii za Kitanzania",
+          "suggested_methods": [
+            "Fikiri -andika-jozisha -shirikisha: Ongoza wanafunzi kufikiri, kuandika, kujozisha na kushirikishana katika vikundi kuelezea njia mbalimbali za kutunza urithi wa jamii inayowazunguka.",
+            "Majadiliano: Ongoza wanafunzi kufanya majadiliano katika darasa kuelezea njia mbalimbali za kutunza urithi wa jamii za Kitanzania."
+          ],
+          "assessment_criteria": "Njia mbalimbali za kutunza urithi wa jamii za Kitanzania zimeelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-8"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
+          "learning_activity": "(a) Kuainisha shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa",
+          "suggested_methods": [
+            "Utafiti mdogo: Ongoza wanafunzi kutembelea maeneo mbalimbali yenye shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa.",
+            "Matembezi ya galari: Ongoza wanafunzi kwenye vikundi vidogovidogo kijadili, kisha waelekeze wabandike matokeo ya utafiti wao na kurekebisha pale palipokuwa na upungufu."
+          ],
+          "assessment_criteria": "Shughuli mbalimbali za kujenga ushirikiano na kukuza uchumi wa Taifa zimeanishwa",
+          "suggested_resources": [
+            "Matini kuhusu fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
+            "Picha kuonesha shughuli mbalimbali",
+            "Ramani kuonesha maeneo yenye fursa mbalimbali"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "hist-one-9"
+        },
+        {
+          "main_competence": "1. Kulinda historia ya Tanzania, urithi na maadili ya Taifa",
+          "specific_competence": "1.4 Kubaini fursa mbalimbali za kujenga ushirikiano na kukuza uchumi wa kitaifa",
+          "learning_activity": "(b) Kufafanua namna shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa",
+          "suggested_methods": [
+            "Mtaalamu mwalikwa: Ongoza mtaalamu kufafanua shughuli mbalimbali zinavyochangia ushirikiano na uchumi wa Taifa.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi vidogovidogo kujadili kisha kuwasilisha kwenye darasa kwa majadiliano."
+          ],
+          "assessment_criteria": "Shughuli mbalimbali zinavyochangia kujenga ushirikiano na kukuza uchumi wa Taifa zimefafanuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-10"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.1 Kuchambua mifumo ya kijamii (elimu, afya, utamaduni) iliyokuza na kuendeleza maadili ya jamii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(a) Kubaini mifumo ya kijamii ya Tanzania kabla ya ukoloni",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika sehemu mbalimbali kama maktaba na Intaneti na kuandika kwa ufupi kuhusu mifumo ya kijamii za Tanzania kabla ya ukoloni.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha darasani kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Mifumo ya kijamii za Tanzania kabla ya ukoloni imebainishwa",
+          "suggested_resources": [
+            "Picha kuonesha miundombinu ya elimu, afya na utamaduni kabla ya ukoloni",
+            "Ramani kuonesha mtawanyiko wa miundombinu elimu, afya na utamaduni kabla ya ukoloni",
+            "Vitu halisi vilivyotumika kabla ya ukoloni"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-one-11"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.1 Kuchambua mifumo ya kijamii (elimu, afya, utamaduni) iliyokuza na kuendeleza maadili ya jamii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(b) Kueleza mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni",
+          "suggested_methods": [
+            "Mtaalamu mwalikwa: Ongoza wanafunzi kusikiliza na kuuliza maswali mtaalamu mwalikwa kuhusu jinsi mifumo ya jamii za Tanzania ilivyokuza maadili kabla ya ukoloni.",
+            "Majadiliano: Ongoza wanafunzi kujadili katika vikundi jinsi mifumo ya kijamii ya Kitanzania ilivyokuza maadili kabla ya ukoloni kisha kuwasilisha darasani kwa majadiliano zaidi."
+          ],
+          "assessment_criteria": "Mifumo ya kijamii ya Tanzania ilivyokuza maadili kabla ya ukoloni imeelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-12"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(a) Kubaini mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika vyanzo mbalimbali na kuandika maelezo kuhusu mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kisha kuwasilisha darasani kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Mifumo ya kiuchumi na kisiasa katika jamii za Kitanzania kabla ya ukoloni imebainishwa",
+          "suggested_resources": [
+            "Matini kuhusu mifumo ya kiuchumi na kisiasa kabla ya ukoloni",
+            "Ramani kuonesha maeneo mbalimbali ya jamii za asili za Kitanzania"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "hist-one-13"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(b) Kueleza jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni.",
+            "Majadiliano: Ongoza majadiliano ya vikundi kuhusu jinsi mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni"
+          ],
+          "assessment_criteria": "Mifumo ya kisiasa na kiuchumi ilivyokuza na kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni imeelezwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-14"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(c) Kufafanua uhusiano kati ya jamiii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni",
+          "suggested_methods": [
+            "Changanyakete: Ongoza wanafunzi katika vikundi kusoma matini kuhusu uhusiano wa jamii mmoja ya Kitanzania na jamii za Mashariki ya Kati au Mashariki ya Mbali au Ulaya.",
+            "Elekeza kila kikundi kutoa mwakilishi mmoja kwenda kikundi kingine kufundisha walichojifunza katika kundi lao."
+          ],
+          "assessment_criteria": "Uhusiano kati ya jamii za Kitanzania na za Mashariki ya Kati, Mashariki ya Mbali na Ulaya katika kuendeleza shughuli za kiuchumi na kisiasa kabla ya ukoloni umefafanuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-15"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.2 Kuchambua mifumo iliyokuza na kuendeleza uchumi na siasa katika jamiii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(d) Kutathmini mchango wa mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni",
+          "suggested_methods": [
+            "Kisamafunzo: Elekeza wanafunzi katika vikundi kusoma na kuchambua faida na hasara za mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni.",
+            "Majadiliano: Ongoza vikundi kuwasilisha darasani kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Mchango wa mifumo ya kisiasa na kiuchumi katika kukuza maadili ya jamii za Kitanzania kabla ya ukoloni umetathminiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-16"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(a) Kueleza hali ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu hali ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni.",
+            "Majadiliano: Ongoza majadiliano ya vikundi kuhusu hali ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni."
+          ],
+          "assessment_criteria": "Hali ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni imeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+            "Picha ya bidhaa zilizozalishwa na jamii za Kitanzania kabla ya ukoloni",
+            "Ramani kuonesha maeneo yaliyokuwa ya uzalishaji wa bidhaa kabla ya ukoloni"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "hist-one-17"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya Tanzania na maadili kabla ya ukoloni",
+          "specific_competence": "2.3 Kutathmini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+          "learning_activity": "(b) Kubaini vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni",
+          "suggested_methods": [
+            "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii mojawapo ya Kitanzania kabla ya ukoloni.",
+            "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kuzungumzia jamii zingine za Kitanzania"
+          ],
+          "assessment_criteria": "Vichocheo vya mabadiliko ya sayansi na teknolojia katika jamii za Kitanzania kabla ya ukoloni vimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-one-18"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.1 Kutumia maarifa na ujuzi wa chimbuko na ukuaji wa mfumo wa ukoloni kuelewa uhusiano wa kihistoria kati ya Tanzania na mataifa yaliyoitawala",
+          "learning_activity": "(a) Kuchambua chimbuko la ukoloni",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka katika vyanzo mbalimbali na kuandika maelezo kuhusu chimbuko la ukoloni.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili chimbuko la ukoloni na kisha kuwasilisha darasani kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Chimbuko la ukoloni limechambuliwa kwa kina",
+          "suggested_resources": [
+            "Matini kuhusu chimbuko la mfumo wa ukoloni",
+            "Picha mbalimbali kuonesha wataala na shughuli za wakoloni"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "hist-two-19"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.1 Kutumia maarifa na ujuzi wa chimbuko na ukuaji wa mfumo wa ukoloni kuelewa uhusiano wa kihistoria kati ya Tanzania na mataifa yaliyoitawala",
+          "learning_activity": "(b) Kubainisha mataifa yaliyoitawala Tanzania na mifumo yake ya kikoloni katika uchumi, utawala na utamaduni",
+          "suggested_methods": [
+            "Majadiliano: Kwa kutumia maarifa waliyopata katika shughuli iliyotangulia, ongoza wanafunzi katika vikundi kujadili na kuandika kwa ufupi kuhusu mataifa yaliyoitawala Tanzania na mifumo yake ya kiuchumi, kiutawala na kiutamaduni."
+          ],
+          "assessment_criteria": "Mataifa yaliyoitawala Tanzania na mifumo yake ya kikoloni katika uchumi, utawala na utamaduni yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 24,
+          "id": "hist-two-20"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.1 Kutumia maarifa na ujuzi wa chimbuko na ukuaji wa mfumo wa ukoloni kuelewa uhusiano wa kihistoria kati ya Tanzania na mataifa yaliyoitawala",
+          "learning_activity": "(c) Kujadili mchango wa mifumo ya kikoloni katika uhusiano wa Tanzania na mataifa yaliyoitawala",
+          "suggested_methods": [
+            "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika, kumshirikisha mwezake na kujadili katika kikundi kuhusu mchango wa mifumo ya kikoloni katika uhusiano wa Tanzania na mataifa yaliyoitawala"
+          ],
+          "assessment_criteria": "Mifumo ya kikoloni katika uhusiano wa Tanzania na mataifa yaliyoitawala imejadiliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 25,
+          "id": "hist-two-21"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.2 Kutathmini athari za mfumo wa ukoloni kwenye maadili ya jamii za Kitanzania",
+          "learning_activity": "(a) Kueleza hali ya maadili ya jamii za Kitanzania kipindi ukoloni unaingia",
+          "suggested_methods": [
+            "Changanyakete: Gawa wanafunzi katika vikundi na kila kikundi kisome matini kuhusu hali ya maadili ya jamii mojawapo ya Kitanzania kipindi ukoloni unaingia. Kisha kila kikundi kitoe mwakilishi kwenda kikundi kingine kufundisha walichojifunza katika kikundi chao."
+          ],
+          "assessment_criteria": "Hali ya maadili ya jamii za Kitanzania kipindi ukoloni unaingia imeelezwa",
+          "suggested_resources": [
+            "Matini kuhusu athari za mfumo wa ukoloni kwenye maadili ya jamii za Kitanzania"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "hist-two-22"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.2 Kutathmini athari za mfumo wa ukoloni kwenye maadili ya jamii za Kitanzania",
+          "learning_activity": "(b) Kuchambua athari za mfumo wa ukoloni katika maadili ya jamii za Kitanzania",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza kila mwanafunzi kusoma matini kutoka katika vyanzo mbalimbali na kuandika maelezo kuhusu athari za mfumo wa ukoloni katika maadili ya jamii za Kitanzania."
+          ],
+          "assessment_criteria": "Athari za mfumo wa ukoloni katika maadili ya jamii za Kitanzania zimechambuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 26,
+          "id": "hist-two-23"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.2 Kutathmini athari za mfumo wa ukoloni kwenye maadili ya jamii za Kitanzania",
+          "learning_activity": "(c) Kubaini maadili yaliyo-dumishwa na jamii za Kitanzania wakati wa ukoloni",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi katika vikundi kubainisha athari chanya na hasi za mfumo wa ukoloni katika maadili ya jamii za Kitanzania",
+            "Kisamafunzo: Elekeza wanafunzi kusikiliza kisamafunzo kuhusu maadili yaliyodumishwa na jamii mojawapo ya Kitanzania wakati wa ukoloni.",
+            "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kueleza maadili yaliyodumishwa katika jamii nyingine za Kitanzania wakati wa ukoloni."
+          ],
+          "assessment_criteria": "Maadili yaliyodumishwa na jamii za Kitanzania wakati wa ukoloni yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "hist-two-24"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.3 Kuchambua jitihada za jamii za Kitanzania kupinga ukoloni na maadili ya kikoloni",
+          "learning_activity": "(a) Kubaini sababu za jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuorodhesha sababu za jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake.",
+            "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kueleza sababu za jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake."
+          ],
+          "assessment_criteria": "Sababu za jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake zimebainishwa",
+          "suggested_resources": [
+            "Picha kuonesha matendo ya kupinga ukoloni",
+            "Matini kuhusu harakati za jamii za Kitanzania kupinga ukoloni na maadili ya kikoloni"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "hist-two-25"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.3 Kuchambua jitihada za jamii za Kitanzania kupinga ukoloni na maadili ya kikoloni",
+          "learning_activity": "(b) Kujadili njia mbalimbali zilizotumika na jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake",
+          "suggested_methods": [
+            "Kisamafunzo: Elekeza wanafunzi katika vikundi kusoma kisamafunzo na kuanisha njia mbalimbali zilizotumika na jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake.",
+            "Majadiliano: Ongoza vikundi kuwasilisha majibu yao darasani kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Njia mbalimbali zilizotumika na jamii za Kitanzania kupinga uvamizi wa kikoloni, ukoloni na maadili yake zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "hist-two-26"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.3 Kuchambua jitihada za jamii za Kitanzania kupinga ukoloni na maadili ya kikoloni",
+          "learning_activity": "(c) Kufafanua misingi na mbinu zilizotumika kupigania Uhuru wa Tanganyika na Zanzibar",
+          "suggested_methods": [
+            "Mtaalamu mwalikwa: Ongoza mtaalamu mwalikwa kuelezea misingi na mbinu zilizotumika kupigania uhuru wa Tanganyika na Zanzibar.",
+            "Majadiliano: Ongoza vikundi vidogovidogo kujadili kisha kuwasilisha kwenye darasa kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Misingi na mbinu zilizotumika kupigania uhuru wa Tanganyika na Zanzibar imefafanuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "hist-two-27"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya Tanzania na maadili wakati wa ukoloni, 1890- 1960",
+          "specific_competence": "1.3 Kuchambua jitihada za jamii za Kitanzania kupinga ukoloni na maadili ya kikoloni",
+          "learning_activity": "(d) Kutathmini mchango wa harakati za kupinga uvamizi na ukoloni katika kutunza maadili ya Kitanzania na kujenga uzalendo",
+          "suggested_methods": [
+            "Tafakuri: Uliza maswali mbalimbali kupima mchango wa harakati za kupinga uvamizi na ukoloni katika kutunza maadili ya Kitanzania na kujenga uzalendo."
+          ],
+          "assessment_criteria": "Mchango wa harakati za kupinga uvamizi na ukoloni katika kutunza maadili ya Kitanzania na kujenga uzalendo umetathiminiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-two-28"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "2.1 Kuchambua mifumo ya uchumi, siasa, utamaduni, jamii na maadili iliyojengwa, 1961-1966",
+          "learning_activity": "(a) Kueleza hali ya uchumi, siasa, utamaduni, jamii na maadili mara baada ya uhuru",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza kila mwanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu hali ya uchumi, siasa, utamaduni, jamii na maadili mara baada ya uhuru.",
+            "Majadiliano: Ongoza majadiliano ya vikundi kuhusu hali ya uchumi, siasa, utamaduni, jamii na maadili mara baada ya uhuru."
+          ],
+          "assessment_criteria": "Hali ya uchumi, siasa, utamaduni, jamii na maadili mara baada ya uhuru imeelezwa",
+          "suggested_resources": [
+            "Matini kuhusu mifumo ya uchumi, siasa, utamaduni, jamii na maadili iliyojengwa 1961-1966"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-two-29"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "2.1 Kuchambua mifumo ya uchumi, siasa, utamaduni, jamii na maadili iliyojengwa, 1961-1966",
+          "learning_activity": "(b) Kutathmini mikakati na changamoto za ujenzi wa Taifa kiuchumi, kisiasa, kiutamaduni, kijamii na kimaadili kipindi cha 1961-1966",
+          "suggested_methods": [
+            "Tafakuri: Uliza maswali mbalimbali kupima mafaniko ya mikakati na changamoto za ujenzi wa Taifa kiuchumi, kisiasa, kiutamaduni, kijamii na kimaadili kipindi cha 1961-1966."
+          ],
+          "assessment_criteria": "Mikakati na changamoto za ujenzi wa Taifa kiuchumi, kisiasa, kiutamaduni, kijamii na kimaadili kipindi cha 1961-1966 imetathiminiwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "hist-two-30"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "2.2 Kumudu historia ya Mapinduzi Matukufu ya Zanzibar",
+          "learning_activity": "(a) Kueleza chimbuko la Mapinduzi Matukufu ya Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu chimbuko la Mapinduzi Matukufu ya Zanzibar.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha kuhusu chimbuko la Mapinduzi Matukufu ya Zanzibar."
+          ],
+          "assessment_criteria": "Chimbuko la Mapinduzi Matukufu ya Zanzibar limeelezwa",
+          "suggested_resources": [
+            "Matini kuhusu Mapinduzi matukufu ya Zanzibar",
+            "Picha kuonesha watu walioshiriki katika Mapinduzi matukufu ya Zanzibar"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-two-31"
+        },
+        {
+          "main_competence": "2.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "2.2 Kumudu historia ya Mapinduzi Matukufu ya Zanzibar",
+          "learning_activity": "(b) Kubaini mchango wa Mapinduzi Matukufu ya Zanzibar katika kujenga umoja, mshikamano na maadili miongoni mwa Wazanzibari",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu mchango wa Mapinduzi Matukufu ya Zanzibar katika kujenga umoja, mshikamano na maadili.",
+            "Maswali na majibu: Uliza maswali kuhusu mchango wa Mapinduzi Matukufu ya Zanzibar katika kujenga umoja, mshikamano na maadili miongoni mwa Wazanzibari."
+          ],
+          "assessment_criteria": "Mchango wa Mapinduzi Matukufu ya Zanzibar katika kujenga umoja na mshikamano miongoni mwa Wazanzibari umebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 32,
+          "id": "hist-two-32"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(a) Kufafanua chimbuko la Muungano wa Tanganyika na Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka vyanzo mbalimbali na kuandika maelezo kuhusu chimbuko Muungano wa Tanganyika na Zanzibar.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha majibu yao."
+          ],
+          "assessment_criteria": "Chimbuko la Muungano wa Tanganyika na Zanzibar limefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu historia ya ujenzi wa Taifa na maadili 1961-1966",
+            "Kielelezo kuonesha muundo wa Muungano wa Tanganyika na Zanzibar"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hist-two-33"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(b) Kueleza muundo na misingi ya Muungano wa Tanganyika na Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali kama Katiba ya Jamhuri ya Muungano wa Tanzania, kuchora muundo na kuandika misingi ya Muungano wa Tanganyika na Zanzibar.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha majibu yao."
+          ],
+          "assessment_criteria": "Muundo na misingi ya Muungano wa Tanganyika na Zanzibar imeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "hist-two-34"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(c) Kutathimini Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu Muungano wa Tanganyika na Zanzibar.",
+            "Tafakuri: Uliza maswali kuhusu mafaniko na changamoto zinazokabili Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa."
+          ],
+          "assessment_criteria": "Wanafunzi wametathmini Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "hist-two-35"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(a) Kujadili chimbuko la Azimio la Arusha",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu Azimio la Arusha.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu chimbuko la Azimio la Arusha na kisha kuwasilisha kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Chimbuko la Azimio la Arusha limefafanuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "hist-two-36"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(b) Kufafanua misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa kiuchumi, kisiasa, kijamii na kimaadili",
+          "suggested_methods": [
+            "Changanyakete: Gawa wanafunzi katika vikundi vya maeneo ya uchumi, siasa, jamii na maadili na elekeza makundi katika eneo husika kusoma matini kuhusu Azimio la Arusha.",
+            "Elekeza kila kikundi kutoa mwakilishi kwenda kwenye vikundi vingine kufundisha kuhusu misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa kiuchumi, kisiasa, kijamii na kimaadili umefafanuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "hist-two-37"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(c) Kutathmini changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili.",
+            "Tafakuri: Uliza maswali kuwezesha wanafunzi kutoa maoni yao kuhusu ukubwa wa changamoto za Azimio la Arusha kiuchumi, kisiasa na kijamii na kisha wapendekeze suluhisho kwa kila changamoto."
+          ],
+          "assessment_criteria": "Changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili zimetathiminiwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "hist-two-38"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(a) Kufafanua dhana ya uhusiano wa kikanda na ujenzi wa Taifa",
+          "suggested_methods": [
+            "Mtaalamu mwalikwa: Ongoza wanafunzi kusikiliza maelezo ya mtaalamu kuhusu uhusiano wa kikanda na ujenzi wa Taifa.",
+            "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kueleza maana na umuhimu wa uhusiano wa kikanda na ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Dhana ya uhusiano wa kikanda na ujenzi wa Taifa imefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu nafasi ya Tanzania katika kujenga uhusiano wa kikanda"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hist-two-39"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(b) Kueleza mchango wa Tanzania katika kukuza uhusiano wa kikanda na kujenga utaifa (EAC & SADC)",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali kuhusu mchango wa Tanzania katika kukuza uhusiano wa kikanda",
+            "Mdahalo: Gawa darasa katika makundi mawili, moja linalounga mkono kuwa Tanzania ina mchango katika kukuza uhusiano wa kikanda na kujenga utaifa na lingine linalopinga kuwa hakuna mchango. Simamia wanafunzi washiriki katika mdahalo ipasavyo."
+          ],
+          "assessment_criteria": "Mchango wa Tanzania katika kukuza uhusiano wa kikanda na kujenga utaifa (EAC & SADC) umeelezwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "hist-two-40"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(c) Kubaini changamoto za uhusiano wa kikanda katika ujenzi wa Taifa",
+          "suggested_methods": [
+            "Kisamafunzo: Wasimulie wanafunzi kisa kuhusu changamoto ya uhusiano kati ya nchi moja na nyingine katika kanda mfano EAC na SADC.",
+            "Maswali na majibu: Uliza maswali kuhusu kisamafunzo ulichosimulia na kueleza changamoto nyingine za uhusiano wa kikanda katika ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Changamoto za uhusiano wa kikanda katika ujenzi wa Taifa zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 38,
+          "id": "hist-two-41"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.1 Kumudu misingi ya utafiti wa kihistoria",
+          "learning_activity": "(a) Kueleza dhana, misingi na maadili ya utafiti wa kihistoria",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu jinsi ya kufanya utafiti wa kihistoria.",
+            "Majadiliano: Ongoza majadiliano ya vikundi kuhusu dhana, misingi na maadili ya utafiti wa kihistoria."
+          ],
+          "assessment_criteria": "Dhana, misingi na maadili ya utafiti wa kihistoria yamelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu utafiti wa historia na maadili ya Tanzania"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "hist-two-42"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.1 Kumudu misingi ya utafiti wa kihistoria",
+          "learning_activity": "(b) Kuchambua hatua na mchakato wa utafiti wa kihistoria",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu hatua na mchakato wa kufanya utafiti wa kihistoria.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kuelezea na kutofautisha hatua mbalimbali za kufanya utafiti wa kihistoria na kisha kuwasilisha."
+          ],
+          "assessment_criteria": "Hatua na mchakato wa utafiti wa kihistoria umechambuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 39,
+          "id": "hist-two-43"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.2 Kutumia misingi ya utafiti wa kihistoria kufanya kazi mradi",
+          "learning_activity": "Kubuni na kufanya kazimradi kuhusu historia ya Tanzania na maadili",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi katika vikundi kusoma ripoti mbalimbali za kazimradi za wanafunzi wa miaka iliyopita.",
+            "Kazi binafsi: Elekeza kila mwanafunzi kusoma matini mbalimbali za kihistoria na kuchagua eneo au jambo la kufanyia kazimradi kuhusu historia ya Tanzania na maadili.",
+            "Majadiliano: Ongoza wanafunzi kuchagua eneo au jambo wanalotaka kulifanya katika kazimradi. Waongoze kueleza sababu za kuchagua eneo au jambo husika na kuziandika kwa ufasaha.",
+            "Kazi binafsi: Ongoza wanafunzi kuanza utekelezaji wa kazimradi kwa kuzingatia utaratibu uliowekwa."
+          ],
+          "assessment_criteria": "Kazimradi kuhusu historia ya Tanzania na maadili imebuniwa na kutekelezwa",
+          "suggested_resources": [
+            "Matini kuhusu misingi ya utafiti wa kihistoria",
+            "Ripoti mbalimbali za kaziradi zilizofanyika siku za nyuma"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "hist-two-44"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(a) Kufafanua chimbuko la Muungano wa Tanganyika na Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini kutoka vyanzo mbalimbali na kuandika maelezo kuhusu chimbuko Muungano wa Tanganyika na Zanzibar.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha majibu yao."
+          ],
+          "assessment_criteria": "Chimbuko la Muungano wa Tanganyika na Zanzibar limefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu historia ya ujenzi wa Taifa na maadili 1961-1966",
+            "Kielelezo kuonesha muundo wa Muungano wa Tanganyika na Zanzibar"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hist-three-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(b) Kueleza muundo na misingi ya Muungano wa Tanganyika na Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali kama Katiba ya Jamhuri ya Muungano wa Tanzania, kuchora muundo na kuandika misingi ya Muungano wa Tanganyika na Zanzibar.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuwasilisha majibu yao."
+          ],
+          "assessment_criteria": "Muundo na misingi ya Muungano wa Tanganyika na Zanzibar imeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "hist-three-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu historia ya ujenzi wa Taifa na maadili yake katika kipindi cha 1961-1966",
+          "specific_competence": "1.1 Kumudu historia ya Muungano wa Tanganyika na Zanzibar",
+          "learning_activity": "(c) Kutathimini Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini na kuandika maelezo kuhusu Muungano wa Tanganyika na Zanzibar.",
+            "Tafakuri: Uliza maswali kuhusu mafanikio na changamoto zinazokabili Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa."
+          ],
+          "assessment_criteria": "Wanafunzi wametathmini Muungano wa Tanganyika na Zanzibar katika kujenga umoja na maadili ya Kitaifa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "hist-three-3"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(a) Kujadili chimbuko la Azimio la Arusha",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu Azimio la Arusha.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu chimbuko la Azimio la Arusha na kisha kuwasilisha kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Chimbuko la Azimio la Arusha limefafanuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "hist-three-4"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(b) Kufafanua misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa kiuchumi, kisiasa, kijamii na kimaadili",
+          "suggested_methods": [
+            "Changanyakete: Gawa wanafunzi katika vikundi vya maeneo ya uchumi, siasa, jamii na maadili na elekeza makundi katika eneo husika kusoma matini kuhusu Azimio la Arusha.",
+            "Elekeza kila kikundi kutoa mwakilishi kwenda kwenye vikundi vingine kufundisha kuhusu misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Misingi na mchango wa Azimio la Arusha katika ujenzi wa Taifa kiuchumi, kisiasa, kijamii na kimaadili umefafanuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "hist-three-5"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.1 Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili",
+          "learning_activity": "(c) Kutathmini changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili.",
+            "Tafakuri: Uliza maswali kuwezesha wanafunzi kutoa maoni yao kuhusu ukubwa wa changamoto za Azimio la Arusha kiuchumi, kisiasa na kijamii na kisha wapendekeze suluhisho kwa kila changamoto."
+          ],
+          "assessment_criteria": "Changamoto za Azimio la Arusha kiuchumi, kisiasa, kijamii na kimaadili zimetathiminiwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "hist-three-6"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(a) Kufafanua dhana ya uhusiano wa kikanda na ujenzi wa Taifa",
+          "suggested_methods": [
+            "Mtaalamu mwalikwa: Ongoza wanafunzi kusikiliza maelezo ya mtaalamu kuhusu uhusiano wa kikanda na ujenzi wa Taifa.",
+            "Maswali na majibu: Uliza maswali kuwezesha wanafunzi kueleza maana na umuhimu wa uhusiano wa kikanda na ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Dhana ya uhusiano wa kikanda na ujenzi wa Taifa imefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu nafasi ya Tanzania katika kujenga uhusiano wa kikanda"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hist-three-7"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(b) Kueleza mchango wa Tanzania katika kukuza uhusiano wa kikanda na kujenga utaifa (EAC & SADC)",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali kuhusu mchango wa Tanzania katika kukuza uhusiano wa kikanda",
+            "Mdahalo: Gawa darasa katika makundi mawili, moja linalounga mkono kuwa Tanzania ina mchango katika kukuza uhusiano wa kikanda na kujenga utaifa na lingine linalopinga kuwa hakuna mchango. Simamia wanafunzi washiriki katika mdahalo ipasavyo."
+          ],
+          "assessment_criteria": "Mchango wa Tanzania katika kukuza uhusiano wa kikanda na kujenga utaifa (EAC & SADC) umeelezwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "hist-three-8"
+        },
+        {
+          "main_competence": "2.0 Kutathmini ujenzi wa Taifa na maadili wakati wa Azimio la Arusha, 1967-1985",
+          "specific_competence": "2.2 Kueleza nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+          "learning_activity": "(c) Kubaini changamoto za uhusiano wa kikanda katika ujenzi wa Taifa",
+          "suggested_methods": [
+            "Kisamafunzo: Wasimulie wanafunzi kisa kuhusu changamoto ya uhusiano kati ya nchi moja na nyingine katika kanda mfano EAC na SADC.",
+            "Maswali na majibu: Uliza maswali kuhusu kisamafunzo ulichosimulia na kueleza changamoto nyingine za uhusiano wa kikanda katika ujenzi wa Taifa."
+          ],
+          "assessment_criteria": "Changamoto za uhusiano wa kikanda katika ujenzi wa Taifa zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 38,
+          "id": "hist-three-9"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.1 Kumudu misingi ya utafiti wa kihistoria",
+          "learning_activity": "(a) Kueleza dhana, misingi na maadili ya utafiti wa kihistoria",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu jinsi ya kufanya utafiti wa kihistoria.",
+            "Majadiliano: Ongoza majadiliano ya vikundi kuhusu dhana, misingi na maadili ya utafiti wa kihistoria."
+          ],
+          "assessment_criteria": "Dhana, misingi na maadili ya utafiti wa kihistoria yamelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu utafiti wa historia na maadili ya Tanzania"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "hist-three-10"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.1 Kumudu misingi ya utafiti wa kihistoria",
+          "learning_activity": "(b) Kuchambua hatua na mchakato wa utafiti wa kihistoria",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu hatua na mchakato wa kufanya utafiti wa kihistoria.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kuelezea na kutofautisha hatua mbalimbali za kufanya utafiti wa kihistoria na kisha kuwasilisha."
+          ],
+          "assessment_criteria": "Hatua na mchakato wa utafiti wa kihistoria umechambuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 39,
+          "id": "hist-three-11"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia na maadili ya Tanzania",
+          "specific_competence": "3.2 Kutumia misingi ya utafiti wa kihistoria kufanya kazi mradi",
+          "learning_activity": "Kubuni na kufanya kazimradi kuhusu historia ya Tanzania na maadili",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi katika vikundi kusoma ripoti mbalimbali za kazimradi za wanafunzi wa miaka iliyopita.",
+            "Kazi binafsi: Elekeza kila mwanafunzi kusoma matini mbalimbali za kihistoria na kuchagua eneo au jambo la kufanyia kazimradi kuhusu historia ya Tanzania na maadili.",
+            "Majadiliano: Ongoza wanafunzi kuchagua eneo au jambo wanalotaka kulifanya katika kazimradi. Waongoze kueleza sababu za kuchagua eneo au jambo husika na kuziandika kwa ufasaha.",
+            "Kazi binafsi: Ongoza wanafunzi kuanza utekelezaji wa kazimradi kwa kuzingatia utaratibu uliowekwa."
+          ],
+          "assessment_criteria": "Kazimradi kuhusu historia ya Tanzania na maadili imebuniwa na kutekelezwa",
+          "suggested_resources": [
+            "Matini kuhusu misingi ya utafiti wa kihistoria",
+            "Ripoti mbalimbali za kaziradi zilizofanyika siku za nyuma"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "hist-three-12"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+          "learning_activity": "(a) Kufafanua dhana ya uliberali na utandawazi",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuandika maelezo kuhusu maana na viashiria vya uliberali na utandawazi.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili na kuandika maana na viashiria vya uliberali na utandawazi na kuwasilisha kwa ajili ya majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Dhana ya uliberali na utandawazi imefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+            "Matini kuhusu mfumo wa uliberali"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "hist-four-45"
+        },
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+          "learning_activity": "(b) Kubaini vichocheo vilivyo-sababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma matini mbalimbali na kuorodhesha vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+            "Mtaalamu mwalikwa: Ongoza mtaalamu kuja kutoa maelezo kuhusu sababu zilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi.",
+            "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kufafanua vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi."
+          ],
+          "assessment_criteria": "Vichocheo vilivyosababisha Tanzania kuingia katika mfumo wa uliberali na utandawazi vimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 42,
+          "id": "hist-four-46"
+        },
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+          "learning_activity": "(c) Kueleza athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi katika vikundi kufanya utafiti kwa kuuliza watu mbalimbali katika jamii wanamoishi kuhusu athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili.",
+            "Matembezi ya galari: Ongoza vikundi kubandika ripoti zao katika kuta za darasa na waambie wanafunzi kupita katika kila kundi na kusoma ripoti hizo."
+          ],
+          "assessment_criteria": "Athari za uliberali na utandawazi katika mifumo ya uchumi, utamaduni, siasa na maadili imeelezwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 43,
+          "id": "hist-four-47"
+        },
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.1 Kuchambua chimbuko la uliberali na utandawazi",
+          "learning_activity": "(d) Kubaini jitihada zinazohukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi",
+          "suggested_methods": [
+            "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika na kushrikisha mwenzake mawazo yake na kisha katika kikundi kuhusu jitihada zinazochukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi."
+          ],
+          "assessment_criteria": "Jitihadi zinazochukuliwa na Tanzania kudhibiti athari mbaya za uliberali na utandawazi zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "hist-four-48"
+        },
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.2 Kuishi maadili mema ya Kitanzania wakati wa uliberali na utandawazi",
+          "learning_activity": "(a) Kujadili matendo ya uadilifu katika muktadha wa uliberali na utandawazi",
+          "suggested_methods": [
+            "Tafakuri: Uliza maswali kuhusu matendo ya uadilifu yanayopaswa kufanywa na wanajamii.",
+            "Majadiliano: Ongoza wanafunzi kujadili na kuandika maelezo kuhusu matendo ya uadilifu katika muktadha wa uliberali na utandawazi."
+          ],
+          "assessment_criteria": "Matendo ya uadilifu katika muktadha wa uliberali na utandawazi yamejadiliwa",
+          "suggested_resources": [
+            "Matini kuhusu maadili mema katika kipindi cha uliberali na utandawazi"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "hist-four-49"
+        },
+        {
+          "main_competence": "1.0 Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+          "specific_competence": "1.2 Kuishi maadili mema ya Kitanzania wakati wa uliberali na utandawazi",
+          "learning_activity": "(b) Kujadili mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania",
+          "suggested_methods": [
+            "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika taasisi za Serikali kama TAKUKURU, skauti na taasisi za dini na waulize mikakati mbalimbali waliyonayo kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania."
+          ],
+          "assessment_criteria": "Mikakati mbalimbali ya kuhamasisha na kuelimisha jamii kuhusu maadili ya Kitanzania imebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 44,
+          "id": "hist-four-50"
+        },
+        {
+          "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+          "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+          "learning_activity": "(a) Kuchambua muundo na kazi za mhimili tendaji (Executive) ya Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili tendaji wa Serikali.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu muundo na kazi za mhimili tendaji wa Serikali na kisha kuwasilisha kwa majadiliano ya pamoja."
+          ],
+          "assessment_criteria": "Muundo na kazi za mhimili tendaji (executive) zimechambuliwa kwa kina",
+          "suggested_resources": [
+            "Matini kuhusu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+            "Katiba ya Jamhuri wa Muungano wa Tanzania"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "hist-four-51"
+        },
+        {
+          "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+          "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+          "learning_activity": "(b) Kuchambua muundo na kazi za Bunge la Jamhuri na za Baraza la Wawakilishi Zanzibar",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Bunge la Jamhuri na Baraza la Wawakilishi.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu muundo na kazi za Bunge la Jamhuri wa Tanzania na Baraza la Wawakilishi kisha kuwasilisha",
+            "Igizodhima: Elekeza wanafunzi kuandaa na kuigiza kazi mbalimbali za Bunge la Jamhuri la Tanzania na Baraza la Wawakilishi."
+          ],
+          "assessment_criteria": "Muundo na kazi za Bunge zimechambuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 45,
+          "id": "hist-four-52"
+        },
+        {
+          "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+          "specific_competence": "2.1 Kueleza muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania na Serikali ya Mapinduzi ya Zanzibar",
+          "learning_activity": "(c) Kuchambua muundo na kazi za Mahakama katika pande zote za Muungano",
+          "suggested_methods": [
+            "Utafiti mdogo: Elekeza wanafunzi kusoma Katiba ya Jamhuri ya Muungano wa Tanzania na matini nyingine kuhusu mhimili wa Mahakama.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kuhusu muundo na kazi za Mahakama na kisha kuwasilisha kwa majadiliano ya pamoja.",
+            "Igizodhima: Ongoza wanafunzi kuandaa na kuigiza kazi za Mahakama."
+          ],
+          "assessment_criteria": "Muundo na kazi za Mahakama zimechambuliwa kwa kina",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 46,
+          "id": "hist-four-53"
+        },
+        {
+          "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+          "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
+          "learning_activity": "(a) Kueleza dhana na chimbuko la serikali za mitaa",
+          "suggested_methods": [
+            "Fikiri-andika-jozisha-shirikisha: Ongoza kila mwanafunzi kufikiri, kuandika, kumshirikisha mwezake na kisha kujadili katika kikundi kuhusu maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+            "Mtaalamu mwalikwa: Ongoza mtaalamu kueleza maana, umuhimu, sababu na uanzishwaji wa serikali za mitaa nchini.",
+            "Maswali na majibu: Uliza maswali mbalimbali kuwezesha wanafunzi kuandika muhtasari kuhusu maana, umuhimu, na chimbuko la serikali za mitaa nchini."
+          ],
+          "assessment_criteria": "Dhana na chimbuko la serikali za mitaa limeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini kuhusu muundo na kazi za serikali za mitaa",
+            "Katiba ya Jamhuri wa Muungano wa Tanzania",
+            "Sheria ya Serikali za Mitaa ya 1984 na mabadiliko yake"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "hist-four-54"
+        },
+        {
+          "main_competence": "2.0 Kumudu muundo na kazi za Serikali ya Jamhuri ya Muungano wa Tanzania",
+          "specific_competence": "2.2 Kubaini muundo na kazi za Serikali za Mitaa",
+          "learning_activity": "(b) Kuchambua muundo na kazi za serikali za mitaa katika ngazi mbalimbali za Jamhuri ya Muungano",
+          "suggested_methods": [
+            "Ziara ya mafunzo: Ongoza wanafunzi kufanya ziara ya mafunzo katika ofisi ya serikali ya mtaa/kijiji kupata maelezo kuhusu muundo na kazi za serikali ya mtaa/kijiji.",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili kazi na kuchora muundo wa serikali ya mtaa/kijiji.",
+            "Igizodhima: Ongoza wanafunzi kuandaa na kuigiza kazi za serikali ya mtaaa/kijiji."
+          ],
+          "assessment_criteria": "Muundo na kazi za mamlaka za miji na vijiji zimechambuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 47,
+          "id": "hist-four-55"
+        },
+        {
+          "main_competence": "3.0 Kufanya utafiti wa historia ya Tanzania na maadili",
+          "specific_competence": "3.1 Kutumia misingi ya utafiti wa kihistoria kufanya kazimradi",
+          "learning_activity": "Kukamilisha kazimradi iliyoanza Kidato cha III na kuiwasilisha kwa tathmini",
+          "suggested_methods": [
+            "Kazi binafsi: Ongoza wanafunzi kumalizia utekelezaji wa kazimradi na kuandika ripoti kwa kuzingatia utaratibu uliowekwa.",
+            "Uwasilishaji: Ongoza kila mwanafunzi kufanya uwasilishaji wa ripoti ya kazimradi."
+          ],
+          "assessment_criteria": "Kazimradi iliyoanza",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 48,
+          "id": "hist-four-56"
+        }
+      ]
+    }
+  }
+}

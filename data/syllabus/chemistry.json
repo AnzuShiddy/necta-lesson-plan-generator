@@ -1,0 +1,696 @@
+{
+  "subject": "Chemistry",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727192894-CHEMISTRY%20O'LEVEL%20EDUCATION%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(a) Describe the concept of Chemistry (meaning, branches, applications and relationships with other disciplines)",
+          "suggested_methods": [
+            "Brainstorming: Assign students in manageable groups to brainstorm on chemical basis of materials from their environment, give the meaning of Chemistry and justifying the reason for studying Chemistry",
+            "Project works: Guide students to explore the common industrial products in Tanzania and relate their applications to the importance of Chemistry"
+          ],
+          "assessment_criteria": "The concept of Chemistry is clearly described",
+          "suggested_resources": [
+            "Pictures, diagrams, simulations, animations or videos illustrating the meaning, branches, applications and relationship with other disciplines"
+          ],
+          "periods_for_specific_competence": 78,
+          "id": "chem-one-1"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(b) Discuss the contribution of Chemistry in the development of modern society",
+          "suggested_methods": [
+            "Field visit: Guide students to visit any nearby industry, health facilities, mining sites and agricultural farms to appreciate the importance of Chemistry in the development of societies"
+          ],
+          "assessment_criteria": "The contribution of Chemistry in the development of modern society is clearly recognised",
+          "suggested_resources": [
+            "Simulations, animations or videos illustrating the contribution of Chemistry in the development of modern society"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-2"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(c) Describe the concept of matter (physical and chemical changes of matter)",
+          "suggested_methods": [
+            "Practical work: Guide students to carry-out hands-on activities to investigate the physical and chemical changes of matter using samples of substances found in their environment",
+            "Experimentation: Guide students to perform experiments basing on sublimation of compounds, rusting of iron nails, freezing and evaporation of water and dissolving of salts using distilled water"
+          ],
+          "assessment_criteria": "The concept of matter is clearly described",
+          "suggested_resources": [
+            "Ice, water, source of heat, evaporating basin, metal nails, beaker, table salt, sugar, iodine crystals, magnet, magnesium ribbon, acids, fruits, paper, CuSO4 solution, aluminium foil, candle, CaCO3 , Pb(NO3)2 solution and simulations and videos illustrating physical and chemical changes of matter"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-3"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(d) Describe the concepts of chemical elements (criteria for assigning chemical symbols), compounds (binary compound) and mixtures (types of solution and separation of mixtures)",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students in pairs to think and share about various types of industrial products they commonly use in their home for various activities, reflect on their constituent elements and explain the meaning of element, compound and mixture",
+            "Hands-on-minds-on: Assign students to prepare solutions using materials available in their home settings and reflect their properties to practices of using them in various applications such as pharmaceuticals and domestic activities"
+          ],
+          "assessment_criteria": "The concepts of chemical elements, compounds and mixture are clearly described",
+          "suggested_resources": [
+            "Periodic table, copper, zinc, aluminium, iron, sulphur, hydrogen, common salt, iron filings, magnet, powdered sulphur, crucible and lid, heat source, HCl solution, water, chalk FeS, milk, clay soil,"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-4"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(e) Compare the properties of compounds with those of constituent elements",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to explore the properties of chemical compounds useful in real-life situation",
+            "Technological-based learning: Guide students to analyse features of compounds and element from real substances using visual aids"
+          ],
+          "assessment_criteria": "The properties of compounds are correctly compared with those of constituent elements",
+          "suggested_resources": [
+            "margarine, filter paper, funnel, ethanol, iodine crystals, kerosene, ink, sugar, wall charts, and pictures of distillers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-5"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(f) Explain the concept of the periodic table (1st 20 elements in the Periodic Table; metals and non-metals)",
+          "suggested_methods": [
+            "Outdoor activity: Assign students to collect materials in their environment and classify into metals and non-metals",
+            "Project works: Assign students to carry-out project task to investigate on different properties of metals and non-metals available in their real life setting and write a report"
+          ],
+          "assessment_criteria": "The concept of the periodic table is clearly explained",
+          "suggested_resources": [
+            "Diagrams, pictures, wall charts, simulations and videos illustrating 1st 20 elements in the Periodic Table; metals and non-metals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-6"
+        },
+        {
+          "main_competence": "Conduct experiments in Chemistry",
+          "specific_competence": "Conduct experiments in Chemistry",
+          "learning_activity": "(a) Describe basic Chemistry laboratory skills (chemistry laboratory rules and safety measures, first aid, fire and firefighting, and Chemistry laboratory apparatus)",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to interpret basic laboratory skills related to rules and precautions, safety measures and chemical warning signs",
+            "Guest speaker from fire brigade: Guide students to interpret classes of fire and practice on firefighting basing on speaker’s instructions and write a report",
+            "Outdoor activity: Guide students to practice on extinguishing small fires"
+          ],
+          "assessment_criteria": "Basic Chemistry laboratory skills are clearly described",
+          "suggested_resources": [
+            "Laboratory manuals, models, pictures, wall charts with written laboratory rules, first aid kit, laboratory apparatus, fire extinguishers and videos illustrating basic chemistry laboratory skills"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "chem-one-7"
+        },
+        {
+          "main_competence": "Conduct experiments in Chemistry",
+          "specific_competence": "Conduct experiments in Chemistry",
+          "learning_activity": "(b) Perform experiments on the changes of matter from one state to another",
+          "suggested_methods": [
+            "Experimentation: Guide students to perform experiments on various materials from the environment and laboratory, and use chemicals to demonstrate changes of matter"
+          ],
+          "assessment_criteria": "Experiments on the changes of matter from one state to another are correctly performed",
+          "suggested_resources": [
+            "Ice, water, iron chips, heat source, clay soil, margarine, filter paper, funnel, iodine crystals, anhydrous CuSO4 kerosene, salt and sugar"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-8"
+        },
+        {
+          "main_competence": "Conduct experiments in Chemistry",
+          "specific_competence": "Conduct experiments in Chemistry",
+          "learning_activity": "(c) Perform experiments on separation of different mixtures using different methods",
+          "suggested_methods": [
+            "Home-based project: Assign students to carry-out simple experiments on separating mixtures in their daily life",
+            "Experimentation: Guide students to perform experiments on separating mixtures basing on specific properties of substances such as solubility and boiling point",
+            "Questions and answers: Guide students to present the common and commercial applications of the various methods for separating mixtures, for examples simple distillation, fractional distillation and decantation"
+          ],
+          "assessment_criteria": "Experiments on separation of different mixtures using different methods are correctly performed",
+          "suggested_resources": [
+            "Common salt, iron filings, magnet, powdered Sulphur, crucible and lid, heat source, HCl solution, FeS, milk, clay soil, margarine, kerosene, filter paper, funnel, ethanol, kerosene, ink, sugar, distillation system and animations or videos illustrating separation of different mixtures using different methods"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-one-9"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(a) Describe the modern concept of atomic structure (Dalton’ s atomic structure and sub-atomic particles)",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students in pair to think about the meaning of an atom and its structure",
+            "Technological-based learning: Guide students to account for the structure of an atom basing on ICT facilities and write a report"
+          ],
+          "assessment_criteria": "The modern concept of atomic structure is clearly described",
+          "suggested_resources": [
+            "Diagrams, pictures, wall charts, simulations and videos illustrating Dalton’s atomic structure and sub-atomic particles"
+          ],
+          "periods_for_specific_competence": 81,
+          "id": "chem-one-10"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(b) Describe the concept of electronic arrangements",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Technological-based learning: Guide students to watch visual aids for simulations and animations, showing the arrangements of electrons in atoms of elements in their shells and write a report",
+            "Group activity: Assign students in manageable groups to practice the arrangement of electrons in shells of atoms of different elements through models designing using locally available materials"
+          ],
+          "assessment_criteria": "The concept of electronic arrangements in atoms is clearly described",
+          "suggested_resources": [
+            "Diagrams, pictures, wall charts, simulations and videos illustrating energy shell diagram, and locally available materials for designing electronic models"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-11"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(c) Use the concept of atomic structure to determine the atomic and mass numbers of an element",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to calculate the atomic number and mass number of an element for the given compound"
+          ],
+          "assessment_criteria": "Atomic numbers and mass numbers of elements are correctly determined",
+          "suggested_resources": [
+            "Models, charts and pictures showing the atomic number of elements, and wall charts showing the number of protons and neutrons of elements"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-12"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(d) Explain the concept of chemical formulae and nomenclature (valence, oxidation state, radicals and naming of binary inorganic compounds using the IUP AC system)",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Inquiry-based learning: Assign students to collect commonly used substances and give their common names and identify their constituent elements",
+            "Group discussion: Guide student in manageable groups to describe the concepts of chemical formula, valence, oxidation state, radicals and name binary inorganic compounds using the IUPAC system",
+            "Gallery work: Guide students to brainstorm and share key rules in writing chemical formulae"
+          ],
+          "assessment_criteria": "The concept of chemical formulae and nomenclature are clearly explained",
+          "suggested_resources": [
+            "Valence cards, modern periodic table, wall charts showing oxidation states and common radicals, and labelled bottles containing different laboratory chemicals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-13"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(e) Determine empirical and molecular formulae of common compounds",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to determine percentage compositions of each element and in a compound",
+            "Problem solving: Guide students to apply steps for calculating empirical formulae and molecular formulae of different compounds"
+          ],
+          "assessment_criteria": "Empirical formulae and molecular formulae of different compounds are correctly determined",
+          "suggested_resources": [
+            "Model depicting empirical formulae and molecular formulae, wall charts showing molecular fomulae and modern periodic table"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-14"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(f) Describe the concept of chemical bonding (covalent and electrovalent bonding)",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Outdoor activity: Guide students to reflect on real-environment about bonding such as building blocks erecting a walls and relate with the concepts of bonding",
+            "Technological-based learning: Use software such as ChemDraw to demonstrate the process of bonding"
+          ],
+          "assessment_criteria": "The concept of chemical bonding is clearly described",
+          "suggested_resources": [
+            "Selected organic and inorganic structures, Computers installed with Chemistry software"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-15"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(g) Describe the concept of chemical reactions (chemical equations, balancing chemical equations, and types of chemical reactions)",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to write simple word equations and chemical equations with symbols",
+            "Think-ink-pair-share: Guide students in pairs to identify types of chemical reactions, balance chemical equations, interpret word equations into chemical equations",
+            "Experimentation: Guide students to perform an experiment to verify the law of conservation of matter and write the report"
+          ],
+          "assessment_criteria": "The concept of chemical reactions is clearly described",
+          "suggested_resources": [
+            "Kerosene, candles, KOH/NaOH, HCl, glycerine, selected apparatus and equipment"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-16"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(h) Relate the types of chemical reactions with common processes in daily life such as burning of fuel and digestion in living organisms",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Project works: Task students to carry-out project to examine applications of chemical reactions in the burning of fuel and digestion in living organisms"
+          ],
+          "assessment_criteria": "The types of chemical reactions are clearly related with common processes in daily life",
+          "suggested_resources": [
+            "Laboratory note book, heat source and fuel such as charcoal"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-17"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(i) Describe acids, bases and salts (reactions of acids and bases with various substances) and their applications in daily life",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Inquiry-based learning: Guide students to analyse various substances with acidic and basic properties commonly found in their environment and describe the concepts of acids, bases and salts",
+            "Group discussion: Guide students in manageable groups to describe the reactions of acids and bases",
+            "Field trips: Guide students to visit nearby food and beverages processing industries to examine the applications of acids, bases and salts"
+          ],
+          "assessment_criteria": "The concepts of acids, bases and salts are clearly described",
+          "suggested_resources": [
+            "Citrus fruits, vinegar, sour milk, apples, wood ash, tooth paste, baking powder, mineral acids, hydroxides and indicators"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-18"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of the physical and chemical properties of elements on the basis of their arrangements in the periodic table (a) Explain the changes in the physical and chemical properties of elements across and down the periodic table",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to explain the trends of metallic and non-metallic elements across the periods and down the groups of the periodic table"
+          ],
+          "assessment_criteria": "Changes in properties of elements across and down the periodic table are correctly explained",
+          "suggested_resources": [
+            "Diagrams, pictures, wall charts, simulations and videos illustrating changes in the physical and chemical properties of elements across and down the periodic table"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "chem-two-19"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(b) Use the electronic configuration of an element to locate their positions in the periodic table",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Group discusion: Guide students in manageable groups to apply the periodic law in locating elements in the periodic table"
+          ],
+          "assessment_criteria": "The electronic configurations of elements are correctly used to locate the positions of elements in the periodic table",
+          "suggested_resources": [
+            "Wall charts of modern periodic table showing electronic configuration of some elements"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-20"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "2.1 Conduct experiments in Chemistry (a) Prepare acid- base indicators using locally available materials",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Outdoor activity: Guide students to prepare acid- base indicators from locally available materials and write reports"
+          ],
+          "assessment_criteria": "Acid-base indicators are correctly prepared using locally available materials",
+          "suggested_resources": [
+            "Coloured flowers, coloured leaves, mortar and pestle, pieces of clothes, heat source, tripod stand lemon juice, tomato juice, sour milk, vinegar, soft drinks and NaOH"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "chem-two-21"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(b) Use the prepared indicators to test acidity and alkalinity of substances found in the locality",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Experimentation: Guide students to perform experiments using locally made indicators to test acidity and alkalinity of subtances found in the locality"
+          ],
+          "assessment_criteria": "Acidity and alkalinity of substances found in the locality are tested using the prepared indicators",
+          "suggested_resources": [
+            "Locally prepared indicator, POP indicator, MO indicator, lemon juice, tomato juice, sour milk, vinegar and soft"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-two-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate mastery of concepts, theories and principles in Chemistry (a) Describe the mole concept (comparison of the mole with other units of measurements and molar quantities of substances)",
+          "learning_activity": "",
+          "suggested_methods": [
+            "Outdoor learning: Assign students to visit nearby shops to explore items that are sold in units such as water in catorns, pair of shoes and other quantities and describe the concept of mole and molar quantities of substances",
+            "Classroom assignments: Assign students to work on calculations and conversions of masses and volumes of substances to moles and vice versa"
+          ],
+          "assessment_criteria": "The mole concept is clearly decribed",
+          "suggested_resources": [
+            "Analytical balance, different chemicals, and videos, animations, simulations, pictures/ wall, charts illustrating the molar mass of elements"
+          ],
+          "periods_for_specific_competence": 68,
+          "id": "chem-two-23"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(b) Explain Avogadro’s law in relation to molar quantities",
+          "learning_activity": "Group discussion: Guide student in manageable groups to use the Avogadros Law in explaining the molar quantities",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "The Avogadro’s Law is clearly explained and correctly applied in calculating molar quantities",
+          "suggested_resources": [
+            "Scientific calculator and analytical balance"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-24"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(c) Explain the principles of volumetric analysis (preparation of standard solutions and volumetric calculations)",
+          "learning_activity": "Brainstorming: Assign students to brainstorm on the concept of volumetric analysis Project works: Guide students to carry-out a visit to nearby possible industries eg. Foods, drinks, cosmetics and pharmaceuticals industries to analyse procedures for determining amounts of chemical substances. Group discussion: Guide students in manageable groups to perform volumetric calculations and make classroom presentations",
+          "suggested_methods": [
+            "Brainstorming",
+            "Project works",
+            "Group discussion"
+          ],
+          "assessment_criteria": "The principles of volumetric analysis are clearly explained",
+          "suggested_resources": [
+            "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, HCl, H2SO4, HNO3, CH3COOH, NaOH, Ca(OH)2, Na2CO3, NaHCO3"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-25"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(d) Describe the applications of volumetric analysis in real life and industrial settings as in soft drinks and cocktail making, medicine and in agriculture",
+          "learning_activity": "Experimentation: Guide students to perform experiments related to the applications of volumetric analysis",
+          "suggested_methods": [
+            "Experimentation"
+          ],
+          "assessment_criteria": "The applications of volumetric analysis in real life and industrial settings are clearly described",
+          "suggested_resources": [
+            "Pipettes, burettes, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, backing powder, vinegar, processed juice, antacids tablets and suspensions, fertiliser, NaOH, HCl, H2SO4 , HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-26"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(e) Explore the basic tenets of ionic theory and electrolysis (ionic theory, mechanism of electrolysis and laws of electrolysis)",
+          "learning_activity": "Group discussion: Guide students in manageable groups to describe the concept of ionic theory and electrolysis and make presentations Experimentation: Guide students to carry-out experiments that demonstrate the mechanism of electrolysis using simple available chemicals and apparatus Field Trip: Guide students to carry-out fields trips to near by industries involved in extraction, electroplating and purification of metals and examine the applications of electrolysis",
+          "suggested_methods": [
+            "Group discussion",
+            "Experimentation",
+            "Field Trip"
+          ],
+          "assessment_criteria": "The basic principles of ionic theory and electrolysis are clearly described",
+          "suggested_resources": [
+            "Electrolytic cells, pencils, battery (dry cells), connecting wire, distilled water, acid, H2SO4, CuSO4, ZnSO4, NaCl, KCl, and simulations or videos, diagrams, pictures, wall charts, illustrating principles of ionic theory and electrolysis"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-27"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(f) Describe the preparation and properties of various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides and sulphates of metals)",
+          "learning_activity": "Inquiry-based learning: Guide students to investigate properties of compound of metals and relate with extraction of metals, making of paints, textiles, drinking water, soaps, and detergents",
+          "suggested_methods": [
+            "Inquiry-based learning"
+          ],
+          "assessment_criteria": "The preparation and properties of various compounds of metals are clearly described",
+          "suggested_resources": [
+            "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, laboratory glassware, water trough, flasks, gas jars, kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-28"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(g) Describe the oxidizing and displacement properties of non-metal compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia, and carbon dioxide)",
+          "learning_activity": "Group discussion: Guide students in manageable groups to describe the properties of non-metals and write report Project works: Guide students to carry-out visits to nearby industries for making gases, pesticides, fertilisers and other chemicals, analyse properties of the compounds of non-metals",
+          "suggested_methods": [
+            "Group discussion",
+            "Project works"
+          ],
+          "assessment_criteria": "Oxidizing and displacement properties of non-metal compounds are clearly described",
+          "suggested_resources": [
+            "Wall charts and pictures showing some important oxidation reactions, periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, Iron(II) chloride, potassium dichromate and potassium permanganate"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-29"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
+          "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
+          "suggested_methods": [
+            "Experimentation",
+            "Field trips"
+          ],
+          "assessment_criteria": "Experiments on volumetric analysis are performed correctly",
+          "suggested_resources": [
+            "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "chem-three-30"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(b) Perform experiments on the applications of electrolysis in corrosion inhibition and purification of metals",
+          "learning_activity": "Experimentation: Guide students to investigate the applications of electrolysis in the electroplating process for common items in the environment",
+          "suggested_methods": [
+            "Experimentation"
+          ],
+          "assessment_criteria": "Experiments on the applications of electrolysis in corrosion, inhibition and purification of metals are correctly performed",
+          "suggested_resources": [
+            "Graph papers, sand papers, dry cells Li-ion (3 V &6 V), Lead acid cells (12 V , 5 Ah-7 Ah), Sulphuric acid, copper(II) sulphate, copper ores and sheets, spoon, copper wires, sodium chloride, graphite rods plate, aluminium ores, gold, zinc, impure copper plates, chloride/ sulphate, iron plates, distilled water, potassium dichromate, coulometer, pure copper rods, ammeter, voltmeter, and 100 mL and 250 mL beakers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-31"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(c) Use appropriate software to sketch the set-ups of experiments",
+          "learning_activity": "Experimentation: Guide students to use various software in sketching experimental set-ups",
+          "suggested_methods": [
+            "Experimentation"
+          ],
+          "assessment_criteria": "The set-ups of experiments are correctly sketched using Chemistry software",
+          "suggested_resources": [
+            "Chemistry-based computer software"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-32"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(d) Prepare various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides, and sulphates)",
+          "learning_activity": "Group discussion: Organise students in manageable groups to examine different compounds of metals Experimentation: Assign students to prepare various compounds of metals using available chemicals in the laboratory",
+          "suggested_methods": [
+            "Group discussion",
+            "Experimentation"
+          ],
+          "assessment_criteria": "Various compounds of metals are correctly prepared",
+          "suggested_resources": [
+            "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, water trough, laboratory glassware, flasks, gas jars, Kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-33"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(e) Demonstrate oxidizing and displacement properties of non-metallic compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia and carbon dioxide)",
+          "learning_activity": "Group discussion: Organise students in manageable groups to describe properties of non-metal compounds and make presentations Inquiry-based learning: Guide students to investigate industrial mechanisms involving oxidizing and displacement properties of non-metals",
+          "suggested_methods": [
+            "Group discussion",
+            "Inquiry-based learning"
+          ],
+          "assessment_criteria": "Oxidizing and displacement properties of non-metal compounds are correctly demonstrated",
+          "suggested_resources": [
+            "Periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, iron (II) chloride, potassium dichromate and potassium permanganate and videos, animations or simulations, wall charts and pictures illustrating some important oxidation reactions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-34"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Chemistry",
+          "specific_competence": "(f) Prepare sulphuric acid from sulphur dioxide",
+          "learning_activity": "Experimentation: Guide students to prepare sulphuric acid by using sulphur dioxide",
+          "suggested_methods": [
+            "Experimentation"
+          ],
+          "assessment_criteria": "Sulphuric acid from sulphur dioxide is correctly prepared",
+          "suggested_resources": [
+            "Wall charts showing the laboratory / industrial preparation of sulphuric acid, sulphur dioxide, distilled water, delivery tubes and flasks with side arms"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-three-35"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
+          "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
+          "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
+          "suggested_methods": [
+            "Field trips",
+            "Group discussion"
+          ],
+          "assessment_criteria": "The methods for iron extraction from its ore are clearly described",
+          "suggested_resources": [
+            "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "chem-three-36"
+        },
+        {
+          "main_competence": "4.0 Conduct a project in Chemistry",
+          "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
+          "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
+          "suggested_methods": [
+            "Group discussion",
+            "Project works"
+          ],
+          "assessment_criteria": "A simple research project in Chemistry is designed and developed correctly",
+          "suggested_resources": [
+            "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "chem-three-37"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(a) Explore the basic tenets of qualitative analysis (preliminary analysis, tests in solution and confirmatory test)",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to explain the concept of qualitative analysis and make presentations",
+            "Laboratory activity: Guide students to carry-out qualitative analysis and confirmatory tests for various salts"
+          ],
+          "assessment_criteria": "The basic tenets of qualitative analysis are clearly decribed",
+          "suggested_resources": [
+            "Qualitative analysis reagents",
+            "apparatus for qualitative analysis",
+            "qualitative analysis sheets, wall charts and samples of salts"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "chem-four-38"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts, theories and principles in Chemistry",
+          "specific_competence": "Demonstrate mastery of concepts, theories and principles in Chemistry",
+          "learning_activity": "(b) Explore the basic tenets of Organic Chemistry (organic compounds; aliphatic hydrocarbons and alcohols)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of Organic Chemistry",
+            "Group discussion: Guide students in manageable groups to describe categories of hydrocarbons and alcohols and make presentations"
+          ],
+          "assessment_criteria": "The basic tenets of Organic Chemistry are clearly explained",
+          "suggested_resources": [
+            "Molecular models and organic substances present in environment"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-four-39"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+          "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+          "learning_activity": "(a) Use Chemistry software to draw organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms",
+          "suggested_methods": [
+            "Experimentation: Guide students to use the Chemistry software to draw organic structures of organic compounds such as hydrocarbons and alcohols"
+          ],
+          "assessment_criteria": "Organic structures of hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly drawn using the Chemistry software",
+          "suggested_resources": [
+            "Chemistry-based computer software, organic model and wall chart"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "chem-four-40"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+          "specific_competence": "Use the International Union of Pure and Applied Chemistry nomenclature to name chemical species",
+          "learning_activity": "(b) Name aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms using the IUPAC system and Chemistry software",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to identify and name the first ten compounds of aliphatic hydrocarbons using IUPAC system and chemistry software, and make presentation",
+            "Laboratory observations: Guide students to make laboratory observations of labels on containers of hydrocarbons and alcohols"
+          ],
+          "assessment_criteria": "Aliphatic hydrocarbons and alcohols with 1 carbon to 10 carbon atoms are correctly named using IUPAC system",
+          "suggested_resources": [
+            "Wall charts showing structures of hydrocarbons, molecular model kits, bottles/ containers containing labelled hydrocarbons and alcohols"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-four-41"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic terminologies in Chemistry",
+          "specific_competence": "Use chemical symbols, formulae and equations to represent chemical reaction",
+          "learning_activity": "(a) Describe the chemical reactions of aliphatic hydrocarbons and alcohols in relation to their structures",
+          "suggested_methods": [
+            "Gallery walk: Guide students to describe chemical reactions and make presentations",
+            "Role play: Guide students to demonstrate on the structures of aliphatic hydrocarbons and write report",
+            "Group discussion: Guide students in manageable groups to describe reactions of alcohols and make presentations"
+          ],
+          "assessment_criteria": "Chemical reactions of aliphatic hydrocarbons and alcohols are described clearly in relation to their structures",
+          "suggested_resources": [
+            "Wall charts, pictures and videos showing chemical reactions of aliphatic hydrocarbons and alcohols"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-four-42"
+        },
+        {
+          "main_competence": "Conduct experiments in Chemistry",
+          "specific_competence": "Conduct experiments in Chemistry",
+          "learning_activity": "(a) Investigate the composition of chemical species in substances using systematic qualitative analysis",
+          "suggested_methods": [
+            "Inquiry-based learning: Assign students to investigate on the composition of substances using appropriate qualitative analysis procedures",
+            "Group discussion: Guide students in manageable groups to describe the behaviours/ properties for cations and anions in a chemical reactions"
+          ],
+          "assessment_criteria": "The composition of chemical species in substances using systematic qualitative analysis are correctly investigated",
+          "suggested_resources": [
+            "Qualitative analysis reagents",
+            "apparatus for qualitative analysis",
+            "qualitative analysis sheets, wall charts and samples of salts"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "chem-four-43"
+        },
+        {
+          "main_competence": "Conduct experiments in Chemistry",
+          "specific_competence": "Conduct experiments in Chemistry",
+          "learning_activity": "(b) Demonstrate the local and industrial preparations of aliphatic hydrocarbons and alcohols",
+          "suggested_methods": [
+            "Hands-on-minds on: Guide students to demonstrate local and industrial preparations of aliphatic hydrocarbons and alcohols and write the reports",
+            "Experimentation: Assign students to perform experiment on reactions involving preparations of aliphatic hydrocarbons and alcohols"
+          ],
+          "assessment_criteria": "The local and industrial preparation of aliphatic hydrocarbons and alcohols are clearly demonstrated",
+          "suggested_resources": [
+            "Wall charts showing distillers, and relevant chemicals and solvents for preparation of alcohols and hydrocarbons with 1 carbon to 10 carbon atoms"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-four-44"
+        },
+        {
+          "main_competence": "Conduct a project in Chemistry",
+          "specific_competence": "Conduct a project in Chemistry",
+          "learning_activity": "(a) Complete and submit a report for the project started in Form Three",
+          "suggested_methods": [
+            "Project works: Guide students to apply Chemistry principles to investigate scientific processes such as water purification, environmental user- friendly metal extraction and purification, food processing and beverage production"
+          ],
+          "assessment_criteria": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+          "suggested_resources": [
+            "Samples, project guidelines, sample of project reports and chemistry based software"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "chem-four-45"
+        }
+      ]
+    }
+  }
+}

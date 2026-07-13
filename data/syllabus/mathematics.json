@@ -1,0 +1,917 @@
+{
+  "subject": "Mathematics",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727256902-MATHEMATICS%20SYLLABUS%20-%20O%20level%20final.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(a) Explain the basic concepts of Mathematics (Meaning of mathematics, branches of mathematics, relationship between mathematics and other subjects, importance of mathematics)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss meaning of mathematics and branches of mathematics",
+            "Brainstorming: Guide students to brainstorm on importance of mathematics in daily life",
+            "Jigsaw: Guide students to explain the relationship of mathematics with other disciplines"
+          ],
+          "assessment_criteria": "The basic concept of mathematics are clearly explained",
+          "suggested_resources": [
+            "Charts of relationships between mathematics and other fields, real life objects, Math Games and Apps, Educational channels"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(b) Explain the concept of rational, irrational, and real numbers",
+          "suggested_methods": [
+            "Observation: Provide students with visual aids like bars/strips or circles and guide them to cut the aids in small equal parts. Relate their responses to the meaning of fractions",
+            "Problem solving: Organise students in manageable groups and assign each group word problems that require students to apply their knowledge of fractions, decimals and percentages to real word scenarios. Guide them to present the results and relate their findings with rational numbers",
+            "Exploration: Guide students to relate real numbers to real-life situations, for example, money and measurement"
+          ],
+          "assessment_criteria": "Rational, irrational, and real numbers are well explained",
+          "suggested_resources": [
+            "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(b) Convert repeating/recurring decimals into fractions and vice versa",
+          "suggested_methods": [
+            "Problem solving: Provide students with examples of decimals and guide them to identify repeating/recurring decimals, and convert repeating/recurring decimals into fractions and vice versa and share with the rest of the class through presentations"
+          ],
+          "assessment_criteria": "Repeating/recurring decimals are correctly converted into fractions",
+          "suggested_resources": [
+            "Calculator, Charts of real numbers, ruler, tape measure, graph papers"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(c) Represent rational numbers on a number line",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to draw number lines. Guide them to discuss steps of representing rational numbers on a number line and share their results with the rest of the class through presentations",
+            "Problem solving: Guide students to suggest real-life problems involving rational numbers. Ask them to locate points on the number line and perform calculations based on the given scenario"
+          ],
+          "assessment_criteria": "Rational numbers are well represented on the number line",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(d) Explain the concept of inequalities and absolute values of real numbers",
+          "suggested_methods": [
+            "Intuitive approach: Guide students visual aids such as number line charts and graphing tools to explore the basic concepts of inequalities and absolute values of real numbers."
+          ],
+          "assessment_criteria": "Absolute values and inequalities in real numbers are properly determined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use numerical skills in different contexts",
+          "learning_activity": "(e) Describe the importance of numbers in real-life situations",
+          "suggested_methods": [
+            "Brainstorming: Guide the students to describe the importance of numbers and apply numbers in real-life situations"
+          ],
+          "assessment_criteria": "Importance of numbers are well described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.2 Use ratios and proportions in daily life",
+          "learning_activity": "(a) Explain the concept of ratios and proportions",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to discuss and come up with real-life scenarios involving the concept of ratios and proportions. Share with the rest of the class through presentations",
+            "Jigsaw: Guide students to explore how other subjects relate to concept of ratios and proportions"
+          ],
+          "assessment_criteria": "Ratios and proportions are clearly explained",
+          "suggested_resources": [
+            "Money, charts of real-life scenarios, interest calculators, and games real objects, and bank statements"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "math-one-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.2 Use ratios and proportions in daily life",
+          "learning_activity": "(b) Solve ratio and proportion problems",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students to solve ratio and proportion problems and share the results with classmates"
+          ],
+          "assessment_criteria": "Problems on ratios and proportions are correctly solved",
+          "suggested_resources": [
+            "Calculator, Charts of real numbers, ruler, tape measure, graph papers, number line chart"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "math-one-8"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(a) Explain the concept of approximations (rounding off, significant figures, and decimal places)",
+          "suggested_methods": [
+            "Brainstorming: In manageable groups guide Students to explore the concept of approximations and share their findings with other groups.",
+            "Think-ink-pair-share: Guide students to pair up to discuss their ideas, thereafter, some of the pairs share their ideas with the whole class"
+          ],
+          "assessment_criteria": "Approximations are clearly explained",
+          "suggested_resources": [
+            "Charts of a number line, estimation jars, estimation games and applications"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "math-one-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(b) Round off numbers and estimate values of expressions",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to round off numbers and estimate values of expressions and share their findings"
+          ],
+          "assessment_criteria": "Numbers are rounded off and values of expressions are correctly estimated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "math-one-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(c) Approximate numbers to the required significant figures and decimal places",
+          "suggested_methods": [
+            "Jigsaw: Guide students to use real-life examples to approximate numbers to the required significant figures and decimal places",
+            "Problem solving: Assess the accuracy of answers provided by students when approximating numbers and provide them with feedback"
+          ],
+          "assessment_criteria": "Numbers are approximated to required significant figures and decimal places correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "math-one-11"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(d) Use approximations in computations and measurements of quantities in various contexts",
+          "suggested_methods": [
+            "Jigsaw: Organise students in manageable groups to discover the use of approximations in computations and measurements of quantities in various contexts"
+          ],
+          "assessment_criteria": "Approximations are correctly applied in computations and measurements.",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "math-one-12"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(a) Explore the basic tenets of algebra (algebraic expressions and equations, linear simultaneous equations of two unknowns, inequalities in one unknown)",
+          "suggested_methods": [
+            "Group discussion: Organize students in manageable groups, guide them to discuss algebraic expressions and equations",
+            "Visual representations: Provide learners with visual aids such as diagrams, charts, and graphs to illustrate the graphs of linear equations"
+          ],
+          "assessment_criteria": "The basic tenets of algebra are correctly explored",
+          "suggested_resources": [
+            "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "math-one-13"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(b) Use algebraic expressions to model situations (word problems into algebraic expressions and equations)",
+          "suggested_methods": [
+            "Problem solving: Incorporate word problems that require students to translate verbal descriptions into algebraic expressions and equations. Guide them to identify key words that indicate mathematical operations"
+          ],
+          "assessment_criteria": "Algebraic expressions are applied to model situations correctly",
+          "suggested_resources": [
+            "Beam balance, mathematical software such as MATLAB, and GeoGebra, real objects, Algebra animations"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "math-one-14"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(c) Solve simultaneous equations using substitution and elimination methods",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students in pair to solve simultaneous equations using substitution and elimination methods Thereafter, allow some of the pairs to share their results with the whole class"
+          ],
+          "assessment_criteria": "Simultaneous linear equations are solved correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 45,
+          "id": "math-one-15"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(d) Solve inequalities in one unknown",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide the students to solve inequalities in one unknown and present results for common understanding"
+          ],
+          "assessment_criteria": "Inequalities are solved properly",
+          "suggested_resources": [
+            "Number line chart, graphing calculator, real objects"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "math-one-16"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(a) Explore the basic tenets of coordinate geometry (gradient and equations of a straight line, graphs of linear equations)",
+          "suggested_methods": [
+            "Collaborative learning: Guide students to use visual aids, such as graphs and coordinate planes to establish the relationship between coordinates and geometrical shapes"
+          ],
+          "assessment_criteria": "Basic tenets of coordinate geometry are explored",
+          "suggested_resources": [
+            "Mathematical software such as MATLAB, and GeoGebra, Maple, Mathematica, graph papers"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-17"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(b) Find the gradient/slope of a line",
+          "suggested_methods": [
+            "Problem solving: In manageable groups, guide the students to determine the slope of a given line"
+          ],
+          "assessment_criteria": "Gradient of line is found properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-18"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(c) Determine the equation of a straight line and draw its graph",
+          "suggested_methods": [
+            "Visual representation: Utilize visual aids like diagrams and charts to illustrate the concept of a straight line visually. Provide examples of different types of straight lines and their corresponding equations and draw their graphs"
+          ],
+          "assessment_criteria": "Equation of straight line is determined and its graph is properly drawn",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-19"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(d) Solve linear simultaneous equations graphically",
+          "suggested_methods": [
+            "Visual representation: Guide students to use visual aids such as a coordinate plane, graph paper, or interactive whiteboard to plot points, draw lines, and interpret the graph",
+            "Group discussion: In manageable groups, guide the students to solve linear simultaneous equations graphically"
+          ],
+          "assessment_criteria": "Simultaneous equations are correctly solved graphically",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-20"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(e) Use mathematical software to solve and draw graphs of simultaneous equations",
+          "suggested_methods": [
+            "Use of technology: Guide students to use mathematical software such as Excel, GeoGebra, Mathematica, MATLAB to solve and draw graphs of simultaneous equations.",
+            "Problem solving: In manageable groups, provide students with plenty examples and exercise to solve and draw graphs of simultaneous equations using mathematical software"
+          ],
+          "assessment_criteria": "Simultaneous equations are solved and drawn correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "math-one-21"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use rates and variations in different contexts",
+          "learning_activity": "(a) Describe the concepts of rates and variations",
+          "suggested_methods": [
+            "Exploration: Organise students in manageable groups and guide them to explore real-life problems related to the concepts of rates and variations"
+          ],
+          "assessment_criteria": "Concepts of rates and variations are well described",
+          "suggested_resources": [
+            "Mathematical sets",
+            "marker pens",
+            "calculators",
+            "charts of real life scenarios",
+            "graph papers",
+            "rates and variation animations"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "math-two-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of mathematical language",
+          "specific_competence": "1.1 Use rates and variations in different contexts",
+          "learning_activity": "(b) Solve problems on rates and variations",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to solve problems involving rates and variations"
+          ],
+          "assessment_criteria": "Problems on rates and variations are correctly solved",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 20,
+          "id": "math-two-23"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(a) Describe the concepts of geometry (similarities and congruence)",
+          "suggested_methods": [
+            "Exploration: Guide the students to explore shapes and identify congruent and similar figures through direct comparison",
+            "Group discussion: In manageable groups, guide students to discuss the concepts of similarities and congruences through hands-on activities that involve physical manipulatives, such as pattern blocks, tangrams or geoboards"
+          ],
+          "assessment_criteria": "Concepts of geometry are well described",
+          "suggested_resources": [
+            "Mathematical sets",
+            "marker pens",
+            "calculators",
+            "graph papers",
+            "geometrical figures animations",
+            "congruence and similarities simulations"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "math-two-24"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(b) Recognize properties of similar triangles",
+          "suggested_methods": [
+            "Visual representation: Guide students to use pictures, charts, diagrams, and models to recognize properties of similar triangles",
+            "Jigsaw: Guide students to constructs and manipulate similar and congruent triangles and associate them to real-life applications",
+            "Exploration: Guide students to connect similar triangles to real world applications"
+          ],
+          "assessment_criteria": "Properties of similar triangles are clearly recognized",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 21,
+          "id": "math-two-25"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.1 Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "(c) Explain postulates, proofs, and theorems of congruent triangles",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss postulates, proofs, and theorems of congruent triangles"
+          ],
+          "assessment_criteria": "Postulates, proofs, and theorems of congruent triangles are clearly explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 22,
+          "id": "math-two-26"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(a) Explore the basic tenets of algebra (binary operations, quadratic expressions and equations, radicals, exponents, and logarithms)",
+          "suggested_methods": [
+            "Jigsaw: Organise students in manageable groups to discuss the concepts of algebra (binary operations, quadratic expressions and equations, radicals, exponents, and logarithms)",
+            "Graphical methods: Organize students in manageable groups and guide them to use graphs to solve quadratic equations",
+            "Use of technology: Guide students to use technology such as Excel, GeoGebra, Microsoft Mathematics, and MATLAB to solve quadratic equations",
+            "Problems solving: In manageable groups, guide students to apply binary operations to simplify quadratic expressions"
+          ],
+          "assessment_criteria": "Basic tenets of algebra are explored correctly",
+          "suggested_resources": [
+            "Mathematical sets",
+            "marker pens",
+            "calculators",
+            "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graphing calculators"
+          ],
+          "periods_for_specific_competence": 68,
+          "id": "math-two-27"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(b) Solve quadratic equations by using different methods (factorisation, Completing the square, and quadratic formula)",
+          "suggested_methods": [
+            "Group discussion: Guide students through solving quadratic equations by using factorisation, completing the square, and quadratic formula"
+          ],
+          "assessment_criteria": "Quadratic equations are solved correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-28"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(c) Identify and use laws of exponents involving positive, negative, and zero exponents (multiplication law, division law, power law, and zero index)",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to identify and discuss multiplication law, division law, power law, and zero index",
+            "Problem solving: Guide students to discuss and use laws of exponents involving positive, negative, and zero exponents to simplify and solve exponential equations"
+          ],
+          "assessment_criteria": "Laws of exponents are clearly identified and used correctly",
+          "suggested_resources": [
+            "Exponent games and applications",
+            "exponent puzzles",
+            "exponent rule posters",
+            "visual aids",
+            "exponent animations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-29"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(d) Write numbers in standard form",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to discuss and write numbers in standard form"
+          ],
+          "assessment_criteria": "Numbers are correctly written in standard form",
+          "suggested_resources": [
+            "Calculators",
+            "number charts",
+            "exponent games and applications",
+            "exponent puzzles",
+            "exponent rule posters",
+            "visual aids",
+            "exponent animations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-30"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(e) Use laws of logarithms to solve problems",
+          "suggested_methods": [
+            "Interactive discussion: Guide students to discuss and use laws of logarithms to solve problems involving logarithms"
+          ],
+          "assessment_criteria": "Laws of logarithms are used to solve problems correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-31"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.2 Use algebra and matrices in problem solving",
+          "learning_activity": "(f) Perform operations on radicals and rationalize the denominators",
+          "suggested_methods": [
+            "Problem solving: Guide students to discuss and perform operations on radicals and rationalize the denominators"
+          ],
+          "assessment_criteria": "Operations on radicals and denominators are clearly performed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-32"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(a) Explore the basic tenets of sets (types of sets, subsets, operation with sets, and Venn diagrams of two sets)",
+          "suggested_methods": [
+            "Exploration: Organise students in manageable groups to explore the concepts of sets, subsets, operations of sets, and Venn diagram of two sets",
+            "Jigsaw: Organise students in manageable groups to illustrate concepts of sets, subsets, operations of sets, and Venn diagrams of two sets using real-life examples"
+          ],
+          "assessment_criteria": "Basic tenets of sets are clearly explored",
+          "suggested_resources": [
+            "Real objects",
+            "set simulations",
+            "charts of different sets",
+            "playing cards",
+            "coloured chalks"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "math-two-33"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(b) Distinguish among different types of sets (universal set, equal sets, empty/null set, finite and infinite sets, equivalent sets, and disjoint sets)",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to discuss the different types of sets"
+          ],
+          "assessment_criteria": "Different types of sets are clearly distinguished",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-34"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(c) Compare sets (subsets and universal sets)",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to compare subsets and universal sets"
+          ],
+          "assessment_criteria": "Sets are clearly compared",
+          "suggested_resources": [
+            "Real objects",
+            "set simulations",
+            "charts of different sets",
+            "playing cards",
+            "coloured chalks"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-35"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(d) Perform operations with sets (union, intersection, and complement of a set)",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to perform operations with sets"
+          ],
+          "assessment_criteria": "Operations with sets are correctly performed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-36"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(e) Represent two sets in a Venn diagram",
+          "suggested_methods": [
+            "Visual representation: Guide students to use charts and tables to represent two sets in a Venn diagram"
+          ],
+          "assessment_criteria": "Sets in a Venn diagram are correctly represented",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-37"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "2.3 Use sets, sequences and series in problem solving",
+          "learning_activity": "(f) Find the number of elements in a set",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to discuss and determine the number of elements in a set"
+          ],
+          "assessment_criteria": "Number of elements in a set are correctly found",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-38"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(a) Explore the basic tenets of trigonometry (trigonometric ratios, angles of elevation and depression)",
+          "suggested_methods": [
+            "Exploration: Organise students in manageable groups to explore the concepts of trigonometric ratios, angles of elevation and depression using real-life examples"
+          ],
+          "assessment_criteria": "The basic tenets of trigonometry are clearly explored",
+          "suggested_resources": [
+            "Geometry animations",
+            "Mathematical software such as GeoGebra, MATLAB, Maple, Mathematica, graph paper, mathematical set"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "math-two-39"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(b) Determine trigonometric ratios of angles and special angles",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to discuss and determine trigonometric ratios of angles and special angles"
+          ],
+          "assessment_criteria": "Trigonometric ratios of angles and special angles are clearly determined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-40"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "3.1 Use basic coordinate geometry, trigonometry and vectors skills in daily life",
+          "learning_activity": "(c) Calculate angles of elevation and depression",
+          "suggested_methods": [
+            "Jigsaw: Organise students in manageable groups to discuss and calculate angles of elevation and depression"
+          ],
+          "assessment_criteria": "Angles of elevation and depression are calculated correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "math-two-41"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "Describe the concepts of relations and functions (linear and quadratic) (types of relations, domain and range of relations, graphs of relations and functions, inverse of relations, and functions)",
+          "suggested_methods": [
+            "Collaborative learning: Organise students in manageable groups to discuss the concepts of relations, functions, types of relations and functions, and link between relations and functions",
+            "Exploration: Organise students in manageable groups to explore the concept of relations of family members and price of different commodities in different businesses",
+            "Visual representation: Guide students to use graphs, charts, and tables to discuss mappings of two sets",
+            "Project: In small groups, guide students to visit nearby shops and relate prices of different commodities with the concept of domain and range of functions"
+          ],
+          "assessment_criteria": "Concepts of relations and functions are clearly described",
+          "suggested_resources": [
+            "Function animation",
+            "graph boards and papers",
+            "calculators",
+            "charts of real life scenarios",
+            "Mathematical software such as Mathematica, GeoGebra"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-42"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "Find the domain and range of relations and functions",
+          "suggested_methods": [
+            "Jigsaw: Organise students in manageable groups and guide them to determine domain and range from graphs, charts, and tables of relations and functions"
+          ],
+          "assessment_criteria": "Domain and range of relations and functions are clearly described",
+          "suggested_resources": [
+            "Function animation",
+            "graph boards and papers",
+            "calculators",
+            "charts of real life scenarios",
+            "Mathematical software such as Mathematica, GeoGebra"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-43"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "Find the inverses of relations and functions",
+          "suggested_methods": [
+            "Problem solving: Equip students with appropriate materials on relations and functions. Guide them to discuss the provided questions on inverses of relations and functions and present their findings"
+          ],
+          "assessment_criteria": "The inverse of relations and functions are correctly found",
+          "suggested_resources": [
+            "Function animation",
+            "graph boards and papers",
+            "calculators",
+            "charts of real life scenarios",
+            "Mathematical software such as Mathematica, GeoGebra"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-44"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use geometry, approximations, relations and functions in various contexts",
+          "learning_activity": "Draw graphs of relations and functions",
+          "suggested_methods": [
+            "Visual representation: In manageable groups guide students to use visual aid to draw graphs of relations and functions",
+            "Use of technology: Guide students to use technology such as graphing calculators, and software such as MATLAB to draw graphs of relations and functions"
+          ],
+          "assessment_criteria": "The graphs of relations and functions are correctly drawn",
+          "suggested_resources": [
+            "Function animation",
+            "graph boards and papers",
+            "calculators",
+            "charts of real life scenarios",
+            "Mathematical software such as Mathematica, GeoGebra"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-45"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use algebra and matrices in problem solving",
+          "learning_activity": "Explore the basic tenets of algebra (linear programming: constraints, objective functions, and optimal solution)",
+          "suggested_methods": [
+            "Jigsaw: Organise students in manageable groups to discuss the concepts of linear programming, constraints, objective functions, and optimal solutions of linear programming using real-life examples",
+            "Graphical methods: In manageable groups, guide students to use graphs to determine optimal solutions of linear programming problems with two variables",
+            "Use of technology: Guide students to use technology such as Excel and MATLAB to determine the optimal solutions of linear programming problems with two variables",
+            "Problems solving: In manageable groups, guide students to find optimal solutions of linear programming problems"
+          ],
+          "assessment_criteria": "The concepts of linear programming are clearly explored",
+          "suggested_resources": [
+            "Function animation",
+            "graph boards and papers",
+            "calculators",
+            "charts of real life scenarios",
+            "Mathematical software such as Mathematica, GeoGebra"
+          ],
+          "periods_for_specific_competence": 78,
+          "id": "math-three-46"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use sets, sequences and series in problem solving",
+          "learning_activity": "Explore the basic tenets of sequences and series (Arithmetic progression AP , Geometric progression GP)",
+          "suggested_methods": [
+            "Exploration: Guide students to explore the concepts of sequences and series",
+            "Visual representation: Guide students to use visual aids such as charts, diagrams, graphs, and real objects to discuss the concepts of Arithmetic Progression (AP) and Geometric Progression (GP)"
+          ],
+          "assessment_criteria": "The concepts of sequences and series are clearly explored",
+          "suggested_resources": [
+            "Pattern puzzles",
+            "pattern blocks",
+            "visual aids",
+            "sequence and series games and applications",
+            "calculators"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-47"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use sets, sequences and series in problem solving",
+          "learning_activity": "Find the general term for AP and GP and use them to derive formulae for the sums of APs and GPs",
+          "suggested_methods": [
+            "Exploration: Organise students in manageable groups to discover and derive the nth terms of AP and GP",
+            "Group discussion: In manageable groups, guide students to determine the nth terms of APs and GPs"
+          ],
+          "assessment_criteria": "The formulae for the sum of APs and GPs are correctly derived",
+          "suggested_resources": [
+            "Pattern puzzles",
+            "pattern blocks",
+            "visual aids",
+            "sequence and series games and applications",
+            "calculators"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-48"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use sets, sequences and series in problem solving",
+          "learning_activity": "Calculate arithmetic mean, geometric mean, and compound interest",
+          "suggested_methods": [
+            "Exploration: Organise students in manageable groups to explore the concepts of arithmetic mean, geometric mean, and compound interest",
+            "Think-ink-pair-share: In manageable groups, instruct students to discuss and apply the concepts of arithmetic mean, geometric mean, and compound interest in their real-life situation",
+            "Interactive discussion: Guide students to apply the concept of compound interest in real-life situations, such as calculating the total cost of loan or the return on an investment over time"
+          ],
+          "assessment_criteria": "The arithmetic mean, geometric mean, and compound interest are correctly found",
+          "suggested_resources": [
+            "Pattern puzzles",
+            "pattern blocks",
+            "visual aids",
+            "sequence and series games and applications",
+            "calculators"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "math-three-49"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability and statistics",
+          "specific_competence": "Use basic skills of circles in daily life",
+          "learning_activity": "Explore the basic tenets of a circle (angle properties, theorems, tangents, chords and radians)",
+          "suggested_methods": [
+            "Think- ink-pair-share: Organise students in manageable groups to discuss the concepts of angle properties of a circle, tangent, theorems, chords, and radians",
+            "Scenario: Provide a scenario that shows the application of circles. Allow learners to discuss, make follow up and provide feedback",
+            "Visual representation: Guide students to use visual aids such as diagrams, pictures, and animations to understand the concepts of angle properties of a circle, tangent, theorems, chords, and radians"
+          ],
+          "assessment_criteria": "The concept of circle is clearly explored",
+          "suggested_resources": [
+            "Charts of circle theorems",
+            "circle theorems animations",
+            "circle simulations",
+            "mathematical sets",
+            "visual aids",
+            "Mathematical software such as GeoGebra"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "math-three-50"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use algebra and matrices in problem solving",
+          "learning_activity": "Explore the basic tenets of matrices ( 2×2 matrices: operations, determinant, inverse, and transformations)",
+          "suggested_methods": [
+            "Demonstration: Demonstrate the concept of matrices using real-life examples",
+            "Visual representation: Guide students to use graphs, charts, and tables to explain the concept of matrices"
+          ],
+          "assessment_criteria": "The basic tenets of algebra are explored clearly",
+          "suggested_resources": [
+            "Visual aids",
+            "Coloured blocks",
+            "matrix calculators",
+            "charts of real life scenarios",
+            "graphing calculators"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "math-four-51"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in geometry and algebra",
+          "specific_competence": "Use algebra and matrices in problem solving",
+          "learning_activity": "Apply matrices to solve simultaneous equations of two unknowns (matrix inversion method and Cramer’ s rule)",
+          "suggested_methods": [
+            "Questions and answers: Organise students in manageable groups to determine the solution of simultaneous equations of two unknowns using matrix inversion method and Cramer’s rule",
+            "Use of technology: Guide students to use technology such as graphing calculators, and software such as Excel, Microsoft Mathematics, and MATLAB to determine the solutions of simultaneous equations with two unknowns using matrix inversion method and Cramer’s rule",
+            "Problem solving: In manageable groups, provide students with examples to practice basic operations on matrices, determinants, inverses, and transformations on matrices"
+          ],
+          "assessment_criteria": "Matrices are clearly applied to solve simultaneous equations of two unknowns",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "math-four-52"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use basic coordinate geometry, trigonometry, and vectors skills in daily life",
+          "learning_activity": "Explore the basic tenets of coordinate geometry (midpoint of a line segment, distance between two points on a line, parallel, and perpendicular lines)",
+          "suggested_methods": [
+            "Demonstration: Demonstrate the concepts of midpoint of a line segment, distance between two points on a line, parallel lines, and perpendicular lines using real-life problems",
+            "Problem solving: Organise students in manageable groups to use real world examples to find the midpoint of a line segment, distance between two points on a line, parallel, and perpendicular lines",
+            "Visual representation: Guide students to use graphs, charts, and real objects to explain the concepts of midpoint of a line segment, distance between two points on a line, parallel lines, and perpendicular lines"
+          ],
+          "assessment_criteria": "The basic tenets of coordinate geometry are well explored",
+          "suggested_resources": [
+            "Graph papers",
+            "mathematical sets",
+            "graph boards/papers",
+            "geometry animation",
+            "Mathematical software such as GeoGebra, Mathematica, MATLAB, Maple"
+          ],
+          "periods_for_specific_competence": 88,
+          "id": "math-four-53"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use basic coordinate geometry, trigonometry, and vectors skills in daily life",
+          "learning_activity": "Apply sine and cosine rules to find distances or angles of elevation",
+          "suggested_methods": [
+            "Exploration: Guide students to explore the application of sine and cosine rules in finding distances or angles of elevation",
+            "Use of technology: Guide students to use technology such as graphing calculators, and software such as Excel and MATLAB to apply sine and cosine rules to find distances or angles of elevation",
+            "Problem solving: In manageable groups, provide students with questions to practice on how to apply the sine and cosine rules to determine the distance or angles of elevation"
+          ],
+          "assessment_criteria": "The sine and cosine rules are clearly applied to find distances and angles of elevation",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 88,
+          "id": "math-four-54"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use basic coordinate geometry, trigonometry, and vectors skills in daily life",
+          "learning_activity": "Derive and use compound angles to solve problems",
+          "suggested_methods": [
+            "Group discussion: Organise students in manageable groups to derive and use compound angles to solve problems",
+            "Use of technology: Guide students to use technology such as graphing calculators and compound angles to solve problems",
+            "Jigsaw: In manageable groups, provide students with assignment to solve problems"
+          ],
+          "assessment_criteria": "The compound angles are clearly derived and used to solve problems",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 88,
+          "id": "math-four-55"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use basic coordinate geometry, trigonometry, and vectors skills in daily life",
+          "learning_activity": "Explore the basic tenets of vectors (displacement and position vectors, magnitude and direction, sum and differences, multiplication of vectors by a scalar)",
+          "suggested_methods": [
+            "Exploration: Encourage students individually or in groups to explore the basic tenets of vectors through visual representations, problem solving and its applications in real life"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 88,
+          "id": "math-four-56"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use probability in problem solving",
+          "learning_activity": "Explore the basic tenets of probability of two events (probability of an event, mutually exclusive events, dependent events, combined events using tree diagrams, tables and formulae)",
+          "suggested_methods": [
+            "Visual representation: Use interactive tools to demonstrate concept of probability of an event",
+            "Group discussion: Guide students in manageable groups to discuss and determine probability of an event, dependent event, combined events using tree diagram, tables and formulae"
+          ],
+          "assessment_criteria": "The basic tenets of probability are well explored",
+          "suggested_resources": [
+            "Probability games",
+            "probability simulations",
+            "charts of real life situations",
+            "probability games",
+            "probability trees and diagram"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "math-four-57"
+        },
+        {
+          "main_competence": "Demonstrate mastery of basic concepts in coordinate geometry, trigonometry, circles, vectors, probability, and statistics",
+          "specific_competence": "Use statistics in problem solving",
+          "learning_activity": "Explore the basic tenets of statistics (frequency distribution, measures of central tendency, histogram, frequency polygon, and cumulative frequency curve ‘ogive’)",
+          "suggested_methods": [
+            "Demonstration: Using real-life examples, guide the students to describe and demonstrate the concepts of frequency distribution and measure of central tendency",
+            "Group discussion: Guide students in manageable groups to discuss and determine the measures of central tendency, draw histogram, frequency polygon and cumulative frequency curve (ogive)",
+            "Exploration: Guide students in groups to explore the basic tenets of statistics through the use of technology, visual aids such as charts of data and graphs of real life scenarios"
+          ],
+          "assessment_criteria": "The basic tenets of statistics are explored clearly",
+          "suggested_resources": [
+            "Statistical calculators",
+            "statistical charts and graphs",
+            "graph paper",
+            "real-life case studies charts",
+            "data visualisation tools",
+            "calculators",
+            "mathematical sets",
+            "chalks",
+            "graph boards/papers",
+            "and other relevant resources"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "math-four-58"
+        }
+      ]
+    }
+  }
+}

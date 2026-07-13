@@ -1,0 +1,2291 @@
+{
+  "subject": "English Language",
+  "level": "Ordinary Secondary Education (Form I-IV)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1756459411-ENGLISH%20lANGUAGE%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form One": {
+      "activities": [
+        {
+          "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+          "specific_competence": "1.1 Use ICT tools to search for information from different sources",
+          "learning_activity": "(a) Familiarise with various types of search engines (e.g., Google, Google Scholar, Bing)",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming different types of search engines and the information they can search through them",
+            "Practical: Guide the students in groups through completing web search tasks to find information on a given topic"
+          ],
+          "assessment_criteria": "Various types of search engines are familiarised effectively",
+          "suggested_resources": [
+            "Relevant texts and journals"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "engl-one-1"
+        },
+        {
+          "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+          "specific_competence": "1.1 Use ICT tools to search for information from different sources",
+          "learning_activity": "(b) Utilise ICT tools to search for general information (e.g., books, journals)",
+          "suggested_methods": [
+            "Practical: Guide the students through completing web search tasks to find books, journals, articles, and images and storing them for use"
+          ],
+          "assessment_criteria": "ICT tools are utilised effectively in searching for general information",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-2"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1. Develop listening skills",
+          "learning_activity": "(a) Answer questions based on information from presentations/tasks",
+          "suggested_methods": [
+            "Presentation: Make a presentation on a selected topic to the students and ask them questions",
+            "Guide the students in groups through presenting topics and responding to questions from others’ presentations"
+          ],
+          "assessment_criteria": "Questions based on information from presentations/tasks are answered correctly",
+          "suggested_resources": [
+            "Texts about a wide range of events",
+            "recorded materials on various situations",
+            "pictures",
+            "songs",
+            "tongue twisters",
+            "and language games"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "engl-one-3"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1. Develop listening skills",
+          "learning_activity": "(b) Practise pronunciation of words from oral and audio/audio-visual sources",
+          "suggested_methods": [
+            "Tongue twisters: Play recorded tongue twisters for students to listen and note down new words they learned to pronounce",
+            "Reciting: Guide the students through reciting the tongue twisters by pronouncing words correctly",
+            "Songs: Play recorded authentic songs with the appropriate pronunciations for students to listen. Then, guide the students through singing the songs by pronouncing words correctly"
+          ],
+          "assessment_criteria": "Pronunciation of words from oral and audio/audio-visual sources is practised appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-4"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1. Develop listening skills",
+          "learning_activity": "(c) Write words heard from oral and audio/audio-visual sources",
+          "suggested_methods": [
+            "Dictation: Guide the students through writing the words heard from audio/audio-visual recordings",
+            "Pair work: Guide the students in pairs through writing sentences using the words heard"
+          ],
+          "assessment_criteria": "Words heard from oral and audio/audio-visual sources are written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "engl-one-5"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1. Develop listening skills",
+          "learning_activity": "(d) Reproduce messages from oral presentations",
+          "suggested_methods": [
+            "Imitation: Guide the students through reproducing messages from the information presented orally",
+            "Whispering game/Message passing : Guide the students through listening to oral information and passing it on to others"
+          ],
+          "assessment_criteria": "Messages from oral presentations are reproduced accurately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-6"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(a) Distinguish words with minimal sound distinctions that have different meanings (cut/cat; paper/pepper; date/debt)",
+          "suggested_methods": [
+            "Word cards: Use an appropriate number of cards to write minimal pairs and ask the students to distinguish their sounds and meanings",
+            "Tongue twisters : Guide the students through pronouncing tongue twisters with minimal pairs",
+            "Minimal pairs games: Guide the students through pronouncing words with nearly similar sounds by using games (e.g., Is it a pair ?, odd one out , minimal pair up, minimal pair slap , minimal pairs pelmanism, and pronunciation journey)"
+          ],
+          "assessment_criteria": "Words with minimal sound distinctions that have different meanings are distinguished correctly",
+          "suggested_resources": [
+            "Dictionaries",
+            "speakers",
+            "written texts",
+            "recorded materials on various situations",
+            "cards",
+            "tongue twisters"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "engl-one-7"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(b) Practise pronunciation with proper word stress assignment",
+          "suggested_methods": [
+            "Mimic : Use ICT to play word pronunciation with appropriate stress placement and ask the students to mimic",
+            "Dictionary use : Use a dictionary to show the students how to indicate stress on syllables of words, and guide them through pronouncing the words",
+            "Games: Use games like Clap or Clicking fingers on the stresse d syllables and mumbling stress pattern"
+          ],
+          "assessment_criteria": "Pronunciation with proper word stress assignment is practised appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-8"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(c) Practise pronunciation of words with short and long vowels (e.g., sit/seat, hit/heat, pot/port)",
+          "suggested_methods": [
+            "Mimic: Use ICT to play pronunciation of words with short and long vowels and ask the students to mimic",
+            "Games: Use games like ‘Same or Different’ and ‘Pronunciation Maze’ to guide the students through pronouncing words with short and long vowels"
+          ],
+          "assessment_criteria": "Pronunciation of words with short and long vowels is practised appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(d) Practise pronunciation of unfamiliar sounds (e.g., through the use of tongue twisters, songs, poems)",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for unfamiliar words from different sources and presenting their work to the class",
+            "Tongue twisters: Guide the students through pronouncing tongue twisters with unfamiliar sounds",
+            "Songs: Guide the students through singing a song with unfamiliar sounds",
+            "Poems: Guide the students through reading aloud and reciting poems with unfamiliar sounds",
+            "Mimic: Use ICT to play the pronunciation of unfamiliar sounds and ask the students to mimic"
+          ],
+          "assessment_criteria": "Pronunciation of unfamiliar sounds is practised appropriately through the use of various techniques",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(e) Practise pronunciation of words with similar sounds that have different spellings (e.g., one/won, ewe/you)",
+          "suggested_methods": [
+            "Drill: Guide the students through choral and individual repetition to pronounce correctly words with similar sounds",
+            "Games: Guide the students through pronouncing words with similar sounds but different spellings by using games (e.g., Is it a pair?, odd one out, pelmanism and homophone go fish)"
+          ],
+          "assessment_criteria": "Pronunciation of words with similar sounds but different spellings is practised appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-11"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
+          "learning_activity": "(a) Write new vocabulary from conversations and written texts on particular topics (e.g., politics, sports, tourism, agriculture)",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing a particular topic and writing the vocabulary heard and their meanings",
+            "Dialogue: Guide the students through participating in a dialogue and writing new vocabulary from it",
+            "Extensive reading: Guide the students through reading texts to acquire vocabulary for specific fields and writing new vocabulary"
+          ],
+          "assessment_criteria": "New vocabulary from conversations and written texts on particular topics are written correctly",
+          "suggested_resources": [
+            "Audio and audio-visual materials",
+            "texts of different types",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "engl-one-12"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
+          "learning_activity": "(b) Construct sentences using vocabulary acquired from conversations and written texts",
+          "suggested_methods": [
+            "Dialogue: Guide the students through acting out a dialogue and constructing sentences using the new vocabulary learned",
+            "Debate: Guide the students through participating in a debate and constructing sentences using the new vocabulary learned",
+            "Spotting words : Guide the students through identifying new vocabulary from written texts and constructing sentences using the words",
+            "Close reading: Guide the students through reading texts and constructing sentences using the new words learned"
+          ],
+          "assessment_criteria": "Sentences are constructed correctly using vocabulary acquired from conversations and written texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-13"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.3 Develop vocabulary from conversations and written texts",
+          "learning_activity": "(c) Play vocabulary building games using digital and non-digital resources (e.g., word board games, charades, picture games, flash cards)",
+          "suggested_methods": [
+            "Games: Guide the students through playing vocabulary building games",
+            "Questions and answers: Ask the students some questions about the new vocabulary they have learned",
+            "Collaborative practice : Guide the students in pairs/groups through constructing sentences using the new vocabulary they have learned"
+          ],
+          "assessment_criteria": "V ocabulary building games are played accurately using digital and non-digital resources",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-14"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(a) Express ideas or opinions in contextualised oral and written language tasks using proper grammar and vocabulary (e.g hospital, market, library, bus stop, sport and games)",
+          "suggested_methods": [
+            "Conversations : Guide the students through expressing their opinions orally and in writing by participating in conversations (e.g., discussion, debate, dialogue, bargaining) on controversial issues",
+            "Scenario: Present some controversial cases and ask the students to discuss and express their opinions orally and in writing.",
+            "Roleplay: Guide the students through roleplaying radio/TV programmes by giving opinions on given topics"
+          ],
+          "assessment_criteria": "Ideas or opinions are expressed correctly in contextualised oral and written language tasks using proper grammar and vocabulary",
+          "suggested_resources": [
+            "Audio and audio-visual materials (audio clips, recorded stories)",
+            "texts of different types",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "engl-one-15"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(b) Construct sentences using appropriate grammar and vocabulary relating to a specific context (structure: tenses – simple past, simple present, articles, present progressive, pronouns, coordinators, prepositions, adjectives, adverbs)",
+          "suggested_methods": [
+            "Description: Guide the students through describing objects, events, and places using appropriate grammar and vocabulary",
+            "Pair work: Guide the students in pairs through writing sentences in different tenses and discussing why the sentences are written in those tenses",
+            "Group work : Guide the students in groups through constructing sentences orally and in writing which describe qualities using pronouns, coordinators, prepositions, adjectives and adverbs"
+          ],
+          "assessment_criteria": "Sentences are constructed correctly using appropriate grammar and vocabulary relating to a specific context",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-16"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(c) Debate on topics using proper grammar and vocabulary",
+          "suggested_methods": [
+            "Debates: Guide the students through conducting debates on cross-cutting topics using proper grammar and vocabulary"
+          ],
+          "assessment_criteria": "Topics are debated appropriately using proper grammar and vocabulary",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-17"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(a) Sequence the order of events in stories",
+          "suggested_methods": [
+            "Reading stories : Guide the students through reading stories with sequence words. (e.g., next, then, after, earlier, first, second, and later) Then, ask them to identify the words and use them to write a paragraph",
+            "Filling the missing parts: Give the students stories with skipped parts and ask them to fill in the missing parts using sequence words",
+            "Strip story: Guide the students through sequencing the order of events in stories using strip story. Then, let them read their stories aloud in the classroom",
+            "Story completion: Provide the students with a beginning part of a story and guide them through completing it using sequence words",
+            "Jumbled texts : Use jumbled texts to guide the students through ordering the sequence of events in the stories"
+          ],
+          "assessment_criteria": "The order of events in a story is sequenced logically",
+          "suggested_resources": [
+            "A variety of texts",
+            "selected class readers",
+            "newspaper articles",
+            "journals",
+            "encyclopaedia"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "engl-one-18"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(b) Make a summary of stories",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing the main issues in a story",
+            "5Ws and 1H, First Then Finally, SWBST, and SAAC Method: Guide the students through summarising various stories using the aforementioned methods"
+          ],
+          "assessment_criteria": "Stories are summarised correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-19"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(c) Retell stories",
+          "suggested_methods": [
+            "Retelling stories: Guide the students in pairs through retelling stories by taking turns",
+            "Narration: Guide the students through narrating to others about story books and appropriate movies they have watched"
+          ],
+          "assessment_criteria": "Stories are retold accordingly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-20"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(a) Paraphrase various oral messages from different contexts",
+          "suggested_methods": [
+            "Paraphrasing: Read passages orally, play recorded texts and guide the students through paraphrasing the messages",
+            "Project: Ask the students to listen to various oral messages (presentations, on radio, TV) and paraphrase the messages for presentation in the classroom"
+          ],
+          "assessment_criteria": "Various oral messages are paraphrased appropriately from different contexts",
+          "suggested_resources": [
+            "Oral and written texts",
+            "audio and audio-visual materials (audio clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "engl-one-21"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(b) Respond to oral messages from different contexts",
+          "suggested_methods": [
+            "Roleplay: Guide the students through roleplay to respond to oral instructions, information and orders",
+            "Telephone conversation : Guide the students through responding to interrogations via telephone conversations"
+          ],
+          "assessment_criteria": "Oral messages from different contexts are responded to correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-22"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(c) Respond to questions about oral messages",
+          "suggested_methods": [
+            "Panel interviews: Guide the students through responding to questions in panel interviews"
+          ],
+          "assessment_criteria": "Questions about oral messages are responded to correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-23"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(a) Express ideas and opinions in different interpersonal communication settings (e.g., I think…, I guess…, In my opinion…, I would say …)",
+          "suggested_methods": [
+            "Information search : Guide the students through seeking information on expressing ideas and opinions in interpersonal communication",
+            "Scenario: Use a controversial scenario to guide the students through expressing their opinions orally and in writing"
+          ],
+          "assessment_criteria": "Ideas and opinions are expressed correctly in different interpersonal communication settings",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "engl-one-24"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(b) Use appropriate non-verbal cues in interpersonal communication",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing the meaning of different non-verbal cues and presenting the work to the class",
+            "Act it out: Guide the students in groups through acting and interpreting non-verbal cues"
+          ],
+          "assessment_criteria": "Appropriate non-verbal cues are used correctly in interpersonal communication",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-25"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(c) Use proper grammar and vocabulary in different interpersonal communication contexts (e.g., greetings, biding farewell, apologising)",
+          "suggested_methods": [
+            "Roleplay: Guide the students through roleplaying greeting guests, bidding farewell and apologising using proper grammar and vocabulary"
+          ],
+          "assessment_criteria": "Grammar and vocabulary are used correctly in different interpersonal communication contexts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-26"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(d) Use appropriate language and expressions in communicating with people of different age groups and statuses (e.g., peers, elders, family members, leaders)",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in groups through brainstorming ideas on the differences in conversations between different groups of people",
+            "Dialogue: Guide the students through participating in dialogue among different age groups and statuses"
+          ],
+          "assessment_criteria": "Appropriate language and expressions are used with different age groups and statuses",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-27"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(a) Express daily routines (structure: present simple)",
+          "suggested_methods": [
+            "Real-life expression: Guide the students through expressing orally what they do usually",
+            "Inquiry: Guide the students through inquiring what famous people in their community do usually and presenting their work before the class",
+            "Interview: Guide the students in pairs through interviewing each other about their fact routines"
+          ],
+          "assessment_criteria": "Daily routines are expressed correctly",
+          "suggested_resources": [
+            "Dictionaries",
+            "relevant texts",
+            "pictures",
+            "maps of various places (e.g., school, village)"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "engl-one-28"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(b) Express ongoing activities (structure: present progressive)",
+          "suggested_methods": [
+            "Description: Guide the students through describing events as they occur (e.g., wedding ceremonies, birthday parties, burial ceremonies, processes, and public events) using the present progressive tense"
+          ],
+          "assessment_criteria": "Ongoing activities are expressed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-29"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(c) Express family relationship and occupations (structure: present simple+progressive)",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in pairs through brainstorming ideas about family relationship and different kinds of occupations",
+            "Songs and games : Guide the students through singing songs and playing games about family relationships and occupations",
+            "Matching: Guide the students through matching pictures with occupations and occupations with their descriptions",
+            "The use of pictures: Display pictures of people with different occupations and ask the students to express their occupations using the present simple+progressive tenses",
+            "Real-life expression: Ask the students to express the occupations of their parents/guardians and other relatives using the present simple+progressive tenses"
+          ],
+          "assessment_criteria": "Family relationship and occupations are expressed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-30"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(d) Express ownership/possession (structure: have/has in present simple and had in past simple, apostrophe, possessive pronouns)",
+          "suggested_methods": [
+            "Information search: Guide the students through reading texts on expressing possession using have, has, had, apostrophe, and possessive pronouns",
+            "Real-life expression: Guide the students through expressing possessions using the real objects they posses",
+            "Conversation: Guide the students in groups through engaging in conversations about what their relatives and neighbours posses"
+          ],
+          "assessment_criteria": "Ownership/possession is expressed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-31"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(e) Give directions",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for information on how to ask for and give directions and present the work to the class",
+            "Map reading: Guide the students in pairs through directing each other how to reach various stations/points (from one point to another) as indicated in the map",
+            "Group work: Guide the students in groups through asking and giving directions on how to reach various places (e.g., offices, classrooms, and toilets) within the school compound"
+          ],
+          "assessment_criteria": "Directions are given appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-32"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(a) Recognise the main stages of writing texts ( e.g., pre-writing, drafting, revising, editing)",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing stages of writing texts and presenting their work to the class",
+            "Demonstration: Demonstrate how to begin writing by asking the students to give ideas and help you plan the text"
+          ],
+          "assessment_criteria": "The stages of writing texts are recognised appropriately",
+          "suggested_resources": [
+            "Relevant texts",
+            "dictionaries",
+            "samples of friendly letters and invitations"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "engl-one-33"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(b) Write a variety of friendly letters and invitations (vocabulary: Dear Father/Uncle, Dear Mother/Aunt, Mr/Mrs…, Dr./Prof./Madam/Ms …)",
+          "suggested_methods": [
+            "Observation: Display/distribute samples of friendly letters and invitations for the students to study and discover their parts",
+            "Collaboration : Guide the students through collaborating in writing friendly letters and invitations"
+          ],
+          "assessment_criteria": "A variety of friendly letters and invitations are written correctly with appropriate vocabulary",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-34"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(c) Create dialogues on various topics (e.g., the value of education, environment, culture, gender equality)",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in groups through brainstorming ideas on the meaning and structure of dialogues",
+            "Observation: Guide the students through studying a prepared dialogue and writing down the key features they observe",
+            "Pair work: Guide the students in pairs through creating dialogues on various topics",
+            "Act it out: Guide the students in pairs through acti ng out the dialogues they have prepared"
+          ],
+          "assessment_criteria": "Dialogues on various topics are created appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-35"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(d) Create and express orally daily and weekly timetables for routines",
+          "suggested_methods": [
+            "Real-life expression: Guide the students through expressing orally and in writing what they do weekly",
+            "Inquiry: Guide the students through inquiring what famous people do weekly and reporting to the classroom",
+            "Interview: Guide the students through interviewing each other in pairs about their fact routines and timetables",
+            "Planning and preparing : Guide the students individually through planning and preparing their w eekly timetables and presenting them to the class"
+          ],
+          "assessment_criteria": "Daily and weekly time-tables for routines are created and expressed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-one-36"
+        }
+      ]
+    },
+    "Form Two": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.1 Develop listening skills",
+          "learning_activity": "(a) Participate in various conversations in different communicative settings (e.g., peer discussions, storytelling)",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing various cross-cutting issues, noting down important ideas and presenting the work to the class",
+            "Storytelling: Ask the students in pairs to tell stories by taking turns, write down important ideas and present them to the class",
+            "Dialogue: Guide the students through acting out a dialogue on various interesting events (football matches, tourism trips, visits to grandparents, and school leaders’ election) and ask them questions from the dialogue",
+            "Interview: Guide some students (inteviewers) through inteviewing others (interviewee) on various issues/topics",
+            "Round table circle : Guide the students through participating in discussion on the selected topics using the round table circle and presenting their work to the class"
+          ],
+          "assessment_criteria": "Participations in conversations in various communicative settings is done effectively",
+          "suggested_resources": [
+            "Texts of a wide range of events",
+            "pictures and recorded materials on various situations",
+            "songs",
+            "language games"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "engl-two-37"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.1 Develop listening skills",
+          "learning_activity": "(b) Summarise information from oral presentations and audio/audio-visual sources",
+          "suggested_methods": [
+            "Presentation : Make a presentation on any interesting topic and ask the students to listen to it attentively",
+            "Discussion: Guide the students through discussing and summarising the information from the presentation, and presenting their work to the class",
+            "Recordings: Guide the students through summarising recorded information (e.g., recorded song, dialogue, speech and interview) played in class using digital devices (e.g., smartphone, tablet, computer, radio). Then, ask each them to present their work through gallery walk",
+            "Project activity: Ask the students to listen to and watch the news on the radio and TV respectively at home and school. Then, ask them to summarise the news broadcast and present the work to the class"
+          ],
+          "assessment_criteria": "Information from oral presentations and audio/audio-visual sources is summarised logically",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 26,
+          "id": "engl-two-38"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.1 Develop listening skills",
+          "learning_activity": "(c) Paraphrase information presented orally",
+          "suggested_methods": [
+            "Narrating stories: Narrate an interesting story to the students, and guide them through paraphrasing information from the story and presenting their work to the class",
+            "Project activity: Guide the students through paraphrasing the news broadcast they have listened to on radio and watched on TV at home or school and presenting their work to the class"
+          ],
+          "assessment_criteria": "Information presented orally is paraphrased correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "engl-two-39"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(a) Construct sentences with proper intonation",
+          "suggested_methods": [
+            "Brainstorming: Guide the students through brainstorming various communication contexts/settings (e.g., market, sports and games, hospital, restaurant/hotel) and identifying vocabulary used in such contexts/settings",
+            "Sentence construction: Guide the students through constructing sentences orally using the identified vocabulary",
+            "Scenario/case study: Guide the students through using some vocabulary and grammatical items from a scenario /case study to construct different sentences orally"
+          ],
+          "assessment_criteria": "Sentences with proper intonation are constructed appropriately",
+          "suggested_resources": [
+            "Dictionaries",
+            "speakers",
+            "written texts",
+            "recorded materials on various situations"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "engl-two-40"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.2 Produce short and coherent oral messages with intelligible pronunciation and fluency",
+          "learning_activity": "(b) Use cohesive devices to deliver oral presentations of events (e.g., first of all, moreover, but, however, yet, in contrast, although, otherwise, still, on the contrary, on the other hand)",
+          "suggested_methods": [
+            "Discussion: Guide the students in pairs through preparing and making presentations using cohesive devices"
+          ],
+          "assessment_criteria": "Cohesive devices are used to deliver oral presentations logically",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "engl-two-41"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.3 Develop vocabulary from conversations and written texts",
+          "learning_activity": "(a) Recognise words with opposite meanings from conversations and written texts",
+          "suggested_methods": [
+            "Roleplay: Use a roleplay to guide the students in pairs or in groups through acting out different roles. (e.g., doctor and patient, teacher and student, chairperson and villagers)",
+            "TIPS: Provide the students with some words from the roleplay and guide them through TIPS to find their opposite meanings and use them to construct sentences",
+            "Hot seat: Guide the students through using the hot seat to ask and respond to questions based on the topics provided to them",
+            "Brainstorming: Ask the students to brainstorm the opposite meanings of some words used in the hot seat and use them to construct sentences",
+            "Discussion: Provide the students with texts to read, discuss their contents and make presentations",
+            "Memory card game: Guide the students through recognising words with opposite meanings from the texts read by playing the memory card game, finding their meanings and using them to construct sentences"
+          ],
+          "assessment_criteria": "Words with opposite meanings from conversations and written texts are recognised",
+          "suggested_resources": [
+            "Audio and audio-visual materials (audio/video clips, recorded stories)",
+            "texts of different types",
+            "dictionaries",
+            "encyclopaedia",
+            "thesaurus"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "engl-two-42"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.3 Develop vocabulary from conversations and written texts",
+          "learning_activity": "(b) Use words from conversations and written texts to produce new vocabulary by attaching suffixes and prefixes (e.g., kind-unkind; slow-slowly)",
+          "suggested_methods": [
+            "Talk show: Guide the students through participating in talk shows on different topics/themes and using some vocabulary from the talk shows to produce new vocabulary by attaching suffixes and prefixes and then constructing sentences using the new vocabulary learned",
+            "Prefix and suffix bingo: Use the prefix and suffix bingo to guide the students through forming new vocabulary. Then, ask them to construct sentences using the new vocabulary"
+          ],
+          "assessment_criteria": "New vocabulary is correctly formed from conversations and written texts by attaching suffixes and prefixes",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "engl-two-43"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(a) Produce contextualised oral and written descriptions based on personal experience",
+          "suggested_methods": [
+            "Description: Guide the students through describing different events, places, and living and non-living things based on their experience orally and in writing using descriptive words"
+          ],
+          "assessment_criteria": "Oral and written descriptions based on personal experience are produced logically",
+          "suggested_resources": [
+            "Audio and audio-visual materials (audio/video clips, recorded stories)",
+            "texts of different types",
+            "dictionaries",
+            "head set",
+            "media player/recorder"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "engl-two-44"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(b) Compose passages on specific contexts (structure: tenses –past progressive, present perfect, past perfect, present progressive, adjectives, adverbs, coordinators, prepositions, determiners, conjunctions)",
+          "suggested_methods": [
+            "Jumbled sentences/paragraphs: Ask the students to rewrite jumbled sentences/paragraphs to form a meaningful passage about a specific context",
+            "Brainstorming: Guide the students in pairs through brainstorming different contexts for composing passages and presenting their work to the class",
+            "Discussion: Guide the students in groups through discussing important considerations when composing passages. Then, let each group present its work to the class",
+            "Composing: Guide the students through composing passages on the chosen contexts using appropriate grammar and vocabulary"
+          ],
+          "assessment_criteria": "Passages on specific contexts are composed well",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "engl-two-45"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.4 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(c) Present messages in formal discussions on various issues using correct grammar and vocabulary",
+          "suggested_methods": [
+            "Discussion: Provide the students with topics to discuss using correct grammar and vocabulary in initiating, intervening in and closing the discussions",
+            "Round table circle : Guide the students through participating in discussion on the selected topic using the round table circle and presenting their work to the class"
+          ],
+          "assessment_criteria": "Messages in formal discussions on various issues using correct grammar and vocabulary are presented rationally",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 31,
+          "id": "engl-two-46"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(a) Express the main ideas from a text",
+          "suggested_methods": [
+            "Discussion: Guide the students through identifying and discussing the main ideas of the texts read, and expressing the identified ideas orally and in writing"
+          ],
+          "assessment_criteria": "The main ideas of texts are expressed properly",
+          "suggested_resources": [
+            "A variety of texts",
+            "selected poems",
+            "newspaper articles",
+            "journals",
+            "encyclopaedia",
+            "books"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "engl-two-47"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(b) Infer meanings of unfamiliar words and idiomatic expressions from a given text",
+          "suggested_methods": [
+            "Pair work: Guide the students in pairs through inferring the meanings of unfamiliar words and idiomatic expressions from a given text and presenting their work to the class"
+          ],
+          "assessment_criteria": "The meanings of unfamiliar words and idiomatic expressions from a given text are inferred accurately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 32,
+          "id": "engl-two-48"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(c) Relate the core messages from a text to real life experiences",
+          "suggested_methods": [
+            "Group work: Provide the students with texts to read in groups, identify the core messages of the texts, relate them with their life experiences and present the work to the class"
+          ],
+          "assessment_criteria": "The core messages from a text are related reasonably to real-life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 32,
+          "id": "engl-two-49"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(a) Synthesise ideas from a variety of oral sources",
+          "suggested_methods": [
+            "Songs: Sing or play a song to the students while they listen to it attentively",
+            "Presentation: Present a topic or read aloud a passage/story to the students while they listen to it attentively",
+            "Pair work: Guide the students in pairs through synthesising ideas from the song and presentation or passage/story they have listened to. Then, let each pair present its work to the class",
+            "Discussion: Guide the students through discussing and synthesising ideas from various oral sources (e.g., radio, audio and video clips, television). Then, let each group present the work to the class"
+          ],
+          "assessment_criteria": "Ideas from a variety of oral sources are synthesised correctly",
+          "suggested_resources": [
+            "Oral texts",
+            "audio and audio-visual materials (audio and video clips)"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "engl-two-50"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(b) Summarise information from a variety of oral sources",
+          "suggested_methods": [
+            "Presentation: Present a topic or read aloud a passage to the students and guide them through identifying the main ideas from the presentation or passage, summarising the presentation or passage and presenting their work to the class",
+            "Songs: Sing or play a song to the students and guide them through identifying the main ideas and summarising information from the song. Let each group present the work to the class",
+            "Audio/audio-visual: Guide the students through summarising information from other oral sources (e.g., radio, audio and video clips, television) and presenting the work to the class"
+          ],
+          "assessment_criteria": "Information from a variety of oral sources is summarised clearly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "engl-two-51"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(c) Participate in contextualised oral conversations",
+          "suggested_methods": [
+            "Debate: Guide the students through participating in debates on various topics",
+            "Dialogue: Guide the students through reading aloud and acting out a dialogue about a specific context",
+            "Roleplay: Guide the students in pairs or in groups through acting out different roles. (e.g., doctor and patient, teacher and student, chairperson and villagers).",
+            "Jigsaw: Provide the students with topics, including cross-cutting issues, and guide them through the jigsaw to discuss such topics",
+            "Round table circle : Guide the students through participating in discussion on various topics using the round table circle and presenting their work to the class",
+            "Pub quiz: Let two groups sit together and take turns to pose questions to each other on the selected topic. Each group agree or disagree on the answers provided"
+          ],
+          "assessment_criteria": "Participations in contextualised oral conversations are done effectively",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "engl-two-52"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(a) Express ideas and opinions in different group communicative settings (differing, counter-arguing, supporting ideas)",
+          "suggested_methods": [
+            "Talk show: Guide the students through TV or radio talk show to express their ideas, opinions and facts on a controversial or opinion topic",
+            "Discussion: Guide the students through discussing a controversial or opinion topic by expressing their ideas, opinions and facts in writing and publishing their works on social media or in the school magazine"
+          ],
+          "assessment_criteria": "Opinions and facts in mass communication are expressed clearly",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts",
+            "audio and audiovisual materials"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "engl-two-53"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(b) Use appropriate non-verbal cues in group communication",
+          "suggested_methods": [
+            "Discussion: Provide the students with topics to discuss and guide them through using appropriate non-verbal cues where applicable",
+            "Presentation: Guide each group through presenting its work and using appropriate non-verbal cues in their presentations",
+            "Roleplay: Use a roleplay to guide the students in pairs or in groups through acting out different roles. (e.g., doctor and patient, teacher and student, chairperson and villagers) using non-verbal cues appropriately where applicable",
+            "Debate: Guide the students through participating in debates on various topics using non-verbal cues where applicable"
+          ],
+          "assessment_criteria": "Non-verbal cues in group communication are used appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "engl-two-54"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(c) Use appropriate language to respond to messages in online group communicative contexts (e.g., WhatsApp, Telegram)",
+          "suggested_methods": [
+            "Group chat/communication: Guide the students in groups through choosing topics for communication. (e.g., Class meeting) Then, provide them with paper and guide them through exchanging their ideas on the paper using appropriate language—As it is done on WhatsApp, Telegram). Note: If applicable, guide them through using smartphones or tablets"
+          ],
+          "assessment_criteria": "The appropriate language is used in online group communicative contexts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "engl-two-55"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(a) Describe various locations (structure: prepositions, adjectives, adverbs)",
+          "suggested_methods": [
+            "Description: Guide the students through describing various locations orally (e.g., towns, streets, markets, and hospitals) using appropriate grammar and vocabulary"
+          ],
+          "assessment_criteria": "Various locations are described well",
+          "suggested_resources": [
+            "Recorded materials (audio/video clips, recorded stories)",
+            "on various situations"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "engl-two-56"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(b) Express quality and quantity of objects and living organisms (structure: adjectives, quantifiers, adverbs)",
+          "suggested_methods": [
+            "Description: Guide the students through describing various objects and living organisms orally"
+          ],
+          "assessment_criteria": "Qualities and quantities of objects and living organisms are expressed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "engl-two-57"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(c) Negotiate prices using appropriate expressions (e.g., convincing a customer to buy a product, convincing a seller to lower the price) (Structure: May I…, I would like…, could you …, I offer you…)",
+          "suggested_methods": [
+            "Dialogue: Guide the students through reading aloud and acting out a dialogue based on the context of the market where a seller convinces a customer to buy a product, and a customer convinces a seller to lower the price",
+            "Roleplay: Assign the students in pairs the role of seller and customer and guide them through acting out such roles using appropriate grammar and vocabulary",
+            "Discussion: Guide the students through discussing what has been roleplayed and presenting their work to the class"
+          ],
+          "assessment_criteria": "Negotiations over the price using appropriate expressions are done",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "engl-two-58"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(d) Request for services in different contexts",
+          "suggested_methods": [
+            "Dialogue: Guide the students through reading aloud and acting out a dialogue based on requesting for services",
+            "Roleplay: Guide the students in pairs through roleplaying to request services and provide such services in different contexts",
+            "Discussion: Guide the students through discussing what has been roleplayed and presenting their work through a gallery walk"
+          ],
+          "assessment_criteria": "Requests for services in different contexts are done correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "engl-two-59"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(e) Participate in various conversations in different contexts (e.g., discussions, dialogues) by initiating, intervening, changing a topic, turn-taking and closing",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing various topics using appropriate language when initiating, intervening in, changing a topic, taking turns and closing their discussions",
+            "Jigsaw: Guide the students through jigsaw to discuss various topics, including cross-cutting issues",
+            "Dialogue: Guide the students through reading aloud and acting out dialogues in different contexts",
+            "Interview: Let some students ( the interviewers) interview others (the interviewees) on various issues/topics (e.g., Job interview and panel interview)",
+            "Talk show: Guide the students in groups through preparing and participating in short talk shows on the chosen topics/themes",
+            "Hot seat: Let some students interview others on the chosen topics/themes through the hot seat"
+          ],
+          "assessment_criteria": "Participations in various conversations in different contexts by initiating, intervening, changing a topic, turn-taking, closing are done",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "engl-two-60"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(a) Write claim and request letters in different contexts (e.g., learning facilities, sports gear, result report – Structure: I would like to bring your kind attention… I am writing to request…)",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing things to consider in writing official letters, including claim and request letters and presenting the work to the class",
+            "Letter writing: Guide the students through writing claim and request letters on various situations using appropriate language"
+          ],
+          "assessment_criteria": "Claim and request letters in different contexts are written correctly",
+          "suggested_resources": [
+            "Relevant texts",
+            "dictionaries",
+            "samples of claim and request letters"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "engl-two-61"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(b) Compose E-mails on various issues using appropriate language",
+          "suggested_methods": [
+            "Gallery walk: Guide the students through a gallery walk to discuss and present components of email and important things to consider when composing emails",
+            "Composing: Guide the students through composing emails on various issues"
+          ],
+          "assessment_criteria": "Emails on various issues are composed using appropriate language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 38,
+          "id": "engl-two-62"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(c) Create short stories on various topics (structure: once upon a time …, I wonder…, what if…, back in time…)",
+          "suggested_methods": [
+            "Demonstration: Choose a topic and demonstrate how to create short stories step-by-step",
+            "Story completion: Create a short story for some sentences or paragraphs and guide the students through completing writing the story and reading aloud their work to the class",
+            "Collaborative and independent practice: Guide the students in groups and individually through creating short stories on the topics of their interest and reading aloud their stories to the class. Then, check the correctness of the created stories based on various factors (e.g., language used, series of events, coherence)"
+          ],
+          "assessment_criteria": "Short stories on various topics are created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 39,
+          "id": "engl-two-63"
+        }
+      ]
+    },
+    "Form Three": {
+      "activities": [
+        {
+          "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+          "specific_competence": "1.1 Organise information obtained from different sources",
+          "learning_activity": "(a) Identify different ways/strategies for organising information from various sources",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for different ways/ strategies for organising information from various sources and presenting their work to the class"
+          ],
+          "assessment_criteria": "Strategies for organising information from various sources are identified",
+          "suggested_resources": [
+            "Journals",
+            "written texts",
+            "newspapers",
+            "encyclopedias",
+            "magazines"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "engl-three-64"
+        },
+        {
+          "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+          "specific_competence": "1.1 Organise information obtained from different sources",
+          "learning_activity": "(b) Sort and categorise information obtained from various sources into related themes",
+          "suggested_methods": [
+            "I do, we do, you do (Gradual release of responsibility): Guide the students through using the “I do, we do, you do” method to sort and categorise information obtained from various sources"
+          ],
+          "assessment_criteria": "Information obtained from various sources is sorted and categorized appropriately into related themes",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-65"
+        },
+        {
+          "main_competence": "1.0 Manage information search from different sources for lifelong learning",
+          "specific_competence": "1.1 Organise information obtained from different sources",
+          "learning_activity": "(c) Compile information searched from various sources",
+          "suggested_methods": [
+            "Project: Assign the students a project work to search for information from different sources",
+            "I do, we do, you do: Guide the students through using the “I do, we do, you do” method to compile the information searched on various sources"
+          ],
+          "assessment_criteria": "Information searched from various sources is compiled properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "engl-three-66"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(a) Hold conversations about various contexts using appropriate grammar and vocabulary (structure: tenses, adverbs, adjectives, active and passive voice, conjunctions, coordinators, prepositions)",
+          "suggested_methods": [
+            "Scenario: Give the students a scenario to share ideas in groups using conversation techniques, appropriate grammar and vocabulary",
+            "Debates: Guide the students through developing topics for conversations and participating in debates on the topics",
+            "Interviews: Guide the students through preparing and participating in community interviews about community needs, concerns and expectations",
+            "Telephoning: Guide the students through making telephone conversations on various topics using appropriate grammar and vocabulary"
+          ],
+          "assessment_criteria": "Conversations about various contexts using appropriate grammar and vocabulary are held",
+          "suggested_resources": [
+            "Written texts of different types",
+            "dictionaries",
+            "encyclopaedias",
+            "oral texts",
+            "audio and audio - visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "engl-three-67"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(b) Compose stories using proper grammar and vocabulary (structure: tenses, adverbs, adjectives, active and passive voice, conjunctions, coordinators, prepositions)",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming ideas on the main parts of stories and reading stories with appreciation",
+            "Story mapping : Guide the students through planning the structure of stories using a story map graphic organiser.",
+            "Composition: Guide the students through using their story plans to compose stories using proper grammar and vocabulary and sharing the stories for discussion"
+          ],
+          "assessment_criteria": "Stories using proper grammar and vocabulary are composed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 41,
+          "id": "engl-three-68"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of English language skills",
+          "specific_competence": "2.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(c) Describe events (e.g., general elections, state funerals, world cup) using correct grammar and vocabulary",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming ideas on the main issues to include when describing provided events and presenting them to the class",
+            "Talk show: Guide the students through preparing scripts for talk shows to describe events and participating in the talk shows",
+            "Description: Guide the students through describing events orally and in writing using correct grammar and vocabulary"
+          ],
+          "assessment_criteria": "Events are described by using correct grammar and vocabulary",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-69"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(a) Distinguish facts from opinions within a given text",
+          "suggested_methods": [
+            "Questions and answers : Present statements in class and ask the students to decide whether the statements are facts or opinions and give reasons for their responses",
+            "Reading: Guide the students through extracting parts which represent facts and opinions in written texts",
+            "Pair work: Guide the students in pairs through writing short passages by including facts and opinions"
+          ],
+          "assessment_criteria": "Facts and opinions within a given text are distinguished correctly",
+          "suggested_resources": [
+            "Books",
+            "dictionaries",
+            "encyclopaedia",
+            "newspaper articles",
+            "journals"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-three-70"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(b) Express connotative meanings of words in relation to a text",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing and providing examples of connotative meanings of words in relation to the texts read, interpreting such meanings and presenting the work to the class"
+          ],
+          "assessment_criteria": "Connotative meanings of words in relation to a text are expressed appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-71"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.1 Read texts for comprehension",
+          "learning_activity": "(c) Paraphrase a given text",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming ideas on the differences between paraphrasing and summarising and presenting such differences to the class",
+            "Snowball discussions: Guide the students through the snowball discussions to discuss the techniques for paraphrasing",
+            "Paraphrasing : Guide the students through paraphrasing texts from different sources orally and in writing using appropriate techniques"
+          ],
+          "assessment_criteria": "A given text is paraphrased correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-72"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(a) Discuss information from various oral sources",
+          "suggested_methods": [
+            "Discussions: Read passages aloud and play recorded information. Then, guide the students through discussing the information heard and presenting the work to the class",
+            "Interview: Guide the students in pairs or groups through participating in interviews on topical issues",
+            "Project work: Ask the students to listen to and watch various oral sources (radio, TV), discuss the information heard, and present their work to the class"
+          ],
+          "assessment_criteria": "Information from various oral sources is discussed appropriately",
+          "suggested_resources": [
+            "Oral texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "engl-three-73"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(b) Respond to various oral messages",
+          "suggested_methods": [
+            "Roleplay: Guide the students through roleplay to respond to oral instructions (e.g., instruction manual and computer application ), announcements and advertisements",
+            "Interviews: Guide the students through preparing and participating in field specific interviews (e.g., journalism, sports, and politics)"
+          ],
+          "assessment_criteria": "Various oral messages are responded to accordingly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-74"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(c) Make comments on oral messages",
+          "suggested_methods": [
+            "Investigation: Guide the students in pairs or groups through investigating techniques to comment on messages and presenting them to the class",
+            "Songs/reading aloud : Sing a song or read aloud a text for students to listen. Then, guide them in groups through commenting on its messages and presenting their comments to the class",
+            "Presentation : Play a recorded presentation/speech for students to listen to and guide them in groups through commenting on its messages and presenting it to the class"
+          ],
+          "assessment_criteria": "Oral messages are commented on precisely",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-75"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(a) Express ideas, opinions and facts in mass communication contexts",
+          "suggested_methods": [
+            "Talk show: Guide the students through TV or radio talk show to express their ideas, opinions and facts on a controversial or opinion topic",
+            "Discussion: Guide the students through discussing a controversial or opinion topic by expressing their ideas, opinions and facts in writing and publishing their works on social media or in the school magazine"
+          ],
+          "assessment_criteria": "Opinions and facts in mass communication are expressed clearly",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "engl-three-76"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(b) Use and interpret appropriate non-verbal cues in mass communication",
+          "suggested_methods": [
+            "Watching TV programmes/shows : Guide the students through watching TV programmes/shows, identifying and interpreting non-verbal cues used in the programmes/shows, and presenting their work to the class",
+            "Group work : Guide the students in groups through using non-verbal cues in writing information and presenting their work to the class"
+          ],
+          "assessment_criteria": "Non-verbal cues in mass communication are interpreted and used appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-77"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(c) Use appropriate language to respond to contextualised public messages (e.g., responding to criticism, accomplishment)",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming ideas on the criticisms, accomplishment they/others have experienced and how they responded to them, and presenting the work to the class",
+            "Group work : Guide the students in groups by taking turns through expressing their personal experiences, criticising and responding to criticisms appropriately"
+          ],
+          "assessment_criteria": "Contextualized public messages are responded to by using appropriate language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-78"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(d) Use appropriate language in public communication settings, (e.g., interviews, presentations)",
+          "suggested_methods": [
+            "Interview: Guide the students through preparing and participating in interviews (e.g., panel interview, job interview, group interview, community interview)",
+            "Presentations : Guide the students through preparing and making presentations on various topics",
+            "Debate: Guide the students through preparing debates and participating in such debates"
+          ],
+          "assessment_criteria": "Language in public communication/ settings is used appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-79"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(e) Express appreciation of other people’s ideas in public communication",
+          "suggested_methods": [
+            "Gallery walk: Guide the students in groups through gallery walk to discuss and present words/expressions used in appreciating other people’s ideas",
+            "Dialogue: Guide the students through preparing and acting out a dialogue whose participants appreciate each other’s ideas"
+          ],
+          "assessment_criteria": "Appreciations of other people’s ideas in public communication are expressed suitably",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-80"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.3 Respond appropriately in a variety of oral and written communication contexts",
+          "learning_activity": "(f) Evaluate information received through mass communication",
+          "suggested_methods": [
+            "TIPS: Guide the students through TIPS to identify issues to consider in evaluating information from mass communication (e.g., radio, television, newspapers, magazines, and social media)",
+            "Modelling: Show the students how to evaluate information from mass communication ( Use newspapers or magazines or information from radio/TV).",
+            "Shared practice: Collaborate with the students to evaluate information from newspapers, magazines, or radio/TV",
+            "Collaborative and independent practice: Guide the students in groups and individually through evaluating information from newspapers and magazines or radio/TV"
+          ],
+          "assessment_criteria": "Information received through mass communication is evaluated appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-81"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.4 Construct meaning from a variety of texts",
+          "learning_activity": "(a) Compare ideas from various texts",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming how to compare ideas from various texts and presenting their work to the class",
+            "Close reading : Provide the students with various texts to read and guide them through comparing ideas from the texts read"
+          ],
+          "assessment_criteria": "Ideas from various texts are compared correctly",
+          "suggested_resources": [
+            "Books",
+            "dictionaries",
+            "encyclopaedia",
+            "newspaper articles",
+            "journals"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "engl-three-82"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.4 Construct meaning from a variety of texts",
+          "learning_activity": "(b) Read and generate meanings from a variety of texts",
+          "suggested_methods": [
+            "Pair work: Guide the students in pairs through identifying different types of meaning and presenting their works to the class",
+            "Discussion: Guide the students through reading a variety of texts, discussing different meanings contained in the texts and presenting their works to the class"
+          ],
+          "assessment_criteria": "Meanings from a variety of texts are generated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-83"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.4 Construct meaning from a variety of texts",
+          "learning_activity": "(c) Infer meanings of unfamiliar words from a variety of texts",
+          "suggested_methods": [
+            "Modelling: Show the students how to infer meanings of unfamiliar words from a variety of texts ( Use different clues, including contextual meaning)",
+            "Collaborative and independent practice: Guide the students in groups and individually through inferring meanings of unfamiliar words using insights from the texts read"
+          ],
+          "assessment_criteria": "Meanings of unfamiliar words from a variety of texts are inferred correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-84"
+        },
+        {
+          "main_competence": "3.0 Comprehend oral and written information",
+          "specific_competence": "3.4 Construct meaning from a variety of texts",
+          "learning_activity": "(d) Paraphrase textual information from multiple sources",
+          "suggested_methods": [
+            "I do, we do, you do:",
+            "Modelling: Show the students how to paraphrase textual information from multiple sources using different techniques",
+            "Shared practice: Collaborate with the students to paraphrase textual information from multiple sources using different techniques",
+            "Collaborative and independent practice: Guide the students in groups and individually through paraphrasing textual information from multiple sources using different techniques"
+          ],
+          "assessment_criteria": "Textual information from multiple sources is paraphrased properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-85"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(a) Express opinions through debates, dialogues and impromptu speeches using formulaic language (e.g., In my opinion…, personally…, I think …, I would say…, In my view…, from my perspective…, My point is…, It seems to me that…, I believe…)",
+          "suggested_methods": [
+            "Debate: Guide the students through using formulaic language to give their opinions in debates",
+            "Dialogue: Guide the students through reading aloud and acting out a dialogue with an opinion topic",
+            "Delivering impromptu speeches: Guide the students through delivering impromptu speeches on opinion topics using formulaic language"
+          ],
+          "assessment_criteria": "Opinions are expressed through debates, dialogues, and impromptu speeches using formulaic language",
+          "suggested_resources": [
+            "Speakers",
+            "recorded materials (audio/video clips, recorded stories) on various situations"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "engl-three-86"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(b) Present facts logically using appropriate formulaic language (e.g., due to the fact that…, it is true that…, the bottom line is…, the reality is…, in fact…actually… according to…)",
+          "suggested_methods": [
+            "Presentation: Guide the students through preparing and making presentations with factual information using formulaic language",
+            "Debate: Guide the students through participating in debates and using formulaic language to present facts"
+          ],
+          "assessment_criteria": "Facts are logically presented using appropriate formulaic language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-87"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(c) Describe conditions about various situations and circumstances (structure: conditional sentences)",
+          "suggested_methods": [
+            "Investigation : Guide the students through investigating the structure of conditional sentences and presenting the work to the class",
+            "Chain conditionals (Conditional train): Guide the students through constructing conditional sentences orally using chain conditionals",
+            "Pelmanism (Concentration) game: Guide the students through playing the pelmanism game to construct conditional sentences orally",
+            "Mill drill questionnaire (Mingling activities)",
+            "Guide the students through constructing conditional sentences orally using the mill drill questionnaire",
+            "Group discussion: Assign the students roles to play (e.g., politicians, teachers, traffic police) and provide them with the same questions to discuss based on the particular roles",
+            "Songs: Guide the students through singing songs with conditionals and identifying the conditionals in the songs"
+          ],
+          "assessment_criteria": "Conditions about various situations and circumstances are described appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-88"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(d) Ask and respond to questions in interview sessions (e.g., job interview, panel interview, TV/radio interview)",
+          "suggested_methods": [
+            "Modelling : Use recorded interview sessions on different topics to model students on how to ask and respond to interview questions",
+            "Interview/roleplay: Guide the students through engaging in interviews by roleplaying the role of interviewees and interviewers"
+          ],
+          "assessment_criteria": "Interview questions are asked and responded to correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-89"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(e) Describe activities and events of a social or cultural nature (e.g., celebrations, parades, accidents, elections, funerals, sport and games) using different tenses",
+          "suggested_methods": [
+            "Description : Guide the students in groups to take turns and describe orally social and cultural activities, or events they have participated in or witnessed. Then, guide them through describing orally such activities and events in the classroom."
+          ],
+          "assessment_criteria": "Social- cultural activities and events are described properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-90"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(a) Write a letter to the editor, an order letter and a complaint letter (structure: Dear editor.., I would like to order…. We are glad to place our first order…, I am writing to complain about…, I am writing to bring your attention…, a complaint against…)",
+          "suggested_methods": [
+            "Observation and discussion: Guide the students through studying letters to the editor, order letters and complaint letters and discussing important considerations when writing such letters",
+            "Collaborative and independent practice: Guide the students in groups and individually through writing letters to the editor, order letters and complaint letters using appropriate grammar and vocabulary"
+          ],
+          "assessment_criteria": "Letter to the editor, order and complaint letters are written correctly",
+          "suggested_resources": [
+            "Relevant texts",
+            "dictionaries",
+            "samples of letter to the editor",
+            "order and complaint letters"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-three-91"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(b) Write reports on various events ( e.g., sports, graduation, study tours)",
+          "suggested_methods": [
+            "Observation/team building game: Guide the students through studying reports on various events, discussing their different aspects, including parts of the reports and the language used and presenting their work to the class",
+            "Project activity : Guide the students through observing live events or participating in such events , writing reports on them, and presenting the work to the class"
+          ],
+          "assessment_criteria": "Reports on various events are written appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-92"
+        },
+        {
+          "main_competence": "4.0 Communicate effectively in different contexts",
+          "specific_competence": "4.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(c) Write biographies (structure: past and present tense, third person)",
+          "suggested_methods": [
+            "Biographies: Guide the students through reading and summarising biographies of famous people in writing",
+            "Biography graphic organisers: Guide the students through the use of biography graphic organisers to write biographies of famous people"
+          ],
+          "assessment_criteria": "Biographies are written correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-93"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(a) Recognise the basic principles of editing and proofreading texts (e.g., sentence construction, language clarity, grammar, semantic rules, logical flow)",
+          "suggested_methods": [
+            "Snowball discussions: Guide the students through discussing the basic principles of editing and proofreading using snowball discussions"
+          ],
+          "assessment_criteria": "The basic principles of editing and proofreading are recognised",
+          "suggested_resources": [
+            "Relevant texts",
+            "school rules and regulations",
+            "fliers",
+            "user manuals",
+            "various essays/ compositions",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "engl-three-94"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(b) Describe the main steps of editing and proofreading",
+          "suggested_methods": [
+            "Assignment: Assign the students a task to find the main steps in editing and proofreading, and present their work to the class"
+          ],
+          "assessment_criteria": "The main steps in editing and proofreading are described accurately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-95"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(c) Describe the basic principles and methods of editing and proofreading",
+          "suggested_methods": [
+            "Description: Guide the students through describing the basic principles and methods of editing and proofreading, and presenting their work to the class"
+          ],
+          "assessment_criteria": "The basic principles and methods of editing and proofreading are described properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-96"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(d) Use the principles of editing and proofreading to edit and proofread simple and short texts in a school context (e.g., laboratory rules, announcements)",
+          "suggested_methods": [
+            "Modelling: Engage the students by showing them how to edit and proofread texts",
+            "Shared practice: Work with the students to edit and proofread a text",
+            "Collaborative and independent practice: Provide the students in pairs and individually with simple and short texts in the school context and guide them through editing and proofreading the texts"
+          ],
+          "assessment_criteria": "The principles of editing and proofreading simple texts in the school context are used appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-97"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(a) Explain the concept of interpretation",
+          "suggested_methods": [
+            "Know Want Learned (KWL) chart : Guide the students through using KWL chart to get their prior knowledge, expectations and what they have learnt about the concept of interpretation",
+            "Group work: Guide the students through explaining the concept of interpretation and presenting their work to the class"
+          ],
+          "assessment_criteria": "The concept of interpretation is explained accurately",
+          "suggested_resources": [
+            "Dictionaries",
+            "oral texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-three-98"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(b) Elaborate the principles of interpretation",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for information about the principles of interpretation and presenting their work to the class"
+          ],
+          "assessment_criteria": "The principles of interpretation are elaborated precisely",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-99"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(c) Interpret a short simple text in a school context (e.g., greetings, self introductions) (English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Simultaneous and consecutive interpretation: Guide the students in pairs through interpreting messages in the school context using simultaneous and consecutive interpretation"
+          ],
+          "assessment_criteria": "Short messages in the school context are interpreted appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-100"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(a) Explain the concept of translation",
+          "suggested_methods": [
+            "Brainstorming : Guide the students in groups through brainstorming the concept of translation and presenting their work to the class"
+          ],
+          "assessment_criteria": "The concept of translation is explained correctly",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-three-101"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(b) Elaborate the principles of translation",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing the principles of translation and presenting their work to the class"
+          ],
+          "assessment_criteria": "The principles of translation are elaborated correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-102"
+        },
+        {
+          "main_competence": "5.0 Provide basic English language services to the community",
+          "specific_competence": "5.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(c) Translate a simple short text in a school context (e.g., laboratory rules, timetables, joining instructions) (English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "I do, we do, you do:",
+            "Modelling: Engage the students by showing them how to translate texts through communicative translation. (Use a text in the school context)",
+            "Shared practice: Work with the students to use communicative translation to translate a text in the school context.",
+            "Collaborative and independent practice: Guide the students in groups and individually through translating texts in the school context using communicative translation"
+          ],
+          "assessment_criteria": "Texts in the school context are translated correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-103"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.1 Appreciate the aesthetics and value of literature",
+          "learning_activity": "(a) Assess the language used in selected poems and plays",
+          "suggested_methods": [
+            "Brainstorming : Guide the students in groups through brainstorming the language used in poems and plays, and presenting their work to the class",
+            "Shared practice: Select a poem and a play, and collaborate with the students to assess the language used",
+            "Collaborative and independent practice: Provide the students in pairs/groups and individually with poems and plays to read and guide them through assessing the language used"
+          ],
+          "assessment_criteria": "The language used in selected poems and plays is assessed appropriately.",
+          "suggested_resources": [
+            "Literary texts",
+            "audio/audio-visual materials",
+            "artistic drawings",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "engl-three-104"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.1 Appreciate the aesthetics and value of literature",
+          "learning_activity": "(b) Compare own values and perspectives with those implied in selected poems and plays",
+          "suggested_methods": [
+            "TIPS: Guide the students through identifying own values and perspectives using TIPS",
+            "Pair work: Guide the students in pairs through comparing own values and perspectives with those implied in the selected poems and plays, and presenting their work to the class"
+          ],
+          "assessment_criteria": "Own values and perspectives are compared appropriately with those implied in selected poems and plays",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-105"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.2 Evaluate the context in which literary texts are written, read and understood",
+          "learning_activity": "(a) Assess the socio-political and cultural contexts in which the selected poems and plays were written",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for information on the techniques to identify the setting of a poem and presenting their work to the class",
+            "Group work: Guide the students through assessing the socio-political and cultural contexts of the selected poems and plays"
+          ],
+          "assessment_criteria": "The socio-political and cultural contexts in which the selected poems and plays were written are assessed appropriately",
+          "suggested_resources": [
+            "A variety of literary texts",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-three-106"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.2 Evaluate the context in which literary texts are written, read and understood",
+          "learning_activity": "(b) Examine the socio-political, economic and cultural issues portrayed in selected poems and plays",
+          "suggested_methods": [
+            "Collaborative practice: Guide the students through examining the socio-political and economic issues portrayed in the selected poems and plays, and presenting their work to the class"
+          ],
+          "assessment_criteria": "The socio-political, economic and cultural issues portrayed in selected poems and plays are examined appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-107"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.2 Evaluate the context in which literary texts are written, read and understood",
+          "learning_activity": "(c) Relate the context of the story in selected poems and plays with real life experiences",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in groups through brainstorming ideas on real-life experiences",
+            "Pair work: Guide the students in pairs through identifying the context of the story in the selected poems and plays, relating such context with their life experiences and presenting their work to the class"
+          ],
+          "assessment_criteria": "The context of the story in selected poems and plays is related properly with real-life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-108"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.3 Analyse genres of literature and appreciate their conventions",
+          "learning_activity": "(a) Describe different genres of written literature and their conventions",
+          "suggested_methods": [
+            "Two Truths and a Lie: Guide the students through identifying genres of written literature through two truths and a lie",
+            "Discussion/Group work : Guide the students in groups through describing different genres of written literature and their conversations. Then, guide each group through presenting its work to the class"
+          ],
+          "assessment_criteria": "Different genres of literature and their conventions are described correctly",
+          "suggested_resources": [
+            "A variety of literary texts",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "engl-three-109"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.3 Analyse genres of literature and appreciate their conventions",
+          "learning_activity": "(b) Analyse techniques of critiquing poems and plays based on their conventions",
+          "suggested_methods": [
+            "Information search: Guide the students through searching for information about the techniques for critiquing poems and plays based on their conventions",
+            "Pair work: Guide the students in pairs through sharing the information searched about the techniques for critiquing poems and plays, analysing the techniques and presenting them to the class"
+          ],
+          "assessment_criteria": "Techniques for critiquing poems and plays based on their conventions are analysed appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-110"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.3 Analyse genres of literature and appreciate their conventions",
+          "learning_activity": "(c) Critique selected poems and plays based on form and content",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in pairs through brainstorming the elements of form and content in a literary work and presenting their work to the class",
+            "Group work : Guide the students in groups critiquing poems and plays based on form and content"
+          ],
+          "assessment_criteria": "Poems and plays are clearly critiqued based on form and content",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-111"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.4 Create simple literary works",
+          "learning_activity": "(a) Compose free verse poems on various topics using literary language",
+          "suggested_methods": [
+            "Think-aloud-pair problem solving: Guide the students through Think-aloud-pair problem solving to explain steps in composing a poem",
+            "Collaborative and independent practice: Guide the students in groups and individually through composing free verse poems on various topics using literary language"
+          ],
+          "assessment_criteria": "Topics for composing poems are identified appropriately",
+          "suggested_resources": [
+            "Literary texts",
+            "audio/audio-visual materials(audio/video clips, recorded stories)",
+            "artistic drawings",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "engl-three-112"
+        },
+        {
+          "main_competence": "6.0 Appreciate and create literary works",
+          "specific_competence": "6.4 Create simple literary works",
+          "learning_activity": "(b) Publish the poems on various platforms (e.g., note boards and online platforms)",
+          "suggested_methods": [
+            "Publishing: Guide the students through publishing their poems composed on various platforms (e.g., note boards, or on the Internet)"
+          ],
+          "assessment_criteria": "Poems are published properly on various platforms",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-three-113"
+        }
+      ]
+    },
+    "Form Four": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(a) Prepare and deliver short speeches about common topics (e.g., entrepreneurship, corruption, child rights and security, gender education, cyber security education, disaster management, health and reproductive education, drug abuse, life skills, financial management education, taxation)",
+          "suggested_methods": [
+            "Project work: Ask the students to listen to various short speeches in their environment or from online sources and analyse them based on their characteristics, parts, the language used and techniques used in delivering such speeches.",
+            "Presentation: Guide the students through presenting their work to the class",
+            "Observation: Guide the students through observing and discussing the characteristics and language used in a given short speech on common topics",
+            "Speech delivery: Guide the students through preparing short speeches on common topics and delivering such speeches to the class using appropriate techniques"
+          ],
+          "assessment_criteria": "Short speeches about common topics are prepared and delivered appropriately",
+          "suggested_resources": [
+            "Written texts of different types",
+            "dictionaries",
+            "encyclopaedia",
+            "oral texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "engl-four-114"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of English language skills",
+          "specific_competence": "1.1 Use appropriate grammar and vocabulary in oral and in written language tasks",
+          "learning_activity": "(b) Compose different types of essays (narrative, descriptive, argumentative and expository) using correct grammar and vocabulary",
+          "suggested_methods": [
+            "Observation: Guide the students through observing and discussing the characteristics and language used in different types of essays. Then, let each group present its work to the class",
+            "Composing/essay writing : Guide the students through composing different types of essays based on their characteristics"
+          ],
+          "assessment_criteria": "Different types of essays are composed using correct grammar and vocabulary",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-115"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(a) Discuss the author’s motives in a given text",
+          "suggested_methods": [
+            "Close reading: Guide the students through identifying key ideas from a given text and presenting their work to the class",
+            "Description: Guide the students through describing the author’s motives orally and in writing using the identified key ideas of the texts"
+          ],
+          "assessment_criteria": "The author’s motives in the given text are discussed correctly",
+          "suggested_resources": [
+            "Dictionaries",
+            "encyclopaedia",
+            "newspaper articles",
+            "journals"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "engl-four-116"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(b) Deliver an oral presentation about the content of a text",
+          "suggested_methods": [
+            "Discussion: Guide the students through identifying and discussing the details of a given text and presenting their work to the class"
+          ],
+          "assessment_criteria": "An oral presentation about the content of the text is made appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-117"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.1 Read texts for comprehension",
+          "learning_activity": "(c) Draw inferences (conclusions) from a text",
+          "suggested_methods": [
+            "Modelling: Use a text to show the students how to draw inferences (conclusions)",
+            "Close reading: Guide the students through identifying the main details and facts from a given text and relating them with their experiences. Thereafter, guide them through drawing inferences (conclusions) and presenting their work to the class"
+          ],
+          "assessment_criteria": "Inferences (conclusions) are drawn correctly from the text",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-118"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(a) Deduce the main ideas from an oral presentation or language task",
+          "suggested_methods": [
+            "Modelling: Play a recorded text/ speech to the students and show them how to deduce the main ideas from the text/speech",
+            "Reading aloud: Ask another teacher to read aloud a text or deliver a speech while you listen to it attentively with your students. Then, show the students how to deduce the main ideas from such text/speech",
+            "Speech delivery/Presentation: Deliver a speech/make a presentation to the students on common or cross-cutting topics using appropriate techniques and guide them through deducing the main ideas from the speech/presentation and presenting their work to the class"
+          ],
+          "assessment_criteria": "The main ideas from oral presentations and language tasks are deduced appropriately",
+          "suggested_resources": [
+            "Oral texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "engl-four-119"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(b) Examine information from oral sources",
+          "suggested_methods": [
+            "Pair work: Read aloud a story/ passage to the students and guide them in pairs through examining information from the story/ passage and presenting their work to the class",
+            "Group work: Play a recorded text/speech to the students and guide them in groups through examining the information obtained in the text/speech and presenting their work to the class",
+            "Project activity: Ask the students to listen to and watch the news on the radio and TV respectively at home or school. Then, ask them to examine the information from the news broadcast and present their work to the class"
+          ],
+          "assessment_criteria": "Information from oral sources is examined appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-120"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.2 Comprehend oral messages with increasing difficulty",
+          "learning_activity": "(c) Relate the core messages of an oral presentation to real life experiences",
+          "suggested_methods": [
+            "Group work: Guide the students in groups through discussing the content of a passage heard, identifying the core messages, relating such messages to their-life experiences and presenting their work to the class",
+            "Pair work: Play a recorded text/ speech to the students and guide them in pairs through discussing its content, identifying the core messages, relating such messages to their life experiences and presenting their work to the class",
+            "Project activity: Ask the students to listen to and watch the news on the radio and TV respectively at home and school. Then, ask them to examine the information from the news broadcast, relate it to their real-life experiences and present their work to the class"
+          ],
+          "assessment_criteria": "The core messages of the oral presentation are related correctly to real-life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-121"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Construct meaning from a variety of texts",
+          "learning_activity": "(a) Explore strategies for deriving meanings of words from given texts (e.g., contextual guessing)",
+          "suggested_methods": [
+            "Exploration: Guide the students through exploring strategies for deriving meanings of words from texts and presenting their work to the class"
+          ],
+          "assessment_criteria": "Strategies for deriving meanings of words from given texts are explored appropriately",
+          "suggested_resources": [
+            "Books",
+            "dictionaries",
+            "encyclopaedia",
+            "newspaper articles",
+            "journals"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-four-122"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Construct meaning from a variety of texts",
+          "learning_activity": "(b) Synthesise ideas and draw conclusions from multiple and diverse texts",
+          "suggested_methods": [
+            "Close reading: Guide the students through synthesising ideas and drawing conclusions from multiple and diverse texts, and presenting their work to the class"
+          ],
+          "assessment_criteria": "Ideas from multiple and diverse texts are synthesised correctly, and conclusions are drawn correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-123"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Construct meaning from a variety of texts",
+          "learning_activity": "(c) Write a single text from information and opinions derived from a variety of texts",
+          "suggested_methods": [
+            "Close reading: Guide the students through using the main ideas and key messages and summaries from the texts read to write one text"
+          ],
+          "assessment_criteria": "A single text from information and opinions derived from a variety of texts is written correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-124"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Construct meaning from a variety of texts",
+          "learning_activity": "(d) Make inferences about a variety of texts",
+          "suggested_methods": [
+            "Group work : Guide the students in groups through finding the details of the texts, using such details and personal knowledge to make inferences and presenting their work to the class"
+          ],
+          "assessment_criteria": "Inferences about a variety of texts are made appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-125"
+        },
+        {
+          "main_competence": "2.0 Comprehend oral and written information",
+          "specific_competence": "2.3 Construct meaning from a variety of texts",
+          "learning_activity": "(e) Relate the core messages from multiple and diverse texts to real life experiences",
+          "suggested_methods": [
+            "Close reading: Guide the students through reading texts, discussing their contents, identifying core messages, relating such messages to their real-life experiences and presenting their work to the class"
+          ],
+          "assessment_criteria": "The core messages from multiple and diverse texts are related appropriately to real-life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-126"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(a) Express feelings and emotions depicted/portrayed in various social contexts using appropriate phrases (e.g., I am saddened…, I am upset…, my condolences… I feel happy… hurray…)",
+          "suggested_methods": [
+            "Pictures : Display pictures/ emojis representing different feelings for students to describe orally what they represent",
+            "Case study/Scenario : Provide the students with a case study/ scenario and ask them to express their feelings orally using appropriate phrases.",
+            "Dialogue: Guide the students through acting out a dialogue with appropriate phrases for expressing feelings and emotions."
+          ],
+          "assessment_criteria": "Feelings and emotions depicted/portrayed in various social contexts are expressed using appropriate phrases",
+          "suggested_resources": [
+            "Dictionaries",
+            "encyclopaedias",
+            "relevant texts (e.g., books for English grammar)"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "engl-four-127"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(b) Deliver different kinds of planned and unplanned speeches (e.g., informative, persuasive speech) on different topics",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing different types of speeches and presenting their work to the class",
+            "Speech delivery : Guide the students through delivering planned and unplanned speeches"
+          ],
+          "assessment_criteria": "Different kinds of planned and unplanned speeches on different topics are delivered properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-128"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.1 Use appropriate grammar and vocabulary for oral communication in a variety of contexts",
+          "learning_activity": "(c) Negotiate solutions to various problems using appropriate formalaic language (e.g., Would you mind…, don’t you think…, is it possible…, if I were you…)",
+          "suggested_methods": [
+            "Roleplay: Guide the students through roleplaying negotiations to various problems using appropriate formulaic language",
+            "Dialogue: Guide the students through reading aloud and acting out dialogues by negotiating solutions to various problems using appropriate formulaic language"
+          ],
+          "assessment_criteria": "Solutions to various problems are negotiated using appropriate formulaic language",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-129"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(a) Write application letters for various purposes ( e.g., job application, school admission)",
+          "suggested_methods": [
+            "Information search : Guide the students through using various sources to search for information on the types and parts of application letters and presenting their work to the class",
+            "Pair work: Guide the students in pairs through writing application letters for various purposes"
+          ],
+          "assessment_criteria": "Application letters for various purposes are written properly",
+          "suggested_resources": [
+            "Dictionaries",
+            "encyclopaedia",
+            "relevant texts"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "engl-four-130"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(b) Write speeches on a variety of topics, including cross-cutting issues",
+          "suggested_methods": [
+            "Brainstorming : Guide the students through brainstorming the structure of speeches",
+            "Demonstration: Demonstrate how to begin writing a speech by asking the students to give ideas and help you plan the speech",
+            "Collaborative practice: Guide the students in pairs or groups through writing speeches on a variety of topics, including cross-cutting issues"
+          ],
+          "assessment_criteria": "Speeches on a variety of topics, including cross-cutting issues, are written properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-131"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.2 Create a variety of texts for different communicative purposes using the appropriate tone and register",
+          "learning_activity": "(c) Write Curriculum Vitae (CV) for different purposes",
+          "suggested_methods": [
+            "Jigsaw: Guide the students through explaining the meaning, components and the importance of curriculum vitae using jigsaw",
+            "Independent practice: Guide individual students through writing their CVs and sharing them in pairs for comments and improvement",
+            "Publishing/storing : Guide the students in groups through storing or publishing their CVs on different platforms"
+          ],
+          "assessment_criteria": "Curriculum Vitae (CV) for different purposes are written properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-132"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+          "learning_activity": "(a) Analyse different functional texts in terms of purpose, content, organisation, format and design",
+          "suggested_methods": [
+            "Jigsaw : Guide the students through the jigsaw to analyse different functional texts read (in terms of purpose, content, organisation, format and design)"
+          ],
+          "assessment_criteria": "Different functional texts are analysed correctly in terms of purpose, content, organisation, format and design",
+          "suggested_resources": [
+            "Various kinds of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, menus)"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "engl-four-133"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+          "learning_activity": "(b) Read a variety of functional texts (e.g., recipes, product manuals, transport schedules, forms, brochures, and menus)",
+          "suggested_methods": [
+            "Pair work: Provide the students in pairs with a variety of functional texts and guide them through reading the texts for comprehension"
+          ],
+          "assessment_criteria": "A variety of functional texts are read effectively",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-134"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+          "learning_activity": "(c) Comment on the usefulness of different functional texts",
+          "suggested_methods": [
+            "Group work: Guide the students in groups through commenting on the usefulness of the functional texts read and presenting their work to the class"
+          ],
+          "assessment_criteria": "The usefulness of different functional texts is commented on appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-135"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in different contexts",
+          "specific_competence": "3.3 Conduct a socio-cultural analysis of functional texts",
+          "learning_activity": "(d) Compose functional texts to serve various purposes",
+          "suggested_methods": [
+            "Modelling: Engage the students by showing them how to compose various functional texts",
+            "Composing: Guide the students through composing various functional texts"
+          ],
+          "assessment_criteria": "Functional texts are composed properly to serve various purposes",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-136"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(a) Edit and proofread texts in a school context (e.g., school rules and regulations, essays/ compositions)",
+          "suggested_methods": [
+            "Pair work: Guide the students in pairs through editing and proofreading short texts found in the school context and presenting their work to the class"
+          ],
+          "assessment_criteria": "Texts found in the school context are edited and proofread appropriately",
+          "suggested_resources": [
+            "Relevant texts",
+            "school rules and regulations",
+            "fliers",
+            "user manuals",
+            "various essays/compositions",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "engl-four-137"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.1 Apply principles of editing and proofreading in a variety of texts",
+          "learning_activity": "(b) Edit and proofread short texts in contexts outside the school (e.g. posters, flyers, user manuals)",
+          "suggested_methods": [
+            "Group work: Guide the students in groups through editing and proofreading short texts found outside the school context and presenting their work to the class"
+          ],
+          "assessment_criteria": "Texts found outside the school context are edited and proofread appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-138"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(a) Interpret messages in informal contexts (e.g., family conversations and peer conversations) (from English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Simultaneous and consecutive interpretation: Guide the students in pairs through simultaneous and consecutive interpretation to interpret messages in informal contexts"
+          ],
+          "assessment_criteria": "Messages in informal contexts are interpreted correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [
+            "Dictionaries",
+            "oral texts",
+            "audio and audio-visual materials (audio/video clips, recorded stories)"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "engl-four-139"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(b) Interpret messages in small formal settings (e.g., classroom and subject group discussions) (from English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Roleplay: Guide the students in pairs through roleplaying the role of the speaker and interpreter in interpreting messages in small formal settings"
+          ],
+          "assessment_criteria": "Messages in small formal settings are interpreted correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-140"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.2 Apply principles of interpretation to provide simple authentic interpretations",
+          "learning_activity": "(c) Interpret messages in large formal settings (e.g., church, mosque and meetings) (from English to Kiswahili and vice versa).",
+          "suggested_methods": [
+            "Simultaneous and consecutive interpretation: Guide the students in pairs through interpreting messages in informal contexts using simultaneous and consecutive interpretation"
+          ],
+          "assessment_criteria": "Messages in large formal settings are interpreted correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-141"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(a) Translate texts in contexts outside the school (from English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Collaborative and independent practice: Guide the students in groups and individually through translating texts found outside the school context using communicative translation"
+          ],
+          "assessment_criteria": "Texts found outside the school context are translated correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "engl-four-142"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(b) Translate a variety of short texts (e.g., advertisements and functional texts) (from English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Collaborative and independent practice: Guide the students in groups and individually through translating a variety of short texts using communicative translation"
+          ],
+          "assessment_criteria": "A variety of short texts are translated correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-143"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.3 Apply principles of translation to produce simple authentic translation",
+          "learning_activity": "(c) Translate a variety of long texts (from English to Kiswahili and vice versa)",
+          "suggested_methods": [
+            "Collaborative and independent practice: Guide the students in pairs and individually through translating a variety of long texts using communicative translation"
+          ],
+          "assessment_criteria": "A variety of long texts are translated correctly (from English to Kiswahili and vice versa)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-144"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
+          "learning_activity": "(a) Desribe the use of Computer-Assisted Tools in translating and editing",
+          "suggested_methods": [
+            "Group work: Guide the students in groups through describing the use of Computer Assisted Tools in translating and editing"
+          ],
+          "assessment_criteria": "The use of Computer-Assisted Tools in translating and editing is described correctly",
+          "suggested_resources": [
+            "Dictionaries",
+            "a variety of texts"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "engl-four-145"
+        },
+        {
+          "main_competence": "4.0 Provide basic English language services to the community",
+          "specific_competence": "4.4 Manage short translation and editing projects using Computer-Assisted Tools",
+          "learning_activity": "(b) Use Computer-Assisted Translation Tools to translate and edit short simple texts",
+          "suggested_methods": [
+            "Exploration : Guide the students through exploring the Computer- Assisted Tools used for translation and editing",
+            "Modelling/demonstration : Demonstrate to the students how to use Computer-Assisted Tools in translating and editing texts",
+            "Shared practice : Work with the students to translate and edit texts using Computer-Assisted Translation Tools",
+            "Collaborative and independent practice: Guide the students in groups and individually through translating and editing texts using Computer-Assisted Tools"
+          ],
+          "assessment_criteria": "Computer-Assisted Translation Tools are used appropriately to translate and edit short simple texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-146"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+          "learning_activity": "(a) Assess the language used in a selected novella",
+          "suggested_methods": [
+            "Brainstorming: Guide the students through brainstorming techniques for analysing language in texts",
+            "Close reading: Guide the students through assessing the language used in the novella read and presenting their work to the class"
+          ],
+          "assessment_criteria": "The language used in the selected novella is assessed appropriately",
+          "suggested_resources": [
+            "A variety of literary texts",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "engl-four-147"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+          "learning_activity": "(b) Compare own values and perspectives with those implied in a selected novella",
+          "suggested_methods": [
+            "TIPS: Guide the students through identifying their own values and perspectives using TIPS",
+            "Pair work: Guide the students in pairs through comparing own values and perspectives with those implied in the selected novella"
+          ],
+          "assessment_criteria": "Own values and perspectives are compared appropriately with those implied in the selected novella",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-148"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.1 Appreciate the aesthetics and value of literature",
+          "learning_activity": "(c) Dramatise episodes from a selected novella",
+          "suggested_methods": [
+            "Dramatisation: Guide the students in groups through dramatising episodes from the selected novella"
+          ],
+          "assessment_criteria": "Episodes from the selected novella are dramatised properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-149"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
+          "learning_activity": "(a) Examine the socio-political and cultural issues portrayed in a selected novella",
+          "suggested_methods": [
+            "Brainstorming: Guide the students in groups through brainstorming ideas about socio-political and cultural issues and presenting their work to the class",
+            "Group work: Guide the students in groups through examining the socio-political and cultural issues portrayed in the selected novella and presenting their work to the class"
+          ],
+          "assessment_criteria": "The socio-political and cultural issues portrayed in the selected novella are examined properly",
+          "suggested_resources": [
+            "A variety of literary texts",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "engl-four-150"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.2 Evaluate the context in which literary texts are written, read and understood",
+          "learning_activity": "(b) Relate the context of the story in a selected novella to real life experiences",
+          "suggested_methods": [
+            "Discussion: Guide the students through discussing the context of a story in the selected novella, relating it to real-life experiences and presenting their work to the class"
+          ],
+          "assessment_criteria": "The context of the story in the selected novella is related appropriately to real-life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-151"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
+          "learning_activity": "(a) Analyse techniques of critiquing literary texts based on their conventions",
+          "suggested_methods": [
+            "Gallery walk: Guide the students through analysing and presenting techniques for critiquing literary texts using gallery walk"
+          ],
+          "assessment_criteria": "Techniques for critiquing literary texts based on their conventions are analysed appropriately",
+          "suggested_resources": [
+            "A variety of literary texts",
+            "dictionaries"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "engl-four-152"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.3 Analyse genres of literature and appreciate their conventions",
+          "learning_activity": "(b) Critique a selected novella based on form and content",
+          "suggested_methods": [
+            "Group work: Guide the students in groups through critiquing the novella based on form and content and presenting the work to the class"
+          ],
+          "assessment_criteria": "The selected novella is critiqued appropriately based on form and content",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-153"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.4 Create simple literary works",
+          "learning_activity": "(a) Apply literary skills to compose short stories on various topics",
+          "suggested_methods": [
+            "Brainstorming: Guide the students through brainstorming ideas on the skills required in composing short stories and presenting the work to the class",
+            "Collaborative and independent practice: Guide the students in groups and individually through composing short stories on various topics",
+            "Follow-up: Check the correctness of the stories(e.g., a series of events, coherence and language used)"
+          ],
+          "assessment_criteria": "Literary skills are applied appropriately to compose short stories on various topics",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 18,
+          "id": "engl-four-154"
+        },
+        {
+          "main_competence": "5.0 Appreciate and create literary works",
+          "specific_competence": "5.4 Create simple literary works",
+          "learning_activity": "(b) Publish the short stories on various platforms (e.g., note boards and online platforms)",
+          "suggested_methods": [
+            "Project work : Guide the students through publishing the short stories they have created on various platforms (e.g., note boards and the Internet)"
+          ],
+          "assessment_criteria": "Short stories are published appropriately on various platforms",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "engl-four-155"
+        }
+      ]
+    }
+  }
+}
