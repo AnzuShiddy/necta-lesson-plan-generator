@@ -102,11 +102,6 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
     for label, value in _lp_fields(doc):
         kv(label, value)
 
-    p = d.add_paragraph()
-    p.add_run("Specific Objectives:").bold = True
-    for obj in doc.plan.specific_objectives:
-        d.add_paragraph(obj, style="List Bullet")
-
     kv("Teaching and Learning Resources",
        "; ".join(doc.plan.teaching_learning_resources))
     kv("References", "; ".join(doc.plan.references))
@@ -132,7 +127,6 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
 
     d.add_paragraph()
     kv("Remarks", doc.plan.remarks)
-    kv("Teacher's Self-evaluation", doc.plan.evaluation)
 
     buf = io.BytesIO()
     d.save(buf)
@@ -192,9 +186,6 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
 
     for label, value in _lp_fields(doc):
         block(label, value)
-    story.append(Paragraph("<b>Specific Objectives:</b>", small))
-    for obj in doc.plan.specific_objectives:
-        story.append(Paragraph("• " + obj, small))
     block("Teaching and Learning Resources",
           "; ".join(doc.plan.teaching_learning_resources))
     block("References", "; ".join(doc.plan.references))
@@ -224,7 +215,6 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
     ]))
     story += [table, Spacer(1, 8)]
     block("Remarks", doc.plan.remarks)
-    block("Teacher's Self-evaluation", doc.plan.evaluation)
 
     pdf.build(story)
     return buf.getvalue()
