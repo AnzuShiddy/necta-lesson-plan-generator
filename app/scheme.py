@@ -30,9 +30,15 @@ _MAX_ACTIVITY_PERIODS = 60
 def _activity_periods(activities: list[dict]) -> list[int]:
     """Periods for each activity.
 
-    The syllabus states periods per *specific competence* (repeated on every
-    activity of that competence). Split a competence's periods evenly across its
-    activities so the weekly total stays faithful to the syllabus."""
+    Forms ingested from a real teacher scheme state periods per *activity*
+    (`periods`), which is authoritative -- use it directly.
+
+    Otherwise the syllabus states periods per *specific competence* (repeated on
+    every activity of that competence). Split a competence's periods evenly
+    across its activities so the weekly total stays faithful to the syllabus."""
+    if any(a.get("periods") for a in activities):
+        return [min(max(int(a.get("periods") or 0), _MIN_PERIODS_PER_ACTIVITY),
+                    _MAX_ACTIVITY_PERIODS) for a in activities]
     # group consecutive activities sharing a specific competence
     groups: list[list[int]] = []
     idx_by_group: list[list[int]] = []
@@ -83,6 +89,90 @@ def _references(subject: str, form: str) -> str:
             "Teacher's Guide (2023 Edition), Tanzania Institute of Education")
 
 
+def _month_week_index(weeks: list[dict]) -> dict[tuple[str, int], int]:
+    """Map (month, nth teaching week of that month) -> index into `weeks`.
+
+    Teacher schemes cite weeks as "the 2nd week of March", while the calendar
+    numbers weeks per semester, so the two have to be reconciled."""
+    index: dict[tuple[str, int], int] = {}
+    seen: dict[str, int] = {}
+    for i, wk in enumerate(weeks):
+        seen[wk["month"]] = seen.get(wk["month"], 0) + 1
+        index[(wk["month"], seen[wk["month"]])] = i
+    return index
+
+
+def _paced_week_rows(activities: list[dict], periods: list[int],
+                     weeks: list[dict]) -> dict[int, list[tuple[int, int]]]:
+    """Place each activity in the week its source document actually names.
+
+    A document's "week 4 of January" is read as the 4th *teaching* week of
+    January. Schools open on 13 January 2026, so January has only three teaching
+    weeks and that ordinal has nowhere to land; an out-of-range ordinal clamps
+    to the month's last teaching week, which keeps the document's ordering and
+    clustering intact (clamping to the first week would reorder the term).
+
+    An activity spanning several weeks has its periods split across them. An
+    activity whose month is unknown keeps syllabus order after the previously
+    placed one."""
+    index = _month_week_index(weeks)
+    month_weeks: dict[str, list[int]] = {}
+    for i, wk in enumerate(weeks):
+        month_weeks.setdefault(wk["month"], []).append(i)
+
+    rows: dict[int, list[tuple[int, int]]] = {}
+    last = 0
+    for ai, act in enumerate(activities):
+        month = act.get("scheduled_month") or ""
+        in_month = month_weeks.get(month, [])
+        targets = []
+        for o in act.get("scheduled_weeks") or []:
+            if (month, o) in index:
+                targets.append(index[(month, o)])
+            elif in_month:
+                targets.append(in_month[-1])
+        targets = sorted(set(targets))
+        if not targets:
+            targets = in_month[:1]
+        if not targets:
+            targets = [min(last, len(weeks) - 1)]
+        base, extra = divmod(periods[ai], len(targets))
+        for k, wi in enumerate(targets):
+            share = base + (1 if k < extra else 0)
+            if share > 0:
+                rows.setdefault(wi, []).append((ai, share))
+        last = max(targets)
+    return rows
+
+
+def _even_week_rows(periods: list[int],
+                    weeks: list[dict]) -> dict[int, list[tuple[int, int]]]:
+    """Spread every activity's periods as evenly as possible over ALL 2026
+    teaching weeks (per-week load varies by at most one period), so nothing is
+    cut by rounding."""
+    slots: list[int] = []
+    for i, p in enumerate(periods):
+        slots.extend([i] * p)
+
+    rows: dict[int, list[tuple[int, int]]] = {}
+    base, extra = divmod(len(slots), len(weeks))
+    pos = 0
+    for row in range(len(weeks)):
+        size = base + (1 if row < extra else 0)
+        chunk = slots[pos:pos + size]
+        pos += size
+        order: list[int] = []
+        share: dict[int, int] = {}
+        for i in chunk:
+            if i not in share:
+                order.append(i)
+                share[i] = 0
+            share[i] += 1
+        if order:
+            rows[row] = [(i, share[i]) for i in order]
+    return rows
+
+
 @lru_cache(maxsize=64)
 def build_scheme(subject: str, form: str) -> dict:
     """Return a scheme-of-work dict for one subject + form for 2026."""
@@ -94,40 +184,22 @@ def build_scheme(subject: str, form: str) -> dict:
 
     periods = _activity_periods(activities)
     total_periods = sum(periods)
-    # derive periods/week from the syllabus's own totals over the real 2026 weeks
-    ppw = max(1, round(total_periods / len(weeks)))
     refs = _references(subject, form)
 
-    # Expand the syllabus into an ordered queue of period-slots, each tagged
-    # with the activity it belongs to. Distribute the slots as evenly as
-    # possible over ALL 2026 teaching weeks (per-week load varies by at most
-    # one period), so every syllabus activity is scheduled — nothing is cut by
-    # rounding. A week teaching several activities gets one row per activity,
-    # each row keeping its own competences, methods and assessment.
-    slots: list[int] = []
-    for i, p in enumerate(periods):
-        slots.extend([i] * p)
+    # Forms sourced from a real teacher scheme carry the month and week the
+    # teacher actually taught each activity; honour that placement rather than
+    # inventing an even spread. A week teaching several activities gets one row
+    # per activity, each keeping its own competences, methods and assessment.
+    paced = any(a.get("scheduled_month") for a in activities)
+    if paced:
+        week_rows = _paced_week_rows(activities, periods, weeks)
+    else:
+        week_rows = _even_week_rows(periods, weeks)
 
-    n_weeks = len(weeks)
-    base, extra = divmod(len(slots), n_weeks)
     entries: list[dict] = []
-    pos = 0
-    for row in range(n_weeks):
-        size = base + (1 if row < extra else 0)
-        chunk = slots[pos:pos + size]
-        pos += size
-        if not chunk:
-            continue
+    for row in sorted(week_rows):
         wk = weeks[row]
-        # activities taught this week, in syllabus order, with their share
-        week_acts: list[int] = []
-        share: dict[int, int] = {}
-        for i in chunk:
-            if i not in share:
-                week_acts.append(i)
-                share[i] = 0
-            share[i] += 1
-        for k, i in enumerate(week_acts):
+        for k, (i, share) in enumerate(week_rows[row]):
             a = activities[i]
             entries.append({
                 "entry_id": f"s{wk['semester']}w{wk['week']}" + (f"-{k + 1}" if k else ""),
@@ -140,7 +212,7 @@ def build_scheme(subject: str, form: str) -> dict:
                 "specific_competence": a.get("specific_competence", ""),
                 "learning_activity": a.get("learning_activity", ""),
                 "activity_id": a.get("id", ""),
-                "periods": share[i],
+                "periods": share,
                 "activity_total_periods": periods[i],
                 "teaching_learning_activities": a.get("suggested_methods", []),
                 "assessment": a.get("assessment_criteria", ""),
@@ -148,6 +220,11 @@ def build_scheme(subject: str, form: str) -> dict:
                 "references": refs,
                 "remarks": "",
             })
+
+    # periods/week over the weeks actually taught (a paced scheme leaves exam and
+    # revision weeks empty, so averaging over all 37 would understate the load)
+    taught_weeks = len(week_rows) or len(weeks)
+    ppw = max(1, round(total_periods / taught_weeks))
 
     # annotate "week X of Y" for topics that span several weeks
     from collections import Counter

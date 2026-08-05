@@ -2,62 +2,10 @@
   "subject": "Chemistry",
   "form": "Form Three",
   "year": 2026,
-  "periods_per_week": 3,
-  "total_periods": 110,
+  "periods_per_week": 5,
+  "total_periods": 125,
   "teaching_weeks": 37,
   "entries": [
-    {
-      "entry_id": "s1w1",
-      "semester": 1,
-      "week": 1,
-      "month": "January",
-      "start_date": "2026-01-12",
-      "end_date": "2026-01-16",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(b) Explain Avogadro’s law in relation to molar quantities",
-      "learning_activity": "Group discussion: Guide student in manageable groups to use the Avogadros Law in explaining the molar quantities",
-      "activity_id": "chem-three-24",
-      "periods": 2,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Group discussion"
-      ],
-      "assessment": "The Avogadro’s Law is clearly explained and correctly applied in calculating molar quantities",
-      "resources": [
-        "Scientific calculator and analytical balance"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
-    },
-    {
-      "entry_id": "s1w1-2",
-      "semester": 1,
-      "week": 1,
-      "month": "January",
-      "start_date": "2026-01-12",
-      "end_date": "2026-01-16",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(c) Explain the principles of volumetric analysis (preparation of standard solutions and volumetric calculations)",
-      "learning_activity": "Brainstorming: Assign students to brainstorm on the concept of volumetric analysis Project works: Guide students to carry-out a visit to nearby possible industries eg. Foods, drinks, cosmetics and pharmaceuticals industries to analyse procedures for determining amounts of chemical substances. Group discussion: Guide students in manageable groups to perform volumetric calculations and make classroom presentations",
-      "activity_id": "chem-three-25",
-      "periods": 1,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Brainstorming",
-        "Project works",
-        "Group discussion"
-      ],
-      "assessment": "The principles of volumetric analysis are clearly explained",
-      "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, HCl, H2SO4, HNO3, CH3COOH, NaOH, Ca(OH)2, Na2CO3, NaHCO3"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
-    },
     {
       "entry_id": "s1w2",
       "semester": 1,
@@ -65,45 +13,18 @@
       "month": "January",
       "start_date": "2026-01-19",
       "end_date": "2026-01-23",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(c) Explain the principles of volumetric analysis (preparation of standard solutions and volumetric calculations)",
-      "learning_activity": "Brainstorming: Assign students to brainstorm on the concept of volumetric analysis Project works: Guide students to carry-out a visit to nearby possible industries eg. Foods, drinks, cosmetics and pharmaceuticals industries to analyse procedures for determining amounts of chemical substances. Group discussion: Guide students in manageable groups to perform volumetric calculations and make classroom presentations",
-      "activity_id": "chem-three-25",
-      "periods": 1,
-      "activity_total_periods": 2,
+      "main_competence": "1.0 CHEMICAL EQUATIONS",
+      "specific_competence": "1.1 Molecular equations",
+      "learning_activity": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them",
+      "activity_id": "chem-three-1",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming",
-        "Project works",
         "Group discussion"
       ],
-      "assessment": "The principles of volumetric analysis are clearly explained",
+      "assessment": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them Students to discuss major steps of writing balanced ionic equations and balance them.",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, HCl, H2SO4, HNO3, CH3COOH, NaOH, Ca(OH)2, Na2CO3, NaHCO3"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
-    },
-    {
-      "entry_id": "s1w2-2",
-      "semester": 1,
-      "week": 2,
-      "month": "January",
-      "start_date": "2026-01-19",
-      "end_date": "2026-01-23",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(d) Describe the applications of volumetric analysis in real life and industrial settings as in soft drinks and cocktail making, medicine and in agriculture",
-      "learning_activity": "Experimentation: Guide students to perform experiments related to the applications of volumetric analysis",
-      "activity_id": "chem-three-26",
-      "periods": 2,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Experimentation"
-      ],
-      "assessment": "The applications of volumetric analysis in real life and industrial settings are clearly described",
-      "resources": [
-        "Pipettes, burettes, volumetric flasks, beakers, distilled water, petri dish, watch glass, funnels, wash bottles, backing powder, vinegar, processed juice, antacids tablets and suspensions, fertiliser, NaOH, HCl, H2SO4 , HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Wall charts marker pens symbols chemicals"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
@@ -117,20 +38,18 @@
       "month": "January",
       "start_date": "2026-01-26",
       "end_date": "2026-01-30",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(e) Explore the basic tenets of ionic theory and electrolysis (ionic theory, mechanism of electrolysis and laws of electrolysis)",
-      "learning_activity": "Group discussion: Guide students in manageable groups to describe the concept of ionic theory and electrolysis and make presentations Experimentation: Guide students to carry-out experiments that demonstrate the mechanism of electrolysis using simple available chemicals and apparatus Field Trip: Guide students to carry-out fields trips to near by industries involved in extraction, electroplating and purification of metals and examine the applications of electrolysis",
-      "activity_id": "chem-three-27",
-      "periods": 2,
-      "activity_total_periods": 2,
+      "main_competence": "1.0 CHEMICAL EQUATIONS",
+      "specific_competence": "1.2 Ionic equations",
+      "learning_activity": "Students to discuss major steps of writing balanced ionic equations and balance them.",
+      "activity_id": "chem-three-2",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Experimentation",
-        "Field Trip"
+        "Group discussion"
       ],
-      "assessment": "The basic principles of ionic theory and electrolysis are clearly described",
+      "assessment": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them Students to discuss major steps of writing balanced ionic equations and balance them.",
       "resources": [
-        "Electrolytic cells, pencils, battery (dry cells), connecting wire, distilled water, acid, H2SO4, CuSO4, ZnSO4, NaCl, KCl, and simulations or videos, diagrams, pictures, wall charts, illustrating principles of ionic theory and electrolysis"
+        "Wall charts marker pens symbols chemicals"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
@@ -144,23 +63,73 @@
       "month": "January",
       "start_date": "2026-01-26",
       "end_date": "2026-01-30",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(f) Describe the preparation and properties of various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides and sulphates of metals)",
-      "learning_activity": "Inquiry-based learning: Guide students to investigate properties of compound of metals and relate with extraction of metals, making of paints, textiles, drinking water, soaps, and detergents",
-      "activity_id": "chem-three-28",
+      "main_competence": "2.0 HARDNESS OF WATER",
+      "specific_competence": "2.1 The concept of Hardness of water",
+      "learning_activity": "students to discuss the meaning of hardness of water and distinguish hard water from soft water by washing with soap",
+      "activity_id": "chem-three-3",
       "periods": 1,
-      "activity_total_periods": 2,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Inquiry-based learning"
+        "Group discussion"
       ],
-      "assessment": "The preparation and properties of various compounds of metals are clearly described",
+      "assessment": "students to discuss the meaning of hardness of water and distinguish hard water from soft water by washing with soap",
       "resources": [
-        "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, laboratory glassware, water trough, flasks, gas jars, kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
+        "Wall charts soap water(hard)&soft"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 2
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 HARDNESS OF WATER",
+      "specific_competence": "2.2 Types of hardness of water",
+      "learning_activity": "Students to carry out an experiment to determine temporary and permanent hard water and state their causes",
+      "activity_id": "chem-three-4",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "Students to carry out an experiment to determine temporary and permanent hard water and state their causes",
+      "resources": [
+        "Source of heat wall charts"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-4",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 HARDNESS OF WATER",
+      "specific_competence": "2.3 Treatment and purification of hard water",
+      "learning_activity": "Students to perform experiment on removal of hardness by using ca(OH)2 and its importance, state the importance of hard water in daily life",
+      "activity_id": "chem-three-5",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Experimentation"
+      ],
+      "assessment": "Students to perform experiment on removal of hardness by using ca(OH)2 and its importance, state the importance of hard water in daily life",
+      "resources": [
+        "Ca(OH)2"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w4",
@@ -169,22 +138,26 @@
       "month": "February",
       "start_date": "2026-02-02",
       "end_date": "2026-02-06",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(f) Describe the preparation and properties of various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides and sulphates of metals)",
-      "learning_activity": "Inquiry-based learning: Guide students to investigate properties of compound of metals and relate with extraction of metals, making of paints, textiles, drinking water, soaps, and detergents",
-      "activity_id": "chem-three-28",
-      "periods": 1,
-      "activity_total_periods": 2,
+      "main_competence": "3.0 ACIDS, BASES AND SALTS",
+      "specific_competence": "3.1 Acids and Bases",
+      "learning_activity": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications of neutralization reaction in daily life.",
+      "activity_id": "chem-three-6",
+      "periods": 4,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Inquiry-based learning"
+        "Group discussion",
+        "Experimentation"
       ],
-      "assessment": "The preparation and properties of various compounds of metals are clearly described",
+      "assessment": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications ofneutralization reaction in daily life.",
       "resources": [
-        "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, laboratory glassware, water trough, flasks, gas jars, kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
+        "Lemon citrus fruits",
+        "vinegar",
+        "sour milk apples",
+        "wood ash"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
+      "topic_week": 1,
       "topic_weeks": 2
     },
     {
@@ -194,19 +167,19 @@
       "month": "February",
       "start_date": "2026-02-02",
       "end_date": "2026-02-06",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(g) Describe the oxidizing and displacement properties of non-metal compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia, and carbon dioxide)",
-      "learning_activity": "Group discussion: Guide students in manageable groups to describe the properties of non-metals and write report Project works: Guide students to carry-out visits to nearby industries for making gases, pesticides, fertilisers and other chemicals, analyse properties of the compounds of non-metals",
-      "activity_id": "chem-three-29",
-      "periods": 2,
-      "activity_total_periods": 2,
+      "main_competence": "3.0 ACIDS, BASES AND SALTS",
+      "specific_competence": "3.3 Salts",
+      "learning_activity": "Students to do experiment on preparation of soluble salts by reacting metal oxides and carbonates with dilute acids, examining heating effects on salts and explain uses of salts in daily life",
+      "activity_id": "chem-three-9",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
+        "Experimentation"
       ],
-      "assessment": "Oxidizing and displacement properties of non-metal compounds are clearly described",
+      "assessment": "Students to do experiment on preparation of soluble salts by reacting metal oxides and carbonates with dilute acids, examining heating effects on salts and explain uses of salts in daily life",
       "resources": [
-        "Wall charts and pictures showing some important oxidation reactions, periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, Iron(II) chloride, potassium dichromate and potassium permanganate"
+        "Samples of salts metals hydroxides",
+        "oxide"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
@@ -220,24 +193,27 @@
       "month": "February",
       "start_date": "2026-02-09",
       "end_date": "2026-02-13",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "3.0 ACIDS, BASES AND SALTS",
+      "specific_competence": "3.1 Acids and Bases",
+      "learning_activity": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications of neutralization reaction in daily life.",
+      "activity_id": "chem-three-6",
+      "periods": 4,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion",
+        "Experimentation"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications ofneutralization reaction in daily life.",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Lemon citrus fruits",
+        "vinegar",
+        "sour milk apples",
+        "wood ash"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 20
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
       "entry_id": "s1w6",
@@ -246,24 +222,23 @@
       "month": "February",
       "start_date": "2026-02-16",
       "end_date": "2026-02-20",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "3.0 ACIDS, BASES AND SALTS",
+      "specific_competence": "3.2 Indicators",
+      "learning_activity": "Students in groups to prepare the indicator from red, yellow, pink flowers and test the acidity and alkalinity of substances using indicators",
+      "activity_id": "chem-three-7",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students in groups to prepare the indicator from red, yellow, pink flowers and test the acidity and alkalinity of substances using indicators",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Flowers water beakers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w7",
@@ -272,24 +247,24 @@
       "month": "February",
       "start_date": "2026-02-23",
       "end_date": "2026-02-27",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "3.0 ACIDS, BASES AND SALTS",
+      "specific_competence": "3.3 Salts",
+      "learning_activity": "Students to rainstorm on the natural sources of salts through questions and answers and analyze solubility of salts in water.",
+      "activity_id": "chem-three-8",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Brainstorming"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students to rainstorm on the natural sources of salts through questions and answers and analyze solubility of salts in water.",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Samples of salts metals hydroxides",
+        "oxide"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w8",
@@ -298,24 +273,46 @@
       "month": "March",
       "start_date": "2026-03-02",
       "end_date": "2026-03-06",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "4.0 THE MOLE CONCEPT AND RELATED CALCULATIONS",
+      "specific_competence": "4.1 The mole as a unit of measurement",
+      "learning_activity": "Students in groups to compare the mole with other units of measurements and construct the molar volume box Students to use a chemical balance to measure the molar masses of different compounds and discuss the Avogadro’s constant",
+      "activity_id": "chem-three-10",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students in groups to compare the mole with other units of measurements and construct the molar volume box and use a chemical balance to measure the molar masses of different compounds and discuss the Avogadro’s constant",
+      "resources": [],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "MIDTERM TEST",
+      "learning_activity": "MIDTERM TEST",
+      "activity_id": "chem-three-13",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "MIDTERM TEST",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "MIDTERM TEST"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w9",
@@ -324,24 +321,23 @@
       "month": "March",
       "start_date": "2026-03-09",
       "end_date": "2026-03-13",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "4.0 THE MOLE CONCEPT AND RELATED CALCULATIONS",
+      "specific_competence": "4.2 Application of the mole concept",
+      "learning_activity": "students to discuss the conversion of known masses of elements , molecules or ions to moles Students to discuss the conversion on known volumes of gases at s.t.p to moles students to discuss the conversion of masses of solids or volumes of known gases to actual number of particles students to discuss the methods used to dissolve different substances in water students to perform some calculation based on the mole concept and balanced equations in groups and then individually",
+      "activity_id": "chem-three-11",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to discuss the conversion of known masses of elements , molecules or ions to moles to discuss the conversion on known volumes of gases at s.t.p to moles to discuss the conversion of masses of solids or volumes of known gases to actual number of particles students to discuss the methods used to dissolve different substances in water and perform some calculation based on the mole concept and balanced equations in groups and then individually",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Periodic table wall chart molar volume box manila cards magic markers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w10",
@@ -350,76 +346,24 @@
       "month": "March",
       "start_date": "2026-03-16",
       "end_date": "2026-03-20",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "5.0 VOLUMETRIC ANALYSIS",
+      "specific_competence": "5.1 Standard volumetric apparatus",
+      "learning_activity": "students to brainstorm on how volumetric analysis is used to determine unknown volumes and concentration of volumetric analysis Students to use water on practice of taking accurate measurements of liquid volumes using pipettes and burettes",
+      "activity_id": "chem-three-12",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Brainstorming",
+        "Demonstration"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to brainstorm on how volumetric analysis is used to determine unknown volumes and concentration of volumetric analysis and use water on practice of taking accurate measurements of liquid volumes using pipettes and burettes",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Burette pipette conical flask beakers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 20
-    },
-    {
-      "entry_id": "s1w11",
-      "semester": 1,
-      "week": 11,
-      "month": "April",
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-17",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
-      "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
-      ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
-      "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 20
-    },
-    {
-      "entry_id": "s1w12",
-      "semester": 1,
-      "week": 12,
-      "month": "April",
-      "start_date": "2026-04-20",
-      "end_date": "2026-04-24",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
-      "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
-      ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
-      "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w13",
@@ -428,24 +372,76 @@
       "month": "April",
       "start_date": "2026-04-27",
       "end_date": "2026-05-01",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "5.0 VOLUMETRIC ANALYSIS",
+      "specific_competence": "5.2 Standard solutions",
+      "learning_activity": "Students in groups to discuss the preparation of standard solutions of common acids and bases and practice to perfection the titration process and reading volumes on a burette correct to two decimal places and data recording",
+      "activity_id": "chem-three-14",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion",
+        "Demonstration"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students in groups to discuss the preparation of standard solutions of common acids and bases and practice to perfection the titration process and reading volumes on a burette correct to two decimal places and data recording",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Basic solutions commercial acids"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 9,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "5.0 VOLUMETRIC ANALYSIS",
+      "specific_competence": "5.3 Volumetric calculations",
+      "learning_activity": "Students in groups and then individually to use the standard sodium carbonate solution to standardize dilute HCl acid Students in groups and individually in the titration experiment find out the percentage purity or impurity of an acid or an alkali Students in groups and individually to carry out an experiment to find out number of moles of water of crystallization",
+      "activity_id": "chem-three-15",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Experimentation"
+      ],
+      "assessment": "Students in groups and then individually to use the standard sodium carbonate solution to standardize dilute HCl acid the titration experiment find out the percentage purity or impurity of an acid or an alkali to carry out an experiment to find out number of moles of water of crystallization",
+      "resources": [
+        "Measuring cylinders pipette white tiles titration flasks"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w13-3",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "5.0 VOLUMETRIC ANALYSIS",
+      "specific_competence": "5.4 Application of volumetric analysis",
+      "learning_activity": "Students to discuss the usefulness of volumetric analysis Students in groups to discuss the findings from the study visit",
+      "activity_id": "chem-three-16",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Field trip"
+      ],
+      "assessment": "Students to discuss the usefulness of volumetric analysis And discuss the findings from the study visit",
+      "resources": [
+        "Wall charts"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w14",
@@ -454,24 +450,48 @@
       "month": "May",
       "start_date": "2026-05-04",
       "end_date": "2026-05-08",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "specific_competence": "6.1 Ionic Theory",
+      "learning_activity": "students to discuss electrolytes, non electrolytes, weak and strong electrolytes and categorize them",
+      "activity_id": "chem-three-17",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to discuss electrolytes, non electrolytes, weak and strong electrolytes and categorize them",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Common salt wax ethanol sugar"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 10,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "TERMINAL EXAMINATIONS",
+      "learning_activity": "TERMINAL EXAMINATIONS",
+      "activity_id": "chem-three-23",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "TERMINAL EXAMINATIONS",
+      "resources": [
+        "TERMINAL EXAMINATIONS"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w15",
@@ -480,24 +500,24 @@
       "month": "May",
       "start_date": "2026-05-11",
       "end_date": "2026-05-15",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "specific_competence": "6.2 The Mechanism of Electrolysis",
+      "learning_activity": "Students in groups and then individually to set up an experiment and discuss the migration of ions Students in groups and then individually to carry out experiments using different electrolytes and electrodes and identify the products at each case",
+      "activity_id": "chem-three-18",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion",
+        "Experimentation"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students in groups and then individually to set up an experiment and discuss the migration of ions And carry out experiments using different electrolytes and electrodes and identify the products at each case",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Carbon rod copper rod sulphuric acid wall charts"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 11,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w16",
@@ -506,24 +526,23 @@
       "month": "May",
       "start_date": "2026-05-18",
       "end_date": "2026-05-22",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "specific_competence": "6.3 Laws of electrolysis",
+      "learning_activity": "students to measure the mass of solid deposited on or eroded from an electrode by a specific current supplied for a specific time and verify faradays first and second laws of electrolysis students to work out some calculations based on the second law",
+      "activity_id": "chem-three-19",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to measure the mass of solid deposited on or eroded from an electrode by a specific current supplied for a specific time and verify faradays first and second laws of electrolysis and work out some calculations based on the second law",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Electrolytic cell chemical balance copper rods"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 12,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w17",
@@ -532,76 +551,74 @@
       "month": "May",
       "start_date": "2026-05-25",
       "end_date": "2026-05-29",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "specific_competence": "6.4 Application of electrolysis",
+      "learning_activity": "students to discuss the purification of copper by electrolysis and essential steps for electroplating an object",
+      "activity_id": "chem-three-20",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to discuss the purification of copper by electrolysis and essential steps for electroplating an object",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Spoon copper rod wall charts"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 13,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s1w18",
+      "entry_id": "s1w17-2",
       "semester": 1,
-      "week": 18,
-      "month": "June",
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-05",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.1 the rate of chemical reactions",
+      "learning_activity": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver",
+      "activity_id": "chem-three-21",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion",
+        "Demonstration"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver And measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Manila sheets test tube graph papers nails water"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 14,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s2w1",
-      "semester": 2,
-      "week": 1,
-      "month": "July",
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-10",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "entry_id": "s1w17-3",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.1 the rate of chemical reactions",
+      "learning_activity": "Students to measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
+      "activity_id": "chem-three-22",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver And measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Manila sheets test tube graph papers nails water"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 15,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w2",
@@ -610,76 +627,98 @@
       "month": "July",
       "start_date": "2026-07-13",
       "end_date": "2026-07-17",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.2 factors affecting the rate of chemical reactions",
+      "learning_activity": "students to use dil. Hcl and Na2S2O3 to study the effect of concentration on the rate of precipitation of sulphur",
+      "activity_id": "chem-three-24",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to use dil. Hcl and Na2S2O3 to study the effect of concentration on the rate of precipitation of sulphur",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 16,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s2w3",
+      "entry_id": "s2w2-2",
       "semester": 2,
-      "week": 3,
+      "week": 2,
       "month": "July",
-      "start_date": "2026-07-20",
-      "end_date": "2026-07-24",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.2 factors affecting the rate of chemical reactions",
+      "learning_activity": "To guide students to use dil. Hcl and Na2S2O3 to study the effect of temperature on the rate of precipitation of sulphur and plot a graph",
+      "activity_id": "chem-three-25",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "to use dil. Hcl and Na2S2O3 to study the effect of temperature on the rate of precipitation of sulphur and plot a graph",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 17,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s2w4",
+      "entry_id": "s2w2-3",
       "semester": 2,
-      "week": 4,
+      "week": 2,
       "month": "July",
-      "start_date": "2026-07-27",
-      "end_date": "2026-07-31",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.2 factors affecting the rate of chemical reactions",
+      "learning_activity": "students to use blocks of CaCO3 and its powder to study the effect of particles size on the rate of evaluation of carbon dioxide when reacted with dil. Hcl acid",
+      "activity_id": "chem-three-26",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "use blocks of CaCO3 and its powder to study the effect of particles size on the rate of evaluation of carbon dioxide when reacted with dil. Hcl acid",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 18,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w2-4",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.2 factors affecting the rate of chemical reactions",
+      "learning_activity": "students in groups to use solid MnO2 to study the effect of the catalyst on the rate of evolution of oxygen from H2O2 and plot a graph",
+      "activity_id": "chem-three-27",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "to use solid MnO2 to study the effect of the catalyst on the rate of evolution of oxygen from H2O2 and plot a graph",
+      "resources": [
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w5",
@@ -688,24 +727,50 @@
       "month": "August",
       "start_date": "2026-08-03",
       "end_date": "2026-08-07",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 3,
-      "activity_total_periods": 58,
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.3 Reversible and Irreversible reactions",
+      "learning_activity": "Students in groups to perform an experiment on reversible and irreversible reactions and discuss the results obtained",
+      "activity_id": "chem-three-28",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
+        "Group discussion",
         "Experimentation",
-        "Field trips"
+        "Demonstration"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "Students in groups to perform an experiment on reversible and irreversible reactions and discuss the results obtained",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
+        "Heat source litmus paper ice"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 19,
-      "topic_weeks": 20
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "MIDTERM TEST",
+      "learning_activity": "MIDTERM TEST",
+      "activity_id": "chem-three-33",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "MIDTERM TEST",
+      "resources": [
+        "MIDTERM TEST"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w6",
@@ -714,44 +779,18 @@
       "month": "August",
       "start_date": "2026-08-10",
       "end_date": "2026-08-14",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "2.1 Conduct experiments in Chemistry (a) Perform experiments on volumetric analysis",
-      "learning_activity": "Experimentation: Guide students to perform titrations for various standard solutions Field trips: Guide students to execute a field trips to nearby industries mainly concerned with quantification of species in different substances and write a report for assessment",
-      "activity_id": "chem-three-30",
-      "periods": 1,
-      "activity_total_periods": 58,
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.4 Equilibrium reaction",
+      "learning_activity": "students to discuss the differences and similarities between equilibrium reactions and reversible reactions and give examples students to discuss the factors affection the position of equilibrium according to Le Chateliers principle",
+      "activity_id": "chem-three-29",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Experimentation",
-        "Field trips"
+        "Group discussion"
       ],
-      "assessment": "Experiments on volumetric analysis are performed correctly",
+      "assessment": "students to discuss the differences and similarities between equilibrium reactions and reversible reactions and give examples",
       "resources": [
-        "Analytical balance, pipette, burette, volumetric flasks, beakers, distilled water, laboratory glassware, funnels, wash bottles, NaOH, HCl, H2SO4, HNO3, CH3COOH, Ca(OH)2, Na2CO3 and NaHCO3"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 20,
-      "topic_weeks": 20
-    },
-    {
-      "entry_id": "s2w6-2",
-      "semester": 2,
-      "week": 6,
-      "month": "August",
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-14",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(b) Perform experiments on the applications of electrolysis in corrosion inhibition and purification of metals",
-      "learning_activity": "Experimentation: Guide students to investigate the applications of electrolysis in the electroplating process for common items in the environment",
-      "activity_id": "chem-three-31",
-      "periods": 2,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Experimentation"
-      ],
-      "assessment": "Experiments on the applications of electrolysis in corrosion, inhibition and purification of metals are correctly performed",
-      "resources": [
-        "Graph papers, sand papers, dry cells Li-ion (3 V &6 V), Lead acid cells (12 V , 5 Ah-7 Ah), Sulphuric acid, copper(II) sulphate, copper ores and sheets, spoon, copper wires, sodium chloride, graphite rods plate, aluminium ores, gold, zinc, impure copper plates, chloride/ sulphate, iron plates, distilled water, potassium dichromate, coulometer, pure copper rods, ammeter, voltmeter, and 100 mL and 250 mL beakers"
+        "Wall charts showing Haber process"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
@@ -765,49 +804,23 @@
       "month": "August",
       "start_date": "2026-08-17",
       "end_date": "2026-08-21",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(c) Use appropriate software to sketch the set-ups of experiments",
-      "learning_activity": "Experimentation: Guide students to use various software in sketching experimental set-ups",
-      "activity_id": "chem-three-32",
+      "main_competence": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "specific_competence": "7.5 Endothermic and exothermic reactions",
+      "learning_activity": "Students to discuss the concept of endothermic and exothermic reactions students to discuss the special features of energy level diagrams for exothermic and endothermic reactions",
+      "activity_id": "chem-three-30",
       "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Experimentation"
+        "Group discussion"
       ],
-      "assessment": "The set-ups of experiments are correctly sketched using Chemistry software",
+      "assessment": "Students to discuss the concept of endothermic and exothermic reactions And discuss the special features of energy level diagrams for exothermic and endothermic reactions",
       "resources": [
-        "Chemistry-based computer software"
+        "Wall charts diagrams"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
-    },
-    {
-      "entry_id": "s2w7-2",
-      "semester": 2,
-      "week": 7,
-      "month": "August",
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-21",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(d) Prepare various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides, and sulphates)",
-      "learning_activity": "Group discussion: Organise students in manageable groups to examine different compounds of metals Experimentation: Assign students to prepare various compounds of metals using available chemicals in the laboratory",
-      "activity_id": "chem-three-33",
-      "periods": 1,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Group discussion",
-        "Experimentation"
-      ],
-      "assessment": "Various compounds of metals are correctly prepared",
-      "resources": [
-        "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, water trough, laboratory glassware, flasks, gas jars, Kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 2
     },
     {
       "entry_id": "s2w8",
@@ -816,24 +829,23 @@
       "month": "August",
       "start_date": "2026-08-24",
       "end_date": "2026-08-28",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(d) Prepare various compounds of metals (oxides, hydroxides, carbonates, hydrogen carbonates, nitrates, chlorides, and sulphates)",
-      "learning_activity": "Group discussion: Organise students in manageable groups to examine different compounds of metals Experimentation: Assign students to prepare various compounds of metals using available chemicals in the laboratory",
-      "activity_id": "chem-three-33",
-      "periods": 1,
+      "main_competence": "8.0 EXTRACTION OF METALS",
+      "specific_competence": "8.1 Occurrence and Location of Metals in Tanzania",
+      "learning_activity": "students to discuss the distribution of metal ores in Tanzania and their types and abundances",
+      "activity_id": "chem-three-31",
+      "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Experimentation"
+        "Group discussion"
       ],
-      "assessment": "Various compounds of metals are correctly prepared",
+      "assessment": "students to discuss the distribution of metal ores in Tanzania and their types and abundances",
       "resources": [
-        "Periodic table, lead metal, iron strips, magnesium nitrate, zinc sulphate, lead nitrate, copper sulphate, silver nitrate, magnesium ribbon, aluminium foil, water trough, laboratory glassware, flasks, gas jars, Kipps apparatus, combustion tube, heat sources, hydrochloric acid, sulphuric acid and the first 20 elements of the periodic table"
+        "Wall charts maps"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 2
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w8-2",
@@ -842,75 +854,24 @@
       "month": "August",
       "start_date": "2026-08-24",
       "end_date": "2026-08-28",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(e) Demonstrate oxidizing and displacement properties of non-metallic compounds (oxygen, hydrogen, chlorine, hydrogen chloride, sulphur dioxide, nitrogen, ammonia and carbon dioxide)",
-      "learning_activity": "Group discussion: Organise students in manageable groups to describe properties of non-metal compounds and make presentations Inquiry-based learning: Guide students to investigate industrial mechanisms involving oxidizing and displacement properties of non-metals",
-      "activity_id": "chem-three-34",
+      "main_competence": "8.0 EXTRACTION OF METALS",
+      "specific_competence": "8.2 Chemical properties of metals",
+      "learning_activity": "Students to demonstrate the reactivity of different metals and write electronic configuration of the common metals to show the stability obtained after losing electrons Students to discuss on the reactivity of different metals with water and steam to include K, Na, Ca Mg, Al, Zn, Pb, Cu",
+      "activity_id": "chem-three-32",
       "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Group discussion",
-        "Inquiry-based learning"
+        "Demonstration"
       ],
-      "assessment": "Oxidizing and displacement properties of non-metal compounds are correctly demonstrated",
+      "assessment": "Students to demonstrate the reactivity of different metals and write electronic configuration of the common metals to show the stability obtained after losing electrons",
       "resources": [
-        "Periodic table, oxygen gas, hydrogen gas, chlorine gas, hydrogen chloride gas, sulphur dioxide gas, nitrogen gas, ammonia gas, carbon dioxide gas, coloured flower, dyes, hydrogen sulphide, iron (II) chloride, potassium dichromate and potassium permanganate and videos, animations or simulations, wall charts and pictures illustrating some important oxidation reactions"
+        "Periodic table charts sample of different metals"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
       "topic_weeks": 1
-    },
-    {
-      "entry_id": "s2w9",
-      "semester": 2,
-      "week": 9,
-      "month": "September",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-25",
-      "main_competence": "2.0 Conduct experiments in Chemistry",
-      "specific_competence": "(f) Prepare sulphuric acid from sulphur dioxide",
-      "learning_activity": "Experimentation: Guide students to prepare sulphuric acid by using sulphur dioxide",
-      "activity_id": "chem-three-35",
-      "periods": 2,
-      "activity_total_periods": 2,
-      "teaching_learning_activities": [
-        "Experimentation"
-      ],
-      "assessment": "Sulphuric acid from sulphur dioxide is correctly prepared",
-      "resources": [
-        "Wall charts showing the laboratory / industrial preparation of sulphuric acid, sulphur dioxide, distilled water, delivery tubes and flasks with side arms"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 1
-    },
-    {
-      "entry_id": "s2w9-2",
-      "semester": 2,
-      "week": 9,
-      "month": "September",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-25",
-      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
-      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
-      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
-      "activity_id": "chem-three-36",
-      "periods": 1,
-      "activity_total_periods": 10,
-      "teaching_learning_activities": [
-        "Field trips",
-        "Group discussion"
-      ],
-      "assessment": "The methods for iron extraction from its ore are clearly described",
-      "resources": [
-        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 4
     },
     {
       "entry_id": "s2w10",
@@ -919,24 +880,23 @@
       "month": "September",
       "start_date": "2026-09-28",
       "end_date": "2026-10-02",
-      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
-      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
-      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
-      "activity_id": "chem-three-36",
-      "periods": 3,
-      "activity_total_periods": 10,
+      "main_competence": "8.0 EXTRACTION OF METALS",
+      "specific_competence": "8.3 extraction of metal by electrolytic reduction",
+      "learning_activity": "students to discuss how the reactivity series is used to select the best method for extracting a metal from its ore and explain the extraction of sodium metal by Down's process",
+      "activity_id": "chem-three-34",
+      "periods": 8,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Field trips",
         "Group discussion"
       ],
-      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "assessment": "students to discuss how the reactivity series is used to select the best method for extracting a metal from its ore and explain the extraction of sodium metal by Down's process",
       "resources": [
-        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+        "Wall charts"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 4
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w11",
@@ -945,24 +905,49 @@
       "month": "October",
       "start_date": "2026-10-05",
       "end_date": "2026-10-09",
-      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
-      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
-      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
-      "activity_id": "chem-three-36",
-      "periods": 3,
-      "activity_total_periods": 10,
+      "main_competence": "8.0 EXTRACTION OF METALS",
+      "specific_competence": "8.4 extraction of metal by chemical reduction",
+      "learning_activity": "Students to discuss and write the important reaction equations taking place in the blast furnace",
+      "activity_id": "chem-three-35",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Field trips",
         "Group discussion"
       ],
-      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "assessment": "Students to discuss and write the important reaction equations taking place in the blast furnace",
       "resources": [
-        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+        "Wall charts"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 4
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11-2",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "8.0 EXTRACTION OF METALS",
+      "specific_competence": "8.5 environmental consideration",
+      "learning_activity": "students to visit the following sites: Quarries, Mineral mines, Coal mines and lead a discussion on environmental destruction and their implications",
+      "activity_id": "chem-three-36",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Field trip"
+      ],
+      "assessment": "students to visit ,Quarries, Mineral mines, Coal mines and lead a discussion on environmental destruction and their implications",
+      "resources": [
+        "Land maps wall charts"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w12",
@@ -971,24 +956,23 @@
       "month": "October",
       "start_date": "2026-10-12",
       "end_date": "2026-10-16",
-      "main_competence": "3.0 Demonstrate mastery of basic principles of extraction of metals",
-      "specific_competence": "3.1 Demonstrate mastery of the principles of extraction of metals (a) Describe the extraction of iron from its ore (ores, stages, and methods of extraction)",
-      "learning_activity": "Field trips: Organise students field trips to nearby mining sites/ factories to analyse the process for extraction of iron from its ores and write the report Group discussion: Organise students in manageable groups to describe stages and methods involved in extraction of metals and make presentation",
-      "activity_id": "chem-three-36",
-      "periods": 3,
-      "activity_total_periods": 10,
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.1 Oxides",
+      "learning_activity": "students to prepare metal oxides by heating elements calcium and magnesium in air and discuss the results students in groups to use guideline to test and classify metal oxides into groups of soluble, insoluble, basic and amphoteric students in groups to discuss the uses of oxides of metals",
+      "activity_id": "chem-three-37",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Field trips",
         "Group discussion"
       ],
-      "assessment": "The methods for iron extraction from its ore are clearly described",
+      "assessment": "students to prepare metal oxides by heating elements calcium and magnesium in air and discuss the results and use guideline to test and classify metal oxides into groups of soluble, insoluble, basic and amphoteric and discuss the uses of oxides of metals",
       "resources": [
-        "Wall charts showing the metals ores and their methods for extraction, and real ores for metals present in Tanzania"
+        "Wall charts sample of different metals heat source"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 4
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w13",
@@ -997,24 +981,26 @@
       "month": "October",
       "start_date": "2026-10-19",
       "end_date": "2026-10-23",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.2 Hydroxides",
+      "learning_activity": "Students to prepare the hydroxide of calcium by adding the metal directly in water Students to prepare insoluble hydroxides by reaction the solutions of NaOH, KOH with aqueous solutions of soluble salts and classify metal hydroxides Using guidelines students to perform experiments on the chemical properties of some common metal hydroxides and state their uses",
+      "activity_id": "chem-three-38",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
+        "Experimentation"
       ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "assessment": "Students to prepare the hydroxide of calcium by adding the metal directly in water And prepare insoluble hydroxides by reaction the solutions of NaOH, KOH with aqueous solutions of soluble salts and classify metal hydroxides perform experiments on the chemical properties of some common metal hydroxides and state their uses",
       "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+        "KOH NaOH water chlorides of Fe",
+        "Mg",
+        "Zn",
+        "Cu beakers test tube"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 7
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w14",
@@ -1023,24 +1009,23 @@
       "month": "October",
       "start_date": "2026-10-26",
       "end_date": "2026-10-30",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.3 Carbonates and Hydrogen carbonates",
+      "learning_activity": "Students to prepare soluble carbonated by passing carbon dioxide to an alkali and then prepare insoluble carbonates by passing excess of carbon dioxide into lime water, and prepare precipitate insoluble carbonates by adding sodium carbonate solution to a solution of a salt of a heavy metal eg, CuSO4 Students in groups to prepare a table of soluble and insoluble carbonates Using guidelines students to determine the chemical properties of metal carbonates and their uses",
+      "activity_id": "chem-three-39",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
+        "Group discussion"
       ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "assessment": "Students to prepare soluble carbonated by passing carbon dioxide to an alkali and then prepare insoluble carbonates by passing excess of carbon dioxide into lime water, and prepare precipitate insoluble carbonates by adding sodium carbonate solution to a solution of a salt of a heavy metal eg, CuSO4 to prepare a table of soluble and insoluble carbonates",
       "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+        "Carbonates of metals wall charts lab. apparatus"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w15",
@@ -1049,24 +1034,50 @@
       "month": "November",
       "start_date": "2026-11-02",
       "end_date": "2026-11-06",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.4 Nitrates",
+      "learning_activity": "Students in groups to carry out an experiment to identify a nitrate from unknown mixtures, in the solid, and liquid form Students to discuss the uses of metal nitrates",
+      "activity_id": "chem-three-40",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
         "Group discussion",
-        "Project works"
+        "Experimentation",
+        "Demonstration"
       ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "assessment": "Students in groups to carry out an experiment to identify a nitrate from unknown mixtures, in the solid, and liquid form And discuss the uses of metal nitrates",
       "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+        "Wall charts"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.5 Chlorides",
+      "learning_activity": "Students to prepare soluble chlorides by mixing dil. Hcl with oxides, hydroxides, carbonates and metals students to discuss chemical properties of metal chlorides and their uses",
+      "activity_id": "chem-three-41",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "Students to prepare soluble chlorides by mixing dil. Hcl with oxides, hydroxides, carbonates and metals And to discuss chemical properties of metal chlorides and their uses",
+      "resources": [
+        "Litmus paper any alkali"
+      ],
+      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w16",
@@ -1075,24 +1086,23 @@
       "month": "November",
       "start_date": "2026-11-09",
       "end_date": "2026-11-13",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "9.0 COMPOUNDS OF METALS",
+      "specific_competence": "9.6 Sulphates",
+      "learning_activity": "Students to dissolve a metal, a carbonate, a hydroxide or an oxide in dil. H2SO4 and isolate the crystal Students to perform an experiment to study the properties of sulphates and describe their uses",
+      "activity_id": "chem-three-42",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
+        "Experimentation"
       ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
+      "assessment": "Students to dissolve a metal, a carbonate, a hydroxide or an oxide in dil. H2SO4 and isolate the crystal To perform an experiment to study the properties of sulphates and describe their uses",
       "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
+        "Wall charts lab. Reagents"
       ],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w17",
@@ -1101,76 +1111,19 @@
       "month": "November",
       "start_date": "2026-11-16",
       "end_date": "2026-11-20",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
-      ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
-      "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
-      ],
+      "main_competence": "REVISION",
+      "specific_competence": "REVISION",
+      "learning_activity": "",
+      "activity_id": "chem-three-43",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [],
+      "assessment": "",
+      "resources": [],
       "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w18",
-      "semester": 2,
-      "week": 18,
-      "month": "November",
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-27",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 3,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
-      ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
-      "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w19",
-      "semester": 2,
-      "week": 19,
-      "month": "November",
-      "start_date": "2026-11-30",
-      "end_date": "2026-12-04",
-      "main_competence": "4.0 Conduct a project in Chemistry",
-      "specific_competence": "4.1 Conduct a project in Chemistry (a) Design and carry-out a simple research project in Chemistry",
-      "learning_activity": "Group discussion: Guide students in manageable groups to analyse social and scientific challenges such as water pollutions, water purifications, rusting, fire outbreak, pesticides, acid and chemical waste management Project works: Guide students to apply Chemistry principles to investigate on domestic strategies for water purifications, metals purification, metal extraction. and develop local and scientific mechanisms for addressing the identified scientific challenges",
-      "activity_id": "chem-three-37",
-      "periods": 2,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Group discussion",
-        "Project works"
-      ],
-      "assessment": "A simple research project in Chemistry is designed and developed correctly",
-      "resources": [
-        "Library resources and videos, animations or simulations illustrating simple projects in chemistry"
-      ],
-      "references": "TIE, Chemistry for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     }
   ]
 }

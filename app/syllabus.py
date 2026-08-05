@@ -73,6 +73,14 @@ def get_activity(subject: str, form: str, activity_id: str) -> dict | None:
     return None
 
 
+def get_form_source(subject: str, form: str) -> dict:
+    """Provenance for one form, when it does not come from the TIE syllabus
+    transcription. Forms rebuilt from a teacher-authored scheme of work record
+    {document, layout, note}; every other form returns {}."""
+    data = _load_all().get(subject) or {}
+    return (data.get("forms", {}).get(form, {}) or {}).get("source", {})
+
+
 def get_subject_meta(subject: str) -> dict:
     data = _load_all().get(subject, {})
     return {

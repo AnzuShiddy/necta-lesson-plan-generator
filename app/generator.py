@@ -65,11 +65,21 @@ def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
                      f"into {entry['topic_weeks']} sequential portions and cover portion "
                      f"{entry['topic_week']} in depth this week, so that every sub-topic "
                      f"is covered exactly once across the {entry['topic_weeks']} weeks.")
+    # A few forms are rebuilt from a teacher's own scheme of work rather than
+    # from the TIE syllabus transcription; say so rather than overclaiming.
+    source = syllabus.get_form_source(req.subject, req.form)
+    if source:
+        provenance = ("The scheme entry is taken from a teacher-authored 2026 scheme "
+                      "of work for this class, which follows the TIE curriculum.")
+        edition = f"{meta['syllabus_edition']} (via school scheme of work)"
+    else:
+        provenance = "The scheme entry is derived from the official TIE syllabus."
+        edition = meta["syllabus_edition"]
     return f"""Prepare a lesson plan for one scheduled lesson, taken from the 2026 scheme \
-of work below. The scheme entry is derived from the official TIE syllabus.
+of work below. {provenance}
 
 SUBJECT: {req.subject}
-SYLLABUS: {meta['syllabus_edition']}
+SYLLABUS: {edition}
 FORM: {req.form}
 SCHEME OF WORK SLOT: Semester {entry['semester']}, Week {entry['week']} \
 ({entry['month']}, {entry['start_date']} to {entry['end_date']})

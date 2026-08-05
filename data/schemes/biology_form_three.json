@@ -2,37 +2,10 @@
   "subject": "Biology",
   "form": "Form Three",
   "year": 2026,
-  "periods_per_week": 4,
-  "total_periods": 142,
+  "periods_per_week": 5,
+  "total_periods": 150,
   "teaching_weeks": 37,
   "entries": [
-    {
-      "entry_id": "s1w1",
-      "semester": 1,
-      "week": 1,
-      "month": "January",
-      "start_date": "2026-01-12",
-      "end_date": "2026-01-16",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
-      "periods": 4,
-      "activity_total_periods": 27,
-      "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
-      ],
-      "assessment": "Coordination in plants and animals described clearly",
-      "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 1,
-      "topic_weeks": 7
-    },
     {
       "entry_id": "s1w2",
       "semester": 1,
@@ -40,25 +13,27 @@
       "month": "January",
       "start_date": "2026-01-19",
       "end_date": "2026-01-23",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "main_competence": "CLASSIFICATION OF LIVING THINGS.",
+      "specific_competence": "Kingdom plantae. DivisionCaniferoPhyla",
+      "learning_activity": "Observing the collected and displayed plants and record the observable features. Discussing general and distinctive features of the division. Discussing the structure of pine drawing and labelling it. Outlining advantages and disadvantages of plants under division coniferophyla.",
+      "activity_id": "biol-three-1",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "Students should be able to explain general and distinctive features of division Canifero Phyla",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "A variety of conifers Pictures of conifers e.g. Pine",
+        "cypress",
+        "spruce",
+        "cedar. Cones (fresh or preserved)"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w3",
@@ -67,25 +42,24 @@
       "month": "January",
       "start_date": "2026-01-26",
       "end_date": "2026-01-30",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
+      "main_competence": "CLASSIFICATION OF LIVING THINGS.",
+      "specific_competence": "division angiospermophyta (flowering plants)",
+      "learning_activity": "Students in their groups to observe a variety of flowering plants and record their observable features. Discussing the general and distinctive features of division Angiospermophyta. Discussing the structure of representative plants of the two classes. Drew and label the representative plants under each class.",
+      "activity_id": "biol-three-2",
       "periods": 4,
-      "activity_total_periods": 27,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "Students should be able to explain general and distinctive features of division Angiospermophyta.",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "Flowers from dicots and monocots. Fruits and seeds of flowering plants. A variety of flowering plants."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w4",
@@ -94,25 +68,79 @@
       "month": "February",
       "start_date": "2026-02-02",
       "end_date": "2026-02-06",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Concept of Movement and Locomotion.",
+      "learning_activity": "Brainstorming on meaning of movement and locomotion. Discuss the differences between movement and locomotion. In groups to discuss the importance of movement in plants and animals. In groups, to perform various actions depicting movement and locomotion.",
+      "activity_id": "biol-three-3",
       "periods": 4,
-      "activity_total_periods": 27,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion",
+        "Brainstorming",
+        "Demonstration"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "Giving quiz to observe how accurate can the student explain the concepts of movement and locomotion. Observing of the student can be able to demonstrate movement locomotion actions.",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "Variety of Organisms such as insects fish and mouse. Charts on locomotion",
+        "movement of different organisms. Pictures",
+        "drawings of various organisms depicting movement and locomotion."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "",
+      "learning_activity": "Pointing the differences between movement and locomotion.",
+      "activity_id": "biol-three-4",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "Variety of organisms such as insects",
+        "fish and mouse."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4-3",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "",
+      "learning_activity": "Students in groups by using guidelines to perform experiments to investigate movement exhibited by plants and record their findings. To presents their findings.",
+      "activity_id": "biol-three-11",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Experimentation"
+      ],
+      "assessment": "",
+      "resources": [
+        "plants. Potted plants."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w5",
@@ -121,25 +149,49 @@
       "month": "February",
       "start_date": "2026-02-09",
       "end_date": "2026-02-13",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Movement of the human body",
+      "learning_activity": "In groups, examining the picture /model of human skeleton and identify its major parts.",
+      "activity_id": "biol-three-5",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "Students to identify the model of skeleton",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "Model of Human skeleton."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "The Human skeletal system.",
+      "learning_activity": "Discussing structure of the human skeleton and draw a well labelled diagram of it. In groups discuss the adaptations of the major components of the human skeleton.",
+      "activity_id": "biol-three-6",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "Students to identify the stu=ructure of skeleton",
+      "resources": [
+        "Diagram",
+        "drawing of the major components of human skeleton."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w6",
@@ -148,25 +200,56 @@
       "month": "February",
       "start_date": "2026-02-16",
       "end_date": "2026-02-20",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Muscles and Movement",
+      "learning_activity": "Brainstorm on meaning of muscles. Observing in groups charts/models pictures of different muscles and identity their differences.",
+      "activity_id": "biol-three-7",
       "periods": 4,
-      "activity_total_periods": 27,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion",
+        "Brainstorming",
+        "Observation"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "Administer quiz to see the ability of a student to explain how muscles facilitate movement. To check if the student is able to describe the structure of muscles by asking question.",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "Charts",
+        "diagrams",
+        "picture of different types of muscles."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Muscles and Movement",
+      "learning_activity": "In pairs to perform various actions depicting the role of muscles in movement. In groups to observe/diagrams of muscles and discuss its structure. To draw and label the structure of biceps, during bending and stretching of the arm.",
+      "activity_id": "biol-three-8",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Demonstration",
+        "Observation"
+      ],
+      "assessment": "Administer quiz to see the ability of a student to explain how muscles facilitate movement. To check if the student is able to describe the structure of muscles by asking question.",
+      "resources": [
+        "Charts",
+        "diagrams",
+        "photograph of muscles"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w7",
@@ -175,25 +258,26 @@
       "month": "February",
       "start_date": "2026-02-23",
       "end_date": "2026-02-27",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
-      "activity_id": "biol-three-20",
-      "periods": 3,
-      "activity_total_periods": 27,
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Movement in plants.",
+      "learning_activity": "In groups to observe pictures/diagrams of different types of muscles and discuss their adaptations. In groups to discuss causes, effects and preventive measures of muscles cramps",
+      "activity_id": "biol-three-9",
+      "periods": 1,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-        "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-        "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Coordination in plants and animals described clearly",
+      "assessment": "To check if a student is able to explain causes, effects and preventive measures of muscle cramps by giving a short test.",
       "resources": [
-        "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+        "Models",
+        "pictures",
+        "diagrams of muscles."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w7-2",
@@ -202,25 +286,24 @@
       "month": "February",
       "start_date": "2026-02-23",
       "end_date": "2026-02-27",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
+      "main_competence": "MOVEMENT",
+      "specific_competence": "Movement in plants.",
+      "learning_activity": ".observing polled plants showing movement and record their findings. In groups to discuss movement exhibited by plants and their importance and then present. To discuss in groups on the types of movement exhibited by plants.",
+      "activity_id": "biol-three-10",
       "periods": 1,
-      "activity_total_periods": 27,
+      "activity_total_periods": 1,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "To check if a students is able to explain the concept of movement by giving quiz. Observing students in groups investigating movement in plants.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Photograph diagrams and charts showing movement in plants. Plants showing movement of curvature. A variety of plants showing movement exhibited by"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 8
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w8",
@@ -229,25 +312,75 @@
       "month": "March",
       "start_date": "2026-03-02",
       "end_date": "2026-03-06",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Concept of coordination",
+      "learning_activity": "To discuss in their groups meaning and importance of coordination and present their tasks. To observe charts/diagrams/pictures showing main components of nervous coordination and discuss the role of each components. In groups to discuss the ways in which coordination is brought.",
+      "activity_id": "biol-three-12",
       "periods": 4,
-      "activity_total_periods": 27,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "To check if a student’s is able to:- Explain the concept of coordination in organisms. Outline ways in which coordination is brought about by giving test.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Hot objects Sharp object Live specimen of insects and small mammals. Game or puzzle charts on nervous coordination process."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "COORDINATION",
+      "specific_competence": "",
+      "learning_activity": "To observe models/diagrams of brain and spinal cord, discuss their structures. Draw and label the structure of brain and spinal cord.",
+      "activity_id": "biol-three-15",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Observation"
+      ],
+      "assessment": "",
+      "resources": [
+        "Models of brain and spinal cord."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "MIDTERM TEST",
+      "learning_activity": "MIDTERM TEST",
+      "activity_id": "biol-three-20",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "MIDTERM TEST"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w9",
@@ -256,25 +389,53 @@
       "month": "March",
       "start_date": "2026-03-09",
       "end_date": "2026-03-13",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "main_competence": "COORDINATION",
+      "specific_competence": "Nervous coordination in Human Neurones.",
+      "learning_activity": "To discuss in groups in structure of motor, sensory and relay neurons. To discuss on the role of motor, sensory and relay neurons and present their tasks.",
+      "activity_id": "biol-three-13",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "To check if the student can:- Describe the structure of motors, sensory and relay neurones. Explain the role of motor sensory and relay neurones.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Models",
+        "pict ures",
+        "photographs of neurons Prepared slides of neurones Microscope A chart showing summary of the roles of motor",
+        "sensory and relay neurones."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Central Nervous System (CNS)",
+      "learning_activity": "Brainstorm on meaning of CNS In group to identify the components of the CNS and discuss their roles.",
+      "activity_id": "biol-three-14",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Brainstorming"
+      ],
+      "assessment": "To check if the students able to give meaning of CNS, identify, components of the CNS and their functions by giving quiz.",
+      "resources": [
+        "Charts of the Central Nervous System. Diagrams",
+        "models of brain and spinal cord."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w10",
@@ -283,79 +444,110 @@
       "month": "March",
       "start_date": "2026-03-16",
       "end_date": "2026-03-20",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "main_competence": "COORDINATION",
+      "specific_competence": "Peripheral Nervous System (PNS)",
+      "learning_activity": "Give meaning Discuss the components of PNS in groups.",
+      "activity_id": "biol-three-16",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Brainstorming"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "Asking oral questions to check if the student is able to give meaning of PNS & identify its components.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Photograph",
+        "charts showing the structure of PNS"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s1w11",
+      "entry_id": "s1w10-2",
       "semester": 1,
-      "week": 11,
-      "month": "April",
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-17",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Reflex Action",
+      "learning_activity": "Perform Activities showing reflex actions. To discuss meaning of reflex action.",
+      "activity_id": "biol-three-17",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Demonstration"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "To check of the students is able to given meaning of reflex action by asking questions.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Hot objects Live insects or small mammals. Toys (snake",
+        "scorpion)"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
-      "entry_id": "s1w12",
+      "entry_id": "s1w10-3",
       "semester": 1,
-      "week": 12,
-      "month": "April",
-      "start_date": "2026-04-20",
-      "end_date": "2026-04-24",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Reflex Action",
+      "learning_activity": "Observe and identify the components of neurotic pathway of reflex action. To discuss the neurotic pathway of a reflex action. In groups to demonstrate simple and conditional reflex actions and record their findings. To discuss the differences between simple and conditional reflex actions.",
+      "activity_id": "biol-three-18",
       "periods": 4,
-      "activity_total_periods": 27,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Demonstration",
+        "Observation"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "To check of the students is able to given meaning of reflex action by asking questions.",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Charts",
+        "diagrams showing neurotic pathway of a reflex action. Charts",
+        "drawings of simple conditional reflex actions."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w10-4",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Sense Organs",
+      "learning_activity": "Brainstorm on of sense organ, identify them and state their relative position. Discuss in groups structure of sense organ and draw and label the human ear, eye, nose tongue and s. Of the skin. Discussing role of each sense organ and its adaptive features.",
+      "activity_id": "biol-three-19",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Brainstorming",
+        "Observation"
+      ],
+      "assessment": "Students to Explain meaning of sense organ. Identify types of sense organs. Describe structure of each sense organ . State functions of sense organ by giving test.",
+      "resources": [
+        "Charts of different sense organs. Charts",
+        "models",
+        "photographs of different sense organs."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w13",
@@ -364,25 +556,23 @@
       "month": "April",
       "start_date": "2026-04-27",
       "end_date": "2026-05-01",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Drug and drug abuse in Relation to Nevours Coordination.",
+      "learning_activity": "In groups to discuss meaning of drug and drug abuse in relation to nervous coordination.",
       "activity_id": "biol-three-21",
-      "periods": 4,
-      "activity_total_periods": 27,
+      "periods": 8,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Simple drugs."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w14",
@@ -391,25 +581,24 @@
       "month": "May",
       "start_date": "2026-05-04",
       "end_date": "2026-05-08",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
-      "activity_id": "biol-three-21",
-      "periods": 2,
-      "activity_total_periods": 27,
+      "main_competence": "COORDINATION",
+      "specific_competence": "Drugs and Drug abuse in relation to nervous coordination.",
+      "learning_activity": "To summarize major points from the guest speaker presentation. Prepare project on cases of drug addiction in their surrounding community. Discuss in groups on preventive and control measures of drug abuse.",
+      "activity_id": "biol-three-22",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-        "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-        "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+        "Group discussion",
+        "Project work"
       ],
-      "assessment": "The mechanism of excretion in human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+        "Brounchure and fliers on causes and effects of drug abuse. Posters of drug addicts or users."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 8,
-      "topic_weeks": 8
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w14-2",
@@ -418,25 +607,75 @@
       "month": "May",
       "start_date": "2026-05-04",
       "end_date": "2026-05-08",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
-      "periods": 2,
-      "activity_total_periods": 26,
+      "main_competence": "COORDINATION",
+      "specific_competence": "Hormonal Coordination",
+      "learning_activity": "To draw the diagram to show location of endocrine glands in human body.",
+      "activity_id": "biol-three-23",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+        "Charts",
+        "diagr ams of endocrine glands and hormones produced by each gland."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 7
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w14-3",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Coordination in plants. Concepts of Topic Nastic responses",
+      "learning_activity": "Observe plants and records observations. Give meaning of topic and nastic Reponses.",
+      "activity_id": "biol-three-25",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Observation"
+      ],
+      "assessment": "",
+      "resources": [
+        "Potted plants. Mimos plant Charts",
+        "photographs or pictures of topic responses."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w14-4",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "TERMINAL EXAMINATIONS",
+      "learning_activity": "TERMINAL EXAMINATIONS",
+      "activity_id": "biol-three-31",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "TERMINAL EXAMINATIONS",
+      "resources": [
+        "TERMINAL EXAMINATIONS"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w15",
@@ -445,25 +684,104 @@
       "month": "May",
       "start_date": "2026-05-11",
       "end_date": "2026-05-15",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
-      "periods": 4,
-      "activity_total_periods": 26,
+      "main_competence": "COORDINATION",
+      "specific_competence": "Hormonal Endocrine Coordination",
+      "learning_activity": "Discuss the difference between endocrine and exocrine glands. Role of each hormone in mammalian body Disorders of hormonal coordination due to hyper- and hypo- secretion of mentioned hormones.",
+      "activity_id": "biol-three-24",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+        "Pictures",
+        "photographs of disorders of hormal coordination. Eg. Goitre gigantism and dwarfisim."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "COORDINATION",
+      "specific_competence": "Coordination in plants",
+      "learning_activity": "Using guidelines to carry out experiments to investigate the effects of tropic and nastic in plants and record their findings. To discuss on groups the importance of hydro –geo-photo and chemo-tropism in plants. To outline significance of tropism in plants.",
+      "activity_id": "biol-three-26",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Experimentation"
+      ],
+      "assessment": "",
+      "resources": [
+        "Potted plants subjects to all round –light and unidirectional light. Charts to show examples of tropic responses. Mimosa plant."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15-3",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "EXCRETION",
+      "specific_competence": "Concept of excretion",
+      "learning_activity": "To brainstorm on meaning of excretion.",
+      "activity_id": "biol-three-27",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming"
+      ],
+      "assessment": "",
+      "resources": [
+        "Models of kidney. Diagram",
+        "charts of excretory system."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15-4",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "EXCRETION",
+      "specific_competence": "Excretion In Human",
+      "learning_activity": "To discuss the types of excretory organs in human. To observe the urinary system and identify the structures. To discuss and draw the structure of human urinary system. To discuss the process of urine formation in groups.",
+      "activity_id": "biol-three-28",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Brainstorming",
+        "Observation"
+      ],
+      "assessment": "",
+      "resources": [
+        "Dissecting kit. Chloroform Cotton Models",
+        "charts pictures showing human urinary system."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w16",
@@ -472,25 +790,26 @@
       "month": "May",
       "start_date": "2026-05-18",
       "end_date": "2026-05-22",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
-      "periods": 4,
-      "activity_total_periods": 26,
+      "main_competence": "EXCRETION",
+      "specific_competence": "Complication and disorder of excretory sysem.",
+      "learning_activity": "To discuss on the case study. In groups to discuss of causes, symptoms, effects and control measures of disorders and complications the excretory system.",
+      "activity_id": "biol-three-29",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+        "Charts",
+        "diagrams of the urinary system and associated disorders and complications. Charts",
+        "models",
+        "pictures showing urinary system."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w17",
@@ -499,79 +818,25 @@
       "month": "May",
       "start_date": "2026-05-25",
       "end_date": "2026-05-29",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
+      "main_competence": "EXCRETION",
+      "specific_competence": "Excretion in plants.",
+      "learning_activity": "To summarize major points and list down types of excretory products eliminated by plants. To discuss in groups on the importance of excretory products of plants.",
+      "activity_id": "biol-three-30",
       "periods": 4,
-      "activity_total_periods": 26,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+        "Group discussion",
+        "Question and answer"
       ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+        "Sample of plant excretory products such as gum",
+        "latex alkaloids. A chart showing various plants and their waste products."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s1w18",
-      "semester": 1,
-      "week": 18,
-      "month": "June",
-      "start_date": "2026-06-01",
-      "end_date": "2026-06-05",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
-      "periods": 4,
-      "activity_total_periods": 26,
-      "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
-      ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
-      "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w1",
-      "semester": 2,
-      "week": 1,
-      "month": "July",
-      "start_date": "2026-07-06",
-      "end_date": "2026-07-10",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
-      "periods": 4,
-      "activity_total_periods": 26,
-      "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
-      ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
-      "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w2",
@@ -580,25 +845,25 @@
       "month": "July",
       "start_date": "2026-07-13",
       "end_date": "2026-07-17",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
-      "activity_id": "biol-three-22",
+      "main_competence": "REGULATION",
+      "specific_competence": "Concept of Regulation",
+      "learning_activity": "To discuss the meaning of regulation and its importance. To discuss groups on the types of regulation.",
+      "activity_id": "biol-three-32",
       "periods": 4,
-      "activity_total_periods": 26,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-        "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-        "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+        "Group discussion"
       ],
-      "assessment": "The mechanism of regulation in the human body is described clearly",
+      "assessment": "",
       "resources": [
-        "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+        "A chart showing the process of regulation in animals. Charts",
+        "pictures",
+        "diagrams showing various types of regulation."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w3",
@@ -607,25 +872,28 @@
       "month": "July",
       "start_date": "2026-07-20",
       "end_date": "2026-07-24",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
-      "activity_id": "biol-three-23",
+      "main_competence": "REGULATION",
+      "specific_competence": "Temperature Regulation in Animals.",
+      "learning_activity": "In groups to determine the temperature of a frog and a small mammal, under different conditions and record their findings. Divide the experimental animals into two groups; ectoderms and endodermis. In pairs, carry out practical exercise on measuring body temperature before and after performing exercise and report that findings. To discuss in groups the body reactions when temperature of the surrounding is lower and when is higher than body temperature. Draw and label section of the skin showing vasoconstriction and vasodilation.",
+      "activity_id": "biol-three-33",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+        "Group discussion",
+        "Experimentation"
       ],
-      "assessment": "The process of nervous coordination is investigated correctly",
+      "assessment": "",
       "resources": [
-        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+        "Toad",
+        "Frog Small mammal (rat",
+        "mouse",
+        "rabbit_ A clinical thermometer. A chart showing a table for recording body temperature. Pictures",
+        "diagr ams showing the reaction of the skin under different conditions (hot and cold)"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 5
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w4",
@@ -634,25 +902,28 @@
       "month": "July",
       "start_date": "2026-07-27",
       "end_date": "2026-07-31",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
-      "activity_id": "biol-three-23",
+      "main_competence": "REGULATION",
+      "specific_competence": "Temperature Regulation in Animals.",
+      "learning_activity": "In groups to determine the temperature of a frog and a small mammal, under different conditions and record their findings. Divide the experimental animals into two groups; ectoderms and endodermis. In pairs, carry out practical exercise on measuring body temperature before and after performing exercise and report that findings. To discuss in groups the body reactions when temperature of the surrounding is lower and when is higher than body temperature. Draw and label section of the skin showing vasoconstriction and vasodilation.",
+      "activity_id": "biol-three-33",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+        "Group discussion",
+        "Experimentation"
       ],
-      "assessment": "The process of nervous coordination is investigated correctly",
+      "assessment": "",
       "resources": [
-        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+        "Toad",
+        "Frog Small mammal (rat",
+        "mouse",
+        "rabbit_ A clinical thermometer. A chart showing a table for recording body temperature. Pictures",
+        "diagr ams showing the reaction of the skin under different conditions (hot and cold)"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 2,
-      "topic_weeks": 5
+      "topic_weeks": 2
     },
     {
       "entry_id": "s2w5",
@@ -661,25 +932,51 @@
       "month": "August",
       "start_date": "2026-08-03",
       "end_date": "2026-08-07",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
-      "activity_id": "biol-three-23",
+      "main_competence": "REGULATION",
+      "specific_competence": "Osmoregulation in mammals",
+      "learning_activity": "Discuss the meaning and importance of osmoregulation. To mention the factors which may affect the contents of salt and water in the body. Present their task and categorize the factors.",
+      "activity_id": "biol-three-34",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+        "Group discussion",
+        "Question and answer"
       ],
-      "assessment": "The process of nervous coordination is investigated correctly",
+      "assessment": "",
       "resources": [
-        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+        "Charts",
+        "pictures photographs or diagrams showing osmoregultion in mammals. Models",
+        "pictures showing the structure of a nephron."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 5
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "MIDTERM TEST",
+      "learning_activity": "MIDTERM TEST",
+      "activity_id": "biol-three-37",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "MIDTERM TEST"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w6",
@@ -688,25 +985,24 @@
       "month": "August",
       "start_date": "2026-08-10",
       "end_date": "2026-08-14",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
-      "activity_id": "biol-three-23",
+      "main_competence": "REGULATION",
+      "specific_competence": "Blood Sugar regulation in mammals",
+      "learning_activity": "To discuss in groups how hormones regulate sugar level in the blood and present their task.",
+      "activity_id": "biol-three-35",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+        "Group discussion"
       ],
-      "assessment": "The process of nervous coordination is investigated correctly",
+      "assessment": "",
       "resources": [
-        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+        "Pictures",
+        "charts photographs showing mechanisms of regulation sugar level in the blood."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 5
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w7",
@@ -715,50 +1011,24 @@
       "month": "August",
       "start_date": "2026-08-17",
       "end_date": "2026-08-21",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
-      "activity_id": "biol-three-23",
+      "main_competence": "REGULATION",
+      "specific_competence": "Blood sugar regulation",
+      "learning_activity": "Students to read on literature and outlines the causes, symptoms and effects of high and low sugar level in the blood and present their tasks.",
+      "activity_id": "biol-three-36",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-        "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-        "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+        "Group discussion"
       ],
-      "assessment": "The process of nervous coordination is investigated correctly",
+      "assessment": "",
       "resources": [
-        "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 5
-    },
-    {
-      "entry_id": "s2w8",
-      "semester": 2,
-      "week": 8,
-      "month": "August",
-      "start_date": "2026-08-24",
-      "end_date": "2026-08-28",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(b) Investigate tropic responses in plants",
-      "activity_id": "biol-three-24",
-      "periods": 4,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
-      ],
-      "assessment": "Tropic responses in plants are investigated correctly",
-      "resources": [
-        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+        "Pictures",
+        "charts photographs showing mechanisms of regulation sugar level in the blood."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 5
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w9",
@@ -767,23 +1037,78 @@
       "month": "September",
       "start_date": "2026-09-21",
       "end_date": "2026-09-25",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(b) Investigate tropic responses in plants",
-      "activity_id": "biol-three-24",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Concept of reproduction",
+      "learning_activity": "To discuss the meaning and importance of reproduction. To observe a variety of organisms displayed and discuss in groups the ways in which the plants reproduce by asexual or sexual reproduction. To discuss in groups the difference between asexual and sexual reproduction and present their group task.",
+      "activity_id": "biol-three-38",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Tropic responses in plants are investigated correctly",
+      "assessment": "",
       "resources": [
-        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+        "Flip charts V.I.P.P cards carrying key message on reproduction Variety of organism."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 5
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Meiosis and Reproduction",
+      "learning_activity": "To brainstorm the meaning of meiosis. To discuss on the significance of meiosis in relation to reproduction.",
+      "activity_id": "biol-three-39",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Brainstorming"
+      ],
+      "assessment": "",
+      "resources": [
+        "Charts",
+        "photographs showing stages of meiosis. Models showing stages of meiosis."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9-3",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "",
+      "learning_activity": "To observe the events taking place in meiosis and outline them. Present for class discuss.",
+      "activity_id": "biol-three-40",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Observation"
+      ],
+      "assessment": "",
+      "resources": [
+        "Prepare microscope slide on stages of meiosis Microscope Charts",
+        "photographs models showing stages of meiosis."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w10",
@@ -792,73 +1117,79 @@
       "month": "September",
       "start_date": "2026-09-28",
       "end_date": "2026-10-02",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(b) Investigate tropic responses in plants",
-      "activity_id": "biol-three-24",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Concept of reproduction",
+      "learning_activity": "To discuss the meaning and importance of reproduction. To observe a variety of organisms displayed and discuss in groups the ways in which the plants reproduce by asexual or sexual reproduction. To discuss in groups the difference between asexual and sexual reproduction and present their group task.",
+      "activity_id": "biol-three-38",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 8,
       "teaching_learning_activities": [
-        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Tropic responses in plants are investigated correctly",
+      "assessment": "",
       "resources": [
-        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+        "Flip charts V.I.P.P cards carrying key message on reproduction Variety of organism."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 5
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
-      "entry_id": "s2w11",
+      "entry_id": "s2w10-2",
       "semester": 2,
-      "week": 11,
-      "month": "October",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-09",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(b) Investigate tropic responses in plants",
-      "activity_id": "biol-three-24",
-      "periods": 4,
-      "activity_total_periods": 20,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Meiosis and Reproduction",
+      "learning_activity": "To brainstorm the meaning of meiosis. To discuss on the significance of meiosis in relation to reproduction.",
+      "activity_id": "biol-three-39",
+      "periods": 1,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+        "Group discussion",
+        "Brainstorming"
       ],
-      "assessment": "Tropic responses in plants are investigated correctly",
+      "assessment": "",
       "resources": [
-        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+        "Charts",
+        "photographs showing stages of meiosis. Models showing stages of meiosis."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 5
+      "topic_week": 2,
+      "topic_weeks": 2
     },
     {
-      "entry_id": "s2w12",
+      "entry_id": "s2w10-3",
       "semester": 2,
-      "week": 12,
-      "month": "October",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-16",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-      "learning_activity": "(b) Investigate tropic responses in plants",
-      "activity_id": "biol-three-24",
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Reproductive in flowering plants. The structure of the flower.",
+      "learning_activity": "To observe the collected flowers and identify different parts of the flower and describe their structures. To draw a well labelled diagram of the named flower. To identify and discuss reproductive parts of a flower.",
+      "activity_id": "biol-three-41",
       "periods": 4,
-      "activity_total_periods": 20,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+        "Group discussion",
+        "Observation"
       ],
-      "assessment": "Tropic responses in plants are investigated correctly",
+      "assessment": "",
       "resources": [
-        "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+        "Variety of flowers. Charts",
+        "models",
+        "photographs of flowers."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 5
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w13",
@@ -867,24 +1198,50 @@
       "month": "October",
       "start_date": "2026-10-19",
       "end_date": "2026-10-23",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 4,
-      "activity_total_periods": 20,
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Reproduction in mammals",
+      "learning_activity": "In groups to identify in male and female reproductive organs from the dissected mice. To discuss on the structure of male and female reproductive systems and draw the diagrams.",
+      "activity_id": "biol-three-42",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
+        "Group discussion"
       ],
-      "assessment": "A biological research project work is developed and carried out correctly",
+      "assessment": "",
       "resources": [
-        "Text/online resources on principles of biological projects"
+        "Mouse",
+        "any other small mammal Dissecting kit. Tray",
+        "dissecting board Chloroform Cotton wool Water."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
       "topic_week": 1,
-      "topic_weeks": 7
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Gamete formation and fertilization",
+      "learning_activity": "To discuss in groups the process of gamete formation in mammals and liberation. To identify the phase of menstrual cycle and events that take place. Discuss on the process of ovulation and hormones involved in the process. To discuss in groups the process of fertilization pregnancy and child birth.",
+      "activity_id": "biol-three-43",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "Pictures showing formational liberation of gametes. Charts on fertilization process."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w14",
@@ -893,24 +1250,24 @@
       "month": "October",
       "start_date": "2026-10-26",
       "end_date": "2026-10-30",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Multiple Pregnancies.",
+      "learning_activity": "To discuss in groups the factors affecting fertilization and present their tasks. Discuss on meaning and importance of artificial insemination, and present their tasks.",
+      "activity_id": "biol-three-44",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
+        "Group discussion"
       ],
-      "assessment": "A biological research project work is developed and carried out correctly",
+      "assessment": "",
       "resources": [
-        "Text/online resources on principles of biological projects"
+        "Charts",
+        "drawing depicting artificial insemination."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 2,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w15",
@@ -919,24 +1276,103 @@
       "month": "November",
       "start_date": "2026-11-02",
       "end_date": "2026-11-06",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Disorders of Reproductive system.",
+      "learning_activity": "To discuss of meaning and causes of multiple pregnancies. Discuss on differences between identical and fraternal twins. To discuss in group different types of disorders of the human reproductive system.",
+      "activity_id": "biol-three-45",
+      "periods": 2,
+      "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
+        "Group discussion"
       ],
-      "assessment": "A biological research project work is developed and carried out correctly",
+      "assessment": "",
       "resources": [
-        "Text/online resources on principles of biological projects"
+        "Charts",
+        "pictures on multiple pregnancies. Charts",
+        "diagrams or pictures or pictures showing identical and fraternal twins Document on disorders of the human reproductive system.."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 3,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w15-2",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "",
+      "learning_activity": "To discuss on causes and effects of the reproductive system disorders. To discuss possible remedies of the reproductive system disorders.",
+      "activity_id": "biol-three-46",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "Students to explain causes and effects of the reproductive system disorders. And possible remedies of the reproductive system disorders.",
+      "resources": [
+        "Documents on the disorders of the human reproductive system."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w15-3",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Complications of the Reproductive system.",
+      "learning_activity": "To brainstorm on the types of complications of the reproductive system. To discuss on causes , effects of complications of reproductive system. To discuss ways of minimizing complications and disorders of the reproductive system.",
+      "activity_id": "biol-three-47",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion",
+        "Brainstorming"
+      ],
+      "assessment": "",
+      "resources": [
+        "Video",
+        "tapes Text on case studies on complications of the reproductive system. Video tapes",
+        "charts pictures photographs showing complications of the female reproductive system."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w15-4",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "ANNUAL EXAM & ANNUAL HOLIDAY",
+      "learning_activity": "ANNUAL EXAM & ANNUAL HOLIDAY",
+      "activity_id": "biol-three-52",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "ANNUAL EXAM & ANNUAL HOLIDAY"
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w16",
@@ -945,24 +1381,26 @@
       "month": "November",
       "start_date": "2026-11-09",
       "end_date": "2026-11-13",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Complications of the Reproductive system.",
+      "learning_activity": "To brainstorm on the types of complications of the reproductive system. To discuss on causes , effects of complications of reproductive system. To discuss ways of minimizing complications and disorders of the reproductive system.",
+      "activity_id": "biol-three-48",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
+        "Group discussion",
+        "Brainstorming"
       ],
-      "assessment": "A biological research project work is developed and carried out correctly",
+      "assessment": "",
       "resources": [
-        "Text/online resources on principles of biological projects"
+        "Video",
+        "tapes Text on case studies on complications of the reproductive system. Video tapes",
+        "charts pictures photographs showing complications of the female reproductive system."
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 4,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w17",
@@ -971,24 +1409,27 @@
       "month": "November",
       "start_date": "2026-11-16",
       "end_date": "2026-11-20",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 3,
-      "activity_total_periods": 20,
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Sexuality and sexual Health and Responsible sexual behaviour.",
+      "learning_activity": "Discuss on meaning of the sexuality, sexual health and sexual behaviour. Discuss in groups on factors influencing sexual behaviour in different groups of people. To discuss the responsible and irresponsible sexual behaviour and their impacts. Tabulate differences between responsible and irresponsible sexual behaviour. Discuss the ways of eradicating irresponsible sexual behaviour. Discuss on appropriate life skills required to cope with adolescent sexuality and sexual behaviour.",
+      "activity_id": "biol-three-49",
+      "periods": 4,
+      "activity_total_periods": 4,
       "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
+        "Group discussion"
       ],
-      "assessment": "A biological research project work is developed and carried out correctly",
+      "assessment": "",
       "resources": [
-        "Text/online resources on principles of biological projects"
+        "Pictures",
+        "charts and photographs",
+        "video tapes depicting cases of sexuality and sexual behaviours. Radio",
+        "video tapes pictures",
+        "charts showing people with different sexual behaviours"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
-      "topic_week": 5,
-      "topic_weeks": 7
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w18",
@@ -997,71 +1438,46 @@
       "month": "November",
       "start_date": "2026-11-23",
       "end_date": "2026-11-27",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 3,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
-      ],
-      "assessment": "A biological research project work is developed and carried out correctly",
-      "resources": [
-        "Text/online resources on principles of biological projects"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 6,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w19",
-      "semester": 2,
-      "week": 19,
-      "month": "November",
-      "start_date": "2026-11-30",
-      "end_date": "2026-12-04",
-      "main_competence": "2.0 Conduct biological investigations",
-      "specific_competence": "2.2 Carry out a biological project work using biological principles",
-      "learning_activity": "(a) Develop and carry out a simple research project in Biology",
-      "activity_id": "biol-three-25",
-      "periods": 1,
-      "activity_total_periods": 20,
-      "teaching_learning_activities": [
-        "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-        "Experiment: Guide students to carry out a biological research project using the required principles"
-      ],
-      "assessment": "A biological research project work is developed and carried out correctly",
-      "resources": [
-        "Text/online resources on principles of biological projects"
-      ],
-      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
-      "remarks": "",
-      "topic_week": 7,
-      "topic_weeks": 7
-    },
-    {
-      "entry_id": "s2w19-2",
-      "semester": 2,
-      "week": 19,
-      "month": "November",
-      "start_date": "2026-11-30",
-      "end_date": "2026-12-04",
-      "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-      "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-      "learning_activity": "(a) Describe reproduction in plants (concept of reproduction in plants, asexual and sexual reproduction, pollination and fertilization)",
-      "activity_id": "biol-three-26",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Family planning and contraception",
+      "learning_activity": "To discuss on the concepts of family planning and contraception. To discuss of various family planning methods and contraception, their advantages and disadvantages. Importance of family planning contraception.",
+      "activity_id": "biol-three-50",
       "periods": 2,
       "activity_total_periods": 2,
       "teaching_learning_activities": [
-        "Brainstorming: Guide students to brainstorm on the concept of reproduction in plants",
-        "Group discussion:Guide students in manageable groups to discuss on the asexual and sexual reproduction, pollination and fertilization in plants"
+        "Group discussion"
       ],
-      "assessment": "Reproduction in plants is described clearly",
+      "assessment": "",
       "resources": [
-        "Reproduction in plants online resources, potted plants, hibiscus flowers, bean flowers, elephant grass flowers, hand lens, surgical/ razor blade, pictures/ illustration showing reproduction in plants"
+        "Various family planning devices. Charts",
+        "pictures photographs of family planning devices."
+      ],
+      "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REPRODUCTION",
+      "specific_competence": "Maternal and child care.",
+      "learning_activity": "To discuss importance of maternal and child care. Present their investigations for class discussion. To discuss on ways of providing appropriate maternal and child care for PLWHA",
+      "activity_id": "biol-three-51",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Group discussion"
+      ],
+      "assessment": "",
+      "resources": [
+        "Charts",
+        "pictures and photographs of women and children living with HIV",
+        "AIDS"
       ],
       "references": "TIE, Biology for Secondary Schools Form Three: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
