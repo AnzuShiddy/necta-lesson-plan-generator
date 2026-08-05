@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .env
 data/pdfs/*.pdf
+data/reference/*.pdf
+data/reference/*.docx
+# Third-party schemes (darasahuru.ac.tz): the parsed text is the document, so it
+# is kept local too. Their rebuilt output in data/syllabus + data/schemes is
+# committed, so only re-running the parse needs the originals.
+data/reference/parsed/biology_form_one_scheme_2026.json
+data/reference/parsed/chemistry_form_two_scheme_2026.json

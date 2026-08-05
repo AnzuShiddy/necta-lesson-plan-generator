@@ -8,146 +8,349 @@
     "Form One": {
       "activities": [
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
           "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(a) Explain the basic concepts of Biology (meaning, branches, basic terminologies, importance and its relationship with other disciplines)",
+          "main_learning_activity": "(a)Explain the basic concepts of Biology",
+          "learning_activity": "To explain meaning, branches, basic terminologies",
           "suggested_methods": [
-            "Group discussion: Guide students in manageable groups to discuss meaning of biology, basic biological terminologies and branches of biology",
-            "Brainstorming: Guide students to brainstorm on importance of biology in our life",
-            "Jigsaw: Guide students in manageable groups, to explain the relationship of Biology with other disciplines through jigsaw"
+            "Group discussion: To guide students in manageable groups to discuss meaning of biology",
+            "basic biological terminologies and Branches of biology"
           ],
-          "assessment_criteria": "The basic concept of Biology are clearly explained",
+          "assessment_criteria": "- Presentations - Questions and Answers",
           "suggested_resources": [
-            "Charts, relevant text, and online resources on basic concept of biology"
+            "1ST",
+            "Charts",
+            "relevant text",
+            "and online resources on basic concept of biology"
           ],
-          "periods_for_specific_competence": 27,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
           "id": "biol-one-1"
         },
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
           "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(b) Describe a cell (meaning,types, structures and functions)",
+          "main_learning_activity": "",
+          "learning_activity": "To elaborate relationship of biology discipline with other discipline(s)",
           "suggested_methods": [
-            "Group Discussion: Guide students in manageable groups to discuss concept of cell",
-            "ICT-Based learning: Guide students to explain cell structures and cell differentiation through simulation",
-            "Experimentation: Guide students to prepare microscope slides of a plant and animal cell"
+            "Jigsaw: To guide students in manageable groups",
+            "to explain the relationship of Biology with other disciplines through jigsaw"
           ],
-          "assessment_criteria": "The concept of cell is described clearly",
+          "assessment_criteria": "- Group discussion reports and presentations - Quiz",
           "suggested_resources": [
-            "Cells charts/ models, light microscope, slide covers, microscope slides, and cells online resources"
+            "2ND",
+            ". Oxford",
+            "(2011). Biology for Secondary Schools Form One: Student’s Book. Oxford University Press (T) Ltd."
           ],
-          "periods_for_specific_competence": 27,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
           "id": "biol-one-2"
         },
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
           "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(c) Describe nutrition in plants (photosynthesis, leaf structure and mineral requirements)",
-          "suggested_methods": [
-            "Field visit: Guide students to collect different plant leaves around the school compound to observe and explain the external structure of leaves",
-            "Group Discussion: Guide students in manageable groups to discuss the concept of nutrition in plants, internal structure of a leaf and how photosynthesis occurs in the leaf",
-            "Guest speaker: Invite guest speaker (Agricultural extension officer) to share with students on mineral requirements in plants"
-          ],
-          "assessment_criteria": "Nutrition in plants is described clearly",
+          "main_learning_activity": "",
+          "learning_activity": "To observe simulation and deduct the types of cell and structure",
+          "suggested_methods": [],
+          "assessment_criteria": "- Questions and Answers",
           "suggested_resources": [
-            "Relevant equipment and apparati, heat sources, water, relevant chemicals and reagents, leaves, pond weeds, nutrition in plants models/ charts, and nutrition in plants online resources"
+            "3RD",
+            "ICT-Based learning: To guide students to explain cell structures and cell differentiation through simulation"
           ],
-          "periods_for_specific_competence": 27,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
           "id": "biol-one-3"
         },
         {
           "main_competence": "2.0 Communicating using scientific biological terminologies",
-          "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
-          "learning_activity": "(a) Explain the concept and systems of classification (meaning ,importance of classification, rules of scientific naming of organisms, artificial and natural classification systems)",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To state the function of structures found in cells",
           "suggested_methods": [
-            "Field visit: Guide students to collect various living things around the school compound and group all the items according to their similarities",
-            "Brainstorming: Guide students to brainstorm on the concept of classification",
-            "Group Discussion: Guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms",
-            "Project: Guide students to assign scientific names to organisms and label trees around their school environment"
+            "Experimentation: To guide students to prepare microscope slides of a plant and animal cell"
           ],
-          "assessment_criteria": "Concept and systems of classification explained clearly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Variety of living organisms, classification charts, and classification online resources"
+            "4TH",
+            "- Written reports - Observation"
           ],
-          "periods_for_specific_competence": 28,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
           "id": "biol-one-4"
         },
         {
           "main_competence": "2.0 Communicating using scientific biological terminologies",
-          "specific_competence": "2.1 Demonstrate mastery of scientific biological terminologies",
-          "learning_activity": "(b) Describe the major groups of organisms: (Monera, Protista, Fungi, Plantae, Animalia and Viruses)",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "(c) Describe nutrition in plants (photosynthesis, leaf structure and mineral requirements)",
+          "learning_activity": "To observe and assess different leaves structures",
           "suggested_methods": [
-            "Field vist: Guide students in groups to collect various living organisms around the school compound which are representatives of the major groups of organisms and classify them",
-            "Group Discussion: Guide students in manageable groups, to identify the major groups of organisms and viruses, discuss their features and economic importance"
+            "1.0Demonstrate mastery of the concepts",
+            "principles and processes of Biology"
           ],
-          "assessment_criteria": "The major groups of organisms and viruses are described clearly",
+          "assessment_criteria": "- Presentations - Questions and Answers",
           "suggested_resources": [
-            "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources"
+            "Field visit: To guide students to collect different plant leaves around the school compound to observe and explain the external structure of leaves.",
+            "Relevant equipment and apparatus",
+            "heat sources",
+            "water",
+            "relevant chemicals and reagents",
+            "leaves",
+            "pond weeds",
+            "nutrition in plants models",
+            "charts",
+            "and nutrition in plants online resources"
           ],
-          "periods_for_specific_competence": 28,
+          "periods_for_specific_competence": 9,
+          "periods": 9,
+          "scheduled_month": "April",
+          "scheduled_weeks": [
+            2,
+            3,
+            4
+          ],
           "id": "biol-one-5"
         },
         {
-          "main_competence": "3.0 Conduct biological investigations",
-          "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
-          "learning_activity": "(a) Describe the basic skills for conducting biological experiments (observation, measurement and experimentation)",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To explain the concept of Nutrition in plants",
           "suggested_methods": [
-            "Group discussion: Guide students to visit biology laboratory to identify common apparatus and equipment used in biological experiments",
-            "Experimentation: Guide students to perform activities that involve observation, measurement and experimentation"
+            "Group Discussion: To guide students in manageable groups to discuss the concept of nutrition in plants",
+            "internal structure of a leaf and how Photosynthesis occurs in the leaf"
           ],
-          "assessment_criteria": "Basic skills for conducting biological experiments are correctly described",
+          "assessment_criteria": "- Presentations - Questions and Answers",
           "suggested_resources": [
-            "Basic skills for conducting biological expeiments online resources, colourful pictures, perfume, hot water, preserved specimen, live plants and animals specimens, thermometer, weighing scales, rulers, boxes, stones, variety of equipment and apparati used in conducting biological experiments"
+            "1ST"
           ],
-          "periods_for_specific_competence": 40,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
           "id": "biol-one-6"
         },
         {
-          "main_competence": "3.0 Conduct biological investigations",
-          "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
-          "learning_activity": "(b) Carry out microscopic observation of a cell",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "(a)Explain the concept and systems of classification",
+          "learning_activity": "To explain the meaning ,importance of classification",
           "suggested_methods": [
-            "Group discussion: Guide students in manageable groups to explore procedures that are required to observe a cell under a microscope",
-            "Laboratory practical: Guide students to observe cells of living things under light microscope"
+            "2.1Demonstrate mastery of scientific biological terminologies"
           ],
-          "assessment_criteria": "Microscopic observation of a cells carried out correctly",
+          "assessment_criteria": "- Observation - Question and Answers",
           "suggested_resources": [
-            "Light microscope, slide covers, microscope slide, online resources on microscopic observation of a cell and relevant apparati"
+            "2ND",
+            "Field visit: To guide students to collect various living things around the school compound and group all the items according to their similarities Brainstorming: To guide students to brainstorm on the concept of classification",
+            "Variety of living organisms",
+            "classification charts",
+            "and classification online resources"
           ],
-          "periods_for_specific_competence": 40,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
           "id": "biol-one-7"
         },
         {
-          "main_competence": "3.0 Conduct biological investigations",
-          "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
-          "learning_activity": "(c) Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To explain and use the artificial and natural classification systems in classifying organism.",
           "suggested_methods": [
-            "Experimentation: Guide students to carry out investigations on the conditions necessary for photosynthesis"
+            "Group Discussion: To guide students in manageable groups to discuss systems of classification and scientific rules of naming organisms"
           ],
-          "assessment_criteria": "Investigations related to photosynthesis are carried out correctly",
+          "assessment_criteria": "- Presentations - Questions and Answers",
           "suggested_resources": [
-            "Variety of equipment and apparati, live plant specimens, relevant chemicals, reagents and photosynthesis online resources"
+            "3RD"
           ],
-          "periods_for_specific_competence": 40,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
           "id": "biol-one-8"
         },
         {
-          "main_competence": "3.0 Conduct biological investigations",
-          "specific_competence": "3.2 Prepare and present results of biological investigations",
-          "learning_activity": "(a) Prepare and present a report on cell and photosynthesis investigations",
-          "suggested_methods": [
-            "Group discussion: Guide students in groups to discuss the steps in preparation of biological investigation report",
-            "Project: Guide students to prepare a report using the steps in preparation of a biological investigation report",
-            "Presentation: Guide students to present a biological investigation report"
-          ],
-          "assessment_criteria": "Investigation report on cell and photosynthesis is prepared and presented correctly",
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "(b)Describe the major groups of organisms:",
+          "learning_activity": "To describe the organism under Kingdom Monera",
+          "suggested_methods": [],
+          "assessment_criteria": "- Observation - Question and Answers",
           "suggested_resources": [
-            "Relevant text on steps for scientific investigations and report writing, online resources on report writing"
+            "4TH",
+            "Field visit: To guide students in groups to collect various living organisms around the school compound which are representatives of the Kingdom Monera and classify them Discussion: To guide students in manageable groups",
+            "to identify the organisms under kingdom Monera",
+            "discuss their features and economic importance",
+            "Variety of living organisms",
+            "preserved specimens",
+            "charts on major groups of organisms",
+            "and classification online resources"
           ],
-          "periods_for_specific_competence": 10,
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
           "id": "biol-one-9"
+        },
+        {
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "(b)Describe the major groups of organisms:",
+          "learning_activity": "To describe the organism under Kingdom Protoctista",
+          "suggested_methods": [
+            "2.1Demonstrate mastery of scientific biological terminologies"
+          ],
+          "assessment_criteria": "- Observation - Question and Answers - Presentation",
+          "suggested_resources": [
+            "2ND",
+            "Field visit: To guide students in groups to collect various living organisms around the school compound which are representatives of Kingdom Protoctista and classify them Discussion: To guide students in manageable groups",
+            "to identify the organisms under kingdom Protoctista",
+            "Discuss their features and economic importance",
+            "Variety of living organisms",
+            "preserved specimens",
+            "charts on major groups of organisms",
+            "and classification online resources"
+          ],
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "July",
+          "scheduled_weeks": [],
+          "id": "biol-one-10"
+        },
+        {
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To describe the organism under Kingdom Fungi",
+          "suggested_methods": [],
+          "assessment_criteria": "- Observation - Question and Answers - Presentations",
+          "suggested_resources": [
+            "3RD AN D 4TH",
+            "Field visit: To guide students in groups to collect various living organisms around the school compound which are representatives of Kingdom Fungi and classify them. Discussion: To guide students in manageable groups",
+            "to identify the organisms under kingdom Fungi",
+            "Discuss their features and economic importance"
+          ],
+          "periods_for_specific_competence": 6,
+          "periods": 6,
+          "scheduled_month": "July",
+          "scheduled_weeks": [],
+          "id": "biol-one-11"
+        },
+        {
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To describe the organism under Kingdom Plantae",
+          "suggested_methods": [],
+          "assessment_criteria": "- Observation - Question and Answers - Presentations",
+          "suggested_resources": [
+            "1ST AN D 3RD",
+            "Field visit: To guide students in groups to collect various living organisms around the school compound which are representatives of Kingdom Fungi and classify them. Discussion: To guide students in manageable groups",
+            "to identify the organisms under kingdom Plantae",
+            "discuss their features and economic importance"
+          ],
+          "periods_for_specific_competence": 9,
+          "periods": 9,
+          "scheduled_month": "August",
+          "scheduled_weeks": [],
+          "id": "biol-one-12"
+        },
+        {
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "",
+          "learning_activity": "To describe the organism under Kingdom Animalia",
+          "suggested_methods": [],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "E B M E T P E SR",
+            "3RD AND 4TH",
+            "Field visit: To guide students in groups to collect various living organisms around the school compound which are representatives of Kingdom Animalia and classify them.",
+            "- Observation"
+          ],
+          "periods_for_specific_competence": 6,
+          "periods": 6,
+          "scheduled_month": "August",
+          "scheduled_weeks": [],
+          "id": "biol-one-13"
+        },
+        {
+          "main_competence": "2.0 Communicating using scientific biological terminologies",
+          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
+          "main_learning_activity": "(b)Describe the major groups of organisms:",
+          "learning_activity": "Variety of living organisms, preserved specimens, charts on major groups of organisms, and classification online resources",
+          "suggested_methods": [
+            "Discussion: To guide students in manageable groups",
+            "to identify the organisms under kingdom Animalia",
+            "discuss their features and economic importance"
+          ],
+          "assessment_criteria": "- Question and Answers - Presentations",
+          "suggested_resources": [
+            "1ST"
+          ],
+          "periods_for_specific_competence": 3,
+          "periods": 3,
+          "scheduled_month": "October",
+          "scheduled_weeks": [],
+          "id": "biol-one-14"
+        },
+        {
+          "main_competence": "3.0 Conduct biological investigation",
+          "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+          "main_learning_activity": "(c)Carry out investigations related to photosynthesis (conditions necessary for photosynthesis)",
+          "learning_activity": "To perform a scientific investigation on conditions necessary for photosynthesis",
+          "suggested_methods": [
+            "Experimentation: To guide students to carry out investigations on the conditions necessary for photosynthesis"
+          ],
+          "assessment_criteria": "- Observation - Question and Answers - Homework",
+          "suggested_resources": [
+            "4TH",
+            "Variety of equipment and apparati",
+            "live plant specimens",
+            "relevant chemicals",
+            "reagents."
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "October",
+          "scheduled_weeks": [],
+          "id": "biol-one-15"
+        },
+        {
+          "main_competence": "3.0 Conduct biological investigation",
+          "specific_competence": "3.1 Demonstrate mastery of basic skills for conducting biological investigations",
+          "main_learning_activity": "",
+          "learning_activity": "To Prepare and present are porton cell and photosynthesis investigations",
+          "suggested_methods": [
+            "Group discussion: Guide students in groups to discuss the steps in preparation of biological investigation report"
+          ],
+          "assessment_criteria": "- Observations - Guiding questions - Challenging questions",
+          "suggested_resources": [
+            "3.2Prepareand present results of biological investigations",
+            "1ST",
+            "Relevant text on steps for scientific investigations and report writing",
+            "online resources on report writing"
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "November",
+          "scheduled_weeks": [],
+          "id": "biol-one-16"
         }
-      ]
+      ],
+      "source": {
+        "document": "biology_form_one_scheme_2026.pdf",
+        "layout": "new",
+        "note": "Replaces the TIE-syllabus transcription for this form; sourced from a teacher-authored 2026 scheme of work."
+      }
     },
     "Form Two": {
       "activities": [
@@ -342,114 +545,1189 @@
     "Form Three": {
       "activities": [
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(a) Describe coordination in plants (tropic, responses) and animals (nervous coordination in human, structure of neurones, sense organs and endocrine system)",
+          "main_competence": "CLASSIFICATION OF LIVING THINGS.",
+          "specific_competence": "Kingdom plantae. DivisionCaniferoPhyla",
+          "kind": "topic",
+          "main_learning_activity": "Grouping students to observe the collected plants. Leading of a class discussion on general and distinctive features of the division canifero phyla. Leading a class discussion on the structure of pine. Leading a class discussion on the advantages and disadvantages of plants under division coniferophyla.",
+          "learning_activity": "Observing the collected and displayed plants and record the observable features. Discussing general and distinctive features of the division. Discussing the structure of pine drawing and labelling it. Outlining advantages and disadvantages of plants under division coniferophyla.",
           "suggested_methods": [
-            "Brainstorm: Guide students to brainstorm on the concept of coordination in plants and animals",
-            "Jigsaw: Guide students to discuss types of tropic responses in plants through jigsaw",
-            "Group discussion: Guide students in manageable groups to discuss nervous coordination in human, structure of neurons, sense organs and endocrine system in human"
+            "Group discussion",
+            "Observation"
           ],
-          "assessment_criteria": "Coordination in plants and animals described clearly",
+          "assessment_criteria": "Students should be able to explain general and distinctive features of division Canifero Phyla",
           "suggested_resources": [
-            "Models/pictures of sense organs, young plants, charts showing plants tropic responses, models/charts/ pictures showing structure of neurones and online resouces on plants and animals coordination"
+            "A variety of conifers Pictures of conifers e.g. Pine",
+            "cypress",
+            "spruce",
+            "cedar. Cones (fresh or preserved)"
           ],
-          "periods_for_specific_competence": 80,
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "January",
+          "scheduled_weeks": [
+            2,
+            3
+          ],
+          "id": "biol-three-1"
+        },
+        {
+          "main_competence": "CLASSIFICATION OF LIVING THINGS.",
+          "specific_competence": "division angiospermophyta (flowering plants)",
+          "kind": "topic",
+          "main_learning_activity": "Grouping students and guiding them on observing variety of flowering plants. Leading a class discussion on general and declarative features of division Angiospermophyta. Leading a class discussion on the structure of representative of representative plants of class Monocotyledon and Dicotyledon.",
+          "learning_activity": "Students in their groups to observe a variety of flowering plants and record their observable features. Discussing the general and distinctive features of division Angiospermophyta. Discussing the structure of representative plants of the two classes. Drew and label the representative plants under each class.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "Students should be able to explain general and distinctive features of division Angiospermophyta.",
+          "suggested_resources": [
+            "Flowers from dicots and monocots. Fruits and seeds of flowering plants. A variety of flowering plants."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "January",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-2"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Concept of Movement and Locomotion.",
+          "kind": "topic",
+          "main_learning_activity": "Guiding students to brainstorm on the meaning of movement and locomotion. Leading a class discussion on differences between the two concepts. Organizing students in groups to discuss the importance of movement in plants and animals. Design activity for students to demonstrate movement and locomotion.",
+          "learning_activity": "Brainstorming on meaning of movement and locomotion. Discuss the differences between movement and locomotion. In groups to discuss the importance of movement in plants and animals. In groups, to perform various actions depicting movement and locomotion.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming",
+            "Demonstration"
+          ],
+          "assessment_criteria": "Giving quiz to observe how accurate can the student explain the concepts of movement and locomotion. Observing of the student can be able to demonstrate movement locomotion actions.",
+          "suggested_resources": [
+            "Variety of Organisms such as insects fish and mouse. Charts on locomotion",
+            "movement of different organisms. Pictures",
+            "drawings of various organisms depicting movement and locomotion."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-3"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "",
+          "kind": "topic",
+          "main_learning_activity": "Guiding students through questions and answers to give differences between movement and locomotion.",
+          "learning_activity": "Pointing the differences between movement and locomotion.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Variety of organisms such as insects",
+            "fish and mouse."
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "February",
+          "scheduled_weeks": [],
+          "id": "biol-three-4"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Movement of the human body",
+          "kind": "topic",
+          "main_learning_activity": "Guiding students in groups in examining the model of human skeleton.",
+          "learning_activity": "In groups, examining the picture /model of human skeleton and identify its major parts.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "Students to identify the model of skeleton",
+          "suggested_resources": [
+            "Model of Human skeleton."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-5"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "The Human skeletal system.",
+          "kind": "topic",
+          "main_learning_activity": "Leading a class discussion on the structure of the human skeleton and its major components. Guiding students in groups to discuss the adaptation of the major components of the human skeleton",
+          "learning_activity": "Discussing structure of the human skeleton and draw a well labelled diagram of it. In groups discuss the adaptations of the major components of the human skeleton.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "Students to identify the stu=ructure of skeleton",
+          "suggested_resources": [
+            "Diagram",
+            "drawing of the major components of human skeleton."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-6"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Muscles and Movement",
+          "kind": "topic",
+          "main_learning_activity": "Organizing a brainstorming session on machining of muscles Leading a class discussion on types of muscles.",
+          "learning_activity": "Brainstorm on meaning of muscles. Observing in groups charts/models pictures of different muscles and identity their differences.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming",
+            "Observation"
+          ],
+          "assessment_criteria": "Administer quiz to see the ability of a student to explain how muscles facilitate movement. To check if the student is able to describe the structure of muscles by asking question.",
+          "suggested_resources": [
+            "Charts",
+            "diagrams",
+            "picture of different types of muscles."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-7"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Muscles and Movement",
+          "kind": "topic",
+          "main_learning_activity": "Design an activity for students to demonstrate the role of muscles in movement. To lead a class discussion on the structure of muscles.",
+          "learning_activity": "In pairs to perform various actions depicting the role of muscles in movement. In groups to observe/diagrams of muscles and discuss its structure. To draw and label the structure of biceps, during bending and stretching of the arm.",
+          "suggested_methods": [
+            "Group discussion",
+            "Demonstration",
+            "Observation"
+          ],
+          "assessment_criteria": "Administer quiz to see the ability of a student to explain how muscles facilitate movement. To check if the student is able to describe the structure of muscles by asking question.",
+          "suggested_resources": [
+            "Charts",
+            "diagrams",
+            "photograph of muscles"
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-8"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Movement in plants.",
+          "kind": "topic",
+          "main_learning_activity": "To lead a class discussion on the adaptations of different types of muscles to their roles. To guide students in groups through questions and answer to discuss on causes, effects and preventive measures of muscles craps.",
+          "learning_activity": "In groups to observe pictures/diagrams of different types of muscles and discuss their adaptations. In groups to discuss causes, effects and preventive measures of muscles cramps",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "To check if a student is able to explain causes, effects and preventive measures of muscle cramps by giving a short test.",
+          "suggested_resources": [
+            "Models",
+            "pictures",
+            "diagrams of muscles."
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-9"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "Movement in plants.",
+          "kind": "topic",
+          "main_learning_activity": "To guide students in observing plants showing movement in plants. To organize students in groups and their discuss movement exhibited by plants and their importance. To make clarification and conclusion on meaning and importance of movement exhibited by plants. Leading a class discussion on the types of movement exhibited by plants.",
+          "learning_activity": ".observing polled plants showing movement and record their findings. In groups to discuss movement exhibited by plants and their importance and then present. To discuss in groups on the types of movement exhibited by plants.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "To check if a students is able to explain the concept of movement by giving quiz. Observing students in groups investigating movement in plants.",
+          "suggested_resources": [
+            "Photograph diagrams and charts showing movement in plants. Plants showing movement of curvature. A variety of plants showing movement exhibited by"
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "February",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-10"
+        },
+        {
+          "main_competence": "MOVEMENT",
+          "specific_competence": "",
+          "kind": "topic",
+          "main_learning_activity": "Provide guidelines to students for performing experiments to investigate movement exhibited by plants To lead a class discussion on findings, making clarifications and conclusion.",
+          "learning_activity": "Students in groups by using guidelines to perform experiments to investigate movement exhibited by plants and record their findings. To presents their findings.",
+          "suggested_methods": [
+            "Group discussion",
+            "Experimentation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "plants. Potted plants."
+          ],
+          "periods_for_specific_competence": 1,
+          "periods": 1,
+          "scheduled_month": "February",
+          "scheduled_weeks": [],
+          "id": "biol-three-11"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Concept of coordination",
+          "kind": "topic",
+          "main_learning_activity": "To guide students in group to discuss meaning and importance of coordination. To make clarification and conclusion. To guide students in observing charts/diagrams/pictures showing main components of nervous coordination. To lead a class discussion on the ways in which coordination is brought about.",
+          "learning_activity": "To discuss in their groups meaning and importance of coordination and present their tasks. To observe charts/diagrams/pictures showing main components of nervous coordination and discuss the role of each components. In groups to discuss the ways in which coordination is brought.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "To check if a student’s is able to:- Explain the concept of coordination in organisms. Outline ways in which coordination is brought about by giving test.",
+          "suggested_resources": [
+            "Hot objects Sharp object Live specimen of insects and small mammals. Game or puzzle charts on nervous coordination process."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-12"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Nervous coordination in Human Neurones.",
+          "kind": "topic",
+          "main_learning_activity": "To lead a class discussion on the structures of motors, sensory and neurones. Organizing students in groups and ask them to discuss on the roles of motor, sensory and relay neurones. To summarize students responses, make general comments and necessary corrections.",
+          "learning_activity": "To discuss in groups in structure of motor, sensory and relay neurons. To discuss on the role of motor, sensory and relay neurons and present their tasks.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "To check if the student can:- Describe the structure of motors, sensory and relay neurones. Explain the role of motor sensory and relay neurones.",
+          "suggested_resources": [
+            "Models",
+            "pict ures",
+            "photographs of neurons Prepared slides of neurones Microscope A chart showing summary of the roles of motor",
+            "sensory and relay neurones."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-13"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Central Nervous System (CNS)",
+          "kind": "topic",
+          "main_learning_activity": "To organize a brain storming session on meaning of central nervous system (CNS). To summarize students responses and give general comments and conclusion. To guide students in groups to identify the components of the central nervous system and discuss their roles.",
+          "learning_activity": "Brainstorm on meaning of CNS In group to identify the components of the CNS and discuss their roles.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming"
+          ],
+          "assessment_criteria": "To check if the students able to give meaning of CNS, identify, components of the CNS and their functions by giving quiz.",
+          "suggested_resources": [
+            "Charts of the Central Nervous System. Diagrams",
+            "models of brain and spinal cord."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-14"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "",
+          "kind": "topic",
+          "main_learning_activity": "To guide students in groups to observe models/diagrams of the spinal cord and brain and discuss their structure.",
+          "learning_activity": "To observe models/diagrams of brain and spinal cord, discuss their structures. Draw and label the structure of brain and spinal cord.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Models of brain and spinal cord."
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
+          "id": "biol-three-15"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Peripheral Nervous System (PNS)",
+          "kind": "topic",
+          "main_learning_activity": "Organizing a brainstorming session on meaning of PNS. To summarize, make corrections and conclusion. To lead a class discussion on components of PNS",
+          "learning_activity": "Give meaning Discuss the components of PNS in groups.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming"
+          ],
+          "assessment_criteria": "Asking oral questions to check if the student is able to give meaning of PNS & identify its components.",
+          "suggested_resources": [
+            "Photograph",
+            "charts showing the structure of PNS"
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-16"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Reflex Action",
+          "kind": "topic",
+          "main_learning_activity": "To design Activities for students to demonstrate the reflex action. To lead students to discuss the meaning of reflex action.",
+          "learning_activity": "Perform Activities showing reflex actions. To discuss meaning of reflex action.",
+          "suggested_methods": [
+            "Group discussion",
+            "Demonstration"
+          ],
+          "assessment_criteria": "To check of the students is able to given meaning of reflex action by asking questions.",
+          "suggested_resources": [
+            "Hot objects Live insects or small mammals. Toys (snake",
+            "scorpion)"
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-17"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Reflex Action",
+          "kind": "topic",
+          "main_learning_activity": "To display the charts/diagrams showing the neurotic pathway of a reflex action. To lead a class discussion pathway of a reflex action. To design activities for students to demonstrate simple reflex action and conditional actions. To lead a class discussion on the differences between simple reflex action and conditioned reflex action.",
+          "learning_activity": "Observe and identify the components of neurotic pathway of reflex action. To discuss the neurotic pathway of a reflex action. In groups to demonstrate simple and conditional reflex actions and record their findings. To discuss the differences between simple and conditional reflex actions.",
+          "suggested_methods": [
+            "Group discussion",
+            "Demonstration",
+            "Observation"
+          ],
+          "assessment_criteria": "To check of the students is able to given meaning of reflex action by asking questions.",
+          "suggested_resources": [
+            "Charts",
+            "diagrams showing neurotic pathway of a reflex action. Charts",
+            "drawings of simple conditional reflex actions."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-18"
+        },
+        {
+          "main_competence": "COORDINATION",
+          "specific_competence": "Sense Organs",
+          "kind": "topic",
+          "main_learning_activity": "To guide students in groups to observe models/pictures/diagrams and brainstorm on meaning of sense organ, identify them and their related position. Lead students to discuss in groups structure of each sense organ. Leading a class discussion on the role of each sense organ and its adaptive features.",
+          "learning_activity": "Brainstorm on of sense organ, identify them and state their relative position. Discuss in groups structure of sense organ and draw and label the human ear, eye, nose tongue and s. Of the skin. Discussing role of each sense organ and its adaptive features.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming",
+            "Observation"
+          ],
+          "assessment_criteria": "Students to Explain meaning of sense organ. Identify types of sense organs. Describe structure of each sense organ . State functions of sense organ by giving test.",
+          "suggested_resources": [
+            "Charts of different sense organs. Charts",
+            "models",
+            "photographs of different sense organs."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "March",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-19"
+        },
+        {
+          "main_competence": "MIDTERM TEST",
+          "specific_competence": "MIDTERM TEST",
+          "kind": "assessment",
+          "main_learning_activity": "MIDTERM TEST",
+          "learning_activity": "MIDTERM TEST",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "MIDTERM TEST"
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "March",
+          "scheduled_weeks": [],
           "id": "biol-three-20"
         },
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(b) Describe the mechanism of excretion in the human body (systems: organs, products)",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Drug and drug abuse in Relation to Nevours Coordination.",
+          "kind": "topic",
+          "main_learning_activity": "To lead students to discuss in groups meaning of drug and drug abuse in relation to nervous coordination.",
+          "learning_activity": "In groups to discuss meaning of drug and drug abuse in relation to nervous coordination.",
           "suggested_methods": [
-            "Brainstorming: Guide students to brainstorm on the concept of excretion in human",
-            "Group discussion: Guide students in manageable groups to discuss excretory organs, products and urinary system",
-            "ICT based learning: Guide students to explain common complications and disorders of human excretory system through simulation/ video"
+            "Group discussion"
           ],
-          "assessment_criteria": "The mechanism of excretion in human body is described clearly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Models/ charts/ pictures of human urinary system, picture of mammalian kidney, online resources on human excretion and charts illustrating disoders of human excretory system"
+            "Simple drugs."
           ],
-          "periods_for_specific_competence": 0,
+          "periods_for_specific_competence": 8,
+          "periods": 8,
+          "scheduled_month": "April",
+          "scheduled_weeks": [
+            3,
+            4
+          ],
           "id": "biol-three-21"
         },
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(c) Describe the mechanism of regulation in the human body (temperature regulation, blood sugar regulation and osmoregulation)",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Drugs and Drug abuse in relation to nervous coordination.",
+          "kind": "topic",
+          "main_learning_activity": "To invite heath practitioner officer to talk on drug addiction, its causes and effects. To guide students to clarify major issues and make conclusion. Organize students in groups and discuss on preventive and control measures of drug abuse. Use students correspondence and make clarification.",
+          "learning_activity": "To summarize major points from the guest speaker presentation. Prepare project on cases of drug addiction in their surrounding community. Discuss in groups on preventive and control measures of drug abuse.",
           "suggested_methods": [
-            "Question and answers: Guide students to explain the concept of regulation in human body through questions and answers",
-            "Group discussion: Guide students in manageable groups to discuss mechanism of temperature regulation, blood sugar regulation and osmoregulation",
-            "ICT based learning: Guide students to demonstrate mechanisms of temperature regulation by using digital simulation or videos"
+            "Group discussion",
+            "Project work"
           ],
-          "assessment_criteria": "The mechanism of regulation in the human body is described clearly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Charts on temperature and blood sugar regulation and online resouces of temperature regulation, blood sugar regulation and osmoregulation"
+            "Brounchure and fliers on causes and effects of drug abuse. Posters of drug addicts or users."
           ],
-          "periods_for_specific_competence": 0,
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            1
+          ],
           "id": "biol-three-22"
         },
         {
-          "main_competence": "2.0 Conduct biological investigations",
-          "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-          "learning_activity": "(a) Investigate the process of nervous coordination (reflex arc and knee jerk)",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Hormonal Coordination",
+          "kind": "topic",
+          "main_learning_activity": "To lead a class discussion on the location of the endocrine glands in the mammalian body and types of hormones produced by each gland",
+          "learning_activity": "To draw the diagram to show location of endocrine glands in human body.",
           "suggested_methods": [
-            "Group discussion: Guide students in manageable groups to discuss the processes involved during reflex arc and knee jerk",
-            "ICT based learning: Guide students to demonstrate the process of nervous coordination by using a digital simulations or videos",
-            "Experimentation: Guide students to demonstrate a simple experiment on the human nervous coordination that involves knee jerk"
+            "Group discussion"
           ],
-          "assessment_criteria": "The process of nervous coordination is investigated correctly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Sharp objects, hot objects, animal toys models (snake, scorpion), live small animals specimens and nervous coordination online resources"
+            "Charts",
+            "diagr ams of endocrine glands and hormones produced by each gland."
           ],
-          "periods_for_specific_competence": 40,
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
           "id": "biol-three-23"
         },
         {
-          "main_competence": "2.0 Conduct biological investigations",
-          "specific_competence": "2.1 Demonstrate mastery of basic skills for conducting biological investigations",
-          "learning_activity": "(b) Investigate tropic responses in plants",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Hormonal Endocrine Coordination",
+          "kind": "topic",
+          "main_learning_activity": "Land a class discussion on the: Difference between endocrine and exocrine glands. Role of each hormone in the mammalian body. Disorders of hormonal coordination due to hyper and hypo-secretion on insulin, GH, ADH and throxine.",
+          "learning_activity": "Discuss the difference between endocrine and exocrine glands. Role of each hormone in mammalian body Disorders of hormonal coordination due to hyper- and hypo- secretion of mentioned hormones.",
           "suggested_methods": [
-            "Project : Organize students in groups to perform experiment to investigate tropic responses in plants"
+            "Group discussion"
           ],
-          "assessment_criteria": "Tropic responses in plants are investigated correctly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Variety of plants Seedlings, pots, seeds, soil, water, boxes and online resources/ charts on tropic responses in plants"
+            "Pictures",
+            "photographs of disorders of hormal coordination. Eg. Goitre gigantism and dwarfisim."
           ],
-          "periods_for_specific_competence": 0,
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            2
+          ],
           "id": "biol-three-24"
         },
         {
-          "main_competence": "2.0 Conduct biological investigations",
-          "specific_competence": "2.2 Carry out a biological project work using biological principles",
-          "learning_activity": "(a) Develop and carry out a simple research project in Biology",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Coordination in plants. Concepts of Topic Nastic responses",
+          "kind": "topic",
+          "main_learning_activity": "Guide students to observe potted plants in all round light and unilateral light and record their observations. To guide students to give meaning of topic and nastic responses through questions and answers",
+          "learning_activity": "Observe plants and records observations. Give meaning of topic and nastic Reponses.",
           "suggested_methods": [
-            "Group discussion: Guide students to discuss the principles of carrying out a biological research project",
-            "Experiment: Guide students to carry out a biological research project using the required principles"
+            "Observation"
           ],
-          "assessment_criteria": "A biological research project work is developed and carried out correctly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Text/online resources on principles of biological projects"
+            "Potted plants. Mimos plant Charts",
+            "photographs or pictures of topic responses."
           ],
-          "periods_for_specific_competence": 20,
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            1
+          ],
           "id": "biol-three-25"
         },
         {
-          "main_competence": "1.0 Demonstrate mastery of the concepts, principles and processes of Biology",
-          "specific_competence": "1.1 Describe the physiological, anatomical and ecological processes of living organisms",
-          "learning_activity": "(a) Describe reproduction in plants (concept of reproduction in plants, asexual and sexual reproduction, pollination and fertilization)",
+          "main_competence": "COORDINATION",
+          "specific_competence": "Coordination in plants",
+          "kind": "topic",
+          "main_learning_activity": "Provide students with guidelines for practical activity on the effects of topic and nastic plants. To guide students in discussing on the importance of hydro-geo-photo and chemo- tropisms in plants. To lead discussion, make general and conclusion on the significance of tropisms and nastic responses in plants.",
+          "learning_activity": "Using guidelines to carry out experiments to investigate the effects of tropic and nastic in plants and record their findings. To discuss on groups the importance of hydro –geo-photo and chemo-tropism in plants. To outline significance of tropism in plants.",
           "suggested_methods": [
-            "Brainstorming: Guide students to brainstorm on the concept of reproduction in plants",
-            "Group discussion:Guide students in manageable groups to discuss on the asexual and sexual reproduction, pollination and fertilization in plants"
+            "Group discussion",
+            "Experimentation"
           ],
-          "assessment_criteria": "Reproduction in plants is described clearly",
+          "assessment_criteria": "",
           "suggested_resources": [
-            "Reproduction in plants online resources, potted plants, hibiscus flowers, bean flowers, elephant grass flowers, hand lens, surgical/ razor blade, pictures/ illustration showing reproduction in plants"
+            "Potted plants subjects to all round –light and unidirectional light. Charts to show examples of tropic responses. Mimosa plant."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-26"
+        },
+        {
+          "main_competence": "EXCRETION",
+          "specific_competence": "Concept of excretion",
+          "kind": "topic",
+          "main_learning_activity": "Brainstorm Organize a brainstorming session on meaning of excretion To lead students to name excretory.",
+          "learning_activity": "To brainstorm on meaning of excretion.",
+          "suggested_methods": [
+            "Brainstorming"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Models of kidney. Diagram",
+            "charts of excretory system."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-27"
+        },
+        {
+          "main_competence": "EXCRETION",
+          "specific_competence": "Excretion In Human",
+          "kind": "topic",
+          "main_learning_activity": "To lead students to discuss on the types on the types of excretory organs in human. To dissect any small mammal and display the urinary system. To lead students to discuss the structure of the urinary system and its adaptive features. To organize students in groups and brainstorm on the process of urine formation. To make clarification.",
+          "learning_activity": "To discuss the types of excretory organs in human. To observe the urinary system and identify the structures. To discuss and draw the structure of human urinary system. To discuss the process of urine formation in groups.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming",
+            "Observation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Dissecting kit. Chloroform Cotton Models",
+            "charts pictures showing human urinary system."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-28"
+        },
+        {
+          "main_competence": "EXCRETION",
+          "specific_competence": "Complication and disorder of excretory sysem.",
+          "kind": "topic",
+          "main_learning_activity": "To prepare a case study on common disorders of the excretory system. To lead students in groups discuss on causes, symptoms, effects and control measures of disorders and complications of the excretory system.",
+          "learning_activity": "To discuss on the case study. In groups to discuss of causes, symptoms, effects and control measures of disorders and complications the excretory system.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "diagrams of the urinary system and associated disorders and complications. Charts",
+            "models",
+            "pictures showing urinary system."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-29"
+        },
+        {
+          "main_competence": "EXCRETION",
+          "specific_competence": "Excretion in plants.",
+          "kind": "topic",
+          "main_learning_activity": "To lead students through question and answers to mention ways by which plants get rid of excretory products and give examples . To make general comment and conclusion on different types of excretory products eliminated by plants. To lead students in groups to discuss the importance of excretory products of plant.",
+          "learning_activity": "To summarize major points and list down types of excretory products eliminated by plants. To discuss in groups on the importance of excretory products of plants.",
+          "suggested_methods": [
+            "Group discussion",
+            "Question and answer"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Sample of plant excretory products such as gum",
+            "latex alkaloids. A chart showing various plants and their waste products."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "May",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-30"
+        },
+        {
+          "main_competence": "TERMINAL EXAMINATIONS",
+          "specific_competence": "TERMINAL EXAMINATIONS",
+          "kind": "assessment",
+          "main_learning_activity": "TERMINAL EXAMINATIONS",
+          "learning_activity": "TERMINAL EXAMINATIONS",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "TERMINAL EXAMINATIONS",
+          "suggested_resources": [
+            "TERMINAL EXAMINATIONS"
           ],
           "periods_for_specific_competence": 0,
-          "id": "biol-three-26"
+          "periods": 0,
+          "scheduled_month": "May",
+          "scheduled_weeks": [],
+          "id": "biol-three-31"
+        },
+        {
+          "main_competence": "REGULATION",
+          "specific_competence": "Concept of Regulation",
+          "kind": "topic",
+          "main_learning_activity": "To guide students in groups to discuss the meaning of regulation and its importance. To lead a plenary discussion and make clarification and conclusion of the concept of regulation and its importance. To lead a class discussion on the types of regulations; temperature regulation, regulation of water and mineral salts in animals.",
+          "learning_activity": "To discuss the meaning of regulation and its importance. To discuss groups on the types of regulation.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "A chart showing the process of regulation in animals. Charts",
+            "pictures",
+            "diagrams showing various types of regulation."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "July",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-32"
+        },
+        {
+          "main_competence": "REGULATION",
+          "specific_competence": "Temperature Regulation in Animals.",
+          "kind": "topic",
+          "main_learning_activity": "Guide students in group to perform experiments to determine the temperature of a frog and a small mammal under different conditions. Clear misconceptions and make conclusion. To lead a class discussion on the temperature regulation in mammals. To lead a class discussion on the structure of the skin in relation to temperature regulation (vasoconstriction and Vasodilation)",
+          "learning_activity": "In groups to determine the temperature of a frog and a small mammal, under different conditions and record their findings. Divide the experimental animals into two groups; ectoderms and endodermis. In pairs, carry out practical exercise on measuring body temperature before and after performing exercise and report that findings. To discuss in groups the body reactions when temperature of the surrounding is lower and when is higher than body temperature. Draw and label section of the skin showing vasoconstriction and vasodilation.",
+          "suggested_methods": [
+            "Group discussion",
+            "Experimentation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Toad",
+            "Frog Small mammal (rat",
+            "mouse",
+            "rabbit_ A clinical thermometer. A chart showing a table for recording body temperature. Pictures",
+            "diagr ams showing the reaction of the skin under different conditions (hot and cold)"
+          ],
+          "periods_for_specific_competence": 8,
+          "periods": 8,
+          "scheduled_month": "July",
+          "scheduled_weeks": [
+            3,
+            4
+          ],
+          "id": "biol-three-33"
+        },
+        {
+          "main_competence": "REGULATION",
+          "specific_competence": "Osmoregulation in mammals",
+          "kind": "topic",
+          "main_learning_activity": "Lead students in groups to discuss on meaning of osmoregulation and its importance. To make Clarification and conclusion on meaning and importance. To guide students through question and answer to mention factors which may affect the contents of salt and water in the body. To guide students in groups to categorize factors which may salt and water content.",
+          "learning_activity": "Discuss the meaning and importance of osmoregulation. To mention the factors which may affect the contents of salt and water in the body. Present their task and categorize the factors.",
+          "suggested_methods": [
+            "Group discussion",
+            "Question and answer"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "pictures photographs or diagrams showing osmoregultion in mammals. Models",
+            "pictures showing the structure of a nephron."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "August",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-34"
+        },
+        {
+          "main_competence": "REGULATION",
+          "specific_competence": "Blood Sugar regulation in mammals",
+          "kind": "topic",
+          "main_learning_activity": "Lead students to discuss on how hormones regulate sugar level in the blood (insulin and glucagon. To guide students summarize major ideas and make conclusion on the mechanism of regulation sugar level.",
+          "learning_activity": "To discuss in groups how hormones regulate sugar level in the blood and present their task.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Pictures",
+            "charts photographs showing mechanisms of regulation sugar level in the blood."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "August",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-35"
+        },
+        {
+          "main_competence": "REGULATION",
+          "specific_competence": "Blood sugar regulation",
+          "kind": "topic",
+          "main_learning_activity": "To assign tasks to students in group to read literatures and outlines the causes, symptoms and effects of high and low sugar level in the blood. To guide students to summarize major ideas and make conclusion on the mechanisms of regulating sugar level in the blood.",
+          "learning_activity": "Students to read on literature and outlines the causes, symptoms and effects of high and low sugar level in the blood and present their tasks.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Pictures",
+            "charts photographs showing mechanisms of regulation sugar level in the blood."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "August",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-36"
+        },
+        {
+          "main_competence": "MIDTERM TEST",
+          "specific_competence": "MIDTERM TEST",
+          "kind": "assessment",
+          "main_learning_activity": "MIDTERM TEST",
+          "learning_activity": "MIDTERM TEST",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "MIDTERM TEST"
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "August",
+          "scheduled_weeks": [],
+          "id": "biol-three-37"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Concept of reproduction",
+          "kind": "topic",
+          "main_learning_activity": "To guide students to discuss the meaning and importance of reproduction. To summarize students responses and make necessary clarification. To observe a variety of organism which reproduce by seeds or vegetable. To lead a plenary discussion, make general comments and conclusion.",
+          "learning_activity": "To discuss the meaning and importance of reproduction. To observe a variety of organisms displayed and discuss in groups the ways in which the plants reproduce by asexual or sexual reproduction. To discuss in groups the difference between asexual and sexual reproduction and present their group task.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Flip charts V.I.P.P cards carrying key message on reproduction Variety of organism."
+          ],
+          "periods_for_specific_competence": 8,
+          "periods": 8,
+          "scheduled_month": "September",
+          "scheduled_weeks": [
+            1,
+            3,
+            4
+          ],
+          "id": "biol-three-38"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Meiosis and Reproduction",
+          "kind": "topic",
+          "main_learning_activity": "To guide students to brainstorm the meaning of meiosis using charts/photograph and models showing stages of meiosis. To summarize students responses and make conclusion. To lead a class discussion on the significance of meiosis in relation to reproduction.",
+          "learning_activity": "To brainstorm the meaning of meiosis. To discuss on the significance of meiosis in relation to reproduction.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "photographs showing stages of meiosis. Models showing stages of meiosis."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "September",
+          "scheduled_weeks": [
+            1,
+            3,
+            4
+          ],
+          "id": "biol-three-39"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "",
+          "kind": "topic",
+          "main_learning_activity": "To display charts/photographs/diagrams showing the events taking place in each stage of meiosis process. To lead a plenary discussion and make reflection on students responses to summarize major idea.",
+          "learning_activity": "To observe the events taking place in meiosis and outline them. Present for class discuss.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Prepare microscope slide on stages of meiosis Microscope Charts",
+            "photographs models showing stages of meiosis."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "September",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-40"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Reproductive in flowering plants. The structure of the flower.",
+          "kind": "topic",
+          "main_learning_activity": "To provide guidelines to students for collecting various types of flowers. To lead a plenary discussion and make clarification and conclusion on the structure of a flower. Lead students to identify and discuss reproductive parts of flowers.",
+          "learning_activity": "To observe the collected flowers and identify different parts of the flower and describe their structures. To draw a well labelled diagram of the named flower. To identify and discuss reproductive parts of a flower.",
+          "suggested_methods": [
+            "Group discussion",
+            "Observation"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Variety of flowers. Charts",
+            "models",
+            "photographs of flowers."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "September",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-41"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Reproduction in mammals",
+          "kind": "topic",
+          "main_learning_activity": "To guide students to identify male and female reproductive organs from the dissected mice. To lead a class discussion and make correction and clarification on the structures of male and female reproductive systems.",
+          "learning_activity": "In groups to identify in male and female reproductive organs from the dissected mice. To discuss on the structure of male and female reproductive systems and draw the diagrams.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Mouse",
+            "any other small mammal Dissecting kit. Tray",
+            "dissecting board Chloroform Cotton wool Water."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "October",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-42"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Gamete formation and fertilization",
+          "kind": "topic",
+          "main_learning_activity": "To lead a plenary discussion on gamete formation, liberation and meaning of gamete. To guide students to identify the phases of menstrual cycle and events that take place in each phase. To guide students to discuss the process of fertilization pregnancy and child birth.",
+          "learning_activity": "To discuss in groups the process of gamete formation in mammals and liberation. To identify the phase of menstrual cycle and events that take place. Discuss on the process of ovulation and hormones involved in the process. To discuss in groups the process of fertilization pregnancy and child birth.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Pictures showing formational liberation of gametes. Charts on fertilization process."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "October",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-43"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Multiple Pregnancies.",
+          "kind": "topic",
+          "main_learning_activity": "To lead as in groups to discuss factors affecting fertilization. To lead students to discuss on meaning and importance of artificial insemination. To guide students to summarize the major responses and make general comments.",
+          "learning_activity": "To discuss in groups the factors affecting fertilization and present their tasks. Discuss on meaning and importance of artificial insemination, and present their tasks.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "drawing depicting artificial insemination."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "October",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-44"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Disorders of Reproductive system.",
+          "kind": "topic",
+          "main_learning_activity": "To lead students to discuss on meaning and causes of multiple pregnancies. To lead a class discussion and summarize the major points on differences between identical and fraternal twins. Lead students in groups and discuss on types of disorders of the human reproductive system.",
+          "learning_activity": "To discuss of meaning and causes of multiple pregnancies. Discuss on differences between identical and fraternal twins. To discuss in group different types of disorders of the human reproductive system.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "pictures on multiple pregnancies. Charts",
+            "diagrams or pictures or pictures showing identical and fraternal twins Document on disorders of the human reproductive system.."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-45"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "",
+          "kind": "topic",
+          "main_learning_activity": "Guiding students in groups with questions to discuss on causes and effects of the reproductive system disorders. To lead a class discussion on the possible remedies of reproductive system disorders.",
+          "learning_activity": "To discuss on causes and effects of the reproductive system disorders. To discuss possible remedies of the reproductive system disorders.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "Students to explain causes and effects of the reproductive system disorders. And possible remedies of the reproductive system disorders.",
+          "suggested_resources": [
+            "Documents on the disorders of the human reproductive system."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-46"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Complications of the Reproductive system.",
+          "kind": "topic",
+          "main_learning_activity": "To guide students to brainstorm on the types of complications of the reproductive systems. To summarize the major points on the meaning of aborting, still birth, miscarriage and ectopic pregnancy. Lead students to discuss on causes and effects of complications of reproductive system. To make clarification and conclusion. To guide students to discuss in groups ways of minimizing complications and disorders of the reproductive system.",
+          "learning_activity": "To brainstorm on the types of complications of the reproductive system. To discuss on causes , effects of complications of reproductive system. To discuss ways of minimizing complications and disorders of the reproductive system.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Video",
+            "tapes Text on case studies on complications of the reproductive system. Video tapes",
+            "charts pictures photographs showing complications of the female reproductive system."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            1
+          ],
+          "id": "biol-three-47"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Complications of the Reproductive system.",
+          "kind": "topic",
+          "main_learning_activity": "To guide students to brainstorm on the types of complications of the reproductive systems. To summarize the major points on the meaning of aborting, still birth, miscarriage and ectopic pregnancy. Lead students to discuss on causes and effects of complications of reproductive system. To make clarification and conclusion. To guide students to discuss in groups ways of minimizing complications and disorders of the reproductive system.",
+          "learning_activity": "To brainstorm on the types of complications of the reproductive system. To discuss on causes , effects of complications of reproductive system. To discuss ways of minimizing complications and disorders of the reproductive system.",
+          "suggested_methods": [
+            "Group discussion",
+            "Brainstorming"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Video",
+            "tapes Text on case studies on complications of the reproductive system. Video tapes",
+            "charts pictures photographs showing complications of the female reproductive system."
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            2
+          ],
+          "id": "biol-three-48"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Sexuality and sexual Health and Responsible sexual behaviour.",
+          "kind": "topic",
+          "main_learning_activity": "Guide students to discuss meaning of sexuality sexual health and sexual behaviour. Guide students in groups to discuss on factors influencing sexual behaviour in different groups of people. Guide students to discuss responsible and irresponsible sexual behaviour and their impacts on one self, family and community. To guide students to summarize outline ways of eradication irresponsible sexual behaviour in the family, school and community. To lead plenary discussion and make clarifications on appropriate life skills required to cope with adolescent sexuality and sexual behaviour such as self esteem, problems solving and decision making.",
+          "learning_activity": "Discuss on meaning of the sexuality, sexual health and sexual behaviour. Discuss in groups on factors influencing sexual behaviour in different groups of people. To discuss the responsible and irresponsible sexual behaviour and their impacts. Tabulate differences between responsible and irresponsible sexual behaviour. Discuss the ways of eradicating irresponsible sexual behaviour. Discuss on appropriate life skills required to cope with adolescent sexuality and sexual behaviour.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Pictures",
+            "charts and photographs",
+            "video tapes depicting cases of sexuality and sexual behaviours. Radio",
+            "video tapes pictures",
+            "charts showing people with different sexual behaviours"
+          ],
+          "periods_for_specific_competence": 4,
+          "periods": 4,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            3
+          ],
+          "id": "biol-three-49"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Family planning and contraception",
+          "kind": "topic",
+          "main_learning_activity": "To lead student to discuss on the concepts of family planning and contraception. Organize students in groups and discuss of various family planning and contraception methods their advantages and disadvantages Importance of family planning and contraception.",
+          "learning_activity": "To discuss on the concepts of family planning and contraception. To discuss of various family planning methods and contraception, their advantages and disadvantages. Importance of family planning contraception.",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Various family planning devices. Charts",
+            "pictures photographs of family planning devices."
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-50"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "Maternal and child care.",
+          "kind": "topic",
+          "main_learning_activity": "Lead students to discuss on maternal and child care. Assign students to investigate socio-cultural factors which affect maternal and child care. To lead a class discussion on the ways of providing appropriate maternal and child care for PLWHA",
+          "learning_activity": "To discuss importance of maternal and child care. Present their investigations for class discussion. To discuss on ways of providing appropriate maternal and child care for PLWHA",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Charts",
+            "pictures and photographs of women and children living with HIV",
+            "AIDS"
+          ],
+          "periods_for_specific_competence": 2,
+          "periods": 2,
+          "scheduled_month": "November",
+          "scheduled_weeks": [
+            4
+          ],
+          "id": "biol-three-51"
+        },
+        {
+          "main_competence": "REPRODUCTION",
+          "specific_competence": "ANNUAL EXAM & ANNUAL HOLIDAY",
+          "kind": "topic",
+          "main_learning_activity": "ANNUAL EXAM & ANNUAL HOLIDAY",
+          "learning_activity": "ANNUAL EXAM & ANNUAL HOLIDAY",
+          "suggested_methods": [
+            "Group discussion"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "ANNUAL EXAM & ANNUAL HOLIDAY"
+          ],
+          "periods_for_specific_competence": 0,
+          "periods": 0,
+          "scheduled_month": "November",
+          "scheduled_weeks": [],
+          "id": "biol-three-52"
         }
-      ]
+      ],
+      "source": {
+        "document": "biology_form_three_scheme_2026.docx",
+        "layout": "old",
+        "note": "Replaces the TIE-syllabus transcription for this form; sourced from a teacher-authored 2026 scheme of work."
+      }
     },
     "Form Four": {
       "activities": [

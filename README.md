@@ -113,6 +113,28 @@ Education) have PDF-extraction quirks that may drop or thin a Form section.
 To add a subject that's still **pending**: find its `tie.go.tz/uploads/documents/sw-...`
 PDF URL, add it to `data/sources.json`, run the download step, then ingest.
 
+### Ingesting a real teacher scheme of work
+
+A few forms are built from schemes actually used in class rather than from the
+TIE syllabus transcription, which gives them topic-level detail and the
+teacher's own month/week pacing. Drop the source document in `data/reference/`
+(the documents stay local — as does the parsed text of any third-party one, since
+that text *is* the document; the rebuilt output is committed either way), then:
+
+```bash
+python scripts/ingest_scheme_docs.py          # documents  -> data/reference/parsed/
+python scripts/build_syllabus_from_schemes.py # parsed     -> data/syllabus/
+python scripts/build_schemes.py               # syllabus   -> data/schemes/
+```
+
+Both source layouts are handled: the TIE competence-based layout, and the older
+topic-based one (`MAIN-TOPIC` / `SUB-TOPIC`). No model call is involved — parsing
+is deterministic. Activities from these forms carry three extra fields
+(`periods`, `scheduled_month`, `scheduled_weeks`); `app/scheme.py` honours that
+pacing instead of spreading periods evenly, and any form without them keeps the
+original even-distribution behaviour. Currently applied to Biology Form One and
+Three, and Chemistry Form Two and Three.
+
 ## Run
 
 ```bash

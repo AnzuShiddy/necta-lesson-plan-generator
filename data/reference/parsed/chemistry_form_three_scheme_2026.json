@@ -1,0 +1,859 @@
+{
+  "subject": "Chemistry",
+  "form": "Form Three",
+  "layout": "old",
+  "source_document": "chemistry_form_three_scheme_2026.docx",
+  "row_count": 47,
+  "rows": [
+    {
+      "banner": false,
+      "month": "January",
+      "week": "2",
+      "periods": 4,
+      "main_topic": "1.0 CHEMICAL EQUATIONS",
+      "sub_topic": "1.1 Molecular equations",
+      "competence": "By the end of the topic the student should have developed competences in manipulating chemical equations",
+      "objectives": "By the end of the topic the students should be able to establish accurate quantities of the reacting substances in various chemical reactions",
+      "teaching_activities": "To assist students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them",
+      "learning_activities": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them",
+      "resources": [
+        "Wall charts marker pens symbols chemicals"
+      ],
+      "assessment": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them Students to discuss major steps of writing balanced ionic equations and balance them.",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "January",
+      "week": "3",
+      "periods": 4,
+      "main_topic": "1.0 CHEMICAL EQUATIONS",
+      "sub_topic": "1.2 Ionic equations",
+      "competence": "By the end of the topic the student should have developed competences in manipulating chemical equations",
+      "objectives": "By the end of the topic the students should be able to establish accurate quantities of the reacting substances in various chemical reactions",
+      "teaching_activities": "To lead a discussion on the differences between molecular and ionic equations",
+      "learning_activities": "Students to discuss major steps of writing balanced ionic equations and balance them.",
+      "resources": [
+        "Wall charts marker pens symbols chemicals"
+      ],
+      "assessment": "Students to discuss the rules of prediction reaction products and necessary steps needed in writing a formula equation and balance them Students to discuss major steps of writing balanced ionic equations and balance them.",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "January",
+      "week": "4",
+      "periods": 1,
+      "main_topic": "2.0 HARDNESS OF WATER",
+      "sub_topic": "2.1 The concept of Hardness of water",
+      "competence": "By the end of the topic the student should have developed competences in solving problems of hardness of water in daily life",
+      "objectives": "By the end of the topic the students should be able to promote knowledge on hardness of water",
+      "teaching_activities": "To guide students to discuss the meaning of hardness of water",
+      "learning_activities": "students to discuss the meaning of hardness of water and distinguish hard water from soft water by washing with soap",
+      "resources": [
+        "Wall charts soap water(hard)&soft"
+      ],
+      "assessment": "students to discuss the meaning of hardness of water and distinguish hard water from soft water by washing with soap",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "January",
+      "week": "4",
+      "periods": 1,
+      "main_topic": "2.0 HARDNESS OF WATER",
+      "sub_topic": "2.2 Types of hardness of water",
+      "competence": "By the end of the topic the student should have developed competences in solving problems of hardness of water in daily life",
+      "objectives": "By the end of the topic the students should be able to promote knowledge on hardness of water",
+      "teaching_activities": "To guide students to carry out an experiment to determine temporary and permanent hard water and state their causes",
+      "learning_activities": "Students to carry out an experiment to determine temporary and permanent hard water and state their causes",
+      "resources": [
+        "Source of heat wall charts"
+      ],
+      "assessment": "Students to carry out an experiment to determine temporary and permanent hard water and state their causes",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "January",
+      "week": "4",
+      "periods": 2,
+      "main_topic": "2.0 HARDNESS OF WATER",
+      "sub_topic": "2.3 Treatment and purification of hard water",
+      "competence": "By the end of the topic the student should have developed competences in solving problems of hardness of water in daily life",
+      "objectives": "By the end of the topic the students should be able to promote knowledge on hardness of water",
+      "teaching_activities": "To guide students to perform experiment on removal of hardness by using ca(OH)2 and its importance",
+      "learning_activities": "Students to perform experiment on removal of hardness by using ca(OH)2 and its importance, state the importance of hard water in daily life",
+      "resources": [
+        "Ca(OH)2"
+      ],
+      "assessment": "Students to perform experiment on removal of hardness by using ca(OH)2 and its importance, state the importance of hard water in daily life",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "February",
+      "week": "1 & 2",
+      "periods": 8,
+      "main_topic": "3.0 ACIDS, BASES AND SALTS",
+      "sub_topic": "3.1 Acids and Bases",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to realize chemistry principles in industrial processes",
+      "teaching_activities": "To guide students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications of neutralization reaction in daily life.",
+      "learning_activities": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications of neutralization reaction in daily life.",
+      "resources": [
+        "Lemon citrus fruits",
+        "vinegar",
+        "sour milk apples",
+        "wood ash"
+      ],
+      "assessment": "Students to collect natural sources of acids and bases, perform an experiment on the reactions of acid with metal,carbonates, oxides and hydroxides, determine reaction of alkali with different materials, prepare the clear solution of potash and discuss applications ofneutralization reaction in daily life.",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "February",
+      "week": "3",
+      "periods": 4,
+      "main_topic": "3.0 ACIDS, BASES AND SALTS",
+      "sub_topic": "3.2 Indicators",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to realize chemistry principles in industrial processes",
+      "teaching_activities": "To guide students to prepare the indicator from red, yellow, pink flowers and test the acidity and alkalinity of substances using indicators",
+      "learning_activities": "Students in groups to prepare the indicator from red, yellow, pink flowers and test the acidity and alkalinity of substances using indicators",
+      "resources": [
+        "Flowers water beakers"
+      ],
+      "assessment": "Students in groups to prepare the indicator from red, yellow, pink flowers and test the acidity and alkalinity of substances using indicators",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "February",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "3.0 ACIDS, BASES AND SALTS",
+      "sub_topic": "3.3 Salts",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to realize chemistry principles in industrial processes",
+      "teaching_activities": "To guide students to brainstorm on the natural sources of salts through questions and answers and analyze solubility of salts in water",
+      "learning_activities": "Students to rainstorm on the natural sources of salts through questions and answers and analyze solubility of salts in water.",
+      "resources": [
+        "Samples of salts metals hydroxides",
+        "oxide"
+      ],
+      "assessment": "Students to rainstorm on the natural sources of salts through questions and answers and analyze solubility of salts in water.",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "February",
+      "week": "",
+      "periods": 4,
+      "main_topic": "3.0 ACIDS, BASES AND SALTS",
+      "sub_topic": "3.3 Salts",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to realize chemistry principles in industrial processes",
+      "teaching_activities": "To guide students to do experiment on preparation of soluble salts by reacting metal oxides and carbonates with dilute acids, examining heating effects on salts and explain uses of salts in daily life",
+      "learning_activities": "Students to do experiment on preparation of soluble salts by reacting metal oxides and carbonates with dilute acids, examining heating effects on salts and explain uses of salts in daily life",
+      "resources": [
+        "Samples of salts metals hydroxides",
+        "oxide"
+      ],
+      "assessment": "Students to do experiment on preparation of soluble salts by reacting metal oxides and carbonates with dilute acids, examining heating effects on salts and explain uses of salts in daily life",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "March",
+      "week": "1",
+      "periods": 4,
+      "main_topic": "4.0 THE MOLE CONCEPT AND RELATED CALCULATIONS",
+      "sub_topic": "4.1 The mole as a unit of measurement",
+      "competence": "By the end of the topic the student should have developed competences in establishing accurate quantities of the reacting substances in various chemical reactions",
+      "objectives": "By the end of the topic the students should be able to establish accurate quantities of the reacting substances in various chemical reactions",
+      "teaching_activities": "To guide students to discuss the mole as a unit for amount of substances and guide students to construct the molar volume box of 22.4 liters capacity To lead students to discuss the relationship between the mole and the Avogadro’s constant (L)",
+      "learning_activities": "Students in groups to compare the mole with other units of measurements and construct the molar volume box Students to use a chemical balance to measure the molar masses of different compounds and discuss the Avogadro’s constant",
+      "resources": [],
+      "assessment": "Students in groups to compare the mole with other units of measurements and construct the molar volume box and use a chemical balance to measure the molar masses of different compounds and discuss the Avogadro’s constant",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "March",
+      "week": "2 3",
+      "periods": 0,
+      "main_topic": "4.0 THE MOLE CONCEPT AND RELATED CALCULATIONS",
+      "sub_topic": "4.2 Application of the mole concept",
+      "competence": "By the end of the topic the student should have developed competences in establishing accurate quantities of the reacting substances in various chemical reactions",
+      "objectives": "By the end of the topic the students should be able to establish accurate quantities of the reacting substances in various chemical reactions",
+      "teaching_activities": "To guide students to discuss the conversion of known masses of elements , molecules or ions to moles. Guiding students to discuss the conversion on known volumes of gases at s.t.p to moles To lead students to discuss the conversion of masses of solids or volumes of known gases to actual number of particles To guide students to discuss the methods used to dissolve different substances in water To guide students to perform some calculation based on the mole concept and balanced equations in groups and then individually",
+      "learning_activities": "students to discuss the conversion of known masses of elements , molecules or ions to moles Students to discuss the conversion on known volumes of gases at s.t.p to moles students to discuss the conversion of masses of solids or volumes of known gases to actual number of particles students to discuss the methods used to dissolve different substances in water students to perform some calculation based on the mole concept and balanced equations in groups and then individually",
+      "resources": [
+        "Periodic table wall chart molar volume box manila cards magic markers"
+      ],
+      "assessment": "students to discuss the conversion of known masses of elements , molecules or ions to moles to discuss the conversion on known volumes of gases at s.t.p to moles to discuss the conversion of masses of solids or volumes of known gases to actual number of particles students to discuss the methods used to dissolve different substances in water and perform some calculation based on the mole concept and balanced equations in groups and then individually",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "March",
+      "week": "3",
+      "periods": 2,
+      "main_topic": "5.0 VOLUMETRIC ANALYSIS",
+      "sub_topic": "5.1 Standard volumetric apparatus",
+      "competence": "By the end of the topic the student should have developed competences in using the concept of volumetric analysis in solving daily life problems",
+      "objectives": "By the end of the topic the students should be able to establish accurate quantities of the reacting substances in various chemical reactions",
+      "teaching_activities": "To demonstrate to students to brainstorm on how volumetric analysis is used to determine unknown volumes and concentration of volumetric analysis To guide students on how to use volumetric analysis apparatus",
+      "learning_activities": "students to brainstorm on how volumetric analysis is used to determine unknown volumes and concentration of volumetric analysis Students to use water on practice of taking accurate measurements of liquid volumes using pipettes and burettes",
+      "resources": [
+        "Burette pipette conical flask beakers"
+      ],
+      "assessment": "students to brainstorm on how volumetric analysis is used to determine unknown volumes and concentration of volumetric analysis and use water on practice of taking accurate measurements of liquid volumes using pipettes and burettes",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": true,
+      "month": "March",
+      "week": "MIDTERM TEST",
+      "periods": 0,
+      "main_topic": "MIDTERM TEST",
+      "sub_topic": "MIDTERM TEST",
+      "competence": "MIDTERM TEST",
+      "objectives": "MIDTERM TEST",
+      "teaching_activities": "MIDTERM TEST",
+      "learning_activities": "MIDTERM TEST",
+      "resources": [
+        "MIDTERM TEST"
+      ],
+      "assessment": "MIDTERM TEST",
+      "references": "MIDTERM TEST",
+      "remarks": "MIDTERM TEST"
+    },
+    {
+      "banner": true,
+      "month": "March",
+      "week": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "periods": 0,
+      "main_topic": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "sub_topic": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "competence": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "objectives": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "teaching_activities": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "learning_activities": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "resources": [
+        "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026"
+      ],
+      "assessment": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "references": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026",
+      "remarks": "MIDTERM BREAK 27TH MARCH – 08TH APRIL 2026"
+    },
+    {
+      "banner": false,
+      "month": "April",
+      "week": "3",
+      "periods": 2,
+      "main_topic": "5.0 VOLUMETRIC ANALYSIS",
+      "sub_topic": "5.2 Standard solutions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to interpret the data on the tables of containers carrying commercial acid and demonstrate to student how to carry out the dilution and how to prepare basic solution",
+      "learning_activities": "Students in groups to discuss the preparation of standard solutions of common acids and bases and practice to perfection the titration process and reading volumes on a burette correct to two decimal places and data recording",
+      "resources": [
+        "Basic solutions commercial acids"
+      ],
+      "assessment": "Students in groups to discuss the preparation of standard solutions of common acids and bases and practice to perfection the titration process and reading volumes on a burette correct to two decimal places and data recording",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "April",
+      "week": "3",
+      "periods": 2,
+      "main_topic": "5.0 VOLUMETRIC ANALYSIS",
+      "sub_topic": "5.3 Volumetric calculations",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students in groups and then individually to prepare a standard solution of sodium carbonate and carry out the titration and work out the relative mass of the unknown element To guide students in groups and individually in the titration experiment find out the percentage purity or impurity of an acid or an alkali To lead a discussion on students activities with emphasis on accuracy",
+      "learning_activities": "Students in groups and then individually to use the standard sodium carbonate solution to standardize dilute HCl acid Students in groups and individually in the titration experiment find out the percentage purity or impurity of an acid or an alkali Students in groups and individually to carry out an experiment to find out number of moles of water of crystallization",
+      "resources": [
+        "Measuring cylinders pipette white tiles titration flasks"
+      ],
+      "assessment": "Students in groups and then individually to use the standard sodium carbonate solution to standardize dilute HCl acid the titration experiment find out the percentage purity or impurity of an acid or an alkali to carry out an experiment to find out number of moles of water of crystallization",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "April",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "5.0 VOLUMETRIC ANALYSIS",
+      "sub_topic": "5.4 Application of volumetric analysis",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To lead students to discuss the usefulness of volumetric analysis To organize a study visit and provide guidelines to students",
+      "learning_activities": "Students to discuss the usefulness of volumetric analysis Students in groups to discuss the findings from the study visit",
+      "resources": [
+        "Wall charts"
+      ],
+      "assessment": "Students to discuss the usefulness of volumetric analysis And discuss the findings from the study visit",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "1",
+      "periods": 4,
+      "main_topic": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "sub_topic": "6.1 Ionic Theory",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to understand effects of electricity on chemical substances",
+      "teaching_activities": "To guide students to discuss electrolytes, non electrolytes, weak and strong electrolytes and categorize them",
+      "learning_activities": "students to discuss electrolytes, non electrolytes, weak and strong electrolytes and categorize them",
+      "resources": [
+        "Common salt wax ethanol sugar"
+      ],
+      "assessment": "students to discuss electrolytes, non electrolytes, weak and strong electrolytes and categorize them",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "2",
+      "periods": 4,
+      "main_topic": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "sub_topic": "6.2 The Mechanism of Electrolysis",
+      "competence": "By the end of the topic the student should have developed competences in applying chemistry principles in understanding industrial processes",
+      "objectives": "By the end of the topic the students should be able to understand effects of electricity on chemical substances",
+      "teaching_activities": "To guide students to set up the experiment and discuss the migration of ions during electrolysis To guide students to carry out experiments using different electrodes and electrolytes and identify the products at each case",
+      "learning_activities": "Students in groups and then individually to set up an experiment and discuss the migration of ions Students in groups and then individually to carry out experiments using different electrolytes and electrodes and identify the products at each case",
+      "resources": [
+        "Carbon rod copper rod sulphuric acid wall charts"
+      ],
+      "assessment": "Students in groups and then individually to set up an experiment and discuss the migration of ions And carry out experiments using different electrolytes and electrodes and identify the products at each case",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "3",
+      "periods": 4,
+      "main_topic": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "sub_topic": "6.3 Laws of electrolysis",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to measure the mass of solid deposited on or eroded from an electrode by a specific current supplied for a specific time and verify faradays first and second laws of electrolysis To supervise students to discuss the mathematical interpretation of the faraday's second law of electrolysis",
+      "learning_activities": "students to measure the mass of solid deposited on or eroded from an electrode by a specific current supplied for a specific time and verify faradays first and second laws of electrolysis students to work out some calculations based on the second law",
+      "resources": [
+        "Electrolytic cell chemical balance copper rods"
+      ],
+      "assessment": "students to measure the mass of solid deposited on or eroded from an electrode by a specific current supplied for a specific time and verify faradays first and second laws of electrolysis and work out some calculations based on the second law",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "6.0 IONIC THEORY AND ELECTROLYSIS",
+      "sub_topic": "6.4 Application of electrolysis",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss the purification of copper by electrolysis and essential steps for electroplating an object",
+      "learning_activities": "students to discuss the purification of copper by electrolysis and essential steps for electroplating an object",
+      "resources": [
+        "Spoon copper rod wall charts"
+      ],
+      "assessment": "students to discuss the purification of copper by electrolysis and essential steps for electroplating an object",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.1 the rate of chemical reactions",
+      "competence": "By the end of the topic the student should have developed competences in describing the speeds of reactions",
+      "objectives": "By the end of the topic the students should be able to explain the speeds of various chemical reaction in daily life",
+      "teaching_activities": "To guide students to discuss the concept of rapid and slow reactions",
+      "learning_activities": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver",
+      "resources": [
+        "Manila sheets test tube graph papers nails water"
+      ],
+      "assessment": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver And measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "May",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.1 the rate of chemical reactions",
+      "competence": "By the end of the topic the student should have developed competences in describing the speeds of reactions",
+      "objectives": "By the end of the topic the students should be able to explain the speeds of various chemical reaction in daily life",
+      "teaching_activities": "To guide students to carry out a slow reaction by allowing iron nails to rust under favorable conditions",
+      "learning_activities": "Students to measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
+      "resources": [
+        "Manila sheets test tube graph papers nails water"
+      ],
+      "assessment": "Students to demonstrate a very rapid reaction by mixing KI with lead nitrate solutions and aqueous silver And measure the rate of evolution of hydrogen when zinc is dissolved in dilute HCl Acid",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": true,
+      "month": "May",
+      "week": "TERMINAL EXAMINATIONS",
+      "periods": 0,
+      "main_topic": "TERMINAL EXAMINATIONS",
+      "sub_topic": "TERMINAL EXAMINATIONS",
+      "competence": "TERMINAL EXAMINATIONS",
+      "objectives": "TERMINAL EXAMINATIONS",
+      "teaching_activities": "TERMINAL EXAMINATIONS",
+      "learning_activities": "TERMINAL EXAMINATIONS",
+      "resources": [
+        "TERMINAL EXAMINATIONS"
+      ],
+      "assessment": "TERMINAL EXAMINATIONS",
+      "references": "TERMINAL EXAMINATIONS",
+      "remarks": "TERMINAL EXAMINATIONS"
+    },
+    {
+      "banner": true,
+      "month": "June",
+      "week": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "periods": 0,
+      "main_topic": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "sub_topic": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "competence": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "objectives": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "teaching_activities": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "learning_activities": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "resources": [
+        "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026"
+      ],
+      "assessment": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "references": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026",
+      "remarks": "TERMINAL LEAVE 05TH JUNE – 06TH JULY 2026"
+    },
+    {
+      "banner": false,
+      "month": "July",
+      "week": "2 3 4",
+      "periods": 0,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.2 factors affecting the rate of chemical reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to use dil. Hcl and Na2S2O3 to study the effect of concentration on the rate of precipitation of sulphur",
+      "learning_activities": "students to use dil. Hcl and Na2S2O3 to study the effect of concentration on the rate of precipitation of sulphur",
+      "resources": [
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
+      ],
+      "assessment": "students to use dil. Hcl and Na2S2O3 to study the effect of concentration on the rate of precipitation of sulphur",
+      "references": "T.I.E.2023, Chemistry for secondary school book one , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "July",
+      "week": "2 3 4",
+      "periods": 0,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.2 factors affecting the rate of chemical reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to use dil. Hcl and Na2S2O3 to study the effect of temperature on the rate of precipitation of sulphur",
+      "learning_activities": "To guide students to use dil. Hcl and Na2S2O3 to study the effect of temperature on the rate of precipitation of sulphur and plot a graph",
+      "resources": [
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
+      ],
+      "assessment": "to use dil. Hcl and Na2S2O3 to study the effect of temperature on the rate of precipitation of sulphur and plot a graph",
+      "references": "T.I.E.2023, Chemistry for secondary school book one , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "July",
+      "week": "2 3 4",
+      "periods": 0,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.2 factors affecting the rate of chemical reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To instruct students to use blocks of CaCO3 and its powder to study the effect of particles size on the rate of evaluation of carbon dioxide when reacted with dil. Hcl acid",
+      "learning_activities": "students to use blocks of CaCO3 and its powder to study the effect of particles size on the rate of evaluation of carbon dioxide when reacted with dil. Hcl acid",
+      "resources": [
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
+      ],
+      "assessment": "use blocks of CaCO3 and its powder to study the effect of particles size on the rate of evaluation of carbon dioxide when reacted with dil. Hcl acid",
+      "references": "T.I.E.2023, Chemistry for secondary school book one , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "July",
+      "week": "2 3 4",
+      "periods": 0,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.2 factors affecting the rate of chemical reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students in groups to use solid MnO2 to study the effect of the catalyst on the rate of evolution of oxygen from H2O2.",
+      "learning_activities": "students in groups to use solid MnO2 to study the effect of the catalyst on the rate of evolution of oxygen from H2O2 and plot a graph",
+      "resources": [
+        "Mortor and pestle stop watches measuring cylinders sylinges graph papers"
+      ],
+      "assessment": "to use solid MnO2 to study the effect of the catalyst on the rate of evolution of oxygen from H2O2 and plot a graph",
+      "references": "T.I.E.2023, Chemistry for secondary school book one , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "August",
+      "week": "1",
+      "periods": 4,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.3 Reversible and Irreversible reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss the concept of reversible and irreversible processes and demonstrate one reaction in each case",
+      "learning_activities": "Students in groups to perform an experiment on reversible and irreversible reactions and discuss the results obtained",
+      "resources": [
+        "Heat source litmus paper ice"
+      ],
+      "assessment": "Students in groups to perform an experiment on reversible and irreversible reactions and discuss the results obtained",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "August",
+      "week": "2",
+      "periods": 4,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.4 Equilibrium reaction",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss the differences and similarities between equilibrium reactions and reversible reactions To guide students to discuss the factors affection the position of equilibrium",
+      "learning_activities": "students to discuss the differences and similarities between equilibrium reactions and reversible reactions and give examples students to discuss the factors affection the position of equilibrium according to Le Chateliers principle",
+      "resources": [
+        "Wall charts showing Haber process"
+      ],
+      "assessment": "students to discuss the differences and similarities between equilibrium reactions and reversible reactions and give examples",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "August",
+      "week": "3",
+      "periods": 2,
+      "main_topic": "7.0 CHEMICAL KINETICS, EQUILIBRIUM &ENERGETICS",
+      "sub_topic": "7.5 Endothermic and exothermic reactions",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss the concept of endothermic and exothermic reactions To guide students to discuss the special features of energy level diagrams for exothermic and endothermic reactions",
+      "learning_activities": "Students to discuss the concept of endothermic and exothermic reactions students to discuss the special features of energy level diagrams for exothermic and endothermic reactions",
+      "resources": [
+        "Wall charts diagrams"
+      ],
+      "assessment": "Students to discuss the concept of endothermic and exothermic reactions And discuss the special features of energy level diagrams for exothermic and endothermic reactions",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "August",
+      "week": "4",
+      "periods": 2,
+      "main_topic": "8.0 EXTRACTION OF METALS",
+      "sub_topic": "8.1 Occurrence and Location of Metals in Tanzania",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To guide students to discuss the distribution of metal ores in Tanzania and their types and abundances",
+      "learning_activities": "students to discuss the distribution of metal ores in Tanzania and their types and abundances",
+      "resources": [
+        "Wall charts maps"
+      ],
+      "assessment": "students to discuss the distribution of metal ores in Tanzania and their types and abundances",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "August",
+      "week": "4",
+      "periods": 2,
+      "main_topic": "8.0 EXTRACTION OF METALS",
+      "sub_topic": "8.2 Chemical properties of metals",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To elaborate on that sodium and potassium are very weak physically but they are among the strongest metals chemically To lead a discussion on the reactivity of different metals with water and steam to include K, Na, Ca Mg, Al, Zn, Pb, Cu",
+      "learning_activities": "Students to demonstrate the reactivity of different metals and write electronic configuration of the common metals to show the stability obtained after losing electrons Students to discuss on the reactivity of different metals with water and steam to include K, Na, Ca Mg, Al, Zn, Pb, Cu",
+      "resources": [
+        "Periodic table charts sample of different metals"
+      ],
+      "assessment": "Students to demonstrate the reactivity of different metals and write electronic configuration of the common metals to show the stability obtained after losing electrons",
+      "references": "T.I.E.2023, Chemistry for secondary school book three , TIE",
+      "remarks": ""
+    },
+    {
+      "banner": true,
+      "month": "August",
+      "week": "MIDTERM TEST",
+      "periods": 0,
+      "main_topic": "MIDTERM TEST",
+      "sub_topic": "MIDTERM TEST",
+      "competence": "MIDTERM TEST",
+      "objectives": "MIDTERM TEST",
+      "teaching_activities": "MIDTERM TEST",
+      "learning_activities": "MIDTERM TEST",
+      "resources": [
+        "MIDTERM TEST"
+      ],
+      "assessment": "MIDTERM TEST",
+      "references": "MIDTERM TEST",
+      "remarks": "MIDTERM TEST"
+    },
+    {
+      "banner": true,
+      "month": "September",
+      "week": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "periods": 0,
+      "main_topic": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "sub_topic": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "competence": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "objectives": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "teaching_activities": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "learning_activities": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "resources": [
+        "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026"
+      ],
+      "assessment": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "references": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026",
+      "remarks": "MIDTERM BREAK 04TH SEPTEMBER – 14TH SEPTEMBER 2026"
+    },
+    {
+      "banner": false,
+      "month": "September",
+      "week": "3 & 4",
+      "periods": 8,
+      "main_topic": "8.0 EXTRACTION OF METALS",
+      "sub_topic": "8.3 extraction of metal by electrolytic reduction",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss how the reactivity series is used to select the best method for extracting a metal from its ore and explain the extraction of sodium metal by Down's process",
+      "learning_activities": "students to discuss how the reactivity series is used to select the best method for extracting a metal from its ore and explain the extraction of sodium metal by Down's process",
+      "resources": [
+        "Wall charts"
+      ],
+      "assessment": "students to discuss how the reactivity series is used to select the best method for extracting a metal from its ore and explain the extraction of sodium metal by Down's process",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "October",
+      "week": "1",
+      "periods": 2,
+      "main_topic": "8.0 EXTRACTION OF METALS",
+      "sub_topic": "8.4 extraction of metal by chemical reduction",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to discuss the extraction of iron in the blast furnace",
+      "learning_activities": "Students to discuss and write the important reaction equations taking place in the blast furnace",
+      "resources": [
+        "Wall charts"
+      ],
+      "assessment": "Students to discuss and write the important reaction equations taking place in the blast furnace",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "October",
+      "week": "1",
+      "periods": 2,
+      "main_topic": "8.0 EXTRACTION OF METALS",
+      "sub_topic": "8.5 environmental consideration",
+      "competence": "",
+      "objectives": "",
+      "teaching_activities": "To guide students to visit the following sites: Quarries, Mineral mines, Coal mines and lead a discussion on environmental destruction and their implications",
+      "learning_activities": "students to visit the following sites: Quarries, Mineral mines, Coal mines and lead a discussion on environmental destruction and their implications",
+      "resources": [
+        "Land maps wall charts"
+      ],
+      "assessment": "students to visit ,Quarries, Mineral mines, Coal mines and lead a discussion on environmental destruction and their implications",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "October",
+      "week": "2",
+      "periods": 4,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.1 Oxides",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To guide students to prepare metal oxides by heating elements calcium and magnesium in air and discuss the results To guide students in groups to use guideline to test and classify metal oxides into groups of soluble, insoluble, basic and amphoteric To guide students in groups to discuss the uses of oxides of metals",
+      "learning_activities": "students to prepare metal oxides by heating elements calcium and magnesium in air and discuss the results students in groups to use guideline to test and classify metal oxides into groups of soluble, insoluble, basic and amphoteric students in groups to discuss the uses of oxides of metals",
+      "resources": [
+        "Wall charts sample of different metals heat source"
+      ],
+      "assessment": "students to prepare metal oxides by heating elements calcium and magnesium in air and discuss the results and use guideline to test and classify metal oxides into groups of soluble, insoluble, basic and amphoteric and discuss the uses of oxides of metals",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "October",
+      "week": "3",
+      "periods": 4,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.2 Hydroxides",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To guide students in their work and make general comment To provide guidelines to students on the properties and uses of metal hydroxides",
+      "learning_activities": "Students to prepare the hydroxide of calcium by adding the metal directly in water Students to prepare insoluble hydroxides by reaction the solutions of NaOH, KOH with aqueous solutions of soluble salts and classify metal hydroxides Using guidelines students to perform experiments on the chemical properties of some common metal hydroxides and state their uses",
+      "resources": [
+        "KOH NaOH water chlorides of Fe",
+        "Mg",
+        "Zn",
+        "Cu beakers test tube"
+      ],
+      "assessment": "Students to prepare the hydroxide of calcium by adding the metal directly in water And prepare insoluble hydroxides by reaction the solutions of NaOH, KOH with aqueous solutions of soluble salts and classify metal hydroxides perform experiments on the chemical properties of some common metal hydroxides and state their uses",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "October",
+      "week": "4",
+      "periods": 4,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.3 Carbonates and Hydrogen carbonates",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To supervise students' work and give general comments To provide guidelines to students to find the properties of metal carbonates and their uses",
+      "learning_activities": "Students to prepare soluble carbonated by passing carbon dioxide to an alkali and then prepare insoluble carbonates by passing excess of carbon dioxide into lime water, and prepare precipitate insoluble carbonates by adding sodium carbonate solution to a solution of a salt of a heavy metal eg, CuSO4 Students in groups to prepare a table of soluble and insoluble carbonates Using guidelines students to determine the chemical properties of metal carbonates and their uses",
+      "resources": [
+        "Carbonates of metals wall charts lab. apparatus"
+      ],
+      "assessment": "Students to prepare soluble carbonated by passing carbon dioxide to an alkali and then prepare insoluble carbonates by passing excess of carbon dioxide into lime water, and prepare precipitate insoluble carbonates by adding sodium carbonate solution to a solution of a salt of a heavy metal eg, CuSO4 to prepare a table of soluble and insoluble carbonates",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "November",
+      "week": "1",
+      "periods": 2,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.4 Nitrates",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To demonstrate on the preparation of metal nitrates and explain their chemical properties To guide students to discuss the uses of metal nitrates",
+      "learning_activities": "Students in groups to carry out an experiment to identify a nitrate from unknown mixtures, in the solid, and liquid form Students to discuss the uses of metal nitrates",
+      "resources": [
+        "Wall charts"
+      ],
+      "assessment": "Students in groups to carry out an experiment to identify a nitrate from unknown mixtures, in the solid, and liquid form And discuss the uses of metal nitrates",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "November",
+      "week": "1",
+      "periods": 2,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.5 Chlorides",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To guide students to prepare insoluble chlorides by adding Hcl in an aqueous salt of lead or silver. To guide students to discuss chemical properties of metal chlorides and their uses",
+      "learning_activities": "Students to prepare soluble chlorides by mixing dil. Hcl with oxides, hydroxides, carbonates and metals students to discuss chemical properties of metal chlorides and their uses",
+      "resources": [
+        "Litmus paper any alkali"
+      ],
+      "assessment": "Students to prepare soluble chlorides by mixing dil. Hcl with oxides, hydroxides, carbonates and metals And to discuss chemical properties of metal chlorides and their uses",
+      "references": "T.I.E.2023, Chemistry for secondary school book three, TIE",
+      "remarks": ""
+    },
+    {
+      "banner": false,
+      "month": "November",
+      "week": "2",
+      "periods": 4,
+      "main_topic": "9.0 COMPOUNDS OF METALS",
+      "sub_topic": "9.6 Sulphates",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "To supervise students in their work and give general comments",
+      "learning_activities": "Students to dissolve a metal, a carbonate, a hydroxide or an oxide in dil. H2SO4 and isolate the crystal Students to perform an experiment to study the properties of sulphates and describe their uses",
+      "resources": [
+        "Wall charts lab. Reagents"
+      ],
+      "assessment": "Students to dissolve a metal, a carbonate, a hydroxide or an oxide in dil. H2SO4 and isolate the crystal To perform an experiment to study the properties of sulphates and describe their uses",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": true,
+      "month": "November",
+      "week": "3 4",
+      "periods": 0,
+      "main_topic": "REVISION",
+      "sub_topic": "REVISION",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "",
+      "learning_activities": "",
+      "resources": [],
+      "assessment": "",
+      "references": "",
+      "remarks": ""
+    },
+    {
+      "banner": true,
+      "month": "November",
+      "week": "",
+      "periods": 0,
+      "main_topic": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "sub_topic": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "competence": "By the end of the topic the student should have developed competences in using technological skills in extraction of metals and conservation of environment",
+      "objectives": "By the end of the topic the students should be able to recognize the appropriate methods of extraction of metals and the consequences of environmental destruction",
+      "teaching_activities": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "learning_activities": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "resources": [
+        "ANNUAL EXAMS & ANNUAL HOLIDAYS"
+      ],
+      "assessment": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "references": "ANNUAL EXAMS & ANNUAL HOLIDAYS",
+      "remarks": "ANNUAL EXAMS & ANNUAL HOLIDAYS"
+    }
+  ]
+}
