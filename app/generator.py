@@ -24,9 +24,6 @@ Rules you must follow:
 reword them.
 - Base the lesson strictly on the supplied learning activity. Do not introduce content \
 from other topics or invent syllabus references.
-- Write specific objectives in measurable ABCD form ("By the end of the lesson, each \
-student should be able to ..."), starting with observable verbs (state, describe, \
-demonstrate, classify, investigate). Keep them achievable within the given lesson time.
 - Favour student-centred, activity-based methods (group discussion, brainstorming, \
 jigsaw, field visit, experimentation, project, ICT-based learning) drawn from the \
 suggested methods.
@@ -35,7 +32,7 @@ Tanzanian school.
 - Assessment must reflect the supplied assessment criteria.
 - The learning activity often enumerates its sub-topics (usually in parentheses). \
 Every enumerated sub-topic assigned to this lesson must be visibly addressed in the \
-objectives, lesson stages or assessment — none may be skipped.
+lesson stages or assessment — none may be skipped.
 - The stages you produce must sum (in duration_minutes) to the total lesson duration \
 supplied by the teacher.
 - Write in clear, professional English suitable for a teacher's file and for inspection."""
