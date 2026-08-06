@@ -29,6 +29,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 1,
       "topic_weeks": 3
     },
@@ -55,6 +56,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 2,
       "topic_weeks": 3
     },
@@ -81,6 +83,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 3,
       "topic_weeks": 3
     },
@@ -108,6 +111,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 1,
       "topic_weeks": 3
     },
@@ -135,6 +139,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 2,
       "topic_weeks": 3
     },
@@ -162,6 +167,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 3,
       "topic_weeks": 3
     },
@@ -189,6 +195,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 1,
       "topic_weeks": 33
     },
@@ -216,6 +223,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 2,
       "topic_weeks": 33
     },
@@ -243,6 +251,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 3,
       "topic_weeks": 33
     },
@@ -270,6 +279,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 4,
       "topic_weeks": 33
     },
@@ -297,6 +307,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 5,
       "topic_weeks": 33
     },
@@ -324,8 +335,31 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 6,
       "topic_weeks": 33
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "",
+      "learning_activity": "",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s1w11",
@@ -351,6 +385,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 7,
       "topic_weeks": 33
     },
@@ -378,6 +413,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 8,
       "topic_weeks": 33
     },
@@ -405,6 +441,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 9,
       "topic_weeks": 33
     },
@@ -432,6 +469,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 10,
       "topic_weeks": 33
     },
@@ -459,6 +497,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 11,
       "topic_weeks": 33
     },
@@ -486,6 +525,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 12,
       "topic_weeks": 33
     },
@@ -513,6 +553,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 13,
       "topic_weeks": 33
     },
@@ -540,8 +581,31 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 14,
       "topic_weeks": 33
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "",
+      "learning_activity": "",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w1",
@@ -567,6 +631,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 15,
       "topic_weeks": 33
     },
@@ -594,6 +659,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 16,
       "topic_weeks": 33
     },
@@ -621,6 +687,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 17,
       "topic_weeks": 33
     },
@@ -648,6 +715,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 18,
       "topic_weeks": 33
     },
@@ -675,6 +743,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 19,
       "topic_weeks": 33
     },
@@ -702,6 +771,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 20,
       "topic_weeks": 33
     },
@@ -729,6 +799,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 21,
       "topic_weeks": 33
     },
@@ -756,8 +827,31 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 22,
       "topic_weeks": 33
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "",
+      "learning_activity": "",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w9",
@@ -783,6 +877,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 23,
       "topic_weeks": 33
     },
@@ -810,6 +905,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 24,
       "topic_weeks": 33
     },
@@ -837,6 +933,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 25,
       "topic_weeks": 33
     },
@@ -864,6 +961,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 26,
       "topic_weeks": 33
     },
@@ -891,6 +989,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 27,
       "topic_weeks": 33
     },
@@ -918,6 +1017,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 28,
       "topic_weeks": 33
     },
@@ -945,6 +1045,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 29,
       "topic_weeks": 33
     },
@@ -972,6 +1073,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 30,
       "topic_weeks": 33
     },
@@ -999,6 +1101,7 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 31,
       "topic_weeks": 33
     },
@@ -1026,8 +1129,31 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 32,
       "topic_weeks": 33
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "",
+      "learning_activity": "",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
     },
     {
       "entry_id": "s2w19",
@@ -1053,8 +1179,31 @@
       ],
       "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
       "remarks": "",
+      "kind": "topic",
       "topic_week": 33,
       "topic_weeks": 33
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "",
+      "learning_activity": "",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Geography for Secondary Schools Form One: Student's Book and Teacher's Guide (2023 Edition), Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
     }
   ]
 }

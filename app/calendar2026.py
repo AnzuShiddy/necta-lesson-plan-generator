@@ -69,3 +69,36 @@ def teaching_weeks() -> list[dict]:
 
 def total_teaching_weeks() -> int:
     return len(teaching_weeks())
+
+
+def milestones() -> list[dict]:
+    """School-calendar assessment events, pinned to real teaching weeks.
+
+    Every teacher-authored scheme of work carries these rows alongside the
+    teaching ones, in the same places: a test in the last week before each
+    mid-term break, terminal examinations closing semester 1, and revision then
+    annual examinations closing semester 2. The dates come from SEMESTERS, so
+    nothing here is guesswork — only the naming follows the source documents.
+
+    Returns [{index, label}] where index points into teaching_weeks()."""
+    weeks = teaching_weeks()
+    by_semester: dict[int, list[int]] = {}
+    for i, wk in enumerate(weeks):
+        by_semester.setdefault(wk["semester"], []).append(i)
+
+    events: list[dict] = []
+    for sem in SEMESTERS:
+        indices = by_semester.get(sem["semester"], [])
+        if not indices:
+            continue
+        before_break = [i for i in indices
+                        if weeks[i]["end_date"] < sem["break_start"].isoformat()]
+        if before_break:
+            events.append({"index": before_break[-1], "label": "MIDTERM TEST"})
+        if sem["semester"] == SEMESTERS[-1]["semester"]:
+            if len(indices) >= 2:
+                events.append({"index": indices[-2], "label": "REVISION"})
+            events.append({"index": indices[-1], "label": "ANNUAL EXAMINATIONS"})
+        else:
+            events.append({"index": indices[-1], "label": "TERMINAL EXAMINATIONS"})
+    return sorted(events, key=lambda e: e["index"])

@@ -158,6 +158,20 @@ def ingest(subject: str) -> None:
             acts.append(d)
         forms_out[form] = {"activities": acts}
 
+    out = OUT_DIR / f"{slug(subject)}.json"
+
+    # Forms rebuilt from a teacher-authored scheme of work (they carry a
+    # "source" block) are richer than anything this transcription produces and
+    # are NOT regenerated here — re-ingesting a subject must not silently
+    # discard them. See scripts/build_syllabus_from_schemes.py.
+    if out.exists():
+        existing = json.loads(out.read_text(encoding="utf-8")).get("forms", {})
+        for form, data in existing.items():
+            if data.get("source"):
+                forms_out[form] = data
+                print(f"  · {form}: kept teacher-scheme version "
+                      f"({len(data.get('activities', []))} activities, not re-ingested)")
+
     doc = {
         "subject": subject,
         "level": "Ordinary Secondary Education (Form I-IV)",
@@ -166,7 +180,6 @@ def ingest(subject: str) -> None:
         "period_length_minutes": 40,
         "forms": forms_out,
     }
-    out = OUT_DIR / f"{slug(subject)}.json"
     out.write_text(json.dumps(doc, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  ✓ wrote {out} ({counter} activities)")
 
