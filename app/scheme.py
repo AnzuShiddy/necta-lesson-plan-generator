@@ -196,10 +196,19 @@ def build_scheme(subject: str, form: str) -> dict:
     else:
         week_rows = _even_week_rows(periods, weeks)
 
+    # Teacher schemes carry test/exam/revision rows beside the teaching rows.
+    # Forms rebuilt from such a document already have their own, so only add
+    # them where they are missing.
+    has_own = any(a.get("kind") == "assessment" for a in activities)
+    milestones: dict[int, list[str]] = {}
+    if not has_own:
+        for event in calendar2026.milestones():
+            milestones.setdefault(event["index"], []).append(event["label"])
+
     entries: list[dict] = []
-    for row in sorted(week_rows):
+    for row in sorted(set(week_rows) | set(milestones)):
         wk = weeks[row]
-        for k, (i, share) in enumerate(week_rows[row]):
+        for k, (i, share) in enumerate(week_rows.get(row, [])):
             a = activities[i]
             entries.append({
                 "entry_id": f"s{wk['semester']}w{wk['week']}" + (f"-{k + 1}" if k else ""),
@@ -219,6 +228,29 @@ def build_scheme(subject: str, form: str) -> dict:
                 "resources": a.get("suggested_resources", []),
                 "references": refs,
                 "remarks": "",
+                "kind": a.get("kind", "topic"),
+            })
+        for j, label in enumerate(milestones.get(row, [])):
+            k = len(week_rows.get(row, [])) + j
+            entries.append({
+                "entry_id": f"s{wk['semester']}w{wk['week']}" + (f"-{k + 1}" if k else ""),
+                "semester": wk["semester"],
+                "week": wk["week"],
+                "month": wk["month"],
+                "start_date": wk["start_date"],
+                "end_date": wk["end_date"],
+                "main_competence": label,
+                "specific_competence": "",
+                "learning_activity": "",
+                "activity_id": f"milestone-{label.lower().replace(' ', '-')}-{row}",
+                "periods": 0,
+                "activity_total_periods": 0,
+                "teaching_learning_activities": [],
+                "assessment": label.title(),
+                "resources": [],
+                "references": refs,
+                "remarks": "",
+                "kind": "assessment",
             })
 
     # periods/week over the weeks actually taught (a paced scheme leaves exam and

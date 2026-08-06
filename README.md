@@ -135,6 +135,27 @@ pacing instead of spreading periods evenly, and any form without them keeps the
 original even-distribution behaviour. Currently applied to Biology Form One and
 Three, and Chemistry Form Two and Three.
 
+Re-ingesting a subject with `ingest_syllabus.py` **will not** overwrite a form
+that was built this way — forms carrying a `source` block are kept as they are.
+
+### Calendar milestones
+
+Every teacher-authored scheme carries test and examination rows beside the
+teaching rows, always in the same places. `calendar2026.milestones()` derives
+them from the semester dates rather than hard-coding them:
+
+| Milestone | When |
+|---|---|
+| `MIDTERM TEST` | last teaching week before each mid-term break |
+| `TERMINAL EXAMINATIONS` | last teaching week of semester 1 |
+| `REVISION` | second-to-last teaching week of semester 2 |
+| `ANNUAL EXAMINATIONS` | last teaching week of semester 2 |
+
+Schemes get these automatically, tagged `kind: "assessment"` and carrying zero
+teaching periods so they never inflate the period totals. A form whose source
+document already supplies its own milestone rows keeps those instead, at the
+weeks the teacher chose.
+
 ## Run
 
 ```bash
