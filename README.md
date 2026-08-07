@@ -99,11 +99,32 @@ syllabus matrix into the schema. Because the model only ever sees the real
 syllabus text and is told to copy verbatim, the output is a faithful
 transcription.
 
+The PDFs themselves are gitignored, so fetch them first — `data/sources.json`
+holds the official TIE URLs:
+
+```bash
+python scripts/download_syllabus_pdfs.py --all   # or: ... Geography History
+```
+
 ```bash
 export GEMINI_API_KEY=...
 python scripts/ingest_syllabus.py Chemistry     # one subject
 python scripts/ingest_syllabus.py --all         # every downloaded PDF
 ```
+
+Every subject already has a JSON file, so re-ingesting needs `--force`. Forms
+built from a teacher scheme of work are preserved either way.
+
+### Ingesting without a local API key
+
+`.github/workflows/ingest-syllabus.yml` runs the same pipeline on GitHub
+Actions using the `GEMINI_API_KEY` repository secret, and opens a pull request
+with the regenerated data. Trigger it from **Actions → Ingest TIE syllabus →
+Run workflow**, picking a subject. It is `workflow_dispatch` only — ingestion
+is model-based and must never fire on push.
+
+Requires **Settings → Actions → General → Workflow permissions → "Allow GitHub
+Actions to create and approve pull requests"**, otherwise the PR step fails.
 
 After ingestion the new `data/syllabus/<subject>.json` makes that subject "ready"
 in the UI automatically. Always spot-check the generated JSON against the PDF —
