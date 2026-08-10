@@ -27,7 +27,10 @@ from pydantic import BaseModel
 # reliably-available free model at time of writing. For higher quality lesson
 # plans on a paid/higher tier, override with LESSONPLAN_MODEL (e.g. a full flash
 # or pro model).
-MODEL = os.getenv("LESSONPLAN_MODEL", "gemini-flash-lite-latest")
+# `or` rather than a getenv default: CI and container runtimes routinely export
+# the variable as an empty string when no override is given, and an empty model
+# name reaches the API as "model is required."
+MODEL = os.getenv("LESSONPLAN_MODEL") or "gemini-flash-lite-latest"
 
 # How long we're willing to sleep out a single rate-limit (per-minute quota).
 # A per-DAY quota exhaustion reports a much larger delay; we don't wait that out
