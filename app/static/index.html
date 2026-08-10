@@ -30,6 +30,9 @@
     table.scheme tbody tr { cursor:pointer; }
     table.scheme tbody tr:hover { background:#eef4f0; }
     table.scheme tbody tr.sel { background:var(--sel); outline:2px solid var(--green); }
+    /* exam/revision weeks: shown for context, not selectable */
+    table.scheme tbody tr.exam { background:#f4f2ec; color:#6b6355; font-style:italic; }
+    table.scheme tbody tr.exam:hover { background:#f4f2ec; cursor:default; }
     .preview { background:#fff; border:1px solid var(--line); border-radius:12px; padding:18px; margin-top:16px; }
     .preview h2 { margin-top:0; color:var(--green); }
     table.plan { width:100%; border-collapse:collapse; margin-top:10px; font-size:.85rem; }
@@ -137,11 +140,17 @@ async function loadScheme(){
     : 'No scheme available for this subject/form.';
   $('schemeBody').innerHTML = s.entries.map(e=>{
     const cont = e.topic_weeks>1 ? ` <span class="muted">(wk ${e.topic_week}/${e.topic_weeks})</span>` : '';
-    return `<tr data-id="${e.entry_id}" data-mc="${encodeURIComponent(e.main_competence)}" data-sc="${encodeURIComponent(e.specific_competence)}" data-la="${encodeURIComponent(e.learning_activity)}" data-wl="Semester ${e.semester}, Week ${e.week} (${e.month} ${e.start_date} to ${e.end_date})">
+    const exam = e.kind === 'assessment';
+    return `<tr data-id="${e.entry_id}" data-kind="${e.kind || 'topic'}"${exam ? ' class="exam"' : ''} data-mc="${encodeURIComponent(e.main_competence)}" data-sc="${encodeURIComponent(e.specific_competence)}" data-la="${encodeURIComponent(e.learning_activity)}" data-wl="Semester ${e.semester}, Week ${e.week} (${e.month} ${e.start_date} to ${e.end_date})">
       <td>${e.semester}</td><td>${e.week}</td><td>${e.start_date}<br><span class="muted">${e.end_date}</span></td>
-      <td>${esc(e.learning_activity)}${cont}</td><td>${e.periods}</td></tr>`;
+      <td>${esc(e.learning_activity)}${cont}</td><td>${e.periods || ''}</td></tr>`;
   }).join('');
-  [...$('schemeBody').querySelectorAll('tr')].forEach(tr=>tr.onclick=()=>selectWeek(tr));
+  // Test/exam/revision weeks are shown for context but carry no learning
+  // activity, so there is no lesson plan to generate for them.
+  [...$('schemeBody').querySelectorAll('tr')].forEach(tr=>{
+    if(tr.dataset.kind === 'assessment') return;
+    tr.onclick=()=>selectWeek(tr);
+  });
 }
 function selectWeek(tr){
   [...$('schemeBody').querySelectorAll('tr')].forEach(x=>x.classList.remove('sel'));

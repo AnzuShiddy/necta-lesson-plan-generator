@@ -240,8 +240,11 @@ def build_scheme(subject: str, form: str) -> dict:
                 "start_date": wk["start_date"],
                 "end_date": wk["end_date"],
                 "main_competence": label,
-                "specific_competence": "",
-                "learning_activity": "",
+                "specific_competence": label.title(),
+                # Carry the label in learning_activity too: it is the column the
+                # scheme table and the exports show, and a blank there renders as
+                # an empty row.
+                "learning_activity": label.title(),
                 "activity_id": f"milestone-{label.lower().replace(' ', '-')}-{row}",
                 "periods": 0,
                 "activity_total_periods": 0,
