@@ -30,6 +30,9 @@
     table.scheme tbody tr { cursor:pointer; }
     table.scheme tbody tr:hover { background:#eef4f0; }
     table.scheme tbody tr.sel { background:var(--sel); outline:2px solid var(--green); }
+    /* draws the eye to the picker when someone submits without choosing a week */
+    .flash { animation: flash 0.6s ease-in-out 2; border-radius:6px; }
+    @keyframes flash { 50% { background:#ffe9a8; box-shadow:0 0 0 6px #ffe9a8; } }
     /* exam/revision weeks: shown for context, not selectable */
     table.scheme tbody tr.exam { background:#f4f2ec; color:#6b6355; font-style:italic; }
     table.scheme tbody tr.exam:hover { background:#f4f2ec; cursor:default; }
@@ -104,7 +107,7 @@
       </fieldset>
 
       <div class="row">
-        <button type="submit" id="genBtn" disabled>Generate lesson plan</button>
+        <button type="submit" id="genBtn">Generate lesson plan</button>
         <span id="status"></span>
       </div>
     </form>
@@ -132,7 +135,7 @@ async function loadForms(){
   await loadScheme();
 }
 async function loadScheme(){
-  selectedEntry = null; $('genBtn').disabled = true;
+  selectedEntry = null;
   $('pickInfo').textContent = 'No week selected yet.';
   const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value))).json();
   $('schemeMeta').textContent = s.entries.length
@@ -156,7 +159,7 @@ function selectWeek(tr){
   [...$('schemeBody').querySelectorAll('tr')].forEach(x=>x.classList.remove('sel'));
   tr.classList.add('sel');
   selectedEntry = tr.dataset.id;
-  $('genBtn').disabled = false;
+  $('status').textContent = '';
   $('pickInfo').innerHTML = `<b>Selected:</b> ${esc(tr.dataset.wl)}<br>`
     + `<b>Main competence:</b> ${esc(decodeURIComponent(tr.dataset.mc))}<br>`
     + `<b>Sub-topic:</b> ${esc(decodeURIComponent(tr.dataset.la))}`;
@@ -200,7 +203,17 @@ async function download(kind){
 
 $('planForm').onsubmit = async (e)=>{
   e.preventDefault();
-  if(!selectedEntry){ $('status').textContent = 'Pick a week from the scheme first.'; return; }
+  // The scheme table sits well above this button, so a silently-disabled
+  // button left teachers with no idea what was missing. Say what to do, and
+  // take them to it.
+  if(!selectedEntry){
+    $('status').innerHTML = '<b>Pick a week first</b> — click a row in the scheme of work above.';
+    const table = $('schemeBody').closest('table') || $('schemeBody');
+    table.scrollIntoView({behavior:'smooth', block:'center'});
+    $('pickInfo').classList.add('flash');
+    setTimeout(()=>$('pickInfo').classList.remove('flash'), 2000);
+    return;
+  }
   $('genBtn').disabled = true;
   $('status').textContent = 'Generating…';
   const body = {
