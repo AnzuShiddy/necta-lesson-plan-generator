@@ -67,12 +67,18 @@ jobs:
       - name: Ingest syllabus
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          LESSONPLAN_MODEL: ${{ inputs.model }}
+          MODEL_INPUT: ${{ inputs.model }}
         run: |
           if [ -z "$GEMINI_API_KEY" ]; then
             echo "::error::GEMINI_API_KEY secret is not set on this repository."
             exit 1
           fi
+          # Only export the override when one was actually given — an empty
+          # LESSONPLAN_MODEL is not the same as an unset one.
+          if [ -n "$MODEL_INPUT" ]; then
+            export LESSONPLAN_MODEL="$MODEL_INPUT"
+          fi
+          echo "Model: ${LESSONPLAN_MODEL:-<repo default>}"
           # --force is required: every subject already has a JSON file.
           # Forms rebuilt from a teacher scheme carry a "source" block and are
           # preserved by the script regardless.
