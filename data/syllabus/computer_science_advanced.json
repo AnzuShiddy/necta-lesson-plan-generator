@@ -1,0 +1,805 @@
+{
+  "subject": "Computer Science",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727269944-COMP%20SCIENCE_FM_V_AND_VI_Syllabus%20_Typesetting_%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(a)   Describe the classification of computer architecture (Von Neumann and Non Von Neumann, Harvard Architecture, Modified Harvard Architecture, Flynn’ s Taxonomy)",
+          "suggested_methods": [
+            "Brainstorming: Guide a student by using video tutorials, Internet or Library search to explore the classification of computer architecture.",
+            "TIPS: Lead students in manageable groups to describe the classifications of  each computer architecture(Overview, importance, and the role in modern computing systems.  Give concept of instruction set architecture (ISA) and its relationship to computer architecture.",
+            "Discuss features, advantages, and disadvantages, and how particular architectures are used in different devices (e.g., smartphones, supercomputers, embedded systems) and industries. Supplement information with diagrams, illustrations, real-life examples or applications that showcase the architecture’s strengths.)",
+            "Collaborative Project: Guide students by assigning them work to analyse, compare, and contrast different computer architectures."
+          ],
+          "assessment_criteria": "The classification of computer architecture is properly described",
+          "suggested_resources": [
+            "Simulators (Celiot, Celiot++, Jeliot, etc)",
+            "Computer system",
+            "Modals",
+            "Video tutorials",
+            "Internet resources",
+            "Marker pens",
+            "flip charts",
+            "Non-Visual Desktop Access   (NVDA)",
+            "Virtual Reality (VR)/Augmented Reality (AR) tools",
+            "Security Operations Center (SOC) Simulator",
+            "Simulator creation tools (TopGen, Grey box, TopoMojo,vTunnel, etc)"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "comp-five-1"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(b) Demonstrate understanding of  Boolean algebra and logic gates  (Logic expressions, standard logic gate symbols, logic circuits)",
+          "suggested_methods": [
+            "Demonstration/Scenario/Case study/Game: Guide students by using gamified learning platforms with educational games, scenarios or case studies to explore and demonstrate on Boolean algebra and Logic gates as physical devices in real life",
+            "Think-Ink-Pair- Share(TIPS): Lead students by using video tutorials, Internet or Library search to understand Boolean algebra and logic gates (importance in computer science, Boolean data types and operators,",
+            "theorems and laws, truth tables, logic gates, combinational logic circuits, etc.). Highlight how to implement logic gates and Boolean expressions in code",
+            "Experiment: Guide students to experiment with building and testing circuits using logic gate kits or simulation software",
+            "Collaborative Project: Guide students by assigning them creative projects that apply Boolean algebra and logic gates to solve real-world problems or challenges in their surrounding environment, such as design a simple security system or a traffic light controller using logic gates, etc"
+          ],
+          "assessment_criteria": "Understanding of  Boolean algebra and logic gates  is correctly demonstrated",
+          "suggested_resources": [
+            "Sensitive Software/Data",
+            "interactive online content",
+            "practical braille devices",
+            "Whiteboard or blackboard",
+            "chalk",
+            "Handouts with Boolean expressions and truth tables",
+            "Presentation slides",
+            "Logic gate simulation software."
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "comp-five-2"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(c) Explore computer memory (Meaning, design principles,   memory hierarchy and interfacing, cache memory, memory mapping, primary & secondary memory)",
+          "suggested_methods": [
+            "Simulation/ virtual lab/Tutorial videos/ Case studies: Guide students in manageable groups by using Virtual lab, simulation, tutorial videos, or case study and real world examples to explore how computer memory is utilised in different scenarios (gaming, multitasks, data storage, etc).",
+            "TIPS: Lead students in manageable groups to explore computer memory and respective functions (build simple memory model using physical objects and simulate memory allocation using simulators)",
+            "Memory Simulation Game: Use or design a memory simulation game for students to play a role of computer processors accessing different memory units to retrieve data. Assign a tasks or challenges where students should make decisions based on memory hierarchy, such as fetching data from registers or retrieving data from secondary storage."
+          ],
+          "assessment_criteria": "Computer memory is properly explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 13,
+          "id": "comp-five-3"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(d) Analyse instruction set architecture (Instruction set types, registers, instruction execution cycles, addressing modes, register transfer language, ARM and x86 architectures)",
+          "suggested_methods": [
+            "Practical /Scenario/Simulation/ virtual lab: Lead students to explore the instruction set architecture in computer system using simulation, virtual lab, scenarios, case studies or alternatives",
+            "TIPS: Guide students in manageable groups to introduce concept of ISA; analyse instruction set architecture (design choices, performance trade-offs, and challenges associated with different ISAs) using Simulator, virtual lab or physical hardware. Relate ISAs to real-world examples on how they have influenced computing devices over time",
+            "Collaborative Project: Lead students by assigning them to design their own simple ISA and create an emulator for it"
+          ],
+          "assessment_criteria": "Instruction set architecture is correctly analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 15,
+          "id": "comp-five-4"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(e) Describe  I/O system (Direct Memory Access, Interrupt and exception, privileged / non privileged instruction)",
+          "suggested_methods": [
+            "Brainstorm: Guide a student to describe the  I/O system",
+            "Discussion: Lead students in a manageable groups to discuss and describe the I/O system"
+          ],
+          "assessment_criteria": "I/O system is properly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-5"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(f) Demonstrate function of memory and input-output system",
+          "suggested_methods": [
+            "Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students to explore the functions of memory and input-output system using simulations, animations, etc",
+            "Discussion: Lead students in a manageable groups to discuss and demonstrate the function of memory and input-output system (memory  and I/O system organisation, operation, etc) by relating to real-world applications in everyday technology like smartphones, laptops, gaming consoles, and other devices. Highlight how memory and I/O systems allow interaction with the devices and store data. Provide students with scenarios or challenges related to memory management, device interactions, or data processing",
+            "Collaborative Project: Lead students by assigning them"
+          ],
+          "assessment_criteria": "Function of memory and input-output system is correctly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "comp-five-6"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.1  Demonstrate understanding of the principles of computer architecture and organisation",
+          "learning_activity": "(g)  Develop understanding of pipelining (Basics, types, stalling & forwarding, throughput and speedup, hazards) and Instruction Level Parallelism ( concept, compilation techniques, scalar versus superscalar pipelining, branch prediction, register renaming) and thread and data level parallelism",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students to explore the pipelining, Instruction Level Parallelism, and thread and data level parallelism using visual aids, diagrams, animations, simulations, and other alternatives for students to visualise the parallelism and pipeline stages and the movement of instructions",
+            "Discussion: Lead students in a manageable groups to discuss and understand the pipelining, Instruction Level Parallelism, and thread and data level parallelism by sharing real world examples and case studies where pipelining and parallelism used to improve performance.",
+            "Project work: Guide students by assigning projects that involve implementing simple pipelines, exploring ILP in code optimisation, or designing parallel algorithms."
+          ],
+          "assessment_criteria": "Understanding of the pipelining, Instruction Level Parallelism, and thread and data level parallelism is correctly developed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 18,
+          "id": "comp-five-7"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(a) Demonstrate understanding of  OSI and TCP/IP Reference models, transmission media, wireless transmission, the public switched telephone networks, mobile telephone system and Network protocols (HTTP , FTP , IP ,PPP ,etc)",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search: Guide students in their manageable groups to understand OSI and TCP/IP Reference models, transmission media, wireless transmission, the public switched telephone networks, mobile telephone system and Network protocols (HTTP, FTP, IP,PPP,etc)",
+            "Discussion and Question and Answer: Ask individual students to elaborate the  OSI and TCP/IP Reference models (purpose, role of each layers in routing data packet, IP address in identify device, etc.)"
+          ],
+          "assessment_criteria": "Understanding of Reference models and transmission media, wireless transmission, the public switched telephone networks, mobile telephone system and Network protocols is properly demonstrated",
+          "suggested_resources": [
+            "Network devices (Router, Switch, Bridge, Repeater, Hub, Gateway, etc.)",
+            "Packet tracer",
+            "Internet resources",
+            "Flip charts and braille devices",
+            "Simulators (Celiot, Celiot++, Jeliot, etc)",
+            "Computer system",
+            "Modals",
+            "Video tutorials",
+            "Marker pens",
+            "flip charts",
+            "Non-Visual Desktop Access   (NVDA)",
+            "Virtual Reality (VR)/Augmented Reality (AR) tools",
+            "Security Operations Center (SOC) Simulator",
+            "Simulator creation tools."
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "comp-five-8"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(b) Develop understanding of Data link layer (Switched LANs: Link-Layer Addressing and ARP , Ethernet, Link-Layer, Switches, VLANs)",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search: Guide students in a manageable groups  to demonstrate understanding of data link layer"
+          ],
+          "assessment_criteria": "Understanding of Data link layer is correctly developed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-9"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(c) Create a network that make use of wireless or Ethernet technology",
+          "suggested_methods": [
+            "Practical or Collaborative Project work /Simulation/ virtual lab: Guide students in manageable groups by assigning them work to set up a simple network using wired or wireless media, configure network devices, or analysing network traffic using network monitoring tools/Simulator, virtual lab or physical lab practice."
+          ],
+          "assessment_criteria": "The network that make use of wireless or Ethernet technology is correctly created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-10"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(d) Develop understanding of Network layer (design issues, routing algorithms, Congestion control algorithms, Internetworking, the network layer in the internet (IPv4 and IPv6), Quality of Service)",
+          "suggested_methods": [
+            "Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students to explore the network layer using specified or alternate technique/ method by relating with shared real world examples such as ICMP and ARP",
+            "Discussion: Lead students in a manageable groups  to understand the network layer (Purpose in OSI model, role in routing data packets between networks, importance, subnetting in dividing IP address to smaller networks, routing tables, recent advancement in network layer technologies).",
+            "Demonstration: Guide students to use a network simulation tool or an online platform to demonstrate routing concepts and configure routing tables",
+            "TIPS: Lead students to analyse case studies of network layer issues such as DDoS attacks or network congestion and their possible solutions",
+            "Collaborative Project: Guide students by assigning them project work such as to design a secure network architecture for a small business, analysing the performance of different routing protocols, etc"
+          ],
+          "assessment_criteria": "Understanding of Network layer is correctly developed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 22,
+          "id": "comp-five-11"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(e) Elaborate the transport layer (Transport service, elements of transport protocol, Simple Transport Protocol, Internet transport layer protocols: UDP and TCP)",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search: Lead students in a manageable groups  to understand the transport layer by relating with shared real world examples such as UDP and TCP in online gaming, video streaming, video calling and web browsing",
+            "Discussion: Lead students in a manageable group to understand the transport layer (Purpose in OSI model, role in communication between devices, importance, ports, protocols-TCP and UDP, reliable against unreliable transmission).",
+            "Demonstration: Guide students to use a network simulation tool or an online platform to demonstrate the impact of packet loss and retransmission in TCP. Using reliable software to show network packet captures.",
+            "TIPS: Lead students to create their simple network protocol using basic principles of the transport layer using interactive software/ tools. Let them capture and analyse network traffic at the transport layer using network monitoring tool",
+            "Collaborative Project: Guide students by assigning them project works on a specific transport layer protocol such as TCP, UDP, and SCTP with focus to research on the features, advantages, and real-world applications."
+          ],
+          "assessment_criteria": "The transport layer is properly elaborated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 24,
+          "id": "comp-five-12"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(f)    Describe the application layer (Domain name system, electronic mail, World Wide Web: architecture; dynamic web document and http)",
+          "suggested_methods": [
+            "Simulation/ virtual lab/ video tutorials/ Internet or Library search: Lead students in a manageable groups  to understand the application layer by relating with shared real world examples such as social media platforms, video streaming, online gaming, etc through HTTP, FTP, or SMTP",
+            "Discussion: Lead students in a manageable groups  to understand the application layer (Purpose in OSI model, importance in computer networks, how instant messaging services, web browsers, email clients, etc depends on application layer).",
+            "TIPS: Lead students to explore simple applications that utilise the application layer (basic web page created using  HTML and CSS or simple chat application created using socket programming in a programming language like Python).",
+            "Collaborative Project: Guide students by assigning them project works on different application layer protocols such as HTTP, FTP, DNS, SNMP or SMTP, research each protocol and explain how it works."
+          ],
+          "assessment_criteria": "Application layer is clearly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "comp-five-13"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.2   Demonstrate understanding of computer networks",
+          "learning_activity": "(g)    Apply network security principles, tools and protocols in computer networks",
+          "suggested_methods": [
+            "TIPS: Lead students to explore importance of network security, common network security threats and vulnerabilities, network security tools and protocols,  and best network security practices, etc",
+            "Practical / Simulation/ Virtual lab: Guide students into manageable groups to apply  network security principles, tools and protocols in computer networks (configure firewalls, perform security audits in simulated networks, and analyse network traffic using packet tracer or alternative network analysis tool)",
+            "Guest speakers and Field trip: Invite guest speaker from network security industry or organise field trips to help students to explore and experience real world security practices",
+            "Discussion: Guide students to analyse and discuss case studies on network security breaches and their consequences to society",
+            "Collaborative Project: Guide students by assigning them project works such as to create secure network configurations, developing security policies, or conducting vulnerability assessments using packet tracer or alternative network analysis tool."
+          ],
+          "assessment_criteria": "Network security principles, tools and protocols in computer network are applied correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "comp-five-14"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.4  Demonstrate mastery of Basic principles of Object Oriented Programming Using C++, Java, Python, etc",
+          "learning_activity": "(a) Describe the concept of Object Oriented Programming  (Output, Directives, input, type bool, set width manipulator, type conversion, Object oriented paradigm differences between Object Oriented Programming and Procedure oriented programming, Encapsulation, Inheritance, composition and Polymorphism, Benefits of OOP , Structure of C++/Java/python, namespace, Data types, C++/Java/python tokens,",
+          "suggested_methods": [
+            "Scenario/Library or Internet search: Guide students in manageable groups to explore concept of Object Oriented Programming languages from given scenarios or Internet and Library search relating it with real world applications such as building network protocols, designing network applications, or analysing network traffic, etc"
+          ],
+          "assessment_criteria": "Basic principles of Object Oriented Programming Using C++; Java; Python; etc are correctly described",
+          "suggested_resources": [
+            "Simulators (Celiot, Celiot++, Jeliot, etc)",
+            "virtual labs",
+            "Computer system",
+            "Internet resources",
+            "NVDA and braille devices",
+            "Flip charts",
+            "Text editor",
+            "Software (C++ and  Python IDEs)",
+            "marker pen",
+            "computer",
+            "speaker",
+            "OOP video tutorials",
+            "projector",
+            "whiteboard",
+            "compilers (Debugging tools)"
+          ],
+          "periods_for_specific_competence": 31,
+          "id": "comp-five-15"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.4  Demonstrate mastery of Basic principles of Object Oriented Programming Using C++, Java, Python, etc",
+          "learning_activity": "(b) Describe the general structure of Object Oriented Program   (Using C++, Java, Python, etc)",
+          "suggested_methods": [
+            "Scenario/Library or Internet search: Guide students in manageable groups to explore the general structure of Object Oriented Program   (Using C++, Java, Python, etc) from given scenarios or Internet and Library search."
+          ],
+          "assessment_criteria": "The general structure of Object Oriented Program   (Using C++, Java, Python, etc) is correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-16"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.4  Demonstrate mastery of Basic principles of Object Oriented Programming Using C++, Java, Python, etc",
+          "learning_activity": "(c) Apply appropriate syntax and constructs to create Object Oriented programs",
+          "suggested_methods": [
+            "Problem based Learning/ Practical: Guide students to apply appropriate syntax and constructs to create Object",
+            "Oriented programs (Functions, object and classes; array and string; operator overloading; Composition, Constructors, destructors and inheritance; pointers, virtual functions and polymorphism; streams and files; templates and exceptions; standard template library). Use computer programming language such as  C++, Java, Python, etc) for a given problem/ challenge."
+          ],
+          "assessment_criteria": "Appropriate syntax and constructs to create Object Oriented programs are applied correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-17"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.4  Demonstrate mastery of Basic principles of Object Oriented Programming Using C++, Java, Python, etc",
+          "learning_activity": "(d) Debug Object Oriented programs using appropriate skills (Use  C++, Java, Python, etc)",
+          "suggested_methods": [
+            "Practical/ Simulation/ Virtual lab: Guide students into manageable groups to practice on how to Debug Object Oriented programs using",
+            "appropriate skills (debugging tools, configurations, etc)."
+          ],
+          "assessment_criteria": "Object Oriented programs using appropriate skills are correctly debugged",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-five-18"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.6 Demonstrate understanding of principles of Operating Systems",
+          "learning_activity": "(a)  Describe the concept of operating systems ( evolution, types, architecture, structure and design)",
+          "suggested_methods": [
+            "Case studies/Guest speaker: Guide students basing on invited guest speaker to understand various given case studies regarding the concept, structure and design of operating systems relating with real world examples such as smartphones, tablets, game consoles, etc",
+            "Discussion: Lead students in a manageable groups  to understand the concept of OS (types, roles and features, major milestones and advancements, etc).",
+            "TIPS: Lead students to explore and discuss real world scenarios that OS play critical roles (embedded systems, server management, or virtualisation, etc). Discuss how Internet of Things (IoT) and cloud computing devices rely on OSs for effective operation"
+          ],
+          "assessment_criteria": "The concepts, structure and design of operating systems is properly described",
+          "suggested_resources": [
+            "Internet resources",
+            "NVDA and braille devices",
+            "Flip charts",
+            "marker pen",
+            "video tutorials",
+            "projector",
+            "Computer system",
+            "benchmarking tools"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "comp-five-19"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.6 Demonstrate understanding of principles of Operating Systems",
+          "learning_activity": "(b)   Describe the impact of operating system design on application system design and performance",
+          "suggested_methods": [
+            "Case studies/ Guest speaker: Guide students to understand various given case studies regarding the impact of operating system design on application system design and performance",
+            "Discussion: Guide students in manageable groups by providing to them OS or application case studies and analyse the impact of specific OS design on the performance and design of various application running on it",
+            "Collaborative Project: Guide students by assigning them project works on designing and implementing a simple application that will run on different operating systems. Lead them to research and report the challenges they face and behaviour and performance"
+          ],
+          "assessment_criteria": "The impact of operating system design on application system design and performance is correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "comp-five-20"
+        },
+        {
+          "main_competence": "1.  Demonstrate mastery of the principles of Computer Science",
+          "specific_competence": "1.6 Demonstrate understanding of principles of Operating Systems",
+          "learning_activity": "(c)  Demonstrate competency in recognising and using operating system design and performance [Process Management (Processes and threads, process creation, synchronisation and Communication), CPU/Processor Scheduling ( Deadlock prevention, avoidance and recovery), Memory Management ( Main and virtual memory management),",
+          "suggested_methods": [
+            "Game/Role-playing/ Simulation/ Virtual lab: Guide students by using simulators to simulate the process, I/O  and memory  management, processor scheduling, and file system structure of the  Operating Systems. Use simulation or  game that will assist student to allocate memory or organise files",
+            "Collaborative Project: Guide students by assigning them project works such as: build a basic CPU simulator or memory management system using programming"
+          ],
+          "assessment_criteria": "Competency in recognizing and using operating system design and performance is correctly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "comp-five-21"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(a)   Describe the basic concepts of Relational Database Design, ER Model, SQL, NoSQL, big data, and data warehouse.",
+          "suggested_methods": [
+            "Case studies/Guest speaker: Guide students through invited guest speaker, to understand various given case studies regarding the concept of Relational Database Design, ER Model, SQL, NoSQL, big data, and data warehouse relating with real world examples.",
+            "Discussion: Lead students in a manageable groups  to explore principles of relational database design such as E-R",
+            "modelling,  how to identify entities, attributes, and relationships, and create ER diagrams",
+            "Practical/simulation: Lead students to design database schemas and ER diagrams based on various scenarios in their surrounding environments",
+            "Demonstration: Guide students to introduce and demonstrate SQL and NoSQL databases with simple and complex queries, and appropriate NoSQL languages or APIs.",
+            "Collaborative Project: Guide students by assigning them project works that involve designing and implementing a database system, querying data using SQL, analysing big data, or developing a simple data warehouse"
+          ],
+          "assessment_criteria": "Basic concepts of Relational Database Design, ER Model, SQL, NoSQL, big data, and data warehouse are correctly described",
+          "suggested_resources": [
+            "Relational database software",
+            "Internet resources",
+            "NVDA and braille devices",
+            "Flip charts and marker pen",
+            "Computer system"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "comp-five-22"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(b)   Demonstrate understanding of database design (conceptual, logical, physical, normalization etc)",
+          "suggested_methods": [
+            "Simulation/ Virtual lab/Scenarios: Guide students to explore the three levels of database design in relation to real world scenarios such as social media platforms, online shopping websites or school management system that utilizes database design at each level",
+            "Discussion: Guide students in manageable groups to create high-level conceptual model, ER diagrams, and discuss entities, attributes, relationships, cardinality constraints, functional dependencies and normalization forms. Discuss the data types, indexing strategies, optimisation techniques, and how to create table using SQL and performing basic queries",
+            "Project-Based Learning: Guide students by assigning them project works that incorporates all"
+          ],
+          "assessment_criteria": "Understanding of database design is correctly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "comp-five-23"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(c)   Demonstrate understanding of database models",
+          "suggested_methods": [
+            "Practical / Simulation/ Virtual lab: Guide students to explore database models (relational models, hierarchical models, flat file models, object oriented models, entity relationship models,",
+            "network models, etc) relating with real-world scenarios.",
+            "TIPS: Lead students to create simple relational database using ER diagram and write SQL queries to interact it",
+            "Project-Based Learning: Guide students to design database schemas for relational databases by considering real-world scenarios that suits their environments."
+          ],
+          "assessment_criteria": "Understanding of database model is correctly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 42,
+          "id": "comp-five-24"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(d)   Describe different database management systems (Parallel, distribution)",
+          "suggested_methods": [
+            "Case studies/ Scenarios/Practical/ Simulation/ Virtual lab: Explore Database Management Systems (such as MySQL, PostgreSQL,  SQLite, Oracle,",
+            "Microsoft SQL Server, MongoDB) and their roles (such as data storage, indexing, and query optimization) in managing databases",
+            "Demonstration: Assist students to using a DBMS to create databases and tables, then execute SQL queries."
+          ],
+          "assessment_criteria": "Different database management systems is correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 43,
+          "id": "comp-five-25"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(e)   Describe the emerging Database Models, Technologies and Application",
+          "suggested_methods": [
+            "Case studies/ Scenarios/ Simulation/ Virtual lab: Guide students to describe various given case studies, scenarios, or simulations regarding emerging Database Models, Technologies and Application (NoSQL databases, Big Data,",
+            "and cloud-based databases)",
+            "Discussion: Lead students to discuss the importance, advantages, and applications of emerging database models in modern systems",
+            "Collaborative Project: Guide students by assigning them project works to design a database schema for any e-commerce website and implement a simple database application using any chosen modern database technology. Facilitate them to use their design database and data visualisation tool to analyse and visualize data"
+          ],
+          "assessment_criteria": "Emerging Database Models, Technologies and Application are correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 45,
+          "id": "comp-five-26"
+        },
+        {
+          "main_competence": "2.   Demonstrate mastery of the data management",
+          "specific_competence": "2.1  Demonstrate mastery of Advanced principles of databases and database management systems",
+          "learning_activity": "(f)   Design database using SQL and PHP",
+          "suggested_methods": [
+            "Problem based/ Practical/ Simulation/ Virtual lab: Guide students to design database using SQL and PHP based on scenarios in their surrounding environments"
+          ],
+          "assessment_criteria": "Database using SQL and PHP is correctly designed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 46,
+          "id": "comp-five-27"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(a) Describe the \nweb application  \n(Meaning, \nhistory and \ndevelopment, \ntypes, differences \nbetween website \ndevelopment and \nweb application \ndevelopment,  \ntags, Application \nProgramming \nInterfacing \n-APIs)",
+          "suggested_methods": [
+            "Scenario/Case study/ Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students in a manageable group to describe the web application.",
+            "TIPS: Lead students to discuss all constructs of web application.",
+            "Discuss frameworks and libraries such as React, Angular, or Django"
+          ],
+          "assessment_criteria": "The web application is properly and correctly described",
+          "suggested_resources": [
+            "Simulators (Celiot, Celiot++, Jeliot, etc)",
+            "Virtual labs",
+            "Computer system",
+            "Internet resources",
+            "NVDA and braille devices"
+          ],
+          "periods_for_specific_competence": 111,
+          "id": "comp-six-28"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(b) Create an \ninteractive web \npages (Use \nmodern versions \nof PHP/Python,  \nJavaScript, \nCSS, etc.) with \nappropriate \nresponsive \ntechniques",
+          "suggested_methods": [
+            "Practical/ Simulation/ Virtual lab: Assist students to create interactive web pages using modern versions of PHP/Python,  JavaScript, CSS, or other using appropriate skills through hands on practice, simulation or virtual lab",
+            "Demonstration: Guide students how to manipulate HTML elements using JavaScript ( such as changing text, hiding/ showing elements, handling events, etc). Assist them to explore JavaScript libraries or frameworks such as jQuery or React used for web development."
+          ],
+          "assessment_criteria": "Interactive web pages using modern versions of PHP/Python,  JavaScript, CSS are correctly created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 48,
+          "id": "comp-six-29"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "Implement user inputs \nwith various form \nelements using  HTML \nand JavaScript",
+          "suggested_methods": [],
+          "assessment_criteria": "",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-30"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(c)   Apply web API \nin rich web \nbased application \n(Canvas API, \nAdd canvas, \nDraw canvas \nenvironment, \ndrag and \ndrop API, \nRepresentation \nstate transfer \nand CRUD \noperations)",
+          "suggested_methods": [
+            "TIPS and Simulation/ Virtual lab: Lead students to discuss what web APIs are and their types, use- cases and significance in modern web development. Guide them to describe how APIs enable different software systems to communicate and exchange data and allow developers to integrate external functionalities into their applications. Lead them to explore RESTful APIs against other APIs, Client server architecture"
+          ],
+          "assessment_criteria": "Web API in rich web based applications is correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 49,
+          "id": "comp-six-31"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "front end and back \nend concepts, and \nHTTP protocols and its \nmethods.",
+          "suggested_methods": [
+            "Demonstration: Guide students to integrate web APIs into a rich web-based application. Assist them how to build UI components and make API requests from client-side code (JavaScript-JSON) and handle responses effectively. Describe how API improve user experience and add functionality to their applications, authentication and authorisation mechanism. Use computer, simulators or virtual lab"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 50,
+          "id": "comp-six-32"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(d) Create data-\ndriven web based \napplications that \nspeak to client \nor server storage \nsystems and \nembed it with \naudio and video",
+          "suggested_methods": [
+            "TIPS: Guide students to explore and discuss the web apps built with Python or other languages and relate them with scenarios in real- world environments (such as facebook, Spotify, uber, etc).",
+            "Practical/ Simulation/ Virtual lab: Assist students to create data-driven web applications that speak to client or server storage systems using appropriate skills through hands on practice, simulation or virtual lab (defining purpose and scope of application, designing database schema"
+          ],
+          "assessment_criteria": "Data-driven web applications that speak to client or server storage systems are created correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 51,
+          "id": "comp-six-33"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "setting development \nenvironment, develop \nback end, create APIs \nand front end)",
+          "suggested_methods": [],
+          "assessment_criteria": "",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-34"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(e) Create rich-based \nweb applications \nthat deliver \nsimilar features \nand functions \nas in desktop \napplications \nusing modern \nlibraries or \nframeworks",
+          "suggested_methods": [
+            "Practical/ Simulation/ Virtual lab: Guide students to create rich-based web applications that deliver similar features and functions as in desktop applications using modern libraries or framework using computer, simulation or virtual lab"
+          ],
+          "assessment_criteria": "Rich-based web applications that deliver similar features and functions as in desktop applications using modern libraries or frameworks are created correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-35"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(f) Use CSS and \nmodern HTML \ncontrols in \nrich based web \napplications",
+          "suggested_methods": [
+            "Practical/ Simulation/ Virtual lab: Guide students to use CSS and modern HTML controls in rich-based web application using computer, simulation or virtual lab"
+          ],
+          "assessment_criteria": "CSS and modern HTML controls in rich based web applications are used correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 52,
+          "id": "comp-six-36"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.3 Demonstrate \nmastery \nof web \napplication \ndevelopment \n(Using PHP/\nPython, \nJavaScript, \nCSS, etc)",
+          "learning_activity": "(g) Develop back-\nend using \nPHP/Python, \nJavaScript, \nCSS, etc  (Back \nend should be \nhandling user \ninput, producing \ntemplate \noutput, storing \ninformation in \ndatabases and \ndata stores, and \nbuilding systems \nwith secure user \naccounts)",
+          "suggested_methods": [
+            "Practical / Simulation/ Virtual lab: Guide students to explore server-side programming [back-end language or framework (Flask or Django for Python), Node.js (with Express.js), or Java (with Spring Boot); rooting and request handling- GET and POST requests, query parameter, request body; Database interaction with ORM (Object Relational Mapping) Library; Best practice for REST API design endpoints and data serialization (e.g., JSON or XML)]."
+          ],
+          "assessment_criteria": "Back-end is correctly developed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 53,
+          "id": "comp-six-37"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(a) Describe the \nconcept of data \nstructure and \nalgorithms",
+          "suggested_methods": [
+            "TIPS  Lead students in a manageable groups  to describe the concept of data structure and algorithms"
+          ],
+          "assessment_criteria": "Concept of data structure and algorithms is properly described",
+          "suggested_resources": [
+            "Simulators (Celiot, Celiot++, Jeliot, etc)",
+            "Virtual labs",
+            "Computer system",
+            "Internet resources",
+            "NVDA and braille devices"
+          ],
+          "periods_for_specific_competence": 111,
+          "id": "comp-six-38"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(b) Explore and \nutilise basic data \nstructure (linked \nlists, stacks, \nqueues and \ntrees.)",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search Lead students in a manageable groups  to explore and utilise basic data structure"
+          ],
+          "assessment_criteria": "Basic data structure is explored and utilized correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-39"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(c) Describe the \ndesign and \nperformance of \nvarious classic \nsearching \nand sorting \nalgorithms",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students   to describe the design and performance of various classic searching and sorting algorithms"
+          ],
+          "assessment_criteria": "Design and performance of various classic searching and sorting algorithms is correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 54,
+          "id": "comp-six-40"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(d) Write a program \nthat implements  \nvarious sorting \nalgorithms and \ncreate a report \nfor performance",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search Guide students in a manageable groups  to write a program that implements various sorting algorithms and create a report for performance"
+          ],
+          "assessment_criteria": "A program that implements  various sorting algorithms and create a report for performance is correctly written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-41"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(e) Create a program \nthat implements \narray and a \nlinked list data \nstructure using \nobject-oriented \nprogramming \nlanguage",
+          "suggested_methods": [
+            "TIPS and Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students in a manageable groups  to create a program that implements array and a linked list data structure using object-oriented programming language"
+          ],
+          "assessment_criteria": "A program that implements a linked list data structure is correctly created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 55,
+          "id": "comp-six-42"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(f) Implement \nstack and queue, \nbinary search \ntree ,  balanced \ntree (such as an \nAVL tree), graph, \nhash table data \nstructures in \nobject-oriented \nprogramming \nlanguage.",
+          "suggested_methods": [
+            "Practical / Simulation/ virtual lab/ video tutorials/ Internet or Library search",
+            "Guide students to Implement stack and queue, binary search tree,  balanced tree, graph, and hash table data structures"
+          ],
+          "assessment_criteria": "Stack and queue, binary search tree,  balanced tree (such as an A VL tree), graph, hash table data structures is correctly implemented",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-43"
+        },
+        {
+          "main_competence": "1.  Demonstrate \nmastery of \nthe principles \nof Computer \nScience",
+          "specific_competence": "1.5 Demonstrate \nmastery \nof basic \nprinciples of \nAlgorithms \nand Data \nstructures",
+          "learning_activity": "(g) Describe the \ntechniques \nof algorithm \nanalysis",
+          "suggested_methods": [
+            "TIPS: Lead students to describe the techniques of algorithm analysis"
+          ],
+          "assessment_criteria": "The techniques of algorithm analysis is correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-44"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "can be used in \ncollaboration to \ncreate automated \nsystems",
+          "suggested_methods": [
+            "Brainstorming: Guide students to demonstrate basic understanding of automated system and  how sensors, microprocessors and actuators can be used to create automated systems. Outline the functionalities and features of the automated system."
+          ],
+          "assessment_criteria": "Understanding of automated system and  how sensors, microprocessors and actuators can be used in collaboration to create automated systems is correctly demonstrated",
+          "suggested_resources": [
+            "Automated systems",
+            "Virtual lab",
+            "Simulations",
+            "microprocessors",
+            "Computer systems",
+            "Internet resources",
+            "NVDA and braille devices",
+            "AI Platforms or tools (ChartGPT, etc)",
+            "Prolog software",
+            "Computer",
+            "Simulator (Celiot, Celiot++, Jeliot, etc)",
+            "Virtual lab"
+          ],
+          "periods_for_specific_competence": 96,
+          "id": "comp-six-45"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "(b) Describe the \nadvantages and \ndisadvantages \nof an automated \nsystem used for \nvarious  scenario \n(agriculture, \nIndustry, \ntransport, \nweather, etc)",
+          "suggested_methods": [
+            "Case studies/ Scenarios/Practical/ Simulation/ Virtual lab: Guide students to describe various given case studies, scenarios, or simulations regarding advantages and disadvantages of an automated system used for a specified  scenario"
+          ],
+          "assessment_criteria": "Advantages and disadvantages of an automated system are correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "comp-six-46"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "(c) Create simple \nautomated \nsystem for \nspecific \nchallenge in \nsurrounding \nenvironment",
+          "suggested_methods": [
+            "Problem based Learning/ Practical: Guide students to create simple automated system for specific challenge in surrounding environment from a given problem/ challenge available in their surrounding environment.",
+            "Collaborative Project: Guide students by assigning them a real-world problem or challenges in their surrounding environment such as creating an automated classroom attendance system, a school library book management system, etc"
+          ],
+          "assessment_criteria": "Simple automated system for specific challenge in surrounding environment is correctly created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 57,
+          "id": "comp-six-47"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "(d) Describe the \nconcept of \nemerging \ntechnologies \n(Meaning, types, \nimportance, \nadvantages and \ndisadvantages, \nand their impacts \nin everyday life)",
+          "suggested_methods": [
+            "Guest speaker: Guide students by inviting guest speakers, professionals, or researchers experienced on the field of emerging technologies (Artificial Intelligence, Machine learning, 3D and holographic imaging, Virtual Reality (VR), Augmented Reality (AR), etc) to share their experience",
+            "Case studies: Guide students to understand various given case studies regarding the concept of emerging technologies",
+            "Exploration:  Guide students to explore and interact with different emerging technologies"
+          ],
+          "assessment_criteria": "Concept of emerging technologies are correctly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "comp-six-48"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "(e) Demonstrate \npractical \nunderstanding of \nbuilding blocks \nand components \nof artificial \nintelligence:  \nbasics \nalgorithms, \nmachine \nlearning, and \nneural networks",
+          "suggested_methods": [
+            "Scenarios/Practical/ Simulation/ Virtual lab: Guide students to explore machine learning, Neural networks (structure- input layer, hidden layer, output layer; neurons, activation functions, weights, and biases; training neural networks). Create a simple chatbot using machine learning algorithms with Python",
+            "Project-Based Learning: Guide students by assigning them project work to develop a basic image classifier using neural networks"
+          ],
+          "assessment_criteria": "Practical understanding of building blocks and components of artificial intelligence is correctly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 59,
+          "id": "comp-six-49"
+        },
+        {
+          "main_competence": "2. Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.3  Demonstrate \nunderstanding \nof Automated \nand Emerging \nthechnologies \n(Automated \nsystems, \nArtificial \n(a) Demonstrate \nbasic \nunderstanding \nof automated \nsystem and  \nhow sensors, \nmicroprocessors \nand actuators",
+          "learning_activity": "(f) Demonstrate \npractical \nunderstanding \nof impacts \nof  emerging \ntechnologies \nin everyday life",
+          "suggested_methods": [
+            "TIPS: Guide students to demonstrate understanding of impacts of emerging technologies in everyday life"
+          ],
+          "assessment_criteria": "Understanding of impacts of  emerging technologies in everyday life is properly demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 60,
+          "id": "comp-six-50"
+        },
+        {
+          "main_competence": "2.   Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.2  Mastering \nprinciples \nof computer \ndata analysis \n(advanced \nanalysis, \nvisualisation \nand results \ninterpretation, \netc)",
+          "learning_activity": "(a)  Perform an \nadvanced data \nanalysis using \nappropriate tools \n(Excel, Python, \netc)",
+          "suggested_methods": [
+            "Practical / Simulation/ virtual lab: Guide students into groups to demonstrate on how to perform an advanced data analysis using appropriate tools"
+          ],
+          "assessment_criteria": "An advanced data analysis using appropriate tools is correctly performed",
+          "suggested_resources": [
+            "Internet resources",
+            "Computer system",
+            "raw data",
+            "analysis software (ChartGPT, Excell, SPSS, etc)",
+            "NVDA",
+            "and braille devices"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "comp-six-51"
+        },
+        {
+          "main_competence": "2.   Demonstrate \nmastery \nof the data \nmanagement",
+          "specific_competence": "2.2  Mastering \nprinciples \nof computer \ndata analysis \n(advanced \nanalysis, \nvisualisation \nand results \ninterpretation, \netc)",
+          "learning_activity": "(b)  Apply \nappropriate skills \nto visualise and \ninterpret  data",
+          "suggested_methods": [
+            "Practical/ Simulation/ virtual lab: Guide students into groups to appropriate skills to visualise and interpret  data"
+          ],
+          "assessment_criteria": "Appropriate skills to visualise and interpret  data is correctly applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 61,
+          "id": "comp-six-52"
+        }
+      ]
+    }
+  }
+}

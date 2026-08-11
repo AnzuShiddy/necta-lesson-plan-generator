@@ -77,7 +77,7 @@ def _clean(text: str) -> str:
 
 
 # Teacher schemes interleave calendar rows among the teaching rows. Breaks and
-# holidays are already modelled by app/calendar2026.py, so they are dropped;
+# holidays are already modelled by app/calendars.py, so they are dropped;
 # tests, exams and revision are real scheduled work and are kept, tagged so the
 # app can tell them apart from topic teaching.
 _CALENDAR_ROW = re.compile(r"\b(break|leave|holiday)", re.I)

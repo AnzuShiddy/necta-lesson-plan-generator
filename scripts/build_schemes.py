@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Generate the 2026 scheme of work for every ready subject/form and write it to
-data/schemes/<slug>_<form>.json.
+"""Generate the scheme of work for every ready subject/form, at both levels, and
+write it to data/schemes/<slug>_<form>.json.
 
-Schemes are derived deterministically from the syllabus data + the official 2026
-calendar (no API calls), so this just materialises them as committed, inspectable
+Schemes are derived deterministically from the syllabus data + the academic
+calendar for that form's level — 2026 for Form I-IV, 2026/2027 for Form V-VI
+(no API calls), so this just materialises them as committed, inspectable
 artifacts. The app generates the same schemes on the fly; these files are the
 data snapshot.
 """
@@ -26,11 +27,13 @@ def slug(subject: str) -> str:
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     count = 0
-    for s in syllabus.list_subjects():
-        if s["status"] != "ready":
-            continue
+    pairs = [(lvl["key"], s) for lvl in syllabus.list_levels()
+             for s in syllabus.list_subjects(lvl["key"]) if s["status"] == "ready"]
+    for level, s in pairs:
         subject = s["name"]
-        for form in syllabus.list_forms(subject):
+        # Form V-VI files never collide with Form I-IV ones: the form is in the
+        # filename and no form name is shared between the levels.
+        for form in syllabus.list_forms(subject, level):
             sch = scheme.build_scheme(subject, form)
             if not sch["entries"]:
                 continue

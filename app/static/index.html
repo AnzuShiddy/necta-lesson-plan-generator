@@ -23,6 +23,7 @@
     .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-top:8px; }
     #status { font-size:.85rem; margin-left:6px; }
     .muted { color:#5a6b60; font-size:.8rem; }
+    .warn { background:#fff7e0; border:1px solid #e6c866; border-radius:8px; padding:8px 10px; font-size:.8rem; margin:10px 0 0; }
     .schemeWrap { max-height:320px; overflow:auto; border:1px solid var(--line); border-radius:8px; margin-top:8px; }
     table.scheme { width:100%; border-collapse:collapse; font-size:.8rem; }
     table.scheme th, table.scheme td { border-bottom:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top; }
@@ -62,9 +63,18 @@
       <fieldset>
         <legend>1. Subject &amp; scheme of work (2026)</legend>
         <div class="grid">
+          <div>
+            <label>Level</label>
+            <select id="level">
+              <option value="ordinary">Ordinary level — Form I–IV (2026)</option>
+              <option value="advanced">Advanced level — Form V–VI (2026/2027)</option>
+            </select>
+          </div>
           <div><label>Subject</label><select id="subject"></select></div>
           <div><label>Form</label><select id="form"></select></div>
+          <div></div>
         </div>
+        <p class="warn" id="calWarn" hidden></p>
         <div class="row" style="justify-content:space-between">
           <span class="muted" id="schemeMeta"></span>
           <span>
@@ -127,15 +137,17 @@ let currentPayload = null, selectedEntry = null;
 
 function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
 
+const level = () => $('level').value;
+
 async function loadSubjects(){
-  const d = await (await fetch('/api/subjects')).json();
+  const d = await (await fetch('/api/subjects?level='+level())).json();
   $('subject').innerHTML = d.subjects.map(s=>`<option value="${s.name}"${s.status!=='ready'?' disabled':''}>${s.name}${STATUS_LABEL[s.status]}</option>`).join('');
   const first = d.subjects.find(s=>s.status==='ready');
   if(first) $('subject').value = first.name;
   await loadForms();
 }
 async function loadForms(){
-  const d = await (await fetch('/api/forms?subject='+encodeURIComponent($('subject').value))).json();
+  const d = await (await fetch('/api/forms?subject='+encodeURIComponent($('subject').value)+'&level='+level())).json();
   $('form').innerHTML = d.forms.map(f=>`<option>${f}</option>`).join('');
   await loadScheme();
 }
@@ -144,8 +156,12 @@ async function loadScheme(){
   $('pickInfo').textContent = 'No week selected yet.';
   const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value))).json();
   $('schemeMeta').textContent = s.entries.length
-    ? `${s.subject} ${s.form} · ${s.teaching_weeks} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
+    ? `${s.subject} ${s.form} · ${s.year} · ${s.teaching_weeks} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
     : 'No scheme available for this subject/form.';
+  // Say plainly when part of the year's dates are inferred rather than official.
+  const warn = $('calWarn');
+  warn.hidden = !(s.entries.length && s.provisional_calendar);
+  warn.textContent = warn.hidden ? '' : '⚠ Provisional dates — ' + s.provisional_note;
   $('schemeBody').innerHTML = s.entries.map(e=>{
     const cont = e.topic_weeks>1 ? ` <span class="muted">(wk ${e.topic_week}/${e.topic_weeks})</span>` : '';
     const exam = e.kind === 'assessment';
@@ -176,6 +192,7 @@ async function downloadScheme(kind){
   a.download = 'scheme_of_work.'+kind; a.click();
 }
 
+$('level').onchange = loadSubjects;
 $('subject').onchange = loadForms;
 $('form').onchange = loadScheme;
 

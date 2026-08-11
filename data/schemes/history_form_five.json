@@ -1,0 +1,1584 @@
+{
+  "subject": "History",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 10,
+  "total_periods": 321,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of Pan-Africanism and its origins in the 15th Century",
+      "learning_activity": "(a) Examine the concept of Pan-Africanism (meaning, objectives and importance)",
+      "activity_id": "hist-five-1",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Scenario: Guide students in manageable groups to recall and share their experiences of any of the school meeting they have attended in the past by focusing on the participants, objectives and importance of the meeting. Let them relate the findings with the meaning, participants, objectives and the importance of Pan-Africanism.",
+        "Debate: Divide students into two groups to debate on the relevance of Pan-Africanism in the current context."
+      ],
+      "assessment": "The concept of Pan-Africanism is well examined",
+      "resources": [
+        "Written texts and written text in braille on the concept of Pan-Africanism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.1 Demonstrate an understanding of the concept of Pan-Africanism and its origins in the 15th Century",
+      "learning_activity": "(b) Explain the origins of Pan- Africanism in the 15th Century (Trans- Atlantic Slave Trade and people of African origin in the New World)",
+      "activity_id": "hist-five-2",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair- Share: Task students in each group to think of and present a short report on factors that contribute to family/ society unity and good relationships. Let them relate their responses with the origins of Pan-Africanism in the 15th Century."
+      ],
+      "assessment": "The origin of Pan-Africanism in the 15th Century is well explained",
+      "resources": [
+        "Written texts and written text in braille on origin of Pan-Africanism",
+        "Maps and photos on Trans- Atlantic Slave Trade"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.2 Demonstrate an understanding of the development of Pan-Africanism from the 16th to 19th Century",
+      "learning_activity": "Discuss the development of Pan- Africanism from the 16th to 19th Century (slavery and colonial systems in the New World, Back to Africa Movement and Black Solidarity)",
+      "activity_id": "hist-five-3",
+      "periods": 10,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Library research/ resource room: Assign students in groups to read from relevant references/sources on the development of Pan- Africanism during the slavery and colonial systems from the 16th to the 19th Century. Let them discuss and share the findings in the whole class."
+      ],
+      "assessment": "The development of Pan-Africanism from 16th to 19th Century is clearly discussed",
+      "resources": [
+        "Online resources on the development of Pan-Africanism from 16th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.2 Demonstrate an understanding of the development of Pan-Africanism from the 16th to 19th Century",
+      "learning_activity": "Discuss the development of Pan- Africanism from the 16th to 19th Century (slavery and colonial systems in the New World, Back to Africa Movement and Black Solidarity)",
+      "activity_id": "hist-five-3",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Library research/ resource room: Assign students in groups to read from relevant references/sources on the development of Pan- Africanism during the slavery and colonial systems from the 16th to the 19th Century. Let them discuss and share the findings in the whole class."
+      ],
+      "assessment": "The development of Pan-Africanism from 16th to 19th Century is clearly discussed",
+      "resources": [
+        "Online resources on the development of Pan-Africanism from 16th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.3 Demonstrate an understanding of the history of Pan-Africanism during colonial time and during the struggle against colonialism from 1900 to 1960",
+      "learning_activity": "(a) Examine the development of Pan-Africanism during the first half of the 20th Century",
+      "activity_id": "hist-five-4",
+      "periods": 7,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Discussion: Assign students in groups to read relevant references on the development of Pan- Africanism during the first half of the 20th Century and share the findings in the whole class."
+      ],
+      "assessment": "The development of Pan-Africanism during the first half of the 20th Century is well examined",
+      "resources": [
+        "Written texts and written text in Braille on Pan-Africanism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.3 Demonstrate an understanding of the history of Pan-Africanism during colonial time and during the struggle against colonialism from 1900 to 1960",
+      "learning_activity": "(b) Discuss the contribution of Pan-Africanism to anti-colonial struggles in Africa (conferences and their resolutions)",
+      "activity_id": "hist-five-5",
+      "periods": 1,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Brainstorming: Divide students into manageable groups to explore the contributions of Pan-Africanism (focus on conferences and their resolutions) on the African struggles against colonialism and share the findings in the whole class."
+      ],
+      "assessment": "The contribution of Pan-Africanism to anti-colonial struggles in Africa is well assessed",
+      "resources": [
+        "Written text, and written texts in braille on Pan-Africanism and Ant-colonial struggles"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.3 Demonstrate an understanding of the history of Pan-Africanism during colonial time and during the struggle against colonialism from 1900 to 1960",
+      "learning_activity": "(b) Discuss the contribution of Pan-Africanism to anti-colonial struggles in Africa (conferences and their resolutions)",
+      "activity_id": "hist-five-5",
+      "periods": 5,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Brainstorming: Divide students into manageable groups to explore the contributions of Pan-Africanism (focus on conferences and their resolutions) on the African struggles against colonialism and share the findings in the whole class."
+      ],
+      "assessment": "The contribution of Pan-Africanism to anti-colonial struggles in Africa is well assessed",
+      "resources": [
+        "Written text, and written texts in braille on Pan-Africanism and Ant-colonial struggles"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.4 Demonstrate an understanding of the history of Pan-Africanism since 1960",
+      "learning_activity": "Analyse the development of Pan-Africanism since 1960s (African unity, struggles against neo-colonialism, Apartheid and globalization)",
+      "activity_id": "hist-five-6",
+      "periods": 5,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Brainstorming: Divide students into manageable groups to explore the development of Pan-Africanism since 1960 (focus on African unity, struggles against neo-colonialism, Apartheid, and globalization), and share the findings in the whole class for discussion."
+      ],
+      "assessment": "The development of Pan-Africanism since 1960 is well analysed",
+      "resources": [
+        "Written texts and written texts in braille on the development of Pan-Africanism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the history of Pan-Africanism",
+      "specific_competence": "1.4 Demonstrate an understanding of the history of Pan-Africanism since 1960",
+      "learning_activity": "Analyse the development of Pan-Africanism since 1960s (African unity, struggles against neo-colonialism, Apartheid and globalization)",
+      "activity_id": "hist-five-6",
+      "periods": 10,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Brainstorming: Divide students into manageable groups to explore the development of Pan-Africanism since 1960 (focus on African unity, struggles against neo-colonialism, Apartheid, and globalization), and share the findings in the whole class for discussion."
+      ],
+      "assessment": "The development of Pan-Africanism since 1960 is well analysed",
+      "resources": [
+        "Written texts and written texts in braille on the development of Pan-Africanism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of industrialisation in different nations during the 18th and 19th Centuries",
+      "learning_activity": "(a) Explain the concept of industrial revolution (meaning, processes and characteristics)",
+      "activity_id": "hist-five-7",
+      "periods": 6,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to read relevant references on the meaning, process and characteristics of industrial revolution in the 18th and 19th Centuries and share the findings in the whole class. Let them summarise for reference."
+      ],
+      "assessment": "The concept of industrial revolution is well explained",
+      "resources": [
+        "Written texts and written texts in braille on industrial revolution in Britain",
+        "Pictures/ photos of industries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of industrialisation in different nations during the 18th and 19th Centuries",
+      "learning_activity": "(b) Compare the Industrial Revolution of Britain with the revolutions in Belgium, France, Germany, USA and Japan",
+      "activity_id": "hist-five-8",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group a country (Belgium, France, Germany, USA, and Japan) to study country’s industrial revolution and compare it with that of Britain. Let each group share the findings in the whole class for discussions."
+      ],
+      "assessment": "The industrial revolutions of Britain and Belgium, France, Germany, USA and Japan are well compared",
+      "resources": [
+        "Written documents and written texts in braille on industries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of industrialisation in different nations during the 18th and 19th Centuries",
+      "learning_activity": "(b) Compare the Industrial Revolution of Britain with the revolutions in Belgium, France, Germany, USA and Japan",
+      "activity_id": "hist-five-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group a country (Belgium, France, Germany, USA, and Japan) to study country’s industrial revolution and compare it with that of Britain. Let each group share the findings in the whole class for discussions."
+      ],
+      "assessment": "The industrial revolutions of Britain and Belgium, France, Germany, USA and Japan are well compared",
+      "resources": [
+        "Written documents and written texts in braille on industries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of industrialisation in different nations during the 18th and 19th Centuries",
+      "learning_activity": "(c) Discuss the impacts of the 18th and 19th Centuries industrial revolutions on the world",
+      "activity_id": "hist-five-9",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Scenario: Let each student to imagine some farmers in a village have started to mechanise their farming activities instead of manual work. Ask them to share in the whole class what will be the expected results and impacts on the farmers and the villagers. Let them relate their imaginations and the impacts of the 18th and 19th Centuries industrial revolutions, then allow class discussions."
+      ],
+      "assessment": "The impacts of industrial revolution of the 18th and 19th Centuries are well discussed",
+      "resources": [
+        "Written texts and written texts in braille on Industrial revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w7-3",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(a) Discuss the rise of industrial revolutions of the 20th Century and their impacts on the world (industrial revolutions in Asia and Latin America)",
+      "activity_id": "hist-five-10",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Library research/ resource room: Assign students in groups to read from relevant references/sources on the rise of the industrial revolution of the 20th Century (Asia and Latin America) and their impacts on the world. Allow the students to share the findings in the whole class for discussions and summary."
+      ],
+      "assessment": "The industrial revolutions of the 20th Century and their impacts are well discussed",
+      "resources": [
+        "Written texts and written texts in braille on Industrial revolution of the 20th Century",
+        "Pictures/ photos of industries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(a) Discuss the rise of industrial revolutions of the 20th Century and their impacts on the world (industrial revolutions in Asia and Latin America)",
+      "activity_id": "hist-five-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Library research/ resource room: Assign students in groups to read from relevant references/sources on the rise of the industrial revolution of the 20th Century (Asia and Latin America) and their impacts on the world. Allow the students to share the findings in the whole class for discussions and summary."
+      ],
+      "assessment": "The industrial revolutions of the 20th Century and their impacts are well discussed",
+      "resources": [
+        "Written texts and written texts in braille on Industrial revolution of the 20th Century",
+        "Pictures/ photos of industries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(b) Discuss the changes and continuities between the industrial revolutions of the 18th and 19th Centuries and those of the 20th Century",
+      "activity_id": "hist-five-11",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Discussion: Divide students into manageable groups to explore changes and continuities of the 18th and 19th Centuries and those of the 20th Century. Let the groups share their explorations in the whole class for discussions"
+      ],
+      "assessment": "The changes and continuities between industrial revolution of the 18th and 19th Centuries and those of the 20th Century are well examined",
+      "resources": [
+        "Written texts and written text in braille on changes of industrial revolution of 18th and 19th Centuries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(c) Discuss the nature and character of the Fourth Industrial Revolution evolving in the 21st Century",
+      "activity_id": "hist-five-12",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in manageable groups to explore the nature and character of the Fourth industrial revolution developing in the 21st Century"
+      ],
+      "assessment": "The nature and character of the Fourth industrial revolution is well examined",
+      "resources": [
+        "Written texts and written texts in braille on the fourth industrial revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-4",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(c) Discuss the nature and character of the Fourth Industrial Revolution evolving in the 21st Century",
+      "activity_id": "hist-five-12",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in manageable groups to explore the nature and character of the Fourth industrial revolution developing in the 21st Century"
+      ],
+      "assessment": "The nature and character of the Fourth industrial revolution is well examined",
+      "resources": [
+        "Written texts and written texts in braille on the fourth industrial revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.2 Demonstrate an understanding of the history of industralisation in different nations from the 20th Century to the present",
+      "learning_activity": "(d) Discuss the impacts of the Fourth industrial revolution on global changes in socio-economic and political patterns (digital technology, smart economy, e- government, e-commerce) development patterns",
+      "activity_id": "hist-five-13",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into manageable groups and assign them with appropriate references from the internet such as journal articles, and books to study on the impact of the Fourth industrial revolution on global changes by emphasising on socio-economic and political patterns (digital technology, smart economy. Let each group share the findings in the whole class for discussions."
+      ],
+      "assessment": "The impacts of the fourth industrial revolution on global changes in socio-economic and political patterns are clearly examined",
+      "resources": [
+        "Online resources on the impacts of the fourth industrial revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9-3",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.3 Demonstrate an understanding of the history of industralisation in Africa",
+      "learning_activity": "(a) Discuss the nature and character of industrial development in Africa from the 1960s to the present",
+      "activity_id": "hist-five-14",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Project: Divide the students into manageable groups and assign each group a country to examine the nature and character of industrial development from the 1960s to the present. Let them write a report, present to the whole class for discussion before submission."
+      ],
+      "assessment": "The nature and character of industrial development in Africa from the 1960s to the present is well assessed",
+      "resources": [
+        "Written texts and sketch maps the nature and character of industrial development in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.3 Demonstrate an understanding of the history of industralisation in Africa",
+      "learning_activity": "(a) Discuss the nature and character of industrial development in Africa from the 1960s to the present",
+      "activity_id": "hist-five-14",
+      "periods": 6,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Project: Divide the students into manageable groups and assign each group a country to examine the nature and character of industrial development from the 1960s to the present. Let them write a report, present to the whole class for discussion before submission."
+      ],
+      "assessment": "The nature and character of industrial development in Africa from the 1960s to the present is well assessed",
+      "resources": [
+        "Written texts and sketch maps the nature and character of industrial development in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.3 Demonstrate an understanding of the history of industralisation in Africa",
+      "learning_activity": "(b) Examine lessons learnt from the industrial revolutions of the 19th, 20th and 21st Centuries which can be applied to bring about industrial development in Africa",
+      "activity_id": "hist-five-15",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Self-Reflection: In manageable groups let students to reflect on, and write about lessons that African countries can learn to develop their industries from the 19th, 20th and 21st Centuries` industrial development. Let students present the responses to all members of the class."
+      ],
+      "assessment": "The lessons learnt from the industrial revolutions of the 19th, 20th and 21th Centuries to bring industrial development in Africa are clearly examined",
+      "resources": [
+        "Online resource and wall maps on industrial revolution of the 19th, 20th and 21st Centuries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Demonstrate mastery of the history of the industrial revolution",
+      "specific_competence": "2.3 Demonstrate an understanding of the history of industralisation in Africa",
+      "learning_activity": "(b) Examine lessons learnt from the industrial revolutions of the 19th, 20th and 21st Centuries which can be applied to bring about industrial development in Africa",
+      "activity_id": "hist-five-15",
+      "periods": 7,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Self-Reflection: In manageable groups let students to reflect on, and write about lessons that African countries can learn to develop their industries from the 19th, 20th and 21st Centuries` industrial development. Let students present the responses to all members of the class."
+      ],
+      "assessment": "The lessons learnt from the industrial revolutions of the 19th, 20th and 21th Centuries to bring industrial development in Africa are clearly examined",
+      "resources": [
+        "Online resource and wall maps on industrial revolution of the 19th, 20th and 21st Centuries"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.1 Demonstrate an understanding of the origins of administrative systems in the ancient world",
+      "learning_activity": "(a) Discuss the concepts of administration and administrative systems",
+      "activity_id": "hist-five-16",
+      "periods": 3,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students in manageable groups to brainstorm on types of administration and administrative systems globally and present in the whole class for discussion. Guide them to relate and discuss their responses on the concepts of administration and administrative systems (emphasise on meaning, types and advantages and disadvantages)"
+      ],
+      "assessment": "The concepts of administration and administrative systems are well examined",
+      "resources": [
+        "Written texts and written texts in braille on the concepts of administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.1 Demonstrate an understanding of the origins of administrative systems in the ancient world",
+      "learning_activity": "(a) Discuss the concepts of administration and administrative systems",
+      "activity_id": "hist-five-16",
+      "periods": 9,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide the students in manageable groups to brainstorm on types of administration and administrative systems globally and present in the whole class for discussion. Guide them to relate and discuss their responses on the concepts of administration and administrative systems (emphasise on meaning, types and advantages and disadvantages)"
+      ],
+      "assessment": "The concepts of administration and administrative systems are well examined",
+      "resources": [
+        "Written texts and written texts in braille on the concepts of administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.1 Demonstrate an understanding of the origins of administrative systems in the ancient world",
+      "learning_activity": "(b) Examine indigenous concepts and practices of administration and administrative systems in different global contexts (pre- colonial Africa, Ancient Europe, South America, Asia and the Middle East)",
+      "activity_id": "hist-five-17",
+      "periods": 1,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into five groups and assign each group to explore indigenous concepts and practices of administrative systems in either pre- colonial Africa or Ancient Europe or South America or Asia or the Middle East. Let each group share the findings in the whole class for discussion and summary."
+      ],
+      "assessment": "The indigenous concepts and practices of administration and administrative systems in different global contexts are well examined",
+      "resources": [
+        "Written texts and sketch maps on the indigenous concepts and practices of administration and administrative systems in different global contexts"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.1 Demonstrate an understanding of the origins of administrative systems in the ancient world",
+      "learning_activity": "(b) Examine indigenous concepts and practices of administration and administrative systems in different global contexts (pre- colonial Africa, Ancient Europe, South America, Asia and the Middle East)",
+      "activity_id": "hist-five-17",
+      "periods": 10,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into five groups and assign each group to explore indigenous concepts and practices of administrative systems in either pre- colonial Africa or Ancient Europe or South America or Asia or the Middle East. Let each group share the findings in the whole class for discussion and summary."
+      ],
+      "assessment": "The indigenous concepts and practices of administration and administrative systems in different global contexts are well examined",
+      "resources": [
+        "Written texts and sketch maps on the indigenous concepts and practices of administration and administrative systems in different global contexts"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.1 Demonstrate an understanding of the origins of administrative systems in the ancient world",
+      "learning_activity": "(b) Examine indigenous concepts and practices of administration and administrative systems in different global contexts (pre- colonial Africa, Ancient Europe, South America, Asia and the Middle East)",
+      "activity_id": "hist-five-17",
+      "periods": 1,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into five groups and assign each group to explore indigenous concepts and practices of administrative systems in either pre- colonial Africa or Ancient Europe or South America or Asia or the Middle East. Let each group share the findings in the whole class for discussion and summary."
+      ],
+      "assessment": "The indigenous concepts and practices of administration and administrative systems in different global contexts are well examined",
+      "resources": [
+        "Written texts and sketch maps on the indigenous concepts and practices of administration and administrative systems in different global contexts"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.2 Demonstrate an understanding of the contribution of religion to the establishment of modern administrative systems",
+      "learning_activity": "(a) Discuss the conceptual relationship between religion and administration",
+      "activity_id": "hist-five-18",
+      "periods": 9,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write and discuss in groups the meaning of Theocracy and Divine-King/ Ruler and their relationships to administration. Let each group to present its findings to the whole class for discussion."
+      ],
+      "assessment": "The conceptual relationship between religion and administration is well discussed",
+      "resources": [
+        "Written texts and written texts in braille on religion and administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.2 Demonstrate an understanding of the contribution of religion to the establishment of modern administrative systems",
+      "learning_activity": "(b) Discuss the extent to which religious principles led to changes in administrative systems in the world from the Middle Ages to the 18th Century (indigenous religions in different global contexts, Christianity, Islam, Buddhism, Confucianism, Shintoism Judaism, and African religions)",
+      "activity_id": "hist-five-19",
+      "periods": 9,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Jigsaw; Divide students into manageable groups and assign each group to explore from different sources the extent to which principles of indigenous religions brought changes in administrative systems from the Middle Ages to the 18th Century. Let each group focus on either Christianity or, Islam, Buddhism or Confucianism or Shintoism or Judaism, or African religion. Let each group present the findings in a class for discussion."
+      ],
+      "assessment": "The religious principles that led to changes in administrative systems in the world from the Middle Ages to the 18th Century are well discussed",
+      "resources": [
+        "Written texts and written texts in braille on religion and administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.2 Demonstrate an understanding of the contribution of religion to the establishment of modern administrative systems",
+      "learning_activity": "(c) Examine the transition from religious-based to secular administrative systems from the 15th to 19th Century",
+      "activity_id": "hist-five-20",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to read from various sources on factors for transition from religious- based to secular administrative systems from the 15th to 19th Century. Each group to present its findings in the class."
+      ],
+      "assessment": "The transition from religious-based to secular administrative systems is well examined",
+      "resources": [
+        "Written texts on the transition from religious-based to secular administrative systems"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.2 Demonstrate an understanding of the contribution of religion to the establishment of modern administrative systems",
+      "learning_activity": "(c) Examine the transition from religious-based to secular administrative systems from the 15th to 19th Century",
+      "activity_id": "hist-five-20",
+      "periods": 7,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to read from various sources on factors for transition from religious- based to secular administrative systems from the 15th to 19th Century. Each group to present its findings in the class."
+      ],
+      "assessment": "The transition from religious-based to secular administrative systems is well examined",
+      "resources": [
+        "Written texts on the transition from religious-based to secular administrative systems"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.3 Demonstrate an understanding of the contribution of slavery and feudalism to changes in the administrative systems in Western Europe, Asia and Africa",
+      "learning_activity": "(a) Examine slavery and feudalism as forms of socio-economic and political organisations",
+      "activity_id": "hist-five-21",
+      "periods": 3,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from different sources on how slavery and feudalism brought changes to administrative systems."
+      ],
+      "assessment": "Slavery and feudalism as forms of socio-economic and political organisations are well examined",
+      "resources": [
+        "Written texts, maps and sketch maps on slavery and feudalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.3 Demonstrate an understanding of the contribution of slavery and feudalism to changes in the administrative systems in Western Europe, Asia and Africa",
+      "learning_activity": "(a) Examine slavery and feudalism as forms of socio-economic and political organisations",
+      "activity_id": "hist-five-21",
+      "periods": 10,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from different sources on how slavery and feudalism brought changes to administrative systems."
+      ],
+      "assessment": "Slavery and feudalism as forms of socio-economic and political organisations are well examined",
+      "resources": [
+        "Written texts, maps and sketch maps on slavery and feudalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.3 Demonstrate an understanding of the contribution of slavery and feudalism to changes in the administrative systems in Western Europe, Asia and Africa",
+      "learning_activity": "(a) Examine slavery and feudalism as forms of socio-economic and political organisations",
+      "activity_id": "hist-five-21",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from different sources on how slavery and feudalism brought changes to administrative systems."
+      ],
+      "assessment": "Slavery and feudalism as forms of socio-economic and political organisations are well examined",
+      "resources": [
+        "Written texts, maps and sketch maps on slavery and feudalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.3 Demonstrate an understanding of the contribution of slavery and feudalism to changes in the administrative systems in Western Europe, Asia and Africa",
+      "learning_activity": "(b) Assess the influence of slavery and feudalism on the development of new administrative systems in Western Europe, Asia and Africa up to the 19th Century",
+      "activity_id": "hist-five-22",
+      "periods": 8,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to examine from various sources the influence of slavery and feudalism on the development of new administrative systems. Let each group focus on either Western Europe, or Asia or Africa. Allow them to present and discuss their findings in the class."
+      ],
+      "assessment": "The influence of slavery and feudalism on the development of new administrative systems in Western Europe, Asia and Africa up to the 19th Century is well assessed",
+      "resources": [
+        "Written texts and written texts in braille on slavery, feudalism and administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.3 Demonstrate an understanding of the contribution of slavery and feudalism to changes in the administrative systems in Western Europe, Asia and Africa",
+      "learning_activity": "(b) Assess the influence of slavery and feudalism on the development of new administrative systems in Western Europe, Asia and Africa up to the 19th Century",
+      "activity_id": "hist-five-22",
+      "periods": 6,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to examine from various sources the influence of slavery and feudalism on the development of new administrative systems. Let each group focus on either Western Europe, or Asia or Africa. Allow them to present and discuss their findings in the class."
+      ],
+      "assessment": "The influence of slavery and feudalism on the development of new administrative systems in Western Europe, Asia and Africa up to the 19th Century is well assessed",
+      "resources": [
+        "Written texts and written texts in braille on slavery, feudalism and administration"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.4 Demonstrate an understanding of the contribution of political revolutions in Europe to the growth of current administrative systems",
+      "learning_activity": "(a) Discuss lessons learnt from European political revolutions on the rise of new administrative systems in the world (English and French revolutions)",
+      "activity_id": "hist-five-23",
+      "periods": 4,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into manageable groups and assign them with appropriate references from the internet such as journal articles, books to study on lessons learnt from either English or French revolutions in relation to the rise of new administrative systems in the world. Let the groups share the findings in the whole class for discussions and summary."
+      ],
+      "assessment": "The lessons learnt from European political revolutions on the rise of new administrative systems in the world are clearly discussed",
+      "resources": [
+        "Online resources on English and French revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19-3",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.4 Demonstrate an understanding of the contribution of political revolutions in Europe to the growth of current administrative systems",
+      "learning_activity": "(a) Discuss lessons learnt from European political revolutions on the rise of new administrative systems in the world (English and French revolutions)",
+      "activity_id": "hist-five-23",
+      "periods": 10,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into manageable groups and assign them with appropriate references from the internet such as journal articles, books to study on lessons learnt from either English or French revolutions in relation to the rise of new administrative systems in the world. Let the groups share the findings in the whole class for discussions and summary."
+      ],
+      "assessment": "The lessons learnt from European political revolutions on the rise of new administrative systems in the world are clearly discussed",
+      "resources": [
+        "Online resources on English and French revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.4 Demonstrate an understanding of the contribution of political revolutions in Europe to the growth of current administrative systems",
+      "learning_activity": "(a) Discuss lessons learnt from European political revolutions on the rise of new administrative systems in the world (English and French revolutions)",
+      "activity_id": "hist-five-23",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into manageable groups and assign them with appropriate references from the internet such as journal articles, books to study on lessons learnt from either English or French revolutions in relation to the rise of new administrative systems in the world. Let the groups share the findings in the whole class for discussions and summary."
+      ],
+      "assessment": "The lessons learnt from European political revolutions on the rise of new administrative systems in the world are clearly discussed",
+      "resources": [
+        "Online resources on English and French revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.4 Demonstrate an understanding of the contribution of political revolutions in Europe to the growth of current administrative systems",
+      "learning_activity": "(b) Examine the influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th Century",
+      "activity_id": "hist-five-24",
+      "periods": 8,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th century. Let them present the responses to all members of the class"
+      ],
+      "assessment": "The influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th Century is clearly examined",
+      "resources": [
+        "Online resources on political revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.4 Demonstrate an understanding of the contribution of political revolutions in Europe to the growth of current administrative systems",
+      "learning_activity": "(b) Examine the influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th Century",
+      "activity_id": "hist-five-24",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th century. Let them present the responses to all members of the class"
+      ],
+      "assessment": "The influence of the rise of capitalism on political revolutions and socio-economic and administrative changes up to the 19th Century is clearly examined",
+      "resources": [
+        "Online resources on political revolution"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(a) Examine the contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism)",
+      "activity_id": "hist-five-25",
+      "periods": 3,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Role-play: Guide students to role play the crises in capitalism and their contribution to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism). Ask them questions for clarifications and summary."
+      ],
+      "assessment": "The contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century is clearly discussed",
+      "resources": [
+        "Online resources on crises in capitalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(a) Examine the contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism)",
+      "activity_id": "hist-five-25",
+      "periods": 10,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Role-play: Guide students to role play the crises in capitalism and their contribution to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism). Ask them questions for clarifications and summary."
+      ],
+      "assessment": "The contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century is clearly discussed",
+      "resources": [
+        "Online resources on crises in capitalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(a) Examine the contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism)",
+      "activity_id": "hist-five-25",
+      "periods": 4,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Role-play: Guide students to role play the crises in capitalism and their contribution to the development of new reactionary and revolutionary systems in the 20th Century (Socialism and Fascism). Ask them questions for clarifications and summary."
+      ],
+      "assessment": "The contribution of crises in capitalism to the development of new reactionary and revolutionary systems in the 20th Century is clearly discussed",
+      "resources": [
+        "Online resources on crises in capitalism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(b) Assess the impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world (Apartheid, Zionism)",
+      "activity_id": "hist-five-26",
+      "periods": 6,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into groups and assign them with appropriate references from the internet to study on the development of new ideologies in the world namely Apartheid and Zionism as new reactionary and revolutionary systems of the 20th Century and their impacts. Let students to present in the whole class for discussions."
+      ],
+      "assessment": "The impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world is well assessed",
+      "resources": [
+        "Online resources and wall maps on apartheid and zionism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(b) Assess the impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world (Apartheid, Zionism)",
+      "activity_id": "hist-five-26",
+      "periods": 9,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into groups and assign them with appropriate references from the internet to study on the development of new ideologies in the world namely Apartheid and Zionism as new reactionary and revolutionary systems of the 20th Century and their impacts. Let students to present in the whole class for discussions."
+      ],
+      "assessment": "The impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world is well assessed",
+      "resources": [
+        "Online resources and wall maps on apartheid and zionism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.5 Demonstrate an understanding of the influence of the capitalist crises to the emergence of alternative ideologies and systems of governance in the 20th Century",
+      "learning_activity": "(b) Assess the impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world (Apartheid, Zionism)",
+      "activity_id": "hist-five-26",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "ICT support learning: Divide students into groups and assign them with appropriate references from the internet to study on the development of new ideologies in the world namely Apartheid and Zionism as new reactionary and revolutionary systems of the 20th Century and their impacts. Let students to present in the whole class for discussions."
+      ],
+      "assessment": "The impacts of new reactionary and revolutionary systems of the 20th Century on development of new ideologies in the world is well assessed",
+      "resources": [
+        "Online resources and wall maps on apartheid and zionism"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.6 Demonstrate an understanding of the administrative systems built in post-colonial Africa",
+      "learning_activity": "Examine the changing nature and character of administrative systems which developed in Africa from the 1960s to the present",
+      "activity_id": "hist-five-27",
+      "periods": 8,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Project: Facilitate students to be in groups and assign each group with one African country to explore and write a report on the nature and character of administrative systems developed in such a country from the 1960s to the present. Let them share the report with the whole class"
+      ],
+      "assessment": "The nature and character of administrative systems which developed in Africa from the 1960s to the present is clearly examined",
+      "resources": [
+        "Written texts and written texts in braille on the nature and character of administrative systems which developed in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.6 Demonstrate an understanding of the administrative systems built in post-colonial Africa",
+      "learning_activity": "Examine the changing nature and character of administrative systems which developed in Africa from the 1960s to the present",
+      "activity_id": "hist-five-27",
+      "periods": 9,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Project: Facilitate students to be in groups and assign each group with one African country to explore and write a report on the nature and character of administrative systems developed in such a country from the 1960s to the present. Let them share the report with the whole class"
+      ],
+      "assessment": "The nature and character of administrative systems which developed in Africa from the 1960s to the present is clearly examined",
+      "resources": [
+        "Written texts and written texts in braille on the nature and character of administrative systems which developed in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.6 Demonstrate an understanding of the administrative systems built in post-colonial Africa",
+      "learning_activity": "Examine the changing nature and character of administrative systems which developed in Africa from the 1960s to the present",
+      "activity_id": "hist-five-27",
+      "periods": 9,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Project: Facilitate students to be in groups and assign each group with one African country to explore and write a report on the nature and character of administrative systems developed in such a country from the 1960s to the present. Let them share the report with the whole class"
+      ],
+      "assessment": "The nature and character of administrative systems which developed in Africa from the 1960s to the present is clearly examined",
+      "resources": [
+        "Written texts and written texts in braille on the nature and character of administrative systems which developed in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0 Demonstrate mastery of the history of administrative systems in the world",
+      "specific_competence": "3.6 Demonstrate an understanding of the administrative systems built in post-colonial Africa",
+      "learning_activity": "Examine the changing nature and character of administrative systems which developed in Africa from the 1960s to the present",
+      "activity_id": "hist-five-27",
+      "periods": 9,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Project: Facilitate students to be in groups and assign each group with one African country to explore and write a report on the nature and character of administrative systems developed in such a country from the 1960s to the present. Let them share the report with the whole class"
+      ],
+      "assessment": "The nature and character of administrative systems which developed in Africa from the 1960s to the present is clearly examined",
+      "resources": [
+        "Written texts and written texts in braille on the nature and character of administrative systems which developed in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "4.0 Conduct a project in History",
+      "specific_competence": "4.1 Conduct a project in History",
+      "learning_activity": "(a) Design and carry out a project in any area of your competence",
+      "activity_id": "hist-five-28",
+      "periods": 9,
+      "activity_total_periods": 36,
+      "teaching_learning_activities": [
+        "Project: Guide individual student to select any historical topic on any area of his/ her competence. Guide him/her to design and develop data collection tools, collect information, write a report and submit it."
+      ],
+      "assessment": "A project is well designed",
+      "resources": [
+        "Online resources on conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "4.0 Conduct a project in History",
+      "specific_competence": "4.1 Conduct a project in History",
+      "learning_activity": "(a) Design and carry out a project in any area of your competence",
+      "activity_id": "hist-five-28",
+      "periods": 9,
+      "activity_total_periods": 36,
+      "teaching_learning_activities": [
+        "Project: Guide individual student to select any historical topic on any area of his/ her competence. Guide him/her to design and develop data collection tools, collect information, write a report and submit it."
+      ],
+      "assessment": "A project is well designed",
+      "resources": [
+        "Online resources on conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "4.0 Conduct a project in History",
+      "specific_competence": "4.1 Conduct a project in History",
+      "learning_activity": "(a) Design and carry out a project in any area of your competence",
+      "activity_id": "hist-five-28",
+      "periods": 9,
+      "activity_total_periods": 36,
+      "teaching_learning_activities": [
+        "Project: Guide individual student to select any historical topic on any area of his/ her competence. Guide him/her to design and develop data collection tools, collect information, write a report and submit it."
+      ],
+      "assessment": "A project is well designed",
+      "resources": [
+        "Online resources on conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "4.0 Conduct a project in History",
+      "specific_competence": "4.1 Conduct a project in History",
+      "learning_activity": "(a) Design and carry out a project in any area of your competence",
+      "activity_id": "hist-five-28",
+      "periods": 9,
+      "activity_total_periods": 36,
+      "teaching_learning_activities": [
+        "Project: Guide individual student to select any historical topic on any area of his/ her competence. Guide him/her to design and develop data collection tools, collect information, write a report and submit it."
+      ],
+      "assessment": "A project is well designed",
+      "resources": [
+        "Online resources on conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

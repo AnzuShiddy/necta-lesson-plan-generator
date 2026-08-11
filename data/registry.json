@@ -1,23 +1,55 @@
 {
-  "note": "The full subject list the app advertises. Status is derived at runtime: 'ready' if data/syllabus/<slug>.json exists, else 'pdf' if the PDF is downloaded (run scripts/ingest_syllabus.py), else 'pending' (needs the official TIE PDF URL).",
-  "subjects": [
-    "Physics",
-    "Chemistry",
-    "Mathematics",
-    "Biology",
-    "Geography",
-    "History",
-    "Kiswahili",
-    "English Language",
-    "Business Studies",
-    "Literature in English",
-    "Historia ya Tanzania na Maadili",
-    "Computer Science",
-    "Civics",
-    "French",
-    "Arabic",
-    "Chinese",
-    "Elimu ya Dini ya Kiislamu",
-    "Bible Knowledge"
-  ]
+  "note": "The full subject list the app advertises, per level. Status is derived at runtime: 'ready' if data/syllabus/<slug>.json exists (advanced-level slugs end in _advanced), else 'pdf' if the PDF is downloaded (run scripts/ingest_syllabus.py), else 'pending' (needs the official TIE PDF URL).",
+  "levels": {
+    "ordinary": {
+      "forms": ["Form One", "Form Two", "Form Three", "Form Four"],
+      "syllabus": "TIE Ordinary Secondary Education syllabuses (2023)",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology",
+        "Geography",
+        "History",
+        "Kiswahili",
+        "English Language",
+        "Business Studies",
+        "Literature in English",
+        "Historia ya Tanzania na Maadili",
+        "Computer Science",
+        "Civics",
+        "French",
+        "Arabic",
+        "Chinese",
+        "Elimu ya Dini ya Kiislamu",
+        "Bible Knowledge"
+      ]
+    },
+    "advanced": {
+      "forms": ["Form Five", "Form Six"],
+      "syllabus": "TIE Advanced Secondary Education syllabuses (Form V-VI)",
+      "note": "The 19 subjects a Form V/VI teacher prepares schemes and lesson plans for in the 2026/2027 academic year.",
+      "subjects": [
+        "Advanced Mathematics",
+        "Basic Applied Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Geography",
+        "History",
+        "Economics",
+        "Accountancy",
+        "Business Studies",
+        "Agriculture",
+        "Computer Science",
+        "Food and Nutrition",
+        "English Language",
+        "Literature in English",
+        "Academic Communication",
+        "Kiswahili",
+        "Fasihi ya Kiswahili",
+        "Historia ya Tanzania na Maadili"
+      ]
+    }
+  }
 }

@@ -1,12 +1,13 @@
-"""Generate a 2026 scheme of work (azimio la kazi) for a subject + form.
+"""Generate a scheme of work (azimio la kazi) for a subject + form.
 
-A scheme distributes the syllabus's learning activities across the real 2026
-teaching weeks. It is fully grounded in data we already have — the model is not
-involved:
+A scheme distributes the syllabus's learning activities across the real teaching
+weeks of that form's academic year — 2026 for Form I-IV, 2026/2027 for Form V-VI,
+picked from the form name. It is fully grounded in data we already have — the
+model is not involved:
 
   * competences, activities, methods, assessment  -> from data/syllabus/*.json
   * periods per specific competence                -> `periods_for_specific_competence`
-  * teaching weeks + dates                          -> app/calendar2026.py
+  * teaching weeks + dates                          -> app/calendars.py
 
 Periods-per-week is *derived*, not guessed: total syllabus periods for the form
 divided over the number of 2026 teaching weeks. Activities are packed into weeks
@@ -17,7 +18,7 @@ from __future__ import annotations
 
 from functools import lru_cache
 
-from . import calendar2026, syllabus
+from . import calendars, syllabus
 
 # Sensible floor so an activity with 0 stated periods still gets scheduled.
 _MIN_PERIODS_PER_ACTIVITY = 1
@@ -69,20 +70,33 @@ def _activity_periods(activities: list[dict]) -> list[int]:
 
 # Schemes of work cite the approved TIE textbooks. Subjects taught in Kiswahili
 # cite the Kiswahili editions (TET = Taasisi ya Elimu Tanzania).
-_KISWAHILI_MEDIUM = {"Kiswahili", "Historia ya Tanzania na Maadili",
+_KISWAHILI_MEDIUM = {"Kiswahili", "Fasihi ya Kiswahili",
+                     "Historia ya Tanzania na Maadili",
                      "Elimu ya Dini ya Kiislamu"}
 _FORM_KISWAHILI = {
     "Form One": "Kidato cha Kwanza",
     "Form Two": "Kidato cha Pili",
     "Form Three": "Kidato cha Tatu",
     "Form Four": "Kidato cha Nne",
+    "Form Five": "Kidato cha Tano",
+    "Form Six": "Kidato cha Sita",
 }
 
 
 def _references(subject: str, form: str) -> str:
-    """TIE book citation for the scheme's reference (rejea) column."""
-    if subject in _KISWAHILI_MEDIUM:
-        kidato = _FORM_KISWAHILI.get(form, form)
+    """TIE book citation for the scheme's reference (rejea) column.
+
+    The Form V-VI books are a separate series from the 2023 Form I-IV ones, so
+    they are cited as Advanced Secondary and without the 2023 edition year."""
+    kiswahili = subject in _KISWAHILI_MEDIUM
+    kidato = _FORM_KISWAHILI.get(form, form)
+    if calendars.level_of(form) == calendars.ADVANCED:
+        if kiswahili:
+            return (f"TET, {subject} kwa Sekondari ya Juu {kidato}: Kitabu cha "
+                    "Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania")
+        return (f"TIE, {subject} for Advanced Secondary Schools {form}: "
+                "Student's Book and Teacher's Guide, Tanzania Institute of Education")
+    if kiswahili:
         return (f"TET, {subject} {kidato}: Kitabu cha Mwanafunzi na Kiongozi "
                 "cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania")
     return (f"TIE, {subject} for Secondary Schools {form}: Student's Book and "
@@ -177,9 +191,12 @@ def _even_week_rows(periods: list[int],
 def build_scheme(subject: str, form: str) -> dict:
     """Return a scheme-of-work dict for one subject + form for 2026."""
     activities = syllabus.list_activities(subject, form)
-    weeks = calendar2026.teaching_weeks()
+    cal = calendars.for_form(form)
+    weeks = cal.teaching_weeks()
     if not activities or not weeks:
-        return {"subject": subject, "form": form, "year": calendar2026.YEAR,
+        return {"subject": subject, "form": form, "year": cal.year_label,
+                "level": cal.key, "provisional_calendar": cal.provisional,
+                "provisional_note": cal.provisional_note,
                 "periods_per_week": 0, "entries": []}
 
     periods = _activity_periods(activities)
@@ -202,7 +219,7 @@ def build_scheme(subject: str, form: str) -> dict:
     has_own = any(a.get("kind") == "assessment" for a in activities)
     milestones: dict[int, list[str]] = {}
     if not has_own:
-        for event in calendar2026.milestones():
+        for event in cal.milestones():
             milestones.setdefault(event["index"], []).append(event["label"])
 
     entries: list[dict] = []
@@ -274,7 +291,12 @@ def build_scheme(subject: str, form: str) -> dict:
     return {
         "subject": subject,
         "form": form,
-        "year": calendar2026.YEAR,
+        "year": cal.year_label,
+        "level": cal.key,
+        # True when part of the year's dates are inferred rather than official;
+        # the UI says so instead of presenting them as fact.
+        "provisional_calendar": cal.provisional,
+        "provisional_note": cal.provisional_note,
         "periods_per_week": ppw,
         "total_periods": total_periods,
         "teaching_weeks": len(weeks),

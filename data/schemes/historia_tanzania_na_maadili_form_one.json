@@ -1,7 +1,10 @@
 {
   "subject": "Historia ya Tanzania na Maadili",
   "form": "Form One",
-  "year": 2026,
+  "year": "2026",
+  "level": "ordinary",
+  "provisional_calendar": false,
+  "provisional_note": "",
   "periods_per_week": 2,
   "total_periods": 70,
   "teaching_weeks": 37,

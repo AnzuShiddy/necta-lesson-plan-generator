@@ -46,11 +46,18 @@ that scheme **deterministically and grounded**, with no AI and no scraping:
 
 - **competences, activities, methods, assessment** come from the syllabus data;
 - **periods per topic** come from the syllabus's own `periods_for_specific_competence`;
-- **weeks and dates** come from the official MoEST **2026** calendar
-  (`app/calendar2026.py` — Sem 1: 13 Jan–5 Jun, break 27 Mar–8 Apr; Sem 2:
-  6 Jul–4 Dec, break 4 Sep–14 Sep; 37 teaching weeks).
+- **weeks and dates** come from the academic calendar for that form's level
+  (`app/calendars.py`), picked from the form name:
+  - **Form I–IV, 2026** — official MoEST calendar. Sem 1: 13 Jan–5 Jun, break
+    27 Mar–8 Apr; Sem 2: 6 Jul–4 Dec, break 4 Sep–14 Sep; 37 teaching weeks.
+  - **Form V–VI, 2026/2027** — the A-level year runs July to May, so it spans
+    two calendar years. Sem 1 (6 Jul–4 Dec 2026) is the official MoEST block,
+    matching Form V reporting on 4 July 2026. Sem 2 runs into 2027 and is
+    **inferred** from the 2026 pattern, ending before the ACSEE examinations;
+    it is flagged `provisional` and the UI says so. Replace it with the
+    published 2026/2027 almanac and drop the flag.
 
-Periods-per-week is *derived* (total syllabus periods ÷ 2026 teaching weeks), not
+Periods-per-week is *derived* (total syllabus periods ÷ that year's teaching weeks), not
 guessed, and multi-week topics span consecutive weeks. The generated schemes are
 materialised in `data/schemes/*.json` (via `scripts/build_schemes.py`) and are also
 exportable to Word/PDF. Then the lesson plan flows from a chosen week, inheriting
@@ -72,7 +79,23 @@ knowledge.
 
 ## Subject coverage
 
-The app advertises all 18 subjects (`data/registry.json`). Each shows a status:
+Subjects are advertised per **level** (`data/registry.json`), because the two
+levels are different syllabuses on different school years:
+
+| Level | Forms | School year | Subjects | Ready |
+|---|---|---|---|---|
+| Ordinary | I–IV | 2026 | 18 | 14 |
+| Advanced | V–VI | 2026/2027 | 19 | 4 |
+
+Pick the level in the UI; the subject and form dropdowns follow it. A subject
+taught at both levels (Biology, History, …) keeps two separate syllabus
+documents — `data/syllabus/biology.json` and `biology_advanced.json` — since TIE
+publishes them separately. The form name implies the level everywhere else, so
+nothing downstream has to carry it around.
+
+### Ordinary level (Form I–IV)
+
+Each subject shows a status:
 
 - **ready** — has structured syllabus data and can generate plans now.
   Currently **14 subjects, 769 learning activities** across Forms I–IV: Biology,
@@ -89,6 +112,36 @@ The app advertises all 18 subjects (`data/registry.json`). Each shows a status:
   `sw-*` document posted yet). See `data/sources.json` → `unavailable` for notes.
 
 Non-ready subjects appear in the dropdown (disabled) so teachers see what's coming.
+
+### Advanced level (Form V–VI)
+
+The 19 subjects a Form V/VI teacher prepares for in 2026/2027. Four are
+**ready**, transcribed from the official TIE *Advanced Secondary Education Form
+V–VI* PDFs (each URL was fetched and its title page checked before being added
+to `data/sources.json`):
+
+| Subject | Form V | Form VI |
+|---|---|---|
+| Biology | 16 activities | 12 |
+| Computer Science | 27 | 25 |
+| Economics | 11 | 10 |
+| History | 28 | 17 |
+
+The other 15 are **pending** — Advanced Mathematics, Basic Applied Mathematics,
+Physics, Chemistry, Geography, Accountancy, Business Studies, Agriculture, Food
+and Nutrition, English Language, Literature in English, Academic Communication,
+Kiswahili, Fasihi ya Kiswahili, Historia ya Tanzania na Maadili. To add one:
+find its `tie.go.tz` PDF, confirm the title page reads *SYLLABUS FOR ADVANCED
+SECONDARY EDUCATION FORM V–VI*, add it under `levels.advanced.subjects` in
+`data/sources.json`, then:
+
+```bash
+python scripts/download_syllabus_pdfs.py --all --level advanced
+python scripts/ingest_syllabus.py "Advanced Mathematics" --level advanced
+```
+
+A-level PDFs and JSON carry an `_advanced` suffix so a subject taught at both
+levels never overwrites its other document.
 
 ## Populating subjects (ingestion)
 
@@ -162,7 +215,7 @@ that was built this way — forms carrying a `source` block are kept as they are
 ### Calendar milestones
 
 Every teacher-authored scheme carries test and examination rows beside the
-teaching rows, always in the same places. `calendar2026.milestones()` derives
+teaching rows, always in the same places. `Calendar.milestones()` derives
 them from the semester dates rather than hard-coding them:
 
 | Milestone | When |
@@ -254,8 +307,8 @@ page with the table header repeated.
 | File | Role |
 |------|------|
 | `app/syllabus.py` | Loads structured TIE syllabus JSON |
-| `app/calendar2026.py` | Official MoEST 2026 term dates → ordered teaching weeks |
-| `app/scheme.py` | Builds the 2026 scheme of work from syllabus + calendar |
+| `app/calendars.py` | Term dates per level (2026 for Form I–IV, 2026/2027 for Form V–VI) → ordered teaching weeks |
+| `app/scheme.py` | Builds the scheme of work from syllabus + the level's calendar |
 | `app/llm.py` | Single point where the app calls the LLM (Google Gemini) |
 | `app/generator.py` | Builds the grounded prompt (from a scheme week) and calls `llm.structured()` |
 | `app/exporters.py` | Renders lesson plans and schemes to `.docx` / `.pdf` |

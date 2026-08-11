@@ -1,6 +1,9 @@
 {
-  "note": "Official TIE 2023 Ordinary Secondary Education syllabus PDFs. uploads/documents/sw-* = 2023 revised edition (used). uploads/files/* = older 2018/2019 edition (NOT used).",
-  "subjects": {
+ "note": "Official TIE syllabus PDFs, per level. uploads/documents/sw-* = the 2023 revised editions (used). uploads/files/* = older 2018/2019 edition (NOT used). Advanced-level PDFs download to data/pdfs/<slug>_advanced.pdf so a subject taught at both levels keeps its two documents apart.",
+ "levels": {
+  "ordinary": {
+   "note": "Official TIE 2023 Ordinary Secondary Education syllabus PDFs. uploads/documents/sw-* = 2023 revised edition (used). uploads/files/* = older 2018/2019 edition (NOT used).",
+   "subjects": {
     "Biology": "https://www.tie.go.tz/uploads/documents/sw-1727192422-BIOLOGY%20SYLLABUS%20ORDINARY%20SECONDARY%20FINAL%20.pdf",
     "Chemistry": "https://www.tie.go.tz/uploads/documents/sw-1727192894-CHEMISTRY%20O'LEVEL%20EDUCATION%20FINAL.pdf",
     "Physics": "https://www.tie.go.tz/uploads/documents/sw-1727257838-PHYSICS%20FOR%20ORDINARY%20SECONDARY%20EDUCATION%20FINAL.pdf",
@@ -15,11 +18,25 @@
     "Bible Knowledge": "https://www.tie.go.tz/uploads/documents/sw-1727192234-BIBLE%20KNOWLEDGE%20COMMISSIONER%20FINAL.pdf",
     "Elimu ya Dini ya Kiislamu": "https://www.tie.go.tz/uploads/documents/sw-1727257430-MUHTASARI%20WA%20ELIMU%20YA%20DINI%20YA%20KIISLAM%20KWA%20SHULE%20ZA%20SEKONDARI%20KIDATO%20CHA%20I%20-%20IV.pdf",
     "Historia ya Tanzania na Maadili": "https://www.tie.go.tz/uploads/documents/sw-1727257138-Muhtasari%20Historia%20ya%20Tanzania%20&%20Maadili%20I%20-%20IV.pdf"
-  },
-  "unavailable": {
+   },
+   "unavailable": {
     "Arabic": "TIE lists sw-1727256074 (KIARABU ... FINAL SYLLABUS) on its publications page, but the link returns HTTP 404 (broken on TIE's server). Retry later or source from ol.tie.go.tz.",
     "Civics": "No standalone 2023 Ordinary Secondary Civics syllabus was published. In the 2023 revised curriculum, Civics content was folded into 'Historia ya Tanzania na Maadili' (taught in Kiswahili), which is included above.",
     "French": "No 2023 sw-* Ordinary Secondary syllabus located. Not published as a document on tie.go.tz at time of search.",
     "Chinese": "No 2023 sw-* Ordinary Secondary syllabus located. Only an older uploads/files edition ('SYLLABUS FOR CHINESSE LANGUAGE (O'LEVEL)') existed previously; the 2023 revised version is not yet posted."
+   }
+  },
+  "advanced": {
+   "note": "TIE Advanced Secondary Education syllabuses, Form V-VI (2023). Each URL below was fetched and its title page checked to read 'SYLLABUS FOR ADVANCED SECONDARY EDUCATION FORM V-VI'. Subjects in data/registry.json with no URL here are still 'pending': find the tie.go.tz PDF, verify its title page says Form V-VI, then add it.",
+   "subjects": {
+    "Biology": "https://www.tie.go.tz/uploads/documents/sw-1727269300-BIOLOGY%20SYLLABUS%2027.05.24.pdf",
+    "Computer Science": "https://www.tie.go.tz/uploads/documents/sw-1727269944-COMP%20SCIENCE_FM_V_AND_VI_Syllabus%20_Typesetting_%20FINAL.pdf",
+    "Economics": "https://www.tie.go.tz/uploads/documents/sw-1727270174-Economic%20Form%20V-VI%20FINAL.pdf",
+    "History": "https://www.tie.go.tz/uploads/documents/sw-1727270697-HISTORY%20SYLLABUS.pdf"
+   },
+   "unavailable": {
+    "note": "The remaining 15 Form V-VI subjects in data/registry.json have no URL here yet. Find the subject's tie.go.tz PDF, confirm its title page reads 'SYLLABUS FOR ADVANCED SECONDARY EDUCATION FORM V-VI', add it under levels.advanced.subjects, then download and ingest with --level advanced."
+   }
   }
+ }
 }

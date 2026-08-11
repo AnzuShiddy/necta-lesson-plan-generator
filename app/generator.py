@@ -7,12 +7,14 @@ Claude expands it into a full, classroom-ready lesson plan. It is instructed to
 copy the competence statements verbatim so the plan cites the real syllabus.
 """
 
-from . import llm, scheme, syllabus
+from . import calendars, llm, scheme, syllabus
 from .schema import GeneratedLessonPlan, LessonPlanRequest
 
 SYSTEM_PROMPT = """You are an experienced Tanzanian secondary school teacher and \
 curriculum expert who prepares lesson plans that comply with the Tanzania Institute \
-of Education (TIE) 2023 competence-based curriculum and NECTA expectations.
+of Education (TIE) competence-based curriculum and NECTA expectations, at both \
+Ordinary (Form I-IV) and Advanced (Form V-VI) level. The form you are given tells \
+you which.
 
 You will be given ONE learning activity taken directly from the official TIE syllabus, \
 together with its main competence, specific competence, suggested teaching/learning \
@@ -59,7 +61,7 @@ STAGE_GUIDES = {
 
 
 def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
-    meta = syllabus.get_subject_meta(req.subject)
+    meta = syllabus.get_subject_meta(req.subject, req.form)
     periods = req.duration_minutes / max(meta["period_length_minutes"], 1)
     stage_guide = STAGE_GUIDES.get(req.plan_format, STAGE_GUIDES["classic"])
     methods = entry.get("teaching_learning_activities", [])
@@ -82,12 +84,21 @@ def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
     else:
         provenance = "The scheme entry is derived from the official TIE syllabus."
         edition = meta["syllabus_edition"]
-    return f"""Prepare a lesson plan for one scheduled lesson, taken from the 2026 scheme \
+    if calendars.level_of(req.form) == calendars.ADVANCED:
+        level_note = ("LEVEL: Advanced Secondary Education (Form V-VI), leading to the "
+                      "NECTA ACSEE examination. Pitch the depth, subject language and "
+                      "assessment at A-level, not at Form I-IV.")
+        year = "2026/2027"
+    else:
+        level_note = "LEVEL: Ordinary Secondary Education (Form I-IV), leading to CSEE."
+        year = "2026"
+    return f"""Prepare a lesson plan for one scheduled lesson, taken from the {year} scheme \
 of work below. {provenance}
 
 SUBJECT: {req.subject}
 SYLLABUS: {edition}
 FORM: {req.form}
+{level_note}
 SCHEME OF WORK SLOT: Semester {entry['semester']}, Week {entry['week']} \
 ({entry['month']}, {entry['start_date']} to {entry['end_date']})
 LESSON DURATION: {req.duration_minutes} minutes (~{periods:.0f} period(s) of \

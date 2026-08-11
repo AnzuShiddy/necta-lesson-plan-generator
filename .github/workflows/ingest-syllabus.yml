@@ -26,7 +26,23 @@ on:
           - Bible Knowledge
           - Elimu ya Dini ya Kiislamu
           - Historia ya Tanzania na Maadili
+          - Economics
+          - Accountancy
+          - Agriculture
+          - Advanced Mathematics
+          - Basic Applied Mathematics
+          - Food and Nutrition
+          - Academic Communication
+          - Fasihi ya Kiswahili
           - (every subject)
+      level:
+        description: "Level (advanced = Form V-VI). Some subjects exist at one level only."
+        required: true
+        type: choice
+        default: ordinary
+        options:
+          - ordinary
+          - advanced
       model:
         description: "Gemini model override (blank = repo default)"
         required: false
@@ -59,9 +75,9 @@ jobs:
         # URLs in data/sources.json before anything can be ingested.
         run: |
           if [ "${{ inputs.subject }}" = "(every subject)" ]; then
-            python scripts/download_syllabus_pdfs.py --all
+            python scripts/download_syllabus_pdfs.py --all --level "${{ inputs.level }}"
           else
-            python scripts/download_syllabus_pdfs.py "${{ inputs.subject }}"
+            python scripts/download_syllabus_pdfs.py "${{ inputs.subject }}" --level "${{ inputs.level }}"
           fi
 
       - name: Ingest syllabus
@@ -83,9 +99,9 @@ jobs:
           # Forms rebuilt from a teacher scheme carry a "source" block and are
           # preserved by the script regardless.
           if [ "${{ inputs.subject }}" = "(every subject)" ]; then
-            python scripts/ingest_syllabus.py --all --force
+            python scripts/ingest_syllabus.py --all --force --level "${{ inputs.level }}"
           else
-            python scripts/ingest_syllabus.py "${{ inputs.subject }}" --force
+            python scripts/ingest_syllabus.py "${{ inputs.subject }}" --force --level "${{ inputs.level }}"
           fi
 
       - name: Rebuild scheme snapshots

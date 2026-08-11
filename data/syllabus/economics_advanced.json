@@ -1,0 +1,403 @@
+{
+  "subject": "Economics",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270174-Economic%20Form%20V-VI%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(a) Describe the concept and scope of economics (meaning and origin, importance, its relationship with other subjects, basic terminologies, branches, the central economic problem and fundamental economic questions)",
+          "suggested_methods": [
+            "Role play: Guide students to create a list of wants and needs and use their classification rationale to relate to the concept and scope of economics",
+            "Jigsaw: Guide students to discuss meaning and origin, importance, its relationship with other subjects, basic terminologies, branches, central economic problem and fundamental economic questions in their local perspectives",
+            "The students present their findings, and the teacher relates those findings with the concept and scope of economics"
+          ],
+          "assessment_criteria": "The concept and scope of economics is well described",
+          "suggested_resources": [
+            "Bank of Tanzania (BOT) publication and reports",
+            "National Bureau of Statistics (NBS) reports",
+            "Tanzania Development Vision 2025 and Five-Year Development Plans"
+          ],
+          "periods_for_specific_competence": 220,
+          "id": "econ-five-1"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(b)   Describe economic systems (forms, features, advantages and disadvantages)",
+          "suggested_methods": [
+            "Project: In teams, students search for the different forms and features of economic systems, their advantages, and disadvantages",
+            "Discussion: Students discuss their findings and the teacher relate the students’ findings with the concept of economic system"
+          ],
+          "assessment_criteria": "Economic systems are well described",
+          "suggested_resources": [
+            "Sample of Government Economic Reports",
+            "The International Monetary Fund (IMF) reports, working papers, and publications"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "econ-five-2"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(c) Explore the basic tenets of microeconomics (meaning, scope and goals)",
+          "suggested_methods": [
+            "Field trip: Students visit the nearby community and observe the prevailing economic activities, learn the way individual consumers, households, and firms make decisions, and then write the report on their observations",
+            "Discussion: Students share their experiences on the types, scopes and goals of the observed activities and present their findings",
+            "Teacher relates the students’ findings with the tenets of microeconomics",
+            "Project: Students apply tenets of micro-economics to choose a project for their club"
+          ],
+          "assessment_criteria": "Basic tenets of microeconomics are well described",
+          "suggested_resources": [
+            "Journal of Economic Perspectives",
+            "Online Lecture Notes and Tutorials",
+            "Academic Websites and Blogs",
+            "Academic Journals",
+            "Video Lectures:"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "econ-five-3"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(d)  Describe the price theory (demand, supply, market equilibrium and elasticity)",
+          "suggested_methods": [
+            "Case study: Provide case studies portraying quantity demanded and quantity supplied of different commodities at different prices. Let the students discuss the questions related to demand, supply, market equilibrium, and elasticity",
+            "The teacher relates the discussion to the price theory",
+            "Project: Students use price theory to simulate their product/service price catalogue"
+          ],
+          "assessment_criteria": "Price theory is well described",
+          "suggested_resources": [
+            "Academic Journals and Articles",
+            "Academic Websites and Lecture Notes"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "econ-five-4"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(e)  Describe the theories of production and costs (factors of production,",
+          "suggested_methods": [
+            "Guest speaker: Invite a businessperson to explain his/her production process in relation to resources use, costs, revenue and profits"
+          ],
+          "assessment_criteria": "Theories of production and costs are well described",
+          "suggested_resources": [
+            "Educational Videos related to production and cost"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "econ-five-5"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "production function, objectives and profit of firms, scale and costs of production and revenue)",
+          "suggested_methods": [
+            "Discussion: Students discuss their findings in relation to the factors of production, production function, objectives and profit of firms, scale and costs of production, and revenue",
+            "The teacher relates the discussion with the theories of production and costs",
+            "Project: Students write a one-page article/blog about the production process"
+          ],
+          "assessment_criteria": "Theories of production and costs are well described",
+          "suggested_resources": [
+            "Real-World Examples"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "econ-five-6"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1  Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "(f) Describe the concept of the market (meaning, types and structures)",
+          "suggested_methods": [
+            "Scenario: Prepare a scenario on the different types of market structures.",
+            "Project: Students use market concept to improve their simulated product/service price catalogue"
+          ],
+          "assessment_criteria": "Concept of market is well described",
+          "suggested_resources": [
+            "Real-World Examples",
+            "Economic Research Institutions reports",
+            "Local Business",
+            "Publications and Reports",
+            "National Bureau of Statistics (NBS) reports",
+            "Government Publications and reports"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "econ-five-7"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.2  Demonstrate mastery of economic analysis",
+          "learning_activity": "(a) Examine the influence of the economic system on resource allocation and distribution",
+          "suggested_methods": [
+            "Scenario: Use a scenario to guide the students to examine how each economic system works in terms of resource allocation and distribution.",
+            "Discussion: Students discuss the economic systems and their applications locally and globally. Teachers relate the discussions with the economic systems and their applications"
+          ],
+          "assessment_criteria": "Influence of economic systems on resource allocation and distribution is well examined",
+          "suggested_resources": [
+            "Academic Journals",
+            "Economic News Outlets",
+            "The World Bank publication, reports and policy documents related to economic development in Tanzania"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "econ-five-8"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.2  Demonstrate mastery of economic analysis",
+          "learning_activity": "(b) Use the price theory to explain the effects of pricing on consumer behaviour and business profits",
+          "suggested_methods": [
+            "Case study: Use a case study to explore the effects of pricing on consumer behaviour and business profits",
+            "Discussion: Let the students discuss the questions related to the effects of pricing on consumer choice decisions and business profits. Teachers relate the discussions with the price theory"
+          ],
+          "assessment_criteria": "Effects of pricing on consumer behaviour and business profits are well examined using price theory",
+          "suggested_resources": [
+            "Economic Analysis Reports",
+            "Business Publications",
+            "Video Lectures"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "econ-five-9"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.2  Demonstrate mastery of economic analysis",
+          "learning_activity": "(c) Apply production, cost and market theories to make decisions on price and output",
+          "suggested_methods": [
+            "Case study: Provide a case study with information on various production, cost and revenue data of the business",
+            "Discussion: Allow students discuss the questions related to the production cost and pricing decisions of different types market’s theories",
+            "Project: Students create a market simulation game, where they act as buyers or sellers and make pricing and production decisions based on market conditions"
+          ],
+          "assessment_criteria": "Production, cost, and market theories are well applied to make decisions on price and output",
+          "suggested_resources": [
+            "Economic News Outlets",
+            "National Bureau of Statistics (NBS) reports",
+            "Government Publications and reports",
+            "Real-World Examples"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "econ-five-10"
+        },
+        {
+          "main_competence": "2.0.  Conduct a project in Economics",
+          "specific_competence": "2.1  Design and carry out a project in Economics",
+          "learning_activity": "(a) Design and execute a research project on an appropriate economic problem",
+          "suggested_methods": [
+            "Thin-ink-pair-share: Students discuss the concept of economic research",
+            "Brainstorming: Guide students to identify and discuss economic problems that affect their surrounding communities",
+            "Project: Guide students in manageable groups, guide the students to develop a mini- proposal on the selected one of the economic variables",
+            "Project: Guide students to collect data on the identified economic issue and write a report"
+          ],
+          "assessment_criteria": "Economic research is well described, A mini-research proposal on an economic issue is well designed, Data on the identified economic issue are well collected",
+          "suggested_resources": [
+            "Academic Journals",
+            "Research Proposal Guidelines",
+            "Sample of research Projects"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "econ-five-11"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Explore the basic tenets of macroeconomics (meaning, scope and goals)",
+          "suggested_methods": [
+            "Case study: Prepare a case study on the basic tenets of macroeconomics"
+          ],
+          "assessment_criteria": "Basic tenets of macroeconomics are well described",
+          "suggested_resources": [
+            "Bank of Tanzania (BOT) publication and reports",
+            "National Bureau of Statistics (NBS) reports",
+            "Tanzania Development Vision 2025 and Five- Year Development Plans"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "econ-six-12"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe national income (key terms, approaches of measuring, determinants, importance, effect on standard of living and determination of equilibrium)",
+          "suggested_methods": [
+            "Project: Allow the students to search National Income",
+            "Students write the reports and presents their findings",
+            "Teacher relates the students’ findings with the national income"
+          ],
+          "assessment_criteria": "National income is well described",
+          "suggested_resources": [
+            "Government Publications and Central Bank Reports",
+            "Economic Reports and Surveys",
+            "Academic Journals and Research Papers",
+            "Government Statistical Reports"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "econ-six-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe unemployment (key terms, forms, causes, effects and control measures)",
+          "suggested_methods": [
+            "Scenario: Use a scenario to have students discuss key terms, forms, causes of unemployment",
+            "Have the students present their findings and teacher relates the findings with the concept of unemployment",
+            "Discussion: Guide students to discuss the effects, and control measures of unemployment"
+          ],
+          "assessment_criteria": "Unemployment is well described",
+          "suggested_resources": [
+            "National Bureau of Statistics (NBS) reports",
+            "Central Bank Reports and Publications",
+            "Prime Minister’s Office Labour, Youth, Employment & Persons with Disability publications and reports"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "econ-six-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe money (key terms, the evolution of money, functions and monetary policies)",
+          "suggested_methods": [
+            "Scenario: Use a scenario to have students describe the concept of money",
+            "Teacher relates the findings from the discussion by relating with the key terms, the evolution of and functions of money, and monetary policies"
+          ],
+          "assessment_criteria": "The Term Money is well described",
+          "suggested_resources": [
+            "Classroom Activities and Discussions",
+            "Online Videos and Educational Websites",
+            "Government reports and Publications"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "econ-six-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe inflation (meaning, types, causes, effects and control measures)",
+          "suggested_methods": [
+            "Project: In teams, students visit nearby shops and search for information on the prices of different commodities in different periods of times and write a short report on their observations",
+            "Have the students present their reports and the teachers relate their presentation with the concept of inflation",
+            "Group Discussion: In groups, the students discuss the factors that might have caused the increase in price levels in their areas, the effects of increase in prices to their society and the measures to control",
+            "Have the students present their findings from the discussion",
+            "Teachers relate their presentation with the concept of inflation"
+          ],
+          "assessment_criteria": "Inflation is well described",
+          "suggested_resources": [
+            "Local Economic News Outlets: such as newspapers, magazines, and online news platforms",
+            "National Bureau of Statistics (NBS) Reports",
+            "Central Bank of Tanzania (BOT) Publications"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "econ-six-16"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe public finance (key terms, government revenue and expenditure, public debt and fiscal policy)",
+          "suggested_methods": [
+            "Gallery walks: Guide students to explore different themes on key terms of public finance, government revenue and expenditure",
+            "Discussion: Let the students discuss the concept of public debt and fiscal policy"
+          ],
+          "assessment_criteria": "Public finance is well described",
+          "suggested_resources": [
+            "International Monetary Fund (IMF) reports",
+            "World Bank reports",
+            "TRA reports",
+            "Tax guidelines",
+            "Tax policies",
+            "Ministry of Finance and Planning of Tanzania reports",
+            "Budget statements",
+            "Policy documents related to public finance"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "econ-six-17"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.1 Demonstrate an understanding of the concepts, theories and principles used in Economics",
+          "learning_activity": "Describe international trade (meaning, advantages, disadvantages, terms of trade, balance of payments, absolute and comparative advantage and protectionism)",
+          "suggested_methods": [
+            "Discussion: students discuss the meaning of international trade together with its, advantages and disadvantages",
+            "Students present their findings Teacher relates the discussions with international trade",
+            "Project: In teams, students search for information on the terms of trade, balance of payments, absolute, and comparative advantage, and protectionism",
+            "Students present their findings Teacher relates the discussions with international trade"
+          ],
+          "assessment_criteria": "International trade well described",
+          "suggested_resources": [
+            "Tanzania trade policies, regulations, and initiatives",
+            "Tanzania Trade Development Authority (TanTrade): reports and resources on export promotion, market research and trade statistics",
+            "United Nations Conference on Trade and Development (UNCTAD) reports and publications",
+            "Trade statistics",
+            "World Trade Organization (WTO): publications policies, agreements, statistics and reports.",
+            "Economic and Social Research Foundation (ESRF) reports",
+            "Tanzania Chamber of Commerce, Industry, and Agriculture (TCCIA) reports",
+            "Export Processing Zones"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "econ-six-18"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.2 Demonstrate mastery of economic analysis",
+          "learning_activity": "Apply macroeconomic theories to explain the state of national and international economies",
+          "suggested_methods": [
+            "Project: Collect data on national income and international trade variables in different periods of time",
+            "Students describe the data and interpret the findings to show the state of national and international economies",
+            "Students present their findings Teacher relates the discussions from findings with macroeconomic theories"
+          ],
+          "assessment_criteria": "Macroeconomic theories are well applied to explain the state of national and international economies",
+          "suggested_resources": [
+            "Academic Journals",
+            "Economic News Outlets",
+            "The World Bank publication, reports and policy documents related to economic development"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "econ-six-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of basic concepts, theories and principles in Economics",
+          "specific_competence": "1.2 Demonstrate mastery of economic analysis",
+          "learning_activity": "Apply macroeconomic theories to explain the levels of socio-economic development of nations",
+          "suggested_methods": [
+            "Case study: Use a case study to portray the levels of socio-economic development of nations",
+            "Have the students discuss the questions on the case studies Teacher relates the discussions with macroeconomic theories"
+          ],
+          "assessment_criteria": "Macroeconomic theories to discuss the levels of socio-economic development of nations are well applied",
+          "suggested_resources": [
+            "Journals of Development Economics",
+            "Journals of Economic Growth",
+            "The World Bank reports",
+            "International Monetary Fund (IMF) reports"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "econ-six-20"
+        },
+        {
+          "main_competence": "2.0 Conduct a project in Economics",
+          "specific_competence": "2.1 Design and carry out a project in Economics",
+          "learning_activity": "Complete and submit a report of the project developed in Form Five",
+          "suggested_methods": [
+            "Project 1: Guide students to analyse and interpret data from project developed in Form Five and present the findings",
+            "Project 2: Guide students to write the report from project developed in Form Five",
+            "Discussion: Students present and discuss their project works developed in Form Five",
+            "Teacher relates students’ discussions with the execution of research project on an appropriate economic problem in society",
+            "Students submit their projects reports"
+          ],
+          "assessment_criteria": "Simple software to analyse data collected in Form Five is well used",
+          "suggested_resources": [
+            "Academic Journals",
+            "Research projects Guidelines",
+            "Sample of research Projects"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "econ-six-21"
+        }
+      ]
+    }
+  }
+}

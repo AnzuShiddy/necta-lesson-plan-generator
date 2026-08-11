@@ -1,0 +1,564 @@
+{
+  "subject": "Biology",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727269300-BIOLOGY%20SYLLABUS%2027.05.24.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(a) Describe the concept of the cell (cell theory, organelles and biological molecules)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of the cell theory",
+            "Group discussions: Guide the students to discuss structures of typical cells and biological molecules of cell",
+            "ICT-based learning: Guide students to explore structure and functions of cells through animations",
+            "Laboratory Practical: Guide students to use prepared microscope slides to explore typical cells and their structures",
+            "Laboratory Practical: organise and guide students to conduct biochemical tests on the organic components of the cell"
+          ],
+          "assessment_criteria": "The concept of the cell is correctly described",
+          "suggested_resources": [
+            "Stains",
+            "scalpel/ razor blade/ knife",
+            "stirrer",
+            "beakers",
+            "heat source",
+            "droppers",
+            "thermometer",
+            "measuring cylinder",
+            "microscope and its accessories",
+            "and water bath"
+          ],
+          "periods_for_specific_competence": 185,
+          "id": "biol-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(b) Explain the physiology of photosynthesis (mechanism of light reaction and dark reaction in C3 and C4 plants)",
+          "suggested_methods": [
+            "Group discussion: Organise and guide students in manageable groups to discuss the physiology of photosynthesis",
+            "ICT-based learning: Guide students to explore mechanisms",
+            "Laboratory Practical: Organise and guide students to conduct experiments that demonstrate the effects of light intensity and CO2 concentration on the rate of photosynthesis"
+          ],
+          "assessment_criteria": "Physiology of photosynthesis is clearly explained",
+          "suggested_resources": [
+            "Potted plants",
+            "charts",
+            "diagrams and illustrations showing physiology of photosynthesis"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(c) Describe the structure of epithelial tissues in relation to its digestive role",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of epithelia tissue in relation to its digestive role",
+            "Exploration: Guide students to explore structures of epithelia",
+            "Guest Speaker: Invite a medical professional or a nutritionist to explain disorders of diegestive system"
+          ],
+          "assessment_criteria": "Structure of epithelia tissue in relation to its digestive role are clearly described",
+          "suggested_resources": [
+            "Microscope",
+            "microscope",
+            "microscope slides",
+            "diagrams and charts showing structure of",
+            "epithelia tissue in relation to its digestive role"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(d) Describe the physiology of gaseous exchange and respiration in mammals (transportation of gases, aerobic and anaerobic respiration mechanisms)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss physiology of gaseous exchange and respiration in mammals",
+            "ICT-based learning: Guide students to explore mechanisms of gaseous exchange and respiration in mammals using animations or video",
+            "Group Project: Organise and guide students to conduct a simple research on the effects of smoking and air pollution on the respiratory system, and present their findings"
+          ],
+          "assessment_criteria": "Physiology of gaseous exchange and respiration in mammals is correctly described",
+          "suggested_resources": [
+            "Charts",
+            "pictures",
+            "diagrams",
+            "models and videos showing physiology of gaseous exchange and respiration in mammals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(e) Explain the concept of gaseous exchange in plants (mechanism and theories of stomata opening and closing)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the concept of gaseous exchange in plants through think-ink-share to brainstorm",
+            "Group discussion: In manageable groups, guide students to discuss the mechanism and theories governing opening and closing of stomata",
+            "ICT-based learning: Guide students to explore the mechanism of gaseous exchange in plants using animations or video",
+            "Laboratory practical: Guide students to observe and measure different factors affecting opening and closing of stomata",
+            "Case Study: Guide students to analyse the adaptation plants in a drought-stricken area that allow the plant to conserve water while still allowing gaseous exchange"
+          ],
+          "assessment_criteria": "Concept of gaseous exchange in plants is clearly explained",
+          "suggested_resources": [
+            "Commelina sp",
+            "hand lens",
+            "microscope",
+            "microscope slides",
+            "slide cover",
+            "knife/ razor blade",
+            "charts",
+            "diagrams and videos on plant adaptations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(f) Describe the physiology of coordination (mechanism of transmission of nerve impulse, seeing, hearing and body balance)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm the concept of coordination",
+            "Group discussion: In manageable groups, guide students to discuss physiology of coordination",
+            "ICT-based learning: Guide students to explore the mechanism of nerve impulse transmission, seeing, hearing and body balance using animations or video"
+          ],
+          "assessment_criteria": "Physiology of coordination is clearly described",
+          "suggested_resources": [
+            "Charts",
+            "pictures",
+            "diagrams and models showing physiology of coordination"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(g) Discribe the application or role of synthetic phytohormones",
+          "suggested_methods": [
+            "Field trip: Organise and guide students to visit nearby facilities where application of synthetic phytohormones is done such as botanical gardens and health facilities"
+          ],
+          "assessment_criteria": "Application or role of synthetic phytohormones are clearly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(h) Explain the concept of regulation in mammals (feedback mechanisms, urine formation and osmoregulation)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of regulation in mammals",
+            "Exploration: Guide students to explore mechanism of urine formation, osmoregulation and feedback mechanism using digital simulations",
+            "Group discussion: Guide students in manageable groups to discuss the mechanisms of urine formation, osmoregulation and feedback mechanism",
+            "Laboratory practicals: Guide students to investigate the effect of different factors on urine formation and osmoregulation",
+            "Gust speaker: Invite a health practitioner; to guide students in analysing different cases of patients with kidney disorders and develop a treatment plan"
+          ],
+          "assessment_criteria": "Concept of regulation in mammals is correctly explained",
+          "suggested_resources": [
+            "Models",
+            "diagrams and charts showing the mechanisms of regulation in mammals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-8"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of taxonomic terminologies",
+          "specific_competence": "2.1Demonstrate an understanding of the principles of binomial nomenclature and classification",
+          "learning_activity": "(a) Explain classification systems and taxonomic rank",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the concept of classification systems and taxonomic rank",
+            "Group discussion: Guide the students to discuss types of classification system"
+          ],
+          "assessment_criteria": "The concept of classification systems and taxonomic rank are clearly explained",
+          "suggested_resources": [
+            "Specimens of living organisms (preserved or fresh)",
+            "simple constructed keys and prepared identification keys of plants and animals",
+            "pictures",
+            "photographs showing principles of binomial nomenclature"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "biol-five-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of taxonomic terminologies",
+          "specific_competence": "2.1Demonstrate an understanding of the principles of binomial nomenclature and classification",
+          "learning_activity": "(b)Describe principles of binomial nomenclature (rules of scientific naming, taxonomic and taxonomic hierarchy)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of scientific names of living",
+            "Group discussion: Guide the students to discuss principles that govern the writing of scientific names of living organisms",
+            "Project activity: Organise and guide students to observe various organisms around the school compound and construct the bracketed taxonomic keys"
+          ],
+          "assessment_criteria": "Principles of binomial nomenclature are clearly describe",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of taxonomic terminologies",
+          "specific_competence": "2.1Demonstrate an understanding of the principles of binomial nomenclature and classification",
+          "learning_activity": "(c) Apply knowledge on binomial nomenclature in different fields (forestry, medicine and agriculture)",
+          "suggested_methods": [
+            "Field trip: Organise and guide students to visit nearby places or facilities such as botanical gardens, and national parks and assign scientific names to organisms",
+            "Project activity: Organise and guide students to assign scientific names to trees present around the school compound"
+          ],
+          "assessment_criteria": "Binomial nomenclature in Biology and related field is clearly used",
+          "suggested_resources": [
+            "Specimens of living organisms (preserved or fresh)",
+            "constructed keys",
+            "prepared identification keys of plants and animals",
+            "charts",
+            "photographs",
+            "pictures and diagrams showing uses of binomial nomenclature"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-11"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of taxonomic terminologies",
+          "specific_competence": "2.1Demonstrate an understanding of the principles of binomial nomenclature and classification",
+          "learning_activity": "(d) Describe the distinctive characteristics of kingdoms, phyla/ divisions and class (Monera, Protoctista, Fungi, Plantae, and Animalia)",
+          "suggested_methods": [
+            "Jigsaw: Guide students through jigsaw to explore features of each comparative group of classification",
+            "Laboratory practicals: Guide students to carry out dissection of the selected animal to explore different systems",
+            "Snow-balling: summarise the economic importance of living organisms through snow-balling",
+            "Project activity: Guide students to perform activities such as growing different products, such as mushrooms, fruit trees",
+            "Exploration: Guide students to explore features of the dissected mammals using digital simulations."
+          ],
+          "assessment_criteria": "Distinctive characteristics of kingdoms, phyla/ divisions and class are correctly described",
+          "suggested_resources": [
+            "Varieties of living organisms (preserved or fresh) examples: yeast, bread mould, mushroom, Tilapia fish, crabs, moss plant, fern plant, conifers, mouse/rat, frog/toad, flowering plants, hand lens, dissecting kit, dissecting dish, pins,",
+            "chloroform, diagrams, charts videos and models showing dissected animals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-12"
+        },
+        {
+          "main_competence": "3.0 Conduct biological investigations",
+          "specific_competence": "3.1 Demonstrate mastery of advanced skills for conducting biological investigations",
+          "learning_activity": "(a) Apply skills used in biological investigation (observation, measurement, data collection, and report writing skills)",
+          "suggested_methods": [
+            "Group discussion: Guide the students in manageable groups to discuss the basic procedure of conducting biological investigation"
+          ],
+          "assessment_criteria": "Skills used in biological investigation are correctly described",
+          "suggested_resources": [
+            "Illustrations",
+            "diagrams",
+            "charts",
+            "and photographs showing skills used in biological investigations"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "biol-five-13"
+        },
+        {
+          "main_competence": "3.0 Conduct biological investigations",
+          "specific_competence": "3.1 Demonstrate mastery of advanced skills for conducting biological investigations",
+          "learning_activity": "(b) Plan and execute in an independent biological investigation",
+          "suggested_methods": [
+            "Inquiry-based learning: Guide students to plan/ design experiments and analyze data to develop their investigative skills",
+            "Project work: Organise and guide students to conduct biological investigations and present their findings"
+          ],
+          "assessment_criteria": "A biological investigations are clearly planned and carried out",
+          "suggested_resources": [
+            "Specimens of organisms",
+            "microscope",
+            "microscope slides",
+            "laboratory reagents and chemicals and laboratory apparatus"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-five-14"
+        },
+        {
+          "main_competence": "3.0 Conduct biological investigations",
+          "specific_competence": "3.2 Perform investigations on the anatomy and physiology of living organisms",
+          "learning_activity": "(a) Design and carry out anatomical and physiological investigations related to digestive and excretory systems, photosynthesis,     and gas exchange in living organisms",
+          "suggested_methods": [
+            "Exploration: Guide the students through animations or videos to explore steps for carrying out anatomical and physiological investigations related to digestive and excretory systems, photosynthesis, and gaseous exchange in living organisms",
+            "Laboratory practicals: Organise and guide students to carry out anatomical and physiological investigations related to digestive and excretory systems, photosynthesis, and gaseous exchange in living organisms"
+          ],
+          "assessment_criteria": "Anatomical and physiological investigations are correctly designed and carried out",
+          "suggested_resources": [
+            "Varieties of organisms",
+            "microscope",
+            "microscope slides",
+            "laboratory reagents and chemicals",
+            "laboratory apparatus and simulations"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "biol-five-15"
+        },
+        {
+          "main_competence": "4.0 Conduct a project in Biology",
+          "specific_competence": "4.1Conduct a project in Biology",
+          "learning_activity": "(a) Design and carry out a project in Biology",
+          "suggested_methods": [
+            "Project: Guide students to design a project from any Biology themes",
+            "Field trip: Task students to investigate the selected Biology theme and carry out the project"
+          ],
+          "assessment_criteria": "The project is well designed and carried out",
+          "suggested_resources": [
+            "Factories for production of different products",
+            "project guidelines",
+            "sample of project reports",
+            "laboratory facilities",
+            "and materials"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "biol-five-16"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(a) Explain the physiology and theories underlying transportation of materials in plants",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to discuss physiology and theories underlying transportation of materials in plants",
+            "ICT-based learning: Guide students to explore physiology and theories underlying transportation of materials in plants using animations or video"
+          ],
+          "assessment_criteria": "Physiology and theories underlying transportation of materials in plants are clearly explained",
+          "suggested_resources": [
+            "Microscopes slides",
+            "microscope",
+            "charts",
+            "diagrams showing vascular tissues",
+            "transparent plastic tube",
+            "seedlings",
+            "simulations",
+            "leaf such as Commelina sp.",
+            "slide cover",
+            "charts showing opening and closing of stomata"
+          ],
+          "periods_for_specific_competence": 240,
+          "id": "biol-six-17"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(b) Describe the mechanism of blood circulation in vertebrates (single, double and maternal-foetal circulation)",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, guide students to discuss the mechanism of blood circulation in vertebrates",
+            "ICT-based learning: Guide students to explore the mechanism of blood circulation in vertebrates using animations or video"
+          ],
+          "assessment_criteria": "Mechanisms of blood circulation in vertebrates are correctly described",
+          "suggested_resources": [
+            "Charts",
+            "picture",
+            "diagram of cardiac muscle",
+            "microscope slides",
+            "microscope",
+            "simulations and models showing circulatory systems"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-18"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(c) Explain growth process in plants (cell cycle, growth patterns, seed dormancy and viability, and primary and secondary growth)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of growth in plants",
+            "Group discussion: In manageable groups, guide students to discuss the process of growth in plants",
+            "ICT-based learning: Guide students to use animations/video to explore the process of growth in plants",
+            "Laboratory practical: Organise and guide students to carry out biological investigations to analyse factors affecting growth of plants",
+            "Field trip: Organise and guide students to visit a nearby place where large scale cultivation is done to observe different stages of plant growth"
+          ],
+          "assessment_criteria": "Growth process in plants is clearly explained",
+          "suggested_resources": [
+            "Charts",
+            "diagram",
+            "simulations",
+            "models",
+            "microscope slides",
+            "charts/ Diagrams showing various patterns of growth in plants",
+            "microscope",
+            "specimens of meristematic tissues",
+            "real plants",
+            "charts showing meristematic tissues and variety of seeds"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(d) Explain growth process in animals (growth patterns and metamorphosis)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of growth in animals",
+            "Group discussion: In manageable groups, guide students to discuss the process of growth in animals",
+            "ICT-based learning: Guide students to explore the process of growth in plants using digital simulations",
+            "Laboratory practicals: Organise and guide students to carry out biological investigations to analyse factors",
+            "Field trip: Organise and guide students to visit a nearby place where large scale animal keeping is done to observe different stages of animals growth"
+          ],
+          "assessment_criteria": "Growth process in animals is clearly explained",
+          "suggested_resources": [
+            "Microscope",
+            "microscope slide",
+            "charts",
+            "diagrams",
+            "models and simulations",
+            "showing various patterns of growth in animals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-20"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(e) Describe the mechanism of reproduction in plants (gametogenesis, fertilisation, and life cycles of selected plants)",
+          "suggested_methods": [
+            "Group discussion: Guide students in a manageable group to discuss the mechanism of reproduction in plants",
+            "ICT-based learning: Guide students to explore the mechanism of reproduction in plants using animations or video",
+            "Project activity: Organise and guide students to produce varieties of plants (fruits trees, vegetables, flowers)"
+          ],
+          "assessment_criteria": "Mechanisms of reproduction in plants is correctly described",
+          "suggested_resources": [
+            "Microscope slides",
+            "microscope",
+            "diagrams of endospermic and non- endospermic seeds and charts showing diagrams of life cycles of different plants"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-21"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(f) Describe the mechanism of reproduction in animals (gametogenesis, fertilisation and hormonal control of menstrual cycle, oestrus cycle and pregnancy)",
+          "suggested_methods": [
+            "Group discussion: Guide students in a manageable group to discuss the mechanism of reproduction in animals",
+            "ICT-based learning: Guide students to use animations or video to explore the mechanism of reproduction in animals",
+            "Project activity: Organise and guide students to carry out projects of producing varieties of animals"
+          ],
+          "assessment_criteria": "Mechanism of reproduction in animals is correctly described",
+          "suggested_resources": [
+            "Microscope",
+            "microscope slides",
+            "preserved specimens of selected animals",
+            "Charts",
+            "and videos showing mechanisms of reproduction in animals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(g) Describe principles of inheritance in living organisms (hereditary materials, DNA replication, protein synthesis and dihybrid inheritance).",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of inheritance in living organisms",
+            "Group discussion: Guide students in a manageable group to discuss principles of inheritance in living organisms",
+            "ICT-based learning: Guide students to explore the mechanism",
+            "Project activity: Organise and guide students to carry out a project of producing varieties of yield through the use of principle of inheritance"
+          ],
+          "assessment_criteria": "Principles of inheritance in living organisms are clearly described",
+          "suggested_resources": [
+            "Charts",
+            "models",
+            "microscope",
+            "microscope slides",
+            "photographs",
+            "pictures",
+            "video and diagrams showing principle of inheritance in living organisms"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-23"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(h) Describe theories and mechanism underlying evolution (theories of origin of life, organic evolution",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of evolution",
+            "Exploration: Guide students to use ICT to explore the theories",
+            "Group discussion: Guide students to discuss theories of origin of life and organic evolution",
+            "Field trip or ICT based learning: Organise and guide student to visit nearby museums and observe remains of man or use digital simulation to observe remain fossil records"
+          ],
+          "assessment_criteria": "Theories and mechanism underlying evolution are clearly explained",
+          "suggested_resources": [
+            "Models",
+            "diagrams and chart showing mechanisms underlying evolution"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-24"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of advanced concepts, theories and principles in Biology",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of concepts, theories and principles in Biology",
+          "learning_activity": "(i) Explain the concept of ecology (methods of studying, biodiversity, ecological     succession, and conservation methods)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through think-ink-share to brainstorm on the concept of ecology",
+            "Exploration: Guide students to explore mechanisms biodiversity, ecological succession and conservation using ICT",
+            "Group discussion: Guide students to explore methods of studying, biodiversity, ecological succession and conservation",
+            "Field trip: Organise and guide student to visit nearby national parks and zoo to"
+          ],
+          "assessment_criteria": "Concept of ecology  is correctly explained",
+          "suggested_resources": [
+            "Sampling equipment",
+            "tape measures",
+            "quadrants and notebooks",
+            "and pencil Charts or video showing mechanisms of biodiversity"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "biol-six-25"
+        },
+        {
+          "main_competence": "2.0 Conduct biological investigations",
+          "specific_competence": "2.1 Demonstrate mastery of advanced skills for conducting biological investigations",
+          "learning_activity": "(a) Prepare and present  a report based on the findings",
+          "suggested_methods": [
+            "Laboratory activity: Guide students to write biological report based on their anatomical and physiological investigations conducted using required procedures",
+            "Presentation: Guide the students to present the biological investigation report"
+          ],
+          "assessment_criteria": "Biological investigations reports are clearly prepared following scientific procedure",
+          "suggested_resources": [
+            "Note book",
+            "pencil",
+            "and relevant text on scientific report writing procedure"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "biol-six-26"
+        },
+        {
+          "main_competence": "2.0 Conduct biological investigations",
+          "specific_competence": "2.2 Perform investigations on the anatomy and physiology of living organisms",
+          "learning_activity": "(a) Design and carry out anatomical and physiological investigations related to transportation     in plants and animals, growth in plants and reproductive system",
+          "suggested_methods": [
+            "Exploration: Guide the students to explore steps for carrying out anatomical and physiological investigations related to transportation in plants and animals, growth in plants and reproductive system",
+            "Laboratory practicals: Organise and guide students to carry out anatomical and physiological investigations related to transportation in plants and animals, growth in plants and reproductive system"
+          ],
+          "assessment_criteria": "Anatomical and physiological investigations related to transportation in plants and animals, growth in plants and reproductive system are correctly designed and carried out",
+          "suggested_resources": [
+            "Varieties of organisms",
+            "microscope",
+            "microscope slides",
+            "laboratory reagents and chemicals laboratory apparatti"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "biol-six-27"
+        },
+        {
+          "main_competence": "2.0 Conduct a project in Biology",
+          "specific_competence": "2.1 Conduct a project in Biology",
+          "learning_activity": "(a) Complete and submit for assessment a scientific report of the project started in Form Five",
+          "suggested_methods": [
+            "Practical: Guide students to perform experiments of the selected Biology themes started in Form Five",
+            "Project: Guide students to analyse the experimental data by using ICT facilities and submit the synthesised product(s) and scientific report for assessment"
+          ],
+          "assessment_criteria": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+          "suggested_resources": [
+            "Samples",
+            "project guidelines",
+            "sample of project reports and biology based software"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "biol-six-28"
+        }
+      ]
+    }
+  }
+}

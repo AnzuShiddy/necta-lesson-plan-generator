@@ -1,7 +1,10 @@
 {
   "subject": "Mathematics",
   "form": "Form Three",
-  "year": 2026,
+  "year": "2026",
+  "level": "ordinary",
+  "provisional_calendar": false,
+  "provisional_note": "",
   "periods_per_week": 6,
   "total_periods": 215,
   "teaching_weeks": 37,

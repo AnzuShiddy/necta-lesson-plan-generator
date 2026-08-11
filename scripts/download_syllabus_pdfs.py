@@ -7,7 +7,8 @@ fresh clone -- or a CI runner -- has to fetch them before ingestion can run.
 Usage:
     python scripts/download_syllabus_pdfs.py --all
     python scripts/download_syllabus_pdfs.py Geography History
-    python scripts/download_syllabus_pdfs.py --all --force   # re-download
+    python scripts/download_syllabus_pdfs.py --all --force            # re-download
+    python scripts/download_syllabus_pdfs.py --all --level advanced   # Form V-VI
 """
 
 from __future__ import annotations
@@ -28,12 +29,13 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; lesson-planner/1.0)"}
 TIMEOUT = 120
 
 
-def slug(subject: str) -> str:
-    return subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
+def slug(subject: str, level: str = "ordinary") -> str:
+    s = subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
+    return s + "_advanced" if level == "advanced" else s
 
 
-def download(subject: str, url: str, force: bool) -> str:
-    dest = PDF_DIR / f"{slug(subject)}.pdf"
+def download(subject: str, url: str, force: bool, level: str) -> str:
+    dest = PDF_DIR / f"{slug(subject, level)}.pdf"
     if dest.exists() and not force:
         return f"= {subject}: already present ({dest.stat().st_size:,} bytes)"
 
@@ -59,19 +61,21 @@ def main() -> None:
     ap.add_argument("subjects", nargs="*", help="Subject names (default: --all)")
     ap.add_argument("--all", action="store_true", help="Download every listed subject")
     ap.add_argument("--force", action="store_true", help="Re-download existing files")
+    ap.add_argument("--level", default="ordinary", choices=["ordinary", "advanced"],
+                    help="ordinary = Form I-IV (default), advanced = Form V-VI")
     args = ap.parse_args()
 
-    catalog = SOURCES["subjects"]
+    catalog = SOURCES["levels"][args.level]["subjects"]
     wanted = list(catalog) if (args.all or not args.subjects) else args.subjects
 
     unknown = [s for s in wanted if s not in catalog]
     if unknown:
-        sys.exit(f"Unknown subject(s): {', '.join(unknown)}\n"
+        sys.exit(f"Unknown {args.level}-level subject(s): {', '.join(unknown)}\n"
                  f"Available: {', '.join(catalog)}")
 
     failures = 0
     for subject in wanted:
-        line = download(subject, catalog[subject], args.force)
+        line = download(subject, catalog[subject], args.force, args.level)
         print(f"  {line}")
         failures += line.startswith("!")
 

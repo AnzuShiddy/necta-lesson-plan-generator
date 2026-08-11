@@ -4,7 +4,8 @@ in the real document.
 
 Pipeline per subject:
   1. Extract the PDF text with pypdf (the ground truth).
-  2. For each Form (I-IV), send the relevant text to Claude with a strict
+  2. For each Form of the chosen level (I-IV, or V-VI with --level advanced),
+     send the relevant text to Claude with a strict
      structured-output schema and ask it to TRANSCRIBE — not invent — every
      learning activity row of the detailed-contents matrix.
   3. Write data/syllabus/<subject>.json in the shape app/syllabus.py expects.
@@ -15,6 +16,7 @@ verbatim, the result is a faithful transcription, not generated content.
 Usage:
     python scripts/ingest_syllabus.py Chemistry
     python scripts/ingest_syllabus.py --all
+    python scripts/ingest_syllabus.py Biology --level advanced   # Form V-VI
 Requires GEMINI_API_KEY (free key at https://aistudio.google.com/apikey).
 """
 
@@ -35,11 +37,35 @@ PDF_DIR = ROOT / "data" / "pdfs"
 OUT_DIR = ROOT / "data" / "syllabus"
 SOURCES = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))
 
-FORMS = ["Form One", "Form Two", "Form Three", "Form Four"]
+# Each level's forms, and how that level's syllabus PDFs head a form section.
+# `rn` is a regex alternation of every way a form's numeral is written in the
+# PDFs, including OCR/typo variants: Form IV is sometimes "1V" (digit-1 + V),
+# Form III sometimes "1II", Form VI sometimes "V1".
+LEVELS = {
+    "ordinary": {
+        "forms": ["Form One", "Form Two", "Form Three", "Form Four"],
+        "label": "Ordinary Secondary Education (Form I-IV)",
+        "aliases": {
+            "Form One":   {"rn": "I",           "word": "One",   "sw": "I"},
+            "Form Two":   {"rn": "II",          "word": "Two",   "sw": "II"},
+            "Form Three": {"rn": "(?:III|1II)", "word": "Three", "sw": "III"},
+            "Form Four":  {"rn": "(?:IV|1V)",   "word": "Four",  "sw": "IV"},
+        },
+    },
+    "advanced": {
+        "forms": ["Form Five", "Form Six"],
+        "label": "Advanced Secondary Education (Form V-VI)",
+        "aliases": {
+            "Form Five": {"rn": "V",          "word": "Five", "sw": "V"},
+            "Form Six":  {"rn": "(?:VI|V1)",  "word": "Six",  "sw": "VI"},
+        },
+    },
+}
 
 
-def slug(subject: str) -> str:
-    return subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
+def slug(subject: str, level: str = "ordinary") -> str:
+    s = subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
+    return s + "_advanced" if level == "advanced" else s
 
 
 # --- structured-output schema the model must fill (one Form at a time) --------
@@ -75,25 +101,31 @@ def extract_text(pdf_path: Path) -> str:
     return "\n".join((p.extract_text() or "") for p in reader.pages)
 
 
-def split_by_form(full_text: str) -> dict[str, str]:
-    """Slice the syllabus text into the four Form sections.
+# A contents-page line runs "... for Form VI ....... 46" — dot leaders, then a
+# page number. Real section headings are followed by the matrix instead.
+_CONTENTS_LEADER = re.compile(r"^[\s.]{0,6}\.{4,}")
+
+
+def _is_contents_entry(text: str, end: int) -> bool:
+    return bool(_CONTENTS_LEADER.match(text[end:end + 40]))
+
+
+def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
+    """Slice the syllabus text into its Form sections.
 
     The real section headings are 'Detailed Contents for Form <ROMAN>' followed
-    by the matrix header ('Main competences ...'); the first four occurrences of
-    the same phrase are table-of-contents entries (followed by dot leaders). We
-    take the LAST occurrence of each form's heading, which is always the real
-    section start. Falls back to the last bare 'Form <ROMAN>' heading if the
-    'Detailed Contents' phrasing is absent (some subjects word it differently)."""
+    by the matrix header ('Main competences ...'); the same phrase also appears
+    on the contents page, where it is followed by dot leaders. Those are dropped
+    (`_is_contents_entry`) so a form whose real heading is worded differently
+    falls through to the next pattern instead of anchoring on its contents-page
+    line — the Form V-VI Computer Science syllabus lists 'Detailed content for
+    Form VI' on the contents page but heads the section itself 'Detailed
+    contents for Form Six'. Of what survives we take the LAST occurrence, and
+    fall back to a bare 'Form <ROMAN>' heading for subjects that word it
+    differently again."""
     # Each form can be headed in English (roman or spelled-out) or Swahili.
-    # `rn` is a regex alternation of every way a form's numeral is written in
-    # the PDFs, including OCR/typo variants: Form IV is sometimes "1V" (digit-1
-    # + V), Form III sometimes "1II", etc.
-    aliases = {
-        "Form One":   {"rn": "I",            "word": "One",   "sw": "I"},
-        "Form Two":   {"rn": "II",           "word": "Two",   "sw": "II"},
-        "Form Three": {"rn": "(?:III|1II)",  "word": "Three", "sw": "III"},
-        "Form Four":  {"rn": "(?:IV|1V)",    "word": "Four",  "sw": "IV"},
-    }
+    aliases = LEVELS[level]["aliases"]
+    forms = LEVELS[level]["forms"]
     idx: dict[str, int] = {}
     for name, a in aliases.items():
         pats = [
@@ -111,12 +143,13 @@ def split_by_form(full_text: str) -> dict[str, str]:
         ]
         pos = -1
         for pat in pats:
-            hits = list(re.finditer(pat, full_text, re.IGNORECASE))
+            hits = [h for h in re.finditer(pat, full_text, re.IGNORECASE)
+                    if not _is_contents_entry(full_text, h.end())]
             if hits:
                 pos = hits[-1].start()
                 break
         idx[name] = pos
-    ordered = sorted((n for n in FORMS if idx[n] >= 0), key=lambda n: idx[n])
+    ordered = sorted((n for n in forms if idx[n] >= 0), key=lambda n: idx[n])
     out: dict[str, str] = {}
     for i, name in enumerate(ordered):
         start = idx[name]
@@ -125,14 +158,14 @@ def split_by_form(full_text: str) -> dict[str, str]:
     return out
 
 
-def ingest(subject: str) -> None:
-    pdf = PDF_DIR / f"{slug(subject)}.pdf"
+def ingest(subject: str, level: str = "ordinary") -> None:
+    pdf = PDF_DIR / f"{slug(subject, level)}.pdf"
     if not pdf.exists():
         print(f"  ! no PDF for {subject} at {pdf}", file=sys.stderr)
         return
-    print(f"→ {subject}: extracting text …")
+    print(f"→ {subject} ({level}): extracting text …")
     full = extract_text(pdf)
-    sections = split_by_form(full)
+    sections = split_by_form(full, level)
     if not sections:
         print(f"  ! could not locate Form sections in {subject}", file=sys.stderr)
         return
@@ -158,7 +191,7 @@ def ingest(subject: str) -> None:
             acts.append(d)
         forms_out[form] = {"activities": acts}
 
-    out = OUT_DIR / f"{slug(subject)}.json"
+    out = OUT_DIR / f"{slug(subject, level)}.json"
 
     # Forms rebuilt from a teacher-authored scheme of work (they carry a
     # "source" block) are richer than anything this transcription produces and
@@ -174,9 +207,9 @@ def ingest(subject: str) -> None:
 
     doc = {
         "subject": subject,
-        "level": "Ordinary Secondary Education (Form I-IV)",
+        "level": LEVELS[level]["label"],
         "syllabus_edition": "2023 (Tanzania Institute of Education)",
-        "source_pdf": SOURCES["subjects"].get(subject, ""),
+        "source_pdf": SOURCES["levels"][level]["subjects"].get(subject, ""),
         "period_length_minutes": 40,
         "forms": forms_out,
     }
@@ -190,6 +223,8 @@ def main() -> None:
     ap.add_argument("--all", action="store_true", help="Ingest every downloaded PDF")
     ap.add_argument("--force", action="store_true",
                     help="Re-ingest even subjects that already have a JSON file")
+    ap.add_argument("--level", default="ordinary", choices=list(LEVELS),
+                    help="ordinary = Form I-IV (default), advanced = Form V-VI")
     args = ap.parse_args()
 
     if not llm.has_credentials():
@@ -202,15 +237,15 @@ def main() -> None:
 
     if args.all:
         done, skipped, failed = [], [], []
-        for subj in SOURCES["subjects"]:
-            if not (PDF_DIR / f"{slug(subj)}.pdf").exists():
+        for subj in SOURCES["levels"][args.level]["subjects"]:
+            if not (PDF_DIR / f"{slug(subj, args.level)}.pdf").exists():
                 continue
-            if not args.force and (OUT_DIR / f"{slug(subj)}.json").exists():
+            if not args.force and (OUT_DIR / f"{slug(subj, args.level)}.json").exists():
                 print(f"= {subj}: already ingested (use --force to redo)")
                 skipped.append(subj)
                 continue
             try:
-                ingest(subj)
+                ingest(subj, args.level)
                 done.append(subj)
             except llm.QuotaExceeded as e:
                 print(f"  ! {subj}: daily quota hit — stopping. Re-run later to "
@@ -227,7 +262,7 @@ def main() -> None:
         if failed:
             print("  failed:  ", ", ".join(failed))
     elif args.subject:
-        ingest(args.subject)
+        ingest(args.subject, args.level)
     else:
         ap.print_help()
 

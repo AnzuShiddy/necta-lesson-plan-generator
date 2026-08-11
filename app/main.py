@@ -21,15 +21,22 @@ def index() -> str:
     return (STATIC_DIR / "index.html").read_text(encoding="utf-8")
 
 
+@app.get("/api/levels")
+def api_levels():
+    """Ordinary (Form I-IV) and Advanced (Form V-VI) — different syllabuses,
+    different school years."""
+    return {"levels": syllabus.list_levels()}
+
+
 @app.get("/api/subjects")
-def api_subjects():
+def api_subjects(level: str = "ordinary"):
     # Each entry: {"name": ..., "status": "ready"|"pdf"|"pending"}
-    return {"subjects": syllabus.list_subjects()}
+    return {"level": level, "subjects": syllabus.list_subjects(level)}
 
 
 @app.get("/api/forms")
-def api_forms(subject: str):
-    return {"forms": syllabus.list_forms(subject)}
+def api_forms(subject: str, level: str = "ordinary"):
+    return {"forms": syllabus.list_forms(subject, level)}
 
 
 @app.get("/api/scheme")

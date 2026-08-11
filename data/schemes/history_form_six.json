@@ -1,0 +1,1348 @@
+{
+  "subject": "History",
+  "form": "Form Six",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 11,
+  "total_periods": 370,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Explain the concept of threats to world peace and security (meaning and features)",
+      "activity_id": "hist-six-29",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write and discuss in groups the meanings and features of peace, security and threats to world peace and security. Let each group to present its findings to the whole class for discussion"
+      ],
+      "assessment": "The concept of threats to world peace and security is clearly explained",
+      "resources": [
+        "Written texts and written texts in braille on threats to World peace and Security"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Explain the concept of threats to world peace and security (meaning and features)",
+      "activity_id": "hist-six-29",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write and discuss in groups the meanings and features of peace, security and threats to world peace and security. Let each group to present its findings to the whole class for discussion"
+      ],
+      "assessment": "The concept of threats to world peace and security is clearly explained",
+      "resources": [
+        "Written texts and written texts in braille on threats to World peace and Security"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Analyse the great wars fought from the 17th to the 19th Century and their impacts on world peace and security (30 Years War, Napoleonic war, and Franco-Prussian war)",
+      "activity_id": "hist-six-30",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to explore from different sources the great wars that happened from the 17th to 19th Century and their impacts on world peace and security. Let each group focus on either the 30 Years War, or Napoleonic war, or Franco-Prussian War. Let each group present the findings in a class for discussion"
+      ],
+      "assessment": "The great wars fought from the 17th to the 19th Century and their impacts on world peace and security are well analysed",
+      "resources": [
+        "Written texts about the great wars from 17th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Analyse the great wars fought from the 17th to the 19th Century and their impacts on world peace and security (30 Years War, Napoleonic war, and Franco-Prussian war)",
+      "activity_id": "hist-six-30",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to explore from different sources the great wars that happened from the 17th to 19th Century and their impacts on world peace and security. Let each group focus on either the 30 Years War, or Napoleonic war, or Franco-Prussian War. Let each group present the findings in a class for discussion"
+      ],
+      "assessment": "The great wars fought from the 17th to the 19th Century and their impacts on world peace and security are well analysed",
+      "resources": [
+        "Written texts about the great wars from 17th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Discuss the ways in which great wars fought from the 17th to the 19th Century generated new ideas on world peace and security (Westphalia Treaty, sovereignty, balance of power and military alliances)",
+      "activity_id": "hist-six-31",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to examine from different sources the ways great wars from the 17th and 19th Century generated new ideas on world peace and security. Let each group focus on either the Westphalia Treaty or sovereignty or balance of power or military alliances. Let each group present the findings in a class for discussion."
+      ],
+      "assessment": "The ways in which great wars fought from the 17th to the 19th Century generated new ideas on world peace and security are clearly discussed",
+      "resources": [
+        "Written texts about the great wars from 17th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.1 Demonstrate an understanding of the history of the great wars of the 17th to 19th Century",
+      "learning_activity": "Discuss the ways in which great wars fought from the 17th to the 19th Century generated new ideas on world peace and security (Westphalia Treaty, sovereignty, balance of power and military alliances)",
+      "activity_id": "hist-six-31",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Jigsaw: Divide students into manageable groups and assign each group to examine from different sources the ways great wars from the 17th and 19th Century generated new ideas on world peace and security. Let each group focus on either the Westphalia Treaty or sovereignty or balance of power or military alliances. Let each group present the findings in a class for discussion."
+      ],
+      "assessment": "The ways in which great wars fought from the 17th to the 19th Century generated new ideas on world peace and security are clearly discussed",
+      "resources": [
+        "Written texts about the great wars from 17th to 19th Century"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s (Colonial rivalries, First World War, Manchuria crisis and Second World War)",
+      "activity_id": "hist-six-32",
+      "periods": 6,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write, and discuss in groups the contribution of world wars and tensions namely colonial rivalries, First and Second World Wars and the Manchuria Crisis in undermining world peace and security from the late 19th century to the 1940s. Let each group to present its findings to the whole class for discussion."
+      ],
+      "assessment": "The contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s are clearly examined",
+      "resources": [
+        "Online resources on world wars of the 19th Century to 1940s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s (Colonial rivalries, First World War, Manchuria crisis and Second World War)",
+      "activity_id": "hist-six-32",
+      "periods": 12,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write, and discuss in groups the contribution of world wars and tensions namely colonial rivalries, First and Second World Wars and the Manchuria Crisis in undermining world peace and security from the late 19th century to the 1940s. Let each group to present its findings to the whole class for discussion."
+      ],
+      "assessment": "The contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s are clearly examined",
+      "resources": [
+        "Online resources on world wars of the 19th Century to 1940s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s (Colonial rivalries, First World War, Manchuria crisis and Second World War)",
+      "activity_id": "hist-six-32",
+      "periods": 10,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Think-Ink- Pair-Share: In collaborative team, students to read, write, and discuss in groups the contribution of world wars and tensions namely colonial rivalries, First and Second World Wars and the Manchuria Crisis in undermining world peace and security from the late 19th century to the 1940s. Let each group to present its findings to the whole class for discussion."
+      ],
+      "assessment": "The contributions of world wars and tensions in undermining world peace and security from the late 19th Century to 1940s are clearly examined",
+      "resources": [
+        "Online resources on world wars of the 19th Century to 1940s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Discuss changing efforts pursued to overcome threats to world peace from the late 19th Century to the 1940s (Berlin Conference, Versailles Peace Treaty, the League of Nations, and the United Nations)",
+      "activity_id": "hist-six-33",
+      "periods": 2,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the changing efforts to overcome threats to world peace from the late 19th Century by focusing on the efforts taken in Berlin Conference, Versailles Treaty, League of Nations, and United Nations. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace from the late 19th Century to 1940s are clearly discussed.",
+      "resources": [
+        "Written texts on the efforts to overcome threats to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Discuss changing efforts pursued to overcome threats to world peace from the late 19th Century to the 1940s (Berlin Conference, Versailles Peace Treaty, the League of Nations, and the United Nations)",
+      "activity_id": "hist-six-33",
+      "periods": 11,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the changing efforts to overcome threats to world peace from the late 19th Century by focusing on the efforts taken in Berlin Conference, Versailles Treaty, League of Nations, and United Nations. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace from the late 19th Century to 1940s are clearly discussed.",
+      "resources": [
+        "Written texts on the efforts to overcome threats to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Discuss changing efforts pursued to overcome threats to world peace from the late 19th Century to the 1940s (Berlin Conference, Versailles Peace Treaty, the League of Nations, and the United Nations)",
+      "activity_id": "hist-six-33",
+      "periods": 11,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the changing efforts to overcome threats to world peace from the late 19th Century by focusing on the efforts taken in Berlin Conference, Versailles Treaty, League of Nations, and United Nations. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace from the late 19th Century to 1940s are clearly discussed.",
+      "resources": [
+        "Written texts on the efforts to overcome threats to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Discuss changing efforts pursued to overcome threats to world peace from the late 19th Century to the 1940s (Berlin Conference, Versailles Peace Treaty, the League of Nations, and the United Nations)",
+      "activity_id": "hist-six-33",
+      "periods": 4,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups let students explore from relevant references the changing efforts to overcome threats to world peace from the late 19th Century by focusing on the efforts taken in Berlin Conference, Versailles Treaty, League of Nations, and United Nations. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace from the late 19th Century to 1940s are clearly discussed.",
+      "resources": [
+        "Written texts on the efforts to overcome threats to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the extent to which cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s",
+      "activity_id": "hist-six-34",
+      "periods": 7,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from relevant sources the extent to which the Cold War and arms race threatened world peace and security from the 1940s to 1990s. Let each group present the findings in the class."
+      ],
+      "assessment": "The cold war politics and the arms race that threatened world peace and security from the 1940s to the 1990s are clearly examined",
+      "resources": [
+        "Online resources on cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the extent to which cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s",
+      "activity_id": "hist-six-34",
+      "periods": 11,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from relevant sources the extent to which the Cold War and arms race threatened world peace and security from the 1940s to 1990s. Let each group present the findings in the class."
+      ],
+      "assessment": "The cold war politics and the arms race that threatened world peace and security from the 1940s to the 1990s are clearly examined",
+      "resources": [
+        "Online resources on cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the extent to which cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s",
+      "activity_id": "hist-six-34",
+      "periods": 10,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore from relevant sources the extent to which the Cold War and arms race threatened world peace and security from the 1940s to 1990s. Let each group present the findings in the class."
+      ],
+      "assessment": "The cold war politics and the arms race that threatened world peace and security from the 1940s to the 1990s are clearly examined",
+      "resources": [
+        "Online resources on cold war politics and the arms race threatened world peace and security from the 1940s to the 1990s"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the efforts made to overcome threats to world peace caused by cold war politics and the arms race (Nuclear Proliferation Treaties SALT I, SALT II), Camp David Peace Accord 1979 and Oslo Accord 1993)",
+      "activity_id": "hist-six-35",
+      "periods": 1,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups allow students to explore from relevant references the efforts to overcome threats to world peace caused by the Cold War and politics by focusing on Nuclear Proliferation Treaties (SALT and Treaties SALT I, SALT II), the Camp David Peace Accord and Oslo Accord. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace and security caused by cold war politics and the arms race are well examined.",
+      "resources": [
+        "ICT devices with contents on the improvement of relationship between the antagonists of the cold war"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the efforts made to overcome threats to world peace caused by cold war politics and the arms race (Nuclear Proliferation Treaties SALT I, SALT II), Camp David Peace Accord 1979 and Oslo Accord 1993)",
+      "activity_id": "hist-six-35",
+      "periods": 11,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups allow students to explore from relevant references the efforts to overcome threats to world peace caused by the Cold War and politics by focusing on Nuclear Proliferation Treaties (SALT and Treaties SALT I, SALT II), the Camp David Peace Accord and Oslo Accord. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace and security caused by cold war politics and the arms race are well examined.",
+      "resources": [
+        "ICT devices with contents on the improvement of relationship between the antagonists of the cold war"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the efforts made to overcome threats to world peace caused by cold war politics and the arms race (Nuclear Proliferation Treaties SALT I, SALT II), Camp David Peace Accord 1979 and Oslo Accord 1993)",
+      "activity_id": "hist-six-35",
+      "periods": 11,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups allow students to explore from relevant references the efforts to overcome threats to world peace caused by the Cold War and politics by focusing on Nuclear Proliferation Treaties (SALT and Treaties SALT I, SALT II), the Camp David Peace Accord and Oslo Accord. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace and security caused by cold war politics and the arms race are well examined.",
+      "resources": [
+        "ICT devices with contents on the improvement of relationship between the antagonists of the cold war"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.2 Demonstrate an understanding of the history of conflicts and wars of the 20th Century",
+      "learning_activity": "Examine the efforts made to overcome threats to world peace caused by cold war politics and the arms race (Nuclear Proliferation Treaties SALT I, SALT II), Camp David Peace Accord 1979 and Oslo Accord 1993)",
+      "activity_id": "hist-six-35",
+      "periods": 4,
+      "activity_total_periods": 27,
+      "teaching_learning_activities": [
+        "Discussion: In manageable groups allow students to explore from relevant references the efforts to overcome threats to world peace caused by the Cold War and politics by focusing on Nuclear Proliferation Treaties (SALT and Treaties SALT I, SALT II), the Camp David Peace Accord and Oslo Accord. Let them discuss and present the findings to all members of a class."
+      ],
+      "assessment": "The efforts to overcome threats to world peace and security caused by cold war politics and the arms race are well examined.",
+      "resources": [
+        "ICT devices with contents on the improvement of relationship between the antagonists of the cold war"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Examine the rise of new threats to world peace and security (terrorism and asymmetric war, cyber security, radicalism)",
+      "activity_id": "hist-six-36",
+      "periods": 7,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore the rise of new threats to world peace and security by focusing on terrorism, asymmetric war, cyber security, and radicalism. Let each group discuss and present the findings in the class."
+      ],
+      "assessment": "The rise of new threats to world peace and security is clearly examined",
+      "resources": [
+        "ICT devices with contents on terrorism and cyber security"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Examine the rise of new threats to world peace and security (terrorism and asymmetric war, cyber security, radicalism)",
+      "activity_id": "hist-six-36",
+      "periods": 7,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to explore the rise of new threats to world peace and security by focusing on terrorism, asymmetric war, cyber security, and radicalism. Let each group discuss and present the findings in the class."
+      ],
+      "assessment": "The rise of new threats to world peace and security is clearly examined",
+      "resources": [
+        "ICT devices with contents on terrorism and cyber security"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Discuss the differences between traditional and new threats to world peace and security (nature, character and pattern)",
+      "activity_id": "hist-six-37",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Case studies: Provide students with texts on traditional and new threats to world peace and security to read on nature, character, and pattern. Then organise students in manageable groups to differentiate new threats from traditional threats to world peace and security in terms of nature, character and pattern."
+      ],
+      "assessment": "Differences between traditional and new threats to world peace and security in terms of nature, character and pattern are clearly discussed",
+      "resources": [
+        "Written texts on traditional and new threat to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Discuss the differences between traditional and new threats to world peace and security (nature, character and pattern)",
+      "activity_id": "hist-six-37",
+      "periods": 9,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Case studies: Provide students with texts on traditional and new threats to world peace and security to read on nature, character, and pattern. Then organise students in manageable groups to differentiate new threats from traditional threats to world peace and security in terms of nature, character and pattern."
+      ],
+      "assessment": "Differences between traditional and new threats to world peace and security in terms of nature, character and pattern are clearly discussed",
+      "resources": [
+        "Written texts on traditional and new threat to world peace"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Discuss strategies to overcome new threats to world peace and security",
+      "activity_id": "hist-six-38",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to identify from relevant sources new threats to world peace and security and find out different ways to overcome each threat. Let each group present in the class for discussion."
+      ],
+      "assessment": "strategies to overcome new threats to world peace and security are clearly discussed",
+      "resources": [
+        "Written texts on strategies to overcome new threats"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.3 Demonstrate an understanding of new threats to world peace and security",
+      "learning_activity": "Discuss strategies to overcome new threats to world peace and security",
+      "activity_id": "hist-six-38",
+      "periods": 11,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in manageable groups to identify from relevant sources new threats to world peace and security and find out different ways to overcome each threat. Let each group present in the class for discussion."
+      ],
+      "assessment": "strategies to overcome new threats to world peace and security are clearly discussed",
+      "resources": [
+        "Written texts on strategies to overcome new threats"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Examine the nature and character of ethnic and civil wars and the threats they pose on world peace and security ( Kosovo conflict, Rwanda and Burundi Civil Wars, Somalia, Central Africa Republic, Mali, Rohingya, Cambodia, Yemen, the Palestinian-Israel conflict)",
+      "activity_id": "hist-six-39",
+      "periods": 11,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in their groups to explore from references the meaning of ethnic and civil war. Let them investigate the nature and character of each ethnic and civil wars and the threats they pose on world peace and security by focusing on Kosovo conflict, Rwanda and Burundi Civil Wars, Somalia, Rohingya, Cambodia, Yemen, and the Palestinian-Israel conflict. Let groups share the findings of each group to the whole class for discuss"
+      ],
+      "assessment": "The nature and character of ethnic and civil wars and threats to world peace and security is clearly examined",
+      "resources": [
+        "ICT devices with contents on ethnic and inter-ethnic wars"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Examine the nature and character of ethnic and civil wars and the threats they pose on world peace and security ( Kosovo conflict, Rwanda and Burundi Civil Wars, Somalia, Central Africa Republic, Mali, Rohingya, Cambodia, Yemen, the Palestinian-Israel conflict)",
+      "activity_id": "hist-six-39",
+      "periods": 5,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Discussion: Guide students in their groups to explore from references the meaning of ethnic and civil war. Let them investigate the nature and character of each ethnic and civil wars and the threats they pose on world peace and security by focusing on Kosovo conflict, Rwanda and Burundi Civil Wars, Somalia, Rohingya, Cambodia, Yemen, and the Palestinian-Israel conflict. Let groups share the findings of each group to the whole class for discuss"
+      ],
+      "assessment": "The nature and character of ethnic and civil wars and threats to world peace and security is clearly examined",
+      "resources": [
+        "ICT devices with contents on ethnic and inter-ethnic wars"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Examine the extent to which ethnic and civil wars are connected to the global industrial-military complex",
+      "activity_id": "hist-six-40",
+      "periods": 6,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Case study: Let students in groups study a case of the USA, Britain, France, Russia, China and Germany industrial military complex. From the case study, allow students to investigate the extent to which ethnic and civil wars are connected with the global industrial-military complex."
+      ],
+      "assessment": "The connection between ethnic and civil wars to global industrial military complex is well examined",
+      "resources": [
+        "Online resources on the relationship between ethnic wars and global industrial military complex"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Examine the extent to which ethnic and civil wars are connected to the global industrial-military complex",
+      "activity_id": "hist-six-40",
+      "periods": 10,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Case study: Let students in groups study a case of the USA, Britain, France, Russia, China and Germany industrial military complex. From the case study, allow students to investigate the extent to which ethnic and civil wars are connected with the global industrial-military complex."
+      ],
+      "assessment": "The connection between ethnic and civil wars to global industrial military complex is well examined",
+      "resources": [
+        "Online resources on the relationship between ethnic wars and global industrial military complex"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Discuss peace building strategies in countries affected by ethnic and civil wars",
+      "activity_id": "hist-six-41",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Discussion: Guide students to discuss how their societies build and maintain peace and share their ideas with the whole class. Let students in groups to relate their findings with the peace building strategies in countries affected by ethnic and civil wars."
+      ],
+      "assessment": "The peace building strategies are well discussed",
+      "resources": [
+        "Online resources on peace building strategies"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Discuss peace building strategies in countries affected by ethnic and civil wars",
+      "activity_id": "hist-six-41",
+      "periods": 11,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Discussion: Guide students to discuss how their societies build and maintain peace and share their ideas with the whole class. Let students in groups to relate their findings with the peace building strategies in countries affected by ethnic and civil wars."
+      ],
+      "assessment": "The peace building strategies are well discussed",
+      "resources": [
+        "Online resources on peace building strategies"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "1.0 Demonstrate mastery of the history of threats to world peace",
+      "specific_competence": "1.4 Demonstrate an understanding of the threats to world peace resulting from civil and ethnic wars",
+      "learning_activity": "Discuss peace building strategies in countries affected by ethnic and civil wars",
+      "activity_id": "hist-six-41",
+      "periods": 4,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Discussion: Guide students to discuss how their societies build and maintain peace and share their ideas with the whole class. Let students in groups to relate their findings with the peace building strategies in countries affected by ethnic and civil wars."
+      ],
+      "assessment": "The peace building strategies are well discussed",
+      "resources": [
+        "Online resources on peace building strategies"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Explain the concept of development in post-colonial Africa (meaning and indicators)",
+      "activity_id": "hist-six-42",
+      "periods": 7,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to brainstorm on the concept of development and let them identify different indicators of development in post-colonial Africa. Facilitate them to present in the class for discussion."
+      ],
+      "assessment": "The concept of development in post-colonial Africa is well explained",
+      "resources": [
+        "Online resources on the concept of development in post-colonial Africa"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Explain the concept of development in post-colonial Africa (meaning and indicators)",
+      "activity_id": "hist-six-42",
+      "periods": 11,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to brainstorm on the concept of development and let them identify different indicators of development in post-colonial Africa. Facilitate them to present in the class for discussion."
+      ],
+      "assessment": "The concept of development in post-colonial Africa is well explained",
+      "resources": [
+        "Online resources on the concept of development in post-colonial Africa"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Explain the concept of development in post-colonial Africa (meaning and indicators)",
+      "activity_id": "hist-six-42",
+      "periods": 5,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to brainstorm on the concept of development and let them identify different indicators of development in post-colonial Africa. Facilitate them to present in the class for discussion."
+      ],
+      "assessment": "The concept of development in post-colonial Africa is well explained",
+      "resources": [
+        "Online resources on the concept of development in post-colonial Africa"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Appraise political, economic, and social developments in different regions of Africa from the 1960 to present ( Eastern, Western, Southern and Northern Africa)",
+      "activity_id": "hist-six-43",
+      "periods": 6,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to investigate on political, economic, and social developments that are available in their society and share in the class, and then let them evaluate and share the political, economic, and social developments in different countries in Africa from Eastern, Western, Southern and Northern African regions from the 1960 to the present."
+      ],
+      "assessment": "Political, economic and social developments in different regions of Africa from the 1960s to present are well evaluated",
+      "resources": [
+        "ICT devices with contents political, economic, and social developments in different regions of Africa from the 1960 to present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Appraise political, economic, and social developments in different regions of Africa from the 1960 to present ( Eastern, Western, Southern and Northern Africa)",
+      "activity_id": "hist-six-43",
+      "periods": 11,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to investigate on political, economic, and social developments that are available in their society and share in the class, and then let them evaluate and share the political, economic, and social developments in different countries in Africa from Eastern, Western, Southern and Northern African regions from the 1960 to the present."
+      ],
+      "assessment": "Political, economic and social developments in different regions of Africa from the 1960s to present are well evaluated",
+      "resources": [
+        "ICT devices with contents political, economic, and social developments in different regions of Africa from the 1960 to present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Appraise political, economic, and social developments in different regions of Africa from the 1960 to present ( Eastern, Western, Southern and Northern Africa)",
+      "activity_id": "hist-six-43",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to investigate on political, economic, and social developments that are available in their society and share in the class, and then let them evaluate and share the political, economic, and social developments in different countries in Africa from Eastern, Western, Southern and Northern African regions from the 1960 to the present."
+      ],
+      "assessment": "Political, economic and social developments in different regions of Africa from the 1960s to present are well evaluated",
+      "resources": [
+        "ICT devices with contents political, economic, and social developments in different regions of Africa from the 1960 to present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Discuss the internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present",
+      "activity_id": "hist-six-44",
+      "periods": 6,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Think-Ink-Pair- Share: Guide students in groups to identify the factors hindering development in their societies and share their ideas in the class.",
+        "Discussion: Facilitate students to discuss and share the internal and external factors hindering political, social, technological, and economic developments in Africa from the 1960s to the present"
+      ],
+      "assessment": "The internal and external factors hindering political, social, technological, and economic development in Africa from the 1960s to the present are well discussed.",
+      "resources": [
+        "Online resources on internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Discuss the internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present",
+      "activity_id": "hist-six-44",
+      "periods": 11,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Think-Ink-Pair- Share: Guide students in groups to identify the factors hindering development in their societies and share their ideas in the class.",
+        "Discussion: Facilitate students to discuss and share the internal and external factors hindering political, social, technological, and economic developments in Africa from the 1960s to the present"
+      ],
+      "assessment": "The internal and external factors hindering political, social, technological, and economic development in Africa from the 1960s to the present are well discussed.",
+      "resources": [
+        "Online resources on internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "2.0 Demonstrate mastery of the history of development in Africa",
+      "specific_competence": "2.1 Demonstrate an understanding of the history of development in post-colonial Africa",
+      "learning_activity": "Discuss the internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present",
+      "activity_id": "hist-six-44",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Think-Ink-Pair- Share: Guide students in groups to identify the factors hindering development in their societies and share their ideas in the class.",
+        "Discussion: Facilitate students to discuss and share the internal and external factors hindering political, social, technological, and economic developments in Africa from the 1960s to the present"
+      ],
+      "assessment": "The internal and external factors hindering political, social, technological, and economic development in Africa from the 1960s to the present are well discussed.",
+      "resources": [
+        "Online resources on internal and external factors hindering political, social, technological and economic development in Africa from the 1960s to the present"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0 Conduct a project in History",
+      "specific_competence": "3.1 Conduct a project in History",
+      "learning_activity": "Complete and submit for assessment the project initiated in Form Five",
+      "activity_id": "hist-six-45",
+      "periods": 6,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Guide the students to write and submit a report on the project initiated in Form Five"
+      ],
+      "assessment": "A project in History is well written and submitted for assessment",
+      "resources": [
+        "Online resources conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10-3",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "3.0 Conduct a project in History",
+      "specific_competence": "3.1 Conduct a project in History",
+      "learning_activity": "Complete and submit for assessment the project initiated in Form Five",
+      "activity_id": "hist-six-45",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Guide the students to write and submit a report on the project initiated in Form Five"
+      ],
+      "assessment": "A project in History is well written and submitted for assessment",
+      "resources": [
+        "Online resources conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "3.0 Conduct a project in History",
+      "specific_competence": "3.1 Conduct a project in History",
+      "learning_activity": "Complete and submit for assessment the project initiated in Form Five",
+      "activity_id": "hist-six-45",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Guide the students to write and submit a report on the project initiated in Form Five"
+      ],
+      "assessment": "A project in History is well written and submitted for assessment",
+      "resources": [
+        "Online resources conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "3.0 Conduct a project in History",
+      "specific_competence": "3.1 Conduct a project in History",
+      "learning_activity": "Complete and submit for assessment the project initiated in Form Five",
+      "activity_id": "hist-six-45",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Guide the students to write and submit a report on the project initiated in Form Five"
+      ],
+      "assessment": "A project in History is well written and submitted for assessment",
+      "resources": [
+        "Online resources conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "3.0 Conduct a project in History",
+      "specific_competence": "3.1 Conduct a project in History",
+      "learning_activity": "Complete and submit for assessment the project initiated in Form Five",
+      "activity_id": "hist-six-45",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Guide the students to write and submit a report on the project initiated in Form Five"
+      ],
+      "assessment": "A project in History is well written and submitted for assessment",
+      "resources": [
+        "Online resources conducting project in History"
+      ],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, History for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}
