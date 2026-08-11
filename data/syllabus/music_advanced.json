@@ -1,0 +1,321 @@
+{
+  "subject": "Music",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727271361-MUSIC%20SYLLABUS%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0.   Demonstrate mastery of some advanced theories and principles of music",
+          "specific_competence": "1.1  Demonstrate an understanding of the fundamentals of music theory",
+          "learning_activity": "Describe the fundamentals of reading and writing music based on ABRSM Music Theory Grade V (Rhythm, scales and key signatures, and melody and harmony)",
+          "suggested_methods": [
+            "ICT- based learning: Guide students to use different software applications to read and write music based on ABRSM Music Theory Grade V",
+            "Flash Cards: Provide flashcards of simple known melodies with missing notes or accidentals for students to fill -in",
+            "Case Study: Guide students to analyse and present known written musical pieces based on what is covered in ABRSM Music Theory Grade V"
+          ],
+          "assessment_criteria": "Fundamentals of reading and writing music based on ABRSM Music Theory Grade V are described correctly",
+          "suggested_resources": [
+            "ABRSM music theory guideline",
+            "music scores",
+            "music sheets",
+            "piano",
+            "guitar and ngoma"
+          ],
+          "periods_for_specific_competence": 65,
+          "id": "musi-five-1"
+        },
+        {
+          "main_competence": "1.0.   Demonstrate mastery of some advanced theories and principles of music",
+          "specific_competence": "1.2 Demonstrate an understanding of some advanced theories of music",
+          "learning_activity": "Describe theories related to the origins of different music traditions in East Africa",
+          "suggested_methods": [
+            "Think-ink-pair-share: Task the students to review literary works on theories related to the origin of music traditions in East Africa and make presentations"
+          ],
+          "assessment_criteria": "Theories related to origins of music traditions in East Africa are described correctly",
+          "suggested_resources": [
+            "Audio and video clips of various East African traditional ensemble performances"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "musi-five-2"
+        },
+        {
+          "main_competence": "2.0.   Perform music",
+          "specific_competence": "2.1    Sing local and foreign songs",
+          "learning_activity": "Sing extended local and foreign songs",
+          "suggested_methods": [
+            "Snow-balling: Provide melodies in flash-cards and snow-ball students to sing individually in different voice parts"
+          ],
+          "assessment_criteria": "Extended local and foreign songs are sung correctly",
+          "suggested_resources": [
+            "Piano",
+            "guitar",
+            "ngoma",
+            "audio and video clips of extended local and foreign songs",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "musi-five-3"
+        },
+        {
+          "main_competence": "2.0.   Perform music",
+          "specific_competence": "2.2    Play local and foreign musical instruments",
+          "learning_activity": "(a) Use music notation software to write music for pitched musical instruments",
+          "suggested_methods": [
+            "ICT-based learning: Task the students to use different notation software to write music for pitched musical instruments"
+          ],
+          "assessment_criteria": "Music for pitched musical instruments are written correctly using notation software",
+          "suggested_resources": [
+            "Electronic device installed with a notation software",
+            "piano",
+            "guitar",
+            "ngoma",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "musi-five-4"
+        },
+        {
+          "main_competence": "2.0.   Perform music",
+          "specific_competence": "2.2    Play local and foreign musical instruments",
+          "learning_activity": "(b) Use local and foreign musical instruments (strings, percussion and wind) to accompany songs in an ensemble",
+          "suggested_methods": [
+            "Student music clubs: Task students to form musical ensembles and perform songs with local and foreign instrumental accompaniment",
+            "Projects: Task the students to accompany patriotic songs using relevant local and foreign musical instruments"
+          ],
+          "assessment_criteria": "Song are well accompanied  in an ensemble using local and foreign musical instruments",
+          "suggested_resources": [
+            "Zeze",
+            "guitar",
+            "ngoma",
+            "filimbi",
+            "baragumu",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "musi-five-5"
+        },
+        {
+          "main_competence": "2.0.   Perform music",
+          "specific_competence": "2.3   Demonstrate an understanding of the principles of professional ethical conduct in the music industry",
+          "learning_activity": "Discuss the ethics, norms and values governing the music industry in Tanzania (things that are acceptable, and tolerable against the things that are taboo).",
+          "suggested_methods": [
+            "Problem-based learning: Guide students to identify value and ethics related problems and suggest solutions",
+            "Debate: Guide students to debate on the current musical moral standards in Tanzania",
+            "Self-reflection: Guide students into self-reflection on their own ethical upbringing in relation to the foreign music industry"
+          ],
+          "assessment_criteria": "Ethics, norms and values governing the music industry in Tanzania are well discussed",
+          "suggested_resources": [
+            "BASATA and COSOTA guidelines and audio/ video clips of Tanzanian music"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "musi-five-6"
+        },
+        {
+          "main_competence": "3.0    Use ICT in the music industry",
+          "specific_competence": "3.1  Use ICT to produce and master music",
+          "learning_activity": "(a)   Mix different song productions using ICT",
+          "suggested_methods": [
+            "ICT - based Learning:",
+            "Task the students to mix various songs using various music software and present for review"
+          ],
+          "assessment_criteria": "Different song productions are mixed successfully using ICT",
+          "suggested_resources": [
+            "A computer installed with DAW",
+            "MIDI controller",
+            "sound card",
+            "studio microphone and studio monitors"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "musi-five-7"
+        },
+        {
+          "main_competence": "3.0    Use ICT in the music industry",
+          "specific_competence": "3.1  Use ICT to produce and master music",
+          "learning_activity": "(b) Perform the mastering (finishing) of different song productions using ICT",
+          "suggested_methods": [
+            "ICT - based Learning:",
+            "Task students to master music projects using various music software and present for review"
+          ],
+          "assessment_criteria": "Different song productions are mastered successfully using ICT",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "musi-five-8"
+        },
+        {
+          "main_competence": "4.0    Conduct a project in music",
+          "specific_competence": "4.1    Design and conduct a project in music",
+          "learning_activity": "Design and carry out a project in music",
+          "suggested_methods": [
+            "Project: Facilitate several research projects on music for students to review",
+            "Group discussion: Have the students engage in discussions on various musical matters"
+          ],
+          "assessment_criteria": "A project in music is designed and carried out successfully",
+          "suggested_resources": [
+            "Videos related to successful music business ventures",
+            "and industry reports and market research"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "musi-five-9"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0. Demonstrate mastery of some advanced theories and principles of music",
+          "specific_competence": "1.1   Demonstrate an understanding of the fundamentals of music theory",
+          "learning_activity": "Describe the fundamentals of reading and writing music based on ABRSM Music Theory Grade VI (Rhythm, and melody and harmony)",
+          "suggested_methods": [
+            "Flash Cards: Handle out flashcards of questions and problems concerning reading and writing music based on what is covered in ABRSM Music Theory Grade VI",
+            "Case Study: Guide students to explore known written music based on what is covered in ABRSM Music Theory Grade VI",
+            "Problem-based learning: Provide students with erroneous musical pieces for them to detect the errors and write a review."
+          ],
+          "assessment_criteria": "Fundamentals of reading and writing music based on ABRSM Music Theory Grade VI are explained correctly",
+          "suggested_resources": [
+            "ABRSM music theory guideline",
+            "music scores",
+            "music sheets",
+            "piano",
+            "guitar and ngoma"
+          ],
+          "periods_for_specific_competence": 90,
+          "id": "musi-six-10"
+        },
+        {
+          "main_competence": "1.0. Demonstrate mastery of some advanced theories and principles of music",
+          "specific_competence": "1.2.  Demonstrate an understanding of some advanced theories of music",
+          "learning_activity": "Describe the theories related to origins of different music traditions in Africa",
+          "suggested_methods": [
+            "Think-ink-pair-share: Task students to review literary works related to theories on the origins of different music traditions in Africa and make presentations in class"
+          ],
+          "assessment_criteria": "Theories related to origins of different music traditions in Africa are explained correctly",
+          "suggested_resources": [
+            "Audio and video clips of various African traditional ensemble performances"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "musi-six-11"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.1   Compose music in different languages",
+          "learning_activity": "(a)  Transpose various song compositions",
+          "suggested_methods": [
+            "Flash Cards: Handle out flashcards of pieces that need to be transposed",
+            "Case Study: Guide students to explore known written musical pieces based on what is covered in ABRSM Music Theory Grade VI",
+            "Problem-based learning: Provide students with erroneous musical pieces for them to detect the errors and write a review."
+          ],
+          "assessment_criteria": "Various song  compositions are transposed correctly",
+          "suggested_resources": [
+            "Piano",
+            "guitar",
+            "ngoma",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "musi-six-12"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.1   Compose music in different languages",
+          "learning_activity": "(b) Modulate songs composed in various languages",
+          "suggested_methods": [
+            "ICT-based learning: Task the students to use different music applications to modulate songs composed in various languages"
+          ],
+          "assessment_criteria": "Songs composed in various languages are modulated correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "musi-six-13"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.1   Compose music in different languages",
+          "learning_activity": "(c) Transcribe various song compositions",
+          "suggested_methods": [
+            "ICT-based learning: Task the students to use different music applications to transcribe various song compositions"
+          ],
+          "assessment_criteria": "Various song compositions are transcribed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "musi-six-14"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.2   Sing local and foreign songs",
+          "learning_activity": "Sing various multi-part songs using relevant techniques",
+          "suggested_methods": [
+            "Snow-balling: Snow-ball different students to sing voice parts individually",
+            "Case study: Avail the students with several cases portraying different singing techniques",
+            "Student music club: Task students to form music ensembles and sing multi-part songs using relevant techniques"
+          ],
+          "assessment_criteria": "Multi-part songs using relevant techniques are sung correctly",
+          "suggested_resources": [
+            "Videos/audios of multi-part harmony songs",
+            "piano",
+            "guitar",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "musi-six-15"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.3    Play local and foreign musical instruments",
+          "learning_activity": "(a) Use notation software to write music for  unpitched musical instruments",
+          "suggested_methods": [
+            "ICT-based learning: Task students to use notation software to write music for  unpitched musical instruments"
+          ],
+          "assessment_criteria": "Music for unpitched musical instruments are written correctly using notation software",
+          "suggested_resources": [
+            "Electronic device installed with a notation software",
+            "piano",
+            "guitar",
+            "ngoma",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "musi-six-16"
+        },
+        {
+          "main_competence": "2.0.  Perform music",
+          "specific_competence": "2.3    Play local and foreign musical instruments",
+          "learning_activity": "(b) Use local and foreign musical instruments (strings, percussion and wind) to accompany contemporary songs in an ensemble",
+          "suggested_methods": [
+            "Student music clubs: In groups, task students to use local and foreign musical instruments to accompany contemporary songs",
+            "Projects: Task students with a project to accompany various songs with local and foreign musical instruments in an ensemble performance"
+          ],
+          "assessment_criteria": "Local and foreign musical instruments are used correctly to accompany contemporary songs in an ensemble",
+          "suggested_resources": [
+            "Baragumu",
+            "filimbi",
+            "saxophone",
+            "trumpet",
+            "guitar",
+            "piano",
+            "music scores and music sheets"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "musi-six-17"
+        },
+        {
+          "main_competence": "4.0    Conduct a project in music",
+          "specific_competence": "Design and conduct a project in music",
+          "learning_activity": "Complete and submit a report on the project started in Form Five",
+          "suggested_methods": [
+            "Project: Facilitate several research projects on music for students to review",
+            "Group discussion: Have the students engage in discussions on various musical matters"
+          ],
+          "assessment_criteria": "A project in music is completed and submitted successfully",
+          "suggested_resources": [
+            "Videos related to successful music business ventures",
+            "and industry reports and market research"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "musi-six-18"
+        }
+      ]
+    }
+  }
+}

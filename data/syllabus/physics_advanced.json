@@ -1,0 +1,490 @@
+{
+  "subject": "Physics",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727271434-Physics%20Syllabus%20for%20Advanced%20final.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(a) Explain the fundamental principles of measurement (dimensional analysis, precision, accuracy and uncertainties)",
+          "suggested_methods": [
+            "Think-ink-pair-share: Give opportunity to students to perform individual tasks on the fundamental principles of measurements and allow them to share with others",
+            "Hands-on activities: Provide students with the opportunity to engage in real-world activities re lated to the fundamental principles of measur ements"
+          ],
+          "assessment_criteria": "Fundamental principles of measurements are clearly explained",
+          "suggested_resources": [
+            "Metre rule",
+            "Vernier calipers",
+            "voltmeters",
+            "ammeters",
+            "micrometer screw gauge",
+            "weighing scales/ balances",
+            "timers or stopwatches",
+            "protractor and oscilloscope"
+          ],
+          "periods_for_specific_competence": 105,
+          "id": "phys-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(b) Describe the basic tenets of mechanics and two dimensional motion (projectile motion, circular motion, rotation, gravitation and fluid mechanics)",
+          "suggested_methods": [
+            "Interactive digital simulation: Guide students through interactive demonstrations, explanations, hands-on activities and questions to describe the basic tenets of mechanics and two dimensional motion"
+          ],
+          "assessment_criteria": "Concepts and principles related to mechanics are correctly described",
+          "suggested_resources": [
+            "Balls",
+            "conical pendulum",
+            "banked road",
+            "water in bucket",
+            "telescope",
+            "solid object",
+            "Earth globe",
+            "Armfield F1-15",
+            "Bernoulli’s apparatus test equipment",
+            "calipers or metre rules",
+            "jug",
+            "F1-10 hydraulic bench",
+            "stopwatch and electric motor"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "phys-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(c) Describe the fundamental concepts, principles and theories underlying the thermal properties of materials (heat transfer, kinetic theory of solids, liquids and gases, thermodynamics and thermal radiation)",
+          "suggested_methods": [
+            "Scenario: Guide students to discuss some scenarios related to transfer of heat or radiation in different materials",
+            "Virtual simulation: Allow students to explore and manipulate thermal properties of materials virtually",
+            "Practical work: Guide students to carry out experiments on thermal properties of materials related to their real-life experiences"
+          ],
+          "assessment_criteria": "Concepts, principles and theories underlying the thermal propertiesof materials are correctly described",
+          "suggested_resources": [
+            "Fridge",
+            "power supply",
+            "water pump",
+            "stopwatch",
+            "metal cans",
+            "thermometers",
+            "calorimeter and thermocouple thermometers, calorimeter and thermocouple"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "phys-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(d) Explore the basic tenets of vibrations and waves (simple harmonic motion, and wave propagation {interference, diffraction and polarization})",
+          "suggested_methods": [
+            "Group discussion: Facilitate group discussions for students to share their observations and ask questions about basic tenets of vibrations and waves",
+            "Interactive simulation and virtual labs: With the aid of videos, animations, and online sources, provide opportunity for students to conduct virtual and hands-on experiments related to vibrations and waves",
+            "Problem-based learning: Provide students with scenarios or case studies that require them to apply the theories and principles of vibrations and waves they have learnt to solve practical problems"
+          ],
+          "assessment_criteria": "Concepts, theories and principles related to vibrations and waves are correctly described",
+          "suggested_resources": [
+            "Inextensible string",
+            "pendulum bob",
+            "resonance apparatus",
+            "springs and masses",
+            "ripple tank",
+            "microphone",
+            "loudspeaker and oscilloscope"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "phys-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(e) Explain the concept, theories and principles of electrostatics (electric field, electric potential and capacitance)",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students to perform individual tasks on the concepts, theories and principles of electrostatics then ask them to share with others",
+            "Practical work: Guide students in groups to perform hands-on activities of electrostatics related to their real-life experiences",
+            "Field trip: Organise a field trip to help students visit places where electrostatic sprays, painting and photocopying activities are done"
+          ],
+          "assessment_criteria": "Concept, theories and principles of electrostatics are correctly explained",
+          "suggested_resources": [
+            "Plastic rods",
+            "glass rods",
+            "voltmeter",
+            "capacitance meter",
+            "multimeter",
+            "potentiometer",
+            "metre bridge",
+            "electroscope",
+            "metal plate and battery"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "phys-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.2 Use various instruments to carry out measurements in Physics",
+          "learning_activity": "(a) Use various instruments to carry out experiments in mechanics, vibrations and waves, thermal properties of materials and electrostatics",
+          "suggested_methods": [
+            "Hands-on activities: Guide students to use various instruments to conduct experiments related to mechanics, vibrations and waves, thermal properties of materials and electrostatics",
+            "Project work: Guide students by using scenarios or case studies, to work on a certain project and come up with a scientific solution"
+          ],
+          "assessment_criteria": "Various measuring instruments are applied accordingly in mechanics, vibrations and waves, thermal properties of materials and electrostatics",
+          "suggested_resources": [
+            "Flow-tube",
+            "thermometers",
+            "Vernier calipers",
+            "pendulum",
+            "inclined planes",
+            "ripple tanks",
+            "tuning fork",
+            "spectrometer",
+            "thermocouple",
+            "CRT (Cathode Ray Tube) sonometer",
+            "stopwatch",
+            "retort stand and steel balls of varying diameters"
+          ],
+          "periods_for_specific_competence": 55,
+          "id": "phys-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.2 Use various instruments to carry out measurements in Physics",
+          "learning_activity": "(b) Analyse the precision and accuracy of measurements",
+          "suggested_methods": [
+            "Group discussion: Facilitate group discussions for students to share their experiences and ask them some questions on the precision and accuracy of measurements"
+          ],
+          "assessment_criteria": "Precision and accuracy of measurements is correctly processed",
+          "suggested_resources": [
+            "Research reports"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.3 Analyse the efficacy of different techniques and instruments in physical measurements",
+          "learning_activity": "(a) Analyse the strengths and weaknesses of various instruments and techniques used in mechanics, vibrations and waves, thermal properties of materials and electrostatics",
+          "suggested_methods": [
+            "Problem-based learning: Guide students to analyse the strengths and weaknesses of instruments and techniques used in mechanics, vibrations and waves, thermal properties of materials and electrostatics"
+          ],
+          "assessment_criteria": "Strengths and weaknesses of various techniques and instruments used in physical measurements are correctly analysed",
+          "suggested_resources": [
+            "Scientific journals",
+            "research papers and online resources"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "phys-five-8"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Physics",
+          "specific_competence": "2.1 Carry out experiments in Physics",
+          "learning_activity": "(a) Design and carry out scientific experiments related to mechanics, vibrations and waves, thermal properties of materials and electrostatics",
+          "suggested_methods": [
+            "Hands-on experiments: Guide students to observe phenomena and perform experiments related to mechanics, vibrations and waves, thermal properties of materials and electrostatics and allow them to discuss on their real-world applications"
+          ],
+          "assessment_criteria": "Experiments are designed and carried out according to underlying procedures",
+          "suggested_resources": [
+            "Calorimeters",
+            "thermometers",
+            "source of heat",
+            "micrometer screw gauge",
+            "slotted weights",
+            "metre rule",
+            "ripple tank",
+            "resonance tube and Vernier calipers"
+          ],
+          "periods_for_specific_competence": 120,
+          "id": "phys-five-9"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Physics",
+          "specific_competence": "2.1 Carry out experiments in Physics",
+          "learning_activity": "(b) Use ICT tools to analyse and present data (Ms Excel, PSPP , R, MATLAB, Python and Origin)",
+          "suggested_methods": [
+            "Hands-on activities: Guide students through interactive demonstrations and explanations to manipulate data using ICT tools"
+          ],
+          "assessment_criteria": "Data are analysed and presented using ICT tools",
+          "suggested_resources": [
+            "Scientific journals",
+            "research papers and online resources"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "phys-five-10"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Physics",
+          "specific_competence": "2.1 Carry out experiments in Physics",
+          "learning_activity": "(c) Use various methods to disseminate scientific results in Physics (reports, journal articles and case studies)",
+          "suggested_methods": [
+            "Problem-based learning: Provide students with real-world problems or challenges related to scientific investigations and allow them to prepare reports and disseminate them"
+          ],
+          "assessment_criteria": "Various methods are used to disseminate scientific results",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "phys-five-11"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Physics",
+          "specific_competence": "3.1 Conduct a project in Physics",
+          "learning_activity": "(a) Design and carry out a research project in Physics",
+          "suggested_methods": [
+            "Problem solving: Guide students in groups to think critically on the best methods they can apply in solving scientific challenges faced in their environment",
+            "Project work: Guide students on project development process then task them to develop a research project related to Physics"
+          ],
+          "assessment_criteria": "Research project has been designed and carried out by considering scientific procedures",
+          "suggested_resources": [
+            "Field reports",
+            "journal papers",
+            "research reports and online resources"
+          ],
+          "periods_for_specific_competence": 72,
+          "id": "phys-five-12"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(a) Explain the principles, theories and concepts of current electricity (direct and alternating current and electrical networks)",
+          "suggested_methods": [
+            "Brainstorming: Guide students in groups to brainstorm on the applications of current electricity in their environment",
+            "Multimedia approach: Guide students to utilise interactive digital sources to explore the hands-on activities to explain the principles, theories and concepts of current electricity",
+            "Practical work: Guide students to explore on principles, theories and concepts of current electricity through hands-on activities"
+          ],
+          "assessment_criteria": "Principles, theories and concepts of current electricity are clearly explained",
+          "suggested_resources": [
+            "Connecting wires",
+            "resistors",
+            "power sources",
+            "electrical devices",
+            "Wheatstone bridge",
+            "potentiometers",
+            "ammeters",
+            "jockeys and discharge tube"
+          ],
+          "periods_for_specific_competence": 180,
+          "id": "phys-six-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(b) Explore the basic tenets of electromagnetism (electromagnetic force, induction and electromagnetic waves)",
+          "suggested_methods": [
+            "Group discussion: Facilitate group discussions for students to share their experiences on the basic tenets of electromagnetism and ask them some questions related to those concepts",
+            "Multimedia approach: Use interactive computer simulations and animations to provide a virtual environment for students to explore and manipulate variables related to electromagnetism",
+            "Hands-on experiments: Conduct hands-on experiments that demonstrate the principles of electromagnetism"
+          ],
+          "assessment_criteria": "Principles underlying the phenomenon of electromagnetism are correctly explored",
+          "suggested_resources": [
+            "Magnet",
+            "transformer",
+            "oscilloscope",
+            "iron fillings",
+            "conductors",
+            "coils",
+            "solenoid",
+            "galvanometer",
+            "battery",
+            "ballistic galvanometer",
+            "compass and deep needle"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-six-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(c) Explore the basic tenets of electronics and telecommunication (band theory, semiconductors, transistors, logic gates and satellites)",
+          "suggested_methods": [
+            "Flipped classroom: Assign students some activities to visit nearby small workshops for learning about different electronic components and devices in which they are used",
+            "Cooperative learning: Guide the students to share their experiences and understanding on the basic tenets of electronics and telecommunication",
+            "Project work: Facilitate students to do projects using concepts, theories, principles and laws in the field of electronics and telecommunication to develop prototype devices",
+            "Multimedia approach: Guide students by utilizing interactive digital sources to explore the hands-on activities which will enable the students to describe the concepts and principles related to electronics and telecommunication"
+          ],
+          "assessment_criteria": "Concepts and principles related to electronics and telecommunication are correctly described",
+          "suggested_resources": [
+            "Power sources",
+            "conductors",
+            "semi-conductors",
+            "insulators",
+            "tri-valent and pentavalent elements",
+            "diodes",
+            "transistors",
+            "lamps",
+            "resistors",
+            "ammeters",
+            "voltmeters",
+            "capacitors",
+            "oscilloscope",
+            "signal generator",
+            "bulb",
+            "logic gates",
+            "op amp",
+            "radio set",
+            "TV set",
+            "MP3 system",
+            "mobile phone",
+            "radio station",
+            "TV station and TV antennas"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-six-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(d) Explore some advanced tenets of atomic Physics (atomic transitions, nuclear physics, LASER, X-rays, α, β and γ radiations)",
+          "suggested_methods": [
+            "Multimedia approach: Guide students by utilising interactive digital sources to explore the hands-on activities related to the advanced tenets of atomic physics",
+            "Field trip: Organise a field trip to a nearby institution dealing with the applications of atomic physics for students to learn"
+          ],
+          "assessment_criteria": "Concepts and principles related to atomic physics are correctly described",
+          "suggested_resources": [
+            "Hydrogen spectral lamb",
+            "diffraction grating",
+            "prism spectrometer",
+            "power supply",
+            "photocell",
+            "light source",
+            "prism",
+            "micro-ammeter",
+            "voltmeter",
+            "X-ray tube",
+            "He-Ne laser",
+            "screen",
+            "models",
+            "radioactive sources",
+            "GM tube",
+            "scaler counter and timer"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-six-16"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(e) Explore the basic tenets of energy and energy sources (solar radiation, wind energy, hydropower and thermal reactors)",
+          "suggested_methods": [
+            "Inquiry-based learning: Ask students to explore the basic tenets of energy and their sources through guiding questions and resources",
+            "Field trips and guest speakers: Organize field trips to a nearby energy facilities or invite guest speakers to share their experiences with students about energy sources and guide the students to write a report"
+          ],
+          "assessment_criteria": "Principles and concepts of energy sources are correctly explored",
+          "suggested_resources": [
+            "Diagram of hydro- electric power plant",
+            "hydro-electric plant",
+            "reference books",
+            "solar cell testers",
+            "wood",
+            "solar panel",
+            "photovoltaic (solar), cell",
+            "solar cells",
+            "model of solar panel",
+            "wind",
+            "feathers",
+            "cotton wool",
+            "wind mills",
+            "thermometers",
+            "wind data loggers",
+            "flowmeters and pressure transducers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-six-17"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Physics",
+          "learning_activity": "(f) Explore the basic tenets of medical Physics (nervous system, electrocardiography, diagnostic imaging and radiotherapy)",
+          "suggested_methods": [
+            "Multimedia approach: Guide students to explore resources such as videos that explain the physical concepts, theories and principles used in medical Physics",
+            "Field trip: Organise the study tour to nearby hospitals where students can explore various imaging devices such as ultra sound and X-ray machines"
+          ],
+          "assessment_criteria": "Physical concepts, theories and principles used in medical Physics are clearly explained",
+          "suggested_resources": [
+            "Various models",
+            "various diagnostic",
+            "radiotherapy and mammography machines",
+            "MRI machine",
+            "CT scanners",
+            "X-ray machine",
+            "linear accelerator",
+            "Radiation detectors",
+            "dosimeters",
+            "ultrasound meter and hospitals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "phys-six-18"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.2 Use various instruments to carry out measurements in Physics",
+          "learning_activity": "(a) Use various instruments to carry out experiments in current electricity, electromagnetism, electronics, telecommunication, energy sources, medical physics and atomic physics",
+          "suggested_methods": [
+            "Interactive simulation: Facilitate students to visualize and understand the use of various measuring instruments used in current electricity",
+            "Problem-based learning: Guide students with real-world problems related to current electricity, electromagnetism, electronics, telecommunication, energy sources, medicine and atomic physics which require the use of instruments to measure their quantities"
+          ],
+          "assessment_criteria": "Various measuring instruments of current electricity, electromagnetism, electronics, telecommunication, energy sources, medicine and atomic physics are correctly used",
+          "suggested_resources": [
+            "Various measuring instruments",
+            "Audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "phys-six-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of concepts, theories and principles in Physics",
+          "specific_competence": "1.3 Analyse the efficacy of different techniques and instruments in physical measurements",
+          "learning_activity": "(a) Analyse the strengths and weaknesses of the various instruments and techniques used in current electricity, electromagnetism, electronics, telecommunication, energy sources, medical physics and atomic Physics",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to examine the strengths and weaknesses of various instruments as well as techniques used in scientific investigations"
+          ],
+          "assessment_criteria": "The strengths and weaknesses of various measuring instruments and techniques used in Physics are appropriately analysed",
+          "suggested_resources": [
+            "Various measuring instruments",
+            "journal papers",
+            "research articles and online resources"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "phys-six-20"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in Physics",
+          "specific_competence": "2.1 Carry out experiments in Physics",
+          "learning_activity": "(a) Design and carry out scientific experiments related to current electricity, electromagnetism, electronics, telecommunication, energy sources, medical physics and atomic physics",
+          "suggested_methods": [
+            "Interactive simulation: Facilitate students to use virtual labs to carry out scientific investigations related to the given concepts",
+            "Practical work: Guide students using real laboratory instruments to perform scientific investigations related to the given concepts",
+            "ICT based learning: Guide students with the proper use of ICT facilities to present scientific investigation reports"
+          ],
+          "assessment_criteria": "Experiments related to current electricity, electromagnetism, electronics, telecommunication, energy sources, medical Physics and atomic physics are correctly designed and carried out",
+          "suggested_resources": [
+            "Various measuring instruments",
+            "reference textbooks and online resources"
+          ],
+          "periods_for_specific_competence": 85,
+          "id": "phys-six-21"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Physics",
+          "specific_competence": "3.1 Conduct a project in Physics",
+          "learning_activity": "(a) Complete and submit a report for the research project started in Form Five",
+          "suggested_methods": [
+            "Practical work: Guide the students using hands-on activities to appraise and improve the prototypes developed to solve the identified social or scientific problems",
+            "Problem-based learning: Appraise and improve the prototypes developed to solve the identified social or scientific problems"
+          ],
+          "assessment_criteria": "Projects have been completed and report submitted",
+          "suggested_resources": [
+            "Field reports",
+            "journal papers and research reports"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "phys-six-22"
+        }
+      ]
+    }
+  }
+}

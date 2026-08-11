@@ -1,0 +1,492 @@
+{
+  "subject": "Chemistry",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727269817-CHEMISTRY%20SYLLABUS%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+          "learning_activity": "(a) Describe the concept of the atom (Dalton’ s atomic theory, Bohr’ s atomic theory, atomic mass and quantum theory)",
+          "suggested_methods": [
+            "ICT based learning: Organise students to watch simulations, animations, videos or diagrams that illustrate the structure of an atom and write appropriate report"
+          ],
+          "assessment_criteria": "The concept of the atom is clearly described",
+          "suggested_resources": [
+            "Pictures, diagrams, simulations, animations or videos illustrating the structure of an atom"
+          ],
+          "periods_for_specific_competence": 90,
+          "id": "chem-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+          "learning_activity": "(b) Use different atomic theories to determine the electronic configuration of elements with different properties",
+          "suggested_methods": [
+            "Interactive simulation: Guide students through interactive demonstrations, and explanations to explore the electronic configuration of elements with different properties",
+            "Peers coaching: Guide students to use different atomic theories to describe electronic configuration of elements with different properties and share to other students"
+          ],
+          "assessment_criteria": "Electronic configuration of elements with different properties are clearly determined",
+          "suggested_resources": [
+            "Pictures, wall charts and simulation illustrating the electronic configuration of elements"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "chem-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+          "learning_activity": "(c) Explain the concept of chemical bonding and the interactions of atoms to form molecules",
+          "suggested_methods": [
+            "Hands-on experience activities: Guide students to observe different materials with different types of chemical bonding and build models of different molecules using locally available materials",
+            "Group discussion: Guide students to discuss the interactions of atoms to form molecules and interpret the physical properties of different substances basing on their structures and bonding"
+          ],
+          "assessment_criteria": "The concept of chemical bonding and interactions of atom to form molecules is clearly explained",
+          "suggested_resources": [
+            "Molecular models, pictures, local materials, and video showing interactions of atoms"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+          "learning_activity": "(d) Describe the concept of gases in terms of the gas laws and the kinetic theory of gases",
+          "suggested_methods": [
+            "ICT based learning: Guide students to visualise simulations and videos to describe the concept of gas laws and kinetic theory of gases and write a report",
+            "Experimentation: Guide students to perform experiments on the kinetic theory of gases"
+          ],
+          "assessment_criteria": "The concept of gases in terms of gas laws and the kinetic theory of gases is clearly described",
+          "suggested_resources": [
+            "Diagrams, pictures, wall charts, simulations and videos illustrating gas laws and kinetic theory of gases",
+            "balloons, pollen grains, water, light source, microscope, thermometer, bicycle pump, heat source and bicycle tyres"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "chem-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+          "learning_activity": "(e) Appreciate the applications of gas laws in daily life such as in fire extinguishers, aerosols, inflating tyres, bakery, liquefaction of gases and helium balloons",
+          "suggested_methods": [
+            "Project: Task students to investigate the applications of gas laws and kinetic theory of gases in their environment"
+          ],
+          "assessment_criteria": "Applications of gas laws in daily life are realised",
+          "suggested_resources": [
+            "Bicycle pump, bicycle tyres, fire extinguisher, spray, balloons and NaHCO3"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+          "learning_activity": "(a) Explore the periodic trends of elements in the modern periodic table (Electronegativity, ionisation energy, electron affinity, atomic radius, melting point, and metallic character)",
+          "suggested_methods": [
+            "Graphics method: Guide students to use graphic organisers to represent the periodic trends of elements in the modern periodic table",
+            "Inquiry-based learning: Guide students through explorations and asking questions to interpret the periodic trends of elements in the modern periodic table"
+          ],
+          "assessment_criteria": "Periodic trends of elements in the modern periodic table are well described",
+          "suggested_resources": [
+            "Pictures, wall charts of modern periodic table, and graphics programme demonstrating periodic trends of elements"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "chem-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+          "learning_activity": "(b) Analyse the periodic trends of elements in relation to their physical and chemical properties",
+          "suggested_methods": [
+            "Experimentation: Guide students to carry out experiments to analyse the periodic trends of elements in relation to their physical and chemical properties"
+          ],
+          "assessment_criteria": "Periodic trends of elements in relation to their physical and chemical properties are analysed correctly",
+          "suggested_resources": [
+            "Pictures, wall chart of modern periodic table, H2O, HCl, metal carbonates, HNO3, hydrides, chlorides, hydroxides of metals, oxides of Period 3, Bunsen burner, magnesium metal, sodium metal, calcium metal and electric current"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "chem-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(a) Describe the concept of colligative properties in understanding responses of the system towards changes in the environment (boiling point elevation, freezing point depression, osmotic pressure, relative lowering of vapour pressure and Raoult’ s law)",
+          "suggested_methods": [
+            "Inquiry-based learning: Guide students through exploration and asking questions to describe different colligative properties in their environment"
+          ],
+          "assessment_criteria": "Colligative properties are correctly described",
+          "suggested_resources": [
+            "Thermometer, beaker, common salt, table sugar, weighing bottle, Beckman’s apparatus, Landsberger apparatus",
+            "osmometer, plastic bottle, analytical balance, freezing point apparatus, ethyl glycol, coolants and video showing colligative properties"
+          ],
+          "periods_for_specific_competence": 124,
+          "id": "chem-five-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(b) Examine the applications of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants",
+          "suggested_methods": [
+            "Project: Task students to investigate the applications of colligative properties in industrial processes, automobiles and medicine"
+          ],
+          "assessment_criteria": "The applications of the concept of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants are clearly described",
+          "suggested_resources": [
+            "Pictures, simulation, video, illustrating applications of colligative properties and coolants"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-five-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(c) Describe the concept of two component liquid systems (immiscible liquid, completely miscible liquid and the distribution law)",
+          "suggested_methods": [
+            "Interactive simulation: Encourage students through interactive demonstration, explanations and hand-on activities to describe the properties of two component liquid systems",
+            "Experimentation: Guide students to carry out experiments on two component liquid systems"
+          ],
+          "assessment_criteria": "The concept of two component liquid systems is clearly described",
+          "suggested_resources": [
+            "Separating funnel, beaker, immiscible and partially immiscible liquids, distillation apparatus, ideal and non-ideal solutions, side armed flask, fractionating column, thermometer, boiling flasks, condensers, pipettes, iodine, petroleum ether, burettes, flowers, leaves and propanone"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "chem-five-10"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(d) Examine the applications of two component liquid systems in pharmaceutical industries and in the extraction of plant components, separation and purification of substances",
+          "suggested_methods": [
+            "Problem-based learning: Create environment for students to explore the applications of two component liquid systems in solving real life scenarios in their environment"
+          ],
+          "assessment_criteria": "Applications of two component liquid systems are well examined",
+          "suggested_resources": [
+            "Pictures, video simulation, illustrating applications of two component liquid systems"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "chem-five-11"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(e) Describe the concept of energetics (Heat/enthalpy of reactions and Hess’ s law)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the concept of energetics",
+            "Experimentation: Guide students to carry out experiments on energetics"
+          ],
+          "assessment_criteria": "The concepts of heat/ enthalpy of reactions and Hess’s law are clearly described",
+          "suggested_resources": [
+            "Salts, acid, base, thermometer, analytical balance, magnesium ribbon, sodium thiosulphate, calorimeters, chemical indicators and simulation, illustrating energetics"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "chem-five-12"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+          "learning_activity": "(f) Examine the applications of energetics in daily life in combustion of fuel, cooking and human body metabolism",
+          "suggested_methods": [
+            "Problem-solving method: Provide students with scenario or case study and task them to investigate the applications of energetics in their environment"
+          ],
+          "assessment_criteria": "Applications of energetics in daily life are clearly examined and demonstrated",
+          "suggested_resources": [
+            "Pictures, wall charts, video showing applications of energetics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-five-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+          "learning_activity": "(a) Describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use visual aids to describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+            "Library search: Task students to read articles and present information on the health hazards associated with polycyclic aromatic hydrocarbons (PAHs), carbonyl compounds, carboxylic acids, haloalkanes, amines and polymers"
+          ],
+          "assessment_criteria": "The concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are clearly described",
+          "suggested_resources": [
+            "Molecular models, visual aids and pictures, illustrating organic compounds, chemistry software, products made from organic compounds such as dyes, pesticides, detergents, artificial food flavor, rubber and medicine"
+          ],
+          "periods_for_specific_competence": 82,
+          "id": "chem-five-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+          "learning_activity": "(b) Apply IUPAC rules in naming of aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines",
+          "suggested_methods": [
+            "Inquiry-based learning: Guide students to explore the IUPAC rules for naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines"
+          ],
+          "assessment_criteria": "IUPAC rules of naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines are well applied",
+          "suggested_resources": [
+            "Chemistry software and containers with labelled organic compounds"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-five-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+          "learning_activity": "(c) Examine reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives for preparation of useful organic products like soaps, perfumes and pesticides",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use visual aids to explore the reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives",
+            "Practical works: Guide students to isolate essential oils from plant materials and spices, and carry out experiments on the preparations of soaps, perfumes and pesticides"
+          ],
+          "assessment_criteria": "Reactions of aromatic hydrocarbons, phenols, carbonyl compounds and, carboxylic acids and their derivatives are properly examined and demonstrated",
+          "suggested_resources": [
+            "Fragrances, alcohols, distillers, oil and fat, KOH/NaOH, glycerine, orange peels, lemon grass, ginger roots, rose flowers and other scented plant materials, laboratory note book and visual aids describing reactions for selected organic compounds"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "chem-five-16"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+          "learning_activity": "(d) Examine reactions of haloalkanes, amines and polymers for preparation of useful organic products like plastics, dyes, detergents and rubber",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use visual aids to explore the reactions of haloalkanes, amines and polymers",
+            "Inquiry-based learning: Task students to search and present information related to structures and properties of polymeric materials used as adhesives, semiconductors packaging and insulators",
+            "Hands-on mind-on activities: Guide students to carry out experiments on the preparation of plastics, dyes, detergents and rubber"
+          ],
+          "assessment_criteria": "Reactions of haloalkanes, amines and polymers are properly examined and demonstrated",
+          "suggested_resources": [
+            "Starch, cellulose, vegetable oils, natural sources of dyes, plastic materials, food stuffs and visual aids showing reactions of haloalkanes, amines and polymers"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "chem-five-17"
+        },
+        {
+          "main_competence": "2.0 Conduct experiments in chemistry",
+          "specific_competence": "2.1 Conduct synthesis of selected organic compounds",
+          "learning_activity": "(a) Synthesise aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+          "suggested_methods": [
+            "Experimentation: Guide students to carry out laboratory experiments on the synthesis of aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers"
+          ],
+          "assessment_criteria": "Aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are synthesised",
+          "suggested_resources": [
+            "Ethylene, caustic soda, sulfonic acid, perfume, water, selected apparatus/ equipment for organic reactions, chemistry software and laboratory notebook"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "chem-five-18"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Chemistry",
+          "specific_competence": "3.1 Conduct a project in Chemistry",
+          "learning_activity": "(a) Design and carry out a project in Chemistry",
+          "suggested_methods": [
+            "Project: Guide students to design a project from any Chemistry themes",
+            "Field trip: Task students to investigate the selected Chemistry theme and carry out the project"
+          ],
+          "assessment_criteria": "The project is well designed and carried out",
+          "suggested_resources": [
+            "Factories for production of different products, project guidelines, sample of project reports, laboratory facilities, and materials"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "chem-five-19"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1. Demonstrate an advanced understanding of the concepts, theories and principles of Chemistry",
+          "learning_activity": "(a) Describe the concept of chemical equilibria in predicting the direction of reactions for formation of desired products (dynamic equilibrium, ionic equilibrium and acid-base equilibrium)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the concept of chemical equilibria"
+          ],
+          "assessment_criteria": "The concept of chemical equilibria are clearly described",
+          "suggested_resources": [
+            "Ethanol, ethanoic acid, source of heat,",
+            "NH3, H2SO4, water, wood ash, lemons, acid,  bases, weak and strong acids",
+            "weak and strong bases, pH meter,",
+            "acetic acid/sodium acetate, litmus paper,",
+            "universal indicator, NH3,  NH4Cl, NH4(CH3COO),",
+            "BaSO4, CaCO3, AgCl, AgNO3, Na2SO4, and Ba(NO3)2"
+          ],
+          "periods_for_specific_competence": 96,
+          "id": "chem-six-20"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1. Demonstrate an advanced understanding of the concepts, theories and principles of Chemistry",
+          "learning_activity": "(b) Perform experiments involving chemical equilibria and report the experimental results scientifically (preparation of buffer solutions and acid-base titrations)",
+          "suggested_methods": [
+            "Experimentation: Guide students to carry out experiments on dynamic equilibrium, ionic equilibrium and acid-base equilibrium"
+          ],
+          "assessment_criteria": "Experiments involving chemical equilibria and experimental results are scientifically performed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-21"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.1. Demonstrate an advanced understanding of the concepts, theories and principles of Chemistry",
+          "learning_activity": "(c) Assess the applications of chemical equilibria in industries and daily life (manufacture of H2SO4, fertilizers, photochromic lenses and, acids, bases and salts in food industries)",
+          "suggested_methods": [
+            "Problem-based learning: Task students to investigate the applications of chemical equilibria in industries and daily life"
+          ],
+          "assessment_criteria": "Applications of chemical equilibria in industries and daily life are well assessed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their position in the periodic table",
+          "learning_activity": "(a) Describe the physical and chemical properties of transition elements (variable oxidation states, catalytic properties, magnetic properties, alloy formation)",
+          "suggested_methods": [
+            "Interactive simulation: Employ visual aids to guide students to describe physical and chemical properties of transition elements"
+          ],
+          "assessment_criteria": "Physical and chemical properties of transition elements are clearly described",
+          "suggested_resources": [
+            "Wall charts of modern periodic table, wall charts showing variable oxidation states of first row transition elements (atomic numbers 21– 30),",
+            "wall chart showing  diagrams of split d-orbital,",
+            "finely divided first row transition elements and their chlorides, carbonates, sulphates, hydroxides and nitrates,",
+            "bar magnet,",
+            "ICT facilities, NaOH,",
+            "NH4OH,",
+            "H2SO4, NH3, HNO3,  HCl, KMnO4,",
+            "[Co(NH3)6]Cl3,",
+            "Cu2[Fe(CN)6],",
+            "[Pt(NH3)6]Cl4,",
+            "[Ni(H2O)6]Cl2,",
+            "[Cr(NH3)5(NO2)]Cl2,",
+            "[Ag(NH3)2]Cl,",
+            "K[Pt(NH3)Cl3]"
+          ],
+          "periods_for_specific_competence": 120,
+          "id": "chem-six-23"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their position in the periodic table",
+          "learning_activity": "(b) Describe the concept of complex compounds (type of complexes and factors affecting complex formation)",
+          "suggested_methods": [
+            "ICT based learning: Through interactive demonstrations, explanations and hands-on activities guide students to visualise simulations and describe the concept of complex formation"
+          ],
+          "assessment_criteria": "The concept of complex compounds is clearly described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-24"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their position in the periodic table",
+          "learning_activity": "(c) Explore reactions of complex compounds",
+          "suggested_methods": [
+            "Experimentation: Guide students to carry out experiments on the reactions of complex compounds and prepare scientific reports"
+          ],
+          "assessment_criteria": "Reactions of complex compounds are clearly explored and performed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-25"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their position in the periodic table",
+          "learning_activity": "(d) Analyse the uses of transition elements and complex compounds in industries              (as conductors, catalysts, alloys and ornaments)",
+          "suggested_methods": [
+            "Project: Task students to investigate the applications of transition elements and complex compounds as conductors, catalysts, alloys and ornaments"
+          ],
+          "assessment_criteria": "Uses of transition elements and complex compounds in industries are analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-26"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3  Demonstrate an understanding of chemical concepts and principles and their application in different contexts",
+          "learning_activity": "(a) Describe the concept of chemical kinetics (rate laws, activation energy, catalysis)",
+          "suggested_methods": [
+            "Group discussion: Guide students to describe the concept of chemical kinetics",
+            "Experimentation: Guide students to design and perform experiments to investigate factors affecting the rate of chemical reactions"
+          ],
+          "assessment_criteria": "The concepts of chemical kinetics are clearly described",
+          "suggested_resources": [
+            "MnO2,  KMnO4, heat source,",
+            "marble chips,",
+            "powdered CaCO3, HCl,",
+            "NH3,  HI, water,",
+            "H2C2O4,",
+            "H2SO4, H2O2,  Na2CO3, HNO3,  Na2S2O3,",
+            "thermometer with 100 °C, 1 °C precision,",
+            "common laboratory glassware and baking powder"
+          ],
+          "periods_for_specific_competence": 114,
+          "id": "chem-six-27"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3  Demonstrate an understanding of chemical concepts and principles and their application in different contexts",
+          "learning_activity": "(b) Investigate the applications of chemical kinetics in industries and real-life situation (catalyst in production, medical aspects, baking industries, food storage)",
+          "suggested_methods": [
+            "Problem-based learning: Task students to investigate the applications of chemical kinetics in industries and real-life situations"
+          ],
+          "assessment_criteria": "Applications of chemical kinetics in industries and real-life situations are properly investigated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-28"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3  Demonstrate an understanding of chemical concepts and principles and their application in different contexts",
+          "learning_activity": "(c)    Describe the concept of electrochemistry (electrochemical cells and electrode potentials)",
+          "suggested_methods": [
+            "Interactive simulation: Employ visual aids to guide students to explore the concept of electrochemistry and  develop different types of cells, example the H2O2 fuel cell and the nickel-metal hydride",
+            "Inquiry-based learning: Guide students to develop awareness and responsible practices when handling chemicals used in electrochemical industries and laboratories"
+          ],
+          "assessment_criteria": "The concept of electrochemistry are clearly described",
+          "suggested_resources": [
+            "Rusted iron,",
+            "visual aids illustrating electrochemistry,",
+            "Fe2O3,  KIO3,",
+            "KMnO4,",
+            "K4Fe(CN)6,  and Na2Cr2O7,",
+            "H2C2O4,",
+            "KI, Ni(OH)2,",
+            "hydrides of Pd, V , Ti, Ni, Cr and Co, batteries,",
+            "metal electrodes, inert electrode,",
+            "CuSO4,  HCl, galvanised ion",
+            "H2SO4, tin,  zinc",
+            "ZnCl2,",
+            "conductance bridge and water"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-29"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+          "specific_competence": "1.3  Demonstrate an understanding of chemical concepts and principles and their application in different contexts",
+          "learning_activity": "(d) Investigate the applications of electrochemistry in industries and real life situation (corrosion inhibition, purification of metals and batteries productions)",
+          "suggested_methods": [
+            "Problem-based learning: Task students to investigate the applications of electrochemistry in industries and real life situations"
+          ],
+          "assessment_criteria": "Applications of electrochemistry in industries and real-life situations are properly investigated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chem-six-30"
+        },
+        {
+          "main_competence": "2.0     Conduct a project in Chemistry",
+          "specific_competence": "2.1   Conduct a project in Chemistry",
+          "learning_activity": "(a) Complete and submit for assessment a scientific  report of the project started in Form Five",
+          "suggested_methods": [
+            "Practical: Guide students to perform experiments of the selected Chemistry themes started in    Form Five",
+            "Project: Guide students to  analyse the experimental data by using ICT facilities and submit the  synthesised product(s) and scientific report for assessment"
+          ],
+          "assessment_criteria": "Scientific report of the project is clearly written and quality project product(s) are obtained",
+          "suggested_resources": [
+            "Samples,",
+            "project guidelines,",
+            "sample of project reports and chemistry based software"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "chem-six-31"
+        }
+      ]
+    }
+  }
+}

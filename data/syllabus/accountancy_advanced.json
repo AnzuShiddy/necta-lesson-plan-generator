@@ -1,0 +1,524 @@
+{
+  "subject": "Accountancy",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727267339-ACCOUNTANCY%20SYLLABUS%20FOR%20ADVANCED%20SECONDARY%20EDUCATION%20FORM%20V%20-%20VI%20FINAL%20.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the conceptual framework of accounting (objectives of general-purpose financial statements, users and qualitative characteristics of useful accounting information)",
+          "suggested_methods": [
+            "Internet and library search: Guide the students to obtain the conceptual framework for preparation of general-purpose financial statements and discuss its contents in manageable groups",
+            "Group discussion: Guide students to discuss and share the meaning of conceptual framework of accounting, objectives of preparing general purpose financial statements and qualitative characteristics of accounting information",
+            "Think-ink-pair-share: Guide students to describe and share the various users of financial information"
+          ],
+          "assessment_criteria": "The conceptual framework of accounting is clearly described",
+          "suggested_resources": [
+            "Samples of financial statements",
+            "Financial reports",
+            "Sample of conceptual framework of accounting"
+          ],
+          "periods_for_specific_competence": 70,
+          "id": "acco-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting for inventories (meaning, types, valuation methods, stock estimation and insurance claims)",
+          "suggested_methods": [
+            "Scenario: Provide a scenario that involve a business undertaking which buys and sell common products of which at the end of the accounting period not all products are sold. Guide the students to describe meaning, types and calculate stocks by using various methods and sum insured, value of stock destroyed and insurance claims",
+            "Guest speaker: Invite a resource person involved in stock management to share practical experience in relation to stock valuation methods, stock estimation and insurance claim. Guide students to make reflection on the resource person’s presentation"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of inventories are properly described.",
+          "suggested_resources": [
+            "Sample of inventories documents"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "acco-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of payroll (meaning, forms and methods of employees’ remuneration and deductions)",
+          "suggested_methods": [
+            "Brainstorming: In groups, guide students to brainstorm different types of workers in their local environment and identify the forms and methods of their remuneration. Also, guide students to calculate payroll tax",
+            "Field trips: Guide the students visit the accounting office of the school, or nearby organisation and learn on the preparations of payroll records"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of payroll are properly described.",
+          "suggested_resources": [
+            "Sample of Payroll"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "acco-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of investments (meaning, types and terminologies)",
+          "suggested_methods": [
+            "Internet and library search: Guide the students in groups to search relevant materials and use them to describe the meaning, types, terminologies and transactions involved in investment. Then, apply gallery walk for each group to present their findings"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of investments are properly described.",
+          "suggested_resources": [
+            "Sample Bank statement",
+            "Sample of Business plan",
+            "Certificate of incorporation"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "acco-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of businesses operating with branches (meaning and nature, types and transactions involved)",
+          "suggested_methods": [
+            "Case studies: Provide case studies of firms operating with branches (e.g., banks) that will enable students understand the meaning and nature of businesses operating with branches and prepare different forms of branch accounts: autonomous and non-autonomous",
+            "Internet and library search: Guide the students obtain relevant accounting materials and use them to describe different types of branches. Then, lead them to make presentations on the information obtained",
+            "Field trips: Facilitate the students to visit a nearby business branch (e.g., a bank branch) to learn about various transactions involved in accounting for branches"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of businesses operating with branches are properly described.",
+          "suggested_resources": [
+            "Sample of Business licence",
+            "Sample Branches billboards"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of royalties (meaning, types and terminologies)",
+          "suggested_methods": [
+            "Case studies: Provide various case studies of businesses that involve royalty payments (e.g., a mining company) and guide students to make reflection from the case you provide to describe the meaning of royalties, types and terminologies",
+            "Internet and library search: Guide the students obtain relevant materials and use them to describe different types and terminologies applied in accounting for royalties. Lead them to share their findings"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of royalties are properly described.",
+          "suggested_resources": [
+            "Sample of royalty agreement",
+            "Sample of copyrights or trademarks"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "acco-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of non-current assets (nature, types, valuation and measurement methods, depreciation and disposal)",
+          "suggested_methods": [
+            "Internet and library search: Guide students to search for relevant information in relation to non-current assets, then apply questions and answers to describe the nature, types, valuations and measurement methods, depreciation and disposal",
+            "Problem solving: Ask detailed questions in relations to accounting for non-current assets and guide students in groups to provide solutions. Let the groups present their solutions and allow discussions for improvement"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of non-current assets are properly described.",
+          "suggested_resources": [
+            "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+            "Sample of Trademarks"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+          "learning_activity": "Describe the concepts and principles applied in the accounting of hire purchases (meaning, nature and terminologies)",
+          "suggested_methods": [
+            "Scenario: Provide a scenario that will portray hire purchase concept and its applicability in the present situation. Guide students to make reflection of the scenario to provide the meaning and nature of hire purchase business",
+            "Internet and library search: Guide students to search for relevant information in relation to hire purchases then apply the information obtained to describe the nature and various terminologies used in hire purchases business"
+          ],
+          "assessment_criteria": "The concepts and principles applied in accounting of hire purchases are properly described.",
+          "suggested_resources": [
+            "Sample of hire purchases agreement",
+            "Sample of goods"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "acco-five-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.2 Preparing an accounting work plan",
+          "learning_activity": "Describe how to develop an accounting action plan",
+          "suggested_methods": [
+            "Internet and library search: Guide students to gather relevant information that will enable them to describe the meaning, steps and contents of the accounting action plan",
+            "Think-ink pair share: Lead students identify the meaning and importance of preparing accounting action plan"
+          ],
+          "assessment_criteria": "The steps of developing an accounting action plan are clearly described.",
+          "suggested_resources": [
+            "Sample of action plan",
+            "Sample of work plan"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "acco-five-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+          "specific_competence": "1.2 Preparing an accounting work plan",
+          "learning_activity": "Develop an accounting action plan",
+          "suggested_methods": [
+            "Skills labs: Guide students to develop accounting action plans",
+            "Project activity: Task students in groups to prepare a monthly accounting action plan basing on their business club activities and guide them to make presentations"
+          ],
+          "assessment_criteria": "An Accounting action plan is well developed.",
+          "suggested_resources": [
+            "Samples of accounting and action plans"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "acco-five-10"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to inventories (using: different stock-taking systems (perpetual and periodic) and using different inventory valuation methods (FIFO, LIFO and weighted average))",
+          "suggested_methods": [
+            "Problem solving: Provide a problem/question then apply jigsaw approach to make students compute inventory value using FIFO, LIFO and Weighted average methods under both perpetual and periodic systems",
+            "Field trip: Guide students visit a nearby procurement office to learn about inventories valuation methods and stock management systems for practical experience",
+            "Presentation: Organise presentation session for the students to present their feedback"
+          ],
+          "assessment_criteria": "Accounting records relating to inventories, are appropriately prepared and maintained.",
+          "suggested_resources": [
+            "Sample of inventories documents"
+          ],
+          "periods_for_specific_competence": 240,
+          "id": "acco-five-11"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to payroll (computations of gross pay and net pay, payroll summary for remunerations and deductions, and journal entries)",
+          "suggested_methods": [
+            "Guest speaker: Invite a resourceful person from the payroll section of any nearby organisation to share a practical experience on the accounting for payroll and let students reflect on the computations of gross and net pay, payroll summary and deductions",
+            "Skills labs: Provide problems related to preparation of payroll journal entries and guide students in groups to make necessary payroll computations and prepare journal entries"
+          ],
+          "assessment_criteria": "Accounting records relating to payroll, are appropriately prepared and maintained",
+          "suggested_resources": [
+            "Sample of Payroll"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "acco-five-12"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to equity-based investments (acquisition and disposal using different price quotations; returns on investments)",
+          "suggested_methods": [
+            "Internet search: Guide students visit the stock exchange website, and download the listed firms’ financial statements to identify the equity shares",
+            "Problem solving: Provide relevant problems/questions that will enable students in groups prepare investment accounts using ex-div and cum-div quotations. Apply jigsaw technique to share their solutions"
+          ],
+          "assessment_criteria": "Accounting records relating to equity-based investments are appropriately prepared and maintained",
+          "suggested_resources": [
+            "Sample of share certificate",
+            "Dar es salaam stock exchange fliers"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "acco-five-13"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to businesses operating with branches (ledger accounts for dependent and independent branches)",
+          "suggested_methods": [
+            "Internet and library search: Guide students to identify and discuss different types of business branches",
+            "Problem solving: Provide a problem/question that will guide students to prepare ledger accounts for dependent and independent branches",
+            "Debate: Guide students to debate on whether operating a dependent branch is better than an independent branch"
+          ],
+          "assessment_criteria": "Accounting records relating to businesses operating with branches are appropriately prepared and maintained",
+          "suggested_resources": [
+            "Sample of Business licence",
+            "Sample Branches billboards"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "acco-five-14"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to royalties (in the books of the lessor and lessee when the contract provides minimum rent and when it does not provide minimum rent)",
+          "suggested_methods": [
+            "Scenario: Provide a scenario that involve royalties’ transactions to enable students compute the minimum rent, short workings and be able to prepare ledger accounts in the books of the lessor and the lessee",
+            "Problem solving: Facilitate students by using relevant problems and guide them in groups to prepare and present necessary ledger accounts"
+          ],
+          "assessment_criteria": "Accounting records relating to royalties are appropriately prepared and maintained.",
+          "suggested_resources": [
+            "Sample of royalty agreement",
+            "Sample of copyrights or trademarks"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "acco-five-15"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to non-current assets (valuation, depreciation and disposal)",
+          "suggested_methods": [
+            "Guest speaker: Invite a resourceful person from the accounting section of a nearby organisation to orient students on practical valuation and depreciation computations of non-current assets",
+            "Problem solving: Provide questions to the students that will enable them to account for non-current assets by focusing (straight line method, reducing balance method, sum of years digits, production and sourcing fund), then guide them to discuss in groups and make presentations"
+          ],
+          "assessment_criteria": "Accounting records relating to non-current assets are appropriately prepared and maintained.",
+          "suggested_resources": [
+            "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+            "Samples of Trademarks"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-five-16"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Prepare and maintain accounting records related to hire purchases (in the books of hire vendors and hire purchasers)",
+          "suggested_methods": [
+            "Field trip: Scan the nearby environment to identify a firm that sells on hire purchase and arrange for a field trip to enable students acquire practical skills on preparation of different accounts in the books of the vendor",
+            "Problem solving: Provide questions/problems that will enable students to calculate interest and prepare hire purchase accounts"
+          ],
+          "assessment_criteria": "Accounting records relating to hire purchases are appropriately prepared and maintained",
+          "suggested_resources": [
+            "Sample of hire purchases agreement",
+            "Sample of goods"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-five-17"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "Evaluate the impact of using different inventory valuation methods on reported profits/ losses and the financial position of a business",
+          "suggested_methods": [
+            "Problem solving: Provide problems/questions to students and guide them in groups to compute inventory values and be able to realize the impact of each inventory valuation method in the reported profit/loss and financial position of a business"
+          ],
+          "assessment_criteria": "The impact of using different inventory valuation methods on reported profit/loss and financial position of a business are logically evaluated.",
+          "suggested_resources": [
+            "Sample of company evaluation policy",
+            "Sample of Income Statements",
+            "Sample of Statement of financial position"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-five-18"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.2. Adjust records in financial statements",
+          "learning_activity": "Perform relevant computations to correct various accounting errors using a suspense account",
+          "suggested_methods": [
+            "Problem solving: Provide relevant problems/questions to students and guide them in groups to make computations and entries through ledgers/journals to correct various errors that affects the trial balance"
+          ],
+          "assessment_criteria": "Computations to correct various accounting errors using a suspense account are correctly performed.",
+          "suggested_resources": [
+            "Sample of suspense account"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "acco-five-19"
+        },
+        {
+          "main_competence": "2.0 Preparing accounting reports",
+          "specific_competence": "2.2. Adjust records in financial statements",
+          "learning_activity": "Analyse the impact of various accounting errors (commission, principle, original entry and transposition) on the reported profit/loss and the financial position of a business",
+          "suggested_methods": [
+            "Problem solving: Provide relevant problems/questions to the students and guide them in groups to make computations and entries in the ledgers to correct various errors that do not affects the trial balance"
+          ],
+          "assessment_criteria": "The impact of various accounting errors in the reported profit/loss and the financial position of a business is logically analysed.",
+          "suggested_resources": [
+            "Sample of Income Statements",
+            "Sample of Statement of financial position"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "acco-five-20"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+          "learning_activity": "(a) Describe the concepts and principles applied in preparing records and financial statements relating to dissolution and amalgamation of partnerships (meaning, reasons/causes, procedures and realisation)",
+          "suggested_methods": [
+            "Scenario: Provide relevant scenarios involving partnership firms that undergo amalgamation and dissolution that will enable students to describe the meaning, causes, and procedures for dissolution and amalgamation of partnership firms",
+            "Internet and library search: Guide students to search for relevant information that will enable them to describe the meaning, reasons and procures applied in amalgamation and dissolution of partnership firms"
+          ],
+          "assessment_criteria": "The concepts and principles applied in preparing records and financial statements relating to companies, dissolution and amalgamation of partnership firms are clearly described.",
+          "suggested_resources": [
+            "Chart with Generally Accepted Accounting Principles (GAAP)",
+            "Sample of Partnership agreement",
+            "Sample of Dissolution of partnership deed",
+            "Sample of profit share agreement"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "acco-six-21"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+          "learning_activity": "(b) Describe the concepts and principles applied in preparing records and financial statements relating to companies (meaning, types, reserves, retained earnings, dividends and procedures for raising share capital)",
+          "suggested_methods": [
+            "Brainstorming: Guide students in groups to brainstorm and share different types of companies they know and how such companies raise their capital and the way shareholders are rewarded",
+            "Internet and library search: Guide students to gather relevant information that will enable them to describe the meaning, types, reserves, procedures for raising capital and dividends"
+          ],
+          "assessment_criteria": "The concepts and principles applied in preparing records and financial statements relating to companies are clearly described",
+          "suggested_resources": [
+            "Samples of financial statements",
+            "Sample of share capital"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+          "learning_activity": "(c) Describe the concepts and principles of cost and management accounting (Cost accounting: meaning, importance and classification",
+          "suggested_methods": [
+            "Scenario: Provide a scenario involving any business entity with various types of cost that will lead the students to describe the meaning, importance and classification of costs",
+            "Guest speaker: Invite a resourceful person from cost department of a nearby organisation to share a",
+            "Group discussion: Guide students in groups to discuss on the meaning, importance and classification of costs",
+            "Internet and library search: Guide students search information and use relevant information that will enable them to describe the Cost-Volume-Profit (CVP) model",
+            "Scenario: Provide scenario that will enable students to describe the CVP model",
+            "Brainstorming: Guide students to share experience of their personal budgets and lead them to relate with organisations’ budgets, and be able to define budgeting and describe its objectives"
+          ],
+          "assessment_criteria": "The concepts and principles relating to the use of cost and management accounting i.e., cost accounting, CVP model and budgeting are well described.",
+          "suggested_resources": [
+            "Sample of budget",
+            "Sample of fixed cost, variable cost, direct cost and indirect cost"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-23"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+          "learning_activity": "of costs; Cost-Volume-Profit model: meaning, assumptions and limitations, contribution margin and break-even point; Budgeting: meaning, objectives and types)",
+          "suggested_methods": [
+            "Internet and library search: Guide students to search for relevant information that will lead them describe meaning, importance and types of budgets"
+          ],
+          "assessment_criteria": "CVP model and budgeting are well described.",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-24"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+          "learning_activity": "(d) Describe the concepts and principles relating to the analysis and interpretation of financial statements (meaning, objectives, techniques, categories of ratios and limitations)",
+          "suggested_methods": [
+            "Internet and library search: Guide students to search for relevant information that will enable them describe meaning, objectives, techniques used in financial statement analysis, categories of ratios and limitations of using ratios",
+            "Group discussions: Guide students in groups to conceptualize and present various concepts and principles relating to analysis and interpretation of financial statements"
+          ],
+          "assessment_criteria": "The concepts and principles relating to analysis and interpretation of financial statements are properly described.",
+          "suggested_resources": [
+            "Samples of financial statements"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-25"
+        },
+        {
+          "main_competence": "2.0 Prepare accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "(a) Prepare and maintain accounting records and",
+          "suggested_methods": [
+            "Problem solving: Through problem solving provide questions that will guide students in"
+          ],
+          "assessment_criteria": "Accounting records relating to companies,",
+          "suggested_resources": [
+            "Sample of Partnership agreement"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "acco-six-26"
+        },
+        {
+          "main_competence": "2.0 Prepare accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "financial statements relating to dissolution and amalgamation of partnerships (accounts and statements before and after dissolution and amalgamation)",
+          "suggested_methods": [
+            "groups to prepare accounts related to dissolution and amalgamation of partnership firms"
+          ],
+          "assessment_criteria": "dissolution and amalgamation of partnership firms are properly maintained and their relevant financial statements are correctly prepared.",
+          "suggested_resources": [
+            "Sample of Dissolution of partnership deed",
+            "Sample of profit share agreement"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-27"
+        },
+        {
+          "main_competence": "2.0 Prepare accounting reports",
+          "specific_competence": "2.1. Prepare and maintain accounting records",
+          "learning_activity": "(b) Prepare and maintain accounting records and financial statements relating to limited companies (ledger accounts for issue of shares, statements of profit/loss",
+          "suggested_methods": [
+            "Internet search : Guide students in groups to download financial statements from online sources and apply thin-ink pair share techniques to orient themselves on different companies selling shares and the prices for each",
+            "Problem solving: Provide students with questions that will guide them to prepare ledger accounts for issue of shares and their corresponding financial statements",
+            "Brainstorming: Guide students to brainstorm and share on how the idea of shares can help them raise funds for their companies"
+          ],
+          "assessment_criteria": "Accounting records and financial statements relating to limited companies are correctly",
+          "suggested_resources": [
+            "Sample of ledger accounts",
+            "Sample of basic financial statements",
+            "Sample of share certificate"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-28"
+        },
+        {
+          "main_competence": "2.0 Prepare accounting reports",
+          "specific_competence": "2.2. Use accounting principles",
+          "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+          "suggested_methods": [
+            "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+            "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+          ],
+          "assessment_criteria": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+          "suggested_resources": [
+            "Sample of company targets",
+            "Sample of revenue sheet"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "acco-six-29"
+        },
+        {
+          "main_competence": "2.0 Prepare accounting reports",
+          "specific_competence": "2.2. Use accounting principles",
+          "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+          "suggested_methods": [
+            "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+            "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+          ],
+          "assessment_criteria": "Operating budgets are correctly prepared.",
+          "suggested_resources": [
+            "Sample of operating budget"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "acco-six-30"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of professional ethics in Accountancy",
+          "specific_competence": "3.1. Demonstrate an understanding of the principles and practice of professional ethics in Accountancy",
+          "learning_activity": "(a) Describe the professional code of ethics for Accountants (integrity, objectivity, professional competence and due care, confidentiality and professional behaviour)",
+          "suggested_methods": [
+            "Resourceful person: Invite a resource person from accounting department of any nearby organization to share a real experience on the professional code of ethics for accountants",
+            "Field trip: Take students to an accounting department of any reputable organisation nearby the school to enable them learn the code of ethics that govern accounts operations"
+          ],
+          "assessment_criteria": "Professional code of ethics for accountants is well described.",
+          "suggested_resources": [
+            "NBAA and IFAC Guidelines"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "acco-six-31"
+        },
+        {
+          "main_competence": "4.0 Use ICT to analyse financial statements",
+          "specific_competence": "4.1. Use computer programmes in financial analysis",
+          "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+          "suggested_methods": [
+            "Skill lab: Guide students to analyse financial statements using computer applications",
+            "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+          ],
+          "assessment_criteria": "Various financial ratios are correctly computed and interpreted.",
+          "suggested_resources": [
+            "Samples of financial statements",
+            "Accounting software"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "acco-six-32"
+        }
+      ]
+    }
+  }
+}

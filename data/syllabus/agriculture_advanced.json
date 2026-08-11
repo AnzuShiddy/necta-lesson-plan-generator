@@ -1,0 +1,236 @@
+{
+  "subject": "Agriculture",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727267587-AGRICULTURE%20A-Level%20Syllabus%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.1 Demonstrate an understanding of principles and some advanced practices of agriculture",
+          "learning_activity": "Describe the principles and practices for the production of selected crops (mushroom, clove, avocado, tea, coffee and cashew)",
+          "suggested_methods": [
+            "Field visits: In groups or whole class, students guided to visit school and/ or nearby fields to study about the practices involved in production of mushroom, clove, avocado, tea, coffee and cashew",
+            "Library search: In groups or individually, students guided to search information from various literature about principles and practices recommended for production of the selected crops",
+            "Group discussion: In groups, students guided to consider findings from field visits and literature search to discuss about appropriate practices for production of the selected crops",
+            "ICT based learning: Students guided to explore practices for production of the selected crops through video clips"
+          ],
+          "assessment_criteria": "The principles and practices applied in the production of selected crops (mushroom, clove, avocado, tea, coffee and cashew) are well described",
+          "suggested_resources": [
+            "Fields of the selected crops",
+            "common tools/ equipment",
+            "and materials/ supplies used in production of the selected crops",
+            "and units/agencies carrying out various activities involved in value chain of the selected crops"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.2 Demonstrate a basic understanding of the agricultural value chain for selected products",
+          "learning_activity": "Analyse the problems associated with the cultivation, postharvest management and marketing of selected crops (mushroom, clove, avocado, tea, coffee and cashew) and propose possible solutions",
+          "suggested_methods": [
+            "Group works: In manageable groups, students guided to critically analyse problems of cultivation, postharvest management and marketing of the mushroom, clove, avocado, tea, coffee & cashew, and suggest viable solutions to the problems",
+            "Case studies: Through case studies, students guided to identify, analyse and propose possible solutions to solve problems associated with cultivation, postharvest management and marketing of the selected crops",
+            "Guest speaker/resource person: Students guided to learn on how to identify problems associated with cultivation, postharvest management and marketing of the selected crops, and viable solutions"
+          ],
+          "assessment_criteria": "The problems associated with cultivation, postharvest management and marketing of the selected crops (mushroom, clove, avocado, tea, coffee and cashew) are well analysed and possible solutions proposed",
+          "suggested_resources": [
+            "Fields of the selected crops",
+            "and units/ agencies carrying out various activities involved in value chain of the selected crops"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.3 Demonstrate an understanding of some advanced technologies in agriculture",
+          "learning_activity": "Describe advanced agricultural technologies used in crop production (technologies used in planning, site selection, propagation and nursery management, crop establishment, crop management, postharvest management, and marketing)",
+          "suggested_methods": [
+            "Brainstorming: Students guided to brainstorm on advanced technologies used in crop production",
+            "Library search: In groups or individually, students guided to search information from various literature about the advanced agricultural technologies used in crop production",
+            "ICT-based learning: Students guided to explore about the technologies through various simulation models and relevant online literature",
+            "Field visits: In groups or whole class, students guided to visit school and/ or nearby fields to explore the applicability of the technologies"
+          ],
+          "assessment_criteria": "Advanced agricultural technologies used in crop production (technologies used in planning, site selection, propagation and nursery management, crop establishment, crop management, postharvest management, and marketing) are well described",
+          "suggested_resources": [
+            "Fields of various crops",
+            "units/agencies carrying out various activities involved in value chain of crops",
+            "and tools/equipment & materials/ supplies for crop production"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-five-3"
+        },
+        {
+          "main_competence": "2.0 Use some advanced technologies in agriculture",
+          "specific_competence": "2.1 Use technology to increase agricultural production",
+          "learning_activity": "Apply basic and some advanced agricultural technologies in the production of selected crops (mushroom, clove, avocado, tea, coffee and cashew)",
+          "suggested_methods": [
+            "Field practicals: In groups or individually, students guided to: • Perform basic practices recommended for production of the selected crops • Implement affordable solutions in solving identified problems associated with cultivation, postharvest management and marketing of the selected crops • Try out and adapt the advanced technologies learnt for producing the selected crops in school/ home fields"
+          ],
+          "assessment_criteria": "Advanced agricultural technologies in the production of the selected crops (mushroom, clove, avocado, tea, coffee and cashew) are well applied",
+          "suggested_resources": [
+            "Tools/equipment & materials/ supplies used in the production of mushroom, clove, avocado, tea, coffee, and cashew"
+          ],
+          "periods_for_specific_competence": 180,
+          "id": "agri-five-4"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Agriculture",
+          "specific_competence": "3.1 Conduct a project in     Agriculture",
+          "learning_activity": "Identify agricultural problem in society, and design and carry out a project to address it",
+          "suggested_methods": [
+            "Project: In groups or individually, students guided to identify a problem in any segment of crop/animal value chain (from initial production to harvesting, and postharvest management & marketing), then plan and carry out a project to address the identified problem"
+          ],
+          "assessment_criteria": "Agricultural problem in society identified, and a project to address it is well designed and implementation started",
+          "suggested_resources": [
+            "Various tools",
+            "equipment & supplies and reports related to the chosen project"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "agri-five-5"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.1 Demonstrate an understanding of principles and some advanced practices of agriculture",
+          "learning_activity": "(a) Describe basic principles and some advanced practices for production of selected crops (cotton, oil palm, sisal, coconut and grape)",
+          "suggested_methods": [
+            "Field visits: In groups or whole class, students guided to visit school and/or nearby fields to study about the practices involved in production of cotton, oil palm, sisal, coconut and grape",
+            "Library search: In groups or individually, students guided to search information from various literature about practices recommended for production of the selected crops",
+            "Group discussion: In manageable groups, students guided to consider findings from field visits and literature search to discuss about appropriate practices for production of the selected crops"
+          ],
+          "assessment_criteria": "Basic principles and some advanced agricultural practices applied in production of the selected crops (cotton, oil palm, sisal, coconut and grape) are well described",
+          "suggested_resources": [
+            "Fields for production of the selected crops",
+            "production guides of the selected crops",
+            "and tools/ equipment & materials for production of the selected crops"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-six-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.1 Demonstrate an understanding of principles and some advanced practices of agriculture",
+          "learning_activity": "(b) Describe basic principles and some advanced practices for production of goat and sheep",
+          "suggested_methods": [
+            "Field visit: In groups or whole class, students guided to visit school and/or nearby farms to study about the practices involved in production of meat, dairy & mohair goat, and meat & woollen sheep",
+            "Library search: In groups or individually, students guided to search information from various literature about practices recommended for production of meat, dairy & mohair goat, and meat & woollen sheep",
+            "Group discussion: In manageable groups, students guided to consider findings from field visits and literature search to discuss about appropriate practices for production of meat, dairy & mohair goat, and meat & woollen sheep"
+          ],
+          "assessment_criteria": "Basic principles and some advanced practices for production of goat and sheep are well described",
+          "suggested_resources": [
+            "Production guides",
+            "tools/equipment and materials for production of goat and sheep",
+            "goat and sheep rearing units"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "agri-six-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.2 Demonstrate a basic understanding of the agricultural value chain for selected products",
+          "learning_activity": "(a) Analyse the problems associated with the cultivation, postharvest management and marketing of selected crops (cotton, oil palm, sisal, coconut and grape) and propose possible solutions",
+          "suggested_methods": [
+            "Group works: In manageable groups, students guided to critically analyse problems associated with cultivation, postharvest management and marketing of the selected crops, and suggest solution to the problems",
+            "Case studies: Through case studies, students guided to identify, analyse and propose possible solutions to solve problems associated with cultivation, postharvest management and marketing of the selected crops",
+            "Guest speaker: Through guest speaker(s)/resource person(s), students guided to learn on how to identify problems associated with cultivation, postharvest management and marketing of the selected crops, and viable solutions"
+          ],
+          "assessment_criteria": "Problems associated with the cultivation, postharvest management and marketing of the selected crops (cotton, oil palm, sisal, coconut and grape) are well analysed, and possible solutions proposed",
+          "suggested_resources": [
+            "Fields for production of cotton, oil palm, sisal, coconut and grape",
+            "and documentaries depicting problems in various segments of value chains in production of the selected crops and their solutions"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-six-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.2 Demonstrate a basic understanding of the agricultural value chain for selected products",
+          "learning_activity": "(b) Analyse the problems associated with the husbandry, postharvest management and marketing of livestock produce and products (goat & sheep) and propose possible solutions",
+          "suggested_methods": [
+            "Group works: In groups, students guided to critically analyse problems of husbandry, and postharvest management and marketing of goat & sheep produce and products, and suggest solution to the problems",
+            "Case studies: Through case studies, students guided to identify, analyse, propose possible solutions to solve problems associated with husbandry, and postharvest management and marketing of goat & sheep and their products",
+            "Guest speaker: Students guided to learn from guest speakeron how to identify problems associated with husbandry, postharvest management and marketing of goat & sheep products, and viable solutions"
+          ],
+          "assessment_criteria": "Problems associated with husbandry, postharvest management and marketing of livestock produce and products (goat & sheep) are well analysed and viable solutions proposed",
+          "suggested_resources": [
+            "Goat & sheep farms",
+            "reports",
+            "and documentaries depicting problems in various segments of value chains in production of goat & sheep and their solutions"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-six-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of agriculture",
+          "specific_competence": "1.3 Demonstrate an understanding of some advanced technologies in agriculture",
+          "learning_activity": "(a) Describe advanced agricultural technologies used in animal production (technologies in husbandry, postharvest management and marketing)",
+          "suggested_methods": [
+            "Brainstorming: Students guided to brainstorm on advanced technologies used in animal production with respect to husbandry, postharvest management and marketing",
+            "ICT-based learning: Students guided to explore about the advanced technologies in animal production through various simulation models and relevant online literature",
+            "Field visits: In groups or whole class, students guided to visit school and/or nearby fields to explore the applicability of the advanced technologies in animal production",
+            "Demonstrations: By using method and result demonstrations, students guided to explore about applicability of the advanced technologies in animal production"
+          ],
+          "assessment_criteria": "Advanced agricultural technologies used in animal production (technologies in husbandry, postharvest management and marketing) are well described",
+          "suggested_resources": [
+            "Documentaries depicting application of advanced technologies in various segments of value chains in animal production"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "agri-six-10"
+        },
+        {
+          "main_competence": "2.0 Use some advanced technologies in agriculture",
+          "specific_competence": "2.1 Use technology to increase agricultural production",
+          "learning_activity": "(a) Apply basic and some advanced agricultural technologies in the production of selected crops (cotton, oil palm, sisal, coconut and grape)",
+          "suggested_methods": [
+            "Field practicals: In groups or individually, students guided to: • Perform basic practices recommended for production of the selected crops • Implement affordable solutions in solving the identified problems associated with cultivation, postharvest management and marketing of the selected crops • Try out and adapt the advanced technologies learnt for producing the selected crops in school/ home fields"
+          ],
+          "assessment_criteria": "Basic and some advanced agricultural technologies in the production of the selected crops (cotton, oil palm, sisal, coconut and grape) are well applied",
+          "suggested_resources": [
+            "Fields using basic and advanced the technologies in performing various production practices",
+            "documentaries",
+            "and videos depicting application of advanced technologies in various segments of value chains in production of the selected crops"
+          ],
+          "periods_for_specific_competence": 180,
+          "id": "agri-six-11"
+        },
+        {
+          "main_competence": "2.0 Use some advanced technologies in agriculture",
+          "specific_competence": "2.1 Use technology to increase agricultural production",
+          "learning_activity": "(b) Apply basic some advanced agricultural technologies in goat and sheep production",
+          "suggested_methods": [
+            "Field practicals: In manageable groups or individually, students guided to: • Perform basic practices recommended for goat and sheep production • Implement affordable solutions in solving identified problems associated with husbandry, and postharvest management and marketing of goat and sheep produce products • Try out and adapt the advanced technologies learnt for producing goat and sheep products"
+          ],
+          "assessment_criteria": "Basic and some advanced agricultural technologies in production of goat and sheep are well applied",
+          "suggested_resources": [
+            "Farms using advanced technologies",
+            "documentaries",
+            "videos depicting application of advanced technologies in various segments of value chains in production of goat and sheep"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "agri-six-12"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Agriculture",
+          "specific_competence": "3.1 Conduct a project in Agriculture",
+          "learning_activity": "Complete and submit a report on the project started in Form V",
+          "suggested_methods": [
+            "Project: Students guided to accomplish the project work started in Form V , present the work and submit a report"
+          ],
+          "assessment_criteria": "The project started in Form V is well completed and a report submitted",
+          "suggested_resources": [
+            "Various fields/agencies involved in agricultural production and various reports depicting projects done in segments of crop/animal production value chain"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "agri-six-13"
+        }
+      ]
+    }
+  }
+}

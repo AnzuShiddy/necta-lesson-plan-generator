@@ -1,0 +1,1265 @@
+{
+  "subject": "Accountancy",
+  "form": "Form Six",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 11,
+  "total_periods": 350,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(a) Describe the concepts and principles applied in preparing records and financial statements relating to dissolution and amalgamation of partnerships (meaning, reasons/causes, procedures and realisation)",
+      "activity_id": "acco-six-21",
+      "periods": 11,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Scenario: Provide relevant scenarios involving partnership firms that undergo amalgamation and dissolution that will enable students to describe the meaning, causes, and procedures for dissolution and amalgamation of partnership firms",
+        "Internet and library search: Guide students to search for relevant information that will enable them to describe the meaning, reasons and procures applied in amalgamation and dissolution of partnership firms"
+      ],
+      "assessment": "The concepts and principles applied in preparing records and financial statements relating to companies, dissolution and amalgamation of partnership firms are clearly described.",
+      "resources": [
+        "Chart with Generally Accepted Accounting Principles (GAAP)",
+        "Sample of Partnership agreement",
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(a) Describe the concepts and principles applied in preparing records and financial statements relating to dissolution and amalgamation of partnerships (meaning, reasons/causes, procedures and realisation)",
+      "activity_id": "acco-six-21",
+      "periods": 5,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Scenario: Provide relevant scenarios involving partnership firms that undergo amalgamation and dissolution that will enable students to describe the meaning, causes, and procedures for dissolution and amalgamation of partnership firms",
+        "Internet and library search: Guide students to search for relevant information that will enable them to describe the meaning, reasons and procures applied in amalgamation and dissolution of partnership firms"
+      ],
+      "assessment": "The concepts and principles applied in preparing records and financial statements relating to companies, dissolution and amalgamation of partnership firms are clearly described.",
+      "resources": [
+        "Chart with Generally Accepted Accounting Principles (GAAP)",
+        "Sample of Partnership agreement",
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(b) Describe the concepts and principles applied in preparing records and financial statements relating to companies (meaning, types, reserves, retained earnings, dividends and procedures for raising share capital)",
+      "activity_id": "acco-six-22",
+      "periods": 6,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to brainstorm and share different types of companies they know and how such companies raise their capital and the way shareholders are rewarded",
+        "Internet and library search: Guide students to gather relevant information that will enable them to describe the meaning, types, reserves, procedures for raising capital and dividends"
+      ],
+      "assessment": "The concepts and principles applied in preparing records and financial statements relating to companies are clearly described",
+      "resources": [
+        "Samples of financial statements",
+        "Sample of share capital"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(b) Describe the concepts and principles applied in preparing records and financial statements relating to companies (meaning, types, reserves, retained earnings, dividends and procedures for raising share capital)",
+      "activity_id": "acco-six-22",
+      "periods": 10,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students in groups to brainstorm and share different types of companies they know and how such companies raise their capital and the way shareholders are rewarded",
+        "Internet and library search: Guide students to gather relevant information that will enable them to describe the meaning, types, reserves, procedures for raising capital and dividends"
+      ],
+      "assessment": "The concepts and principles applied in preparing records and financial statements relating to companies are clearly described",
+      "resources": [
+        "Samples of financial statements",
+        "Sample of share capital"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(c) Describe the concepts and principles of cost and management accounting (Cost accounting: meaning, importance and classification",
+      "activity_id": "acco-six-23",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario involving any business entity with various types of cost that will lead the students to describe the meaning, importance and classification of costs",
+        "Guest speaker: Invite a resourceful person from cost department of a nearby organisation to share a",
+        "Group discussion: Guide students in groups to discuss on the meaning, importance and classification of costs",
+        "Internet and library search: Guide students search information and use relevant information that will enable them to describe the Cost-Volume-Profit (CVP) model",
+        "Scenario: Provide scenario that will enable students to describe the CVP model",
+        "Brainstorming: Guide students to share experience of their personal budgets and lead them to relate with organisations’ budgets, and be able to define budgeting and describe its objectives"
+      ],
+      "assessment": "The concepts and principles relating to the use of cost and management accounting i.e., cost accounting, CVP model and budgeting are well described.",
+      "resources": [
+        "Sample of budget",
+        "Sample of fixed cost, variable cost, direct cost and indirect cost"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(c) Describe the concepts and principles of cost and management accounting (Cost accounting: meaning, importance and classification",
+      "activity_id": "acco-six-23",
+      "periods": 11,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario involving any business entity with various types of cost that will lead the students to describe the meaning, importance and classification of costs",
+        "Guest speaker: Invite a resourceful person from cost department of a nearby organisation to share a",
+        "Group discussion: Guide students in groups to discuss on the meaning, importance and classification of costs",
+        "Internet and library search: Guide students search information and use relevant information that will enable them to describe the Cost-Volume-Profit (CVP) model",
+        "Scenario: Provide scenario that will enable students to describe the CVP model",
+        "Brainstorming: Guide students to share experience of their personal budgets and lead them to relate with organisations’ budgets, and be able to define budgeting and describe its objectives"
+      ],
+      "assessment": "The concepts and principles relating to the use of cost and management accounting i.e., cost accounting, CVP model and budgeting are well described.",
+      "resources": [
+        "Sample of budget",
+        "Sample of fixed cost, variable cost, direct cost and indirect cost"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(c) Describe the concepts and principles of cost and management accounting (Cost accounting: meaning, importance and classification",
+      "activity_id": "acco-six-23",
+      "periods": 4,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario involving any business entity with various types of cost that will lead the students to describe the meaning, importance and classification of costs",
+        "Guest speaker: Invite a resourceful person from cost department of a nearby organisation to share a",
+        "Group discussion: Guide students in groups to discuss on the meaning, importance and classification of costs",
+        "Internet and library search: Guide students search information and use relevant information that will enable them to describe the Cost-Volume-Profit (CVP) model",
+        "Scenario: Provide scenario that will enable students to describe the CVP model",
+        "Brainstorming: Guide students to share experience of their personal budgets and lead them to relate with organisations’ budgets, and be able to define budgeting and describe its objectives"
+      ],
+      "assessment": "The concepts and principles relating to the use of cost and management accounting i.e., cost accounting, CVP model and budgeting are well described.",
+      "resources": [
+        "Sample of budget",
+        "Sample of fixed cost, variable cost, direct cost and indirect cost"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "of costs; Cost-Volume-Profit model: meaning, assumptions and limitations, contribution margin and break-even point; Budgeting: meaning, objectives and types)",
+      "activity_id": "acco-six-24",
+      "periods": 7,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information that will lead them describe meaning, importance and types of budgets"
+      ],
+      "assessment": "CVP model and budgeting are well described.",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "of costs; Cost-Volume-Profit model: meaning, assumptions and limitations, contribution margin and break-even point; Budgeting: meaning, objectives and types)",
+      "activity_id": "acco-six-24",
+      "periods": 9,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information that will lead them describe meaning, importance and types of budgets"
+      ],
+      "assessment": "CVP model and budgeting are well described.",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(d) Describe the concepts and principles relating to the analysis and interpretation of financial statements (meaning, objectives, techniques, categories of ratios and limitations)",
+      "activity_id": "acco-six-25",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information that will enable them describe meaning, objectives, techniques used in financial statement analysis, categories of ratios and limitations of using ratios",
+        "Group discussions: Guide students in groups to conceptualize and present various concepts and principles relating to analysis and interpretation of financial statements"
+      ],
+      "assessment": "The concepts and principles relating to analysis and interpretation of financial statements are properly described.",
+      "resources": [
+        "Samples of financial statements"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(d) Describe the concepts and principles relating to the analysis and interpretation of financial statements (meaning, objectives, techniques, categories of ratios and limitations)",
+      "activity_id": "acco-six-25",
+      "periods": 11,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information that will enable them describe meaning, objectives, techniques used in financial statement analysis, categories of ratios and limitations of using ratios",
+        "Group discussions: Guide students in groups to conceptualize and present various concepts and principles relating to analysis and interpretation of financial statements"
+      ],
+      "assessment": "The concepts and principles relating to analysis and interpretation of financial statements are properly described.",
+      "resources": [
+        "Samples of financial statements"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of accounting",
+      "learning_activity": "(d) Describe the concepts and principles relating to the analysis and interpretation of financial statements (meaning, objectives, techniques, categories of ratios and limitations)",
+      "activity_id": "acco-six-25",
+      "periods": 3,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information that will enable them describe meaning, objectives, techniques used in financial statement analysis, categories of ratios and limitations of using ratios",
+        "Group discussions: Guide students in groups to conceptualize and present various concepts and principles relating to analysis and interpretation of financial statements"
+      ],
+      "assessment": "The concepts and principles relating to analysis and interpretation of financial statements are properly described.",
+      "resources": [
+        "Samples of financial statements"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(a) Prepare and maintain accounting records and",
+      "activity_id": "acco-six-26",
+      "periods": 8,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Problem solving: Through problem solving provide questions that will guide students in"
+      ],
+      "assessment": "Accounting records relating to companies,",
+      "resources": [
+        "Sample of Partnership agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(a) Prepare and maintain accounting records and",
+      "activity_id": "acco-six-26",
+      "periods": 11,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Problem solving: Through problem solving provide questions that will guide students in"
+      ],
+      "assessment": "Accounting records relating to companies,",
+      "resources": [
+        "Sample of Partnership agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(a) Prepare and maintain accounting records and",
+      "activity_id": "acco-six-26",
+      "periods": 11,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Problem solving: Through problem solving provide questions that will guide students in"
+      ],
+      "assessment": "Accounting records relating to companies,",
+      "resources": [
+        "Sample of Partnership agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(a) Prepare and maintain accounting records and",
+      "activity_id": "acco-six-26",
+      "periods": 4,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Problem solving: Through problem solving provide questions that will guide students in"
+      ],
+      "assessment": "Accounting records relating to companies,",
+      "resources": [
+        "Sample of Partnership agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "financial statements relating to dissolution and amalgamation of partnerships (accounts and statements before and after dissolution and amalgamation)",
+      "activity_id": "acco-six-27",
+      "periods": 7,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "groups to prepare accounts related to dissolution and amalgamation of partnership firms"
+      ],
+      "assessment": "dissolution and amalgamation of partnership firms are properly maintained and their relevant financial statements are correctly prepared.",
+      "resources": [
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "financial statements relating to dissolution and amalgamation of partnerships (accounts and statements before and after dissolution and amalgamation)",
+      "activity_id": "acco-six-27",
+      "periods": 11,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "groups to prepare accounts related to dissolution and amalgamation of partnership firms"
+      ],
+      "assessment": "dissolution and amalgamation of partnership firms are properly maintained and their relevant financial statements are correctly prepared.",
+      "resources": [
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "financial statements relating to dissolution and amalgamation of partnerships (accounts and statements before and after dissolution and amalgamation)",
+      "activity_id": "acco-six-27",
+      "periods": 11,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "groups to prepare accounts related to dissolution and amalgamation of partnership firms"
+      ],
+      "assessment": "dissolution and amalgamation of partnership firms are properly maintained and their relevant financial statements are correctly prepared.",
+      "resources": [
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "financial statements relating to dissolution and amalgamation of partnerships (accounts and statements before and after dissolution and amalgamation)",
+      "activity_id": "acco-six-27",
+      "periods": 4,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "groups to prepare accounts related to dissolution and amalgamation of partnership firms"
+      ],
+      "assessment": "dissolution and amalgamation of partnership firms are properly maintained and their relevant financial statements are correctly prepared.",
+      "resources": [
+        "Sample of Dissolution of partnership deed",
+        "Sample of profit share agreement"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(b) Prepare and maintain accounting records and financial statements relating to limited companies (ledger accounts for issue of shares, statements of profit/loss",
+      "activity_id": "acco-six-28",
+      "periods": 7,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "Internet search : Guide students in groups to download financial statements from online sources and apply thin-ink pair share techniques to orient themselves on different companies selling shares and the prices for each",
+        "Problem solving: Provide students with questions that will guide them to prepare ledger accounts for issue of shares and their corresponding financial statements",
+        "Brainstorming: Guide students to brainstorm and share on how the idea of shares can help them raise funds for their companies"
+      ],
+      "assessment": "Accounting records and financial statements relating to limited companies are correctly",
+      "resources": [
+        "Sample of ledger accounts",
+        "Sample of basic financial statements",
+        "Sample of share certificate"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(b) Prepare and maintain accounting records and financial statements relating to limited companies (ledger accounts for issue of shares, statements of profit/loss",
+      "activity_id": "acco-six-28",
+      "periods": 11,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "Internet search : Guide students in groups to download financial statements from online sources and apply thin-ink pair share techniques to orient themselves on different companies selling shares and the prices for each",
+        "Problem solving: Provide students with questions that will guide them to prepare ledger accounts for issue of shares and their corresponding financial statements",
+        "Brainstorming: Guide students to brainstorm and share on how the idea of shares can help them raise funds for their companies"
+      ],
+      "assessment": "Accounting records and financial statements relating to limited companies are correctly",
+      "resources": [
+        "Sample of ledger accounts",
+        "Sample of basic financial statements",
+        "Sample of share certificate"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(b) Prepare and maintain accounting records and financial statements relating to limited companies (ledger accounts for issue of shares, statements of profit/loss",
+      "activity_id": "acco-six-28",
+      "periods": 11,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "Internet search : Guide students in groups to download financial statements from online sources and apply thin-ink pair share techniques to orient themselves on different companies selling shares and the prices for each",
+        "Problem solving: Provide students with questions that will guide them to prepare ledger accounts for issue of shares and their corresponding financial statements",
+        "Brainstorming: Guide students to brainstorm and share on how the idea of shares can help them raise funds for their companies"
+      ],
+      "assessment": "Accounting records and financial statements relating to limited companies are correctly",
+      "resources": [
+        "Sample of ledger accounts",
+        "Sample of basic financial statements",
+        "Sample of share certificate"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "(b) Prepare and maintain accounting records and financial statements relating to limited companies (ledger accounts for issue of shares, statements of profit/loss",
+      "activity_id": "acco-six-28",
+      "periods": 4,
+      "activity_total_periods": 33,
+      "teaching_learning_activities": [
+        "Internet search : Guide students in groups to download financial statements from online sources and apply thin-ink pair share techniques to orient themselves on different companies selling shares and the prices for each",
+        "Problem solving: Provide students with questions that will guide them to prepare ledger accounts for issue of shares and their corresponding financial statements",
+        "Brainstorming: Guide students to brainstorm and share on how the idea of shares can help them raise funds for their companies"
+      ],
+      "assessment": "Accounting records and financial statements relating to limited companies are correctly",
+      "resources": [
+        "Sample of ledger accounts",
+        "Sample of basic financial statements",
+        "Sample of share certificate"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+      "activity_id": "acco-six-29",
+      "periods": 7,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+        "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+      ],
+      "assessment": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+      "resources": [
+        "Sample of company targets",
+        "Sample of revenue sheet"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+      "activity_id": "acco-six-29",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+        "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+      ],
+      "assessment": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+      "resources": [
+        "Sample of company targets",
+        "Sample of revenue sheet"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+      "activity_id": "acco-six-29",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+        "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+      ],
+      "assessment": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+      "resources": [
+        "Sample of company targets",
+        "Sample of revenue sheet"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+      "activity_id": "acco-six-29",
+      "periods": 11,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+        "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+      ],
+      "assessment": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+      "resources": [
+        "Sample of company targets",
+        "Sample of revenue sheet"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(a) Classify costs by behaviour and perform Cost-Volume-Profit (CVP) analysis (compute the break-even quantity and revenue, target quantity and revenue excluding multiple products)",
+      "activity_id": "acco-six-29",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will enable students to classify costs by behaviour and perform CVP analysis. Guide students to apply gallery walk approach to make them share their computation",
+        "Problem solving: Provide questions to students in groups, and guide them to classify costs and perform CVP analysis"
+      ],
+      "assessment": "Classification of costs by behaviour is correctly done and CVP analysis is correctly performed.",
+      "resources": [
+        "Sample of company targets",
+        "Sample of revenue sheet"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+      "activity_id": "acco-six-30",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+        "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+      ],
+      "assessment": "Operating budgets are correctly prepared.",
+      "resources": [
+        "Sample of operating budget"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+      "activity_id": "acco-six-30",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+        "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+      ],
+      "assessment": "Operating budgets are correctly prepared.",
+      "resources": [
+        "Sample of operating budget"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+      "activity_id": "acco-six-30",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+        "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+      ],
+      "assessment": "Operating budgets are correctly prepared.",
+      "resources": [
+        "Sample of operating budget"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+      "activity_id": "acco-six-30",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+        "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+      ],
+      "assessment": "Operating budgets are correctly prepared.",
+      "resources": [
+        "Sample of operating budget"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0 Prepare accounting reports",
+      "specific_competence": "2.2. Use accounting principles",
+      "learning_activity": "(b) Prepare operating budgets (sales, production, purchases, direct labour, overheads and master budget excluding credit sales and credit purchases)",
+      "activity_id": "acco-six-30",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Subjects’ clubs: Through subject club guide students to develop the club budget for a certain period and make presentation",
+        "Problem solving: Provide questions to students and apply group discussions to prepare various types of budgets"
+      ],
+      "assessment": "Operating budgets are correctly prepared.",
+      "resources": [
+        "Sample of operating budget"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "3.0 Demonstrate mastery of professional ethics in Accountancy",
+      "specific_competence": "3.1. Demonstrate an understanding of the principles and practice of professional ethics in Accountancy",
+      "learning_activity": "(a) Describe the professional code of ethics for Accountants (integrity, objectivity, professional competence and due care, confidentiality and professional behaviour)",
+      "activity_id": "acco-six-31",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Resourceful person: Invite a resource person from accounting department of any nearby organization to share a real experience on the professional code of ethics for accountants",
+        "Field trip: Take students to an accounting department of any reputable organisation nearby the school to enable them learn the code of ethics that govern accounts operations"
+      ],
+      "assessment": "Professional code of ethics for accountants is well described.",
+      "resources": [
+        "NBAA and IFAC Guidelines"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "3.0 Demonstrate mastery of professional ethics in Accountancy",
+      "specific_competence": "3.1. Demonstrate an understanding of the principles and practice of professional ethics in Accountancy",
+      "learning_activity": "(a) Describe the professional code of ethics for Accountants (integrity, objectivity, professional competence and due care, confidentiality and professional behaviour)",
+      "activity_id": "acco-six-31",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Resourceful person: Invite a resource person from accounting department of any nearby organization to share a real experience on the professional code of ethics for accountants",
+        "Field trip: Take students to an accounting department of any reputable organisation nearby the school to enable them learn the code of ethics that govern accounts operations"
+      ],
+      "assessment": "Professional code of ethics for accountants is well described.",
+      "resources": [
+        "NBAA and IFAC Guidelines"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "4.0 Use ICT to analyse financial statements",
+      "specific_competence": "4.1. Use computer programmes in financial analysis",
+      "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+      "activity_id": "acco-six-32",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Skill lab: Guide students to analyse financial statements using computer applications",
+        "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+      ],
+      "assessment": "Various financial ratios are correctly computed and interpreted.",
+      "resources": [
+        "Samples of financial statements",
+        "Accounting software"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "4.0 Use ICT to analyse financial statements",
+      "specific_competence": "4.1. Use computer programmes in financial analysis",
+      "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+      "activity_id": "acco-six-32",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Skill lab: Guide students to analyse financial statements using computer applications",
+        "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+      ],
+      "assessment": "Various financial ratios are correctly computed and interpreted.",
+      "resources": [
+        "Samples of financial statements",
+        "Accounting software"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "4.0 Use ICT to analyse financial statements",
+      "specific_competence": "4.1. Use computer programmes in financial analysis",
+      "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+      "activity_id": "acco-six-32",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Skill lab: Guide students to analyse financial statements using computer applications",
+        "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+      ],
+      "assessment": "Various financial ratios are correctly computed and interpreted.",
+      "resources": [
+        "Samples of financial statements",
+        "Accounting software"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "4.0 Use ICT to analyse financial statements",
+      "specific_competence": "4.1. Use computer programmes in financial analysis",
+      "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+      "activity_id": "acco-six-32",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Skill lab: Guide students to analyse financial statements using computer applications",
+        "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+      ],
+      "assessment": "Various financial ratios are correctly computed and interpreted.",
+      "resources": [
+        "Samples of financial statements",
+        "Accounting software"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "4.0 Use ICT to analyse financial statements",
+      "specific_competence": "4.1. Use computer programmes in financial analysis",
+      "learning_activity": "(a) Use accounting packages to analyse financial statements (profitability, liquidity, efficiency and financial leverage ratios excluding market-based ratios)",
+      "activity_id": "acco-six-32",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Skill lab: Guide students to analyse financial statements using computer applications",
+        "Problem solving:\nprovides questions that will guide students to analyse financial statements and make interpretations"
+      ],
+      "assessment": "Various financial ratios are correctly computed and interpreted.",
+      "resources": [
+        "Samples of financial statements",
+        "Accounting software"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

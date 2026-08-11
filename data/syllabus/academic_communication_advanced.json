@@ -1,0 +1,529 @@
+{
+  "subject": "Academic Communication",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727267280-Academic%20Communication%20Syllabus%20for%20Advanced%20Secondary%20School%20Form%20V%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.1 Demonstrate the understanding of basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(a) Form words using word-formation processes that express clarity and fluency in oral and written communications",
+          "suggested_methods": [
+            "Discussion: In manageable groups, guide students through discussing the processes of forming words",
+            "TIPS (Think-Ink-Pair-Share): Guide students through thinking and writing down various words and predict on their formation"
+          ],
+          "assessment_criteria": "Word formation processes are used properly to express clarity and fluency in oral and written communications",
+          "suggested_resources": [
+            "Texts",
+            "newspapers",
+            "audio-visual materials for word formation process"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "acad-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.1 Demonstrate the understanding of basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(b) Pronounce words correctly using stress and intonation in oral and written communications",
+          "suggested_methods": [
+            "Demonstration: Use video to guide students through pronouncing word stress and intonation, bang the tables, clap hands, put brackets to show a stressed part of the word and arrows to show the types of intonation",
+            "Discussion: In manageable groups, guide students through pronouncing simple words and sentences with stress and intonation",
+            "Song: Guide students through identifying word and sentence stress and intonation from the song"
+          ],
+          "assessment_criteria": "Words are pronounced properly by using stress and intonation in oral and written communications",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "acad-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.1 Demonstrate the understanding of basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(c) Interpret literal meanings of words and sentences in various contexts",
+          "suggested_methods": [
+            "Role-play: Guide students through acting out and interpreting literal meanings of key words and sentences as they appeared in the role-plays",
+            "Dialogue: Guide students through practising a dialogue while observing the proposed words and interpreting literal meanings of the words and sentences as they have been used in the dialogue"
+          ],
+          "assessment_criteria": "Literal meanings of words and sentences are interpreted properly in various contexts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 11,
+          "id": "acad-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.1 Demonstrate the understanding of basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(d) Evaluate the importance of stress and intonation in oral communications",
+          "suggested_methods": [
+            "Debate: Guide students through debating to evaluate the importance of stress and intonation in oral communication",
+            "Dramatisation: Guide students through dramatising a simple play with elements of wrong and right stresses and intonation, and evaluate the importance of stress and intonation in oral communication"
+          ],
+          "assessment_criteria": "Stress and intonation in oral communication are evaluated appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 12,
+          "id": "acad-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.2 Apply principles of language to construct sentences, paragraphs, and texts",
+          "learning_activity": "(a) Write different sentences using appropriate punctuation marks",
+          "suggested_methods": [
+            "Discussion: Guide students through discussing different uses of punctuation marks",
+            "Gallery-walk: Guide students through writing different sentences by using appropriate punctuation marks"
+          ],
+          "assessment_criteria": "Punctuation marks are used appropriately in writing different sentences",
+          "suggested_resources": [
+            "Texts",
+            "newspapers",
+            "audio-visual materials for word formation process"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "acad-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.2 Apply principles of language to construct sentences, paragraphs, and texts",
+          "learning_activity": "(b) Construct paragraphs using appropriate steps in writing texts",
+          "suggested_methods": [
+            "Jig-saw: Guide students through constructing paragraphs using proper steps in writing texts (pre-writing, researching, drafting, revising, editing and proofreading)",
+            "Gallery-walk: Guide students through constructing paragraphs by using proper steps of writing texts"
+          ],
+          "assessment_criteria": "Paragraphs are constructed appropriately in writing texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 13,
+          "id": "acad-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the principles of English language",
+          "specific_competence": "1.2 Apply principles of language to construct sentences, paragraphs, and texts",
+          "learning_activity": "(c) Compose essays using appropriate structure",
+          "suggested_methods": [
+            "Discussion: Guide students through composing essays and describing their structures"
+          ],
+          "assessment_criteria": "Essays are composed appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 14,
+          "id": "acad-five-7"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.1 Demonstrate mastery of the use of English in academic communication",
+          "learning_activity": "(a) Participate in dialogues and debates to discuss discipline-specific matters (e.g., markets, politics, education, health, etc.)",
+          "suggested_methods": [
+            "Dialogue, debate, discussion: With selected topics or issues, guide students through debating, discussing and doing dialogues on the discipline-specific matters in markets, politics, education, health and so on to determine their mastery of using English language in academic communication"
+          ],
+          "assessment_criteria": "Discipline-specific matters are discussed well in dialogues and debates",
+          "suggested_resources": [
+            "Recorded debates/dialogues",
+            "texts (sample of minutes and agenda from meetings)",
+            "influential people (politicians, preachers, motivational speakers, etc.) for discipline-specific matters"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "acad-five-8"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.1 Demonstrate mastery of the use of English in academic communication",
+          "learning_activity": "(b) Participate in formal and informal meetings (e.g., school, workplace, home, village, ward)",
+          "suggested_methods": [
+            "Dramatisation: Guide students through dramatising and identifying skills required to participate in formal and informal meetings",
+            "Simulation: Guide students through identifying skills required to participate in formal and informal meetings through simulation",
+            "Guest speaker/ Resource person: Invite a political leader/ a motivational speaker/ a resource person to give speeches for students to observe and learn the skills applied during the presentation",
+            "Discussion: In manageable groups, guide students through discussion to identify the skills required to conduct formal and informal meetings"
+          ],
+          "assessment_criteria": "Formal and informal meetings are conducted properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "acad-five-9"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.1 Demonstrate mastery of the use of English in academic communication",
+          "learning_activity": "(c) Narrate diverse events/activities/stories orally and in written communication",
+          "suggested_methods": [
+            "Story-telling: Guide students through narrating the events or activities experienced orally and in writing",
+            "Songs: Guide students through singing to narrate events and activities they experienced in their families"
+          ],
+          "assessment_criteria": "Diverse events/activities/life experiences are narrated appropriately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 17,
+          "id": "acad-five-10"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.2 Prepare different documents in English",
+          "learning_activity": "(a) Prepare posters for academic presentations",
+          "suggested_methods": [
+            "Project work: Guide students through preparing banners, sign-posts and logos for academic purposes",
+            "TIPS (Think-Ink-Pair-Share): Guide individual students through thinking and creating banners, sign-posts, posters and logos for academic presentations"
+          ],
+          "assessment_criteria": "posters, logos, and banners are created properly for various academic purposes",
+          "suggested_resources": [
+            "Samples of invitation cards",
+            "business cards",
+            "banners",
+            "posters",
+            "signposts",
+            "logos",
+            "references and citations for preparation of different documents in English"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "acad-five-11"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.3 Use ICT to search for academic information",
+          "learning_activity": "(a) Search for academic information from physical and online sources",
+          "suggested_methods": [
+            "Scenario: Guide students through assessing how the library resources are used to obtain academic information",
+            "Project work: Organise students in manageable groups and assign students some activities that require them to utilise online-library in order to search for academic information"
+          ],
+          "assessment_criteria": "Library resources are utilised properly to obtain academic information",
+          "suggested_resources": [
+            "Computers/tablets/smartphones",
+            "Internet",
+            "librarian/curator for academic information search"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "acad-five-12"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.3 Use ICT to search for academic information",
+          "learning_activity": "(b) Assess the importance of different basic databases in learning",
+          "suggested_methods": [
+            "Project work: Organise manageable groups and assign students tasks to assess the importance of different basic databases in learning",
+            "Discussion: Guide students through discussing how physical and online archives are important in obtaining academic information."
+          ],
+          "assessment_criteria": "Archives are used properly to obtain information",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 20,
+          "id": "acad-five-13"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.3 Use ICT to search for academic information",
+          "learning_activity": "(c) Participate in face-to-face research interviews to collect information",
+          "suggested_methods": [
+            "Scenario: Create a scenario that will guide students to identify the skills required to conduct face to face interview",
+            "Simulation: Guide students through conducting face to face interviews to collect information"
+          ],
+          "assessment_criteria": "Face-to-face research interviews are conducted properly to collect information",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "acad-five-14"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.4 Prepare and make academic presentations in English",
+          "learning_activity": "(a) Make classroom presentations",
+          "suggested_methods": [
+            "Scenario: Guide students through preparing and making classroom presentations of proposals and reports",
+            "Discussion: Guide students through discussing on how to make classroom presentations",
+            "Demonstration: Guide students through presenting proposals and reports in the classroom to develop presentation skills",
+            "Presentations: Guide students through making classroom presentation on the project works and reports"
+          ],
+          "assessment_criteria": "Research proposals and research reports are presented appropriately",
+          "suggested_resources": [
+            "Written speeches",
+            "audio-visual materials (radio, TV)",
+            "social media (Facebook, YouTube) for academic presentations in English"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "acad-five-15"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.5 Demonstrate mastery of using illustrations in academic documents",
+          "learning_activity": "(a) Identify simple and complex illustrations from various documents",
+          "suggested_methods": [
+            "Demonstration: Guide students through identifying simple and complex illustrations from various documents",
+            "RIPS (Read-Ink-Pair-Share): Provide students with books, maps, journals, articles, computers for everyone to identify simple and complex illustrations"
+          ],
+          "assessment_criteria": "Simple and complex visual aids are identified properly from various documents",
+          "suggested_resources": [
+            "Maps",
+            "newspapers",
+            "journal articles",
+            "computer",
+            "Internet for identifying simple and complex illustrations"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "acad-five-16"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.5 Demonstrate mastery of using illustrations in academic documents",
+          "learning_activity": "(b) Interpret simple illustrations used in documents",
+          "suggested_methods": [
+            "Scenarios: Using a scenario method, guide students through interpreting simple and complex illustrations used in various documents.",
+            "RIPS (Read-Ink-Pair-Share): Provide students with books, maps, journals, articles, computers for everyone to interpret simple and complex illustrations"
+          ],
+          "assessment_criteria": "Simple visual aids used in documents are interpreted properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 23,
+          "id": "acad-five-17"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.5 Demonstrate mastery of using illustrations in academic documents",
+          "learning_activity": "(c) Use simple illustrations to prepare academic documents",
+          "suggested_methods": [
+            "Project work: Ask students to prepare academic documents with simple illustrations such as bar charts, graphs, photograph, etc. and associate them with research proposals and reports done in 2.4"
+          ],
+          "assessment_criteria": "Simple visual aids are used properly to prepare academic documents",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 24,
+          "id": "acad-five-18"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of English language",
+          "specific_competence": "1.1 Demonstrate understanding of the basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(a) Construct sentences (complex, compound, etc.) by observing subject-verb agreement and appropriate word order in oral and written communications",
+          "suggested_methods": [
+            "TIPS (Think-Ink-Pair-Share): Guide individual students through constructing sentences of different types and writing them down for presentation",
+            "Dialogue: Guide students through conversations to discuss the sentences used in the dialogue"
+          ],
+          "assessment_criteria": "Sentences (complex, compound, etc.) are constructed properly by observing subject-verb agreement and appropriate word order",
+          "suggested_resources": [
+            "Dictionaries",
+            "oral and written texts on various fields for sentence construction"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "acad-six-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of English language",
+          "specific_competence": "1.1 Demonstrate understanding of the basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(b) Justify the necessity of word order in sentence construction",
+          "suggested_methods": [
+            "Scenarios: Guide students through justifying the necessity of word order in sentence construction",
+            "Debate: Guide students through debating on whether it is necessary or not to have word order in sentences construction"
+          ],
+          "assessment_criteria": "The necessity of word order in sentence construction is justified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 26,
+          "id": "acad-six-20"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of English language",
+          "specific_competence": "1.1 Demonstrate understanding of the basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(c) Use field-specific vocabularies (e.g., science, commerce, agriculture, etc.) in oral and written communication",
+          "suggested_methods": [
+            "Scenarios: Prepare a scenario that will guide students to identify field specific vocabularies and present them to the class",
+            "Project work: Assign students to do practical activities in science, commerce, agriculture, etc. and write reports on the performed practicals"
+          ],
+          "assessment_criteria": "Field-specific vocabulary (e.g., science, commerce, agriculture, etc.) are used appropriately in oral and written communications.",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "acad-six-21"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of English language",
+          "specific_competence": "1.1 Demonstrate understanding of the basic principles and usage of English language (e.g., syntax, pronunciation, grammar, etc.)",
+          "learning_activity": "(d) Interpret implied meanings of words and sentences in various contexts",
+          "suggested_methods": [
+            "Role-play: Prepare role-plays with words and sentences that will help students to interpret their implied meanings",
+            "Dialogue: Guide students through speaking out the words and sentences to interpret implied meanings"
+          ],
+          "assessment_criteria": "Implied meanings of words and sentences are interpreted correctly in various context",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "acad-six-22"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of English language",
+          "specific_competence": "1.2 Apply principles of language to construct sentences, paragraphs and texts",
+          "learning_activity": "(a) Write various reports using appropriate procedures",
+          "suggested_methods": [
+            "Project work: Guide students through preparing different reports, and let them present the report to the class",
+            "Simulation: Ask students to simulate a situation for a meeting and guide them through writing reports from the meetings",
+            "Demonstration: Prepare samples of memos and various reports, and guide students through reading and differentiating them",
+            "TIPS (Think-Ink-Pair-Share): Guide students through writing various reports and formal letters"
+          ],
+          "assessment_criteria": "Various reports are written properly",
+          "suggested_resources": [
+            "Samples of letters",
+            "curriculum vitae",
+            "reports and memos for writing various reports"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "acad-six-23"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.1 Demonstrate mastery of the use of English in academic communication",
+          "learning_activity": "(a) Make presentations on diverse matters (e.g., health, death, celebration, etc.) and contexts (e.g., school, home, workplace, etc.) using informative skills",
+          "suggested_methods": [
+            "Role-play: Guide students through reporting on diverse matters (e.g., health, death, celebration, etc.) and contexts (e.g., school, home, workplace, etc.) using informative skills through role-play",
+            "Study-tour: Guide students through visiting the nearby radio and Television stations to participate in interviews using informative skills",
+            "Role-play: Guide students through role-playing job interviews using informative skills"
+          ],
+          "assessment_criteria": "Diverse matters (e.g., health, death, celebration, etc.) and contexts (e.g., school, home, workplace) are reported",
+          "suggested_resources": [
+            "Samples of job advertisement",
+            "written announcements of deaths",
+            "accidents",
+            "police",
+            "etc. for making presentations on diverse matters"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "acad-six-24"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.2 Prepare different documents in English",
+          "learning_activity": "(a) Use e-mails, fax, online professional platforms (e.g., LinkedIn) and online portals (e.g., Ajira portal) to communicate information",
+          "suggested_methods": [
+            "Questions and Answers (Q&A); Project Work: Guide students through identifying on-line professional platforms through oral questions and answers",
+            "Project Work: Assign students to use e-mails, fax, LinkedIn, Ajira portal to communicate information and guide them through discussing to identify their effectiveness"
+          ],
+          "assessment_criteria": "E-mails, fax, online professional platforms (e.g., LinkedIn) and online portals (e.g., Ajira portal) are used properly to communicate information",
+          "suggested_resources": [
+            "Computer",
+            "Internet",
+            "printer",
+            "photocopy machine",
+            "scanner",
+            "projector",
+            "referencing programs",
+            "billboard pictures",
+            "posters",
+            "logos",
+            "signposts",
+            "and banners for communicating information"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "acad-six-25"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.2 Prepare different documents in English",
+          "learning_activity": "(b) Write project proposals and project reports",
+          "suggested_methods": [
+            "RIPS (Read-Ink-Pair-Share): Guide students through visiting a library, searching for important elements in writing project proposals and project reports and sharing with the whole class",
+            "Discussion: Organise students in manageable groups and guide them through discussing and writing project proposals and project reports"
+          ],
+          "assessment_criteria": "Project proposals and project reports are written properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "acad-six-26"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.2 Prepare different documents in English",
+          "learning_activity": "(c) Write references and citations in academic documents manually and by using software (e.g., Mendeley, Endnote, etc.)",
+          "suggested_methods": [
+            "TIPS (Think-Ink-Pair-Share): Guide students through assessing different documents with different citations and referencing done manually and by using software",
+            "Jig-saw: Guide students through writing references and citations in academic documents manually, and by using software (e.g., Mendeley, Endnote, etc.) for presentation"
+          ],
+          "assessment_criteria": "References and citations are written correctly in academic documents using software",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "acad-six-27"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.3 Use ICT to search for academic information",
+          "learning_activity": "(a) Conduct online research interviews to collect information",
+          "suggested_methods": [
+            "Scenario: Create a scenario that can help students to identify the skills required to conduct online research interviews",
+            "Simulation: Guide students through conducting online research interviews to collect information",
+            "Project work: Assign activities to students in groups and guide them through using online/virtual library to obtain academic information"
+          ],
+          "assessment_criteria": "Online/virtual libraries are utilised appropriately to obtain information",
+          "suggested_resources": [
+            "Internet-connected computers",
+            "online journals/archives/libraries special apps (e.g., Zoom, MS-Teams, Google Meet)",
+            "website links for communicating information"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "acad-six-28"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.3 Use ICT to search for academic information",
+          "learning_activity": "(b) Assess the importance of different basic databases in learning",
+          "suggested_methods": [
+            "Case study: Guide students through assessing the importance of different basic data bases in learning",
+            "Debate: Guide students through debating on the usefulness and importance of different basic databases in learning",
+            "Project work: Organise manageable groups of students and assign them some tasks that require discussion on the importance of different basic databases in learning"
+          ],
+          "assessment_criteria": "Importance of different basic databases in learning is assessed properly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "acad-six-29"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.4 Prepare and make academic presentations in English",
+          "learning_activity": "(a) Use multimedia devices (e.g., computer, projector, TV, etc.) in oral presentations",
+          "suggested_methods": [
+            "Demonstration: Ask students to use multimedia devices (e.g., computer, projector, TV, etc.) in oral presentations",
+            "Project work: Guide students through preparing presentations on various cross-cutting issues using multimedia devices (e.g., computer, projector, TV, etc.)"
+          ],
+          "assessment_criteria": "Multimedia devices (e.g., computer, projector, TV, etc.) are used appropriately in oral presentations",
+          "suggested_resources": [
+            "Computers",
+            "smartphones/tablets",
+            "projectors",
+            "Internet",
+            "TV",
+            "special apps (e.g., Zoom, MS-Teams, Google Meeting) for multimedia use"
+          ],
+          "periods_for_specific_competence": 37,
+          "id": "acad-six-30"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.4 Prepare and make academic presentations in English",
+          "learning_activity": "(b) Present project proposals and project reports",
+          "suggested_methods": [
+            "Demonstration: Guide students through presenting project proposals and reports",
+            "Presentations: Guide students through presenting the project proposals and project reports in groups"
+          ],
+          "assessment_criteria": "Project proposals and project reports are well presented",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 38,
+          "id": "acad-six-31"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.5 Demonstrate mastery of using illustrations in academic documents",
+          "learning_activity": "(a) Interpret complex illustrations used in various documents",
+          "suggested_methods": [
+            "Scenarios: Guide students through interpreting complex illustrations used in various documents",
+            "RIPS (Read-Ink-Pair-Share): Provide students with books, maps, journals, articles and computers for everyone to interpret complex illustrations"
+          ],
+          "assessment_criteria": "Complex visual aids used in various documents are interpreted properly",
+          "suggested_resources": [
+            "Newspapers",
+            "maps",
+            "computers",
+            "Internet",
+            "academic texts for interpretation of complex illustrations"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "acad-six-32"
+        },
+        {
+          "main_competence": "2.0 Apply academic communication skills",
+          "specific_competence": "2.5 Demonstrate mastery of using illustrations in academic documents",
+          "learning_activity": "(b) Use complex illustrations to prepare academic documents",
+          "suggested_methods": [
+            "Project work: Guide students through using complex illustrations to individually prepare academic documents"
+          ],
+          "assessment_criteria": "Complex visual aids are used properly to prepare academic documents",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "acad-six-33"
+        }
+      ]
+    }
+  }
+}

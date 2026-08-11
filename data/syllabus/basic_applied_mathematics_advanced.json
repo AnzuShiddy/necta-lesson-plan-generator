@@ -1,0 +1,258 @@
+{
+  "subject": "Basic Applied Mathematics",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727269234-BASIC%20APPLIED%20MATHEMATICS%20FINAL%20Folder.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.1. Use some advanced skills in geometry, trigonometry, and vectors to solve problems in different contexts",
+          "learning_activity": "Explore some advanced tenets of trigonometry (relationship of the secant, cosecant, and cotangent to the sine, cosine, and tangent, trigonometric identities: Pythagorean, compound and double angles)",
+          "suggested_methods": [
+            "Exploration: Guide students through geometrical drawings, measurements, graphs and geometrical animations to explore the basic tenets of trigonometry"
+          ],
+          "assessment_criteria": "Some advanced tenets of trigonometry are well explored",
+          "suggested_resources": [
+            "Scientific calculator",
+            "graph papers",
+            "trigonometry animations",
+            "geometrical software"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "basi-five-1"
+        },
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use functions and calculus to solve problems in different contexts",
+          "learning_activity": "(a) Explore some advanced tenets of functions (Properties, Domain and Range and graphs of cubic functions, rational functions with a constant numerator and a linear equation in the denominator, logarithmic, and exponential functions)",
+          "suggested_methods": [
+            "Jig Saw: In groups assign students with a different types of functions to explore its tenets through concrete examples, graphs and function simulations and share the results through presentations"
+          ],
+          "assessment_criteria": "Some advanced tenets of functions are well explored",
+          "suggested_resources": [
+            "Graph papers",
+            "graphing calculator",
+            "Mathematical software such as MATLAB, Maple, Mathematica"
+          ],
+          "periods_for_specific_competence": 88,
+          "id": "basi-five-2"
+        },
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use functions and calculus to solve problems in different contexts",
+          "learning_activity": "(b) Solve real life problems involving growth and decay",
+          "suggested_methods": [
+            "Scenario: Provide scenarios that shows the applications of algebra in solving growth and decay problems. Allow students to discuss, make follow up and provide feedback"
+          ],
+          "assessment_criteria": "Real life problems involving growth and decay are well solved",
+          "suggested_resources": [
+            "Scientific calculators",
+            "algebra animations",
+            "AI tools",
+            "Mathematical software such as Maple, GeoGebra, MATLAB, and Mathematica"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "basi-five-3"
+        },
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use functions and calculus to solve problems in different contexts",
+          "learning_activity": "(c) Exp lore the basic tenets of calculus (Differentiation: first principles, power rule, chain rule, product rule, and quotient rule, Integration: substitution method)",
+          "suggested_methods": [
+            "Group discussion: Organise students in groups to investigate the tenets of calculus through the use of Calculus books and technological tools"
+          ],
+          "assessment_criteria": "Basic tenets of calculus are well explored",
+          "suggested_resources": [
+            "Mathematical software such as Maple, GeoGebra, MATLAB, and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "basi-five-4"
+        },
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use functions and calculus to solve problems in different contexts",
+          "learning_activity": "(d) Use differentiation methods to solve real life problems (maximum and minimum, curve sketching, rate of change",
+          "suggested_methods": [
+            "Exploration: Guide students to solve real world problems and model them using tenets of differentiation through relevant books, ICT tools.",
+            "Drill and practice: Guide students to perform several tasks on applications of differentiation in real life situations"
+          ],
+          "assessment_criteria": "Uses of differentiation methods are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "basi-five-5"
+        },
+        {
+          "main_competence": "1.0 Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use functions and calculus to solve problems in different contexts",
+          "learning_activity": "(e) Use integration methods to solve real life problems (area under the curve, volume of solid of revolution, cost and revenue functions)",
+          "suggested_methods": [
+            "Problem solving: Individually or in groups, allow students to model and solve scenarios that reflects the application of integration in real life"
+          ],
+          "assessment_criteria": "Integration methods in solving real life problems are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "basi-five-6"
+        },
+        {
+          "main_competence": "2.0 Use algebra, set theory, and logic to solve problems in different contexts",
+          "specific_competence": "2.1 Apply knowledge of sequences and series in different contexts",
+          "learning_activity": "Use sequences and series to determine simple and compound interest",
+          "suggested_methods": [
+            "Exploration: Organise students to explore the basic tenets of sequence and series",
+            "Guest speaker: Invite a guest speaker to guide students towards understanding on the applications of sequence and series in determining simple and compound interest",
+            "Scenario: Provide a scenario that shows the applications of sequences and series in solving problems related to simple and compound interest"
+          ],
+          "assessment_criteria": "Sequences and series are used appropriately to determine simple and compound interest",
+          "suggested_resources": [
+            "Sequence and series charts",
+            "simple and compound interest calculators"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "basi-five-7"
+        },
+        {
+          "main_competence": "2.0 Use algebra, set theory, and logic to solve problems in different contexts",
+          "specific_competence": "2.2 Apply knowledge of algebra and number theory in different contexts",
+          "learning_activity": "Explore some advanced tenets of algebra (solve simultaneous equations of one linear and one quadratic equation algebraically and",
+          "suggested_methods": [
+            "Questions and answers: Assign students questions on algebra tenets and allow them to find answers through discussions, consulting relevant books and ICT tools and share their findings",
+            "Group discussion: Organise students in groups and provide practice tasks on finding solutions of simultaneous equations algebraically and graphically"
+          ],
+          "assessment_criteria": "Some advanced tenets of algebra are well explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple, GeoGebra, MATLAB, and AI tools"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "basi-five-8"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0   Use applied mathematical knowledge and skills",
+          "specific_competence": "1.1   Use some advanced skills in geometry, trigonometry, and vectors to solve problems in different contexts",
+          "learning_activity": "(a) Explore some advanced tenets of coordinate geometry (area of a triangle, angle between two lines and perpendicular distance from a point to a line)",
+          "suggested_methods": [
+            "Discovery method: Allow students to contextualize coordinate geometry into everyday life and explore its tenets by hypothesizing, experiment, justify findings and share their conclusions.",
+            "Drill and practice: Guide students to perform several tasks on the tenets of coordinate geometry"
+          ],
+          "assessment_criteria": "Some advanced tenets of Coordinate geometry are well explored",
+          "suggested_resources": [
+            "Graph papers",
+            "geometrical models",
+            "shape and angles animations",
+            "AI tools",
+            "Mathematical software such as Maple",
+            "Geoboards GeoGebra",
+            "MATLAB",
+            "and Mathematica"
+          ],
+          "periods_for_specific_competence": 48,
+          "id": "basi-six-9"
+        },
+        {
+          "main_competence": "1.0   Use applied mathematical knowledge and skills",
+          "specific_competence": "1.1   Use some advanced skills in geometry, trigonometry, and vectors to solve problems in different contexts",
+          "learning_activity": "(b) Explore some advanced tenets of vectors (unit vector, scalar product, cross product, angle between two vectors and work done by a constant force, derivative and integration of vector functions)",
+          "suggested_methods": [
+            "Group discussion: Allow students to work in groups to relate vectors in everyday life and explore its tenets through visual representations, manipulatives, technological tools and reporting of findings",
+            "Questions and answers: Equip students with suitable vector materials, assign them questions and allow them to present their findings"
+          ],
+          "assessment_criteria": "Some advanced tenets of vector is well explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "Mathematica",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "basi-six-10"
+        },
+        {
+          "main_competence": "1.0   Use applied mathematical knowledge and skills",
+          "specific_competence": "1.2 Use statistics to solve problems in different contexts",
+          "learning_activity": "Explore some advanced tenets of statistics (measure of central tendency and dispersion: calculate mean by the coding method, variance, standard deviation, quartiles, and percentiles)",
+          "suggested_methods": [
+            "Study tour: Organise a study tour and allow students to collect data from a visited organisation. Guide them to explore some basic tenets of statistics and allow them to present their findings",
+            "Questions and answers: Assign statistics questions and allow students to present and discuss their findings"
+          ],
+          "assessment_criteria": "Some advanced tenets of statistics are well explored",
+          "suggested_resources": [
+            "Collected data",
+            "graph papers",
+            "scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "and MATLAB (computer packages)"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "basi-six-11"
+        },
+        {
+          "main_competence": "2.0   Use algebra, set theory and logic to solve problems in different contexts",
+          "specific_competence": "2.1 Use set theory and logic in argumentation and decision making",
+          "learning_activity": "(a) Explore advanced tenets of set theory (operations involving three sets and cardinality of a set)",
+          "suggested_methods": [
+            "Questions and answers: Equip students with sets materials, prepare questions for students to perform and present their findings.",
+            "Group discussion: Organise students in groups and provide practice tasks on sets"
+          ],
+          "assessment_criteria": "Advanced tenets of set theory are well explored",
+          "suggested_resources": [
+            "Real objects",
+            "set simulations",
+            "charts of different sets",
+            "playing cards",
+            "manila papers",
+            "marker pens",
+            "colored chalks"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "basi-six-12"
+        },
+        {
+          "main_competence": "2.0   Use algebra, set theory and logic to solve problems in different contexts",
+          "specific_competence": "2.1 Use set theory and logic in argumentation and decision making",
+          "learning_activity": "(b) Explore the basic tenets of logic (statements, connectives, truth table, arguments involving three propositions, electrical networks involving three propositions)",
+          "suggested_methods": [
+            "Logic games: Guide students towards logic puzzles, games, and other iterative activities to enable learners understand the basic logic concepts"
+          ],
+          "assessment_criteria": "Basic tenets of logic are well explored",
+          "suggested_resources": [
+            "Logical argument Charts",
+            "switches",
+            "dry cells",
+            "water pipes",
+            "and logic networks animations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "basi-six-13"
+        },
+        {
+          "main_competence": "2.0   Use algebra, set theory and logic to solve problems in different contexts",
+          "specific_competence": "2.1 Use set theory and logic in argumentation and decision making",
+          "learning_activity": "(c) Use logic to analyse validity of arguments",
+          "suggested_methods": [
+            "Questions and answers: Equip students with suitable logic materials, prepare questions for students to perform, ask students to present their findings."
+          ],
+          "assessment_criteria": "Logic is used correctly to analyze the validity of arguments",
+          "suggested_resources": [
+            "Logical argument Charts",
+            "switches",
+            "dry cells",
+            "water pipes",
+            "and logic networks animations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "basi-six-14"
+        }
+      ]
+    }
+  }
+}

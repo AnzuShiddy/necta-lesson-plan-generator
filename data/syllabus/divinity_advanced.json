@@ -1,0 +1,378 @@
+{
+  "subject": "Divinity",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270070-DIVINITY%20SELLA%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts of governance, courage and decision making as depicted in the Old Testament",
+          "specific_competence": "1.1 Demonstrate an understanding of the concept and practice of governance as revealed in the books of Judges, Samuel and Kings",
+          "learning_activity": "(a) Explain the concept of Divinity",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the concept of Divinity"
+          ],
+          "assessment_criteria": "The concept of Divinity is well explained",
+          "suggested_resources": [
+            "Bible",
+            "videos on concept and practice of governance as per books of Judges, Samuel and Kings",
+            "biblical charts",
+            "ICT simulation tools",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "divi-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts of governance, courage and decision making as depicted in the Old Testament",
+          "specific_competence": "1.1 Demonstrate an understanding of the concept and practice of governance as revealed in the books of Judges, Samuel and Kings",
+          "learning_activity": "(b) Use the books of Judges, Samuel and Kings to discuss the concept and practice of governance",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the concept and practice of governance"
+          ],
+          "assessment_criteria": "The concept and practice of governance is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "divi-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts of governance, courage and decision making as depicted in the Old Testament",
+          "specific_competence": "1.2 Demonstrate an understanding of the concept of courage and decision making as revealed in the ministries of Prophets Elijah and Elisha",
+          "learning_activity": "(a) Use the ministries of Elijah and Elisha to discuss the concept of courage",
+          "suggested_methods": [
+            "Brainstorming: Student to brainstorm on the concept of prophet and prophecy",
+            "Group discussion: students to discuss the concept of courage by using ministries of prophet Elisha and Elijah"
+          ],
+          "assessment_criteria": "The concept of Prophet, Prophecy and courage are clearly discussed",
+          "suggested_resources": [
+            "Bible",
+            "videos on concept of courage as per ministries of Elijah and Elisha",
+            "biblical charts",
+            "ICT simulation tool and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "divi-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts of governance, courage and decision making as depicted in the Old Testament",
+          "specific_competence": "1.2 Demonstrate an understanding of the concept of courage and decision making as revealed in the ministries of Prophets Elijah and Elisha",
+          "learning_activity": "(b) Use the ministries of Elijah and Elisha to discuss the importance of making the right decisions at the right time",
+          "suggested_methods": [
+            "Library search: Assign students a task to read a Bible on the prophet Elijah",
+            "Role play: Assign students in groups to prepare the simulation games on courage seen in Elijah’s ministry",
+            "Group discussion: Students to discuss the importance of making the right decisions at the right time"
+          ],
+          "assessment_criteria": "The courage seen in Elijah’s ministry is well discussed",
+          "suggested_resources": [
+            "Bible",
+            "videos on importance of making right decisions at the right time",
+            "biblical charts and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "divi-five-4"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.1 Demonstrate an understanding of the teachings of Prophet Isaiah",
+          "learning_activity": "(a) Discuss the main ideas contained in the Book of Isaiah (Chapter 1-12)",
+          "suggested_methods": [
+            "Guest speaker: Invite a Theologian to discuss with students the messages from the book of prophet Isaiah"
+          ],
+          "assessment_criteria": "The messages in the book of prophet Isaiah are clearly discussed",
+          "suggested_resources": [
+            "Bible",
+            "videos on the teachings of Prophet Isaiah",
+            "biblical charts",
+            "ICT simulation tool",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "divi-five-5"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.1 Demonstrate an understanding of the teachings of Prophet Isaiah",
+          "learning_activity": "(b) Discuss the main ideas contained in the Book of Isaiah (Chapters 40-45)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the main ideas contained in the book of Isaiah Chapter 40-45"
+          ],
+          "assessment_criteria": "The main ideas contained in the book of Isaiah chapters 40-45 are well discussed",
+          "suggested_resources": [
+            "Bible and relevant biblical text"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "divi-five-6"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.1 Demonstrate an understanding of the teachings of Prophet Isaiah",
+          "learning_activity": "(c) Use the Book of Isaiah to discuss the importance of repentance and living a holy life",
+          "suggested_methods": [
+            "Group discussion: Guide Students to discuss Isaiah’s importance of repentance and living Holy life and their importance in real life"
+          ],
+          "assessment_criteria": "The importance of repentance and living Holy life according to the book of Isaiah is clearly analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "divi-five-7"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.2 Demonstrate an understanding of the concepts of social justice, compassion and forgiveness as depicted in the books of prophets Amos and Hosea",
+          "learning_activity": "(a) Use the Book of Amos to discuss the concept of social justice and violation of community rights",
+          "suggested_methods": [
+            "Scenario: Provide a scenario that shows the concept of social justice as seen in the book of Prophet Amos and guide students to share and discuss what they have learned from the scenario in relation to the concept of social justice",
+            "Guest speaker: To discuss with students about social justice and violation of community rights as they appear in the book of Prophet Amos"
+          ],
+          "assessment_criteria": "The concept of social justice and violation of community rights as seen in the book of Prophet Amos is well discussed",
+          "suggested_resources": [
+            "Relevant biblical books as commentaries and dictionaries"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "divi-five-8"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.2 Demonstrate an understanding of the concepts of social justice, compassion and forgiveness as depicted in the books of prophets Amos and Hosea",
+          "learning_activity": "(b) Use the Book of Hosea to understand God’s compassion, mercy and the importance of forgiveness",
+          "suggested_methods": [
+            "Guest speaker: invite a knowledgeable person to discuss with students about God’s compassion, mercy, and the importance of forgiveness"
+          ],
+          "assessment_criteria": "God’s compassion, mercy, and the importance of forgiveness are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "divi-five-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the works of selected prophets and their relevance in daily life",
+          "specific_competence": "2.3 Demonstrate an understanding of the importance of responsibility as depicted in the books of prophets Haggai and Zechariah",
+          "learning_activity": "Use the books of Haggai and Zechariah to discuss the importance of responsibility",
+          "suggested_methods": [
+            "Field trip: Assign students in groups to visit a church/ theologian to learn the importance of being responsible according to Haggai and Zachariah"
+          ],
+          "assessment_criteria": "The importance of being responsible according to prophets Haggai and Zechariah is clearly identified",
+          "suggested_resources": [
+            "Relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "divi-five-10"
+        },
+        {
+          "main_competence": "4.0 Conduct a Project in Divinity",
+          "specific_competence": "Conduct a project Design and carry out a project on a relevant problem in Divinity",
+          "learning_activity": "Conduct a project Design and carry out a project on a relevant problem in Divinity",
+          "suggested_methods": [
+            "Project work: Guide students to conduct a project of their preferences, and present the progress"
+          ],
+          "assessment_criteria": "The project work is well initiated, and progressing",
+          "suggested_resources": [
+            "Bible and other relevant biblical books",
+            "commentaries",
+            "churches and other religious institutions"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "divi-five-11"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.1 Demonstrate an understanding of the Gospel according to Matthew",
+          "learning_activity": "(a) Use the writings of Matthew to discuss the concept of the Gospel",
+          "suggested_methods": [
+            "Think-ink-pair -share: Let the students share and discuss what they know about the Gospel and relate their responses on the concepts of the Gospel according to Matthew"
+          ],
+          "assessment_criteria": "The concept of Gospel according to Mathew and its writing is clearly explained",
+          "suggested_resources": [
+            "Bible",
+            "videos on concept of the Gospel as per writings of Matthew",
+            "biblical charts",
+            "ICT simulation devices",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "divi-six-12"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.1 Demonstrate an understanding of the Gospel according to Matthew",
+          "learning_activity": "(b) Discuss the ministry of Jesus as portrayed in the Gospel according to Matthew",
+          "suggested_methods": [
+            "Group discussion: Guide students to find out the ministry of Jesus and share before the class"
+          ],
+          "assessment_criteria": "The ministry of Jesus according to the Gospel according to Mathew is clearly discussed",
+          "suggested_resources": [
+            "Relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "divi-six-13"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.1 Demonstrate an understanding of the Gospel according to Matthew",
+          "learning_activity": "(c) Discuss the role of women in the Gospel according to Matthew",
+          "suggested_methods": [
+            "Group discussion: Arrange the students in groups, let them assess and share the roles of women in the gospel according to Matthew"
+          ],
+          "assessment_criteria": "The roles of women in the Gospel according to Matthew is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "divi-six-14"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.2 Demonstrate  an understanding of the Gospel according to John",
+          "learning_activity": "(a) Use the writings of John to discuss the concept of the Gospel",
+          "suggested_methods": [
+            "Think-ink-pair-share: Let the students share what they know about the Gospel according to John"
+          ],
+          "assessment_criteria": "The concept of the Gospel according to John is well explained",
+          "suggested_resources": [
+            "Bible",
+            "videos on the concept of Gospel as per writings of John",
+            "biblical charts",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "divi-six-15"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.2 Demonstrate  an understanding of the Gospel according to John",
+          "learning_activity": "(b) Discuss the love of Jesus as portrayed in the Gospel according to John",
+          "suggested_methods": [
+            "Group discussion: Students to discuss about the love of Jesus and his teachings as it appears in the Gospel according to John"
+          ],
+          "assessment_criteria": "The love of Jesus and his teachings as it appears in the Gospel according to John is well discussed",
+          "suggested_resources": [
+            "Relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "divi-six-16"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.2 Demonstrate  an understanding of the Gospel according to John",
+          "learning_activity": "(c) Discuss the love of God to others as portrayed in the Gospel according to John",
+          "suggested_methods": [
+            "Think-ink-pair -share: Students to reflect and share the love of God to others as shown in the teachings of Jesus according to John"
+          ],
+          "assessment_criteria": "The love of God to others as shown in the teachings of Jesus according to John is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 14,
+          "id": "divi-six-17"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.3 Demonstrate  an understanding of the Epistle of Paul to the Romans",
+          "learning_activity": "(a) Discuss the reasons behind the Epistle of Paul to the Romans",
+          "suggested_methods": [
+            "Group discussion: Students to discuss the concept of the Epistle of Paul to the Romans"
+          ],
+          "assessment_criteria": "The concept of the Apostle Paul’s Epistle to the Romans is clearly explained",
+          "suggested_resources": [
+            "Bible",
+            "videos on the reasons behind the Epistle of Paul to the Romans",
+            "biblical charts",
+            "ICT simulation tool",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "divi-six-18"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.3 Demonstrate  an understanding of the Epistle of Paul to the Romans",
+          "learning_activity": "(b) Discuss the rights and obligations of rulers and their subjects as portrayed in the Epistle of Paul to the Romans",
+          "suggested_methods": [
+            "Debate: Guide students to debate on responsibility of the Authority to the people and the responsibility of the people to the Authority"
+          ],
+          "assessment_criteria": "The responsibility of the Authority to the people and the responsibility of the people to the authorities as it is outlined in Paul’s letter to the Romans is well discussed",
+          "suggested_resources": [
+            "Bible",
+            "videos on the rights and obligations of rulers and their subjects as per Epistle of Paul to the Romans biblical charts",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "divi-six-19"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.4 Demonstrate  an understanding of the Epistle of James",
+          "learning_activity": "(a) Discuss the reasons behind the Epistle of James",
+          "suggested_methods": [
+            "Guest speaker: Invite the resourceful person to speak about the concept of Epistles of James to all people",
+            "Group discussion: Guide students to summarise and share what they have learnt from the Guest Speaker"
+          ],
+          "assessment_criteria": "The reason behind the Epistle of James to all people is well discussed",
+          "suggested_resources": [
+            "Bible",
+            "videos on reasons behind the Epistle of James",
+            "biblical charts ICT simulation tool",
+            "and relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "divi-six-20"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.4 Demonstrate  an understanding of the Epistle of James",
+          "learning_activity": "(b) Discuss the various methods of maintaining communication, cooperation and good relations in society as expounded in the Epistle of James",
+          "suggested_methods": [
+            "Self- reflection: Formulate questions in relation to the communication in maintaining cooperation and good relation to the society as expounded in the letter of James"
+          ],
+          "assessment_criteria": "Various methods of communication in maintaining cooperation and good relations in society as expounded in the letter of James are well discussed",
+          "suggested_resources": [
+            "Relevant biblical books as commentaries"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "divi-six-21"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.4 Demonstrate  an understanding of the Epistle of James",
+          "learning_activity": "(c) Discuss the importance of living the Faith in action as expounded in the Epistle of James",
+          "suggested_methods": [
+            "Brainstorming: Students to brainstorm on the importance of living the faith in action and relate their findings of the importance of living the faith in action recently"
+          ],
+          "assessment_criteria": "The importance of living the Faith in action as it is shown in the Epistle of James to all people is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "divi-six-22"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of selected works from the New Testament",
+          "specific_competence": "3.4 Demonstrate  an understanding of the Epistle of James",
+          "learning_activity": "(d) Use Epistle of James to discuss the evils of prejudice in society",
+          "suggested_methods": [
+            "Role play: Assign students in manageable groups to prepare simulation games on warnings against prejudice in the society",
+            "Group discussion: Let students discuss lessons learned from the role play and relate their ideas with the particular topic"
+          ],
+          "assessment_criteria": "Warnings against prejudice in society according to the Epistle of James to all people is well discussed",
+          "suggested_resources": [
+            "Bible and relevant biblical text"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "divi-six-23"
+        },
+        {
+          "main_competence": "4.0 Conduct a Project in Divinity",
+          "specific_competence": "Conduct a project Complete and submit a report of the project started in Form Five",
+          "learning_activity": "Project work: Guide students to conduct a project of their preferences, submit and present their report",
+          "suggested_methods": [],
+          "assessment_criteria": "The project work is well conducted, and report presented and submitted",
+          "suggested_resources": [
+            "Bible and other relevant biblical books",
+            "commentaries",
+            "churches and other religious institutions"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "divi-six-24"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "subject": "Food and Nutrition",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270432-FOOD%20AND%20NUTRITION%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(a) Explain the concept of groups with special dietary needs (meaning, category and reasons)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the meaning of groups with special dietary needs",
+            "Group discussion: Guide students to discuss categories of groups with special dietary needs"
+          ],
+          "assessment_criteria": "The concept of groups with special dietary needs is well explained",
+          "suggested_resources": [
+            "Charts depicting categories of groups with special dietary needs"
+          ],
+          "periods_for_specific_competence": 9,
+          "id": "food-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(b) Analyse the nutritional requirements for each special group (children, adolescents, elders, vegetarians, pregnant women and lactating mothers, invalids and convalescents)",
+          "suggested_methods": [
+            "Scenario: Provide a scenario for students to identify nutritional needs of groups with special dietary needs then guide them to share",
+            "Field trip: Organise a field trip to health centres for students to observe nutrition education provided and write the report"
+          ],
+          "assessment_criteria": "Nutritional requirements for each group are well analysed",
+          "suggested_resources": [
+            "Charts depicting nutritional requirements for different special groups of people.",
+            "Food composition tables."
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "food-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(c) Explain the concept of Nutrients values (meaning, types, uses and major factors considered in developing nutrient values)",
+          "suggested_methods": [
+            "Group discussion: Guide students to explore the concept of nutrient values",
+            "Group discussion: Guide student to explore meaning types uses and major factors considered in developing nutrient values"
+          ],
+          "assessment_criteria": "The concept of Nutrients value is well explained",
+          "suggested_resources": [
+            "Food composition tables, RDA/NRV’s tables"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "food-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(d) Use RDA/NRV’s tables to determine nutritional requirements of individuals",
+          "suggested_methods": [
+            "Group discussion: Guide students to use RDA/NRV’s tables to determine nutritional requirements of individuals"
+          ],
+          "assessment_criteria": "Nutritional requirements of each group are determined",
+          "suggested_resources": [
+            "RDA/NRV’s tables, food composition tables."
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "food-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(e) Compute the nutrients intake for different groups using food composition tables and compare with RDA",
+          "suggested_methods": [
+            "Group discussion: Guide students to use various food composition tables to compute nutrient intake for various individuals and make comparison with RDA"
+          ],
+          "assessment_criteria": "Nutrients intake for different groups are well computed and compared with RDA",
+          "suggested_resources": [
+            "Food composition tables, RDA table"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "food-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(f) Plan meals for each group of individual with special dietary needs based on RDA, food composition table and Tanzania food based dietary guidelines",
+          "suggested_methods": [
+            "Gallery walk: Guide students to plan meals for groups with special dietary needs based on RDA, food composition table and Tanzania food based dietary guidelines",
+            "Discussion: Guide them to discuss what they have planned"
+          ],
+          "assessment_criteria": "Meals for individuals with special dietary needs are well planned",
+          "suggested_resources": [
+            "Food composition tables, RDA tables"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "food-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(g) Describe energy balance (meaning and components of energy expenditure)",
+          "suggested_methods": [
+            "Questions and answers: Provide questions for students to get the meaning of energy balance",
+            "Jigsaw: Organise students to discuss components of energy expenditure",
+            "Project activity: Task students in their club to calculate basal metabolic Index of different individuals"
+          ],
+          "assessment_criteria": "Energy balance concept is well described",
+          "suggested_resources": [
+            "Weighing scale, Stadiometer"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "food-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+          "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+          "suggested_methods": [
+            "Skill lab: Demonstrate on how to extract nutrients from various foods",
+            "Organise students to perform the experiments to test the presence of nutrients in foods"
+          ],
+          "assessment_criteria": "Various nutrients from selected foods are extracted",
+          "suggested_resources": [
+            "Food items such as cereals, milk, coconut, seeds and nuts,",
+            "laboratory apparatus and reagents"
+          ],
+          "periods_for_specific_competence": 75,
+          "id": "food-five-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+          "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+          "suggested_methods": [
+            "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+          ],
+          "assessment_criteria": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+          "suggested_resources": [
+            "Food items",
+            "laboratory apparatus and chemicals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "food-five-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+          "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+          "suggested_methods": [
+            "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+            "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+          ],
+          "assessment_criteria": "Nutrient present in foods are well determined",
+          "suggested_resources": [
+            "Food items containing protein, starch, fats,",
+            "laboratory apparatus,",
+            "relevant chemicals"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "food-five-10"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+          "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+          "suggested_methods": [
+            "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+            "Group discussion: Guide students to discuss what they have learnt and share"
+          ],
+          "assessment_criteria": "Determinants of good nutrition and intra-household food distribution are well described",
+          "suggested_resources": [
+            "A chart showing determinants of good nutrition"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "food-five-11"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+          "specific_competence": "2.1 Conduct nutritional assessment",
+          "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+          "suggested_methods": [
+            "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+          ],
+          "assessment_criteria": "Nutritional assessment methods are well described",
+          "suggested_resources": [
+            "Dietary assessment tools"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "food-five-12"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+          "specific_competence": "2.1 Conduct nutritional assessment",
+          "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+          "suggested_methods": [
+            "Field work: Guide students to carry out nutritional assessment",
+            "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+          ],
+          "assessment_criteria": "Nutritional assessment is well conducted",
+          "suggested_resources": [
+            "Dietary assessment tools, such as Food weighing scales,",
+            "anthropometric measurement equipment"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "food-five-13"
+        },
+        {
+          "main_competence": "3.0 Carry out a project in Food and Nutrition",
+          "specific_competence": "Conduct a project in Food and Nutrition",
+          "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+          "suggested_methods": [
+            "Project: Guide students in their subject club to design a project on food and nutrition"
+          ],
+          "assessment_criteria": "A project on food and nutrition is well designed",
+          "suggested_resources": [
+            "Articles,",
+            "Journals,",
+            "Anthropometric measuring equipment questionnaire,",
+            "RDA tables,",
+            "food composition tables"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "food-five-14"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0  Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.1  Demonstrate an understanding of the dietary needs for different groups of people",
+          "learning_activity": "(a) Describe nutritional intervention programmes (the concept, reasons and examples: Vitamin A supplementation, iron and folic acid supplementation, food fortification, exclusive breastfeeding, nutritional education, deworming  and HIV and AIDS interventions)",
+          "suggested_methods": [
+            "Think pair share: Guide students to brainstorm on nutritional intervention programmes",
+            "Group discussion: Guide students to discuss various nutritional intervention programmes",
+            "Field trip: Organise field trip to various intervention centres for students to learn on intervention programmes",
+            "Guide students to write the report and share"
+          ],
+          "assessment_criteria": "Nutritional intervention programmes are correctly described",
+          "suggested_resources": [
+            "Fortified foods",
+            "Food supplements"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "food-six-15"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of principles of Food and Nutrition",
+          "specific_competence": "1.2 Conduct experiments on the nutrient content of different types of food",
+          "learning_activity": "(b) Carry out laboratory analysis to determine minerals in foods",
+          "suggested_methods": [
+            "Skills Lab: Demonstrate experiment on minerals determination",
+            "Organise students to perform experiments and write reports"
+          ],
+          "assessment_criteria": "Laboratory analysis to determine minerals in food is well conducted",
+          "suggested_resources": [
+            "Food items",
+            "laboratory apparatus and chemical reagents"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "food-six-16"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(a) Apply modern methods to process food (milling, canning and bottling, fermentation, pasteurization, sterilization, dehydration,  pickling)",
+          "suggested_methods": [
+            "Group discussion: Organise students into groups to discuss modern methods of food processing",
+            "Field trip: Organise a trip to the nearby food processing industry for the students to explore on food processing procedures",
+            "Guide them to write the report and share",
+            "Project: Guide students in their subject clubs to process various food stuffs"
+          ],
+          "assessment_criteria": "Different food stuffs are well processed using modern methods",
+          "suggested_resources": [
+            "Processed foods such as fermented and pasteurized milk",
+            "laboratory apparatus",
+            "chemical reagents",
+            "heat sources",
+            "food items"
+          ],
+          "periods_for_specific_competence": 256,
+          "id": "food-six-17"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(b) Conduct laboratory analysis to determine the effect of heat and air on selected foods",
+          "suggested_methods": [
+            "Skills Lab: Demonstrate experiment on the effect of heat and air on various food stuffs",
+            "Guide students  to perform experiments, write reports and share"
+          ],
+          "assessment_criteria": "Laboratory analysis to determine the effect of heat and air on selected foods is well conducted",
+          "suggested_resources": [
+            "Food items",
+            "kitchen equipment",
+            "laboratory apparatus and chemical reagents",
+            "heat sources"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "food-six-18"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(c) Carry out laboratory analysis to determine the actions of raising agents",
+          "suggested_methods": [
+            "Skills Lab: Demonstrate experiments on the action of raising agents on foods",
+            "Guide students  to perform experiments, write reports and share"
+          ],
+          "assessment_criteria": "Laboratory analysis to determine the actions of raising agents is well conducted",
+          "suggested_resources": [
+            "Laboratory apparatus and chemical reagents",
+            "raising agents",
+            "heat sources",
+            "food items"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "food-six-19"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(d) Describe the biochemistry of food preservation (principles and modern methods of food preservation)",
+          "suggested_methods": [
+            "ICT based learning: Task students to explore biochemistry of food preservation",
+            "Group discussion: Guide the students to discuss the findings from ICT based learning"
+          ],
+          "assessment_criteria": "The biochemistry of food preservation is clearly described",
+          "suggested_resources": [
+            "Pictures/ videos showing modern methods of food preservation"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "food-six-20"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(e) Apply modern methods to preserve food (addition of chemicals,  freezing,  canning and bottling),",
+          "suggested_methods": [
+            "Project: Guide students in their subject clubs to preserve different food stuffs"
+          ],
+          "assessment_criteria": "Modern methods preserving food are correctly applied",
+          "suggested_resources": [
+            "Pictures/ videos showing modern methods of food preservation",
+            "chemical preservatives",
+            "heat sources",
+            "preservation equipment",
+            "food items"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "food-six-21"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(f) Conduct laboratory analysis to determine the effects of preservation on selected foods",
+          "suggested_methods": [
+            "Skills Lab: Demonstrate experiments to observe the effects of preservation on selected foods",
+            "Guide students to observe the effects of preservation on selected foods."
+          ],
+          "assessment_criteria": "Laboratory analysis to determine the effect of preservation on selected foods is well conducted",
+          "suggested_resources": [
+            "Kitchen equipment",
+            "food preservatives",
+            "heat sources",
+            "food items"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "food-six-22"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(g) Conduct laboratory analysis to identify effect of acids and alkali on food",
+          "suggested_methods": [
+            "Skills lab: Demonstrate experiments on the effect of acids and alkali on food",
+            "Guide students to perform experiments, write reports and share"
+          ],
+          "assessment_criteria": "Laboratory analysis to identify the effect of acids and alkali on foods is well  conducted",
+          "suggested_resources": [
+            "Pictures/ videos showing effects of acids or alkalis on food",
+            "laboratory apparatus and chemical reagents",
+            "heat sources",
+            "food items"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "food-six-23"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the technology for processing and preserving food",
+          "specific_competence": "2.1 Process and preserve different types of food",
+          "learning_activity": "(h) Carry out laboratory analysis to determine spoilage microorganisms in food",
+          "suggested_methods": [
+            "Group discussion: Guide students to describe micro-organisms affecting food",
+            "Skills lab: Demonstrate experiments on determination of spoilage microorganisms in food",
+            "Guide students to perform experiments, write reports and share"
+          ],
+          "assessment_criteria": "Microorganisms affecting food are clearly described. Laboratory analysis to determine spoilage microorganisms in food is well conducted",
+          "suggested_resources": [
+            "Pictures/videos showing microbial spoilage foods",
+            "laboratory apparatus and chemical reagent",
+            "microscope",
+            "heat sources",
+            "food items"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "food-six-24"
+        },
+        {
+          "main_competence": "3.0  Carry out a project in Food and Nutrition",
+          "specific_competence": "3.1 Conduct a project in Food and Nutrition",
+          "learning_activity": "(a) Complete and submit for assessment the project initiated in Form V",
+          "suggested_methods": [
+            "Group discussion: Encourage the students   in groups to discuss and finalise the project initiated in form five and submit for assessment"
+          ],
+          "assessment_criteria": "Report of the project is well completed and submitted",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "food-six-25"
+        }
+      ]
+    }
+  }
+}

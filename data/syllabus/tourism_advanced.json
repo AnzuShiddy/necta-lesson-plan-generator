@@ -1,0 +1,713 @@
+{
+  "subject": "Tourism",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1745580916-TOURISM%20FOR%20FORM%20V-VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, components and impacts of tourism operations",
+          "learning_activity": "(a) Describe the concepts of tourism (meaning, trends and patterns, forms, types and motivational factors)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the terms used in describing tourism and factors that motivate individuals to travel",
+            "Group discussion: Guide students to discuss trends and patterns, forms, types and factors that motivate individuals to travel"
+          ],
+          "assessment_criteria": "Concepts of tourism are described",
+          "suggested_resources": [
+            "Maps showing tourism destinations",
+            "pictures of tourists doing activities",
+            "and Audio/audio visual resources"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "tour-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, components and impacts of tourism operations",
+          "learning_activity": "(b) Explain, components and characteristics of tourism products and services",
+          "suggested_methods": [
+            "Scenario: Guide students to discuss scenarios related to , components and characteristics of tourism products and services",
+            "Multimedia sources: With the aid of video or online sources, allow students to explore components of tourism products"
+          ],
+          "assessment_criteria": "Components and characteristics of tourism products and services are explained",
+          "suggested_resources": [
+            "Pictures of tourism products and audio/audio visual resources",
+            "computer",
+            "projector",
+            "smart screen television"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "tour-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, components and impacts of tourism operations",
+          "learning_activity": "(c) Explain the impacts of tourism (economic, social-cultural and environmental)",
+          "suggested_methods": [
+            "Group discussion: Give students an opportunity to Explain various impacts of tourism as related to economic, social-cultural and environmental",
+            "Field trip: Organize a field trip to a tourism attraction(s)/ destination and present a field report"
+          ],
+          "assessment_criteria": "The impacts of tourism (economic, social-cultural and environmental) are explained",
+          "suggested_resources": [
+            "Videos",
+            "maps",
+            "field gears",
+            "foreign currency",
+            "pictures showing tour vehicles",
+            "boats",
+            "trains",
+            "and aeroplanes"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, components and impacts of tourism operations",
+          "learning_activity": "(d) Explore internal and external factors affecting tourism",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate scenario questions to help identify factors affecting tourism",
+            "ICT-Based Search Allow students to search from online sources the factors affecting tourism."
+          ],
+          "assessment_criteria": "Internal and external factors affecting tourism are explored",
+          "suggested_resources": [
+            "Flip charts and marker pens",
+            "pictures Audio/ audio visual resources"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "tour-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.1 Demonstrate an understanding of concepts, components and impacts of tourism operations",
+          "learning_activity": "(e) Explain organisations responsible for tourism development",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on National and International tourism organisations",
+            "Guest speakers: Invite practitioners from organisations responsible for tourism to explain roles of various organisations in tourism development",
+            "Group discussion: Guide students to discuss roles played by various organisations in tourism development",
+            "Virtual learning: Organize and allow students to attend various virtual training"
+          ],
+          "assessment_criteria": "Organizations responsible for tourism development are explained",
+          "suggested_resources": [
+            "Online sources like websites",
+            "pictures and videos of various roles performed by these institutions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.2 Apply basic hospitality and customer service in tourism operations",
+          "learning_activity": "(a) Explain the concepts of hospitality industry (meaning, hospitality personnel, importance)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the terms used to describe the hospitality industry",
+            "Group discussion: Guide students to discuss the importance of the hospitality industry"
+          ],
+          "assessment_criteria": "Concepts of the hospitality and customer service in tourism are explained",
+          "suggested_resources": [
+            "Videos and pictures showing various hospitality related sectors and hospitality personnel",
+            "flip charts and marker pen."
+          ],
+          "periods_for_specific_competence": 46,
+          "id": "tour-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.2 Apply basic hospitality and customer service in tourism operations",
+          "learning_activity": "(b) Describe concept of accommodation (meaning and types)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the terms used to describe accommodation",
+            "Group discussion: Guide students to discuss types of accommodation in tourism and hospitality"
+          ],
+          "assessment_criteria": "Concept of accommodation are explained",
+          "suggested_resources": [
+            "Videos and pictures showing various accommodation facilities"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "tour-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.2 Apply basic hospitality and customer service in tourism operations",
+          "learning_activity": "(c) Describe hotel departments (core and supportive)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate questions to describe core hotel departments by drawing organization structure",
+            "Role play: Organize students in groups to practice check in and check out procedures",
+            "Demonstration: Organize students to participate in cooking practices for various dishes, food and beverage services, guest room and public area cleanliness, bed making and basic laundry services (linen classification, cleaning, ironing and folding)",
+            "Guest speaker: Invite various hospitality professionals to share experience in hospitality operations",
+            "Multimedia sources: With the aid of video or online sources, allow students to explore hotel department functions",
+            "Industrial training: Allow students to participate various hotel sections training to grasp hands on skills related to hotel operation",
+            "Presentation: Allow students to present discussed questions on hotel and departments organization structures",
+            "Field trip: Organize a field trip to the hospitality facilities and allow students to learn various sections",
+            "Virtual learning: Organize and allow students to attend various virtual training",
+            "Think-Ink-Pair-Share: Formulate questions to describe roles of hospitality supporting departments and their significance",
+            "Exploration: Assign the students to make use of online and offline resources to search materials regarding hotel supportive department"
+          ],
+          "assessment_criteria": "hotel departments are described",
+          "suggested_resources": [
+            "Flip chart and maker pen",
+            "Audio/audio visual resources",
+            "reception desk",
+            "kitchen",
+            "restaurant facilities",
+            "cutleries and crockeries",
+            "bed and beddings",
+            "iron box",
+            "ironing board",
+            "detergents",
+            "trolley"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "tour-five-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.2 Apply basic hospitality and customer service in tourism operations",
+          "learning_activity": "(d) Explain concepts of customer service (Meaning, types, roles, customer expectations, importance and professional customer service skills)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept on the customer services",
+            "Group discussion: Guide students to discuss types, roles, customer expectations and importance of customer service",
+            "Role play: Organize students in groups to demonstrate customer service skills in a tourism and hospitality",
+            "Field trip: Organize a field trip to an accommodation establishment to learn customer service operations",
+            "Guest speaker: Invite experienced hotelier personnel to orient students on customer service"
+          ],
+          "assessment_criteria": "Concepts of customer service are explained",
+          "suggested_resources": [
+            "Videos and pictures",
+            "Audio/audio visual resources"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "tour-five-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.2 Apply basic hospitality and customer service in tourism operations",
+          "learning_activity": "(e) Practice and procedures for handling customers’ complaints (causes, techniques and importance)",
+          "suggested_methods": [
+            "Role Play: Organize students in groups to demonstrate causes and techniques for solving customers’ complaints in a tourism related activity",
+            "Multimedia sources: With the aid of video or online sources, allow students to explore various techniques for handling customers’ complaints and service recovery",
+            "Virtual learning: Organize and allow students to attend virtual training",
+            "Field trip: Organize a field trip to the accommodation establishment to practice procedures for handling customers’ complaints"
+          ],
+          "assessment_criteria": "Procedures of handling customers’ complaints are practiced",
+          "suggested_resources": [
+            "Videos and pictures showing customers handling complaints procedures"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "tour-five-10"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.3 Demonstrate an understanding of travel and tourism operation",
+          "learning_activity": "(a) Explain of travel and tourism operation (meaning, and functions of tour intermediaries",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of travel and tourism operation",
+            "Group discussion: Guide students to discuss functions of tour intermediaries"
+          ],
+          "assessment_criteria": "Basic concepts of travel and tourism operation are explained",
+          "suggested_resources": [
+            "Videos and pictures showing various functions of transportation in tourism"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "tour-five-11"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.3 Demonstrate an understanding of travel and tourism operation",
+          "learning_activity": "(b) Describe the tourism transportation systems (modes and means, entry and exit points)",
+          "suggested_methods": [
+            "Multimedia sources: With the aid of video or online sources, allow students to explore transportation systems used by various tourists",
+            "Field trip: Organize a field trip to a tourism operating attraction to learn means of transport, entry and exit points and present a field visit report",
+            "Virtual learning: Organize and allow students to attend virtual training"
+          ],
+          "assessment_criteria": "Transportation system is described",
+          "suggested_resources": [
+            "Videos and pictures",
+            "various models related to transport",
+            "maps showing modes of transport"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "tour-five-12"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.3 Demonstrate an understanding of travel and tourism operation",
+          "learning_activity": "(c) Describe basics of travel procedures and formalities",
+          "suggested_methods": [
+            "Role Play: Organize students in groups to demonstrate procedures for handling visitors’ arrival and departure at entry and exit points",
+            "Guest speaker: Invite experienced travel personnel to share travel formalities and procedures with students",
+            "Field trip: Organize field trips to various entry and exit points and allow students to learn various travel procedures and formalities",
+            "Virtual learning: Organize and allow students to attend virtual training sessions"
+          ],
+          "assessment_criteria": "The basics of travel procedures and formalities are described",
+          "suggested_resources": [
+            "Samples of various passports and VISA",
+            "Audio/audio-visual resources",
+            "entry permit",
+            "health certificate"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "tour-five-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.4 Apply tour guiding in tour operations",
+          "learning_activity": "(a) Explain basic concepts of tour guiding (meaning, categories, ethics, roles)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate questions to describe concepts of tour guiding",
+            "Role Play: Organize students in groups to demonstrate the roles of tour guides",
+            "Multimedia source: With the aid of video or online sources, allow students to explore the categories and roles of tour guides"
+          ],
+          "assessment_criteria": "Basic concepts of tour guiding operations are explored",
+          "suggested_resources": [
+            "Video and pictures",
+            "field guide books",
+            "field outfits and gears"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "tour-five-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.4 Apply tour guiding in tour operations",
+          "learning_activity": "(b) Explain process for organising and conducting tour (pre-tour arrangement, on-tour arrangement and post-tour arrangement)",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss process for organizing pre tour arrangement, on tour arrangement and post tour arrangement",
+            "Multimedia source: With the aid of video or online sources, allow students to explore process of organizing and conducting tours",
+            "Virtual learning: Organize and allow students to attend various virtual training"
+          ],
+          "assessment_criteria": "Tour itinerary in conducting tours is executed",
+          "suggested_resources": [
+            "Maps",
+            "charts",
+            "video and pictures",
+            "Travel brochures and guides"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "tour-five-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.4 Apply tour guiding in tour operations",
+          "learning_activity": "(c) Identify and interpret biotic resources by characteristic and behaviour (mammals, birds, fish, reptiles, amphibians and plants)",
+          "suggested_methods": [
+            "Brainstorming Guide students to explain concepts related to interpretation and brainstorm various techniques of interpretation",
+            "Field practical training: Organize a field tour to a tourism site to learn various biotic resources",
+            "Storytelling Techniques: Allow students to tell compelling and interesting stories about any biotic resources to a visitor",
+            "Multimedia source: With the aid of video or online sources, allow students to explore various biotic resources",
+            "Guest speaker: Invite a professional tour guide to share skills and experience on identification and interpretation of biotic resources",
+            "Spot test: Prepare pictorial items for students to make identification of biotic resources",
+            "Demonstration: Allow students to explore biotic resources in the biological laboratory",
+            "Virtual learning: Organize and allow students to attend various virtual training from different sessions of virtual guest speaker, online role play, case studies and webinars"
+          ],
+          "assessment_criteria": "Biotic resources are identified and interpreted",
+          "suggested_resources": [
+            "Field guide books",
+            "video and pictures",
+            "field safari gears (tents, binoculars, cameras, torches, sleeping mats)",
+            "Marine/ water sports gears (kayaks/canoeing, cooking utensils, scuba diving, snorkeling, boating gears)"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "tour-five-16"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.4 Apply tour guiding in tour operations",
+          "learning_activity": "(d) Conducting tours in cultural and natural resources",
+          "suggested_methods": [
+            "Field practical training: Organize a field trip to a one of tourism destination to learn various cultural action",
+            "Storytelling Techniques: Allow students to tell compelling and interesting stories about any cultural sites resources to a visitor",
+            "Guest speaker: Invite an experienced tour guide to share identification and interpretation skills to students",
+            "Spot test: Prepare pictorial items for students to make identification of cultural and physical features",
+            "Virtual learning: Organize and allow students to attend virtual training"
+          ],
+          "assessment_criteria": "Tours in cultural and natural resources are conducted",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "Field guide books",
+            "video and pictures"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "tour-five-17"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.4 Apply tour guiding in tour operations",
+          "learning_activity": "(e) Explain tour guiding technology, challenges and resilience",
+          "suggested_methods": [
+            "Group discussion Guide students to discuss technologies used in guiding operations, challenges and resilience of tour guides",
+            "Guest speaker: Invite a professional tour guide to orient students on challenges facing tour guides and resilience of tour guides",
+            "Guest speaker: Invite a professional tour guide to orient students on challenges facing tour guides and resilience"
+          ],
+          "assessment_criteria": "Tour guiding technology, challenges and resilience are explained",
+          "suggested_resources": [
+            "Audio/ audiovisual",
+            "video",
+            "pictures",
+            "reliable online sources and guide books"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "tour-five-18"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.5 Apply safety and security measures in tourism operations",
+          "learning_activity": "(a) Describe basic concepts of safety and security (Meaning, and importance)",
+          "suggested_methods": [
+            "Brainstorming: Organize students in groups to brainstorm meaning and importance of safety and security",
+            "Group discussion: Guide students to discuss meaning, measures and importance of safety and security in tourism operations",
+            "Guest speaker: Invite professional personnel from tourism institutions to orient students about safety and security issues in tourism operations"
+          ],
+          "assessment_criteria": "Basic concepts of first aid, safety and security are described",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "Video and pictures of various safety and security precautions"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "tour-five-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.5 Apply safety and security measures in tourism operations",
+          "learning_activity": "(b) Manage crises and risks in tourism operations, (types, impacts and strategies)",
+          "suggested_methods": [
+            "Multimedia source: With the aid of video or online sources, allow students to explore types of crises, risks in tourism operations",
+            "Think-Ink-Pair-Share: Formulate questions to identify and describe impacts of safety and security threats in tourism",
+            "Group discussion: Guide students to discuss strategies to combat safety and security threats in tourism",
+            "Virtual learning: Organize and allow students to attend virtual training",
+            "Guest speaker: Invite professional personnel from Occupational, Safety and Health Agency (OSHA), Fire and Rescue Force Tanzania (FIRE), Criminal investigation department (police) or"
+          ],
+          "assessment_criteria": "Risks and threats in tourism operations are managed",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "Video and pictures of various threats in tourism",
+            "Computers",
+            "Smart screen",
+            "projectors",
+            "reliable online sources (UNWTO, and WHO)"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "tour-five-20"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery in principles and practice of tourism",
+          "specific_competence": "1.5 Apply safety and security measures in tourism operations",
+          "learning_activity": "(c) Employ emergency care and first aid techniques in tourism operations (emergency care, first aid kit and techniques, institutions responsible for first aid, emergency and security )",
+          "suggested_methods": [
+            "Gamification: Use game design techniques to present scenarios that will require students to practice first aid skills and techniques in tourism operations",
+            "Demonstration: Organize students in groups to demonstrate emergency care and first aid techniques to casualty",
+            "Guest speaker: Invite professional personnel from Occupational, Safety and Health Agency (OSHA), Fire and Rescue Force Tanzania (FIRE) or hospital/health centre or dispensary to share various risks, threats and techniques for first aid in tourism"
+          ],
+          "assessment_criteria": "Emergency and first aid in tourism operation are employed",
+          "suggested_resources": [
+            "Firefighting gears",
+            "first aid kit",
+            "models to show human anatomy",
+            "videos and pictures showing various techniques to provide emergence care and first aid to casualty",
+            "Audio/audio visual material"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "tour-five-21"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.1 Demonstrate sustainable tourism",
+          "learning_activity": "(a) Describe concepts of sustainable tourism (meaning, principles, pillars and impacts)",
+          "suggested_methods": [
+            "Brainstorming: Organise students in groups to brainstorm the meaning and principles of sustainable tourism",
+            "Group discussion: Guide students to discuss the pillars and impacts of sustainable tourism"
+          ],
+          "assessment_criteria": "Concepts of sustainability are described",
+          "suggested_resources": [
+            "Audio/ audio-visual material",
+            "video and pictures of various sustainable tourism pillars"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "tour-five-22"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.1 Demonstrate sustainable tourism",
+          "learning_activity": "(b) Describe the roles of stakeholders in sustainable tourism",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate questions to describe stakeholders in sustainable tourism",
+            "Case study: Provide case studies that portray stakeholder’s roles in sustainable tourism practices",
+            "Multimedia source: With the aid of video or online sources, allow students to explore roles of sustainable tourism stakeholders",
+            "Guest speaker: Invite experienced personnel to orient students on sustainable tourism practices",
+            "Debate: Organize students to discuss sustainable tourism practices"
+          ],
+          "assessment_criteria": "Roles of various stakeholders in sustainable tourism are described",
+          "suggested_resources": [
+            "Audio/ audio visual material",
+            "video and pictures of various sustainable tourism stakeholders",
+            "Internet sources and relevant written documents"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "tour-five-23"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.1 Demonstrate sustainable tourism",
+          "learning_activity": "(c) Discuss challenges for implementing sustainable tourism practices",
+          "suggested_methods": [
+            "Reflection: Guide students to recall the principles of sustainable tourism. Relate their responses to the challenges of implementing sustainable tourism practices",
+            "Multimedia source: With the aid of video or online sources, assist students in exploring challenges of implementation of sustainable tourism practices",
+            "Virtual learning: Organize and allow students to attend virtual training"
+          ],
+          "assessment_criteria": "Challenges of implementing sustainable tourism practices are discussed",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "video",
+            "smart screen",
+            "internet",
+            "tablets",
+            "and pictures of various challenges of implementing sustainable tourism"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "tour-five-24"
+        },
+        {
+          "main_competence": "4.0 Conduct a project in tourism",
+          "specific_competence": "4.1 Conduct a project in tourism",
+          "learning_activity": "(a) Design and carry out a project on tourism/ hospitality",
+          "suggested_methods": [
+            "Project work: Guide students to identify problem in an area of their choice within the tourism industry and conduct a project to address the identified problem"
+          ],
+          "assessment_criteria": "The project on tourism/ hospitality is designed and carried out",
+          "suggested_resources": [
+            "Tourism sites (protected areas) and other related sites",
+            "Accommodation facilities (hotel, lodge, campsite, restaurants)",
+            "Readings (Journals, newsletters, online resources, research papers, projects guidelines, samples of projects report, and magazine)"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "tour-five-25"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.2 Understand the concept of conservation, management and   protection of tourism resources",
+          "learning_activity": "(a) Describe basic concepts of tourism resources (natural and cultural resources focusing on significance, threats and mitigation measures)",
+          "suggested_methods": [
+            "Brainstorming: Organize students in groups to brainstorm meaning of tourism resources",
+            "Group discussion: Guide students to discuss tourism resources (types, significance, threats and mitigation measures)",
+            "Project activity: Guide students to initiate a tree nursery as a strategy for managing threats to natural resources. Later, allow students to select a proper season and location for planting trees",
+            "Guest speaker: Invite a heritage expert/practitioner to share with student on heritage conservation techniques. Let students relate to heritage sustainability.",
+            "Multimedia source: With the aid of video or online sources, allow students to explore various types of threats to natural resources",
+            "Storytelling Techniques: Allow students to tell compelling stories about cultural experiences of a destination",
+            "Virtual learning: Organize and allow students to attend various virtual training",
+            "Debate: Organise students to participate in discussion on conservation and protection of tourism resources"
+          ],
+          "assessment_criteria": "Basic concepts of tourism resources are described",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "Maps",
+            "pictures and videos showing various types of tourism resources",
+            "field guide book",
+            "brochures"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "tour-six-26"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.2 Understand the concept of conservation, management and   protection of tourism resources",
+          "learning_activity": "(b) Describe protected areas (categories, importance, challenges and management strategies)",
+          "suggested_methods": [
+            "Case study: Organize students in groups and provide a case study that portrays challenges such as fire, poaching, human -wildlife conflicts, encroachment and significance of protected areas",
+            "Guest speaker: Invite a resource person from any conservation institutions to elaborate protected areas",
+            "Field trip: Organize a field trip to a protected area and allow student to explore categories and management"
+          ],
+          "assessment_criteria": "Protected areas are described",
+          "suggested_resources": [
+            "Audio/audio visual material",
+            "maps",
+            "field guide books",
+            "means of transport",
+            "video",
+            "GPS. compass direction and pictures showing protected areas"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-27"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.3 Understand global and national trends in tourism geography and statistics",
+          "learning_activity": "(a) Explain concepts of tourism geography (meaning and linkage between geographical aspects and tourism).",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate questions to describe concepts of tourism geography",
+            "Group discussion: Guide students to discuss the linkage between geographical aspects and tourism",
+            "Case study: Provide case studies that portray the interrelation between geographical features and tourism activities"
+          ],
+          "assessment_criteria": "Concepts of tourism geography are explained",
+          "suggested_resources": [
+            "Maps",
+            "pictures and video",
+            "audio/audio-visual material and tourism sites"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "tour-six-28"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery in principles of sustainable tourism",
+          "specific_competence": "2.3 Understand global and national trends in tourism geography and statistics",
+          "learning_activity": "(b) Describe tourism statistics (sources, types importance and relations to the country’ s economy).",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss sources and types of tourism statistics",
+            "Brainstorming: Organize students in groups to brainstorm importance of tourism statistics and its relations to the country’s economy",
+            "Guest speaker: Invite experienced personnel to orient students on tourism statistics and its relations to the country’s economy"
+          ],
+          "assessment_criteria": "Tourism statistics are described",
+          "suggested_resources": [
+            "Online and offline sources",
+            "relevant written documents",
+            "and audio/audio visual material",
+            "Tourism exit survey report"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-29"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "1.1 Demonstrate an understanding of the principles of marketing in the travel and tourism industry",
+          "learning_activity": "(a) Describe the concept of tourism marketing products and services (meaning, principles and importance)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Formulate questions to describe the concept of tourism marketing products and services",
+            "Guest speaker: Invite experienced personnel in tourism marketing to orient students on principles of marketing in the travel and tourism industry",
+            "Group discussion: Guide students to discuss the concepts of tourism marketing"
+          ],
+          "assessment_criteria": "The concept of tourism marketing products and services is described",
+          "suggested_resources": [
+            "Online and offline learning resources",
+            "relevant written documents",
+            "and audio/audio-visual material"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "tour-six-30"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "1.1 Demonstrate an understanding of the principles of marketing in the travel and tourism industry",
+          "learning_activity": "(b) Describe tourism market segmentation (meaning, types, characteristics, segmentation based on destination, and importance)",
+          "suggested_methods": [
+            "Networking Events: Organize students to attend tourism-related events to exchange ideas with peers and learn about the latest trends",
+            "Guest speaker: Invite marketing practitioners to orient students on the marketing issues related to segmentation"
+          ],
+          "assessment_criteria": "The tourism market segmentation is described",
+          "suggested_resources": [
+            "Online and offline learning resources",
+            "relevant written documents",
+            "and audio/audio-visual material"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-31"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "1.1 Demonstrate an understanding of the principles of marketing in the travel and tourism industry",
+          "learning_activity": "(c) Describe the basic concepts of the tourism marketing mix (4Ps)",
+          "suggested_methods": [
+            "Brainstorming: Organize the students in groups to brainstorm the concept of the tourism marketing mix",
+            "Role Play: Guide students to simulate customers’ interactions so as to understand marketing mix"
+          ],
+          "assessment_criteria": "The basic concepts of the tourism marketing mix are described",
+          "suggested_resources": [
+            "Online and offline learning resources",
+            "relevant written documents",
+            "and audio/audio-visual material"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-32"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "3.2 Apply marketing strategy and digital techniques to promote tourism products and services",
+          "learning_activity": "(a) Describe the digital marketing approach of the tourism products and services",
+          "suggested_methods": [
+            "Brainstorm: Organize students to brainstorm the concept of digital marketing",
+            "Group discussion: Guide students to discuss digital marketing of the tourism products and services"
+          ],
+          "assessment_criteria": "The digital marketing approach of tourism products and services is described",
+          "suggested_resources": [
+            "Online and offline learning resources",
+            "relevant written documents",
+            "and audio/audio-visual material"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "tour-six-33"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "3.3 Apply innovation and entrepreneurship skills in tourism businesses",
+          "learning_activity": "(a) Describe the concepts of innovation and entrepreneurship in tourism (meaning, principles, types, characteristics, and importance)",
+          "suggested_methods": [
+            "Brainstorm: Guide students to brainstorm the concept of innovation and entrepreneurship in tourism",
+            "Group discussion: Guide students to discuss the types, principles, characteristics and importance of innovation and entrepreneurship"
+          ],
+          "assessment_criteria": "The concepts of innovation and entrepreneurship in tourism are described",
+          "suggested_resources": [
+            "Online and offline learning resources",
+            "relevant written documents",
+            "and audio/audio-visual material"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "tour-six-34"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "3.3 Apply innovation and entrepreneurship skills in tourism businesses",
+          "learning_activity": "(b) Develop tourism and hospitality business ideas (types, motivation, requirements, and challenges)",
+          "suggested_methods": [
+            "Case study: Provide case studies that portray different types of tourism business ideas",
+            "Group discussion: Guide students to innovate possible solutions for solving the existing problems in the market"
+          ],
+          "assessment_criteria": "Tourism and hospitality business ideas are developed",
+          "suggested_resources": [
+            "Video and pictures portraying samples of business ideas"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-35"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of tourism marketing and innovation",
+          "specific_competence": "3.3 Apply innovation and entrepreneurship skills in tourism businesses",
+          "learning_activity": "(c) Describe digital tools for enhancing the marketing of tourism products and services",
+          "suggested_methods": [
+            "Practical activities: Guide students to create tourism marketing content and post them on digital platforms",
+            "Field trip: Guide students to visit a broadcasting station to learn the digital marketing skills relevant to tourism"
+          ],
+          "assessment_criteria": "The digital tools for enhancing the marketing of tourism products and services are described",
+          "suggested_resources": [
+            "Relevant written documents",
+            "audio/audio-visual material",
+            "media houses",
+            "smartphones",
+            "tablets",
+            "computers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "tour-six-36"
+        },
+        {
+          "main_competence": "4.0 Conduct a project in tourism",
+          "specific_competence": "4.1 Conduct a project in tourism",
+          "learning_activity": "(a) Complete and submit the project report initiated in form V",
+          "suggested_methods": [
+            "Presentation: Allow students to make a presentation of the report from the selected area of their choice within the tourism industry"
+          ],
+          "assessment_criteria": "The project started in Form V is completed and a report submitted",
+          "suggested_resources": [
+            "Tourism sites"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "tour-six-37"
+        }
+      ]
+    }
+  }
+}

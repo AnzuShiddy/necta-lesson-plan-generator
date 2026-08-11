@@ -32,7 +32,8 @@ Open **http://localhost:8000**, pick a subject → form → learning activity, f
 the lesson header, and click **Generate lesson plan**. Preview it in the browser,
 then download it as **Word (.docx)** or **PDF**.
 
-> The 14 subjects with syllabus data (see below) work out of the box. Without a
+> The 44 subject/level combinations with syllabus data (see below) work out of
+> the box — all 30 Form V–VI subjects and 14 of the Form I–IV ones. Without a
 > `GEMINI_API_KEY` the browsing UI still loads and exports work, but **Generate**
 > returns an error asking you to set the key. On Google's free tier, per-model
 > daily request limits are small — if generation is rate-limited, wait and retry
@@ -82,10 +83,10 @@ knowledge.
 Subjects are advertised per **level** (`data/registry.json`), because the two
 levels are different syllabuses on different school years:
 
-| Level | Forms | School year | Subjects | Ready |
-|---|---|---|---|---|
-| Ordinary | I–IV | 2026 | 18 | 14 |
-| Advanced | V–VI | 2026/2027 | 19 | 4 |
+| Level | Forms | School year | Subjects | Ready | Activities |
+|---|---|---|---|---|---|
+| Ordinary | I–IV | 2026 | 18 | 14 | 769 |
+| Advanced | V–VI | 2026/2027 | 30 | 30 | 988 |
 
 Pick the level in the UI; the subject and form dropdowns follow it. A subject
 taught at both levels (Biology, History, …) keeps two separate syllabus
@@ -115,30 +116,59 @@ Non-ready subjects appear in the dropdown (disabled) so teachers see what's comi
 
 ### Advanced level (Form V–VI)
 
-The 19 subjects a Form V/VI teacher prepares for in 2026/2027. Four are
-**ready**, transcribed from the official TIE *Advanced Secondary Education Form
-V–VI* PDFs (each URL was fetched and its title page checked before being added
-to `data/sources.json`):
+Every subject TIE publishes a Form V–VI syllabus for — **30 subjects, 988
+learning activities**, all ready. Each was transcribed verbatim from the
+official TIE *Advanced Secondary Education Form V–VI* PDF; every URL was fetched
+and its title page checked to name both the subject and Form V–VI before being
+added to `data/sources.json`.
 
 | Subject | Form V | Form VI |
 |---|---|---|
-| Biology | 16 activities | 12 |
+| Kiswahili | 48 | 38 |
+| English Language | 37 | 28 |
+| Literature in English | 35 | 26 |
+| Fasihi ya Kiswahili | 32 | 24 |
+| Historia ya Tanzania na Maadili | 30 | 25 |
 | Computer Science | 27 | 25 |
-| Economics | 11 | 10 |
+| Elimu ya Dini ya Kiislamu | 27 | 19 |
 | History | 28 | 17 |
+| Tourism | 25 | 12 |
+| Chinese | 18 | 17 |
+| French | 18 | 16 |
+| Academic Communication | 18 | 15 |
+| Accountancy | 20 | 12 |
+| Chemistry | 19 | 12 |
+| Arabic | 13 | 16 |
+| Biology | 16 | 12 |
+| Advanced Mathematics | 14 | 12 |
+| Food and Nutrition | 14 | 11 |
+| Theatre Arts | 17 | 8 |
+| Divinity | 11 | 13 |
+| Physics | 12 | 10 |
+| Economics | 11 | 10 |
+| Fine Art | 10 | 8 |
+| Music | 9 | 9 |
+| Sport Studies | 10 | 7 |
+| Textiles and Garment Construction | 9 | 6 |
+| Basic Applied Mathematics | 8 | 6 |
+| Agriculture | 5 | 8 |
+| Geography | 7 | 6 |
+| Business Studies | 6 | 6 |
 
-The other 15 are **pending** — Advanced Mathematics, Basic Applied Mathematics,
-Physics, Chemistry, Geography, Accountancy, Business Studies, Agriculture, Food
-and Nutrition, English Language, Literature in English, Academic Communication,
-Kiswahili, Fasihi ya Kiswahili, Historia ya Tanzania na Maadili. To add one:
-find its `tie.go.tz` PDF, confirm the title page reads *SYLLABUS FOR ADVANCED
-SECONDARY EDUCATION FORM V–VI*, add it under `levels.advanced.subjects` in
-`data/sources.json`, then:
+To add a subject TIE publishes later: find its `tie.go.tz` PDF, confirm the
+title page reads *SYLLABUS FOR ADVANCED SECONDARY EDUCATION FORM V–VI*, add it
+under `levels.advanced.subjects` in `data/sources.json`, then:
 
 ```bash
 python scripts/download_syllabus_pdfs.py --all --level advanced
-python scripts/ingest_syllabus.py "Advanced Mathematics" --level advanced
+python scripts/ingest_syllabus.py "Sport Studies" --level advanced
 ```
+
+**Known gap:** in *Textiles and Garment Construction* Form V, 6 of 9 rows carry
+no main competence. Those cells are absent from the PDF's extracted text — the
+transcription is faithful to what the document yields, and the gap is left
+visible rather than filled with invented competences. Every other form across
+both levels is complete (6 of 1,843 activities affected).
 
 A-level PDFs and JSON carry an `_advanced` suffix so a subject taught at both
 levels never overwrites its other document.

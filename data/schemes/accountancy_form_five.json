@@ -1,0 +1,1514 @@
+{
+  "subject": "Accountancy",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 7,
+  "total_periods": 230,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the conceptual framework of accounting (objectives of general-purpose financial statements, users and qualitative characteristics of useful accounting information)",
+      "activity_id": "acco-five-1",
+      "periods": 7,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide the students to obtain the conceptual framework for preparation of general-purpose financial statements and discuss its contents in manageable groups",
+        "Group discussion: Guide students to discuss and share the meaning of conceptual framework of accounting, objectives of preparing general purpose financial statements and qualitative characteristics of accounting information",
+        "Think-ink-pair-share: Guide students to describe and share the various users of financial information"
+      ],
+      "assessment": "The conceptual framework of accounting is clearly described",
+      "resources": [
+        "Samples of financial statements",
+        "Financial reports",
+        "Sample of conceptual framework of accounting"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the conceptual framework of accounting (objectives of general-purpose financial statements, users and qualitative characteristics of useful accounting information)",
+      "activity_id": "acco-five-1",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide the students to obtain the conceptual framework for preparation of general-purpose financial statements and discuss its contents in manageable groups",
+        "Group discussion: Guide students to discuss and share the meaning of conceptual framework of accounting, objectives of preparing general purpose financial statements and qualitative characteristics of accounting information",
+        "Think-ink-pair-share: Guide students to describe and share the various users of financial information"
+      ],
+      "assessment": "The conceptual framework of accounting is clearly described",
+      "resources": [
+        "Samples of financial statements",
+        "Financial reports",
+        "Sample of conceptual framework of accounting"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting for inventories (meaning, types, valuation methods, stock estimation and insurance claims)",
+      "activity_id": "acco-five-2",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that involve a business undertaking which buys and sell common products of which at the end of the accounting period not all products are sold. Guide the students to describe meaning, types and calculate stocks by using various methods and sum insured, value of stock destroyed and insurance claims",
+        "Guest speaker: Invite a resource person involved in stock management to share practical experience in relation to stock valuation methods, stock estimation and insurance claim. Guide students to make reflection on the resource person’s presentation"
+      ],
+      "assessment": "The concepts and principles applied in accounting of inventories are properly described.",
+      "resources": [
+        "Sample of inventories documents"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting for inventories (meaning, types, valuation methods, stock estimation and insurance claims)",
+      "activity_id": "acco-five-2",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that involve a business undertaking which buys and sell common products of which at the end of the accounting period not all products are sold. Guide the students to describe meaning, types and calculate stocks by using various methods and sum insured, value of stock destroyed and insurance claims",
+        "Guest speaker: Invite a resource person involved in stock management to share practical experience in relation to stock valuation methods, stock estimation and insurance claim. Guide students to make reflection on the resource person’s presentation"
+      ],
+      "assessment": "The concepts and principles applied in accounting of inventories are properly described.",
+      "resources": [
+        "Sample of inventories documents"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of payroll (meaning, forms and methods of employees’ remuneration and deductions)",
+      "activity_id": "acco-five-3",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Brainstorming: In groups, guide students to brainstorm different types of workers in their local environment and identify the forms and methods of their remuneration. Also, guide students to calculate payroll tax",
+        "Field trips: Guide the students visit the accounting office of the school, or nearby organisation and learn on the preparations of payroll records"
+      ],
+      "assessment": "The concepts and principles applied in accounting of payroll are properly described.",
+      "resources": [
+        "Sample of Payroll"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of payroll (meaning, forms and methods of employees’ remuneration and deductions)",
+      "activity_id": "acco-five-3",
+      "periods": 6,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Brainstorming: In groups, guide students to brainstorm different types of workers in their local environment and identify the forms and methods of their remuneration. Also, guide students to calculate payroll tax",
+        "Field trips: Guide the students visit the accounting office of the school, or nearby organisation and learn on the preparations of payroll records"
+      ],
+      "assessment": "The concepts and principles applied in accounting of payroll are properly described.",
+      "resources": [
+        "Sample of Payroll"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of investments (meaning, types and terminologies)",
+      "activity_id": "acco-five-4",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide the students in groups to search relevant materials and use them to describe the meaning, types, terminologies and transactions involved in investment. Then, apply gallery walk for each group to present their findings"
+      ],
+      "assessment": "The concepts and principles applied in accounting of investments are properly described.",
+      "resources": [
+        "Sample Bank statement",
+        "Sample of Business plan",
+        "Certificate of incorporation"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of investments (meaning, types and terminologies)",
+      "activity_id": "acco-five-4",
+      "periods": 7,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide the students in groups to search relevant materials and use them to describe the meaning, types, terminologies and transactions involved in investment. Then, apply gallery walk for each group to present their findings"
+      ],
+      "assessment": "The concepts and principles applied in accounting of investments are properly described.",
+      "resources": [
+        "Sample Bank statement",
+        "Sample of Business plan",
+        "Certificate of incorporation"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of investments (meaning, types and terminologies)",
+      "activity_id": "acco-five-4",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide the students in groups to search relevant materials and use them to describe the meaning, types, terminologies and transactions involved in investment. Then, apply gallery walk for each group to present their findings"
+      ],
+      "assessment": "The concepts and principles applied in accounting of investments are properly described.",
+      "resources": [
+        "Sample Bank statement",
+        "Sample of Business plan",
+        "Certificate of incorporation"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of businesses operating with branches (meaning and nature, types and transactions involved)",
+      "activity_id": "acco-five-5",
+      "periods": 6,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case studies: Provide case studies of firms operating with branches (e.g., banks) that will enable students understand the meaning and nature of businesses operating with branches and prepare different forms of branch accounts: autonomous and non-autonomous",
+        "Internet and library search: Guide the students obtain relevant accounting materials and use them to describe different types of branches. Then, lead them to make presentations on the information obtained",
+        "Field trips: Facilitate the students to visit a nearby business branch (e.g., a bank branch) to learn about various transactions involved in accounting for branches"
+      ],
+      "assessment": "The concepts and principles applied in accounting of businesses operating with branches are properly described.",
+      "resources": [
+        "Sample of Business licence",
+        "Sample Branches billboards"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of businesses operating with branches (meaning and nature, types and transactions involved)",
+      "activity_id": "acco-five-5",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case studies: Provide case studies of firms operating with branches (e.g., banks) that will enable students understand the meaning and nature of businesses operating with branches and prepare different forms of branch accounts: autonomous and non-autonomous",
+        "Internet and library search: Guide the students obtain relevant accounting materials and use them to describe different types of branches. Then, lead them to make presentations on the information obtained",
+        "Field trips: Facilitate the students to visit a nearby business branch (e.g., a bank branch) to learn about various transactions involved in accounting for branches"
+      ],
+      "assessment": "The concepts and principles applied in accounting of businesses operating with branches are properly described.",
+      "resources": [
+        "Sample of Business licence",
+        "Sample Branches billboards"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of royalties (meaning, types and terminologies)",
+      "activity_id": "acco-five-6",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case studies: Provide various case studies of businesses that involve royalty payments (e.g., a mining company) and guide students to make reflection from the case you provide to describe the meaning of royalties, types and terminologies",
+        "Internet and library search: Guide the students obtain relevant materials and use them to describe different types and terminologies applied in accounting for royalties. Lead them to share their findings"
+      ],
+      "assessment": "The concepts and principles applied in accounting of royalties are properly described.",
+      "resources": [
+        "Sample of royalty agreement",
+        "Sample of copyrights or trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of royalties (meaning, types and terminologies)",
+      "activity_id": "acco-five-6",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Case studies: Provide various case studies of businesses that involve royalty payments (e.g., a mining company) and guide students to make reflection from the case you provide to describe the meaning of royalties, types and terminologies",
+        "Internet and library search: Guide the students obtain relevant materials and use them to describe different types and terminologies applied in accounting for royalties. Lead them to share their findings"
+      ],
+      "assessment": "The concepts and principles applied in accounting of royalties are properly described.",
+      "resources": [
+        "Sample of royalty agreement",
+        "Sample of copyrights or trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of non-current assets (nature, types, valuation and measurement methods, depreciation and disposal)",
+      "activity_id": "acco-five-7",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information in relation to non-current assets, then apply questions and answers to describe the nature, types, valuations and measurement methods, depreciation and disposal",
+        "Problem solving: Ask detailed questions in relations to accounting for non-current assets and guide students in groups to provide solutions. Let the groups present their solutions and allow discussions for improvement"
+      ],
+      "assessment": "The concepts and principles applied in accounting of non-current assets are properly described.",
+      "resources": [
+        "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+        "Sample of Trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of non-current assets (nature, types, valuation and measurement methods, depreciation and disposal)",
+      "activity_id": "acco-five-7",
+      "periods": 6,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to search for relevant information in relation to non-current assets, then apply questions and answers to describe the nature, types, valuations and measurement methods, depreciation and disposal",
+        "Problem solving: Ask detailed questions in relations to accounting for non-current assets and guide students in groups to provide solutions. Let the groups present their solutions and allow discussions for improvement"
+      ],
+      "assessment": "The concepts and principles applied in accounting of non-current assets are properly described.",
+      "resources": [
+        "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+        "Sample of Trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of hire purchases (meaning, nature and terminologies)",
+      "activity_id": "acco-five-8",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will portray hire purchase concept and its applicability in the present situation. Guide students to make reflection of the scenario to provide the meaning and nature of hire purchase business",
+        "Internet and library search: Guide students to search for relevant information in relation to hire purchases then apply the information obtained to describe the nature and various terminologies used in hire purchases business"
+      ],
+      "assessment": "The concepts and principles applied in accounting of hire purchases are properly described.",
+      "resources": [
+        "Sample of hire purchases agreement",
+        "Sample of goods"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.1 Demonstrate an understanding of concepts, theories and principles of Accounting",
+      "learning_activity": "Describe the concepts and principles applied in the accounting of hire purchases (meaning, nature and terminologies)",
+      "activity_id": "acco-five-8",
+      "periods": 7,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that will portray hire purchase concept and its applicability in the present situation. Guide students to make reflection of the scenario to provide the meaning and nature of hire purchase business",
+        "Internet and library search: Guide students to search for relevant information in relation to hire purchases then apply the information obtained to describe the nature and various terminologies used in hire purchases business"
+      ],
+      "assessment": "The concepts and principles applied in accounting of hire purchases are properly described.",
+      "resources": [
+        "Sample of hire purchases agreement",
+        "Sample of goods"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.2 Preparing an accounting work plan",
+      "learning_activity": "Describe how to develop an accounting action plan",
+      "activity_id": "acco-five-9",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to gather relevant information that will enable them to describe the meaning, steps and contents of the accounting action plan",
+        "Think-ink pair share: Lead students identify the meaning and importance of preparing accounting action plan"
+      ],
+      "assessment": "The steps of developing an accounting action plan are clearly described.",
+      "resources": [
+        "Sample of action plan",
+        "Sample of work plan"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.2 Preparing an accounting work plan",
+      "learning_activity": "Develop an accounting action plan",
+      "activity_id": "acco-five-10",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Skills labs: Guide students to develop accounting action plans",
+        "Project activity: Task students in groups to prepare a monthly accounting action plan basing on their business club activities and guide them to make presentations"
+      ],
+      "assessment": "An Accounting action plan is well developed.",
+      "resources": [
+        "Samples of accounting and action plans"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles of Accounting",
+      "specific_competence": "1.2 Preparing an accounting work plan",
+      "learning_activity": "Develop an accounting action plan",
+      "activity_id": "acco-five-10",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Skills labs: Guide students to develop accounting action plans",
+        "Project activity: Task students in groups to prepare a monthly accounting action plan basing on their business club activities and guide them to make presentations"
+      ],
+      "assessment": "An Accounting action plan is well developed.",
+      "resources": [
+        "Samples of accounting and action plans"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to inventories (using: different stock-taking systems (perpetual and periodic) and using different inventory valuation methods (FIFO, LIFO and weighted average))",
+      "activity_id": "acco-five-11",
+      "periods": 4,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide a problem/question then apply jigsaw approach to make students compute inventory value using FIFO, LIFO and Weighted average methods under both perpetual and periodic systems",
+        "Field trip: Guide students visit a nearby procurement office to learn about inventories valuation methods and stock management systems for practical experience",
+        "Presentation: Organise presentation session for the students to present their feedback"
+      ],
+      "assessment": "Accounting records relating to inventories, are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of inventories documents"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to inventories (using: different stock-taking systems (perpetual and periodic) and using different inventory valuation methods (FIFO, LIFO and weighted average))",
+      "activity_id": "acco-five-11",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide a problem/question then apply jigsaw approach to make students compute inventory value using FIFO, LIFO and Weighted average methods under both perpetual and periodic systems",
+        "Field trip: Guide students visit a nearby procurement office to learn about inventories valuation methods and stock management systems for practical experience",
+        "Presentation: Organise presentation session for the students to present their feedback"
+      ],
+      "assessment": "Accounting records relating to inventories, are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of inventories documents"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to inventories (using: different stock-taking systems (perpetual and periodic) and using different inventory valuation methods (FIFO, LIFO and weighted average))",
+      "activity_id": "acco-five-11",
+      "periods": 4,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide a problem/question then apply jigsaw approach to make students compute inventory value using FIFO, LIFO and Weighted average methods under both perpetual and periodic systems",
+        "Field trip: Guide students visit a nearby procurement office to learn about inventories valuation methods and stock management systems for practical experience",
+        "Presentation: Organise presentation session for the students to present their feedback"
+      ],
+      "assessment": "Accounting records relating to inventories, are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of inventories documents"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to payroll (computations of gross pay and net pay, payroll summary for remunerations and deductions, and journal entries)",
+      "activity_id": "acco-five-12",
+      "periods": 3,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the payroll section of any nearby organisation to share a practical experience on the accounting for payroll and let students reflect on the computations of gross and net pay, payroll summary and deductions",
+        "Skills labs: Provide problems related to preparation of payroll journal entries and guide students in groups to make necessary payroll computations and prepare journal entries"
+      ],
+      "assessment": "Accounting records relating to payroll, are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Payroll"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to payroll (computations of gross pay and net pay, payroll summary for remunerations and deductions, and journal entries)",
+      "activity_id": "acco-five-12",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the payroll section of any nearby organisation to share a practical experience on the accounting for payroll and let students reflect on the computations of gross and net pay, payroll summary and deductions",
+        "Skills labs: Provide problems related to preparation of payroll journal entries and guide students in groups to make necessary payroll computations and prepare journal entries"
+      ],
+      "assessment": "Accounting records relating to payroll, are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Payroll"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to payroll (computations of gross pay and net pay, payroll summary for remunerations and deductions, and journal entries)",
+      "activity_id": "acco-five-12",
+      "periods": 5,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the payroll section of any nearby organisation to share a practical experience on the accounting for payroll and let students reflect on the computations of gross and net pay, payroll summary and deductions",
+        "Skills labs: Provide problems related to preparation of payroll journal entries and guide students in groups to make necessary payroll computations and prepare journal entries"
+      ],
+      "assessment": "Accounting records relating to payroll, are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Payroll"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to equity-based investments (acquisition and disposal using different price quotations; returns on investments)",
+      "activity_id": "acco-five-13",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet search: Guide students visit the stock exchange website, and download the listed firms’ financial statements to identify the equity shares",
+        "Problem solving: Provide relevant problems/questions that will enable students in groups prepare investment accounts using ex-div and cum-div quotations. Apply jigsaw technique to share their solutions"
+      ],
+      "assessment": "Accounting records relating to equity-based investments are appropriately prepared and maintained",
+      "resources": [
+        "Sample of share certificate",
+        "Dar es salaam stock exchange fliers"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to equity-based investments (acquisition and disposal using different price quotations; returns on investments)",
+      "activity_id": "acco-five-13",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet search: Guide students visit the stock exchange website, and download the listed firms’ financial statements to identify the equity shares",
+        "Problem solving: Provide relevant problems/questions that will enable students in groups prepare investment accounts using ex-div and cum-div quotations. Apply jigsaw technique to share their solutions"
+      ],
+      "assessment": "Accounting records relating to equity-based investments are appropriately prepared and maintained",
+      "resources": [
+        "Sample of share certificate",
+        "Dar es salaam stock exchange fliers"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to equity-based investments (acquisition and disposal using different price quotations; returns on investments)",
+      "activity_id": "acco-five-13",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet search: Guide students visit the stock exchange website, and download the listed firms’ financial statements to identify the equity shares",
+        "Problem solving: Provide relevant problems/questions that will enable students in groups prepare investment accounts using ex-div and cum-div quotations. Apply jigsaw technique to share their solutions"
+      ],
+      "assessment": "Accounting records relating to equity-based investments are appropriately prepared and maintained",
+      "resources": [
+        "Sample of share certificate",
+        "Dar es salaam stock exchange fliers"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to businesses operating with branches (ledger accounts for dependent and independent branches)",
+      "activity_id": "acco-five-14",
+      "periods": 1,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to identify and discuss different types of business branches",
+        "Problem solving: Provide a problem/question that will guide students to prepare ledger accounts for dependent and independent branches",
+        "Debate: Guide students to debate on whether operating a dependent branch is better than an independent branch"
+      ],
+      "assessment": "Accounting records relating to businesses operating with branches are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Business licence",
+        "Sample Branches billboards"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to businesses operating with branches (ledger accounts for dependent and independent branches)",
+      "activity_id": "acco-five-14",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to identify and discuss different types of business branches",
+        "Problem solving: Provide a problem/question that will guide students to prepare ledger accounts for dependent and independent branches",
+        "Debate: Guide students to debate on whether operating a dependent branch is better than an independent branch"
+      ],
+      "assessment": "Accounting records relating to businesses operating with branches are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Business licence",
+        "Sample Branches billboards"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to businesses operating with branches (ledger accounts for dependent and independent branches)",
+      "activity_id": "acco-five-14",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Internet and library search: Guide students to identify and discuss different types of business branches",
+        "Problem solving: Provide a problem/question that will guide students to prepare ledger accounts for dependent and independent branches",
+        "Debate: Guide students to debate on whether operating a dependent branch is better than an independent branch"
+      ],
+      "assessment": "Accounting records relating to businesses operating with branches are appropriately prepared and maintained",
+      "resources": [
+        "Sample of Business licence",
+        "Sample Branches billboards"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to royalties (in the books of the lessor and lessee when the contract provides minimum rent and when it does not provide minimum rent)",
+      "activity_id": "acco-five-15",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that involve royalties’ transactions to enable students compute the minimum rent, short workings and be able to prepare ledger accounts in the books of the lessor and the lessee",
+        "Problem solving: Facilitate students by using relevant problems and guide them in groups to prepare and present necessary ledger accounts"
+      ],
+      "assessment": "Accounting records relating to royalties are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of royalty agreement",
+        "Sample of copyrights or trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to royalties (in the books of the lessor and lessee when the contract provides minimum rent and when it does not provide minimum rent)",
+      "activity_id": "acco-five-15",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that involve royalties’ transactions to enable students compute the minimum rent, short workings and be able to prepare ledger accounts in the books of the lessor and the lessee",
+        "Problem solving: Facilitate students by using relevant problems and guide them in groups to prepare and present necessary ledger accounts"
+      ],
+      "assessment": "Accounting records relating to royalties are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of royalty agreement",
+        "Sample of copyrights or trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to royalties (in the books of the lessor and lessee when the contract provides minimum rent and when it does not provide minimum rent)",
+      "activity_id": "acco-five-15",
+      "periods": 1,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario that involve royalties’ transactions to enable students compute the minimum rent, short workings and be able to prepare ledger accounts in the books of the lessor and the lessee",
+        "Problem solving: Facilitate students by using relevant problems and guide them in groups to prepare and present necessary ledger accounts"
+      ],
+      "assessment": "Accounting records relating to royalties are appropriately prepared and maintained.",
+      "resources": [
+        "Sample of royalty agreement",
+        "Sample of copyrights or trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to non-current assets (valuation, depreciation and disposal)",
+      "activity_id": "acco-five-16",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the accounting section of a nearby organisation to orient students on practical valuation and depreciation computations of non-current assets",
+        "Problem solving: Provide questions to the students that will enable them to account for non-current assets by focusing (straight line method, reducing balance method, sum of years digits, production and sourcing fund), then guide them to discuss in groups and make presentations"
+      ],
+      "assessment": "Accounting records relating to non-current assets are appropriately prepared and maintained.",
+      "resources": [
+        "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+        "Samples of Trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to non-current assets (valuation, depreciation and disposal)",
+      "activity_id": "acco-five-16",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the accounting section of a nearby organisation to orient students on practical valuation and depreciation computations of non-current assets",
+        "Problem solving: Provide questions to the students that will enable them to account for non-current assets by focusing (straight line method, reducing balance method, sum of years digits, production and sourcing fund), then guide them to discuss in groups and make presentations"
+      ],
+      "assessment": "Accounting records relating to non-current assets are appropriately prepared and maintained.",
+      "resources": [
+        "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+        "Samples of Trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to non-current assets (valuation, depreciation and disposal)",
+      "activity_id": "acco-five-16",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Guest speaker: Invite a resourceful person from the accounting section of a nearby organisation to orient students on practical valuation and depreciation computations of non-current assets",
+        "Problem solving: Provide questions to the students that will enable them to account for non-current assets by focusing (straight line method, reducing balance method, sum of years digits, production and sourcing fund), then guide them to discuss in groups and make presentations"
+      ],
+      "assessment": "Accounting records relating to non-current assets are appropriately prepared and maintained.",
+      "resources": [
+        "Samples of long-term Investments; Land, Property, Plant and Equipment (PP &E)",
+        "Samples of Trademarks"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to hire purchases (in the books of hire vendors and hire purchasers)",
+      "activity_id": "acco-five-17",
+      "periods": 5,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Field trip: Scan the nearby environment to identify a firm that sells on hire purchase and arrange for a field trip to enable students acquire practical skills on preparation of different accounts in the books of the vendor",
+        "Problem solving: Provide questions/problems that will enable students to calculate interest and prepare hire purchase accounts"
+      ],
+      "assessment": "Accounting records relating to hire purchases are appropriately prepared and maintained",
+      "resources": [
+        "Sample of hire purchases agreement",
+        "Sample of goods"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to hire purchases (in the books of hire vendors and hire purchasers)",
+      "activity_id": "acco-five-17",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Field trip: Scan the nearby environment to identify a firm that sells on hire purchase and arrange for a field trip to enable students acquire practical skills on preparation of different accounts in the books of the vendor",
+        "Problem solving: Provide questions/problems that will enable students to calculate interest and prepare hire purchase accounts"
+      ],
+      "assessment": "Accounting records relating to hire purchases are appropriately prepared and maintained",
+      "resources": [
+        "Sample of hire purchases agreement",
+        "Sample of goods"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Prepare and maintain accounting records related to hire purchases (in the books of hire vendors and hire purchasers)",
+      "activity_id": "acco-five-17",
+      "periods": 3,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Field trip: Scan the nearby environment to identify a firm that sells on hire purchase and arrange for a field trip to enable students acquire practical skills on preparation of different accounts in the books of the vendor",
+        "Problem solving: Provide questions/problems that will enable students to calculate interest and prepare hire purchase accounts"
+      ],
+      "assessment": "Accounting records relating to hire purchases are appropriately prepared and maintained",
+      "resources": [
+        "Sample of hire purchases agreement",
+        "Sample of goods"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Evaluate the impact of using different inventory valuation methods on reported profits/ losses and the financial position of a business",
+      "activity_id": "acco-five-18",
+      "periods": 4,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide problems/questions to students and guide them in groups to compute inventory values and be able to realize the impact of each inventory valuation method in the reported profit/loss and financial position of a business"
+      ],
+      "assessment": "The impact of using different inventory valuation methods on reported profit/loss and financial position of a business are logically evaluated.",
+      "resources": [
+        "Sample of company evaluation policy",
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Evaluate the impact of using different inventory valuation methods on reported profits/ losses and the financial position of a business",
+      "activity_id": "acco-five-18",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide problems/questions to students and guide them in groups to compute inventory values and be able to realize the impact of each inventory valuation method in the reported profit/loss and financial position of a business"
+      ],
+      "assessment": "The impact of using different inventory valuation methods on reported profit/loss and financial position of a business are logically evaluated.",
+      "resources": [
+        "Sample of company evaluation policy",
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.1. Prepare and maintain accounting records",
+      "learning_activity": "Evaluate the impact of using different inventory valuation methods on reported profits/ losses and the financial position of a business",
+      "activity_id": "acco-five-18",
+      "periods": 4,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide problems/questions to students and guide them in groups to compute inventory values and be able to realize the impact of each inventory valuation method in the reported profit/loss and financial position of a business"
+      ],
+      "assessment": "The impact of using different inventory valuation methods on reported profit/loss and financial position of a business are logically evaluated.",
+      "resources": [
+        "Sample of company evaluation policy",
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Perform relevant computations to correct various accounting errors using a suspense account",
+      "activity_id": "acco-five-19",
+      "periods": 3,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to students and guide them in groups to make computations and entries through ledgers/journals to correct various errors that affects the trial balance"
+      ],
+      "assessment": "Computations to correct various accounting errors using a suspense account are correctly performed.",
+      "resources": [
+        "Sample of suspense account"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-3",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Perform relevant computations to correct various accounting errors using a suspense account",
+      "activity_id": "acco-five-19",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to students and guide them in groups to make computations and entries through ledgers/journals to correct various errors that affects the trial balance"
+      ],
+      "assessment": "Computations to correct various accounting errors using a suspense account are correctly performed.",
+      "resources": [
+        "Sample of suspense account"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Perform relevant computations to correct various accounting errors using a suspense account",
+      "activity_id": "acco-five-19",
+      "periods": 5,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to students and guide them in groups to make computations and entries through ledgers/journals to correct various errors that affects the trial balance"
+      ],
+      "assessment": "Computations to correct various accounting errors using a suspense account are correctly performed.",
+      "resources": [
+        "Sample of suspense account"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Analyse the impact of various accounting errors (commission, principle, original entry and transposition) on the reported profit/loss and the financial position of a business",
+      "activity_id": "acco-five-20",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to the students and guide them in groups to make computations and entries in the ledgers to correct various errors that do not affects the trial balance"
+      ],
+      "assessment": "The impact of various accounting errors in the reported profit/loss and the financial position of a business is logically analysed.",
+      "resources": [
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Analyse the impact of various accounting errors (commission, principle, original entry and transposition) on the reported profit/loss and the financial position of a business",
+      "activity_id": "acco-five-20",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to the students and guide them in groups to make computations and entries in the ledgers to correct various errors that do not affects the trial balance"
+      ],
+      "assessment": "The impact of various accounting errors in the reported profit/loss and the financial position of a business is logically analysed.",
+      "resources": [
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "2.0 Preparing accounting reports",
+      "specific_competence": "2.2. Adjust records in financial statements",
+      "learning_activity": "Analyse the impact of various accounting errors (commission, principle, original entry and transposition) on the reported profit/loss and the financial position of a business",
+      "activity_id": "acco-five-20",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Problem solving: Provide relevant problems/questions to the students and guide them in groups to make computations and entries in the ledgers to correct various errors that do not affects the trial balance"
+      ],
+      "assessment": "The impact of various accounting errors in the reported profit/loss and the financial position of a business is logically analysed.",
+      "resources": [
+        "Sample of Income Statements",
+        "Sample of Statement of financial position"
+      ],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Accountancy for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

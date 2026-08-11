@@ -1,0 +1,395 @@
+{
+  "subject": "Theatre Arts",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727271604-Theatre%20Arts%20Form%20V-VI%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.1  Demonstrate an understanding of the development of theatre arts and its major trends",
+          "learning_activity": "(a)  Describe the major trends in the development of theatre worldwide (naturalism, realism, symbolism, expressionism and theatre of the absurd)",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to search on the major trends in the development of theatre worldwide",
+            "Think-ink-pair-share: Guide students into collaborative learning in answering questions based on the major trends in the development of theatre worldwide",
+            "Snow-balling: Guide students to summarize the major trends in the development of theatre worldwide"
+          ],
+          "assessment_criteria": "Major trends in the development of theatre worldwide well described",
+          "suggested_resources": [
+            "Videos of theatre arts movements and trends"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "thea-five-1"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.1  Demonstrate an understanding of the development of theatre arts and its major trends",
+          "learning_activity": "(b)  Explain the major trends in the development of theatre in Africa (theatre for social change)",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to search the major trends in the development of theatre in Africa",
+            "Case study: Organize students into conducting depth examination and analysis to distinguish theatre for social change events from other events and situation"
+          ],
+          "assessment_criteria": "Trends in the development of theatre in Africa well described",
+          "suggested_resources": [
+            "Videos of theatre arts movement and trends"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-2"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+          "learning_activity": "(a)  Explain the emergence and development of scriptwriting for stage, film, radio and television",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to understand the development of scriptwriting for stage, film, radio and television",
+            "Group discussion: Help students to actively contribute to the discussion of emergence of scriptwriting for stage, film, radio and television",
+            "Snow-balling: Use snow-balling to summarize the importance of scriptwriting for stage, film, radio and television"
+          ],
+          "assessment_criteria": "The emergence and development of scriptwriting for stage, film, radio and television well explained",
+          "suggested_resources": [
+            "Written script for film, radio and television"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "thea-five-3"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+          "learning_activity": "(b) Describe principles of scriptwriting for stage, film, radio and television",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to explore theories of scriptwriting",
+            "Jigsaw Learning approach: Guide students through jigsaw, to understand the principles of scriptwriting for stage, film, radio and television",
+            "Brainstorming: Guide students to brainstorm the relationship between scholars and their principles"
+          ],
+          "assessment_criteria": "Principles of scriptwriting for stage, film, radio and television clearly described",
+          "suggested_resources": [
+            "Written scripts for film, radio and television"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-4"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+          "learning_activity": "(c) Describe various software used for scriptwriting (Celtx, Movie Magic screenwriter)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm various software used for scriptwriting",
+            "ICT-based learning: Guide students to use mobile application and web-based learning to explore various software used for scriptwriting"
+          ],
+          "assessment_criteria": "Various software used for scriptwriting well described",
+          "suggested_resources": [
+            "Software used for scriptwriting Celtx, Movie Magic screenwriter"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-5"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+          "learning_activity": "(a) Describe the methods and techniques of identifying an ideal performing space",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the methods and techniques of identifying an ideal performing space",
+            "ICT-based learning: Guide students to use mobile application and web-based learning to explore the methods and techniques of identifying an ideal performing space"
+          ],
+          "assessment_criteria": "The methods and techniques of identifying an ideal performing space well described",
+          "suggested_resources": [
+            "Videos of identifying an ideal performing space"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "thea-five-6"
+        },
+        {
+          "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+          "learning_activity": "(b) Design an area for staging a theatrical performance",
+          "suggested_methods": [
+            "Visit/tours: Guide students to visit theatre performances to see how theatre spaces are designed"
+          ],
+          "assessment_criteria": "An area for staging a theatrical performance well designed",
+          "suggested_resources": [
+            "Videos of designing various areas for staging a theatrical performance"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-7"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+          "learning_activity": "(a)  Write script for stage, film, radio and television",
+          "suggested_methods": [
+            "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+            "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+            "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+          ],
+          "assessment_criteria": "Stage, film, radio and television scripts well written",
+          "suggested_resources": [
+            "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "thea-five-8"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+          "learning_activity": "(a)  Perform for stage and film",
+          "suggested_methods": [
+            "Improvisation: Guide the students into manageable group to perform for stage and film"
+          ],
+          "assessment_criteria": "Stage and film well performed",
+          "suggested_resources": [
+            "Scripts, props, costumes, stage lights and visual elements"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "thea-five-9"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+          "learning_activity": "(b)  Perform for radio drama and television drama",
+          "suggested_methods": [
+            "Improvisation: Guide the students into manageable group to perform for radio and television drama"
+          ],
+          "assessment_criteria": "Radio drama and television drama well performed",
+          "suggested_resources": [
+            "Drama videos, microphone, props, costumes and Public Address system (PA)"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-10"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.3  Use ICT in theatre arts",
+          "learning_activity": "(a)  Use digital technology to produce stage and film programmes",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to produce stage and film programmes",
+            "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+          ],
+          "assessment_criteria": "Digital technology in producing stage and film programmes effectively used",
+          "suggested_resources": [
+            "Camera and accessories, sound recording equipment, light equipment, microphone, props and costumes"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "thea-five-11"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+          "learning_activity": "(a)  Describe the rights and responsibilities of an artist",
+          "suggested_methods": [
+            "Resourceful person: Invite resourceful person from the ethical organisation to clarify and share experiences about the rights and responsibilities of an artist",
+            "Brainstorming: Guide students to brainstorm the rights and responsibilities of an artist"
+          ],
+          "assessment_criteria": "The rights and responsibilities of an artist",
+          "suggested_resources": [
+            "Videos of rights and responsibilities of an artist"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "thea-five-12"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+          "learning_activity": "(b)  Identify the regulatory institutions and organisations dealing with the rights of an artist",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the regulatory institutions and organisations dealing with the rights of an artist"
+          ],
+          "assessment_criteria": "The regulatory institutions and organisations dealing with the rights of an artist well identified",
+          "suggested_resources": [
+            "Videos of rights and responsibilities of an artist"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-13"
+        },
+        {
+          "main_competence": "2.0  Perform theatre arts",
+          "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+          "learning_activity": "(c)  Discuss ethical issues in theatrical productions focusing on mise-en-scene (stage and film)",
+          "suggested_methods": [
+            "Group discussion: Guide students in groups to discuss ethical issues in theatrical productions"
+          ],
+          "assessment_criteria": "Ethical issues in theatrical productions focusing on mise-en-scene well discussed",
+          "suggested_resources": [
+            "Videos of ethical issues in theatrical productions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "thea-five-14"
+        },
+        {
+          "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+          "specific_competence": "3.1  Demonstrate an understanding of the theories and principles related to the use of body language in theatrical works",
+          "learning_activity": "(a)  Explain principles of using body language",
+          "suggested_methods": [
+            "Mime and pantomime: Organise students in manageable groups to imitate life from their surroundings to create drama through mime and pantomime",
+            "Observation checklist: Guide students by giving them set of questions to evaluate the mime and pantomime performance"
+          ],
+          "assessment_criteria": "Principles of using body language well explained",
+          "suggested_resources": [
+            "Videos of various body language"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "thea-five-15"
+        },
+        {
+          "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+          "specific_competence": "3.1  Demonstrate an understanding of the theories and principles related to the use of body language in theatrical works",
+          "learning_activity": "(b)  Describe theories of using body language",
+          "suggested_methods": [
+            "Improvisation and performance: Organise students in manageable groups to improvise and perform short plays basing on Konstantine Stanislavsky theories",
+            "Observation checklist: Guide students by giving them set of questions to evaluate the Konstantin Stanislavsky theories"
+          ],
+          "assessment_criteria": "Theories of using body language effectively described",
+          "suggested_resources": [
+            "Videos of various body language"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "thea-five-16"
+        },
+        {
+          "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+          "specific_competence": "3.2  Use body language to prepare and present theatrical works",
+          "learning_activity": "(a)  Produce a mimetic play",
+          "suggested_methods": [
+            "Improvision and performance: Organise manageable groups to rehearse and produce mimetic play",
+            "Self reflection: Guide students to answer fomulated questions in relation to mimetic play produced and performed"
+          ],
+          "assessment_criteria": "A mimetic play is professionally produced",
+          "suggested_resources": [
+            "Videos of mimetic plays"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "thea-five-17"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.1 Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+          "learning_activity": "(a) Explain the emergence and development of directing for stage, film, radio and television",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students in manageable groups, assign them to read about the emergence and development of directing for stage, film, radio and television",
+            "Group discussion: Guide students to discuss emergence and development of directing for stage, film, radio and television",
+            "Self-reflection: Help students to answer formulated questions to reflect on what they have learnt"
+          ],
+          "assessment_criteria": "The emergence and development of directing for stage, film, radio and television clearly explained",
+          "suggested_resources": [
+            "Written script and directed video"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "thea-six-18"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.1 Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+          "learning_activity": "(b) Describe principles of directing for stage, film, radio and television",
+          "suggested_methods": [
+            "Jigsaw Learning approach: Guide students in manageable groups to prepare cards of principles and stick them around classroom wall",
+            "Gallery Walk: Guide students to actively walk around the classroom exploring principles of directing from Konstantine Stanislavsky, Bertolt, Antonin and Grotowski",
+            "Question and answers: Formulate questions for students to summarize the topic"
+          ],
+          "assessment_criteria": "Principles of directing for stage, film, radio and television clearly described",
+          "suggested_resources": [
+            "Directed videos for film, radio and television drama"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "thea-six-19"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.2 Demonstrate mastery of the principles of managing theatrical events",
+          "learning_activity": "(a) Explain principles and processes for preparing and managing a theatrical event",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm principles and processes for preparing and managing a theatrical event",
+            "ICT-based learning: Guide students to use mobile application and web-based learning to explore the principles and processes for preparing and managing a theatrical event"
+          ],
+          "assessment_criteria": "Principles and processes for preparing and managing a theatrical event well explained",
+          "suggested_resources": [
+            "Written script, video of processes preparing and managing a theatrical event"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "thea-six-20"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+          "specific_competence": "1.2 Demonstrate mastery of the principles of managing theatrical events",
+          "learning_activity": "(b) Manage a theatrical event",
+          "suggested_methods": [
+            "ICT-based learning: Guide students to use mobile application and web-based learning to explore how theatrical events are managed",
+            "Visit/tours: Help the students to visit different performing places to see how performance spaces are designed"
+          ],
+          "assessment_criteria": "Theatrical event well managed",
+          "suggested_resources": [
+            "Written scripts"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "thea-six-21"
+        },
+        {
+          "main_competence": "2.0 Perform theatre arts",
+          "specific_competence": "2.1 Perform and direct theatrical works for stage, film, radio and television",
+          "learning_activity": "(a) Direct for stage and film",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the work of director for stage and film.",
+            "Improvisation: Guide students in manageable group to direct and perform short improvised"
+          ],
+          "assessment_criteria": "Stage and film well directed",
+          "suggested_resources": [
+            "Stage, cameras, props and costumes"
+          ],
+          "periods_for_specific_competence": 70,
+          "id": "thea-six-22"
+        },
+        {
+          "main_competence": "2.0 Perform theatre arts",
+          "specific_competence": "2.1 Perform and direct theatrical works for stage, film, radio and television",
+          "learning_activity": "(b) Direct for radio and television",
+          "suggested_methods": [
+            "Group discussion: Guide students to discuss the work of director for radio and television",
+            "Improvisation: Guide students in manageable group to direct and perform short improvised play for radio and television",
+            "Brainstorming: Guide students to brainstorm directed plays for radio and television so as to give feedback"
+          ],
+          "assessment_criteria": "Radio and television well directed",
+          "suggested_resources": [
+            "Drama videos, microphone, Public Address system, stage lights and visual elements"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "thea-six-23"
+        },
+        {
+          "main_competence": "2.0 Perform theatre arts",
+          "specific_competence": "2.2 Use ICT in theatre arts",
+          "learning_activity": "(a) Use digital technology to produce radio and television programmes",
+          "suggested_methods": [
+            "Learning: Guide students to online learning through mobile application and web-based learning to produce short programs for radio and television",
+            "Showcase: Guide students to showcase their production to the school audience and community",
+            "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+          ],
+          "assessment_criteria": "Digital technology to produce radio and television programmes well used",
+          "suggested_resources": [
+            "Computer, production software, camera and accessories, sound recording equipment and light equipment"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "thea-six-24"
+        },
+        {
+          "main_competence": "2.0 Perform theatre arts",
+          "specific_competence": "2.3 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+          "learning_activity": "(a) Describe ethical issues in theatrical productions by focusing on mise-en-scene (radio and television)",
+          "suggested_methods": [
+            "Resource person: Invite resource person from the ethical organisation/government/art group from the community to clarify and share experiences with students in relation to mise-en-scene in radio and television productions",
+            "Brainstorming: Guide students to brainstorm ethical issues concerning mise-en-scene in radio and television productions"
+          ],
+          "assessment_criteria": "Ethical issues in theatre arts productions well described",
+          "suggested_resources": [
+            "Videos of ethical issues in theatrical productions"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "thea-six-25"
+        }
+      ]
+    }
+  }
+}

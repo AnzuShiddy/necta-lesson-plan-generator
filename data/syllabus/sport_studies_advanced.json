@@ -1,0 +1,296 @@
+{
+  "subject": "Sport Studies",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727271507-Sport%20Studies%20syllabus%20for%20Advanced%20Secondary%20Education%20Form%20V%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the history of sports and its importance",
+          "specific_competence": "1.1 Demonstrate an understanding of the history and development of sports in Tanzania",
+          "learning_activity": "Explain the historical development of sports in Tanzania from international and national perspectives (development, spread and impacts)",
+          "suggested_methods": [
+            "Group discussion: Guide students in manageable groups to discuss the historical development of sports in Tanzania from international perspective",
+            "Group Discussion: Organise students in manageable groups to discuss the historical development of sports in Tanzania from national perspective",
+            "Plenary discussion: Lead plenary discussion to summarise ideals generated from the group discussions"
+          ],
+          "assessment_criteria": "The historical development of sports in Tanzania from international and national are well explained",
+          "suggested_resources": [
+            "Newspaper",
+            "magazine",
+            "sport documentary videos",
+            "sport sessions in television and radio"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "spor-five-1"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the relationship between human physiology and performance in sports",
+          "specific_competence": "2.1 Demonstrate a basic understanding of the structure and functions of the human body systems",
+          "learning_activity": "Describe the structure and functions of human body systems that relate to physical exercises and sports (musculoskeletal, cardiovascular, respiratory, nervous, endocrine and digestive systems)",
+          "suggested_methods": [
+            "Group discussion: Task students in manageable groups to analyse the structure and functions of human body systems that relate to physical exercise and sports"
+          ],
+          "assessment_criteria": "The structures and functions of human body systems related to physical exercises and sports are well described",
+          "suggested_resources": [
+            "Human body models and charts"
+          ],
+          "periods_for_specific_competence": 70,
+          "id": "spor-five-2"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of the relationship between human physiology and performance in sports",
+          "specific_competence": "2.2 Demonstrate a basic understanding of the role of human body systems and movements in sports",
+          "learning_activity": "Apply the knowledge of various body systems (musculoskeletal, cardiovascular, respiratory, nervous, endocrine and digestive systems) to enhance performance in physical exercises and selected sports: Athletics (running, throwing and jumping), swimming, football, netball, basketball, table tennis, tennis volleyball and handball",
+          "suggested_methods": [
+            "Demonstration and practice: Perform an instructional activity as students observe",
+            "Guide students to practice what they have learnt from demonstration in relation to body systems"
+          ],
+          "assessment_criteria": "Knowledge of skeletal, muscular, circulatory, respiratory, nervous, digestive and endocrine systems are well applied in physical exercises and selected sports",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "spor-five-3"
+        },
+        {
+          "main_competence": "3.0 Perform selected sports",
+          "specific_competence": "3.1 Train for selected sports",
+          "learning_activity": "(a) Describe principles of training in sports (specificity, overload, progression, variety, recovery, individuality and consistency)",
+          "suggested_methods": [
+            "Jigsaw: Task students through jigsaw, to explore specific principles of training in sports and exercises"
+          ],
+          "assessment_criteria": "Principles of training in sports and exercises are well described",
+          "suggested_resources": [
+            "Drill videos"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "spor-five-4"
+        },
+        {
+          "main_competence": "3.0 Perform selected sports",
+          "specific_competence": "3.1 Train for selected sports",
+          "learning_activity": "(b) Apply principles of training in selected sports: Athletics (running, throwing and jumping), swimming, football and netball",
+          "suggested_methods": [
+            "Demonstration: Perform various activities that apply principles of training in selected sports",
+            "Guide students to practice various skills by observing principles of training in selected sports"
+          ],
+          "assessment_criteria": "Principles of training in selected sports: Athletics (running, throwing and jumping), swimming, football and netball are well applied",
+          "suggested_resources": [
+            "Drill videos",
+            "cones",
+            "hurdles",
+            "agility blocks",
+            "whistle and outfits"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "spor-five-5"
+        },
+        {
+          "main_competence": "3.0 Perform selected sports",
+          "specific_competence": "3.2 Develop advanced skills in selected sports",
+          "learning_activity": "(a) Perform advanced tactics and drills in selected sports (principles, systems and styles of play)",
+          "suggested_methods": [
+            "Guided practice: Organize students in manageable groups and guide them to perform advanced tactics and drills in selected sports"
+          ],
+          "assessment_criteria": "Advanced tactics and drills in selected sports are well performed",
+          "suggested_resources": [
+            "Drill videos",
+            "balls",
+            "cones",
+            "whistle",
+            "nets",
+            "javelin",
+            "discus",
+            "shot",
+            "clappers and starting block",
+            "tape measure",
+            "flags"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "spor-five-6"
+        },
+        {
+          "main_competence": "3.0 Perform selected sports",
+          "specific_competence": "3.2 Develop advanced skills in selected sports",
+          "learning_activity": "(b) Play by observing rules and regulations governing selected sports: Athletics (running, throwing and jumping), swimming, football and netball",
+          "suggested_methods": [
+            "Guided practice: Guide students to form teams and play by observing rules and regulations governing selected sports",
+            "Peer teaching: Lead students to give feedback to each other on how rules and regulations are observed when practicing"
+          ],
+          "assessment_criteria": "Rules and regulations are well observed in playing selected sports: Athletics (running, throwing and jumping), swimming, football and netball",
+          "suggested_resources": [
+            "Drill videos",
+            "starting blocks",
+            "whistle",
+            "cones",
+            "hurdles",
+            "balls",
+            "disc makers and agility sticks"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "spor-five-7"
+        },
+        {
+          "main_competence": "4.0 Demonstrate mastery of the basic principles of sports management and administration",
+          "specific_competence": "4.1 Demonstrate an understanding of basic principles of leadership, administration and management in sports",
+          "learning_activity": "(a) Describe the principles of sports management, leadership and administration (theories, skills and functions)",
+          "suggested_methods": [
+            "Group discussion: Lead students to discuss principles of sport management, leadership and administration"
+          ],
+          "assessment_criteria": "The principles of sport management, leadership and administration are well described",
+          "suggested_resources": [
+            "Newspaper",
+            "magazine",
+            "sports documentary videos",
+            "sport sessions in television",
+            "radio"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "spor-five-8"
+        },
+        {
+          "main_competence": "4.0 Demonstrate mastery of the basic principles of sports management and administration",
+          "specific_competence": "4.1 Demonstrate an understanding of basic principles of leadership, administration and management in sports",
+          "learning_activity": "(b) Describe the leadership, administrative and managerial structures of sport organisations",
+          "suggested_methods": [
+            "Role play/ simulation: Assign students to perform simulation game on administrative and managerial positions of sport organizations",
+            "Lead students to discuss lessons learnt from simulation and relate with leadership, administrative and managerial structures of sport organizations"
+          ],
+          "assessment_criteria": "The leadership, administrative and managerial structures of sport organizations are well described",
+          "suggested_resources": [
+            "Newspaper",
+            "magazine",
+            "sports documentary videos",
+            "sport sessions in television",
+            "radio"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "spor-five-9"
+        },
+        {
+          "main_competence": "5.0 Conduct a project in sports",
+          "specific_competence": "5.1 Design and conduct a project in sports",
+          "learning_activity": "Design and execute a project in sports",
+          "suggested_methods": [
+            "Project: Task students in pairs to conduct a project in sports"
+          ],
+          "assessment_criteria": "The project in sports is well designed and executed",
+          "suggested_resources": [
+            "Newspaper",
+            "magazine",
+            "match and drill videos",
+            "sports sessions in television and radio"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "spor-five-10"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0  Demonstrate \nmastery of \nthe history of \nsports and its \nimportance",
+          "specific_competence": "1.1  Demonstrate an \nunderstanding of \nthe opportunities \navailable in \nsports at national \nand international \nlevels",
+          "learning_activity": "Explore opportunities \nassociated with \nsports at national and \ninternational levels \n(a place of sports for \nfurther education and \nother careers)",
+          "suggested_methods": [
+            "Jigsaw: Task students \nthrough jigsaw to \nexplore opportunities \nassociated with \nsports at national and \ninternational levels"
+          ],
+          "assessment_criteria": "Opportunities \nassociated \nwith sports at \nnational and \ninternational \nlevels are well \nexplored",
+          "suggested_resources": [
+            "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "spor-six-11"
+        },
+        {
+          "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+          "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+          "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+          "suggested_methods": [
+            "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+            "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+          ],
+          "assessment_criteria": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+          "suggested_resources": [
+            "Human body \npictures, \nmodels and \ncharts"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "spor-six-12"
+        },
+        {
+          "main_competence": "3.0  Perform \nselected \nsports",
+          "specific_competence": "3.1 Train for \nselected sports",
+          "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+          "suggested_methods": [
+            "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+          ],
+          "assessment_criteria": "Principles of \ntraining in \nsports are well \ndescribed",
+          "suggested_resources": [
+            "Drill videos"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "spor-six-13"
+        },
+        {
+          "main_competence": "3.0  Perform \nselected \nsports",
+          "specific_competence": "3.1 Train for \nselected sports",
+          "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+          "suggested_methods": [
+            "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+            "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+          ],
+          "assessment_criteria": "Principles of \ntraining in \nsports are well \napplied",
+          "suggested_resources": [
+            "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "spor-six-14"
+        },
+        {
+          "main_competence": "3.0  Perform \nselected \nsports",
+          "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+          "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+          "suggested_methods": [
+            "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+          ],
+          "assessment_criteria": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+          "suggested_resources": [
+            "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+          ],
+          "periods_for_specific_competence": 140,
+          "id": "spor-six-15"
+        },
+        {
+          "main_competence": "3.0  Perform \nselected \nsports",
+          "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+          "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+          "suggested_methods": [
+            "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+            "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+          ],
+          "assessment_criteria": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+          "suggested_resources": [
+            "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "spor-six-16"
+        },
+        {
+          "main_competence": "4.0 Conduct a \nproject in \nsports",
+          "specific_competence": "4.1 Design and \nconduct a project \nin sports",
+          "learning_activity": "Complete and submit \nfor assessment the \nproject initiated in \nForm Five",
+          "suggested_methods": [
+            "Project: Lead students \nin pairs to write and \nsubmit a project report  \non sports challenges in \nTanzania"
+          ],
+          "assessment_criteria": "A project is \ncompleted and \nsubmitted",
+          "suggested_resources": [
+            "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "spor-six-17"
+        }
+      ]
+    }
+  }
+}

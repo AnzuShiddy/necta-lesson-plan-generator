@@ -1,0 +1,512 @@
+{
+  "subject": "Chinese",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727269892-CHINESE%20LANGUAGE%20SYLLABUS%20FOR%20ADVANCED%20SECONDARY%20EDUCATION%20FORM%20V-VI%202.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学） Develop the understanding of Chinese language basics and principles",
+          "learning_activity": "(a) 学习简单成对句子的发音（例如绕口令） Pronounce simple minimal pair sentences (example tongue twisters and couplet)",
+          "suggested_methods": [
+            "头脑风暴：引导学生描述变调规则，特别是一声和三声的变调规则 Brainstorming: Guide students to describe the rule of changing tones particularly for first tones and third tones",
+            "雪球游戏：练习正确的声调、语调和重音（例如：zh, ch, z, x, j, q） Snow Balling: Practice correct tones, intonations an accent (e.g zh, ch z, x, j, q)",
+            "角色扮演：引导学习者演绎给定的绕口令，以提高正确发音 Role play: Guide students to dramatize a given tongue twister to enhance correct pronunciation",
+            "拼图：引导学生使用拼图来正确朗读声调、语调及重音，给出简单的最小对句 Jigsaw: Guide students to use jigsaw to pronounce correct tones, intonations and accent, in simple minimal pair sentences given"
+          ],
+          "assessment_criteria": "准确发音简单的成对句子（例如绕口令） Simple minimal pair sentences are pronounced accurately (example tongue twisters)",
+          "suggested_resources": [
+            "录制的电影、书面材料记录的文字，书面材料，使用从 YouTube 下载的视频来显示绕口令等 Recorded text, Written materials，Use of downloaded video from YouTube that show tongue twisters etc"
+          ],
+          "periods_for_specific_competence": 72,
+          "id": "chin-five-1"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学） Develop the understanding of Chinese language basics and principles",
+          "learning_activity": "(b) 识别具有相同含义但书写不同的字词 Identify words with the same meanings but different orthography",
+          "suggested_methods": [
+            "TIPS 教学法: 引导学生列举具有相同意思但书写不同的字词 TIPS: Guide students to mention out words with same meanings but different orthography by using Think, Ink, Pair, Share method",
+            "小组讨论：引导学生在密集阅读给定材料后，确定具有相同意思但不相同写法的字词 Group discussion: Guide students to identify words with the same meaning but different orthography after intensive reading of given material through discussion"
+          ],
+          "assessment_criteria": "正确识别具有相同含义但书写不同的字词 Words with same meanings but different orthography are identified correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-2"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学） Develop the understanding of Chinese language basics and principles",
+          "learning_activity": "(c) 识别具有相同书写但不同含义的字词 Identify words with the same orthography but different meanings",
+          "suggested_methods": [
+            "TIPS 教学法：引导学生列举具有相同意思但书写不同的词语 TIPS: Guide students to mention out words with same orthography but different meaning",
+            "小组讨论：在深入阅读所给材料后，学生们可以通过讨论辨认出书写相同但意思不同的词语 Group discussion: After intensive reading of given material, guide students to identify words with the same orthography but different meanings through discussion"
+          ],
+          "assessment_criteria": "正确识别具有相同书写不同含义的字词 Words with the same orthography but different meanings are identified correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-3"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学） Develop the understanding of Chinese language basics and principles",
+          "learning_activity": "(d) 写18-19笔画的汉字 Write the Chinese character with 18-19 strokes",
+          "suggested_methods": [
+            "角色扮演:运用小游戏帮助学生在互动中学习汉语的书写 Games and activities: Create fun and interactive games and activities that incorporate Chinese character writings"
+          ],
+          "assessment_criteria": "写出 18-19 笔画的汉字 Chinese characters with 18-19 strokes are written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-4"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.2 拓展汉语词汇 Develop Chinese language vocabulary",
+          "learning_activity": "(a) 从复杂的口语文本中推断生词的含义 Infer meaning of unfamiliar words from a complex oral text",
+          "suggested_methods": [
+            "笔记记录：引导学生在听口语文本（演讲、采访、电影、对话等）时做笔记，以识别不熟悉的词汇 Note taking: Guide students to take note during listening oral text (speech, interview movie, conversation etc) to identify unfamiliar vocabulary",
+            "案例研究：指导学生从演讲、戏剧、电影等中写下生词 Case study: guide students to write unfamiliar vocabulary from speech, play, movies etc",
+            "情景模拟：创建情景，引导学生从口语文本（工业、法庭、酒店、市场、情景）中识别生词 Scenario: Create scenario guiding students to identify unfamiliar vocabulary from oral text (industrial, court, hotel, market, scenario)"
+          ],
+          "assessment_criteria": "从复杂的书面文本中推断出不熟悉的单词的含义 Meaning of unfamiliar words from a complex oral text are inferred",
+          "suggested_resources": [
+            "图片，录制文本，阅读文本，录制音频 Picture, recorded text, reading text, recorded audio"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "chin-five-5"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.2 拓展汉语词汇 Develop Chinese language vocabulary",
+          "learning_activity": "(b) 从复杂的书面文本中推断 陌生词语的含义 Infer meaning of unfamiliar words from a complex written text",
+          "suggested_methods": [
+            "做笔记：引导学生在听口语文本时做笔记，以识别生词 Note taking: guide students to take note during reading written text to identify unfamiliar vocabulary",
+            "案例研究：指导学生从演讲、书籍等中写下生词 Case study: guide students to write unfamiliar vocabulary from speech, books etc"
+          ],
+          "assessment_criteria": "从复杂的书面文本中推断出不熟悉的单词的含义 Meaning of unfamiliar words from a complex written text are inferred",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-6"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法 Use appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(a) 在学校、家庭、市场和医院等不同环境中，使用适当的词汇和语法口头表达简单的想法 Express simple ideas orally using appropriate vocabulary and grammar",
+          "suggested_methods": [
+            "角色扮演和模拟：指导学生在各种情境中运用汉语进行对话，例如市场、医院 Role play and simulation: Guide students to demonstrate on various context e.g market hospital",
+            "辩论：引导学生就各种有趣的话题展开辩论 Debate: Guide students to debate on various interesting topics",
+            "沉默法：引导学生在课堂上大量发言，表达自己的观点和想法 Silent way: Guide students to speak and engage a lot in class session to express their view and ideas"
+          ],
+          "assessment_criteria": "在学校、家庭、市场和医院等不同环境中，使用适当的词汇和语法口头准确表达简单的想法 simple ideas are expressed accurately orally using appropriate vocabulary and grammar in different contexts such as school, home, market, and hospital",
+          "suggested_resources": [
+            "录音文本、阅读文本、录音音频、从 YouTube 下载的视频及相关内容 Recorded text, reading text, recorded audio, downloaded video from YouTube with related content"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "chin-five-7"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法 Use appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(b) 使用高级语法和词汇（时态和主谓一致）来描述事件、对象和情况 Use advanced grammar and vocabulary (tenses and subject-verb agreement) to describe events, objects and situations",
+          "suggested_methods": [
+            "TIPS教学法：学生陈述语法要点，并运用这些语法要点构造句子 TIPS: Students to mention grammar points and construct sentences by using those grammar points",
+            "语法翻译法：引导学生根据语法规则撰写句子 Grammar translation method: Guide students to compose sentence based on grammatical rule",
+            "案例研究：帮助学生从给定的文本中识别高级词汇 Case study: Help students to identify advanced vocabularies from given texts"
+          ],
+          "assessment_criteria": "正确使用高级语法和词汇（时态和主谓一致）来描述事件、对象和情况 Advanced grammar and vocabulary are used correctly (tenses and subject-verb agreement) to describe events, objects and situations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-8"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能 Master advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法 Use appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(c) 在电影、购物、酒店和购票等不同情境中，使用适当的词汇和语法以书面形式表达简单的想法 Express simple ideas in writing using appropriate vocabulary and grammar",
+          "suggested_methods": [
+            "TIPS 教学法：学生写下一天计划 (需超过200个汉字) TIPS: Students to write down their plan of the day (more than 200 character)",
+            "小组讨论：以小组为单位，引导学生写有关当前和过去事件的短篇故事 Group Discussion: Guide students on their group to write short stories about present and past events",
+            "拼图：引导学生写关于去电影院、购物、酒店和购票的对话 Jigsaw: Guide students to write conversation about going to cinema, shopping, hotel and buying tickets"
+          ],
+          "assessment_criteria": "在电影、购物、酒店和购票等不同情境中，使用适当的词汇和语法正确书写简单的想法 Simple ideas are expressed in writing using appropriate vocabulary and grammar",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-9"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解 Demonstrate higher understanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解 Develop understanding of Chinese language conversations and texts",
+          "learning_activity": "(a) 聆听和理解来自正式和非正式的不同环境的简单口头文本 Listen and comprehend simple oral texts from different contexts",
+          "suggested_methods": [
+            "案例研究：引导学生听简单的对话、新闻，并根据问题进行回答 Case studies: Guide students to listen simple dialogues, news, to respond to it accordingly by answering questions",
+            "拼图：使用视觉辅助工具，如视频、带字幕的电影或电视节目，练习理解能力 Jigsaw: Using visual aids, such as video, watching movies or TV show with subtitles to practice comprehension skills.",
+            "做笔记：引导学生在听汉语内容（演讲、对话等）时做笔记，因为做笔记有助于记住关键信息和词汇 Taking notes: Guide students while listening Chinese contents such as speech, conversation to take note as taking note help students to remember key information and vocabulary words"
+          ],
+          "assessment_criteria": "聆听和正确理解来自不同语境的简单口头文本 Simple oral texts from different contexts are listened and comprehended",
+          "suggested_resources": [
+            "录音文本、阅读文本、录音音频、从 YouTube 下载的视频及相关内容 Recorded text, reading text, recorded audio， downloaded video from YouTube with related content"
+          ],
+          "periods_for_specific_competence": 72,
+          "id": "chin-five-10"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解 Demonstrate higher understanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解 Develop understanding of Chinese language conversations and texts",
+          "learning_activity": "(b) 阅读和理解有关熟悉主题和情况的真实文本（例如电子邮件、博客、信件、报纸） Read and understand authentic texts on familiar topics and situations (e.g. email messages, blogs, letters, newspaper)",
+          "suggested_methods": [
+            "案例研究：引导学生阅读某个真实案例研究，并根据其进行总结回答 Case study: Guide students to read a certain authentic case study and respond to it accordingly by summarizing it",
+            "讨论：组织学生以小组为单位寻找中文博客、电子邮件、信函，熟悉如何使用它们 Discussion: Organize students on their groups to find Chinese blogs, email, letter and be familiar on how to use them"
+          ],
+          "assessment_criteria": "阅读和正确理解熟悉主题和情况的真实文本，（例如电子邮件、消息、博客信件、报纸) Authentic texts on familiar topic and situations are read and understood (e.g email, message, blogs letters, newspaper)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-11"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解 Demonstrate higher understanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解 Develop understanding of Chinese language conversations and texts",
+          "learning_activity": "(c) 自信而自主地回应复杂的口头信息 Respond to complex oral messages with confidence and autonomy",
+          "suggested_methods": [
+            "情景：指导学生自信和自主地回应所听到的情景，注意声调、语调和肢体语言 Scenarios: Guide students to respond on scenario heard with confidence and autonomy, pay attention to tones, intonation and body language",
+            "拼图：学生通过辨别口语文本中使用的正式和非正式语言来回应 Jigsaw: Students to respond on oral texts by identifying both formal and informal language used on those texts"
+          ],
+          "assessment_criteria": "自信和自主地回答复杂的口头信息 complex oral messages with confidence and autonomy are responded",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-12"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解 Demonstrate higher understanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解 Develop understanding of Chinese language conversations and texts",
+          "learning_activity": "(d) 自信而自主地回应复杂的口头信息 Deduce meaning of unknown words and expressions from different oral and written texts (e.g. announcements, news items, dialogues)",
+          "suggested_methods": [
+            "拼图：组织学生聆听口语文本，推断未知的词语和表达 Jigsaw：Organize students to listen to oral texts to deduce unknown words and expression",
+            "小组讨论：学生阅读各种不同的文本，帮助他们建立词汇量，提高从生词和表达中推断意思的能力 Group discussion: students to read variety of different text given that help them to build vocabulary and improve ability to deduce meaning from unfamiliar words and expressions"
+          ],
+          "assessment_criteria": "从不同的口头和书面文本中正确推断出未知字词和表达的含义（例如公告、新闻项目、对话） meaning of unknown words and expressions from different oral and written texts are deduced (e.g. announcements, news items, dialogues)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-13"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流 Communicate effectively in conversations and written texts",
+          "specific_competence": "3.1 展示理解中文对话的能力 Demonstrate the ability to communicate orally",
+          "learning_activity": "(a) 字词准确发音 Pronounce words correctly",
+          "suggested_methods": [
+            "头脑风暴：学生解释音调如何变化（一声和三声） Brainstorming: Students to explain how do tones change (first, second tones and third tone)",
+            "沉浸式学习：引导学生观看电影，听歌曲，注意母语发音 Immersing: guide students to watch movies, listen to song music and pay attention to native pronunciation",
+            "停顿模仿：引导学生聆听母语者的音频并模仿 Listen and Imitate: Guide students to listen to an audio of a native speaker and to imitate that audio"
+          ],
+          "assessment_criteria": "根据规则正确发音的字词 Words are pronounced correctly",
+          "suggested_resources": [
+            "录音文本、阅读文本、录音音频、从 YouTube 下载的视频及相关内容 Recorded text, reading text, recorded audio, downloaded video from YouTube with related content"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "chin-five-14"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流 Communicate effectively in conversations and written texts",
+          "specific_competence": "3.1 展示理解中文对话的能力 Demonstrate the ability to communicate orally",
+          "learning_activity": "(b) 就各种活动发表简短演讲和公告 Deliver short speeches and announcements on various events",
+          "suggested_methods": [
+            "演讲：指导学生写各种文件，如演讲稿、正式信函、非正式信函、通告，并在其他学生面前展示 Presentation: Organise students to present given speech of public function",
+            "情景：每个学生创建未来事件情景，描述他们希望未来的生活如何 Demonstration: Guide students to prepare announcement and deliver in front of other students"
+          ],
+          "assessment_criteria": "正确传达各种活动的简短演讲和公告 Short speeches and announcements on various events are delivered",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-15"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流 Communicate effectively in conversations and written texts",
+          "specific_competence": "3.1 展示理解中文对话的能力 Demonstrate the ability to communicate orally",
+          "learning_activity": "(c) 讲述过去和未来的各种事件 Narrate past and future events",
+          "suggested_methods": [
+            "拼图：使用这个方法来帮助学生叙述已经发生但无法忘记的事件 Jigsaw: Help students to narrate the event that happened but they cannot forget",
+            "示范：指导学生创作关于他们未来生活的剧本并在其他学生面前宣布 Scenario: Each student to create future event scenario on how they wish their life to be in the future"
+          ],
+          "assessment_criteria": "正确叙述过去和未来的事件 Past and future events are narrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "chin-five-16"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流 Communicate effectively in conversations and written texts",
+          "specific_competence": "3.2 展现书面沟通的能力 Demonstrate-ability to communicate in writing",
+          "learning_activity": "(a) 准备不同的文件，例如公告、官方和非官方信件、简历/履历、感谢词/各种活动的欢迎信、演讲、填写表格、 Prepare different documents such as announcements, official and non-official letters, resume/curriculum vitae (CV), vote of thanks/welcoming remarks, invitation Cards/letters, speeches and filling in forms",
+          "suggested_methods": [
+            "演讲：指导学生书写各种文件，例如演讲，官方和非官方信件，公告，并在其他学生面前演讲 presentation: Guide students to write various documents such as speech, official letter and non-official letter, announcement and present in front of other students",
+            "拼图：指导学生写关于过去事件和未来的短篇故事 Jigsaw: Guide students to write short stories about past events and future"
+          ],
+          "assessment_criteria": "正确准备不同的文件，例如公告、正式和非正式信件、简历/履历、感谢词/各种活动的欢迎信、填写表格、邀请卡/信件和演讲） Different documents are prepared (such as announcements, official and non-official letters, resume/curriculum vitae (CV), word of thanks/welcome note on various events, Fill in forms, invitation Cards/letters, and speeches)",
+          "suggested_resources": [
+            "图片，课本，录制文本，阅读文本，录制音频 Picture, textbooks, recorded text, reading text, recorded audio"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "chin-five-17"
+        },
+        {
+          "main_competence": "4.0 笔译和口译 Translate and interpret",
+          "specific_competence": "4.1 笔译复杂文本 Translate complex texts",
+          "learning_activity": "(a) 笔译各种文件（例如传单、小册子、海报、横幅、演讲、邀请卡/信件、简历/履历、报告、合同和遗嘱） Translate a variety of documents (e.g. fliers, brochures, posters, banners, speeches, invitation Cards/letters, resume/curriculum vitae (CV), reports, contracts, and wills)",
+          "suggested_methods": [
+            "头脑风暴：学生头脑风暴翻译的意义和翻译原则 Brainstorming: Guide students to brainstorm the meaning of translation and principle of translations",
+            "拼图：将学生分成小组翻译各种文件 Jigsaw: Divide students into groups to translate various documents",
+            "小组讨论：引导学生使用计算机辅助工具翻译指定的简短文件 Group discussion: Guide students to translate short documents given by using computer assisted tools (CAT)"
+          ],
+          "assessment_criteria": "正确翻译各种文件的翻译原则（例如传单、小册子、海报、横幅、演讲、邀请卡/信件、简历/履历报告、学术报告、合同和遗嘱） Variety of documents are translated (e.g. fliers, brochures, posters, banners, speeches, invitation Cards/letters, resume/curriculum vitae (CV), reports, academic reports, contracts, and wills)",
+          "suggested_resources": [
+            "图片，录制文本，阅读文本，录制音频 Pictures, recorded text, reading text, recorded audio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "chin-five-18"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学）\nDevelop the understanding of Chinese language basics and principles",
+          "learning_activity": "(a) 发音复杂的最小组（例如绕口令）\nPronounce complex minimal pair sentences (example tongue twisters)",
+          "suggested_methods": [
+            "角色扮演：引导学生演绎给定的复杂绕口令，以提高正确发音的能力，达到像母语者一样的发音\nRole play: Guide students to dramatize given complex tongue twister to enhance correct pronunciation like native",
+            "模仿和记忆模仿和记忆：给学生提供带有所需知识点的句子\n (Zhi,chi,shi,s,z,j,q)\nImitation and memorization: Students to be given sentences with minimal pair (Zhi, chi, shi s, z, j, q)",
+            "拼图拼图：学生使用拼图从口语文本中练习正确发音的语调、语音和口音\nJigsaw: Guide students to use jigsaw to practise correct tones, intonations and accent from oral text"
+          ],
+          "assessment_criteria": "复杂的最小成对句子发音准确（例如绕口令）\nComplex minimal pair sentences are pronounced (example tongue twisters)",
+          "suggested_resources": [
+            "录制的电影、书面材料\n记录的文字，书面材料，使用从 YouTube 下载的视频来显示绕口令等\nRecorded text,\nWritten materials，\nUse of downloaded video from YouTube that show tongue twisters etc"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "chin-six-19"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学）\nDevelop the understanding of Chinese language basics and principles",
+          "learning_activity": "(b) 构造复杂结构的句子\nConstruct sentences with complex structure",
+          "suggested_methods": [
+            "TIPS教学法教学法：学生提出简单和复杂结构的例子\nTIPS: Students to compose simple and complex structures",
+            "讨论讨论：组织学生分组讨论复杂的中文句子结构\nDiscussion: Guide students on their groups to write short story by using several complex structures",
+            "演讲演讲：引导学生做至少5个演讲，每个演讲含有10个复杂结构的句子\nPresentation: Guide students to introduce themselves by using complex sentence structure (oral)"
+          ],
+          "assessment_criteria": "结构复杂的句子结构正确\nSentences with complex structure are constructed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "chin-six-20"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.1 提高对汉语基础知识和原则的理解（形态学、音韵学、句法学、和语义学）\nDevelop the understanding of Chinese language basics and principles",
+          "learning_activity": "(c) 写出 20-21笔画的汉字\nWrite the Chinese character with 20-21 strokes",
+          "suggested_methods": [
+            "角色扮演角色扮演:指导学生探索发生在学校和家里的各种活动，并将他们分成易于管理的小组，进行角色扮演，以展示他们对角色扮演中使用的简单语法的理解。\nGames and activities: Create fun and interactive games and activities that incorporate Chinese character writings"
+          ],
+          "assessment_criteria": "写出 20-21 笔画的汉字\nChinese character with 20-21 strokes are written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "chin-six-21"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.2 拓展汉语词汇\nDevelop Chinese language vocabulary",
+          "learning_activity": "(a) 通过字词形成过程形成新字词，例如（复合，杂糅，剪裁）\nForm new word through word formation processes eg (compounding, blending, clipping)",
+          "suggested_methods": [
+            "思考配对思考配对：指导学生提出他们所知道的词语形成的各种方式，并形成字词\nBrainstorming: guide students to mention various way of word formation they know.",
+            "游戏游戏：例如填字游戏，通过游戏过程了解字词的形成过程，以加强学生对词语形成过程的理解\nGames: Use games such as crossword puzzle to guide students to form different words"
+          ],
+          "assessment_criteria": "尽管字词形成过程正确形成了新字词，例如（复合，杂糅，剪裁）\nNew word though word formation processes are formed e.g (compounding, blending, clipping)",
+          "suggested_resources": [
+            "录制文本\nrecorded text"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "chin-six-22"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.2 拓展汉语词汇\nDevelop Chinese language vocabulary",
+          "learning_activity": "(b) 使用上下文、技术词典、同义词库和百科全书推断新词汇的含义\nInfer the meanings of new words using context, technical dictionary, thesaurus and encyclopaedia",
+          "suggested_methods": [
+            "TIPS教学法教学法：学生陈述发现新词汇含义的方法\nTIPS: Students to mention ways that can be used to discover meaning of new vocabulary",
+            "讨论讨论：组织学生分组阅读书籍，通过使用词典发现新词汇的含义\nDiscussion: Organize students into their groups to read books to discover meanings of new words by using dictionary"
+          ],
+          "assessment_criteria": "使用上下文、技术词典、词库和百科全书正确发现新词汇的含义\nMeanings of new vocabulary using context, technical dictionary, thesaurus and encyclopaedia are inferred",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 39,
+          "id": "chin-six-23"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法\nUse appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(a) 使用高级词汇和语法（例如副词、介词、连词和量词）来描述特定领域的过去、现在和未来事件\nUse advanced vocabulary and grammar ( e.g. adverbs, prepositions, conjunctions and measure words) to describe field specific past, present and future events",
+          "suggested_methods": [
+            "辩论辩论：引导学生根据给定的主题，使用适当的词汇和语法进行论辩\nDebate: Guide students to argue for or against on given themes by using appropriate vocabulary and grammar演示：指导学生展示在现实生活场景中人际沟通能力\nDemonstration: Guide students to demonstrate inter personal communication in real life situations",
+            "情境情境：学生根据过去、现在和未来的事件，复述所听故事\nScenario: Students to retell story heard based on past, present and future events"
+          ],
+          "assessment_criteria": "高级词汇和语法（例如副词、介词、连词和量词）来描述特定领域的过去、现在和未来事件\nAdvanced vocabulary and grammar (e.g adverbs, prepositions, conjunctions and measure words) are used to describe field specific past, present and future events",
+          "suggested_resources": [
+            "录制文本\nrecorded text"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "chin-six-24"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法\nUse appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(b) 以特定背景（例如学校、家庭、医院、国家公园、博物馆健身房/游乐场）为主题，使用适当词汇和语法撰写文章\nCompose a passage using appropriate vocabulary and grammar themed on a particular context (e.g school, home, hospital, national park, museum gym/playground)",
+          "suggested_methods": [
+            "拼图拼图：在小组中写一篇不超过300字关于学校、家庭、医院环境的文章\nJigsaw: on their groups to write a passage less than 300 hundred character about school, home, hospital environment",
+            "作文比赛作文比赛：学生根据给定的题目使用适当的词汇和语法写作文\nComposition competition: student to write composition on title given by using appropriate vocabulary and grammar"
+          ],
+          "assessment_criteria": "正确撰写一篇使用适当词汇和语法的文章，根据特定背景（例如学校、家庭、医院、国家公园、博物馆健身房/游乐场）\nA passage using appropriate vocabulary and grammar are composed on a particular context (e.g school, home, hospital, national park, museum gym/playground)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 41,
+          "id": "chin-six-25"
+        },
+        {
+          "main_competence": "1.0 掌握高级汉语技能\nMaster advanced Chinese language skills",
+          "specific_competence": "1.3 在各种语境中，使用适当的词汇和语法\nUse appropriate vocabulary and grammar in different contexts",
+          "learning_activity": "(c) 根据特定主题（例如环境污染、疾病、腐败）使用适当的词汇和语法写一篇文章\nWrite an essay using appropriate vocabulary and grammar based on a particular topic (e.g environmental pollution, diseases, corruption)",
+          "suggested_methods": [
+            "TIPS教学法教学法：引导学生推测文章的含义\nTIPS: guide students to deduce the meaning of essay and basic principle of writing essay",
+            "项目任务项目任务：学生根据给定的文章标题撰写文章，使用适当的词汇和语法\nProject task: students to be given essay title and work on title given to write an essay by using appropriate vocabulary and grammar"
+          ],
+          "assessment_criteria": "写出一篇基于特定主题（例如环境污染，疾病，腐败）且词汇和语法运用恰当的文章\nAn essay using appropriate vocabulary and grammar based on a particular topic (e.g environmental pollution, diseases, corruption) are written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 42,
+          "id": "chin-six-26"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解\nDemonstrate higher un-derstanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解\nDevelop understanding of Chinese language conversations and texts",
+          "learning_activity": "(a) 从口头信息和书面文本中推断字词的不同类型的含义，例如（外延、内涵、比喻）\nInfer different kinds of meanings of words e.g (denotative, connotative, figurative) from oral information and written texts",
+          "suggested_methods": [
+            "小组讨论：引导学生聆听口语文本并辨认其直义、隐义、比喻义\nGroup discussion: guide students to listen to oral context and identify those denotative, connotative, figurative",
+            "演讲演讲：引导学生从书面文本中选择直义、隐义、比喻义的内容进行演讲\nPresentation: Guide students from written texts, to present those connotative, figurative and denotative"
+          ],
+          "assessment_criteria": "可以从口头信息和书面文本中很好地推断出词的各种含义（例如外延、内涵、比喻）\nDifferent kinds of meanings of words infer differentiated well (e.g. denotative, connotative, figurative) from oral information and written texts are inferred",
+          "suggested_resources": [
+            "录制文本，阅读文本\nrecorded text, reading text"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "chin-six-27"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解\nDemonstrate higher un-derstanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解\nDevelop understanding of Chinese language conversations and texts",
+          "learning_activity": "(b) 从日常话题（例如个人、家庭、购物和休闲活动）的口头和书面文本中识别主要思想、观点、情感和态度\nRecognize the main ideas, opinions, emotions and attitudes from oral and written texts themed on daily routine (e.g. personal, family, shopping and leisure activities)",
+          "suggested_methods": [
+            "角色扮演：根据音频视觉剧本表达情感，使用语调\nRole play: Expressing emotions using intonation based on script given from audio visual",
+            "拼图：通过给定的诗歌、歌曲来识别主要观点、意见、情感和态度\njigsaw: Guide students from given poem, song to recognize main ideas, opinions, emotions and attitudes"
+          ],
+          "assessment_criteria": "正确识别日常话题（如：个人、家庭、购物和休闲活动）的口头和书面文本的主要思想、观点、情感和态度\nMain ideas, opinions, emotions and attitudes from oral and written texts themed on everyday topics are recognized (e.g personal, family, shopping and leisure activities)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 44,
+          "id": "chin-six-28"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解\nDemonstrate higher un-derstanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解\nDevelop understanding of Chinese language conversations and texts",
+          "learning_activity": "(c) 复述、重写和总结从口头报告或阅读文本中听到的故事\nRetell, rewrite and summarize the story heard from oral presentation or read text",
+          "suggested_methods": [
+            "案例研究案例研究：引导学生仔细听取给定文本并复述\nCase studies: Guide students to listen attentively given text and to retell",
+            "讨论讨论：引导学生阅读给定文本并重新撰写\nDiscussion: Guide students to read texts given text and rewrite the text"
+          ],
+          "assessment_criteria": "从口头陈述或阅读文本中听到的故事被重新讲述和重写\nStory heard from oral presentation or read text are re-told and rewritten",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 45,
+          "id": "chin-six-29"
+        },
+        {
+          "main_competence": "2.0 在会话和写作中展现出对中文的高水平理解\nDemonstrate higher un-derstanding of Chinese language in conversation and written",
+          "specific_competence": "2.1 提高对中文对话和文本的理解\nDevelop understanding of Chinese language conversations and texts",
+          "learning_activity": "(d) 从对话中推断出修辞和隐含的含义\nDeduce rhetorical and implied meanings from conversations",
+          "suggested_methods": [
+            "头脑风暴头脑风暴：引导学生头脑风暴修辞的含义\nBrainstorming: guide students to brainstorm meaning of rhetorical",
+            "小组讨论小组讨论：引导学生分组阅读对话并推断修辞意义\nGroup discussion: guide students into their groups to read given conversations and deduce rhetorical meanings"
+          ],
+          "assessment_criteria": "从对话中推断出正确的修辞和隐含意义\nRhetorical and implied meanings from conversations are deduced",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 46,
+          "id": "chin-six-30"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流\nCommunicate effectively in conversations and written texts",
+          "specific_competence": "3.1 展示理解中文对话的能力\nDemonstrate the ability to communicate orally",
+          "learning_activity": "(a) 参与各种话题的辩论采访\nParticipate in debate and interview on various topics",
+          "suggested_methods": [
+            "讨论：引导学生分组参加辩论比赛\nDiscussion: Guide students into their groups to participate debate competitions",
+            "角色扮演：学生准备面试并进行演示回答面试问题\nRole play: Students to prepare an interview, to demonstrate it and respond to an interview question"
+          ],
+          "assessment_criteria": "辩论采访各种话题参与度很高\nDebate and interview on various topics are participated in",
+          "suggested_resources": [
+            "录音文本、阅读文本、录音音频、从 YouTube 下载的视频及相关内容\nRecorded text, reading text, recorded audio, downloaded video from YouTube with related content"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "chin-six-31"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流\nCommunicate effectively in conversations and written texts",
+          "specific_competence": "3.1 展示理解中文对话的能力\nDemonstrate the ability to communicate orally",
+          "learning_activity": "(b) 扮演涉及不同语言表达的角色（大喊、大叫、哭喊、大声说话和直言不讳)\nAct in roles that involve different verbal expressions (shouting, yelling, crying out, speaking up, and talking through)",
+          "suggested_methods": [
+            "讨论讨论：引导学生观看特定场景并模仿（大喊、大叫、哭喊、大声说话和直言不讳)\nImitate and memorization：Guide students to listen or to watch certain conversation and act upon it (shouting, yelling, crying out etc.)",
+            "角色扮演角色扮演：引导学生根据给定主题表演（大喊、大叫、哭喊、大声说话和直言不讳)\nRole play: guide students to dramatize given theme that involve (shouting yelling, talking through)"
+          ],
+          "assessment_criteria": "生动扮演涉及不同语言表达的角色（大喊、大叫、哭喊、大声说话和直言不讳)\nRoles that involve different verbal expressions (shouting, yelling, crying out, speaking up, and talking through) are acted",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 48,
+          "id": "chin-six-32"
+        },
+        {
+          "main_competence": "3.0 在对话和写作中进行高水平的交流\nCommunicate effectively in conversations and written texts",
+          "specific_competence": "3.2 展现书面沟通的能力\nDemonstrate ability to communicate in writing",
+          "learning_activity": "(a) 用适当的标点和风格撰写各种复杂的文本（例如调查报告、学术报告、合同、遗嘱、复杂的指导手册）\nCompose a variety of complex texts (e.g. investigative reports, academic reports, contracts, wills, complex instructional manuals) with appropriate punctuation and style",
+          "suggested_methods": [
+            "演讲演讲：指导学生撰写演讲稿、官方信函、非官方信函、公告，并在其他学生面前进行演讲\npresentation: Guide students to write various documents such as speech, official letter and non-official letter, announcement and present in front of other students",
+            "拼图拼图：引导学生撰写关于过去事件和未来的短篇故事\nJigsaw: Guide students to write short stories about past events and future"
+          ],
+          "assessment_criteria": "正确准备不同的文件，例如公告、正式和非正式信件、简历/履历、感谢词/各种活动的欢迎信、填写表格、邀请卡/信件和演讲）\n各种复杂的文本（例如调查报告、学术报告、合同、遗嘱、复杂的教学手册）均以适当的标点符号和风格组成\nVariety of complex text (e.g. investigative reports, academic reports, contracts, wills, complex instructional manuals) are composed with appropriate punctuation and style",
+          "suggested_resources": [
+            "课本，录制文本，阅读文本，录制文本，阅读文本，录制音频\nRecorded text, reading text, recorded audio"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "chin-six-33"
+        },
+        {
+          "main_competence": "4.0 笔译和口译\nTranslate and interpret",
+          "specific_competence": "4.1 笔译复杂文本\nTranslate complex texts",
+          "learning_activity": "(a) 使用计算机辅助工具翻译各种文本\nTranslate a variety of texts using Computer-Assisted Translation (CAT) tools",
+          "suggested_methods": [
+            "头脑风暴：学生提到可以在翻译过程中使用的工具，并介绍如何使用这些工具\nBrainstorming: students to mention numbers of instruments that can be used during the process of translation and how to use them",
+            "讨论：指导学生分组使用计算机辅助翻译工具翻译文本\nDiscussion: guide students on their groups to translate texts using computer-assisted Translation (CAT) tools"
+          ],
+          "assessment_criteria": "使用计算机辅助翻译工具正确翻译的各种文本\nA variety of texts using Computer-Assisted Translation (CAT) tools are translated",
+          "suggested_resources": [
+            "文本\nText"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "chin-six-34"
+        },
+        {
+          "main_competence": "4.0 笔译和口译\nTranslate and interpret",
+          "specific_competence": "4.2 提供口译\nProvide Interpretation",
+          "learning_activity": "(a) 口译复杂的口语信息（例如演讲、公告、课堂对话和采访）\nInterpret complex oral texts (e.g. speeches, announcement, classroom conversations/dialogues, and interview)",
+          "suggested_methods": [
+            "TIPS教学法教学法：指导学生提到和描述口译的原则\nTIPS: Guide students to mention and describe principle of interpretation",
+            "演讲：指导学生口译口头本地文本，包括演讲、对话和面试\nPresentations: Guide students to interpret oral native text, from speech, dialogue, conversation, and interview",
+            "学习之旅学习之旅：为学生组织教育之旅，让他们在翻译过程中与母语者沉浸交流\nStudy Tour: students to immerse with native speak during interpretation"
+          ],
+          "assessment_criteria": "解释复杂的口头文本（例如演讲、公告、课堂对话/对话和采访）\nComplex oral texts (e.g. speeches, announcements, classroom conversations/dialogues, and interview) are interpreted",
+          "suggested_resources": [
+            "文本\nText"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "chin-six-35"
+        }
+      ]
+    }
+  }
+}

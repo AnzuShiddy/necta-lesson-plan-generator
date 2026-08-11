@@ -55,9 +55,12 @@ LEVELS = {
     "advanced": {
         "forms": ["Form Five", "Form Six"],
         "label": "Advanced Secondary Education (Form V-VI)",
+        "anchor_running_head": True,
+        # `fr`: the French-medium syllabus (Français langue étrangère) heads its
+        # sections "Ve Année" / "VIe Année" over "Tableau N: Les Contenus ...".
         "aliases": {
-            "Form Five": {"rn": "V",          "word": "Five", "sw": "V"},
-            "Form Six":  {"rn": "(?:VI|V1)",  "word": "Six",  "sw": "VI"},
+            "Form Five": {"rn": "V",          "word": "Five", "sw": "V",  "fr": "Ve"},
+            "Form Six":  {"rn": "(?:VI|V1)",  "word": "Six",  "sw": "VI", "fr": "VIe"},
         },
     },
 }
@@ -128,7 +131,30 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
     forms = LEVELS[level]["forms"]
     idx: dict[str, int] = {}
     for name, a in aliases.items():
-        pats = [
+        pats = []
+        if LEVELS[level].get("anchor_running_head"):
+            # The running head ("Form VI" alone on a line) directly above the
+            # matrix caption ("Table 4: Detailed Contents for ..."). Tried first
+            # because it survives a mislabelled caption: TIE captioned the Form
+            # VI table of the A-level Literature in English syllabus "Detailed
+            # Contents for Form V", so the caption alone points both forms at
+            # the same table. The caption lookahead keeps this off the identical
+            # running head that repeats on every later page of the section.
+            #
+            # Only the advanced level uses it. It shifts an ordinary-level
+            # section start by a few characters (onto the heading line rather
+            # than the caption), and those four-form splits are already
+            # validated against all 14 ingested subjects — no reason to perturb
+            # them for a fault none of them has.
+            pats.append(rf"(?m)^[ \t]*Form\s*{a['rn']}[ \t]*$"
+                        rf"(?=\n[^\n]{{0,90}}(?:Table\s*\d|Detailed\s+Contents?))")
+        if a.get("fr"):
+            pats += [
+                rf"(?m)^[ \t]*{a['fr']}\s*Ann[ée]e[ \t]*$"
+                rf"(?=\n[^\n]{{0,90}}(?:Tableau\s*\d|Les\s+Contenus))",
+                rf"Les\s+Contenus[^\n]{{0,80}}pour\s+la\s+{a['fr']}\s*Ann[ée]e",
+            ]
+        pats += [
             # "Detailed Content(s)" — the 's' and inner spacing vary by PDF.
             rf"Detailed\s+Contents?\s+for\s+Form\s*{a['rn']}\b",
             rf"Detailed\s+Contents?\s+for\s+Form\s*{a['word']}\b",
@@ -156,6 +182,29 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
         end = idx[ordered[i + 1]] if i + 1 < len(ordered) else len(full_text)
         out[name] = full_text[start:end]
     return out
+
+
+def carry_merged_competences(activities: list[dict]) -> int:
+    """Fill competence cells the syllabus merges across several activity rows.
+
+    In the TIE matrix a main competence cell spans every specific competence and
+    activity row beneath it, so only the first of those rows repeats the text. A
+    row that reaches us without one belongs to the last stated competence — this
+    copies it down rather than leaving the lesson plan's Main Competence blank.
+
+    Only fills what is genuinely inherited: a row before any stated competence
+    has nothing above it to inherit and is left empty rather than guessed at.
+    Returns the number of cells filled."""
+    filled = 0
+    last: dict[str, str] = {}
+    for a in activities:
+        for field in ("main_competence", "specific_competence"):
+            if a.get(field):
+                last[field] = a[field]
+            elif last.get(field):
+                a[field] = last[field]
+                filled += 1
+    return filled
 
 
 def ingest(subject: str, level: str = "ordinary") -> None:
@@ -189,6 +238,13 @@ def ingest(subject: str, level: str = "ordinary") -> None:
             d = a.model_dump()
             d["id"] = f"{slug(subject)[:4]}-{form.split()[1].lower()}-{counter}"
             acts.append(d)
+        carried = carry_merged_competences(acts)
+        if carried:
+            print(f"    · carried {carried} merged competence cell(s) down")
+        blank = sum(1 for a in acts if not a.get("main_competence"))
+        if blank:
+            print(f"    ! {blank}/{len(acts)} rows still have no main competence — "
+                  f"the PDF text extraction dropped those cells", file=sys.stderr)
         forms_out[form] = {"activities": acts}
 
     out = OUT_DIR / f"{slug(subject, level)}.json"

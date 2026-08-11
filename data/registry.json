@@ -2,7 +2,12 @@
   "note": "The full subject list the app advertises, per level. Status is derived at runtime: 'ready' if data/syllabus/<slug>.json exists (advanced-level slugs end in _advanced), else 'pdf' if the PDF is downloaded (run scripts/ingest_syllabus.py), else 'pending' (needs the official TIE PDF URL).",
   "levels": {
     "ordinary": {
-      "forms": ["Form One", "Form Two", "Form Three", "Form Four"],
+      "forms": [
+        "Form One",
+        "Form Two",
+        "Form Three",
+        "Form Four"
+      ],
       "syllabus": "TIE Ordinary Secondary Education syllabuses (2023)",
       "subjects": [
         "Physics",
@@ -26,9 +31,12 @@
       ]
     },
     "advanced": {
-      "forms": ["Form Five", "Form Six"],
+      "forms": [
+        "Form Five",
+        "Form Six"
+      ],
       "syllabus": "TIE Advanced Secondary Education syllabuses (Form V-VI)",
-      "note": "The 19 subjects a Form V/VI teacher prepares schemes and lesson plans for in the 2026/2027 academic year.",
+      "note": "Every subject TIE publishes a Form V-VI syllabus for. The first 19 are the set a Form V/VI teacher asked for; the rest are TIE's remaining A-level subjects.",
       "subjects": [
         "Advanced Mathematics",
         "Basic Applied Mathematics",
@@ -48,7 +56,18 @@
         "Academic Communication",
         "Kiswahili",
         "Fasihi ya Kiswahili",
-        "Historia ya Tanzania na Maadili"
+        "Historia ya Tanzania na Maadili",
+        "Arabic",
+        "Chinese",
+        "Divinity",
+        "Elimu ya Dini ya Kiislamu",
+        "Fine Art",
+        "Music",
+        "Sport Studies",
+        "Textiles and Garment Construction",
+        "Theatre Arts",
+        "Tourism",
+        "French"
       ]
     }
   }

@@ -1,0 +1,1255 @@
+{
+  "subject": "French",
+  "form": "Form Six",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 5,
+  "total_periods": 176,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+      "learning_activity": "Utiliser les règles de la phonétique et de la phonologie dans des mots isolés et dans l’enchaînement",
+      "activity_id": "fren-six-19",
+      "periods": 6,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Virelingues : Guider les étudiants à lire des virelingues lentement et vite",
+        "Lecture à haute voix : Guider les étudiants à lire des mots composés sur les cartes"
+      ],
+      "assessment": "Capacité d’utiliser les règles de la phonétique et de la phonologie dans des mots isolés et dans l’enchaînement",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels de sujets variés",
+        "- Documents authentiques écrits portant sur la phonétique et la phonologie"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+      "learning_activity": "Converser dans des contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)",
+      "activity_id": "fren-six-20",
+      "periods": 6,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Jeu de rôle/ dialogue ou simulation: Guider les étudiants à jouer les rôles dans des conversations en contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)"
+      ],
+      "assessment": "Capacité de converser dans des contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels de situations de communication suivantes: à la douane, au tribunal, à des conférences, à des réunions"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+      "learning_activity": "Rédiger des récits longs en utilisant le passé simple",
+      "activity_id": "fren-six-21",
+      "periods": 6,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Projet: Guider les étudiants à rédiger des récits longs en fonction de sujets de leur centre d’intérêt en utilisant le passé simple",
+        "Atelier d’écriture: Organiser un atelier d’écriture et mener les étudiants à rédiger des récits longs en fonction de sujets de leur centre d’intérêt en utilisant le passé simple"
+      ],
+      "assessment": "Capacité de rédiger correctement des récits longs avec le passé simple",
+      "resources": [
+        "- Récrits longs variés narrés en utilisant le temps passé"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+      "activity_id": "fren-six-22",
+      "periods": 6,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur des sujets variés pour la préparation des discours",
+        "Jeu de rôle/ simulation : Guider les étudiants à jouer les rôles présentateur d’un discours /public"
+      ],
+      "assessment": "Capacité de donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+      "resources": [
+        "- Documents oraux/audio-visuels portant sur des discours de sujets variés",
+        "- Documents authentiques écrits variés portant le vocabulaire et la grammaire cibles"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+      "activity_id": "fren-six-22",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur des sujets variés pour la préparation des discours",
+        "Jeu de rôle/ simulation : Guider les étudiants à jouer les rôles présentateur d’un discours /public"
+      ],
+      "assessment": "Capacité de donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+      "resources": [
+        "- Documents oraux/audio-visuels portant sur des discours de sujets variés",
+        "- Documents authentiques écrits variés portant le vocabulaire et la grammaire cibles"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Utiliser des synonymes et des antonymes pour composer une variété de textes complexes",
+      "activity_id": "fren-six-23",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Jeu de substitution : Guider les étudiants à substituer dans les phrases des synonymes et des antonymes dans des divers textes",
+        "Projet : Guider les étudiants à composer des textes complexes sur des sujets de leur centre d'intérêt en utilisant des synonymes et des antonymes"
+      ],
+      "assessment": "Capacité d’utiliser correctement des synonymes et des antonymes pour composer une variété de textes complexes",
+      "resources": [
+        "- Documents authentiques/fabriqués oraux ou écrits portant sur des synonymes"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Utiliser des synonymes et des antonymes pour composer une variété de textes complexes",
+      "activity_id": "fren-six-23",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Jeu de substitution : Guider les étudiants à substituer dans les phrases des synonymes et des antonymes dans des divers textes",
+        "Projet : Guider les étudiants à composer des textes complexes sur des sujets de leur centre d'intérêt en utilisant des synonymes et des antonymes"
+      ],
+      "assessment": "Capacité d’utiliser correctement des synonymes et des antonymes pour composer une variété de textes complexes",
+      "resources": [
+        "- Documents authentiques/fabriqués oraux ou écrits portant sur des synonymes"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Composer des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancés",
+      "activity_id": "fren-six-24",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Discussion : En groupes gérables, guider les étudiants a lire pour comprendre des textes portant sur des domaines spécifiques (journalisme, droit, médicine), et mener une discussion",
+        "Atelier d’écriture: Organiser un atelier d’écriture et guider les étudiants à rédiger des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée"
+      ],
+      "assessment": "Capacité de composer avec autonomie des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée",
+      "resources": [
+        "- Textes complexes authentiques des domaines spécifiques: journalisme, droit, et médicine"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+      "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+      "learning_activity": "Composer des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancés",
+      "activity_id": "fren-six-24",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Discussion : En groupes gérables, guider les étudiants a lire pour comprendre des textes portant sur des domaines spécifiques (journalisme, droit, médicine), et mener une discussion",
+        "Atelier d’écriture: Organiser un atelier d’écriture et guider les étudiants à rédiger des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée"
+      ],
+      "assessment": "Capacité de composer avec autonomie des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée",
+      "resources": [
+        "- Textes complexes authentiques des domaines spécifiques: journalisme, droit, et médicine"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.1 Développer la compréhension des conversations en français",
+      "learning_activity": "Écouter et répondre oralement à des informations en utilisant les caractéristiques inhérentes de la langue parlée",
+      "activity_id": "fren-six-25",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Travail pratique :\nGuider les étudiants à écouter des informations et à répondre oralement en utilisant les caractéristiques inhérentes de la langue parlée"
+      ],
+      "assessment": "Capacité d’écouter et de répondre oralement à des informations en utilisant correctement les caractéristiques inhérentes de la langue parlée",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels portant des caractéristiques inhérentes visées de la langue parlée"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.1 Développer la compréhension des conversations en français",
+      "learning_activity": "Écouter et répondre oralement à des informations en utilisant les caractéristiques inhérentes de la langue parlée",
+      "activity_id": "fren-six-25",
+      "periods": 6,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Travail pratique :\nGuider les étudiants à écouter des informations et à répondre oralement en utilisant les caractéristiques inhérentes de la langue parlée"
+      ],
+      "assessment": "Capacité d’écouter et de répondre oralement à des informations en utilisant correctement les caractéristiques inhérentes de la langue parlée",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels portant des caractéristiques inhérentes visées de la langue parlée"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.1 Développer la compréhension des conversations en français",
+      "learning_activity": "Écouter et répondre oralement à des informations en utilisant les caractéristiques inhérentes de la langue parlée",
+      "activity_id": "fren-six-25",
+      "periods": 6,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Travail pratique :\nGuider les étudiants à écouter des informations et à répondre oralement en utilisant les caractéristiques inhérentes de la langue parlée"
+      ],
+      "assessment": "Capacité d’écouter et de répondre oralement à des informations en utilisant correctement les caractéristiques inhérentes de la langue parlée",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels portant des caractéristiques inhérentes visées de la langue parlée"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.1 Développer la compréhension des conversations en français",
+      "learning_activity": "Écouter et répondre oralement à des informations en utilisant les caractéristiques inhérentes de la langue parlée",
+      "activity_id": "fren-six-25",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Travail pratique :\nGuider les étudiants à écouter des informations et à répondre oralement en utilisant les caractéristiques inhérentes de la langue parlée"
+      ],
+      "assessment": "Capacité d’écouter et de répondre oralement à des informations en utilisant correctement les caractéristiques inhérentes de la langue parlée",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels portant des caractéristiques inhérentes visées de la langue parlée"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Prendre part à des entretiens avec confiance et autonomie",
+      "activity_id": "fren-six-26",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Jeu de rôle/ dialogue ou simulation : Guider les étudiants à jouer les rôles dans des entretiens"
+      ],
+      "assessment": "Capacité de prendre part à des entretiens avec confiance et autonomie",
+      "resources": [
+        "- Document authentiques oraux/audio-visuels/écrits portant sur des entrentiens"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Prendre part à des entretiens avec confiance et autonomie",
+      "activity_id": "fren-six-26",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Jeu de rôle/ dialogue ou simulation : Guider les étudiants à jouer les rôles dans des entretiens"
+      ],
+      "assessment": "Capacité de prendre part à des entretiens avec confiance et autonomie",
+      "resources": [
+        "- Document authentiques oraux/audio-visuels/écrits portant sur des entrentiens"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Discuter des sujets transversaux en utilisant du vocabulaire avancé et des structures des phrases complexes",
+      "activity_id": "fren-six-27",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Discussion : En groupes gérables, guider les étudiants a discuter des aspects transversaux en utilisant le vocabulaire avancé et des phrases des structures complexes"
+      ],
+      "assessment": "Capacité de participer à des discussions sur des aspects transversaux en utilisant du vocabulaire avancé et des phrases des structures complexes",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels/écrits, portant sur des sujets transversaux"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Discuter des sujets transversaux en utilisant du vocabulaire avancé et des structures des phrases complexes",
+      "activity_id": "fren-six-27",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Discussion : En groupes gérables, guider les étudiants a discuter des aspects transversaux en utilisant le vocabulaire avancé et des phrases des structures complexes"
+      ],
+      "assessment": "Capacité de participer à des discussions sur des aspects transversaux en utilisant du vocabulaire avancé et des phrases des structures complexes",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels/écrits, portant sur des sujets transversaux"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Discuter des sujets transversaux en utilisant du vocabulaire avancé et des structures des phrases complexes",
+      "activity_id": "fren-six-27",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Discussion : En groupes gérables, guider les étudiants a discuter des aspects transversaux en utilisant le vocabulaire avancé et des phrases des structures complexes"
+      ],
+      "assessment": "Capacité de participer à des discussions sur des aspects transversaux en utilisant du vocabulaire avancé et des phrases des structures complexes",
+      "resources": [
+        "- Documents authentiques oraux/audio-visuels/écrits, portant sur des sujets transversaux"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Rédiger des textes académiques avec les références (dissertations)",
+      "activity_id": "fren-six-28",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants a rédiger des textes académiques /dissertations avec des références"
+      ],
+      "assessment": "Capacité de rédiger correctement des textes académiques/dissertations avec des références",
+      "resources": [
+        "- Documents authentiques écrits sur des essais académiques"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Rédiger des textes académiques avec les références (dissertations)",
+      "activity_id": "fren-six-28",
+      "periods": 5,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants a rédiger des textes académiques /dissertations avec des références"
+      ],
+      "assessment": "Capacité de rédiger correctement des textes académiques/dissertations avec des références",
+      "resources": [
+        "- Documents authentiques écrits sur des essais académiques"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+      "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+      "learning_activity": "Rédiger des textes académiques avec les références (dissertations)",
+      "activity_id": "fren-six-28",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants a rédiger des textes académiques /dissertations avec des références"
+      ],
+      "assessment": "Capacité de rédiger correctement des textes académiques/dissertations avec des références",
+      "resources": [
+        "- Documents authentiques écrits sur des essais académiques"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Traduire la variété des textes complexes en utilisant des outils de TAO",
+      "activity_id": "fren-six-29",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à traduire la variété des textes complexes en utilisant des outils de TAO"
+      ],
+      "assessment": "Capacité de traduire correctement la variété des textes complexes en utilisant des outils de TAO",
+      "resources": [
+        "- Logiciels de TAO",
+        "- Textes authentiques écrits"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Traduire la variété des textes complexes en utilisant des outils de TAO",
+      "activity_id": "fren-six-29",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à traduire la variété des textes complexes en utilisant des outils de TAO"
+      ],
+      "assessment": "Capacité de traduire correctement la variété des textes complexes en utilisant des outils de TAO",
+      "resources": [
+        "- Logiciels de TAO",
+        "- Textes authentiques écrits"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Traduire la variété des textes complexes en utilisant des outils de TAO",
+      "activity_id": "fren-six-29",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à traduire la variété des textes complexes en utilisant des outils de TAO"
+      ],
+      "assessment": "Capacité de traduire correctement la variété des textes complexes en utilisant des outils de TAO",
+      "resources": [
+        "- Logiciels de TAO",
+        "- Textes authentiques écrits"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Créer des sous-titres pour les médias audio-visuels",
+      "activity_id": "fren-six-30",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à créer des sous-titres pour les médias audio-visuels authentiques"
+      ],
+      "assessment": "Capacité de créer des sous-titres pour les médias audio-visuels authentiques",
+      "resources": [
+        "- Logiciels",
+        "- Documents audio-visuels avec sous-titres"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Créer des sous-titres pour les médias audio-visuels",
+      "activity_id": "fren-six-30",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à créer des sous-titres pour les médias audio-visuels authentiques"
+      ],
+      "assessment": "Capacité de créer des sous-titres pour les médias audio-visuels authentiques",
+      "resources": [
+        "- Logiciels",
+        "- Documents audio-visuels avec sous-titres"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.1 Traduire des textes complexes",
+      "learning_activity": "Créer des sous-titres pour les médias audio-visuels",
+      "activity_id": "fren-six-30",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants en groupes à créer des sous-titres pour les médias audio-visuels authentiques"
+      ],
+      "assessment": "Capacité de créer des sous-titres pour les médias audio-visuels authentiques",
+      "resources": [
+        "- Logiciels",
+        "- Documents audio-visuels avec sous-titres"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.2 Éditer des textes complexes",
+      "learning_activity": "Éditer et relire de divers textes complexes",
+      "activity_id": "fren-six-31",
+      "periods": 4,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Scénario : Présenter un scénario aux étudiants et mener leur à réfléchir sur le concept de l’édition et de la relecture (signification et l’importance)"
+      ],
+      "assessment": "Capacité d’éditer et de relire correctement des textes complexes",
+      "resources": [
+        "- Documents authentiques écrits",
+        "- Dictionnaires"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19-3",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.2 Éditer des textes complexes",
+      "learning_activity": "Éditer et relire de divers textes complexes",
+      "activity_id": "fren-six-31",
+      "periods": 5,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Scénario : Présenter un scénario aux étudiants et mener leur à réfléchir sur le concept de l’édition et de la relecture (signification et l’importance)"
+      ],
+      "assessment": "Capacité d’éditer et de relire correctement des textes complexes",
+      "resources": [
+        "- Documents authentiques écrits",
+        "- Dictionnaires"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.2 Éditer des textes complexes",
+      "learning_activity": "Éditer et relire de divers textes complexes",
+      "activity_id": "fren-six-31",
+      "periods": 5,
+      "activity_total_periods": 14,
+      "teaching_learning_activities": [
+        "Scénario : Présenter un scénario aux étudiants et mener leur à réfléchir sur le concept de l’édition et de la relecture (signification et l’importance)"
+      ],
+      "assessment": "Capacité d’éditer et de relire correctement des textes complexes",
+      "resources": [
+        "- Documents authentiques écrits",
+        "- Dictionnaires"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.3 Interpréter",
+      "learning_activity": "Interpréter la variété des médias audiovisuels en utilisant les techniques voix hors champ et doublage",
+      "activity_id": "fren-six-32",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Simulation/ dramatisation : Guider les étudiants à jouer des rôles d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage"
+      ],
+      "assessment": "Capacité d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage",
+      "resources": [
+        "- Objets réels/ images d'équipement d’interprétation",
+        "- Logiciels de voix hors champ et doublage"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.3 Interpréter",
+      "learning_activity": "Interpréter la variété des médias audiovisuels en utilisant les techniques voix hors champ et doublage",
+      "activity_id": "fren-six-32",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Simulation/ dramatisation : Guider les étudiants à jouer des rôles d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage"
+      ],
+      "assessment": "Capacité d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage",
+      "resources": [
+        "- Objets réels/ images d'équipement d’interprétation",
+        "- Logiciels de voix hors champ et doublage"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.3 Interpréter",
+      "learning_activity": "Interpréter la variété des médias audiovisuels en utilisant les techniques voix hors champ et doublage",
+      "activity_id": "fren-six-32",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Simulation/ dramatisation : Guider les étudiants à jouer des rôles d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage"
+      ],
+      "assessment": "Capacité d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage",
+      "resources": [
+        "- Objets réels/ images d'équipement d’interprétation",
+        "- Logiciels de voix hors champ et doublage"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "3.0 Traduire, éditer et interpréter",
+      "specific_competence": "3.3 Interpréter",
+      "learning_activity": "Interpréter la variété des médias audiovisuels en utilisant les techniques voix hors champ et doublage",
+      "activity_id": "fren-six-32",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Simulation/ dramatisation : Guider les étudiants à jouer des rôles d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage"
+      ],
+      "assessment": "Capacité d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage",
+      "resources": [
+        "- Objets réels/ images d'équipement d’interprétation",
+        "- Logiciels de voix hors champ et doublage"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+      "learning_activity": "Analyser des différents œuvres littéraires (poèmes et théâtre)",
+      "activity_id": "fren-six-33",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse des oeuvre littéraire en particulier des poèmes et pièces de théâtre",
+        "Discussion : En groupes gérables mener les étudiants a discuter sur les éléments clés à tenir compte lors de l’analyse œuvres littéraires en particulier des poèmes et pièces de théâtre)",
+        "Travail pratique : Guider les étudiants à analyser des poèmes et pièces de théâtre",
+        "Projet : Guider les étudiants en groupe gérables d’analyser au moins un poème et une pièce de théâtre"
+      ],
+      "assessment": "Capacité d’analyser correctement des poèmes et pièces de théâtre",
+      "resources": [
+        "- Textes littéraires stipulilés dans le programme de lecture (poèmes et théâtre)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+      "learning_activity": "Analyser des différents œuvres littéraires (poèmes et théâtre)",
+      "activity_id": "fren-six-33",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse des oeuvre littéraire en particulier des poèmes et pièces de théâtre",
+        "Discussion : En groupes gérables mener les étudiants a discuter sur les éléments clés à tenir compte lors de l’analyse œuvres littéraires en particulier des poèmes et pièces de théâtre)",
+        "Travail pratique : Guider les étudiants à analyser des poèmes et pièces de théâtre",
+        "Projet : Guider les étudiants en groupe gérables d’analyser au moins un poème et une pièce de théâtre"
+      ],
+      "assessment": "Capacité d’analyser correctement des poèmes et pièces de théâtre",
+      "resources": [
+        "- Textes littéraires stipulilés dans le programme de lecture (poèmes et théâtre)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+      "learning_activity": "Analyser des différents œuvres littéraires (poèmes et théâtre)",
+      "activity_id": "fren-six-33",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse des oeuvre littéraire en particulier des poèmes et pièces de théâtre",
+        "Discussion : En groupes gérables mener les étudiants a discuter sur les éléments clés à tenir compte lors de l’analyse œuvres littéraires en particulier des poèmes et pièces de théâtre)",
+        "Travail pratique : Guider les étudiants à analyser des poèmes et pièces de théâtre",
+        "Projet : Guider les étudiants en groupe gérables d’analyser au moins un poème et une pièce de théâtre"
+      ],
+      "assessment": "Capacité d’analyser correctement des poèmes et pièces de théâtre",
+      "resources": [
+        "- Textes littéraires stipulilés dans le programme de lecture (poèmes et théâtre)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+      "learning_activity": "Analyser des différents œuvres littéraires (poèmes et théâtre)",
+      "activity_id": "fren-six-33",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse des oeuvre littéraire en particulier des poèmes et pièces de théâtre",
+        "Discussion : En groupes gérables mener les étudiants a discuter sur les éléments clés à tenir compte lors de l’analyse œuvres littéraires en particulier des poèmes et pièces de théâtre)",
+        "Travail pratique : Guider les étudiants à analyser des poèmes et pièces de théâtre",
+        "Projet : Guider les étudiants en groupe gérables d’analyser au moins un poème et une pièce de théâtre"
+      ],
+      "assessment": "Capacité d’analyser correctement des poèmes et pièces de théâtre",
+      "resources": [
+        "- Textes littéraires stipulilés dans le programme de lecture (poèmes et théâtre)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.2 Composer des œuvres littéraires en français",
+      "learning_activity": "Composer un poème et une pièce de théâtre en français",
+      "activity_id": "fren-six-34",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants à composer au moins cinq poèmes et une pièce de théâtre en fonction de centre de leur intérêt",
+        "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer au moins un poème et une pièce de théâtre en fonction de leur centre intérêt"
+      ],
+      "assessment": "Capacité de composer un poème et une pièce de théâtre en français en tenant compte des éléments du contenu et de la forme de ces œuvres littéraires",
+      "resources": [
+        "- Textes écrits variés (poèmes et pièces de théâtre en français)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.2 Composer des œuvres littéraires en français",
+      "learning_activity": "Composer un poème et une pièce de théâtre en français",
+      "activity_id": "fren-six-34",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants à composer au moins cinq poèmes et une pièce de théâtre en fonction de centre de leur intérêt",
+        "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer au moins un poème et une pièce de théâtre en fonction de leur centre intérêt"
+      ],
+      "assessment": "Capacité de composer un poème et une pièce de théâtre en français en tenant compte des éléments du contenu et de la forme de ces œuvres littéraires",
+      "resources": [
+        "- Textes écrits variés (poèmes et pièces de théâtre en français)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.2 Composer des œuvres littéraires en français",
+      "learning_activity": "Composer un poème et une pièce de théâtre en français",
+      "activity_id": "fren-six-34",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants à composer au moins cinq poèmes et une pièce de théâtre en fonction de centre de leur intérêt",
+        "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer au moins un poème et une pièce de théâtre en fonction de leur centre intérêt"
+      ],
+      "assessment": "Capacité de composer un poème et une pièce de théâtre en français en tenant compte des éléments du contenu et de la forme de ces œuvres littéraires",
+      "resources": [
+        "- Textes écrits variés (poèmes et pièces de théâtre en français)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+      "specific_competence": "4.2 Composer des œuvres littéraires en français",
+      "learning_activity": "Composer un poème et une pièce de théâtre en français",
+      "activity_id": "fren-six-34",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Projet : Guider les étudiants à composer au moins cinq poèmes et une pièce de théâtre en fonction de centre de leur intérêt",
+        "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer au moins un poème et une pièce de théâtre en fonction de leur centre intérêt"
+      ],
+      "assessment": "Capacité de composer un poème et une pièce de théâtre en français en tenant compte des éléments du contenu et de la forme de ces œuvres littéraires",
+      "resources": [
+        "- Textes écrits variés (poèmes et pièces de théâtre en français)"
+      ],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, French for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

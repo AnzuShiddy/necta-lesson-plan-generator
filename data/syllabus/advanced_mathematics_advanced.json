@@ -1,0 +1,496 @@
+{
+  "subject": "Advanced Mathematics",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727267396-Advanced%20Mathematics.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(a) Explore advanced tenets of functions (polynomials, rational, composite, exponential, and logarithmic)",
+          "suggested_methods": [
+            "Exploration: Individually or in groups, allow students to explore tenets of functions through function simulations, relevant books and through series of discussions and sharing of findings"
+          ],
+          "assessment_criteria": "Advanced tenets of functions are adequately explored",
+          "suggested_resources": [
+            "Scientific Calculator",
+            "Mathematical software such as Maple",
+            "GeoGebra",
+            "MATLAB",
+            "Mathematica",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 110,
+          "id": "adva-five-1"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(b) Explore advanced tenets of linear programming (transportation: two sources and two destinations,",
+          "suggested_methods": [
+            "Group discussion: In groups, students discuss how to formulate transportation problems and transform into a mathematical model (two sources and two destinations, two sources and three destinations)",
+            "Skills lab: In groups, allow students to explore various steps of determining solutions for transportation problems graphically"
+          ],
+          "assessment_criteria": "Advanced tenets of linear programming are properly explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "adva-five-2"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(c) Explore advanced tenets of coordinate geometry (angle between two lines, perpendicular distance, locus of a moving point, ratio theorem, and equations of a circle)",
+          "suggested_methods": [
+            "Scenario: Guide students to formulate a scenario which lead them to investigate the angle between two lines",
+            "Group discussion: In groups, the students discuss how to find perpendicular distance and locus of a moving point",
+            "Snow-balling: In groups, students discuss how to find equations of a circle and how to use the ratio theorem"
+          ],
+          "assessment_criteria": "Advanced tenets of coordinate geometry are clearly explored",
+          "suggested_resources": [
+            "Geometrical figures",
+            "marker pens",
+            "ruler mathematical set",
+            "scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "adva-five-3"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(d) Explore advanced tenets of trigonometry (ratios, small angles, compound angles and factor formulae, trigonometric functions, trigonometric equations, inverse trigonometric functions, graphs of inverse trigonometric functions, domain, and range)",
+          "suggested_methods": [
+            "Scenario: Formulate a scenario which lead students to explore various ratios of trigonometry",
+            "Case study: Formulate a case study and through it guide students to approximate small angles, derive and apply compound angles formulae",
+            "Gallery walk: In groups, students discuss how to derive and apply factor formulae. Allow each group to post their findings and other groups walk through, note and discuss in the class",
+            "Think-Ink-Pair-Share: Allow students to discuss the concept of trigonometric functions, trigonometric equations and inverse trigonometric functions",
+            "Skills Lab: In groups, students discuss how to draw the graphs of inverse trigonometric functions and identify domain and range"
+          ],
+          "assessment_criteria": "Advanced tenets of trigonometry are adequately explored",
+          "suggested_resources": [
+            "Marker pens",
+            "ruler",
+            "mathematical set",
+            "scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "adva-five-4"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.2 Demonstrate basic understanding of calculus",
+          "learning_activity": "(a) Explore basic tenets of differentiation (first principles, power rule, chain rule, product rule, quotient rule, and partial derivatives)",
+          "suggested_methods": [
+            "Scenario: Provide scenario which lead students to derive and apply the first principles",
+            "Exploration: In groups, students discuss and explore application of power and chain rules",
+            "Group discussion: In groups, the students discuss how to derive and apply product and quotient rules",
+            "Jigsaw: Guide students through jigsaw, to find partial derivatives of functions"
+          ],
+          "assessment_criteria": "Basic tenets of differentiation are properly explored",
+          "suggested_resources": [
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 90,
+          "id": "adva-five-5"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.2 Demonstrate basic understanding of calculus",
+          "learning_activity": "(b) Determine the nature of stationary points, rates of change between quantities, small changes in quantities, and series expansions of different functions",
+          "suggested_methods": [
+            "Scenario: Through relevant scenarios guide students to determine the nature of stationary points",
+            "Project: In groups, students visit nearby water dam reservoirs and search for information on the rates of change between quantities and small changes in quantities",
+            "Gallery walk: In groups, students discuss how to derive and apply series expansions of different functions and results around the classroom"
+          ],
+          "assessment_criteria": "The nature of stationary points, rates of change between quantities, small changes in quantities, and series expansions of different functions are properly determined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 15,
+          "id": "adva-five-6"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.2 Demonstrate basic understanding of calculus",
+          "learning_activity": "(c) Explore basic tenets of integration (by parts, substitution method, and partial fractions)",
+          "suggested_methods": [
+            "Skills lab: In groups, students discuss how to derive and apply integration by parts",
+            "Role play and Simulation: Guide students to explore various substitution methods in integrating functions",
+            "Think-Ink-Pair-Share: In groups, students discuss how to integrate functions which involves partial fractions"
+          ],
+          "assessment_criteria": "Basic tenets of integration are adequately explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "adva-five-7"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.2 Demonstrate basic understanding of calculus",
+          "learning_activity": "(d) Determine the area enclosed by a curve, volume of a solid of revolution, and length of an arc",
+          "suggested_methods": [
+            "Jigsaw: Guide students through jigsaw, to determine the area enclosed by a curve and volume of a solid of revolution",
+            "Group discussion: In groups, students discuss how to find the length of an arc"
+          ],
+          "assessment_criteria": "The area enclosed by a curve, volume of a solid of revolution, and length of an arc are properly determined",
+          "suggested_resources": [
+            "Mathematical set",
+            "scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-five-8"
+        },
+        {
+          "main_competence": "2. Demonstrate mastery of set theory and logic",
+          "specific_competence": "2.1 Demonstrate an advanced understanding of set theory and logic",
+          "learning_activity": "(a) Explore advanced tenets of set theory (operations, expressions, and cardinality)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm basic operations of sets",
+            "Snow-balling: In groups, students discuss how to simplify set expressions and determine cardinality of sets"
+          ],
+          "assessment_criteria": "Advanced tenets of set theory are adequately explored",
+          "suggested_resources": [
+            "Real objects",
+            "pictures",
+            "playing cards",
+            "manila papers",
+            "marker pen",
+            "coloured",
+            "and chalks"
+          ],
+          "periods_for_specific_competence": 56,
+          "id": "adva-five-9"
+        },
+        {
+          "main_competence": "2. Demonstrate mastery of set theory and logic",
+          "specific_competence": "2.1 Demonstrate an advanced understanding of set theory and logic",
+          "learning_activity": "(b) Use knowledge of sets to organise, create, and categorise objects",
+          "suggested_methods": [
+            "Field trip: In groups, students visit nearby real environments and search for different categories of objects",
+            "Group discussion: In groups, students discuss how to use knowledge of sets to organise, create, and categorise objects"
+          ],
+          "assessment_criteria": "The knowledge of sets to organise, create, and categorise objects is properly used",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "adva-five-10"
+        },
+        {
+          "main_competence": "2. Demonstrate mastery of set theory and logic",
+          "specific_competence": "2.1 Demonstrate an advanced understanding of set theory and logic",
+          "learning_activity": "(c) Explore basic tenets of logic (connectives, propositions, arguments, and electrical networks)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In groups, students discuss logical connectives, and laws of algebra of propositions",
+            "Brainstorming: Guide students to brainstorm the meaning of arguments and electrical network"
+          ],
+          "assessment_criteria": "Basic tenets of logic are adequately explored",
+          "suggested_resources": [
+            "Logical argument Charts",
+            "switches",
+            "dry cells",
+            "water pipes",
+            "and logic networks animations"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "adva-five-11"
+        },
+        {
+          "main_competence": "2. Demonstrate mastery of set theory and logic",
+          "specific_competence": "2.1 Demonstrate an advanced understanding of set theory and logic",
+          "learning_activity": "(d) Use logic to analyse arguments and construct circuit diagrams",
+          "suggested_methods": [
+            "Group discussion: In groups, students discuss how to analyse arguments and construct circuit diagrams"
+          ],
+          "assessment_criteria": "Arguments and circuit diagrams in logic are analysed adequately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "adva-five-12"
+        },
+        {
+          "main_competence": "3. Demonstrate mastery of advanced algebra",
+          "specific_competence": "3.1 Demonstrate an advanced understanding of algebra",
+          "learning_activity": "Explore advanced tenets of algebra (series of squares and cubes of natural numbers, roots, quadratic and rational inequalities, 3x3 matrices, partial fractions, mathematical induction, and binomial theorem)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In groups, students discuss how to formulate the series of squares and cubes of natural numbers",
+            "Jigsaw: Guide students through jigsaw, to discuss roots of polynomial functions, solution of quadratic and rational inequalities",
+            "Group discussion: In groups, students discuss 3x3 matrices, partial fractions, proof by mathematical induction, and binomial theorem and expansion"
+          ],
+          "assessment_criteria": "Advanced tenets of algebra are properly explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "GeoGebra",
+            "MATLAB",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 94,
+          "id": "adva-five-13"
+        },
+        {
+          "main_competence": "4. Conduct a project in Mathematics",
+          "specific_competence": "4.1 Carry out a project in Mathematics",
+          "learning_activity": "Carry out a project to solve a problem using mathematical skills",
+          "suggested_methods": [
+            "Project: In groups, students design and carry out a project to solve a problem using mathematical skills"
+          ],
+          "assessment_criteria": "A project has been carried out by using various mathematical knowledge and skills",
+          "suggested_resources": [
+            "Calculator",
+            "Mathematical software such as MATLAB",
+            "Maple",
+            "Mathematica",
+            "and field reports"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "adva-five-14"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(a) Explore the basic tenets of hyperbolic functions (definition, conversion into logarithmic form, series of hyperbolic cosine and sine functions, derivatives and integration)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In groups, students define hyperbolic functions and convert hyperbolic functions into logarithmic form",
+            "Group discussion: In groups, students discuss the series of expansion of hyperbolic cosine and sine functions, derivatives and integration. Allow some groups to present their findings to other students"
+          ],
+          "assessment_criteria": "Basic tenets of hyperbolic functions are adequately explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "Mathematica",
+            "animations",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 170,
+          "id": "adva-six-15"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(b) Explore the basic tenets of probability theory (counting principles, independent and dependent events, probability distributions)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In groups, students discuss the concepts of counting principles, independent events, and dependent events",
+            "Jigsaw: Guide students through jigsaw, to discuss the concept of probability distributions. Ask them to present their findings"
+          ],
+          "assessment_criteria": "The principles, axioms, theorems, and concepts of probability are properly explained",
+          "suggested_resources": [
+            "Coins",
+            "die",
+            "marble",
+            "coloured objects",
+            "games",
+            "playing cards",
+            "scientific calculators.",
+            "animations",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-16"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(c) Determine the probability of an event, expectation, variance, and standard deviation of random variables",
+          "suggested_methods": [
+            "Group discussion: In groups, students discuss the concepts of probability of an event, expectation, variance, and standard deviation",
+            "of random variables. Let students present their findings in the whole class for more inputs"
+          ],
+          "assessment_criteria": "The probability of an event, expectation, variance, and standard deviation of random variables are clearly determined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-17"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(d) Explore the basic tenets of first and second order differential equations (linearity, degree, order, formulation, solutions, homogeneity, separability, and exactness)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In groups, students discuss the linearity, degree, order, and formulation of differential equations",
+            "Snow-balling: In groups, students to discuss how to determine the solutions, linearity, homogeneity, separability, and exactness of differential equations"
+          ],
+          "assessment_criteria": "Basic tenets of first and second order differential equations are properly explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "animations",
+            "AI tools",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and Mathematica"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-18"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(e) Use differential equations to solve real life problems related to growth (decay, cooling of bodies, falling bodies, electrical circuits, and vibrating springs)",
+          "suggested_methods": [
+            "Group discussion: In groups, students discuss how to solve problems related to growth, decay, cooling of bodies, falling bodies, electrical circuits, and vibrating springs. Allow some groups to presents in the class for more inputs"
+          ],
+          "assessment_criteria": "Problems related to growth, decay, cooling of bodies, falling bodies, electrical circuits, and vibrating springs are adequately solved using differential equations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-19"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(f) Explore the basic tenets of numerical methods (errors, secant method, Newton-Raphson method, trapezoidal rule, and Simpson’ s rule)",
+          "suggested_methods": [
+            "Skills lab",
+            "In groups, students discuss the concepts of errors, secant method, and Newton-Raphson method",
+            "Group discussion: In groups, students discuss on how to derive and apply trapezoidal rule and Simpson’s rule to evaluate definite integrals"
+          ],
+          "assessment_criteria": "Basic tenets of numerical methods are properly explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "Mathematica",
+            "animations",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-20"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(g) Explore advanced tenets of coordinate geometry (parabola, ellipse, hyperbola, and polar coordinates)",
+          "suggested_methods": [
+            "Group discussion: In groups, students discuss and present the concepts of parabola, ellipse, and hyperbola",
+            "Gallery walk: In groups, students discuss how to convert polar equations and draw graphs of polar coordinates. Ask students to display their findings for others to view and comment",
+            "ICT based learning: In groups, students discuss how to draw graphs of polar coordinates using software"
+          ],
+          "assessment_criteria": "Advanced tenets of coordinate geometry are adequately explored",
+          "suggested_resources": [
+            "Graph papers",
+            "geometrical models",
+            "Geoboards",
+            "animations",
+            "AI tools",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "and Mathematica"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-21"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(h) Explore advanced tenets of vectors (ratio theorems, dot product, cross product, vector differentiation, and vector integration)",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: In manageable groups, students discuss ratio theorems, dot product, and cross product",
+            "Group discussion: In manageable groups, students discuss on how to differentiate and integrate vector functions"
+          ],
+          "assessment_criteria": "Advanced tenets of vectors are clearly explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "Mathematica",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-22"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(i) Use vectors to solve problems related to displacement, velocity, and acceleration of a particle, work done by forces, and projection of vectors",
+          "suggested_methods": [
+            "Group discussion: In manageable groups, students discuss and present how to solve problems related to displacement, velocity, and acceleration of a particle, work done by forces, and projection of vectors"
+          ],
+          "assessment_criteria": "Problems related to displacement, velocity, and acceleration of a particle, work done by forces, and projection of vectors are solved using vectors",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-23"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.1 Demonstrate an advanced understanding of knowledge and skills in Mathematics",
+          "learning_activity": "(j) Explore the basic tenets of complex numbers (modulus, argument, Argand diagram, polar form, De Moivre’ s theorem and Euler’s formula)",
+          "suggested_methods": [
+            "Gallery walk: In groups, students discuss and display how to find modulus and argument of complex numbers and draw graphs on the Argand diagram",
+            "Group discussion: In groups, students discuss concepts of polar form, De Moivre’s theorem, and Euler’s formula"
+          ],
+          "assessment_criteria": "Basic tenets of complex numbers are clearly explored",
+          "suggested_resources": [
+            "Scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "MATLAB",
+            "Mathematica",
+            "animations",
+            "and AI tools"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "adva-six-24"
+        },
+        {
+          "main_competence": "1. Demonstrate mastery of some advanced concepts in Mathematics",
+          "specific_competence": "1.2 Demonstrate an advanced understanding of statistics",
+          "learning_activity": "Explore advanced tenets of statistics (measures of central tendency and dispersion: mean, variance and standard deviation by coding method, quartiles, and percentiles)",
+          "suggested_methods": [
+            "Skills lab",
+            "In groups, students discuss how to find the measures of central tendency and dispersion, mean, variance and standard deviation by coding method",
+            "Think-Ink-Pair-Share: In groups, students discuss how to determine the quartiles and percentiles of the grouped data"
+          ],
+          "assessment_criteria": "Advanced tenets of statistics are adequately explored",
+          "suggested_resources": [
+            "Collected data",
+            "graph papers",
+            "scientific calculators",
+            "Mathematical software such as Maple",
+            "Geogebra",
+            "and MATLAB"
+          ],
+          "periods_for_specific_competence": 126,
+          "id": "adva-six-25"
+        },
+        {
+          "main_competence": "2. Conduct a project in Mathematics",
+          "specific_competence": "2.1 Carry out a project in Mathematics",
+          "learning_activity": "Complete the project started in Form Five and submit the report for assessment",
+          "suggested_methods": [
+            "Project: In groups, students complete the project started in Form Five and submit the report"
+          ],
+          "assessment_criteria": "Project is completed according to the criteria and the report is submitted",
+          "suggested_resources": [
+            "Calculator",
+            "Mathematical software such as MATLAB",
+            "Maple",
+            "Mathematica",
+            "and field reports"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "adva-six-26"
+        }
+      ]
+    }
+  }
+}

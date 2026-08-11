@@ -1,0 +1,1403 @@
+{
+  "subject": "Chemistry",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 12,
+  "total_periods": 386,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Describe the concept of the atom (Dalton’ s atomic theory, Bohr’ s atomic theory, atomic mass and quantum theory)",
+      "activity_id": "chem-five-1",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "ICT based learning: Organise students to watch simulations, animations, videos or diagrams that illustrate the structure of an atom and write appropriate report"
+      ],
+      "assessment": "The concept of the atom is clearly described",
+      "resources": [
+        "Pictures, diagrams, simulations, animations or videos illustrating the structure of an atom"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(a) Describe the concept of the atom (Dalton’ s atomic theory, Bohr’ s atomic theory, atomic mass and quantum theory)",
+      "activity_id": "chem-five-1",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "ICT based learning: Organise students to watch simulations, animations, videos or diagrams that illustrate the structure of an atom and write appropriate report"
+      ],
+      "assessment": "The concept of the atom is clearly described",
+      "resources": [
+        "Pictures, diagrams, simulations, animations or videos illustrating the structure of an atom"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Use different atomic theories to determine the electronic configuration of elements with different properties",
+      "activity_id": "chem-five-2",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Interactive simulation: Guide students through interactive demonstrations, and explanations to explore the electronic configuration of elements with different properties",
+        "Peers coaching: Guide students to use different atomic theories to describe electronic configuration of elements with different properties and share to other students"
+      ],
+      "assessment": "Electronic configuration of elements with different properties are clearly determined",
+      "resources": [
+        "Pictures, wall charts and simulation illustrating the electronic configuration of elements"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(b) Use different atomic theories to determine the electronic configuration of elements with different properties",
+      "activity_id": "chem-five-2",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Interactive simulation: Guide students through interactive demonstrations, and explanations to explore the electronic configuration of elements with different properties",
+        "Peers coaching: Guide students to use different atomic theories to describe electronic configuration of elements with different properties and share to other students"
+      ],
+      "assessment": "Electronic configuration of elements with different properties are clearly determined",
+      "resources": [
+        "Pictures, wall charts and simulation illustrating the electronic configuration of elements"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(c) Explain the concept of chemical bonding and the interactions of atoms to form molecules",
+      "activity_id": "chem-five-3",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on experience activities: Guide students to observe different materials with different types of chemical bonding and build models of different molecules using locally available materials",
+        "Group discussion: Guide students to discuss the interactions of atoms to form molecules and interpret the physical properties of different substances basing on their structures and bonding"
+      ],
+      "assessment": "The concept of chemical bonding and interactions of atom to form molecules is clearly explained",
+      "resources": [
+        "Molecular models, pictures, local materials, and video showing interactions of atoms"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(c) Explain the concept of chemical bonding and the interactions of atoms to form molecules",
+      "activity_id": "chem-five-3",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Hands-on experience activities: Guide students to observe different materials with different types of chemical bonding and build models of different molecules using locally available materials",
+        "Group discussion: Guide students to discuss the interactions of atoms to form molecules and interpret the physical properties of different substances basing on their structures and bonding"
+      ],
+      "assessment": "The concept of chemical bonding and interactions of atom to form molecules is clearly explained",
+      "resources": [
+        "Molecular models, pictures, local materials, and video showing interactions of atoms"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(d) Describe the concept of gases in terms of the gas laws and the kinetic theory of gases",
+      "activity_id": "chem-five-4",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "ICT based learning: Guide students to visualise simulations and videos to describe the concept of gas laws and kinetic theory of gases and write a report",
+        "Experimentation: Guide students to perform experiments on the kinetic theory of gases"
+      ],
+      "assessment": "The concept of gases in terms of gas laws and the kinetic theory of gases is clearly described",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating gas laws and kinetic theory of gases",
+        "balloons, pollen grains, water, light source, microscope, thermometer, bicycle pump, heat source and bicycle tyres"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(d) Describe the concept of gases in terms of the gas laws and the kinetic theory of gases",
+      "activity_id": "chem-five-4",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "ICT based learning: Guide students to visualise simulations and videos to describe the concept of gas laws and kinetic theory of gases and write a report",
+        "Experimentation: Guide students to perform experiments on the kinetic theory of gases"
+      ],
+      "assessment": "The concept of gases in terms of gas laws and the kinetic theory of gases is clearly described",
+      "resources": [
+        "Diagrams, pictures, wall charts, simulations and videos illustrating gas laws and kinetic theory of gases",
+        "balloons, pollen grains, water, light source, microscope, thermometer, bicycle pump, heat source and bicycle tyres"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(e) Appreciate the applications of gas laws in daily life such as in fire extinguishers, aerosols, inflating tyres, bakery, liquefaction of gases and helium balloons",
+      "activity_id": "chem-five-5",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Project: Task students to investigate the applications of gas laws and kinetic theory of gases in their environment"
+      ],
+      "assessment": "Applications of gas laws in daily life are realised",
+      "resources": [
+        "Bicycle pump, bicycle tyres, fire extinguisher, spray, balloons and NaHCO3"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.1 Demonstrate an advanced understanding of the concepts, theories and principles in Chemistry",
+      "learning_activity": "(e) Appreciate the applications of gas laws in daily life such as in fire extinguishers, aerosols, inflating tyres, bakery, liquefaction of gases and helium balloons",
+      "activity_id": "chem-five-5",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Project: Task students to investigate the applications of gas laws and kinetic theory of gases in their environment"
+      ],
+      "assessment": "Applications of gas laws in daily life are realised",
+      "resources": [
+        "Bicycle pump, bicycle tyres, fire extinguisher, spray, balloons and NaHCO3"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+      "learning_activity": "(a) Explore the periodic trends of elements in the modern periodic table (Electronegativity, ionisation energy, electron affinity, atomic radius, melting point, and metallic character)",
+      "activity_id": "chem-five-6",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Graphics method: Guide students to use graphic organisers to represent the periodic trends of elements in the modern periodic table",
+        "Inquiry-based learning: Guide students through explorations and asking questions to interpret the periodic trends of elements in the modern periodic table"
+      ],
+      "assessment": "Periodic trends of elements in the modern periodic table are well described",
+      "resources": [
+        "Pictures, wall charts of modern periodic table, and graphics programme demonstrating periodic trends of elements"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+      "learning_activity": "(a) Explore the periodic trends of elements in the modern periodic table (Electronegativity, ionisation energy, electron affinity, atomic radius, melting point, and metallic character)",
+      "activity_id": "chem-five-6",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Graphics method: Guide students to use graphic organisers to represent the periodic trends of elements in the modern periodic table",
+        "Inquiry-based learning: Guide students through explorations and asking questions to interpret the periodic trends of elements in the modern periodic table"
+      ],
+      "assessment": "Periodic trends of elements in the modern periodic table are well described",
+      "resources": [
+        "Pictures, wall charts of modern periodic table, and graphics programme demonstrating periodic trends of elements"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+      "learning_activity": "(b) Analyse the periodic trends of elements in relation to their physical and chemical properties",
+      "activity_id": "chem-five-7",
+      "periods": 12,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out experiments to analyse the periodic trends of elements in relation to their physical and chemical properties"
+      ],
+      "assessment": "Periodic trends of elements in relation to their physical and chemical properties are analysed correctly",
+      "resources": [
+        "Pictures, wall chart of modern periodic table, H2O, HCl, metal carbonates, HNO3, hydrides, chlorides, hydroxides of metals, oxides of Period 3, Bunsen burner, magnesium metal, sodium metal, calcium metal and electric current"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.2 Demonstrate an understanding of changes in the physical and chemical properties of elements according to their positions in the periodic table",
+      "learning_activity": "(b) Analyse the periodic trends of elements in relation to their physical and chemical properties",
+      "activity_id": "chem-five-7",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out experiments to analyse the periodic trends of elements in relation to their physical and chemical properties"
+      ],
+      "assessment": "Periodic trends of elements in relation to their physical and chemical properties are analysed correctly",
+      "resources": [
+        "Pictures, wall chart of modern periodic table, H2O, HCl, metal carbonates, HNO3, hydrides, chlorides, hydroxides of metals, oxides of Period 3, Bunsen burner, magnesium metal, sodium metal, calcium metal and electric current"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(a) Describe the concept of colligative properties in understanding responses of the system towards changes in the environment (boiling point elevation, freezing point depression, osmotic pressure, relative lowering of vapour pressure and Raoult’ s law)",
+      "activity_id": "chem-five-8",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students through exploration and asking questions to describe different colligative properties in their environment"
+      ],
+      "assessment": "Colligative properties are correctly described",
+      "resources": [
+        "Thermometer, beaker, common salt, table sugar, weighing bottle, Beckman’s apparatus, Landsberger apparatus",
+        "osmometer, plastic bottle, analytical balance, freezing point apparatus, ethyl glycol, coolants and video showing colligative properties"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(a) Describe the concept of colligative properties in understanding responses of the system towards changes in the environment (boiling point elevation, freezing point depression, osmotic pressure, relative lowering of vapour pressure and Raoult’ s law)",
+      "activity_id": "chem-five-8",
+      "periods": 12,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students through exploration and asking questions to describe different colligative properties in their environment"
+      ],
+      "assessment": "Colligative properties are correctly described",
+      "resources": [
+        "Thermometer, beaker, common salt, table sugar, weighing bottle, Beckman’s apparatus, Landsberger apparatus",
+        "osmometer, plastic bottle, analytical balance, freezing point apparatus, ethyl glycol, coolants and video showing colligative properties"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(a) Describe the concept of colligative properties in understanding responses of the system towards changes in the environment (boiling point elevation, freezing point depression, osmotic pressure, relative lowering of vapour pressure and Raoult’ s law)",
+      "activity_id": "chem-five-8",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students through exploration and asking questions to describe different colligative properties in their environment"
+      ],
+      "assessment": "Colligative properties are correctly described",
+      "resources": [
+        "Thermometer, beaker, common salt, table sugar, weighing bottle, Beckman’s apparatus, Landsberger apparatus",
+        "osmometer, plastic bottle, analytical balance, freezing point apparatus, ethyl glycol, coolants and video showing colligative properties"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(b) Examine the applications of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants",
+      "activity_id": "chem-five-9",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project: Task students to investigate the applications of colligative properties in industrial processes, automobiles and medicine"
+      ],
+      "assessment": "The applications of the concept of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants are clearly described",
+      "resources": [
+        "Pictures, simulation, video, illustrating applications of colligative properties and coolants"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(b) Examine the applications of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants",
+      "activity_id": "chem-five-9",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Project: Task students to investigate the applications of colligative properties in industrial processes, automobiles and medicine"
+      ],
+      "assessment": "The applications of the concept of colligative properties in the purification of water, dialysis, preservation of food and in antifreeze and coolants are clearly described",
+      "resources": [
+        "Pictures, simulation, video, illustrating applications of colligative properties and coolants"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(c) Describe the concept of two component liquid systems (immiscible liquid, completely miscible liquid and the distribution law)",
+      "activity_id": "chem-five-10",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Interactive simulation: Encourage students through interactive demonstration, explanations and hand-on activities to describe the properties of two component liquid systems",
+        "Experimentation: Guide students to carry out experiments on two component liquid systems"
+      ],
+      "assessment": "The concept of two component liquid systems is clearly described",
+      "resources": [
+        "Separating funnel, beaker, immiscible and partially immiscible liquids, distillation apparatus, ideal and non-ideal solutions, side armed flask, fractionating column, thermometer, boiling flasks, condensers, pipettes, iodine, petroleum ether, burettes, flowers, leaves and propanone"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(c) Describe the concept of two component liquid systems (immiscible liquid, completely miscible liquid and the distribution law)",
+      "activity_id": "chem-five-10",
+      "periods": 12,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Interactive simulation: Encourage students through interactive demonstration, explanations and hand-on activities to describe the properties of two component liquid systems",
+        "Experimentation: Guide students to carry out experiments on two component liquid systems"
+      ],
+      "assessment": "The concept of two component liquid systems is clearly described",
+      "resources": [
+        "Separating funnel, beaker, immiscible and partially immiscible liquids, distillation apparatus, ideal and non-ideal solutions, side armed flask, fractionating column, thermometer, boiling flasks, condensers, pipettes, iodine, petroleum ether, burettes, flowers, leaves and propanone"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(c) Describe the concept of two component liquid systems (immiscible liquid, completely miscible liquid and the distribution law)",
+      "activity_id": "chem-five-10",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Interactive simulation: Encourage students through interactive demonstration, explanations and hand-on activities to describe the properties of two component liquid systems",
+        "Experimentation: Guide students to carry out experiments on two component liquid systems"
+      ],
+      "assessment": "The concept of two component liquid systems is clearly described",
+      "resources": [
+        "Separating funnel, beaker, immiscible and partially immiscible liquids, distillation apparatus, ideal and non-ideal solutions, side armed flask, fractionating column, thermometer, boiling flasks, condensers, pipettes, iodine, petroleum ether, burettes, flowers, leaves and propanone"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(d) Examine the applications of two component liquid systems in pharmaceutical industries and in the extraction of plant components, separation and purification of substances",
+      "activity_id": "chem-five-11",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-based learning: Create environment for students to explore the applications of two component liquid systems in solving real life scenarios in their environment"
+      ],
+      "assessment": "Applications of two component liquid systems are well examined",
+      "resources": [
+        "Pictures, video simulation, illustrating applications of two component liquid systems"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(d) Examine the applications of two component liquid systems in pharmaceutical industries and in the extraction of plant components, separation and purification of substances",
+      "activity_id": "chem-five-11",
+      "periods": 12,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-based learning: Create environment for students to explore the applications of two component liquid systems in solving real life scenarios in their environment"
+      ],
+      "assessment": "Applications of two component liquid systems are well examined",
+      "resources": [
+        "Pictures, video simulation, illustrating applications of two component liquid systems"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(d) Examine the applications of two component liquid systems in pharmaceutical industries and in the extraction of plant components, separation and purification of substances",
+      "activity_id": "chem-five-11",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-based learning: Create environment for students to explore the applications of two component liquid systems in solving real life scenarios in their environment"
+      ],
+      "assessment": "Applications of two component liquid systems are well examined",
+      "resources": [
+        "Pictures, video simulation, illustrating applications of two component liquid systems"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(e) Describe the concept of energetics (Heat/enthalpy of reactions and Hess’ s law)",
+      "activity_id": "chem-five-12",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concept of energetics",
+        "Experimentation: Guide students to carry out experiments on energetics"
+      ],
+      "assessment": "The concepts of heat/ enthalpy of reactions and Hess’s law are clearly described",
+      "resources": [
+        "Salts, acid, base, thermometer, analytical balance, magnesium ribbon, sodium thiosulphate, calorimeters, chemical indicators and simulation, illustrating energetics"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(e) Describe the concept of energetics (Heat/enthalpy of reactions and Hess’ s law)",
+      "activity_id": "chem-five-12",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to discuss the concept of energetics",
+        "Experimentation: Guide students to carry out experiments on energetics"
+      ],
+      "assessment": "The concepts of heat/ enthalpy of reactions and Hess’s law are clearly described",
+      "resources": [
+        "Salts, acid, base, thermometer, analytical balance, magnesium ribbon, sodium thiosulphate, calorimeters, chemical indicators and simulation, illustrating energetics"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(f) Examine the applications of energetics in daily life in combustion of fuel, cooking and human body metabolism",
+      "activity_id": "chem-five-13",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-solving method: Provide students with scenario or case study and task them to investigate the applications of energetics in their environment"
+      ],
+      "assessment": "Applications of energetics in daily life are clearly examined and demonstrated",
+      "resources": [
+        "Pictures, wall charts, video showing applications of energetics"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w19-3",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(f) Examine the applications of energetics in daily life in combustion of fuel, cooking and human body metabolism",
+      "activity_id": "chem-five-13",
+      "periods": 12,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-solving method: Provide students with scenario or case study and task them to investigate the applications of energetics in their environment"
+      ],
+      "assessment": "Applications of energetics in daily life are clearly examined and demonstrated",
+      "resources": [
+        "Pictures, wall charts, video showing applications of energetics"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.3 Demonstrate an understanding of chemical concepts and principles and their applications in different contexts",
+      "learning_activity": "(f) Examine the applications of energetics in daily life in combustion of fuel, cooking and human body metabolism",
+      "activity_id": "chem-five-13",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Problem-solving method: Provide students with scenario or case study and task them to investigate the applications of energetics in their environment"
+      ],
+      "assessment": "Applications of energetics in daily life are clearly examined and demonstrated",
+      "resources": [
+        "Pictures, wall charts, video showing applications of energetics"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2-2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(a) Describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-14",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+        "Library search: Task students to read articles and present information on the health hazards associated with polycyclic aromatic hydrocarbons (PAHs), carbonyl compounds, carboxylic acids, haloalkanes, amines and polymers"
+      ],
+      "assessment": "The concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are clearly described",
+      "resources": [
+        "Molecular models, visual aids and pictures, illustrating organic compounds, chemistry software, products made from organic compounds such as dyes, pesticides, detergents, artificial food flavor, rubber and medicine"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(a) Describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-14",
+      "periods": 12,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+        "Library search: Task students to read articles and present information on the health hazards associated with polycyclic aromatic hydrocarbons (PAHs), carbonyl compounds, carboxylic acids, haloalkanes, amines and polymers"
+      ],
+      "assessment": "The concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are clearly described",
+      "resources": [
+        "Molecular models, visual aids and pictures, illustrating organic compounds, chemistry software, products made from organic compounds such as dyes, pesticides, detergents, artificial food flavor, rubber and medicine"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(a) Describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-14",
+      "periods": 3,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to describe the concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+        "Library search: Task students to read articles and present information on the health hazards associated with polycyclic aromatic hydrocarbons (PAHs), carbonyl compounds, carboxylic acids, haloalkanes, amines and polymers"
+      ],
+      "assessment": "The concepts of aromatic hydrocarbons, halogen derivatives of hydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are clearly described",
+      "resources": [
+        "Molecular models, visual aids and pictures, illustrating organic compounds, chemistry software, products made from organic compounds such as dyes, pesticides, detergents, artificial food flavor, rubber and medicine"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(b) Apply IUPAC rules in naming of aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines",
+      "activity_id": "chem-five-15",
+      "periods": 9,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students to explore the IUPAC rules for naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines"
+      ],
+      "assessment": "IUPAC rules of naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines are well applied",
+      "resources": [
+        "Chemistry software and containers with labelled organic compounds"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(b) Apply IUPAC rules in naming of aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines",
+      "activity_id": "chem-five-15",
+      "periods": 11,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students to explore the IUPAC rules for naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines"
+      ],
+      "assessment": "IUPAC rules of naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines are well applied",
+      "resources": [
+        "Chemistry software and containers with labelled organic compounds"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(b) Apply IUPAC rules in naming of aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines",
+      "activity_id": "chem-five-15",
+      "periods": 1,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Inquiry-based learning: Guide students to explore the IUPAC rules for naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines"
+      ],
+      "assessment": "IUPAC rules of naming aromatic hydrocarbons, halohydrocarbons, phenols, carbonyl compounds, carboxylic acids and their derivatives, and amines are well applied",
+      "resources": [
+        "Chemistry software and containers with labelled organic compounds"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(c) Examine reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives for preparation of useful organic products like soaps, perfumes and pesticides",
+      "activity_id": "chem-five-16",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to explore the reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives",
+        "Practical works: Guide students to isolate essential oils from plant materials and spices, and carry out experiments on the preparations of soaps, perfumes and pesticides"
+      ],
+      "assessment": "Reactions of aromatic hydrocarbons, phenols, carbonyl compounds and, carboxylic acids and their derivatives are properly examined and demonstrated",
+      "resources": [
+        "Fragrances, alcohols, distillers, oil and fat, KOH/NaOH, glycerine, orange peels, lemon grass, ginger roots, rose flowers and other scented plant materials, laboratory note book and visual aids describing reactions for selected organic compounds"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(c) Examine reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives for preparation of useful organic products like soaps, perfumes and pesticides",
+      "activity_id": "chem-five-16",
+      "periods": 10,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to explore the reactions of aromatic hydrocarbons, phenols, carbonyl compounds, and carboxylic acids and their derivatives",
+        "Practical works: Guide students to isolate essential oils from plant materials and spices, and carry out experiments on the preparations of soaps, perfumes and pesticides"
+      ],
+      "assessment": "Reactions of aromatic hydrocarbons, phenols, carbonyl compounds and, carboxylic acids and their derivatives are properly examined and demonstrated",
+      "resources": [
+        "Fragrances, alcohols, distillers, oil and fat, KOH/NaOH, glycerine, orange peels, lemon grass, ginger roots, rose flowers and other scented plant materials, laboratory note book and visual aids describing reactions for selected organic compounds"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(d) Examine reactions of haloalkanes, amines and polymers for preparation of useful organic products like plastics, dyes, detergents and rubber",
+      "activity_id": "chem-five-17",
+      "periods": 1,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to explore the reactions of haloalkanes, amines and polymers",
+        "Inquiry-based learning: Task students to search and present information related to structures and properties of polymeric materials used as adhesives, semiconductors packaging and insulators",
+        "Hands-on mind-on activities: Guide students to carry out experiments on the preparation of plastics, dyes, detergents and rubber"
+      ],
+      "assessment": "Reactions of haloalkanes, amines and polymers are properly examined and demonstrated",
+      "resources": [
+        "Starch, cellulose, vegetable oils, natural sources of dyes, plastic materials, food stuffs and visual aids showing reactions of haloalkanes, amines and polymers"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(d) Examine reactions of haloalkanes, amines and polymers for preparation of useful organic products like plastics, dyes, detergents and rubber",
+      "activity_id": "chem-five-17",
+      "periods": 11,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to explore the reactions of haloalkanes, amines and polymers",
+        "Inquiry-based learning: Task students to search and present information related to structures and properties of polymeric materials used as adhesives, semiconductors packaging and insulators",
+        "Hands-on mind-on activities: Guide students to carry out experiments on the preparation of plastics, dyes, detergents and rubber"
+      ],
+      "assessment": "Reactions of haloalkanes, amines and polymers are properly examined and demonstrated",
+      "resources": [
+        "Starch, cellulose, vegetable oils, natural sources of dyes, plastic materials, food stuffs and visual aids showing reactions of haloalkanes, amines and polymers"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "1.0 Demonstrate mastery of the concepts, theories and principles in Chemistry",
+      "specific_competence": "1.4 Demonstrate an understanding of advanced concepts and principles in organic chemistry",
+      "learning_activity": "(d) Examine reactions of haloalkanes, amines and polymers for preparation of useful organic products like plastics, dyes, detergents and rubber",
+      "activity_id": "chem-five-17",
+      "periods": 8,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use visual aids to explore the reactions of haloalkanes, amines and polymers",
+        "Inquiry-based learning: Task students to search and present information related to structures and properties of polymeric materials used as adhesives, semiconductors packaging and insulators",
+        "Hands-on mind-on activities: Guide students to carry out experiments on the preparation of plastics, dyes, detergents and rubber"
+      ],
+      "assessment": "Reactions of haloalkanes, amines and polymers are properly examined and demonstrated",
+      "resources": [
+        "Starch, cellulose, vegetable oils, natural sources of dyes, plastic materials, food stuffs and visual aids showing reactions of haloalkanes, amines and polymers"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "2.0 Conduct experiments in chemistry",
+      "specific_competence": "2.1 Conduct synthesis of selected organic compounds",
+      "learning_activity": "(a) Synthesise aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-18",
+      "periods": 3,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out laboratory experiments on the synthesis of aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers"
+      ],
+      "assessment": "Aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are synthesised",
+      "resources": [
+        "Ethylene, caustic soda, sulfonic acid, perfume, water, selected apparatus/ equipment for organic reactions, chemistry software and laboratory notebook"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "2.0 Conduct experiments in chemistry",
+      "specific_competence": "2.1 Conduct synthesis of selected organic compounds",
+      "learning_activity": "(a) Synthesise aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-18",
+      "periods": 11,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out laboratory experiments on the synthesis of aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers"
+      ],
+      "assessment": "Aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are synthesised",
+      "resources": [
+        "Ethylene, caustic soda, sulfonic acid, perfume, water, selected apparatus/ equipment for organic reactions, chemistry software and laboratory notebook"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "2.0 Conduct experiments in chemistry",
+      "specific_competence": "2.1 Conduct synthesis of selected organic compounds",
+      "learning_activity": "(a) Synthesise aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-18",
+      "periods": 11,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out laboratory experiments on the synthesis of aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers"
+      ],
+      "assessment": "Aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are synthesised",
+      "resources": [
+        "Ethylene, caustic soda, sulfonic acid, perfume, water, selected apparatus/ equipment for organic reactions, chemistry software and laboratory notebook"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "2.0 Conduct experiments in chemistry",
+      "specific_competence": "2.1 Conduct synthesis of selected organic compounds",
+      "learning_activity": "(a) Synthesise aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers",
+      "activity_id": "chem-five-18",
+      "periods": 3,
+      "activity_total_periods": 28,
+      "teaching_learning_activities": [
+        "Experimentation: Guide students to carry out laboratory experiments on the synthesis of aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers"
+      ],
+      "assessment": "Aromatic hydrocarbons, haloalkanes, phenols, carbonyl compounds, carboxylic acids and their derivatives, amines and polymers are synthesised",
+      "resources": [
+        "Ethylene, caustic soda, sulfonic acid, perfume, water, selected apparatus/ equipment for organic reactions, chemistry software and laboratory notebook"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "3.0 Conduct a project in Chemistry",
+      "specific_competence": "3.1 Conduct a project in Chemistry",
+      "learning_activity": "(a) Design and carry out a project in Chemistry",
+      "activity_id": "chem-five-19",
+      "periods": 8,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Project: Guide students to design a project from any Chemistry themes",
+        "Field trip: Task students to investigate the selected Chemistry theme and carry out the project"
+      ],
+      "assessment": "The project is well designed and carried out",
+      "resources": [
+        "Factories for production of different products, project guidelines, sample of project reports, laboratory facilities, and materials"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "3.0 Conduct a project in Chemistry",
+      "specific_competence": "3.1 Conduct a project in Chemistry",
+      "learning_activity": "(a) Design and carry out a project in Chemistry",
+      "activity_id": "chem-five-19",
+      "periods": 11,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Project: Guide students to design a project from any Chemistry themes",
+        "Field trip: Task students to investigate the selected Chemistry theme and carry out the project"
+      ],
+      "assessment": "The project is well designed and carried out",
+      "resources": [
+        "Factories for production of different products, project guidelines, sample of project reports, laboratory facilities, and materials"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "3.0 Conduct a project in Chemistry",
+      "specific_competence": "3.1 Conduct a project in Chemistry",
+      "learning_activity": "(a) Design and carry out a project in Chemistry",
+      "activity_id": "chem-five-19",
+      "periods": 11,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Project: Guide students to design a project from any Chemistry themes",
+        "Field trip: Task students to investigate the selected Chemistry theme and carry out the project"
+      ],
+      "assessment": "The project is well designed and carried out",
+      "resources": [
+        "Factories for production of different products, project guidelines, sample of project reports, laboratory facilities, and materials"
+      ],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Chemistry for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

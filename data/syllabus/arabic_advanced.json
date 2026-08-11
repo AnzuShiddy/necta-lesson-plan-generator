@@ -1,0 +1,474 @@
+{
+  "subject": "Arabic",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727267632-Arabic%20ADVANCED%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+          "learning_activity": "a( Kutunga matini kwa kutumia kauli ya utendwa, vielezi, viunganishi na kanuni za msingi za kisarufi maumbo",
+          "suggested_methods": [
+            "Mjadala wa vikundi: Waongoze wanafunzi kujadili kanuni za jina la mtendwa, viunganishi, vielezi na kanuni za msingi za sarufi maumbo"
+          ],
+          "assessment_criteria": "Matini mbalimbali kwa kutumia kauli ya utendaji.",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya utungaji"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "arab-five-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+          "learning_activity": "b( Kutumia aina zote za mush-taqaat katika mawawasaniliano )mfano. Kongamano, mahakama na mikutano(",
+          "suggested_methods": [
+            "Kazi za vikundi: Waongoze wanafunzi kutunga matini kwa kutumia kauli ya mtendwa, vielezi na kanuni za msingi za sarufi maumbo",
+            "Oneshombinu: Waongoze wanafunzi kubaini aina zote za Mushtaqaati",
+            "Kazi za vikundi: Wawezeshe wanafunzi kutumia aina zote za Mushtaqaat katika kutunga sentensi mbalimbali"
+          ],
+          "assessment_criteria": "Aina zote za Mushtaqati zimetumika katika mawasiliano mfano: makongamano, mahakamani na mikutano.",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya utungaji"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "arab-five-2"
+        },
+        {
+          "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+          "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+          "learning_activity": "a( Kubaini maana ya maneno mapya kutoka katika matini changamani kwa kutumia kamusi za kawaida na kamusi mtandao",
+          "suggested_methods": [
+            "Kisamafunzo: Waelekeze wanafunzi kubaini msamiati kutoka katika matini changamani walizozisikiliza au kuzisoma",
+            "Majadiliano ya vikundi: Waelekeze wanafunzi kujadili maana ya msamiati kutoka katika matini changamani kwa kutumia kamusi mbalimbali",
+            "Matembezi ya Galari: Waongoze wanafunzi kubaini maana ya msamiati katika sentensi"
+          ],
+          "assessment_criteria": "Maana mbalimbali za misamiati kutoka katika matini changamani mbali- mbali zimejadiliwa kupitia kamusi mbalimbali kwa usahihi",
+          "suggested_resources": [
+            "Matini anuai zinazotumika kupata maana ya maneno"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "arab-five-3"
+        },
+        {
+          "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+          "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+          "learning_activity": "b( Kuunda maneno mapya kwa kutumia mnyambuliko na viambishi mbalimbali",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi kubaini aina mbali mbali za minyambuliko",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana mbalimbali zinazopatikana katika minyambuliko ya maneno",
+            "Igizodhima: Waongoze wanafunzi kuunda maneno mapya kutoka katika minyambuliko mbalimbali ya maneno",
+            "Utatuzi wa tatizo: Waongoze wanafuzi kutumia maneno mapya waliyoyaunda katika sentensi mbalimbali"
+          ],
+          "assessment_criteria": "Maneno mapya mbalimbali yameundwa kwa kutumia minyambuliko ya viambishi",
+          "suggested_resources": [
+            "Matini anuai zenye maudhui ya uundaji wa maneno"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "arab-five-4"
+        },
+        {
+          "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+          "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+          "learning_activity": "a( Kuelezea vitu na matukio kwa kutumia Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+          "suggested_methods": [
+            "Kisamafunzo: Wasaidie wanafunzi kutumia msamiati na sarufi stahiki kueleza vitu mbalimbali na matumizi yake",
+            "Tafakuri binafsi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya kila siku",
+            "Kazi ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya wakati uliopita, uliopo na ujao"
+          ],
+          "assessment_criteria": "Vitu na matukio mbalimbali vimeelezewa kwa kutumia lugha ya Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+          "suggested_resources": [
+            "Matini mbalimbali zenye kuelezea vitu na matukio"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "arab-five-5"
+        },
+        {
+          "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+          "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+          "learning_activity": "b( Kutunga matini changamani kuhusu fani mbalimbali )sheria, tiba, ualimu( kwa kutumia msamiati mwafaka na sarufi sahihi",
+          "suggested_methods": [
+            "Utatuzi wa tatizo: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini changamani katika sharia",
+            "Kazimradi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu tiba",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu ualimu"
+          ],
+          "assessment_criteria": "",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui au mada ya utungaji"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "arab-five-6"
+        },
+        {
+          "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+          "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "a( Kusikiliza na kuelewa midahalo na matini mbalimbali",
+          "suggested_methods": [
+            "Mdahalo: Waelekeze wanafunzi kusikiliza mihadhara na midahalo mbalimbali",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kushiriki katika dayolojia mbalimbali",
+            "Ziara ya kimasomo: Wasaidie wanafunzi kusikiliza midahalo mbalimbali"
+          ],
+          "assessment_criteria": "Midahalo na matini mbalimbali zimesikilizwa na kufahamika kwa ufasaha",
+          "suggested_resources": [
+            "Matini na vifaa mbalimbali vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-five-7"
+        },
+        {
+          "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+          "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "b( Kuibua maana iliyofichika katika midahalo na matini mbalimbali",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya matini na midahalo mbalimbali",
+            "Kazi za vikundi: Wawezeshe wanafunzi kuibua maana iliyojificha katika matini na midahalo mbalimbali"
+          ],
+          "assessment_criteria": "Maana mbalimbali iliyofichikana katika midahalo na matini mbalimbali yamebainishwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-five-8"
+        },
+        {
+          "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+          "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "c( Kusikiliza na kuibua maana ya istilahi za kibalagha katika midahalo na matini",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waelekeze wanafunzi kusikiliza na kubaini maana ya ujumla ya midahalo mbalimbali",
+            "Dayalojia: Waongoze wanafunzi kubaini mawazo madogo ya midahalo na matini",
+            "Utatuzi wa tatizo: Waongoze wanafunzi kubaini maana ya kibalagha katika midahalo na matini mbalimbali"
+          ],
+          "assessment_criteria": "Maana mbali mbali za istilahi za kibalagha katika midahalo mbalimbali zimesikilizwa kwa umakini na kuibuliwa",
+          "suggested_resources": [
+            "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-five-9"
+        },
+        {
+          "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+          "specific_competence": "3.1 Kutafsiri matini changamani",
+          "learning_activity": "a( Kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia",
+          "suggested_methods": [
+            "Kisamafunzo: waongoze wanafunzi kusoma matini changamani na kubaini maana ya ujumla",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili tafsiri ya ujumla ya matini changamani",
+            "Kazimradi: waelekeze wanafunzi kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia ya kisasa"
+          ],
+          "assessment_criteria": "Matini changamani zimefasiriwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali na vifaa vya kisasa vya kutafsiri"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-five-10"
+        },
+        {
+          "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+          "specific_competence": "3.2 Kufanya ukalimani",
+          "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+          "suggested_methods": [
+            "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+            "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+          ],
+          "assessment_criteria": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-five-11"
+        },
+        {
+          "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+          "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+          "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+          "suggested_methods": [
+            "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+            "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+            "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+          ],
+          "assessment_criteria": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+          "suggested_resources": [
+            "Matini mbalimbali za fasihi ya Kiarabu"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "arab-five-12"
+        },
+        {
+          "main_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+          "specific_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+          "learning_activity": "a( Kuhakiki mashairi",
+          "suggested_methods": [
+            "Kisamafunzo: waongoze wanafunzi kutambua mbinu za kuhakiki mashairi",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili mbinu za kuhakiki mashairi",
+            "Utatuzi wa tatizo: Waongoze wanafunzi kuhakiki mashairi mbalimbali"
+          ],
+          "assessment_criteria": "Mashairi mbalimbali yamehakikiwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali yaliyohakikiwa"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-five-13"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "تـطـويـر فهم مبادئ وقواعد اللغة العربية\n1.1 Kukuza uelewa wa misingi na kanuni za lugha ya Kiarabu",
+          "learning_activity": "(أ) تحليل الجمل المشتملة على التوابع والاستثناء\na( Kuchanganua sentensi zenye tawabii na istithnaai",
+          "suggested_methods": [
+            "دراسة حالة\nوجّه الطلاب إلى التعرف على الجمل المشتملة على التوابع والاستثناء\nKisamafunzo:\nWaelekeze wanafunzi kubaini sentensi zenye Tawabii na Istithnaai",
+            "العمل الجماعي\nأرشد الطلاب إلى مناقشة الجمل المشتملة على التوابع والاستثناء\nKazi ya vikundi:\nWaongoze wanafunzi kujadili sentensi zenye Tawabii na Istithnaai"
+          ],
+          "assessment_criteria": "تم تحليل الجمل المشتملة على التوابع والاستثناء بطريقة صحيحة\nSentensi zenye tawabii na istithnaai zimejadiliwa kwa usahihi",
+          "suggested_resources": [
+            "النصوص الأدبية العربية المتنوعة التي تحلل الجمل\nMatini mbalimbali za fasihi ya Kiarabu"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-14"
+        },
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "تـطـويـر فهم مبادئ وقواعد اللغة العربية\n1.1 Kukuza uelewa wa misingi na kanuni za lugha ya Kiarabu",
+          "learning_activity": "(ب) تكوين النصوص باستخدام التوابع والاستثناء\nb( Kutunga matini kwa kuzingatia dhana za tawabii na istithnaai",
+          "suggested_methods": [
+            "المناقشة الجماعية\nأرشد الطلاب إلى مناقشة طرق تأليف النصوص باستخدام التوابع والاستثناء\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili njia za utungaji wa matini kwa kutumia dhana ya tawaabii na istithnaai",
+            "المشروع\nوجّه الطلاب إلى وصف وظيفة التوابع والاستثناء في النصوص المختلفة\nKazimradi:\nWaongoze wanafunzi kueleza dhima ya tawaabii na Istidhnaai katika matini",
+            "حل المشكلة\nساعد الطلاب في تكوين النصوص باستخدام التوابع والاستثناء.\nUtatuzi wa tatizo:\nWasaidie wanafunzi kutunga matini kwa kuzingatia dhana za tawaabii na Istithnaai"
+          ],
+          "assessment_criteria": "تم تكوين النصوص المختلفة باستخدام التوابع والاستثناء\nMatini mbalimbali zimetungwa kwa kutumia dhana za tawabii na istithnaai",
+          "suggested_resources": [
+            "النصوص المختلفة\nMatini mbalimbali"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "arab-six-15"
+        },
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "تـطـويـر المفردات من المحادثات والنصوص المركبة\n1.2 Kukuza msamiati kutokana na mazungumzo na matini changamani",
+          "learning_activity": "(أ) بيان التعبيرات االجديدة من النصوص المركبة\na( Kubaini misemo mipya katika matini changamani",
+          "suggested_methods": [
+            "دراسة حالة\nوجّه الطلاب إلى الاستماع إلى المفردات الجديدة من النصوص والمحادثات المختلة\nKisamafunzo:\nWaelekeze wanafunzi kusikiliza msamiati kutoka katika matini na mazungumzo mbalimbali",
+            "المناقشة الجماعية\nوجّه الطلاب إلى مناقشة المفردات الجديدة من المحادثات والنصوص المختلفة\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili msamiati kutoka katika matini na mazungumzo mbalimabli",
+            "زيارة في القاعة\nساعد الطلاب في التعرف على المفردات الجديدة من المحادثات والنصوص المختلفة.\nMatembezi ya galari:\nWasaidie wanafunzi kubaini msamiati kutoka katika matini na mazungumzo mbalimbali"
+          ],
+          "assessment_criteria": "تم بيان المفردات التعبيراتو الجديدة من المحادثات والنصوص المركبة بطريقة صحيحة\nMsamiati na misemo imebainishwa katika matini changamani kwa usahihi",
+          "suggested_resources": [
+            "لالنصوص المختلفة حو وعو ض الم\nMatini mbalimbali za maudhui husika"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-16"
+        },
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "تـطـويـر المفردات من المحادثات والنصوص المركبة\n1.2 Kukuza msamiati kutokana na mazungumzo na matini changamani",
+          "learning_activity": "(ب) تحديد معانى التعبيرات الجديدة باستخدام القواميس والمراجع المختلفة\nb( Kubaini maana ya mimeso mipya kwa kutumia kamusi na rejea mbalimbali",
+          "suggested_methods": [
+            "دراسة حالة\nوجّه الطلاب إلى استماع المفردات من النصوص المختلفةوالمحادثات\nKisamafunzo\nWaelekeze wanafunzi kusikiliza misemo kutoka katika matini na mazungumzo mbalimbali",
+            "المناقشة الجماعية\nأرشد الطلاب إلى مناقشة المفردات الجديدة من النصوص والمحادثات المختلفة\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili msamiati kutoka katika matini na mazungumzo mbalimbali"
+          ],
+          "assessment_criteria": "تمّ تحديد معانى التعبيرات الجديدة باستخدام المعاجم والمراجع المختلفة\nMsamiati imebainishwa kwa kutumia kamusi na rejea mbalimbali",
+          "suggested_resources": [
+            "النصوص والمراجع المختلفة لتفسير معاني العبارات\nMatini na marejeleo anuai zenye kutafsiri maana ya misemo"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "arab-six-17"
+        },
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "تـطـويـر المفردات من المحادثات والنصوص المركبة\n1.2 Kukuza msamiati kutokana na mazungumzo na matini changamani",
+          "learning_activity": "(ج) بيان الكلمات المتشابهة ذات معان مختلفة\nc( Kubaini maneno yanayofanana lakini yana maana tofauti",
+          "suggested_methods": [
+            "دراسة حالة\nأرشد الطلاب إلى الاستماع إلى النصوص المشتملة على ذات معان الكلمات المتشابهة .مختلفة\nKisamafunzo:\nWaongoze wanafunzi kusikiliza matini yenye maneno yanayofanana, yenye maana tofauti",
+            "المناقشة الجماعية\nساعد الطلاب في مناقشة الكلمات المتشابهة ذات معان مختلفة.\nMajadiliano ya vikundi:\nWasaidie wanafunzi kujadili maneno yanayofanana, yenye maana tofauti",
+            "المشروع\nمكّن الطلاب من تعيين الكلمات المتشابهة ذات معان مختلفة\nKazimradi:\nWawezeshe wanafunzi kubaini maneno yanayofanana, yenye maana tofauti"
+          ],
+          "assessment_criteria": "تم تعيين الكلمات المتشابهة ذات معان مختلفة بنجاح\nManeno yanayofanana yenye maana tofauti yamebinishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-six-18"
+        },
+        {
+          "main_competence": "مهارات اللغة العربية المتقدمة\n1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+          "specific_competence": "المفردات والقواعد المـنـاســبة\n1.3 Kutumia msamiati na sarufi stahiki",
+          "learning_activity": "(أ) استخدام المرادفات في إنشاء النصوص المركبة\na( Kutumia visawe kutunga matini changamani",
+          "suggested_methods": [
+            "دراسة حالة\nأرشد الطلاب إلى تعيين المرادفات من النصوص المركبة\nKisamafunzo:\nWaongoze wanafunzi kubaini visawe katika matini changamani",
+            "المناقشة الجماعية\nساعد الطلاب في مناقشة المرادفات من النصوص المركبة.\nMajadiliano ya vikundi:\nWasaidie wanafunzi kujadili visawe katika matini changamani.",
+            "المشروع\nسهل للطلاب استخدام المرادفات في إنشاء النصوص المركبة\nKazimradi:\nWaelekeze wanafunzi kutumia visawe kutunga matini changamani"
+          ],
+          "assessment_criteria": "تم تكوين نصوص مركبة مختلفة باستخدام المرادفات\nMatini changamani mbalimbali zimetungwa kwa kutumia visawe",
+          "suggested_resources": [
+            "المراجع المختلفة\nMarejeleo anuai"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-19"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "تـطــويـر القدرة2.1 على فهم المحادثات في اللغة العربية\n2.1 Kukuza uelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "(أ) الاستماع وفهم النصوص المركبة\n)a( Kusikiliza na kuelewa matini changamani",
+          "suggested_methods": [
+            "دراسة حالة\nسهل للطلاب الاستماع إلى نصوص مركبة مختلفة\nKisamafunzo\nWawezeshe wanafunzi kusikiliza matini changamani mbalimbali",
+            "العمل الجماعي\nوجّه الطلاب إلى تعيين الأفكار الرئيسة من النصوص المركبة.\nKazi ya vikundi:\nWaongoze wanafunzi kubaini mawazo makuu kutokana na matini changamani",
+            "حل المشكلة\nساعد الطلاب في تحليل الرسالة المستفادة من النصوص المركبة.\nKutatua tatizo:\nWasaidie wanafunzi kuchambua ujumbe unaopatikana katika matini changamani"
+          ],
+          "assessment_criteria": "تم الاستماع وفهم النصو المركبة بطريقة صحيحة.\nMatini changamani zimesikilizwa na kueleweka kwa usahihi",
+          "suggested_resources": [
+            "النصوص والوسائل السمعية البصرية المختلفة التي تــتـخــصــص في مهارات الاستماع\nMatini na vifaa mbalimbali vya masikizi-uoni vyenye maudhui ya stadi za kusikiliza"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-20"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "تـطــويـر القدرة2.1 على فهم المحادثات في اللغة العربية\n2.1 Kukuza uelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "(ب) الاستماع إلى المحادثات وتلخيصها\nb( Kusikiliza mazungumzo na kuyafupisha",
+          "suggested_methods": [
+            "دراسة حالة\nساعد الطلاب في إجراء المحادثات في مجالات مختلفة\nKisamafunzo:\nWawezeshe wanafunzi kusikiliza mazungumzo mbalimbali",
+            "المناقشة الجماعية\nأرشد الطلاب إلى مناقشة الأفكار الرئيسة من المحادثات في مجالات مختلفة\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili mawazo makuu ya mazungumzo mbalimbali",
+            "عمل المشروع\nساعد الطلاب في تلخيص الأفكار الرئيسة من المحادثات في مجالات مختلفة\nKazimradi:\nWasaidie wanafunzi kufupisha mawazo makuu yatokanayo na mazungumzo"
+          ],
+          "assessment_criteria": "تم الاستماع وتلخيص المحادثات بطريقة صحيحة\nMazungumzo yamesikilizwa na kufupishwa kwa usahihi",
+          "suggested_resources": [
+            "المسجلات الصوتية الـمحتوية على العناصر المذكورة\nVinasa sauti vyenye maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-six-21"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "تـطــويـر القدرة2.1 على فهم المحادثات في اللغة العربية\n2.1 Kukuza uelewa wa mazungumzo ya Kiarabu",
+          "learning_activity": "(ج) الاستماع وفهم مسرحيات اللغة العربية\nc( Kusikiliza na kuelewa tamthilia za Kiarabu",
+          "suggested_methods": [
+            "العرض\nأرشد الطلاب إلى الاستماع وفهم مسرحيات اللغة العربية\nOneshombinu:\nWaongoze wanafunzi kusikiliza na kuelewa tamthilia za Kiarabu",
+            "المناقشة الجماعية\nوجه الطلاب إلى بيان الأفكار الرئيسة من مسرحيات للغة العربية\nMajadiliano ya vikundi:\nWaongoze wanafunzi kubaini mawazo makuu yapatikanayo katika tamthilia ya Kiarabu",
+            "المشروع\nساعد الطلاب في تحديد الرسالة من مسرحيات اللغة العربية\nKazimradi:\nWasaidie wanafunzi Kubaini ujumbe unaopatikana katika tamthilia ya Kiarabu"
+          ],
+          "assessment_criteria": "تم الاستماع وفهم مسرحيات اللغة العربية بنجاح\nTamthilia za Kiarabu zimesikilizwa na kueleweka vyema.",
+          "suggested_resources": [
+            "المسجلات الصوتية الـمحتوية على العناصر المذكورة\nVinasa sauti vyenye maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-six-22"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "النصوص العربية\n2.2 Kukuza uelewa wa matini andishi za Kiarabu",
+          "learning_activity": "(أ) قراءة النصوص المكتوبة المركبة ومعرفة فكرتها الرئيسة\na( Kusoma matini changamani na kuelewa wazo kuu lililomo",
+          "suggested_methods": [
+            "التأمل الذاتي\nأرشد الطلاب إلى قراءة النصوص المركبة\nTafakuri binafsi:\nWaelekeze wanafunzi kusoma matini changamani",
+            "المناقشة الجماعية\nأرشد الطلاب إلى مناقشة الفكرة الرئيسة من النصوص المركبة.\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili wazo kuu linalotokana na matini changamani",
+            "حلّ المشكلة\nأرشد الطلاب إلى توضيح الفكرة الرئيسة من النصوص المركبة.\nUtatuzi wa tatizo:\nWawezeshe wanafunzi kuelezea ujumbe unaopatikana katika matini changamani"
+          ],
+          "assessment_criteria": "تمت قراءة النصوص المركبة وتعيين الفكرة الرئيسة منها\nMatini changamani zimesomwa na mawazo makuu yaliliyomo yimeeleweka",
+          "suggested_resources": [
+            "الـمحتويةالنصوص المختلفة على العنصر المذكور\nMatini na machapisho mbambali yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-six-23"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "النصوص العربية\n2.2 Kukuza uelewa wa matini andishi za Kiarabu",
+          "learning_activity": "(ب) قراءة النصوص المركبة وتلخيصها\n)b( Kusoma matini changamani na kufupisha maudhui yaliyomo",
+          "suggested_methods": [
+            "العمل الجماعي\nوجه الطلاب إلى قراة النصوص المركبة\nKazi ya vikundi:\nWaongoze wanafunzi kusoma matini changamani",
+            "التأمل الذاتي\nوجّه الطلاب إلى بيان الفكرة الرئيسة من النصوص المركبة\nTafakuri binafsi:\nWaelekeze wanafunzi kubaini wazo kuu katika matini changamani",
+            ":المشروع\nاطلب من الطلاب تلخيص النصوص المركبة\nKazimradi:\nWatake wanafunzi kufupisha maudhui yaliyomo katika matini changamani"
+          ],
+          "assessment_criteria": "تم قراءة النصوص المركبة وتلخيص موضوعها بطريقة صحيحة\nMatini changamani yamesomwa na maudhui yailiyomo imefupishwa kwa usahihi",
+          "suggested_resources": [
+            "الـمحتويةالنصوص المختلفة على العنصر المذكور\nMatini mbalimbali zenye mada au maudhui husika"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-six-24"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "مهارات الاتــصال\n2.3 Kukuza stadi za mawasiliano",
+          "learning_activity": "(أ) رواية أحداث مختلفة باستخدام كنايات واستعارات مختلفة.\na( Kusimulia matukio mbalimbali kwa kutumia Kinaya na Isti’ara",
+          "suggested_methods": [
+            "العمل الجماعيّ\nأرشد الطلاب إلى إعداد روايات مختلفة باستخدام الكنايات والاستعارات المختلفة\nKazi ya vikundi:\nWaongoze wanafunzi kuandaa masimulizi mbalimbali kwa kutumia Kinaya na Istiara",
+            "دراسة حالة\nساعد الطلاب في مناقشة أحداث مختلفة باستخدام الكنايات والاستعارات المختلفة.\nKisamafunzo:\nWasaidie wanafunzi kujadili matukio yenye kutumia Kinaya na Istiara",
+            "لعب الأدوار\nسهل للطلاب إعداد الأحداث المختلفة باستخدام الكنايات والاستعارات المتنوعة.\nIgizodhima:\nWawezeshe wanafunzi kuandaa matukio mbalimbali kwa kutumia Kinaya na Istiara"
+          ],
+          "assessment_criteria": "تمت رواية الأحداث المختلفة باستخدام الكنايات والاستعارات بطريقة صحيحة\nMasimulizi mbalimbali yamesimuliwa kwa kutumia kinaya na istiara kwa usahihi",
+          "suggested_resources": [
+            "النصوص والوسائل الصوتية مهاراتالـمحتوية على المختلفة المذكورة\nMatini na vinasa sauti anuai vyenye stadi zilizotajwa"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-25"
+        },
+        {
+          "main_competence": "إظهار 2.0 مستوى متقدم مـن فهم اللغة العربية شفاهة وكتابة\n2.0 Kuonesha kiwango cha juu cha uelewa wa Kiarabu katika mazungumzo na maandishi",
+          "specific_competence": "مهارات الاتــصال\n2.3 Kukuza stadi za mawasiliano",
+          "learning_activity": "(ج) كتاب التقارير التعليمية المشتملة على المراجع.\nc( Kuandika taarifa za kitaaluma zikiambatana na marejeleo",
+          "suggested_methods": [
+            "العرض\nساعد الطلاب في ملاحظة تقارير تعليمية المشتملة على المراجع\nOneshombinu:\nWasaidie wanafunzi kuchunguza taarifa za kitaaluma zikiambatana namarejeleo",
+            "دراسة حالة\nمكّن الطلاب من مناقشة التقارير التعليميّة المشتملة على المراجع\nKisamafunzo:\nWawezeshe wanafunzi kujadili taarifa za kitaaluma zikiambatana na marejeleo",
+            "حل المشكلة\nأرشد الطلاب إلى إعداد التقارير التعليمية المشتملة على المراجع\nUtatuzi wa tatizo:\nWaongoze wanafunzi kuandaa taarifa za kitaaluma zikiambatana na marejeleo"
+          ],
+          "assessment_criteria": "تم إعداد التقارير التعليمية المشتملة على المراجع بطريقة صحيحة\nTaarifa za kitaaluma zinazoambatana na marejeleo zimeandikwa kwa ufasaha",
+          "suggested_resources": [
+            "النصوص المختلفة تحتوي على معلومات أكاديـمية أكاديمية مثل المراجع\nMatini mbalimbali zenye taarifa za kitaaluma kama vile marejeleo"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-six-26"
+        },
+        {
+          "main_competence": "الــتــفــســيــر و الـtـحــريــر والتـــرجــمــة 3.0\n3.0 Kutafsiri, kuhariri na kukalimani",
+          "specific_competence": "تحرير3.1 النصوص المركبة\n3.1 Kuhariri matini changamani",
+          "learning_activity": "(أ) تحرير النصوص المركبة المختلفة\na( Kuhariri matini changamani mbalimbali",
+          "suggested_methods": [
+            "العمل الجماعي\nساعد الطلاب في ملاحظة النصوص المركبة المختلفة التي تم تحريرها\nKazi ya vikundi\nWasaidie wanafunzi kuchunguza matini changamani mbalimbali zilizohaririwa",
+            "المناقشة الجماعية\nأرشد الطلاب إلى مناقشة أساليب مختلفة لتحرير النصوص المركبة.\nMajadiliano ya vikundi:\nWaongoze wanafunzi kujadili mbinu mbalimbali za uhariri wa matini changamani",
+            "حل المشكة\nساعد الطلاب في تحرير النصوص المركبة المختلفة\nKutatua tatizo:\nWasaidie wanafunzi kuhariri matini changamani mbalimbali"
+          ],
+          "assessment_criteria": "تم تحرير النصوص المركبة المختلفة بطريقة صحيحة\nMatini changamani mbalimbali zime haririwa kwa usahihi.",
+          "suggested_resources": [
+            "النصوص المختلفة الـمـحـتـوية على تحرير الأعمال الأدبية\nMatini anuai zenye kuhariri kazi za fasihi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-27"
+        },
+        {
+          "main_competence": "تــقــديــم وإبداع أعمال الأدب العربي 4.0\n4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+          "specific_competence": "نقد أعمال4.1 الأدب العربي\n4.1 Kuhakiki kazi za fasihi ya Kiarabu",
+          "learning_activity": "(أ) نقد الروايات العربية\na( Kuhakiki riwaya za Kiarabu",
+          "suggested_methods": [
+            "لعب الأدوار\nأرشد الطلاب إلى مناقشة أساليب مختلفة لنقد الروايات العربية\nIgizodhima:\nWaongoze wanafunzi kujadili njia mbalimbali za uhakiki wa riwaya za Kiarabu",
+            "العمل الجماعي\nساعد الطلاب في نقد الروايات العربية المختلفة.\nKazi ya vikundi:\nWasaidie wanafunzi kuhakiki riwaya mbalimbali za Kiarabu"
+          ],
+          "assessment_criteria": "تم نقد الروايات العربية بطريقة صحيحة\nRiwaya za kiarabu zimehakikiwa kwa usahihi.",
+          "suggested_resources": [
+            "النصوص المختلفة الـمـحـتـوية على نقد الأعمال الأدبية\nMatini anuai zenye kuhakiki kazi za fasihi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-28"
+        },
+        {
+          "main_competence": "تــقــديــم وإبداع أعمال الأدب العربي 4.0\n4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+          "specific_competence": "تأليف 4.2 الأعمال السهل في الأدب العربي\n4.2 Kutunga kazi sahili za fasihi ya Kiarabu",
+          "learning_activity": "تأليف قصص أقصيرة باللغة العربية a(\na( Kutunga hadithi fupi kwa lugha ya Kiarabu",
+          "suggested_methods": [
+            "العرض\nساعد الطلاب في ملاحظة قصص عربية قصيرة مختلفة\nOneshombinu:\nWasaidie wanafunzi kuchunguza hadithi fupi mbalimbali za Kiarabu",
+            "المناقشة الجماعية\nساعد الطلاب في مناقشة الأساليب المستخدمة في تأليف قصص عربية قصيرة\nMajadiliano ya vikundi:\nWasaidie wanafunzi kujadili mbinu zilizotumika kutunga hadithi za Kiarabu",
+            "حل المشكلة\nوجّه الطلاب إلى تأليف قصص عربية قصيرة.\nKutatua tatizo:\nWaongoze wanafunzi kutunga hadithi fupi za Kiarabu"
+          ],
+          "assessment_criteria": "تم تأليف القصص العربية القصيرة بطريقة صحيحة\nHadithi fupi za lugha ya Kiarabu zimetungwa kwa usahihi",
+          "suggested_resources": [
+            "النصوص المختلفة الـمـخـتـصــة في تأليف أعمال الأدبية\nMatini mbalimbali zilizojikita katika utungaji wa kazi za fasihi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "arab-six-29"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,998 @@
+{
+  "subject": "Sport Studies",
+  "form": "Form Six",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 10,
+  "total_periods": 328,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0  Demonstrate \nmastery of \nthe history of \nsports and its \nimportance",
+      "specific_competence": "1.1  Demonstrate an \nunderstanding of \nthe opportunities \navailable in \nsports at national \nand international \nlevels",
+      "learning_activity": "Explore opportunities \nassociated with \nsports at national and \ninternational levels \n(a place of sports for \nfurther education and \nother careers)",
+      "activity_id": "spor-six-11",
+      "periods": 10,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Jigsaw: Task students \nthrough jigsaw to \nexplore opportunities \nassociated with \nsports at national and \ninternational levels"
+      ],
+      "assessment": "Opportunities \nassociated \nwith sports at \nnational and \ninternational \nlevels are well \nexplored",
+      "resources": [
+        "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0  Demonstrate \nmastery of \nthe history of \nsports and its \nimportance",
+      "specific_competence": "1.1  Demonstrate an \nunderstanding of \nthe opportunities \navailable in \nsports at national \nand international \nlevels",
+      "learning_activity": "Explore opportunities \nassociated with \nsports at national and \ninternational levels \n(a place of sports for \nfurther education and \nother careers)",
+      "activity_id": "spor-six-11",
+      "periods": 10,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Jigsaw: Task students \nthrough jigsaw to \nexplore opportunities \nassociated with \nsports at national and \ninternational levels"
+      ],
+      "assessment": "Opportunities \nassociated \nwith sports at \nnational and \ninternational \nlevels are well \nexplored",
+      "resources": [
+        "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0  Demonstrate \nmastery of \nthe history of \nsports and its \nimportance",
+      "specific_competence": "1.1  Demonstrate an \nunderstanding of \nthe opportunities \navailable in \nsports at national \nand international \nlevels",
+      "learning_activity": "Explore opportunities \nassociated with \nsports at national and \ninternational levels \n(a place of sports for \nfurther education and \nother careers)",
+      "activity_id": "spor-six-11",
+      "periods": 10,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Jigsaw: Task students \nthrough jigsaw to \nexplore opportunities \nassociated with \nsports at national and \ninternational levels"
+      ],
+      "assessment": "Opportunities \nassociated \nwith sports at \nnational and \ninternational \nlevels are well \nexplored",
+      "resources": [
+        "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0  Demonstrate \nmastery \nof the \nrelationship \nbetween \nhuman \nphysiology \nand \nperformance \nin sports",
+      "specific_competence": "2.1  Demonstrate \na basic \nunderstanding \nof the role of \nhuman body \nsystems and \nmovements in \nsports",
+      "learning_activity": "Apply biomechanical \nprinciples (laws \nof motions, force, \nfriction, stability, \netc) to enhance \nperformance in \nphysical exercises \nand selected sports: \nAthletics (running, \nthrowing and \njumping), swimming, \nfootball and netball, \nbasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-12",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \na skill that applies \nbiomechanical \nprinciples to enhance \nperformance exercise \nand sports",
+        "Guide students \nto practice skills \nby applying \nbiomechanical \nprinciples to enhance \nperformance in \nphysical exercises and \nsports"
+      ],
+      "assessment": "Biomechanical \nprinciples \nto enhance \nperformance \nin physical \nexercises and \nsports are well \napplied",
+      "resources": [
+        "Human body \npictures, \nmodels and \ncharts"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+      "activity_id": "spor-six-13",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \ndescribed",
+      "resources": [
+        "Drill videos"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+      "activity_id": "spor-six-13",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \ndescribed",
+      "resources": [
+        "Drill videos"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+      "activity_id": "spor-six-13",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \ndescribed",
+      "resources": [
+        "Drill videos"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+      "activity_id": "spor-six-13",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \ndescribed",
+      "resources": [
+        "Drill videos"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(a) Describe \nprinciples of \ntraining in sports \n(specificity, \noverload, \nprogression, \nvariety, recovery, \nindividuality and \nconsistency)",
+      "activity_id": "spor-six-13",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Group discussion: \nGuide students in \nmanageable groups to \ndiscuss principles of \ntraining in sports"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \ndescribed",
+      "resources": [
+        "Drill videos"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-14",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+        "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \napplied",
+      "resources": [
+        "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-14",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+        "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \napplied",
+      "resources": [
+        "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-14",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+        "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \napplied",
+      "resources": [
+        "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-14",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+        "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \napplied",
+      "resources": [
+        "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.1 Train for \nselected sports",
+      "learning_activity": "(b) Apply principles \nof training in \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-14",
+      "periods": 10,
+      "activity_total_periods": 50,
+      "teaching_learning_activities": [
+        "Demonstration and \npractice: Perform \nskills in a selected \nsport to demonstrate \nhow principles of \ntraining are applied in \nsports",
+        "Guide students to \npractice sport skills by \napplying principles of \ntraining"
+      ],
+      "assessment": "Principles of \ntraining in \nsports are well \napplied",
+      "resources": [
+        "Tape measure, \nheight \nstadiometer, \ndynamometer, \nskinfold \ncaliper, BP \nmachine, \nweigh scales, \nsit & reach \nbox, heart \nrate monitor, \nstep test box, \nthermometer, \nsports watch \nand cones"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(a) Perform advanced \ntactics and drills \nin selected sports \n(principles, \nsystems and styles \nof play)",
+      "activity_id": "spor-six-15",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nOrganize students in \nmanageable groups and \nguide them to perform \nadvanced tactics and \ndrills in selected sports"
+      ],
+      "assessment": "Advanced \ntactics and drills \nin selected \nsports are well \nperformed",
+      "resources": [
+        "Balls, cones, \nwhistle, \nrackets, nets, \nclappers"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "3.0  Perform \nselected \nsports",
+      "specific_competence": "3.2 Develop \nadvanced sports \nskills",
+      "learning_activity": "(b) Play by \nobserving rules \nand regulations \ngoverning \nselected sports: \nBasketball, table \ntennis, tennis, \nvolleyball and \nhandball",
+      "activity_id": "spor-six-16",
+      "periods": 10,
+      "activity_total_periods": 60,
+      "teaching_learning_activities": [
+        "Guided practice: \nGuide students to form \nteams and play by \nobserving rules and \nregulations of selected \nsports",
+        "Peer teaching: Lead  \nin pairs to give feedback to \neach other on rules \nand regulation when \nplaying selected sports"
+      ],
+      "assessment": "Rules and \nregulations \ngoverning \nselected sports: \nBasketball, \nvolleyball, \nhandball, table \ntennis and \ntennis are well \nobserved",
+      "resources": [
+        "Specific \nsports rules, \nregulations, \nwhistles, score \nsheets, flag \nand electronic \nofficiating \ndevices"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "4.0 Conduct a \nproject in \nsports",
+      "specific_competence": "4.1 Design and \nconduct a project \nin sports",
+      "learning_activity": "Complete and submit \nfor assessment the \nproject initiated in \nForm Five",
+      "activity_id": "spor-six-17",
+      "periods": 9,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Project: Lead students \nin pairs to write and \nsubmit a project report  \non sports challenges in \nTanzania"
+      ],
+      "assessment": "A project is \ncompleted and \nsubmitted",
+      "resources": [
+        "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "4.0 Conduct a \nproject in \nsports",
+      "specific_competence": "4.1 Design and \nconduct a project \nin sports",
+      "learning_activity": "Complete and submit \nfor assessment the \nproject initiated in \nForm Five",
+      "activity_id": "spor-six-17",
+      "periods": 9,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Project: Lead students \nin pairs to write and \nsubmit a project report  \non sports challenges in \nTanzania"
+      ],
+      "assessment": "A project is \ncompleted and \nsubmitted",
+      "resources": [
+        "Newspaper, \nmagazine, \nsport \ndocumentary \nvideos, sport \nsessions in \ntelevision and \nradio"
+      ],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Sport Studies for Advanced Secondary Schools Form Six: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

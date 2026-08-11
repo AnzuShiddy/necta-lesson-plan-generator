@@ -1,0 +1,1335 @@
+{
+  "subject": "Theatre Arts",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 5,
+  "total_periods": 175,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.1  Demonstrate an understanding of the development of theatre arts and its major trends",
+      "learning_activity": "(a)  Describe the major trends in the development of theatre worldwide (naturalism, realism, symbolism, expressionism and theatre of the absurd)",
+      "activity_id": "thea-five-1",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to search on the major trends in the development of theatre worldwide",
+        "Think-ink-pair-share: Guide students into collaborative learning in answering questions based on the major trends in the development of theatre worldwide",
+        "Snow-balling: Guide students to summarize the major trends in the development of theatre worldwide"
+      ],
+      "assessment": "Major trends in the development of theatre worldwide well described",
+      "resources": [
+        "Videos of theatre arts movements and trends"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.1  Demonstrate an understanding of the development of theatre arts and its major trends",
+      "learning_activity": "(b)  Explain the major trends in the development of theatre in Africa (theatre for social change)",
+      "activity_id": "thea-five-2",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to search the major trends in the development of theatre in Africa",
+        "Case study: Organize students into conducting depth examination and analysis to distinguish theatre for social change events from other events and situation"
+      ],
+      "assessment": "Trends in the development of theatre in Africa well described",
+      "resources": [
+        "Videos of theatre arts movement and trends"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.1  Demonstrate an understanding of the development of theatre arts and its major trends",
+      "learning_activity": "(b)  Explain the major trends in the development of theatre in Africa (theatre for social change)",
+      "activity_id": "thea-five-2",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to search the major trends in the development of theatre in Africa",
+        "Case study: Organize students into conducting depth examination and analysis to distinguish theatre for social change events from other events and situation"
+      ],
+      "assessment": "Trends in the development of theatre in Africa well described",
+      "resources": [
+        "Videos of theatre arts movement and trends"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+      "learning_activity": "(a)  Explain the emergence and development of scriptwriting for stage, film, radio and television",
+      "activity_id": "thea-five-3",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to understand the development of scriptwriting for stage, film, radio and television",
+        "Group discussion: Help students to actively contribute to the discussion of emergence of scriptwriting for stage, film, radio and television",
+        "Snow-balling: Use snow-balling to summarize the importance of scriptwriting for stage, film, radio and television"
+      ],
+      "assessment": "The emergence and development of scriptwriting for stage, film, radio and television well explained",
+      "resources": [
+        "Written script for film, radio and television"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+      "learning_activity": "(b) Describe principles of scriptwriting for stage, film, radio and television",
+      "activity_id": "thea-five-4",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to explore theories of scriptwriting",
+        "Jigsaw Learning approach: Guide students through jigsaw, to understand the principles of scriptwriting for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm the relationship between scholars and their principles"
+      ],
+      "assessment": "Principles of scriptwriting for stage, film, radio and television clearly described",
+      "resources": [
+        "Written scripts for film, radio and television"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+      "learning_activity": "(c) Describe various software used for scriptwriting (Celtx, Movie Magic screenwriter)",
+      "activity_id": "thea-five-5",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm various software used for scriptwriting",
+        "ICT-based learning: Guide students to use mobile application and web-based learning to explore various software used for scriptwriting"
+      ],
+      "assessment": "Various software used for scriptwriting well described",
+      "resources": [
+        "Software used for scriptwriting Celtx, Movie Magic screenwriter"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.2  Demonstrate an understanding of the history and principles of scriptwriting, acting and directing",
+      "learning_activity": "(c) Describe various software used for scriptwriting (Celtx, Movie Magic screenwriter)",
+      "activity_id": "thea-five-5",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm various software used for scriptwriting",
+        "ICT-based learning: Guide students to use mobile application and web-based learning to explore various software used for scriptwriting"
+      ],
+      "assessment": "Various software used for scriptwriting well described",
+      "resources": [
+        "Software used for scriptwriting Celtx, Movie Magic screenwriter"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+      "learning_activity": "(a) Describe the methods and techniques of identifying an ideal performing space",
+      "activity_id": "thea-five-6",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm the methods and techniques of identifying an ideal performing space",
+        "ICT-based learning: Guide students to use mobile application and web-based learning to explore the methods and techniques of identifying an ideal performing space"
+      ],
+      "assessment": "The methods and techniques of identifying an ideal performing space well described",
+      "resources": [
+        "Videos of identifying an ideal performing space"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+      "learning_activity": "(a) Describe the methods and techniques of identifying an ideal performing space",
+      "activity_id": "thea-five-6",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm the methods and techniques of identifying an ideal performing space",
+        "ICT-based learning: Guide students to use mobile application and web-based learning to explore the methods and techniques of identifying an ideal performing space"
+      ],
+      "assessment": "The methods and techniques of identifying an ideal performing space well described",
+      "resources": [
+        "Videos of identifying an ideal performing space"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+      "learning_activity": "(b) Design an area for staging a theatrical performance",
+      "activity_id": "thea-five-7",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Visit/tours: Guide students to visit theatre performances to see how theatre spaces are designed"
+      ],
+      "assessment": "An area for staging a theatrical performance well designed",
+      "resources": [
+        "Videos of designing various areas for staging a theatrical performance"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0  Demonstrate mastery of some advanced concepts, theories and principles of theatre arts",
+      "specific_competence": "1.3 Demonstrate mastery of the methods of identifying an ideal performing space",
+      "learning_activity": "(b) Design an area for staging a theatrical performance",
+      "activity_id": "thea-five-7",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Visit/tours: Guide students to visit theatre performances to see how theatre spaces are designed"
+      ],
+      "assessment": "An area for staging a theatrical performance well designed",
+      "resources": [
+        "Videos of designing various areas for staging a theatrical performance"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 2,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 5,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 5,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 5,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.1  Compose theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Write script for stage, film, radio and television",
+      "activity_id": "thea-five-8",
+      "periods": 1,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Group discussion: Guide the student to discuss the differences between writing for stage, film, radio and television",
+        "Improvisation: Guide the students into manageable group to write script for stage, film, radio and television",
+        "Brainstorming: Guide students to brainstorm for performance feedback for more improvement"
+      ],
+      "assessment": "Stage, film, radio and television scripts well written",
+      "resources": [
+        "Drama videos, microphone, Public Address system (PA), stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 9,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Perform for stage and film",
+      "activity_id": "thea-five-9",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for stage and film"
+      ],
+      "assessment": "Stage and film well performed",
+      "resources": [
+        "Scripts, props, costumes, stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Perform for stage and film",
+      "activity_id": "thea-five-9",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for stage and film"
+      ],
+      "assessment": "Stage and film well performed",
+      "resources": [
+        "Scripts, props, costumes, stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Perform for stage and film",
+      "activity_id": "thea-five-9",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for stage and film"
+      ],
+      "assessment": "Stage and film well performed",
+      "resources": [
+        "Scripts, props, costumes, stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Perform for stage and film",
+      "activity_id": "thea-five-9",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for stage and film"
+      ],
+      "assessment": "Stage and film well performed",
+      "resources": [
+        "Scripts, props, costumes, stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(a)  Perform for stage and film",
+      "activity_id": "thea-five-9",
+      "periods": 1,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for stage and film"
+      ],
+      "assessment": "Stage and film well performed",
+      "resources": [
+        "Scripts, props, costumes, stage lights and visual elements"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(b)  Perform for radio drama and television drama",
+      "activity_id": "thea-five-10",
+      "periods": 4,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for radio and television drama"
+      ],
+      "assessment": "Radio drama and television drama well performed",
+      "resources": [
+        "Drama videos, microphone, props, costumes and Public Address system (PA)"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(b)  Perform for radio drama and television drama",
+      "activity_id": "thea-five-10",
+      "periods": 5,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for radio and television drama"
+      ],
+      "assessment": "Radio drama and television drama well performed",
+      "resources": [
+        "Drama videos, microphone, props, costumes and Public Address system (PA)"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(b)  Perform for radio drama and television drama",
+      "activity_id": "thea-five-10",
+      "periods": 5,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for radio and television drama"
+      ],
+      "assessment": "Radio drama and television drama well performed",
+      "resources": [
+        "Drama videos, microphone, props, costumes and Public Address system (PA)"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.2  Perform and direct theatrical works for stage, film, radio and television",
+      "learning_activity": "(b)  Perform for radio drama and television drama",
+      "activity_id": "thea-five-10",
+      "periods": 5,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Improvisation: Guide the students into manageable group to perform for radio and television drama"
+      ],
+      "assessment": "Radio drama and television drama well performed",
+      "resources": [
+        "Drama videos, microphone, props, costumes and Public Address system (PA)"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.3  Use ICT in theatre arts",
+      "learning_activity": "(a)  Use digital technology to produce stage and film programmes",
+      "activity_id": "thea-five-11",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to produce stage and film programmes",
+        "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+      ],
+      "assessment": "Digital technology in producing stage and film programmes effectively used",
+      "resources": [
+        "Camera and accessories, sound recording equipment, light equipment, microphone, props and costumes"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.3  Use ICT in theatre arts",
+      "learning_activity": "(a)  Use digital technology to produce stage and film programmes",
+      "activity_id": "thea-five-11",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to produce stage and film programmes",
+        "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+      ],
+      "assessment": "Digital technology in producing stage and film programmes effectively used",
+      "resources": [
+        "Camera and accessories, sound recording equipment, light equipment, microphone, props and costumes"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.3  Use ICT in theatre arts",
+      "learning_activity": "(a)  Use digital technology to produce stage and film programmes",
+      "activity_id": "thea-five-11",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to produce stage and film programmes",
+        "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+      ],
+      "assessment": "Digital technology in producing stage and film programmes effectively used",
+      "resources": [
+        "Camera and accessories, sound recording equipment, light equipment, microphone, props and costumes"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.3  Use ICT in theatre arts",
+      "learning_activity": "(a)  Use digital technology to produce stage and film programmes",
+      "activity_id": "thea-five-11",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "ICT-based learning: Guide students to use mobile application and web-based learning to produce stage and film programmes",
+        "Self-reflection: Guide students to answer formulated questions in relation to the programs produced"
+      ],
+      "assessment": "Digital technology in producing stage and film programmes effectively used",
+      "resources": [
+        "Camera and accessories, sound recording equipment, light equipment, microphone, props and costumes"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+      "learning_activity": "(a)  Describe the rights and responsibilities of an artist",
+      "activity_id": "thea-five-12",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Resourceful person: Invite resourceful person from the ethical organisation to clarify and share experiences about the rights and responsibilities of an artist",
+        "Brainstorming: Guide students to brainstorm the rights and responsibilities of an artist"
+      ],
+      "assessment": "The rights and responsibilities of an artist",
+      "resources": [
+        "Videos of rights and responsibilities of an artist"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+      "learning_activity": "(b)  Identify the regulatory institutions and organisations dealing with the rights of an artist",
+      "activity_id": "thea-five-13",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm the regulatory institutions and organisations dealing with the rights of an artist"
+      ],
+      "assessment": "The regulatory institutions and organisations dealing with the rights of an artist well identified",
+      "resources": [
+        "Videos of rights and responsibilities of an artist"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+      "learning_activity": "(b)  Identify the regulatory institutions and organisations dealing with the rights of an artist",
+      "activity_id": "thea-five-13",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm the regulatory institutions and organisations dealing with the rights of an artist"
+      ],
+      "assessment": "The regulatory institutions and organisations dealing with the rights of an artist well identified",
+      "resources": [
+        "Videos of rights and responsibilities of an artist"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+      "learning_activity": "(c)  Discuss ethical issues in theatrical productions focusing on mise-en-scene (stage and film)",
+      "activity_id": "thea-five-14",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss ethical issues in theatrical productions"
+      ],
+      "assessment": "Ethical issues in theatrical productions focusing on mise-en-scene well discussed",
+      "resources": [
+        "Videos of ethical issues in theatrical productions"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "2.0  Perform theatre arts",
+      "specific_competence": "2.4 Demonstrate an understanding of ethics and professional conduct in theatre arts",
+      "learning_activity": "(c)  Discuss ethical issues in theatrical productions focusing on mise-en-scene (stage and film)",
+      "activity_id": "thea-five-14",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students in groups to discuss ethical issues in theatrical productions"
+      ],
+      "assessment": "Ethical issues in theatrical productions focusing on mise-en-scene well discussed",
+      "resources": [
+        "Videos of ethical issues in theatrical productions"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.1  Demonstrate an understanding of the theories and principles related to the use of body language in theatrical works",
+      "learning_activity": "(a)  Explain principles of using body language",
+      "activity_id": "thea-five-15",
+      "periods": 3,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Mime and pantomime: Organise students in manageable groups to imitate life from their surroundings to create drama through mime and pantomime",
+        "Observation checklist: Guide students by giving them set of questions to evaluate the mime and pantomime performance"
+      ],
+      "assessment": "Principles of using body language well explained",
+      "resources": [
+        "Videos of various body language"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.1  Demonstrate an understanding of the theories and principles related to the use of body language in theatrical works",
+      "learning_activity": "(a)  Explain principles of using body language",
+      "activity_id": "thea-five-15",
+      "periods": 1,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Mime and pantomime: Organise students in manageable groups to imitate life from their surroundings to create drama through mime and pantomime",
+        "Observation checklist: Guide students by giving them set of questions to evaluate the mime and pantomime performance"
+      ],
+      "assessment": "Principles of using body language well explained",
+      "resources": [
+        "Videos of various body language"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.1  Demonstrate an understanding of the theories and principles related to the use of body language in theatrical works",
+      "learning_activity": "(b)  Describe theories of using body language",
+      "activity_id": "thea-five-16",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Improvisation and performance: Organise students in manageable groups to improvise and perform short plays basing on Konstantine Stanislavsky theories",
+        "Observation checklist: Guide students by giving them set of questions to evaluate the Konstantin Stanislavsky theories"
+      ],
+      "assessment": "Theories of using body language effectively described",
+      "resources": [
+        "Videos of various body language"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w10-3",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.2  Use body language to prepare and present theatrical works",
+      "learning_activity": "(a)  Produce a mimetic play",
+      "activity_id": "thea-five-17",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvision and performance: Organise manageable groups to rehearse and produce mimetic play",
+        "Self reflection: Guide students to answer fomulated questions in relation to mimetic play produced and performed"
+      ],
+      "assessment": "A mimetic play is professionally produced",
+      "resources": [
+        "Videos of mimetic plays"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.2  Use body language to prepare and present theatrical works",
+      "learning_activity": "(a)  Produce a mimetic play",
+      "activity_id": "thea-five-17",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvision and performance: Organise manageable groups to rehearse and produce mimetic play",
+        "Self reflection: Guide students to answer fomulated questions in relation to mimetic play produced and performed"
+      ],
+      "assessment": "A mimetic play is professionally produced",
+      "resources": [
+        "Videos of mimetic plays"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.2  Use body language to prepare and present theatrical works",
+      "learning_activity": "(a)  Produce a mimetic play",
+      "activity_id": "thea-five-17",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvision and performance: Organise manageable groups to rehearse and produce mimetic play",
+        "Self reflection: Guide students to answer fomulated questions in relation to mimetic play produced and performed"
+      ],
+      "assessment": "A mimetic play is professionally produced",
+      "resources": [
+        "Videos of mimetic plays"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "3.0  Demonstrate mastery of the creative use of language in theatre",
+      "specific_competence": "3.2  Use body language to prepare and present theatrical works",
+      "learning_activity": "(a)  Produce a mimetic play",
+      "activity_id": "thea-five-17",
+      "periods": 5,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Improvision and performance: Organise manageable groups to rehearse and produce mimetic play",
+        "Self reflection: Guide students to answer fomulated questions in relation to mimetic play produced and performed"
+      ],
+      "assessment": "A mimetic play is professionally produced",
+      "resources": [
+        "Videos of mimetic plays"
+      ],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Theatre Arts for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

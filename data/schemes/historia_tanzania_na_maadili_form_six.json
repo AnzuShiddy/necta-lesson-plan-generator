@@ -1,0 +1,1434 @@
+{
+  "subject": "Historia ya Tanzania na Maadili",
+  "form": "Form Six",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 4,
+  "total_periods": 132,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kueleza dhana na chimbuko la ukoloni mamboleo",
+      "activity_id": "hist-six-31",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Banguabongo ongoza wanafunzi katika makundi kufafanua maana na sifa ya ukoloni mamboleo",
+        "Fikiri-andika-jozisha-shirikisha wezesha wanafunzi kushiriki katika kuelezea chimbuko la ukoloni mamboleo"
+      ],
+      "assessment": "Dhana na chimbuko la ukoloni mamboleo vimeelezwa kwa usahihi",
+      "resources": [
+        "Matini vifaa vya TEHEMA kama flashi, kompyuta na TV zenye hotuba na maudhui ya ukoloni maombaleo"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kueleza dhana na chimbuko la ukoloni mamboleo",
+      "activity_id": "hist-six-31",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Banguabongo ongoza wanafunzi katika makundi kufafanua maana na sifa ya ukoloni mamboleo",
+        "Fikiri-andika-jozisha-shirikisha wezesha wanafunzi kushiriki katika kuelezea chimbuko la ukoloni mamboleo"
+      ],
+      "assessment": "Dhana na chimbuko la ukoloni mamboleo vimeelezwa kwa usahihi",
+      "resources": [
+        "Matini vifaa vya TEHEMA kama flashi, kompyuta na TV zenye hotuba na maudhui ya ukoloni maombaleo"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kuchambua athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili",
+      "activity_id": "hist-six-32",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete wezesha wanafunzi katika makundi madogo madogo kubainisha athari za ukoloni mamboleo",
+        "Majadiliano ongoza wanafunzi kuchanganua athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili"
+      ],
+      "assessment": "Athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili vimechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati inayo onesha athari za ukoloni mamboleo.",
+        "Magazeti, Makala, vifaa vya TEHAMA vinavyoelezea hotuba za watu mbalimbali kuhusu ukoloni mamboleo."
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kuchambua athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili",
+      "activity_id": "hist-six-32",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete wezesha wanafunzi katika makundi madogo madogo kubainisha athari za ukoloni mamboleo",
+        "Majadiliano ongoza wanafunzi kuchanganua athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili"
+      ],
+      "assessment": "Athari za ukoloni mamboleo kwa Tanzania kiuchumi, kisiasa, kijamii kiutamaduni na kimaadili vimechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati inayo onesha athari za ukoloni mamboleo.",
+        "Magazeti, Makala, vifaa vya TEHAMA vinavyoelezea hotuba za watu mbalimbali kuhusu ukoloni mamboleo."
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kutathmini mikakati ya kitaifa katika kupambana na ukoloni mamboleo",
+      "activity_id": "hist-six-33",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Mtaalamu Mualikwa Mualike na muongoze mtaalamu kuongea na wanafunzi kuhusu mikakati ya kitaifa ya kupambana na ukoloni mamboleo",
+        "Tafakuri ongoza wanafunzi kwa kuuliza maswali kutafakari maelezo ya mtaalamu juu ya mikakati ya kitaifa katika kupambana na ukoloni mamboleo"
+      ],
+      "assessment": "Mikakati ya kitaifa katika kupambana na ukoloni mamboleo imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati inayoonesha mikakati ya kupambana na ukoloni mamboleo",
+        "vifaa vya TEHAMA vinavyoelezea mapambano ya ukoloni mamboleo"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kumudu chimbuko la ukoloni mamboleo",
+      "learning_activity": "Kutathmini mikakati ya kitaifa katika kupambana na ukoloni mamboleo",
+      "activity_id": "hist-six-33",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Mtaalamu Mualikwa Mualike na muongoze mtaalamu kuongea na wanafunzi kuhusu mikakati ya kitaifa ya kupambana na ukoloni mamboleo",
+        "Tafakuri ongoza wanafunzi kwa kuuliza maswali kutafakari maelezo ya mtaalamu juu ya mikakati ya kitaifa katika kupambana na ukoloni mamboleo"
+      ],
+      "assessment": "Mikakati ya kitaifa katika kupambana na ukoloni mamboleo imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati inayoonesha mikakati ya kupambana na ukoloni mamboleo",
+        "vifaa vya TEHAMA vinavyoelezea mapambano ya ukoloni mamboleo"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kueleza chimbuko la mifumo ya ulinzi na usalama wa taifa",
+      "activity_id": "hist-six-34",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Mtaalamu mualikwa ongoza wanafunzi kumsikiliza mtaalamu akieleza chimbuko la mifumo ya usalama wa taifa",
+        "Maswali na Majibu toa maswali kuhusu chimbuko la mifumo ya ulinzi na usalama wa Taifa baada ya uhuru ili kupata ufahamu wa pamoja"
+      ],
+      "assessment": "Chimbuko la mifumo ya ulinzi na usalama wa taifa limeelezwa kwa usahihi",
+      "resources": [
+        "Matini, chati, vifaa vya TEHAMA kama flashi yenye kuonesha hotuba za viongozi na magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kueleza chimbuko la mifumo ya ulinzi na usalama wa taifa",
+      "activity_id": "hist-six-34",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Mtaalamu mualikwa ongoza wanafunzi kumsikiliza mtaalamu akieleza chimbuko la mifumo ya usalama wa taifa",
+        "Maswali na Majibu toa maswali kuhusu chimbuko la mifumo ya ulinzi na usalama wa Taifa baada ya uhuru ili kupata ufahamu wa pamoja"
+      ],
+      "assessment": "Chimbuko la mifumo ya ulinzi na usalama wa taifa limeelezwa kwa usahihi",
+      "resources": [
+        "Matini, chati, vifaa vya TEHAMA kama flashi yenye kuonesha hotuba za viongozi na magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kuchambua hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru",
+      "activity_id": "hist-six-35",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete ongoza wanafunzi kubainisha na kuelezea hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru",
+        "Tafakuri ongoza wanafunzi kutafakari mabadiliko hayo"
+      ],
+      "assessment": "Hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kuchambua hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru",
+      "activity_id": "hist-six-35",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete ongoza wanafunzi kubainisha na kuelezea hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru",
+        "Tafakuri ongoza wanafunzi kutafakari mabadiliko hayo"
+      ],
+      "assessment": "Hatua za mabadiliko ya mifumo ya ulinzi na usalama wa taifa baada ya uhuru zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kutathmini nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa",
+      "activity_id": "hist-six-36",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kupima nafasi ya maadili katika kuimarisha mifumo imara ya ulinzi na usalama katika jamii",
+        "Majadiliano ongoza wanafunzi jadili nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa"
+      ],
+      "assessment": "Nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati ya uhusiano kati ya maadili na mifumo ya ulinzi na usalama"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kutathmini nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa",
+      "activity_id": "hist-six-36",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kupima nafasi ya maadili katika kuimarisha mifumo imara ya ulinzi na usalama katika jamii",
+        "Majadiliano ongoza wanafunzi jadili nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa"
+      ],
+      "assessment": "Nafasi ya maadili katika kujenga mifumo imara ya ulinzi na usalama wa taifa imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati ya uhusiano kati ya maadili na mifumo ya ulinzi na usalama"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kujadili umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama",
+      "activity_id": "hist-six-37",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu Ongoza wanafunzi kujibu maswali kuhusu umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama",
+        "Kisamafunzo Ongoza wanafunzi kuigiza kisa kuonesha umuhimu wa ulinzi na usalama",
+        "Majadiliano ongoza wanafunzi katika vikundi kujadili umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama"
+      ],
+      "assessment": "Umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama umezjadiliwa kwa kina",
+      "resources": [
+        "Matini, magazeti na nyaraka"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-3",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mabadiliko ya mifumo ya ulinzi na usalama wa taifa",
+      "learning_activity": "Kujadili umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama",
+      "activity_id": "hist-six-37",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu Ongoza wanafunzi kujibu maswali kuhusu umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama",
+        "Kisamafunzo Ongoza wanafunzi kuigiza kisa kuonesha umuhimu wa ulinzi na usalama",
+        "Majadiliano ongoza wanafunzi katika vikundi kujadili umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama"
+      ],
+      "assessment": "Umuhimu wa wananchi kushiriki katika shughuli za ulinzi na usalama umezjadiliwa kwa kina",
+      "resources": [
+        "Matini, magazeti na nyaraka"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kueleza chimbuko na misingi ya Sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania",
+      "activity_id": "hist-six-38",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete wezesha wanafunzi kuchambua chimbuko na misingi ya Sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania"
+      ],
+      "assessment": "Chimbuko na misingi ya sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania imeelezwa kikamilifu",
+      "resources": [
+        "Matini, Sera za mambo ya nje za Jamhuri ya Muungano wa Tanzania"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kueleza chimbuko na misingi ya Sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania",
+      "activity_id": "hist-six-38",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Changanyakete wezesha wanafunzi kuchambua chimbuko na misingi ya Sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania"
+      ],
+      "assessment": "Chimbuko na misingi ya sera ya mambo ya nje ya Jamhuri ya Muungano wa Tanzania imeelezwa kikamilifu",
+      "resources": [
+        "Matini, Sera za mambo ya nje za Jamhuri ya Muungano wa Tanzania"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kujadili mabadiliko ya Sera ya mambo ya nje na uhusiano wa kimataifa tangu 1964",
+      "activity_id": "hist-six-39",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi katika makundi kubaini sababu zilizopelekea mabadiliko ya Sera ya mambo ya nje",
+        "Majadiliano ongoza wanafunzi kujadili mabadiliko ya Sera ya mambo ya nje na uhusiano wa kimataifa mpaka 1966 nchini Tanzania"
+      ],
+      "assessment": "Mabadiliko ya sera ya mambo ya nje na uhusiano wa kimataifa tangu 1964 yamejadiliwa kwa kina",
+      "resources": [
+        "Matini, Sera mbalimbali za mambo ya nje za Jamhuri ya Muungano wa Tanzania"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kujadili mabadiliko ya Sera ya mambo ya nje na uhusiano wa kimataifa tangu 1964",
+      "activity_id": "hist-six-39",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi katika makundi kubaini sababu zilizopelekea mabadiliko ya Sera ya mambo ya nje",
+        "Majadiliano ongoza wanafunzi kujadili mabadiliko ya Sera ya mambo ya nje na uhusiano wa kimataifa mpaka 1966 nchini Tanzania"
+      ],
+      "assessment": "Mabadiliko ya sera ya mambo ya nje na uhusiano wa kimataifa tangu 1964 yamejadiliwa kwa kina",
+      "resources": [
+        "Matini, Sera mbalimbali za mambo ya nje za Jamhuri ya Muungano wa Tanzania"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12-2",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kuchambua nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania",
+      "activity_id": "hist-six-40",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na ongoza wanafunzi kusoma kisa chenye mada ya nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili",
+        "Fikiri-andika-jozisha-shirikisha ongoza wanafunzi kutafakari-na kujadiliana juu ya nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania"
+      ],
+      "assessment": "Nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania imechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha maadili na misingi ya Sera ya mambo ya nje,",
+        "Matini yenye sera ya mambo ya nje"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kuchambua visababishi vya mabadiliko ya sera ya mambo ya nje na uhusiano ya kimataifa",
+      "learning_activity": "Kuchambua nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania",
+      "activity_id": "hist-six-40",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na ongoza wanafunzi kusoma kisa chenye mada ya nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili",
+        "Fikiri-andika-jozisha-shirikisha ongoza wanafunzi kutafakari-na kujadiliana juu ya nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania"
+      ],
+      "assessment": "Nafasi ya Sera ya mambo ya nje na uhusiano wa kimataifa katika kudumisha na kulinda maadili ya Kitanzania imechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha maadili na misingi ya Sera ya mambo ya nje,",
+        "Matini yenye sera ya mambo ya nje"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kueleza falsafa ya Mapinduzi Matukufu ya Zanzibar",
+      "activity_id": "hist-six-41",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo ongoza wanafunzi kujadili kisamafunzo kuhusu falsafa ya Mapinduzi Matukufu ya Zanzibar"
+      ],
+      "assessment": "Falsafa ya Mapinduzi Matukufu ya Zanzibar imeelezwa kikamilifu",
+      "resources": [
+        "Matini yenye matukio ya falsafa ya mapinduzi matukufu ya Zanzibar,",
+        "Vifaa vya TEHAMA kama flashi, kompyuta na TV vinavyoonesha matukio ya mapinduzi ya Zanzibar"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kueleza falsafa ya Mapinduzi Matukufu ya Zanzibar",
+      "activity_id": "hist-six-41",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo ongoza wanafunzi kujadili kisamafunzo kuhusu falsafa ya Mapinduzi Matukufu ya Zanzibar"
+      ],
+      "assessment": "Falsafa ya Mapinduzi Matukufu ya Zanzibar imeelezwa kikamilifu",
+      "resources": [
+        "Matini yenye matukio ya falsafa ya mapinduzi matukufu ya Zanzibar,",
+        "Vifaa vya TEHAMA kama flashi, kompyuta na TV vinavyoonesha matukio ya mapinduzi ya Zanzibar"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kujadili mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa",
+      "activity_id": "hist-six-42",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kujadili sababu na kilichopelekea kutokea Mapinduzi Matukufu ya Zanzibar",
+        "Majadiliano ongoza wanafunzi kujadili kwa kina mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa"
+      ],
+      "assessment": "Mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa umezjadiliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kujadili mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa",
+      "activity_id": "hist-six-42",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kujadili sababu na kilichopelekea kutokea Mapinduzi Matukufu ya Zanzibar",
+        "Majadiliano ongoza wanafunzi kujadili kwa kina mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa"
+      ],
+      "assessment": "Mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja na amani ya kitaifa umezjadiliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kuchambua matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar",
+      "activity_id": "hist-six-43",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Igizo dhima ongoza wanafunzi kuigiza matendo ya kimaadili yanayofanywa katika kuenzi Mapinduzi Matukufu ya Zanzibar. Waandike matendo hayo waliyoyaona na kuigiza",
+        "Matembezi ya Galari (Gallery Walk) ongoza wanafunzi kwenye matembezi ya galari kuona na kutafsiri matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar"
+      ],
+      "assessment": "Matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar yamechambuliwa kwa kina",
+      "resources": [
+        "Matini",
+        "magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "Kumudu historia ya ujenzi wa taifa na maadili yake katika kipindi cha 1961- 1966",
+      "specific_competence": "Kutathmini mchango wa Mapinduzi Matukufu ya Zanzibar katika kudumisha uhuru, umoja, na amani ya kitaifa.",
+      "learning_activity": "Kuchambua matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar",
+      "activity_id": "hist-six-43",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Igizo dhima ongoza wanafunzi kuigiza matendo ya kimaadili yanayofanywa katika kuenzi Mapinduzi Matukufu ya Zanzibar. Waandike matendo hayo waliyoyaona na kuigiza",
+        "Matembezi ya Galari (Gallery Walk) ongoza wanafunzi kwenye matembezi ya galari kuona na kutafsiri matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar"
+      ],
+      "assessment": "Matendo ya kimaadili katika kuenzi Mapinduzi Matukufu ya Zanzibar yamechambuliwa kwa kina",
+      "resources": [
+        "Matini",
+        "magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kufafanua falsafa ya Azimio la Arusha",
+      "activity_id": "hist-six-44",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu ongoza wanafunzi kushiriki kujibu maswali katika kuelezea falsafa ya Azimio la Arusha"
+      ],
+      "assessment": "Falsafa ya Azimio la Arusha imefafanuliwa kwa usahihi",
+      "resources": [
+        "Matini, hotuba za viongozi, makala na filamu za matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kufafanua falsafa ya Azimio la Arusha",
+      "activity_id": "hist-six-44",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu ongoza wanafunzi kushiriki kujibu maswali katika kuelezea falsafa ya Azimio la Arusha"
+      ],
+      "assessment": "Falsafa ya Azimio la Arusha imefafanuliwa kwa usahihi",
+      "resources": [
+        "Matini, hotuba za viongozi, makala na filamu za matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kutathmini mifumo na misingi mipya ya kimaadili iliyoanzishwa na Azimio la Arusha",
+      "activity_id": "hist-six-45",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kupima maadili yaliojengwa na Azimio la Arusha",
+        "Changanyakete wezesha wanafunzi katika vikundi kuchambua na kupima mifumo na misingi mipya ya kimaadili iliyojengwa na Azimio la Arusha"
+      ],
+      "assessment": "Mifumo na misingi mipya ya kimaadili iliyoanzishwa na Azimio la Arusha imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha misingi ya kimaadili iliyoanzishwa",
+        "Matini ya Azimio la Arusha."
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kutathmini mifumo na misingi mipya ya kimaadili iliyoanzishwa na Azimio la Arusha",
+      "activity_id": "hist-six-45",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kupima maadili yaliojengwa na Azimio la Arusha",
+        "Changanyakete wezesha wanafunzi katika vikundi kuchambua na kupima mifumo na misingi mipya ya kimaadili iliyojengwa na Azimio la Arusha"
+      ],
+      "assessment": "Mifumo na misingi mipya ya kimaadili iliyoanzishwa na Azimio la Arusha imetathminiwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha misingi ya kimaadili iliyoanzishwa",
+        "Matini ya Azimio la Arusha."
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kuchambua athari za Azimio la Arusha kiuchumi, kisiasa, kijamii, kimaadili, kiutamaduni na katika uhusiano wa kimataifa",
+      "activity_id": "hist-six-46",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano ongoza wanafunzi kufanya majadiliano juu ya athari za Azimio la Arusha kiuchumi, kisiasa, kijamii, kimaadili, kiutamaduni na katika uhusiano wa kimataifa",
+        "Fikiri-andika-jozisha-shirikisha wezesha wanafunzi kudadavua athari za Azimio la Arusha katika uhusiano wa kimataifa"
+      ],
+      "assessment": "Athari za Azimio la Arusha, kiuchumi, kisiasa, kijamii, kiutamaduni, kimaadili na katika uhusiano wa kimataifa zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kuchambua athari za Azimio la Arusha kiuchumi, kisiasa, kijamii, kimaadili, kiutamaduni na katika uhusiano wa kimataifa",
+      "activity_id": "hist-six-46",
+      "periods": 4,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano ongoza wanafunzi kufanya majadiliano juu ya athari za Azimio la Arusha kiuchumi, kisiasa, kijamii, kimaadili, kiutamaduni na katika uhusiano wa kimataifa",
+        "Fikiri-andika-jozisha-shirikisha wezesha wanafunzi kudadavua athari za Azimio la Arusha katika uhusiano wa kimataifa"
+      ],
+      "assessment": "Athari za Azimio la Arusha, kiuchumi, kisiasa, kijamii, kiutamaduni, kimaadili na katika uhusiano wa kimataifa zimechambuliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kuchambua chimbuko la Azimio la Arusha na matokeo yake kiuchumi, kisiasa, kiutamaduni na kimaadili.",
+      "learning_activity": "Kutathmini umuhimu (relevance) wa Azimio la Arusha katika mazingira ya sasa",
+      "activity_id": "hist-six-47",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na wape wanafunzi visamafunzo kuhusu Azimio la Arusha ambavyo wavitafakari na kuvichambua umuhimu wake katika jamii",
+        "Tafakuri ongoza wanafunzi kutafakari ili kutathmini umuhimu wa Azimio la Arusha katika mazingira ya sasa"
+      ],
+      "assessment": "Umuhimu (relevance) wa Azimio la Arusha katika mazingira ya sasa umetathminiwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kutathmini nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+      "learning_activity": "Kueleza mchango wa Tanzania katika kuundwa na kukua (evolution) kwa jumuiya za kikanda",
+      "activity_id": "hist-six-48",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Bunguabongo ongoza wanafunzi kubaini mchango wa Tanzania katika uanzishwaji wa jumuiya za kikanda",
+        "Changanyakete ongoza wanafunzi katika vikundi kuchambua mchango wa Tanzania katika kuundwa na kukua kwa jumuiya za kikanda"
+      ],
+      "assessment": "Mchango wa Tanzania katika kuundwa na kukua (evolution) kwa jumuiya za kikanda umeelezwa kwa usahihi",
+      "resources": [
+        "Matini",
+        "Ramani,",
+        "Hotuba za viongozi mbalimbali wa ndani na nje ya nchi"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kutathmini nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+      "learning_activity": "Kuchambua fursa zitokanazo na ushiriki wa Tanzania katika uhusiano wa kikanda",
+      "activity_id": "hist-six-49",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Scenario(kisafikirika) andaa na wape wanafunzi scenario (kisafikirisha) inayoonesha fursa anuai zinazotokana na uhusiano wa kikanda",
+        "Fikiri-andika-jozisha-shirikisha wezesha wanafunzi kufikiri-andika-jozisha-shirikisha fursa zitokanazo na ushiriki wa Tanzania katika uhusiano wa kikanda"
+      ],
+      "assessment": "Fursa zitokanazo na ushiriki wa Tanzania katika uhusiano wa kikanda zimechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha fursa zilizopo katika uhusiano wa kikanda"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kutathmini nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+      "learning_activity": "Kutathmini mchango wa lugha ya Kiswahili katika uhusiano wa kikanda",
+      "activity_id": "hist-six-50",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Maswali na Majibu ongoza wanafunzi kujibu maswali kuhusu mchango wa lugha ya Kiswahili katika uhusiano wa kikanda",
+        "Majadiliano ongoza na wezesha wanafunzi kujadili majibu yaliyotolewa wakati wa maswali na majibu kuhusu mchango wa lugha ya Kiswahili katika uhusiano wa kikanda"
+      ],
+      "assessment": "Mchango wa lugha ya Kiswahili katika uhusiano wa kikanda umetathminiwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "Kutathmini ujenzi wa Taifa na maadili yake wakati wa Azimio la Arusha, 1967-1985",
+      "specific_competence": "Kutathmini nafasi ya Tanzania katika kujenga uhusiano wa kikanda",
+      "learning_activity": "Kutathmini ushiriki wa Tanzania katika mapambano dhidi ya rushwa na ujenzi wa utawala bora kikanda",
+      "activity_id": "hist-six-51",
+      "periods": 4,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Changanyakete ongoza wanafunzi kuchambua na kujadili ushiriki wa Tanzania katika mapambano dhidi ya rushwa na ujenzi wa utawala bora kikanda",
+        "Maswali na majibu Ongoza wanafunzi kujibu maswali juu ya ufanisi wa ushiriki wa Tanzania kwenye mapambano hayo"
+      ],
+      "assessment": "Ushiriki wa Tanzania katika mapambano dhidi ya rushwa na ujenzi wa utawala bora kikanda umetathminiwa kwa kina",
+      "resources": [
+        "Matini, sidii za hotuba za viongozi wa kitaifa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kueleza falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-52",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na ongoza wanafunzi kusoma kisamafunzo kinachoelezea falsafa ya uliberali",
+        "Changanyakete ongoza wanafunzi kuichambua falsafa hiyo ya mabadiliko kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi hiki cha uliberali"
+      ],
+      "assessment": "Falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa imeelezwa kikamilifu",
+      "resources": [
+        "Matini, vitu halisi kompyuta, simu, vishikwambi"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kueleza falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-52",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na ongoza wanafunzi kusoma kisamafunzo kinachoelezea falsafa ya uliberali",
+        "Changanyakete ongoza wanafunzi kuichambua falsafa hiyo ya mabadiliko kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi hiki cha uliberali"
+      ],
+      "assessment": "Falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa imeelezwa kikamilifu",
+      "resources": [
+        "Matini, vitu halisi kompyuta, simu, vishikwambi"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kueleza falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-52",
+      "periods": 1,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kisamafunzo andaa na ongoza wanafunzi kusoma kisamafunzo kinachoelezea falsafa ya uliberali",
+        "Changanyakete ongoza wanafunzi kuichambua falsafa hiyo ya mabadiliko kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi hiki cha uliberali"
+      ],
+      "assessment": "Falsafa ya mabadiliko ya kiuchumi, kisiasa, kiutamaduni, na kimaadili katika kipindi cha uliberali hadi sasa imeelezwa kikamilifu",
+      "resources": [
+        "Matini, vitu halisi kompyuta, simu, vishikwambi"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kujadili athari za mfumo wa kiliberali kiuchumi, kisiasa, kiutamaduni na kimaadili",
+      "activity_id": "hist-six-53",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kazi mradi (Project activity) ongoza wanafunzi kuchunguza athari za uliberali katika jamii zinazowazunguka",
+        "Majadiliano ongoza wanafunzi kujadili athari hizo kiuchumi, kisiasa, kiutamaduni na kimaadili",
+        "Changanyakete ongoza wanafunzi kutathmini athari chanya na athari hasi za mfumo huo wa kiliberali kwa jamii za Kitanzania"
+      ],
+      "assessment": "Athari za mfumo wa kiliberali kiuchumi, kisiasa kiutamaduni na kimaadili zimejadiliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kujadili athari za mfumo wa kiliberali kiuchumi, kisiasa, kiutamaduni na kimaadili",
+      "activity_id": "hist-six-53",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kazi mradi (Project activity) ongoza wanafunzi kuchunguza athari za uliberali katika jamii zinazowazunguka",
+        "Majadiliano ongoza wanafunzi kujadili athari hizo kiuchumi, kisiasa, kiutamaduni na kimaadili",
+        "Changanyakete ongoza wanafunzi kutathmini athari chanya na athari hasi za mfumo huo wa kiliberali kwa jamii za Kitanzania"
+      ],
+      "assessment": "Athari za mfumo wa kiliberali kiuchumi, kisiasa kiutamaduni na kimaadili zimejadiliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kujadili athari za mfumo wa kiliberali kiuchumi, kisiasa, kiutamaduni na kimaadili",
+      "activity_id": "hist-six-53",
+      "periods": 2,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kazi mradi (Project activity) ongoza wanafunzi kuchunguza athari za uliberali katika jamii zinazowazunguka",
+        "Majadiliano ongoza wanafunzi kujadili athari hizo kiuchumi, kisiasa, kiutamaduni na kimaadili",
+        "Changanyakete ongoza wanafunzi kutathmini athari chanya na athari hasi za mfumo huo wa kiliberali kwa jamii za Kitanzania"
+      ],
+      "assessment": "Athari za mfumo wa kiliberali kiuchumi, kisiasa kiutamaduni na kimaadili zimejadiliwa kwa kina",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kuchambua mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-54",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Kutumia Mtaalamu alika mtaalamu na muongoze kuelezea mifumo ya kitaasisi iliyoundwa kulinda maadili",
+        "Changanyakete ongoza wanafunzi kubainisha na kuelezea mifumo hiyo katika kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa"
+      ],
+      "assessment": "Mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa imechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha taasisi zilizoundwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10-3",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kuchambua mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-54",
+      "periods": 4,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Kutumia Mtaalamu alika mtaalamu na muongoze kuelezea mifumo ya kitaasisi iliyoundwa kulinda maadili",
+        "Changanyakete ongoza wanafunzi kubainisha na kuelezea mifumo hiyo katika kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa"
+      ],
+      "assessment": "Mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa imechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha taasisi zilizoundwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "Kutathmini historia ya Tanzania na maadili wakati wa uliberali, 1986 hadi sasa",
+      "specific_competence": "Kutafsiri mabadiliko ya kiuchumi, kisiasa, kiutamaduni na kimaadili katika kipindi cha uliberali na utandawazi kuanzia 1986 hadi sasa",
+      "learning_activity": "Kuchambua mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa katika kipindi cha uliberali hadi sasa",
+      "activity_id": "hist-six-54",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Kutumia Mtaalamu alika mtaalamu na muongoze kuelezea mifumo ya kitaasisi iliyoundwa kulinda maadili",
+        "Changanyakete ongoza wanafunzi kubainisha na kuelezea mifumo hiyo katika kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa"
+      ],
+      "assessment": "Mifumo ya kitaasisi iliyoundwa kuratibu, kulinda na kuzuia vitendo vya ukiukwaji wa maadili ya Taifa imechambuliwa kwa kina",
+      "resources": [
+        "Matini, chati kuonesha taasisi zilizoundwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "specific_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "learning_activity": "Kukamilisha na kuwasilisha taarifa ya kazi mradi kuhusu historia ya Tanzania na maadili ulioianza kidato cha tano",
+      "activity_id": "hist-six-55",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kazimradi Ongoza wanafunzi kufanya kazi mradi katika mada zao kuhusu historia ya Tanzania na maadili (mwendelezo kutoka Kidato chaTano). Kisha, ongoza wanafunzi kuwasilisha kazi zao wakati wanaendelea kuandika ripoti zao za mwisho."
+      ],
+      "assessment": "Utafiti kuhusu historia ya Tanzania na maadili umefanyika kikamilifu",
+      "resources": [
+        "Kompyuta, matini, vinasa sauti, Makala katika magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "specific_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "learning_activity": "Kukamilisha na kuwasilisha taarifa ya kazi mradi kuhusu historia ya Tanzania na maadili ulioianza kidato cha tano",
+      "activity_id": "hist-six-55",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kazimradi Ongoza wanafunzi kufanya kazi mradi katika mada zao kuhusu historia ya Tanzania na maadili (mwendelezo kutoka Kidato chaTano). Kisha, ongoza wanafunzi kuwasilisha kazi zao wakati wanaendelea kuandika ripoti zao za mwisho."
+      ],
+      "assessment": "Utafiti kuhusu historia ya Tanzania na maadili umefanyika kikamilifu",
+      "resources": [
+        "Kompyuta, matini, vinasa sauti, Makala katika magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "specific_competence": "Kufanya kazi mradi ya historia ya Tanzania na maadili",
+      "learning_activity": "Kukamilisha na kuwasilisha taarifa ya kazi mradi kuhusu historia ya Tanzania na maadili ulioianza kidato cha tano",
+      "activity_id": "hist-six-55",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kazimradi Ongoza wanafunzi kufanya kazi mradi katika mada zao kuhusu historia ya Tanzania na maadili (mwendelezo kutoka Kidato chaTano). Kisha, ongoza wanafunzi kuwasilisha kazi zao wakati wanaendelea kuandika ripoti zao za mwisho."
+      ],
+      "assessment": "Utafiti kuhusu historia ya Tanzania na maadili umefanyika kikamilifu",
+      "resources": [
+        "Kompyuta, matini, vinasa sauti, Makala katika magazeti"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Sekondari ya Juu Kidato cha Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

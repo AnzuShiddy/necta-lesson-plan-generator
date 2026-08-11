@@ -1,0 +1,853 @@
+{
+  "subject": "Literature in English",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270828-LITERATURE%20IN%20ENGLISH%20A-LEVEL%20FINAL%20.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Demonstrate a broad understanding of the concepts of literature",
+          "learning_activity": "(a) Explain the aspects of society, artist, imagination, and literary language",
+          "suggested_methods": [
+            "Observation: Guide students in manageable groups through identifying common things found in the selected texts",
+            "Questions and answers: Guide students through using the knowledge gained from the texts to explain the concepts of society, artist, imagination, and literary language",
+            "Discussion: Guide students in manageable groups through discussing the concepts of society, artist, imagination, and literary language"
+          ],
+          "assessment_criteria": "The aspects of society, artist, imagination, specialized language are broadly explained",
+          "suggested_resources": [
+            "Selected literary texts",
+            "folklore materials",
+            "pictures and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "lite-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Demonstrate a broad understanding of the concepts of literature",
+          "learning_activity": "(b) Explain the concept of folklore",
+          "suggested_methods": [
+            "Interview: Guide students through interviewing a resource person on house building styles, jokes, prohibitions and performances (dances, poetry and drama) in their community",
+            "Discussion: Guide students in manageable groups through applying knowledge gained from the interview to discuss the concept of folklore",
+            "Concept mapping: Guide students in manageable groups through discussing the concept of folklore"
+          ],
+          "assessment_criteria": "The concept of folklore is well explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Demonstrate a broad understanding of the concepts of literature",
+          "learning_activity": "(c) Classify written literature in its genres",
+          "suggested_methods": [
+            "Questions and answers: Guide students through classifying written literature in its genres",
+            "Discussion: Guide students in manageable groups through discussing the characteristics of various genres of written literature"
+          ],
+          "assessment_criteria": "Written literature is correctly classified in its genres",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Demonstrate a broad understanding of the concepts of literature",
+          "learning_activity": "(d) Examine the use of imagery in reflecting human experiences in a selected literary work",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing the various life experiences (e.g. work, friendship, graduation, ceremony, vacation and picnic)",
+            "Engagement with a text: Guide students through identifying the way different life experiences are represented in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing the representation of human experiences in a selected literary text"
+          ],
+          "assessment_criteria": "The use of imagery in reflecting human experiences in a selected literary work is well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 12,
+          "id": "lite-five-4"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.2 Evaluate theories of the origin and development of literature nationally and internationally",
+          "learning_activity": "(a) Explain mimetic (imitation), myth and ritual theories",
+          "suggested_methods": [
+            "Dramatisation: Guide students through dramatising various common practices in the community e.g. religious, burial ceremonies, rites of passage and birthday parties",
+            "Discussion: Guide students through using the knowledge gained from the dramatisation to discuss mimetic, myth and ritual theories"
+          ],
+          "assessment_criteria": "Mimetic (imitation), myth and ritual theories are clearly explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "lite-five-5"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.2 Evaluate theories of the origin and development of literature nationally and internationally",
+          "learning_activity": "(b) Examine the contribution of imitation, ritual and mythical elements (plot, setting, resolution, conflict and characters) in a selected literary work",
+          "suggested_methods": [
+            "Close reading: Guide students in manageable groups through analysing the contribution of imitation, ritual and mythical elements in a selected literary text",
+            "Discussion: Guide students through discussing the contribution of imitation, ritual and mythical elements in a selected literary text"
+          ],
+          "assessment_criteria": "The contribution of imitation, ritual and mythical elements in a selected literary work is clearly examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 14,
+          "id": "lite-five-6"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.2 Evaluate theories of the origin and development of literature nationally and internationally",
+          "learning_activity": "(c) Apply mimetic, myth and ritual theories to trace the origin and development of various genres of folklore and written literature",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the different genres of folklore and written literature",
+            "Online reading: Guide students in manageable groups through tracing the origin and development of various genres of folklore and written literature",
+            "Library reading: Guide students in manageable groups through tracing the origin and development of various genres of folklore and written literature"
+          ],
+          "assessment_criteria": "Mimetic, myth and ritual theories are applied correctly in tracing the origin and development of various genres of folklore and written literature",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 15,
+          "id": "lite-five-7"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.3 Explain the origin and development of African literature in English",
+          "learning_activity": "(a) Discuss the relationship between African oral traditions, Western literary conventions and African literature in English",
+          "suggested_methods": [
+            "Concept mapping: Guide students in manageable groups through discussing the concepts of African oral traditions and Western literary conventions",
+            "Investigation: Guide students in manageable groups through investigating the presence of oral traditions and western literary conventions in a selected literary text"
+          ],
+          "assessment_criteria": "The relationship between African oral traditions, Western literary conventions and African literature in English are well discussed",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "lite-five-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.3 Explain the origin and development of African literature in English",
+          "learning_activity": "(b) Discuss the contribution of African authors in the development of African literature in English",
+          "suggested_methods": [
+            "Project: Engage students in collecting and summarising the biographies of African authors",
+            "Discussion: Guide students through discussing the contribution of African authors (e.g., Chinua Achebe, Wole Soyinka, Ngugi wa Thiong’o, Elechi Amadi and Flora Nwapa) in the development of African literature in English"
+          ],
+          "assessment_criteria": "The contribution of African authors in the development of African literature in English is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.3 Explain the origin and development of African literature in English",
+          "learning_activity": "(c) Explore the features of pre-colonial African literature in a selected literary work",
+          "suggested_methods": [
+            "Interview: Task students in manageable groups to interview resource persons on pre-colonial African literatures",
+            "Resource person: Invite a guest speaker to talk about the features of pre-colonial African literature in a selected literary text",
+            "Discussion: Guide students through discussing the features of pre-colonial African literature in a selected literary text"
+          ],
+          "assessment_criteria": "The features of pre-colonial African literature in a literary work are sufficiently explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-10"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.3 Explain the origin and development of African literature in English",
+          "learning_activity": "(d) Explore the features of colonial African literature in a selected literary work",
+          "suggested_methods": [
+            "Discussion: Guide students through discussing the features of colonial African literature in a selected literary text",
+            "Brainstorming: Guide students in manageable groups through brainstorming the features of colonialism (e.g. exploitation, slavery, oppression and segregation)"
+          ],
+          "assessment_criteria": "The features of colonial African literature in a literary work are sufficiently explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-11"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.3 Explain the origin and development of African literature in English",
+          "learning_activity": "(e) Explore the features of post-colonial African literature in a selected literary work",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing features of a post-colonial Africa (e.g. disillussionment, patriotism, nationalism, neo-colonialism, politics and economic activities)",
+            "Discussion: Guide students through discussing the features of post-colonial African in a selected literary text"
+          ],
+          "assessment_criteria": "The features of post-colonial African literature in a literary work are sufficiently explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 19,
+          "id": "lite-five-12"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.4 Analyse the relationship between folklore and written literature",
+          "learning_activity": "(a) Describe the concepts of material culture, social folk custom and performing folk arts",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming on clothing, food, economic activities, households, religious practices, holidays, rites of passage, music (poetry), dance and drama in their society",
+            "Discussion: Guide students through using gained knowledge to describe the concepts of material culture, social folk custom and performing folk arts"
+          ],
+          "assessment_criteria": "The concepts of material culture, social folk custom and performing folk arts are clearly described",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "lite-five-13"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.4 Analyse the relationship between folklore and written literature",
+          "learning_activity": "(b) Identify various forms of folklore in a community (cultural context)",
+          "suggested_methods": [
+            "Resource person: Invite a guest speaker to talk about the various forms of folklore in the community",
+            "Discussion: Guide students through discussing the various forms of folklore in the community"
+          ],
+          "assessment_criteria": "Various forms of folklore in the community are correctly identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-14"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.4 Analyse the relationship between folklore and written literature",
+          "learning_activity": "(c) Identify various forms of folklore used in a selected literary work (created context)",
+          "suggested_methods": [
+            "Close reading: Guide students through identifying forms of folklore in a selected literary text"
+          ],
+          "assessment_criteria": "Various forms of folklore used in a selected literary work are correctly identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-15"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.4 Analyse the relationship between folklore and written literature",
+          "learning_activity": "(d) Examine the relationship between folklore and written literature",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing the relationship between folklore and written literature"
+          ],
+          "assessment_criteria": "The relationship between folklore and written literature is well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-16"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Exhibit an in-depth understanding of elements of literature",
+          "learning_activity": "(a) Explain elements of literature (e.g. setting, theme, message, language, plot, style and character)",
+          "suggested_methods": [
+            "Story telling: Guide students through narrating an event they recently attended or witnessed",
+            "Discussion: Guide students through discussing the elements of the narrated event",
+            "Jigsaw: Guide students through explaining the elements of literature"
+          ],
+          "assessment_criteria": "Elements of literature are well explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "lite-five-17"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Exhibit an in-depth understanding of elements of literature",
+          "learning_activity": "(b) Discuss the significance of each element of literature in a selected literary work",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing the significance of elements of literature in a selected literary text"
+          ],
+          "assessment_criteria": "Significance of each element of literature in a selected literary work is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-18"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Exhibit an in-depth understanding of elements of literature",
+          "learning_activity": "(c) Examine the relationship between form and content in literature",
+          "suggested_methods": [
+            "Role play: Guide students through role playing the following scenario: a farmer has hired a lorry to take his crops to the market (customers) or any other similar scenario to conceptualise the idea of author, literary work and audience",
+            "Story telling: Guide students through narrating stories they know",
+            "Discussion: Guide students through discussing the narrated stories focusing on the relationship between form and content"
+          ],
+          "assessment_criteria": "The relationship between form and content in literature is well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 23,
+          "id": "lite-five-19"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse literary criticism theories",
+          "learning_activity": "(a) Examine the four traditional critical theories (mimetic, pragmatic, objective and expressive)",
+          "suggested_methods": [
+            "Role play: Guide students in manageable groups to role play a doctor and patient to conceptualise the traditional critical theories",
+            "Project: Engage students in reading any material and saying how it imitates the universe, reflects author’s thinking and choices, it addresses the audience thinking and choices and how it gives meaning which is internally driven"
+          ],
+          "assessment_criteria": "The four traditional critical theories are well examined",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "lite-five-20"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse literary criticism theories",
+          "learning_activity": "(b) Explain modern theories of literary criticism (formalism, Marxism, post-colonial, feminism, eco-criticism and social learning theory)",
+          "suggested_methods": [
+            "Project: Engage students in reading about modern theories of literary criticism",
+            "Discussion: Guide students in manageable groups through discussing modern theories of literary criticism"
+          ],
+          "assessment_criteria": "Modern theories of literary criticism are explained clearly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 25,
+          "id": "lite-five-21"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse literary criticism theories",
+          "learning_activity": "(c) Apply modern literary theories in critiquing a selected literary text",
+          "suggested_methods": [
+            "Scaffold reading: Guide students through critiquing a selected literary text using the four scaffold reading stages (setting the scene, assigning tasks, asking questions and giving feedback)"
+          ],
+          "assessment_criteria": "Modern literary theories are applied effectively in critiquing a selected literary text",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-22"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.3 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(a) Apply formalism theory in analysing a selected literary text",
+          "suggested_methods": [
+            "Close reading: Guide students through analysing a selected literary text using formalism theory",
+            "Discussion: Guide students in manageable groups through applying formalism theory to discuss elements of form"
+          ],
+          "assessment_criteria": "Formalism theory is applied effectively in analysing the form of a selected literary text",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "lite-five-23"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.3 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(b) Apply modern literary theories to discuss thematic representation in selected pre-colonial and colonial literary texts",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing issues (themes) in the society",
+            "Engagement with a text: Guide students through interpreting the thematic representation in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing the thematic representation in a selected literary text"
+          ],
+          "assessment_criteria": "Modern literary theories are applied effectively to discuss thematic representation in selected pre-colonial and colonial literary texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-24"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.3 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(c) Relate issues represented in selected pre-colonial and colonial literary texts to real life experiences",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing contemporary issues in the society",
+            "Discussion: Guide students in manageable groups through relating issues represented in a selected text with real life experiences",
+            "Journaling: Guide students through recording their personal experiences and connecting them with those represented in a selected literary text"
+          ],
+          "assessment_criteria": "Issues represented in selected pre-colonial and colonial literary texts are correctly related to real life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-25"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.3 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(d) Discern lessons obtained in selected pre-colonial and colonial literary texts",
+          "suggested_methods": [
+            "Think-Ink-Share: Guide students through sharing real life lessons",
+            "Jig saw: Guide students through discussing lessons obtained from a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing lessons obtained in a selected literary text"
+          ],
+          "assessment_criteria": "Lessons obtained in selected pre-colonial and colonial literary texts are well discerned",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-26"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Use literary works to build rational arguments and judgment",
+          "learning_activity": "(a) Explain the principles for making rational argument and judgment in literature",
+          "suggested_methods": [
+            "Debate: Guide students through debating a selected topic",
+            "Discussion: Guide students in manageable groups in discussing the principles of rational arguments and judgments"
+          ],
+          "assessment_criteria": "Principles for making rational argument and judgment are explained correctly",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "lite-five-27"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Use literary works to build rational arguments and judgment",
+          "learning_activity": "(b) Discuss the actions of the characters in a selected literary text",
+          "suggested_methods": [
+            "Anchor chart: Guide students through analysing the actions of characters in a selected literary text",
+            "Role play: Guide students in manageable groups through role playing the actions of characters in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing actions of characters in a selected literary text"
+          ],
+          "assessment_criteria": "The actions of the characters in a selected literary text are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "lite-five-28"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Use literary works to build rational arguments and judgment",
+          "learning_activity": "(c) Analyse the themes portrayed in a selected literary text",
+          "suggested_methods": [
+            "Observation: Guide students in manageable groups through observing themes portrayed in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing themes portrayed in a selected literary text"
+          ],
+          "assessment_criteria": "The themes portrayed in a selected literary text are correctly analysed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "lite-five-29"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Demonstrate mastery of the principles of composing literary works",
+          "learning_activity": "(a) Distinguish writing for children and writing for adults",
+          "suggested_methods": [
+            "Discussion: Guide students in manageable groups through discussing features of children and adult literatures based on characters, length of the story, setting, illustration, point of view, tone, language and content"
+          ],
+          "assessment_criteria": "Writing for children and writing for adults are correctly distinguished",
+          "suggested_resources": [
+            "Selected literary texts and audio/ audio-visual materials"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-30"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Demonstrate mastery of the principles of composing literary works",
+          "learning_activity": "(b) Discuss the principles of composing a work of literature (point of view, characterisation, plot and conflict)",
+          "suggested_methods": [
+            "Pair work: Guide students through outlining elements of literature",
+            "Discussion: Guide students in manageable groups through discussing the principles of composing a literary work"
+          ],
+          "assessment_criteria": "The principles of composing a literary work are well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 31,
+          "id": "lite-five-31"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Demonstrate mastery of the principles of composing literary works",
+          "learning_activity": "(c) Elaborate the steps for writing a short story (pre-writing, writing, revision, editing and publishing)",
+          "suggested_methods": [
+            "Pair work: Guide students through writing a short story",
+            "Discussion: Guide students in manageable groups through discussing the steps for writing a short story"
+          ],
+          "assessment_criteria": "The steps for writing a short story are well elaborated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-five-32"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(a) Develop a plan for composing a short story (idea, plot, setting and characterisation)",
+          "suggested_methods": [
+            "Graphic organiser: Guide students in manageable groups through developing a plan for composing a short story"
+          ],
+          "assessment_criteria": "A plan for composing a short story is well developed",
+          "suggested_resources": [
+            "ICT tools"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "lite-five-33"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(b) Apply basic skills in creative writing to compose a short story",
+          "suggested_methods": [
+            "Pair work: Guide students through sharing issues they would like to write about",
+            "Collaborative composition: Guide students in pairs or in manageable groups through composing a short story",
+            "Independent composition: Guide individual students through composing a short story"
+          ],
+          "assessment_criteria": "Basic skills in creative writing are correctly applied in composing a short story",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 32,
+          "id": "lite-five-34"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(c) Use ICT tools and digital platforms to write and publish a short story",
+          "suggested_methods": [
+            "Project: Guide students through applying ICT knowledge and writing skills to compose and publish a short story on available platforms"
+          ],
+          "assessment_criteria": "ICT tools and digital platforms are correctly used to write and publish a short story",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 33,
+          "id": "lite-five-35"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Assess the contribution of Tanzanian writers to the development of Tanzanian literature in English",
+          "learning_activity": "(a) Discuss how the aspects of indigenous socio-cultural setting, Ujamaa and Pan-Africanism have influenced Tanzanian Literature in English",
+          "suggested_methods": [
+            "Exploration: Guide students in manageable groups through exploring the influence of indigenous socio-cultural settings, Ujamaa and Pan-Africanism on Tanzanian Literature in English",
+            "Discussion: Guide students in manageable groups through discussing the influence of indigenous socio-cultural setting, Ujamaa and Pan-Africanism on Tanzanian Literature in English"
+          ],
+          "assessment_criteria": "The influence of aspects of indigenous socio-cultural setting, Ujamaa and Pan-Africanism on Tanzanian Literature in English are well discussed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "lite-six-36"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Assess the contribution of Tanzanian writers to the development of Tanzanian literature in English",
+          "learning_activity": "(b) Survey the development of Tanzanian Literature in English",
+          "suggested_methods": [
+            "Expeditionary: Guide students through an in-depth studying of the development of Tanzanian Literature in English"
+          ],
+          "assessment_criteria": "Development of Tanzanian Literature in English is sufficiently surveyed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-37"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Assess the contribution of Tanzanian writers to the development of Tanzanian literature in English",
+          "learning_activity": "(c) Use a selected literary text by a Tanzanian author to examine his/her reflections on the national cultural, social and political heritage",
+          "suggested_methods": [
+            "Investigation: Guide students in manageable groups through investigating author’s background (social class, political affiliation, cultural orientations, family, nationality and friends)",
+            "Close reading: Guide students through examining the representation of the national cultural, social and political heritage in a selected literary text"
+          ],
+          "assessment_criteria": "Tanzanian author’s reflection on the national cultural, social and political heritage are well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 35,
+          "id": "lite-six-38"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the concepts and principles of literature",
+          "specific_competence": "1.1 Assess the contribution of Tanzanian writers to the development of Tanzanian literature in English",
+          "learning_activity": "(d) Discuss the contribution of Tanzanian authors in representing contemporary and topical issues (e.g. corruption, gender, taxation and development, and environmental health)",
+          "suggested_methods": [
+            "Exploration: Guide students in manageable groups through exploring the contemporary and topical issues represented in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing the contemporary and topical issues represented in a selected literary text"
+          ],
+          "assessment_criteria": "Contribution of Tanzanian authors in representing contemporary and topical issues is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "lite-six-39"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(a) Examine the effectiveness of narrative techniques, and literary devices in a selected literary text",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing narrative techniques and various literary devices",
+            "Questions and answers: Guide students through examining the effectiveness of the narrative techniques and various literary devices in a selected literary text"
+          ],
+          "assessment_criteria": "Effectiveness of narrative techniques, and various literary devices used in a selected literary text is well examined",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "lite-six-40"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(b) Apply modern literary theories to discuss thematic representation in selected liberation and post-colonial literary texts",
+          "suggested_methods": [
+            "Engagement with a text: Guide students through applying modern literary theories in interpreting the thematic representation in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing and applying modern literary theories in interpreting thematic representation in a selected text"
+          ],
+          "assessment_criteria": "Modern literary theories are applied correctly in discussing thematic representation in selected liberation and post-colonial literary texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "lite-six-41"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(c) Relate issues represented in selected liberation and post-colonial literary texts to real life experiences",
+          "suggested_methods": [
+            "Brainstorming: Guide students through sharing contemporary issues in the society",
+            "Discussion: Guide students in manageable groups through discussing the relationship between issues represented in a selected text with real life experiences",
+            "Journaling: Guide students through connecting their personal experiences with those represented in a selected text"
+          ],
+          "assessment_criteria": "Issues represented in selected liberation and post-colonial literary texts are well related to real life experiences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 38,
+          "id": "lite-six-42"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.1 Analyse critically pre-colonial, colonial, liberation, and post-colonial literatures",
+          "learning_activity": "(d) Reflect on characters’ experiences in selected liberation and post-colonial literary texts",
+          "suggested_methods": [
+            "Inquiry: Guide students through exploring characters’ experiences in a selected literary text"
+          ],
+          "assessment_criteria": "Characters’ experiences in liberation and post-colonial literary texts are well reflected on",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-43"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse the nexus between literature and politics, aesthetics and social inequalities",
+          "learning_activity": "(a) Examine the representation of political issues (human rights, good governance, election, etc) in a selected literary text",
+          "suggested_methods": [
+            "Pair work: Guide students through sharing political issues in the society",
+            "Discussion: Guide students in manageable groups through discussing political issues depicted in a selected text"
+          ],
+          "assessment_criteria": "Representation of political issues in a selected literary text is well examined",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "lite-six-44"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse the nexus between literature and politics, aesthetics and social inequalities",
+          "learning_activity": "(b) Examine the depiction of social inequalities (racial discrimination, wage inequality, homelessness, inequality in education, etc) in a selected literary text",
+          "suggested_methods": [
+            "Think-Ink-Pair-Share: Guide students through sharing the different forms of inequalities in the society",
+            "Discussion: Guide students in manageable groups through discussing forms of social inequalities depicted in a selected text"
+          ],
+          "assessment_criteria": "Depiction of social inequalities in a selected literary text is well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 40,
+          "id": "lite-six-45"
+        },
+        {
+          "main_competence": "2.0 Appreciate literary works",
+          "specific_competence": "2.2 Analyse the nexus between literature and politics, aesthetics and social inequalities",
+          "learning_activity": "(c) Explore the use of stylistic features to create aesthetics in a selected literary text",
+          "suggested_methods": [
+            "Flipped classroom: Guide students through studying the language of different written texts (words, sentences and images)",
+            "Knowledge application: Guide students through applying gained knowledge to study language used in a selected text focusing on stylistic features"
+          ],
+          "assessment_criteria": "The use of stylistic features to create aesthetics in a selected literary text is well explored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-46"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Evaluate the effectiveness of various elements of form in shaping meaning",
+          "learning_activity": "(a) Discuss the author’s choice and use of setting in a selected literary work",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming various activities taking place in different settings of the community",
+            "Graphic organiser: Guide students in manageable group through analysing setting in a selected text",
+            "Discussion: Guide students in manageable groups through discussing the relationship between setting and events in a selected literary text"
+          ],
+          "assessment_criteria": "The author’s choice and use of setting in a selected literary work is well discussed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "lite-six-47"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Evaluate the effectiveness of various elements of form in shaping meaning",
+          "learning_activity": "(b) Examine the author’s development of plot and characterisation in a selected literary work",
+          "suggested_methods": [
+            "Graphic organiser: Guide students in manageable groups through analysing story and characters’ development in a selected literary text",
+            "Discussion: Guide students in manageable groups through discussing plot and characterisation in a selected literary text"
+          ],
+          "assessment_criteria": "The author’s development of plot and characterisation in a selected literary work is well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 42,
+          "id": "lite-six-48"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.1 Evaluate the effectiveness of various elements of form in shaping meaning",
+          "learning_activity": "(c) Discuss the author’s choice and use of rhetorical devices in a selected literary work",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the rhetorical devices (e.g., metaphor, hyperbole, onomatopoeia, allusion, satire, simile, irony, personification, euphemism and parallelism)",
+            "Discussion: Guide students in manageable groups through discussing the effect of rhetorical devices to a reader"
+          ],
+          "assessment_criteria": "The author’s choice of rhetorical devices in a selected literary work is well discussed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-49"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.2 Use literary works to build rational arguments and judgements",
+          "learning_activity": "(a) Assess moral dilemmas depicted in a literary text",
+          "suggested_methods": [
+            "Jigsaw: Guide students in manageable groups through sharing the moral dilemmas they know",
+            "Debate: Guide students through debating about the moral dilemmas depicted in a selected text",
+            "Discussing: Guide students through discussing the moral dilemmas depicted in a selected text"
+          ],
+          "assessment_criteria": "Moral dilemmas depicted in a literary text are assessed effectively",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "lite-six-50"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.2 Use literary works to build rational arguments and judgements",
+          "learning_activity": "(b) Discuss the conflicts portrayed in a literary text and how they are resolved",
+          "suggested_methods": [
+            "Thought-provoking writing: Engage students in manageable groups in identifying conflicts in the society and suggesting the possible solutions",
+            "Discussion: Guide students through discussing conflicts portrayed in a selected text and solutions"
+          ],
+          "assessment_criteria": "Conflicts and their resolutions presented in a literary text are analysed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 44,
+          "id": "lite-six-51"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.2 Use literary works to build rational arguments and judgements",
+          "learning_activity": "(c) Assess various interpretations of a literary text",
+          "suggested_methods": [
+            "Summarisation: Guide students in manageable groups through summarising a selected literary text",
+            "Thought – provoking writing: Guide students through making and assessing various interpretations of a selected literary text"
+          ],
+          "assessment_criteria": "Various interpretations of a literary text are effectively assessed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-52"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.3 Use literature to adapt and manage new communicative contexts",
+          "learning_activity": "(a) Explain different communicative contexts exhibited in a selected literary text",
+          "suggested_methods": [
+            "Demonstration: Guide students through demonstrating different communicative contexts in the community (e.g., restaurant, airport, bus stand, court and parliament)",
+            "Dialogue: Guide students through dialoguing in different contexts (e.g., restaurant, airport, bus stand, court and parliament)",
+            "Discussion: Guide students through discussing the communicative contexts exhibited in a selected text"
+          ],
+          "assessment_criteria": "Different communicative contexts exhibited in a selected literary text are clearly explained",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "lite-six-53"
+        },
+        {
+          "main_competence": "3.0 Demonstrate mastery of argumentative skills",
+          "specific_competence": "3.3 Use literature to adapt and manage new communicative contexts",
+          "learning_activity": "(b) Use a selected literary text to examine the communications of a given character in different contexts",
+          "suggested_methods": [
+            "Journalling: Guide students in manageable groups through recording characters communications in different contexts",
+            "Discussion: Guide students in manageable groups through discussing communication of a character in different contexts",
+            "Dramatisation: Guide students in manageable groups through staging various extracts from a selected literary text"
+          ],
+          "assessment_criteria": "Character’s communications in different contexts in a selected literary text are well examined",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 46,
+          "id": "lite-six-54"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Identify opportunities created by literary works",
+          "learning_activity": "(a) Survey various opportunities created by literature (writing, editing, publishing, printing, sales and marketing, and publicity)",
+          "suggested_methods": [
+            "Survey: Guide students through surveying the various economic opportunities created by literature",
+            "Discussion: Guide students through discussing various opportunities created by literature"
+          ],
+          "assessment_criteria": "Various opportunities created by literature are sufficiently surveyed",
+          "suggested_resources": [
+            "Selected literary texts and audio/audio-visual materials"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "lite-six-55"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Identify opportunities created by literary works",
+          "learning_activity": "(b) Identify various opportunities depicted in a selected literary text",
+          "suggested_methods": [
+            "Think-Pair-Share: Guide students through sharing various opportunities (e.g. business, employment, education, fishing and agriculture) in the society",
+            "Scaffold reading: Guide students through identifying opportunities in a selected literary text using the four scaffold reading stages (setting the scene, assigning tasks, asking questions and giving feedback)"
+          ],
+          "assessment_criteria": "Various opportunities depicted in a selected literary text are clearly identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 48,
+          "id": "lite-six-56"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Identify opportunities created by literary works",
+          "learning_activity": "(c) Design, write, revise, and edit a script for stage performance",
+          "suggested_methods": [
+            "Project: Guide students in manageable groups through developing and presenting a script for performance",
+            "Discussion: Guide students in manageable groups through discussing the steps for developing a script for stage performance"
+          ],
+          "assessment_criteria": "Script for stage performance is well designed, written and edited",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-57"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.1 Identify opportunities created by literary works",
+          "learning_activity": "(d) Adapt an episode or extract from a selected literary text on the stage",
+          "suggested_methods": [
+            "Dramatisation: Guide students in manageable groups through staging an episode/extract from a selected literary text"
+          ],
+          "assessment_criteria": "Episode or extract from a selected literary text is well adapted on stage",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 49,
+          "id": "lite-six-58"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(a) Develop a plan for composing a novel (idea, plot, setting and characterisation)",
+          "suggested_methods": [
+            "Graphic organiser: Guide students in manageable group through making a plan for composing a novel"
+          ],
+          "assessment_criteria": "A plan for composing a novel is well developed",
+          "suggested_resources": [
+            "ICT tools"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "lite-six-59"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(b) Apply basic skills in creative writing to compose a novel",
+          "suggested_methods": [
+            "Independent composition: Guide students through composing a novel"
+          ],
+          "assessment_criteria": "Basic skills in creative writing are correctly applied to compose a novel",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "lite-six-60"
+        },
+        {
+          "main_competence": "4.0 Create literary works",
+          "specific_competence": "4.2 Compose original literary works",
+          "learning_activity": "(c) Use ICT tools and digital platforms to write and publish a novel",
+          "suggested_methods": [
+            "Project: Engage individual students in applying ICT knowledge and writing skills to compose a novel",
+            "Publishing: Guide individual students through publishing their novels on available platforms"
+          ],
+          "assessment_criteria": "ICT tools and digital platforms are correctly used to write and publish a novel",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 50,
+          "id": "lite-six-61"
+        }
+      ]
+    }
+  }
+}

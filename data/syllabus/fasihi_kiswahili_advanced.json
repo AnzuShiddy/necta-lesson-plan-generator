@@ -1,0 +1,904 @@
+{
+  "subject": "Fasihi ya Kiswahili",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270323-FASIHI%20YA%20KISWAHILI%20KIDATO%20CHA%205%266%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kukuza uelewa wa dhana ya fasihi",
+          "learning_activity": "(a) Kufafanua dhana ya fasihi kwa kurejelea wataalamu mbalimbali",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu dhana, sifa na umuhimu wa fasihi",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili dhana ya fasihi kwa mawanda mapana kwa kurejelea fasili za wataalamu mbalimbali, kisha wajadili sifa na umuhimu wa fasihi katika maisha ya kila siku"
+          ],
+          "assessment_criteria": "Dhana ya fasihi kwa kurejelea wataalamu imefafanuliwa",
+          "suggested_resources": [
+            "Mchoro wa sanaa na matawi yake",
+            "matini za kifasihi",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "fasi-five-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kukuza uelewa wa dhana ya fasihi",
+          "learning_activity": "(b) Kujadili mitazamo mbalimbali kuhusu dhana ya fasihi",
+          "suggested_methods": [
+            "Igizodhima: Waongoze wanafunzi kuigiza igizo fupi linaloendana na mazingira yao, kisha waeleze mitazamo yao kuhusiana na igizo hilo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini zinazohusu mitazamo mbalimbali ya fasihi, kisha wabainishe mawazo ya wataalamu hao kuhusu fasihi"
+          ],
+          "assessment_criteria": "Mitazamo mbalimbali kuhusu dhana ya fasihi imejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 11,
+          "id": "fasi-five-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kukuza uelewa wa dhana ya fasihi",
+          "learning_activity": "(c) Kujadili ubora na udhaifu kuhusu mitazamo ya dhana ya fasihi",
+          "suggested_methods": [
+            "Ramani ya dhana: Kwa kutumia ramani ya dhana waongoze wanafunzi kuchunguza na kuibua hoja za ubora na udhaifu wa mitazamo ya dhana ya fasihi",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili kuhusu ubora na udhaifu wa mitazamo ya dhana ya fasihi"
+          ],
+          "assessment_criteria": "Ubora na udhaifu kuhusu mitazamo ya fasihi imejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 12,
+          "id": "fasi-five-3"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.2 Kutathmini nadharia za chimbuko la fasihi",
+          "learning_activity": "(a) Kujadili nadharia za chimbuko la fasihi",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi katika vikundi kusimulia hadithi/visa mbalimbali, kisha wajadili asili/ chimbuko la hadithi/ visa hivyo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini mbalimbali za nadharia za chimbuko la fasihi, kisha wawasilishe kwa ajili ya maboresho.",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili ubora na udhaifu wa nadharia za chimbuko la fasihi"
+          ],
+          "assessment_criteria": "Nadharia za chimbuko la fasihi zimejadiliwa",
+          "suggested_resources": [
+            "Chati yenye nadharia za chimbuko la fasihi",
+            "matini na makala za kifasihi",
+            "maudhui ya nadharia za chimbuko la fasihi yaliyorekodiwa",
+            "magazeti",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fasi-five-4"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.3 Kuchambua uhusiano kati ya fasihi simulizi na fasihi andishi",
+          "learning_activity": "(a) Kufafanua tanzu na vipera vya fasihi simulizi na fasihi andishi",
+          "suggested_methods": [
+            "Ramani ya dhana: Waongoze wanafunzi kubainisha tanzu na vipera vya fasihi simulizi na fasihi andishi kutokana na michoro waliyopewa",
+            "Changanya kete: Waongoze wanafunzi katika vikundi wakiwa na namba kufafanua tanzu na vipera vya fasihi simulizi (kila kikundi kishughulikie utanzu/kipera chake)",
+            "Matembezi msambao: Waongoze wanafunzi katika vikundi kujadili tanzu na vipera vya fasihi andishi, kisha wabandike kazi hizo darasani kwa ajili ya kuzisoma na majadiliano"
+          ],
+          "assessment_criteria": "Tanzu na vipera vya fasihi simulizi na fasihi andishi zimefafanuliwa",
+          "suggested_resources": [
+            "Chati/ mti wenye tanzu za fasihi simulizi na fasihi andishi",
+            "nyimbo",
+            "mashairi na maigizo yaliyorekodiwa",
+            "matini na makala za kifasihi",
+            "magazeti",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fasi-five-5"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.3 Kuchambua uhusiano kati ya fasihi simulizi na fasihi andishi",
+          "learning_activity": "(b) Kueleza mchango wa fasihi simulizi katika maendeleo ya fasihi andishi",
+          "suggested_methods": [
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo kuhusu umuhimu wa fasihi simulizi katika maendeleo ya fasihi andishi, kisha litolewe hitimisho"
+          ],
+          "assessment_criteria": "Mchango wa fasihi simulizi katika maendeleo ya fasihi andishi umeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-five-6"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.3 Kuchambua uhusiano kati ya fasihi simulizi na fasihi andishi",
+          "learning_activity": "(c) Kutathmini athari za sayansi na teknolojia katika maendeleo ya fasihi simulizi na fasihi andishi",
+          "suggested_methods": [
+            "Ziara: Waongoze wanafunzi kutembelea sehemu za kurekodia na kuchapishia kazi za fasihi simulizi na fasihi andishi ili wachunguze namna vifaa vya teknolojia vinavyohusika na uandaaji wa kazi za fasihi.",
+            "Waongoze wanafunzi kufanya majadiliano ya walichojifunza ziarani",
+            "Kazimradi: Wape wanafunzi kazi katika vikundi ya kuangalia/ kusikiliza vipindi vyenye kazi za fasihi katika redio, runinga na mitandao ya kijamii pamoja na kusoma magazeti na matini za fasihi, halafu waeleze athari za sayansi na teknolojia katika maendeleo ya fasihi simulizi na fasihi andishi. Wanafunzi waandike ripoti na kuiwasilisha"
+          ],
+          "assessment_criteria": "Athari za sayansi na teknolojia katika maendeleo ya fasihi simulizi zimetathminiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "fasi-five-7"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.3 Kuchambua uhusiano kati ya fasihi simulizi na fasihi andishi",
+          "learning_activity": "(d) Kujadili mchango wa fasihi simulizi na fasihi andishi katika maendeleo ya jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mchango wa kazi za fasihi simulizi na andishi katika maendeleo ya jamii"
+          ],
+          "assessment_criteria": "Mchango wa fasihi simulizi na andishi katika maendeleo ya jamii umejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-five-8"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.3 Kuchambua uhusiano kati ya fasihi simulizi na fasihi andishi",
+          "learning_activity": "(e) Kuhusianisha fasihi simulizi na fasihi andishi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili sifa za fasihi simulizi na fasihi andishi, kisha kutokana na sifa hizo, wahusianishe fasihi simulizi na fasihi andishi."
+          ],
+          "assessment_criteria": "Fasihi simulizi na fasihi andishi zimehusianishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 18,
+          "id": "fasi-five-9"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.1 Kuonesha uelewa wa misingi ya kutathmini kazi za fasihi",
+          "learning_activity": "(a) Kujadili mitazamo inayohusu fani na maudhui",
+          "suggested_methods": [
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini zinazohusu mitazamo ya fani na maudhui",
+            "Changanyakete: Waongoze wanafunzi wakiwa na namba katika vikundi kujadili mitazamo ya fani na maudhui",
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo kuhusu fani na maudhui kwa kubainisha mitazamo yao kuhusu dhana hizo"
+          ],
+          "assessment_criteria": "Mitazamo inayohusu fani na maudhui imejadiliwa",
+          "suggested_resources": [
+            "Chati/mti wenye vipengele vya fani na maudhui ya fani yaliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "fasi-five-10"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.1 Kuonesha uelewa wa misingi ya kutathmini kazi za fasihi",
+          "learning_activity": "(b) Kuhusianisha fani na maudhui katika kazi za fasihi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili uhusiano wa fani na maudhui katika kazi za fasihi"
+          ],
+          "assessment_criteria": "Fani na maudhui katika kazi za fasihi zimehusianishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-five-11"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.1 Kuonesha uelewa wa misingi ya kutathmini kazi za fasihi",
+          "learning_activity": "(c) Kueleza dhima za vipengele vya fani na maudhui katika kazi za fasihi",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali, waongoze wanafunzi kueleza dhima za vipengele vya fani na maudhui katika kazi za fasihi"
+          ],
+          "assessment_criteria": "Dhima za vipengele vya fani na maudhui katika kazi za fasihi zimeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 20,
+          "id": "fasi-five-12"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutathmini nadharia za uhakiki wa kazi za fasihi",
+          "learning_activity": "(a) Kuchambua nadharia za uhakiki wa kazi za fasihi",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu dhana, sifa na umuhimu wa nadharia",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kusoma matini zinazohusu nadharia za uhakiki wa fasihi kisha wachambue sifa na misingi ya nadharia za uhakiki wa kazi za fasihi.",
+            "Kumwalika mgeni: Mwalike mgeni ambaye ni mahiri katika uga wa fasihi ili afafanue kuhusu dhana, waasisi, misingi, na umuhimu wa nadharia za uhakiki wa kazi za fasihi",
+            "Tafakuri: Waongoze wanafunzi kufanya tafakuri kuhusu nadharia walizojifunza kutoka kwa mgeni mwalikwa.",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili ubora na udhaifu wa nadharia za uhakiki wa kazi za fasihi"
+          ],
+          "assessment_criteria": "Nadharia za uhakiki wa kazi za fasihi zimechambuliwa",
+          "suggested_resources": [
+            "Chati yenye nadharia za uhakiki wa kazi za fasihi",
+            "chati ya alama za LAT",
+            "kamusi",
+            "matini na makala za kifasihi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fasi-five-13"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.3 Kuhakiki kazi za fasihi kwa kutumia misingi na nadharia mbalimbali",
+          "learning_activity": "(a) Kutumia nadharia kuhakiki kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na tamthiliya) za waandishi wakongwe na chipukizi walioteuliwa",
+          "suggested_methods": [
+            "Onesho mbinu: Waongoze wanafunzi katika vikundi kuangalia maigizo mafupi kwa kutumia vifaa vya TEHAMA, kisha wahakiki maigizo hayo kwa kutumia nadharia za uhakiki wa kazi za fasihi",
+            "Kazi za vitendo: Waongoze wanafunzi kughani mashairi kisha wahakiki mawazo/ masuala yanayojitokeza katika mashairi hayo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kutumia nadharia za uhakiki wa kazi za fasihi kuchambua mashairi teule ya waandishi wakongwe na chipukizi",
+            "Kazi za vitendo: Waongoze wanafunzi katika vikundi kuchambua tamthiliya teule za waandishi wakongwe na waandishi chipukizi kwa kutumia nadharia za uhakiki wa kazi za fasihi, kisha wawasilishe kazi zao kwa ajili ya maboresho."
+          ],
+          "assessment_criteria": "Kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na tamthiliya) za waandishi wakongwe na chipukizi walioteuliwa zimehakikiwa kwa kutumia misingi na nadharia za uhakiki wa kazi za fasihi",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "magazeti",
+            "maigizo",
+            "mashairi na tamthiliya zilizorekodiwa",
+            "kamusi",
+            "vitabu teule",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "fasi-five-14"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.3 Kuhakiki kazi za fasihi kwa kutumia misingi na nadharia mbalimbali",
+          "learning_activity": "(b) Kutathmini mchango wa nadharia za uhakiki katika maendeleo ya ushairi na tamthiliya",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mchango wa nadharia za uhakiki wa fasihi katika maendeleo ya ushairi na tamthiliya"
+          ],
+          "assessment_criteria": "Mchango wa nadharia za uhakiki katika maendeleo ya ushairi na tamthiliya zimetathminiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 25,
+          "id": "fasi-five-15"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.4 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(a) Kueleza maadili yaliyomo katika nyimbo za bongo fleva, mashairi na tamthiliya",
+          "suggested_methods": [
+            "Nyimbo: Waongoze wanafunzi katika vikundi kusikiliza nyimbo za bongo fleva za vipindi mbalimbali, kisha wachambue maadili yaliyomo katika nyimbo hizo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua maadili yaliyomo katika bongo fleva na mashairi teule",
+            "Kazi za vitendo: Waongoze wanafunzi kila mmoja achambue maadili yaliyomo katika tamthiliya teule, kisha wawasilishe kwa ajili ya majadiliano"
+          ],
+          "assessment_criteria": "Maadili yanayotokana na nyimbo za bongo fleva, mashairi na tamthiliya yameelezwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "magazeti",
+            "nyimbo za bongo fleva",
+            "mashairi na tamthiliya zilizorekodiwa",
+            "vitabu teule",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "fasi-five-16"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.4 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(b) Kulinganisha maadili yaliyomo katika bongo fleva, mashairi, tamthiliya na imani za jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kuhusianisha maadili yaliyomo katika bongofleva na imani za jamii",
+            "Maswali na majibu: Kwa kutumia maswali na majibu, waongoze wanafunzi kuhusianisha maadili yaliyomo katika mashairi teule na imani za jamii",
+            "Uchambuzi wa matini: Waongoze wanafunzi kuhusianisha maadili yaliyomo katika tamthiliya teule na imani za jamii"
+          ],
+          "assessment_criteria": "Maadili yaliyomo katika bongo fleva, mashairi na tamthiliya yamelinganishwa na imani za jamii",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "fasi-five-17"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.4 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(c) Kueleza mitazamo iliyomo katika bongo fleva, mashairi na tamthiliya",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kueleza mitazamo iliyomo katika bongo fleva",
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo ili kueleza mitazamo iliyomo katika mashairi teule, kisha ongoza majadiliano ya pamoja ili kuhitimisha",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kueleza mitazamo iliyomo katika tamthiliya teule"
+          ],
+          "assessment_criteria": "Mitazamo iliyomo katika nyimbo za bongo fleva, mashairi na tamthiliya imeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "fasi-five-18"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.4 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(d) Kuhusianisha mitazamo iliyomo katika nyimbo za bongo fleva, mashairi na tamthiliya na matendo ya jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kuhusianisha mitazamo iliyomo katika bongo fleva, mashairi pamoja na tamthiliya na matendo ya jamii"
+          ],
+          "assessment_criteria": "Mitazamo iliyomo katika bongo fleva, mashairi na tamthiliya imehusianishwa na matendo ya jamii",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-five-19"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.4 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(e) Kujadili namna athari za kiimani na kimitazamo katika bongo fleva, mashairi na tamthiliya zinavyojidhihirisha katika jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili namna athari za kiimani na kimitazamo iliyomo katika nyimbo za bongo fleva, mashairi na tamthiliya zinavyojidhihirisha katika jamii"
+          ],
+          "assessment_criteria": "Namna athari za kiimani na mitazamo iliyomo katika bongo fleva, mashairi na tamthiliya zinavyojidhihirisha katika jamii zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "fasi-five-20"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.1 Kumudu mbinu zinazotumika kujenga ujumi katika kazi za fasihi",
+          "learning_activity": "(a) Kueleza mbinu zinazotumika kujenga ujumi katika kazi za fasihi",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu maana na vipengele vya ujumi",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini za kifasihi, kisha waeleze vipengele vilivyotumika kujenga ujumi katika matini hizo"
+          ],
+          "assessment_criteria": "Mbinu zinazotumika kujenga ujumi katika kazi za fasihi zimeelezwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "magazeti",
+            "hadithi",
+            "nyimbo",
+            "mashairi na maigizo yaliyorekodiwa",
+            "vitabu teule",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fasi-five-21"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.1 Kumudu mbinu zinazotumika kujenga ujumi katika kazi za fasihi",
+          "learning_activity": "(b) Kuchambua mbinu zilizotumika kujenga ujumi katika kazi teule za majigambo, mashairi na tamthiliya",
+          "suggested_methods": [
+            "Onesho mbinu: Waongoze wanafunzi katika vikundi kuangalia majigambo yanayohusu masuala yaliyomo katika jamii zao kwa kutumia vifaa vya TEHAMA, kisha wachambue vipengele vya ujumi vilivyotumika katika majigambo hayo.",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua vipengele vya ujumi vilivyotumika katika majigambo na mashairi",
+            "Matembezi msambao: Waongoze wanafunzi katika vikundi kuchambua vipengele vinavyotumika kujenga ujumi katika tamthiliya teule, kisha wawasilishe kazi zao kwa ajili ya majadiliano"
+          ],
+          "assessment_criteria": "Mbinu zilizotumika kujenga ujumi katika majigambo, mashairi na tamthiliya zimechambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 31,
+          "id": "fasi-five-22"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.2 Kutathmini maana mbalimbali za kazi za fasihi",
+          "learning_activity": "(a) Kuibua maana mbalimbali zinazopatikana katika matini/insha za kifasihi, mashairi na tamthiliya",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi katika vikundi kuchunguza matini/insha za kifasihi, kisha wafafanue maana na sifa za insha za kifasihi kutokana na matini hizo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua maana zinazopatikana katika mashairi na tamthiliya"
+          ],
+          "assessment_criteria": "Maana zinazopatikana katika matini/insha za kifasihi, mashairi na tamthiliya zimeibuliwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "magazeti",
+            "hadithi",
+            "nyimbo",
+            "mashairi na maigizo yaliyorekodiwa",
+            "vitabu teule",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fasi-five-23"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.2 Kutathmini maana mbalimbali za kazi za fasihi",
+          "learning_activity": "(b) Kujadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika mashairi na tamthiliya",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika tamthiliya.",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua mashairi teule, kisha wajadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika mashairi hayo"
+          ],
+          "assessment_criteria": "Namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika mashairi na tamthiliya zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 34,
+          "id": "fasi-five-24"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.3 Kutumia fasihi kujenga hoja zenye mantiki na ushawishi",
+          "learning_activity": "(a) Kufafanua misingi ya ujenzi wa hoja zenye mantiki na ushawishi katika fasihi",
+          "suggested_methods": [
+            "Uchunguzi: Wanafunzi waangalie midahalo ya kitaaluma kwa kutumia vifaa vya TEHAMA, kisha wachunguze namna hoja zenye mantiki zinavyojengwa",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili misingi ya ujengaji wa hoja zenye mantiki na ushawishi katika fasihi"
+          ],
+          "assessment_criteria": "Misingi ya ujenzi wa hoja zenye mantiki na ushawishi imefafanuliwa",
+          "suggested_resources": [
+            "Chati ya kanuni za ujengaji wa hoja",
+            "matini na makala za kifasihi",
+            "magazeti",
+            "mahojiano",
+            "mijadala",
+            "usaili na midahalo yaliyorekodiwa",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "fasi-five-25"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.3 Kutumia fasihi kujenga hoja zenye mantiki na ushawishi",
+          "learning_activity": "(b) Kutumia misingi ya ujenzi wa hoja zenye mantiki na ushawishi katika kutathmini matendo ya wahusika wa kazi za fasihi",
+          "suggested_methods": [
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi watumie misingi ya ujenzi wa hoja zenye mantiki na ushawishi kuchambua ubora na udhaifu wa matendo ya wahusika katika hadithi simulizi",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kutumia misingi ya ujenzi wa hoja zenye mantiki na ushawishi kujadili ubora na udhaifu wa matendo ya wahusika katika tamthiliya"
+          ],
+          "assessment_criteria": "Misingi ya ujenzi wa hoja zenye mantiki na ushawishi imetumiwa katika kutathmini matendo ya wahusika wa kazi za fasihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 36,
+          "id": "fasi-five-26"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.3 Kutumia fasihi kujenga hoja zenye mantiki na ushawishi",
+          "learning_activity": "(c) Kuwasilisha hoja zenye mantiki na ushawishi katika miktadha mbalimbali kwa kutumia maarifa ya kifasihi",
+          "suggested_methods": [
+            "Mdahalo na majadiliano: Waongoze wanafunzi kutumia maarifa ya kifasihi kuwasilisha hoja zenye mantiki na ushawishi katika midahalo na mijadala ya kitaaluma (mada za mijadala zihusishe masuala mtambuka)",
+            "Malumbano ya hoja: Waongoze wanafunzi kutumia maarifa ya kifasihi kuwasilisha hoja zenye mantiki na ushawishi katika malumbano ya hoja",
+            "Kuhalisisha tukio: Waongoze wanafunzi kuigiza usaili wa kazi kwa kutumia maarifa ya kifasihi kujenga hoja zenye mantiki na ushawishi",
+            "Igizodhima: Waongoze wanafunzi kuigiza usaili wa kazi kwa kutumia maarifa ya kifasihi kujenga hoja zenye mantiki na ushawishi"
+          ],
+          "assessment_criteria": "Hoja zenye mantiki na ushawishi zimewasilishwa katika miktadha mbalimbali kwa kutumia maarifa ya kifasihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 37,
+          "id": "fasi-five-27"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.1 Kutambua fursa zinazotokana na kazi za fasihi ya Kiswahili",
+          "learning_activity": "(a) Kueleza miktadha inayochagiza utunzi wa kazi za fasihi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi wajadili miktadha inayochagiza utunzi wa kazi za fasihi"
+          ],
+          "assessment_criteria": "Miktadha inayochagiza utunzi wa kazi za fasihi imeelezwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "magazeti",
+            "hadithi",
+            "nyimbo",
+            "mashairi na maigizo yaliyorekodiwa",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "fasi-five-28"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.1 Kutambua fursa zinazotokana na kazi za fasihi ya Kiswahili",
+          "learning_activity": "(b) Kujadili fursa zinazotokana na kazi za fasihi",
+          "suggested_methods": [
+            "Matembezi msambao: Waongoze wanafunzi katika vikundi wajadili fursa zinazotokana na kazi ya fasihi Wanafunzi wabandike kazi za kila kikundi darasani, kisha wanafunzi wazitembelee na kuzisoma"
+          ],
+          "assessment_criteria": "Fursa zinazotokana na kazi za fasihi zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-five-29"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.1 Kutambua fursa zinazotokana na kazi za fasihi ya Kiswahili",
+          "learning_activity": "(c) K ufafanua mchango wa TEHAMA katika kutambua fursa zinazotokana na kazi za fasihi",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kueleza namna TEHAMA inavyoweza kusaidia kutambua fursa za kazi mbalimbali"
+          ],
+          "assessment_criteria": "Mchango wa TEHAMA katika kutambua fursa zinazotokana na kazi za fasihi umefafanuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 39,
+          "id": "fasi-five-30"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.2 Kumudu kanuni za utunzi wa kazi za fasihi",
+          "learning_activity": "(a) Kueleza hatua za utunzi wa kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na hadithi za watoto)",
+          "suggested_methods": [
+            "Ramani ya dhana: Waongoze wanafunzi kueleza hatua za utunzi wa fasihi simulizi (maigizo) na fasihi andishi (mashairi na hadithi za watoto)"
+          ],
+          "assessment_criteria": "Hatua za utunzi wa kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na hadithi za watoto) zimeelezwa",
+          "suggested_resources": [
+            "Kielelezo cha kanuni za utungaji wa maigizo",
+            "mashairi na hadithi za watoto",
+            "matini na makala za kifasihi",
+            "picha na michoro",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "fasi-five-31"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.3 Kutunga kazi za fasihi",
+          "learning_activity": "(a) Kutunga kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na hadithi za watoto) kwa kuzingatia kanuni",
+          "suggested_methods": [
+            "Onesho mbinu: Wanafunzi waangalie/wasikilize maigizo kwa kutumia vifaa vya TEHAMA, kisha katika vikundi watunge igizo fupi",
+            "Kazi kwa vitendo: Waongoze wanafunzi kila mmoja atunge igizo linalohusu masuala mtambuka, kisha wawasilishe kwa ajili ya maboresho",
+            "Fikiri-andika-jozisha-shirikisha: Wanafunzi katika jozi wafikirie/wabuni mada na kuandika shairi, kisha wajozishe na kushirikisha darasa zima",
+            "Kazimradi: Waelekeze wanafunzi kila mmoja atunge mashairi kwa kuzingatia kanuni za utunzi wa mashairi, kisha wayawasilishe kwa ajili ya maboresho",
+            "Mashindano ya uandishi bunifu: Kuandaa mada inayohusu masuala mbalimbali katika jamii, kisha waongoze wanafunzi kuandika hadithi za watoto kwa ajili ya mashindano",
+            "Kazimradi: Waongoze wanafunzi kila mmoja abuni mada anayoipenda, kisha atunge hadithi ya watoto na kuiwasilisha kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Kazi za fasihi simulizi (maigizo) na fasihi andishi (mashairi na hadithi za watoto) zimetungwa kwa kuzingatia kanuni",
+          "suggested_resources": [
+            "Kielelezo cha kanuni za utungaji wa maigizo",
+            "mashairi na hadithi za watoto",
+            "nyimbo na mashairi",
+            "matini za kifasihi",
+            "vitabu teule",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "fasi-five-32"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kuhusianisha fasihi ya Kiswahili na fasihi kwa Kiswahili",
+          "learning_activity": "(a) Kufafanua dhana ya fasihi ya Kiswahili na fasihi kwa Kiswahili",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili maana, sifa na umuhimu wa fasihi ya Kiswahili na fasihi kwa Kiswahili",
+            "Majigambo: Waongoze wanafunzi kufafanua dhana ya fasihi ya Kiswahili na fasihi kwa Kiswahili (maana, sifa na umuhimu wake)"
+          ],
+          "assessment_criteria": "Dhana ya fasihi ya Kiswahili na fasihi kwa Kiswahili imefafanuliwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "kamusi",
+            "vitabu teule",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "fasi-six-33"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kuhusianisha fasihi ya Kiswahili na fasihi kwa Kiswahili",
+          "learning_activity": "(b) Kuchambua sifa za fasihi ya Kiswahili na fasihi kwa Kiswahili kwa kurejelea kazi teule",
+          "suggested_methods": [
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua sifa za fasihi ya Kiswahili na fasihi kwa Kiswahili katika kazi teule"
+          ],
+          "assessment_criteria": "Sifa za fasihi ya Kiswahili na fasihi kwa Kiswahili kwa kurejelea kazi teule zimeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-34"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kuhusianisha fasihi ya Kiswahili na fasihi kwa Kiswahili",
+          "learning_activity": "(c) Kujadili mchango wa fasihi ya Kiswahili katika maendeleo ya fasihi kwa Kiswahili",
+          "suggested_methods": [
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo kuhusu mchango wa fasihi ya Kiswahili katika maendeleo ya fasihi kwa Kiswahili"
+          ],
+          "assessment_criteria": "Mchango wa fasihi ya Kiswahili katika maendeleo ya fasihi kwa Kiswahili umejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-35"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.1 Kuhusianisha fasihi ya Kiswahili na fasihi kwa Kiswahili",
+          "learning_activity": "(d) Kujadili mchango wa fasihi kwa Kiswahili katika maendeleo ya fasihi ya Kiswahili.",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mchango wa fasihi kwa Kiswahili katika maendeleo ya fasihi ya Kiswahili"
+          ],
+          "assessment_criteria": "Mchango wa fasihi kwa Kiswahili katika maendeleo ya fasihi ya Kiswahili umejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-36"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.2 Kutathmini maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa",
+          "learning_activity": "(a) Kufafanua maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa kabla ya uhuru",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, waongoze wanafunzi kubainisha kazi za fasihi za kitaifa na kimataifa kabla ya uhuru",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini zinazohusu maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa kabla ya uhuru",
+            "Matembezi msambao: Waongoze wanafunzi katika vikundi kujadili maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa kabla ya uhuru, kisha watembelee kazi hizo na kuzisoma"
+          ],
+          "assessment_criteria": "Maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa kabla ya uhuru yamefafanuliwa",
+          "suggested_resources": [
+            "Matini za kifasihi",
+            "makala",
+            "magazeti",
+            "vitabu teule",
+            "nyimbo na mashairi yaliyorekodiwa",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "fasi-six-37"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.2 Kutathmini maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa",
+          "learning_activity": "(b) Kuchambua maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa baada ya uhuru",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kufafanua maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa baada ya uhuru",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua matini zinazohusu maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa baada ya uhuru, kisha wawasilishe kazi zao kwa ajili ya majadiliano"
+          ],
+          "assessment_criteria": "Maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa baada ya uhuru yamefafanuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-38"
+        },
+        {
+          "main_competence": "1.0 Kumudu dhana na misingi ya fasihi",
+          "specific_competence": "1.2 Kutathmini maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa",
+          "learning_activity": "(c) Kujadili athari za sayansi na teknolojia katika maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa njia ya maswali na majibu wanafunzi wabainishe matokeo chanya na hasi ya sayansi na teknolojia katika jamii",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili matokeo chanya na hasi ya sayansi na teknolojia katika maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa",
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo kuhusu matokeo chanya na hasi ya sayansi na teknolojia katika maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa"
+          ],
+          "assessment_criteria": "Athari za sayansi na teknolojia katika maendeleo ya fasihi ya Kiswahili kitaifa na kimataifa zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-39"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.1 Kuhakiki kazi za fasihi kwa kutumia misingi na nadharia mbalimbali",
+          "learning_activity": "(a) Kutumia nadharia kuchambua kazi za fasihi simulizi (hadithi simulizi) na fasihi andishi (hadithi fupi na riwaya) za waandishi wakongwe na chipukizi walioteuliwa",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kutumia nadharia za fasihi kuchambua hadithi simulizi teule",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kutumia nadharia za fasihi kuhakiki hadithi fupi teule za waandishi wakongwe na chipukizi",
+            "Kazi za vitendo: Waongoze wanafunzi katika vikundi kutumia nadharia za fasihi kuhakiki riwaya za waandishi wakongwe na chipukizi teule, kisha wawasilishe kazi zao kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Kazi za fasihi simulizi (hadithi simulizi) na fasihi andishi (hadithi fupi na riwaya) za waandishi wakongwe na chipukizi walioteuliwa zimechambuliwa kwa kutumia nadharia",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "hadithi simulizi zilizorekodiwa",
+            "vitabu teule",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "fasi-six-40"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.1 Kuhakiki kazi za fasihi kwa kutumia misingi na nadharia mbalimbali",
+          "learning_activity": "(b) Kujadili mchango wa nadharia za uhakiki katika maendeleo ya hadithi fupi na riwaya",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mchango wa nadharia kuu za uhakiki katika maendeleo ya hadithi fupi na riwaya teule"
+          ],
+          "assessment_criteria": "Mchango wa nadharia kuu za uhakiki katika maendeleo ya hadithi fupi na riwaya umejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-41"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(a) Kufafanua maadili yaliyomo katika semi, hadithi fupi na riwaya",
+          "suggested_methods": [
+            "Masimulizi: Kusimulia hadithi zenye semi, kisha wanafunzi wafafanue maadili yaliyomo katika katika semi hizo",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua maadili yaliyomo katika hadithi fupi teule",
+            "Majadiliano: Waongoze wanafunzi katika vikundi wajadili maadili yaliyomo katika riwaya teule"
+          ],
+          "assessment_criteria": "Maadili yaliyomo katika semi, hadithi fupi na riwaya yamefafanuliwa",
+          "suggested_resources": [
+            "Matini na makala za kifasihi na kiimani",
+            "magazeti",
+            "kamusi",
+            "vitabu teule",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 31,
+          "id": "fasi-six-42"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(b) Kulinganisha maadili yaliyomo katika semi, hadithi fupi na riwaya na imani za jamii",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, waongoze wanafunzi kulinganisha maadili yaliyomo katika semi na imani za jamii",
+            "Matembezi msambao: Waongoze wanafunzi katika vikundi kujadili na kulinganisha maadili yaliyomo katika hadithi fupi na imani za jamii",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kulinganisha maadili yaliyomo katika riwaya na imani za jamii"
+          ],
+          "assessment_criteria": "Maadili yaliyomo katika semi, hadithi fupi na riwaya yamelinganishwa na imani za jamii",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-43"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(c) Kuchambua mitazamo iliyomo katika semi, hadithi fupi na riwaya",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu mitazamo iliyomo katika semi mbalimbali",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mitazamo iliyomo katika hadithi fupi teule",
+            "Kazi za vitendo: Waelekeze wanafunzi katika vikundi kuchambua mitazamo iliyomo katika riwaya, kisha wawasilishe kazi zao kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Mitazamo iliyomo katika semi, hadithi fupi na riwaya imechambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-44"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(d) Kulinganisha mitazamo iliyomo katika semi, hadithi fupi na riwaya na matendo ya jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kuhusianisha mitazamo iliyomo katika semi na matendo ya jamii",
+            "Maswali na majibu: Kwa kutumia maswali na majibu, waongoze wanafunzi kuhusianisha mitazamo iliyomo katika hadithi fupi na riwaya na imani za jamii"
+          ],
+          "assessment_criteria": "Mitazamo iliyomo katika semi, hadithi fupi na riwaya imelinganishwa na matendo ya jamii",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-45"
+        },
+        {
+          "main_competence": "2.0 Kuthamini kazi za fasihi",
+          "specific_competence": "2.2 Kutumia fasihi kutathmini maadili na mitazamo katika jamii",
+          "learning_activity": "(e) Kujadili namna athari za kiimani na kimitazamo zilizomo katika semi, hadithi fupi na riwaya zinavyojidhihirisha katika jamii",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili namna athari za kiimani na kimitazamo zilizomo katika semi na hadithi fupi teule zinavyojidhihirisha katika jamii",
+            "Maswali na majibu: Waongoze wanafunzi kubainisha athari za kiimani na kimitazamo zilizomo katika riwaya teule zinavyojidhihirisha katika jamii"
+          ],
+          "assessment_criteria": "Athari za kiimani na kimitazamo zilizomo katika semi, hadithi fupi na riwaya zinavyojidhihirisha katika jamii imejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-46"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.1 Kumudu mbinu zinazotumika kujenga ujumi katika kazi za fasihi",
+          "learning_activity": "(a) Kuchambua mbinu zinazotumika kujenga ujumi katika ngonjera, hadithi fupi na riwaya",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu maana, vipengele na umuhimu wa ujumi katika kazi za fasihi",
+            "Utambaji: Waongoze wanafunzi katika vikundi kutamba ngonjera mbalimbali, kisha wachambue vipengele vya ujumi vilivyomo katika ngonjera hizo",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kuchambua vipengele vya ujumi vilivyomo katika hadithi fupi teule",
+            "Kazi za vitendo: Waelekeze wanafunzi katika vikundi kuchambua vipengele vya ujumi vilivyomo katika riwaya teule, kisha wawasilishe kazi zao kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Mbinu zinazotumika kujenga ujumi katika ngonjera, hadithi fupi na riwaya zimechambuliwa.",
+          "suggested_resources": [
+            "Matini na makala za kifasihi",
+            "ngonjera zilizorekodiwa magazeti",
+            "vitabu teule",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "fasi-six-47"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.1 Kumudu mbinu zinazotumika kujenga ujumi katika kazi za fasihi",
+          "learning_activity": "(b) Kutumia mbinu za ujumi kusimulia na kutunga matini/ insha za kisanaa",
+          "suggested_methods": [
+            "Onesho mbinu: Kusimulia au kusikiliza hadithi kwa kutumia vifaa vya TEHAMA, kisha waongoze kubainisha mbinu za kisanaa zilizotumika katika kusimulia hadithi hiyo",
+            "Masimulizi: Waongoze wanafunzi katika vikundi kutumia mbinu za kisanaa kusimulia hadithi",
+            "Kazimradi: Waongoze wanafunzi katika vikundi kutunga matini/insha za kisanaa kwa kutumia mbinu za kifasihi, kisha waziwasilishe kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Mbinu za kifasihi zimetumiwa katika kusimulia na kutunga matini/ insha za kisanaa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-48"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.2 Kutathmini maana mbalimbali za kazi za kifasihi",
+          "learning_activity": "(a) Kuibua maana mbalimbali zinazopatikana katika fasihi simulizi (semi) na fasihi andishi (hadithi fupi na riwaya)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kutaja semi mbalimbali (kama vile methali, vitendawili na mafumbo), kisha wajadili maana zinazopatikana katika semi hizo",
+            "Kazimradi: Waelekeze wanafunzi katika vikundi kukusanya semi mbalimbali, kisha wafafanue maana zake na kuwasilisha kwa ajili ya maboresho",
+            "Uchambuzi wa matini: Waongoze wanafunzi katika vikundi kuchambua maana mbalimbali zinazopatikana katika hadithi fupi na riwaya teule"
+          ],
+          "assessment_criteria": "Maana zinazopatikana katika fasihi simulizi (semi) na fasihi andishi (hadithi fupi na riwaya) zimeibuliwa",
+          "suggested_resources": [
+            "Makala na matini za kifasihi",
+            "magazeti",
+            "semi zilizorekodiwa vitabu teule",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "fasi-six-49"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.2 Kutathmini maana mbalimbali za kazi za kifasihi",
+          "learning_activity": "(b) Kujadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika masimulizi, hadithi fupi na riwaya",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi katika vikundi wasikilize masimulizi ya hadithi kwa kutumia vifaa vya TEHAMA, kisha wajadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika msimulizi hayo",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika riwaya, kisha wawasilishe kazi zao kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Namna mbinu za kifasihi zinavyoathiri kupatikana kwa maana katika masimulizi, hadithi fupi na riwaya zimejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-50"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.3 Kutumia fasihi kujenga hoja zenye mantiki na ushawishi",
+          "learning_activity": "(a) Kuwasilisha hoja zenye mantiki na ushawishi kuhusu maudhui yanayojitokeza katika kazi za fasihi",
+          "suggested_methods": [
+            "Masimulizi: Wanafunzi wasimulie au wasikilize hadithi, kisha wawasilishe hoja zenye mantiki na ushawishi kuhusu maudhui yanayojitokeza katika hadithi hizo",
+            "Mdahalo: Waongoze wanafunzi kufanya mdahalo kwa kuwasilisha hoja zenye mantiki na ushawishi kuhusu maudhui yanayojitokeza katika riwaya teule"
+          ],
+          "assessment_criteria": "Hoja zenye mantiki na ushawishi kuhusu maudhui yanayojitokeza katika kazi za fasihi zimewasilishwa",
+          "suggested_resources": [
+            "Chati ya kanuni za ujengaji wa hoja",
+            "matini na makala za kifasihi",
+            "magazeti",
+            "mahojiano",
+            "majigambo na midahalo yaliyorekodiwa",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "fasi-six-51"
+        },
+        {
+          "main_competence": "3.0 Kujenga ujumi",
+          "specific_competence": "3.3 Kutumia fasihi kujenga hoja zenye mantiki na ushawishi",
+          "learning_activity": "(b) Kutumia maarifa ya fasihi kutunga matini zenye hoja, mantiki na ushawishi",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi katika vikundi kuchunguza matini za insha na makala za kitaaluma, kisha wabainishe sifa na kanuni za utunzi wa matini hizo",
+            "Fikiri-andika-jozisha–shirikisha: Waongoze wanafunzi kufikiria mada kuhusu jambo lolote, kisha watumie maarifa ya fasihi kuandika insha yenye hoja, mantiki na ushawishi, halafu wajozishe na kushirikisha darasa zima",
+            "Kazimradi: Waongoze wanafunzi kutumia maarifa ya fasihi kuandika makala za kitaaluma zenye hoja, mantiki na ushawishi kuhusu mambo mbalimbali katika jamii, kisha waziwasilishe kazi zao kwa ajili ya maboresho",
+            "Kazi za vitendo: Waongoze wanafunzi kutunga majigambo yenye hoja, mantiki na ushawishi kuhusu masuala mbalimbali katika jamii, kisha wawasilishe kwa kujigamba",
+            "Mashindano ya majigambo: Waongoze wanafunzi kuandika majigambo yenye hoja, mantiki na ushawishi kuhusu masuala mbalimbali katika jamii, kisha wawasilishe kwa kujigamba"
+          ],
+          "assessment_criteria": "Maarifa ya fasihi yametumiwa kutunga matini zenye hoja, mantiki na ushawishi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-52"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.1 Kumudu kanuni za utunzi wa kazi za fasihi",
+          "learning_activity": "(a) Kufafanua hatua za utunzi wa kazi za fasihi andishi (tamthiliya na riwaya)",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo kuhusu hatua za utunzi wa tamthiliya",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili hatua za utunzi wa riwaya."
+          ],
+          "assessment_criteria": "Hatua za utunzi wa tamthiliya na riwaya zimefafanuliwa",
+          "suggested_resources": [
+            "Kielelezo cha kanuni za utunzi wa tamthiliya na riwaya",
+            "matini na makala za kifasihi",
+            "tamthiliya zilizorekodiwa",
+            "kamusi"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "fasi-six-53"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.2 Kutunga kazi za fasihi",
+          "learning_activity": "(a) Kutunga tamthiliya na riwaya kwa kuzingatia kanuni za utunzi",
+          "suggested_methods": [
+            "Tukio/ kisa: Wape wanafunzi kisa kwa ufupi kilicho katika mtindo wa dayolojia (majibizano), kisha wanafunzi wakamilishe kisa hicho kwa kuandika maigizo",
+            "Kazimradi: Waongoze wanafunzi watunge tamthiliya kwa kutumia masuala mtambuka, kisha waziwasilishe kwa ajili ya maboresho",
+            "Kazimradi: Waongoze wanafunzi kila mmoja abuni mada anayoipenda na aandike riwaya, kisha wawasilishe kwa ajili ya maboresho"
+          ],
+          "assessment_criteria": "Tamthiliya na riwaya zimetungwa kwa kuzingatia kanuni za utunzi",
+          "suggested_resources": [
+            "Kielelezo cha kanuni za utungaji wa tamthiliya na riwaya",
+            "matini na makala za kifasihi",
+            "vifaa vya kuigizia",
+            "vitu halisi",
+            "kamusi",
+            "chati ya alama za LAT"
+          ],
+          "periods_for_specific_competence": 90,
+          "id": "fasi-six-54"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.2 Kutunga kazi za fasihi",
+          "learning_activity": "(b) Kuigiza tamthiliya mbalimbali",
+          "suggested_methods": [
+            "Igizodhima: Kuwapa wanafunzi dhima za kuigiza kuhusu masuala yanayotokea katika jamii yao, kisha waigize",
+            "Maigizo: Waongoze wanafunzi katika vikundi kuigiza tamthiliya walizotunga na teule"
+          ],
+          "assessment_criteria": "Tamthiliya mbalimbali zimeigizwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-55"
+        },
+        {
+          "main_competence": "4.0 Kubuni kazi changamani za fasihi",
+          "specific_competence": "4.2 Kutunga kazi za fasihi",
+          "learning_activity": "(c) Kujadili mchango wa TEHAMA katika uchapaji, uchapishaji na usambazaji wa kazi za fasihi",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubungua bongo dhana (maana, sifa na umuhimu) wa mchakato wa uchapaji, uchapishaji na usambazaji wa kazi za fasihi",
+            "Ziara: Waongoze wanafunzi kutembelea kiwanda cha uchapaji, uchapishaji na usambazaji wa kazi za fasihi ili kujifunza mchango wa TEHAMA katika uchapaji na uchapishaji na usambazaji wa kazi hizo",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mchango wa TEHAMA katika uchapaji, uchapishaji na usambazaji wa kazi za fasihi kwa kurejelea mafunzo waliyoyapata katika ziara yao"
+          ],
+          "assessment_criteria": "Mchango wa TEHAMA katika uchapaji, uchapishaji na usambazaji wa kazi za fasihi umejadiliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "fasi-six-56"
+        }
+      ]
+    }
+  }
+}

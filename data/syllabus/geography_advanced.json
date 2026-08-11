@@ -1,0 +1,262 @@
+{
+  "subject": "Geography",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270596-GEOG%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1 Demonstrate an Advanced understanding of concepts and theories explaining the structure of the Earth and the interactions of earth systems",
+          "learning_activity": "(a) Describe the theories (continental drift, Isostacy and plate tectonics) that explain the gross structure of the earth’s surface (continents, oceans, seas, ocean ridges, ocean trenches, Islands etc.)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the existing structure the Earth",
+            "Questions and answers: Guide students through responding the questions about the theories that explain the structure of the Earth",
+            "Field/map observation: Use field visit or World map to guide students to explore the landforms result from the theories that explain the gross structure of the Earth’s surface",
+            "Group discussion: Guide students through discussing the relationship between the observed landforms and the theories that explain their occurrence"
+          ],
+          "assessment_criteria": "The theories that explain the gross structure of the earth’s surface are well described",
+          "suggested_resources": [
+            "Online resources on theories that explain the gloss structure of the Earth’s surface, globe, and world map"
+          ],
+          "periods_for_specific_competence": 60,
+          "id": "geog-five-1"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1 Demonstrate an Advanced understanding of concepts and theories explaining the structure of the Earth and the interactions of earth systems",
+          "learning_activity": "(b) Describe the interactions among the major earth systems (atmosphere, biosphere, hydrosphere, geosphere)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the concepts of atmosphere, biosphere, geosphere and hydrosphere",
+            "Group discussion: Guide students through discussing the interaction between atmosphere, hydrosphere, geosphere and biosphere",
+            "Field visit: Guide students to visit nearby site to explore the interaction between atmosphere, hydrosphere, geosphere and biosphere in real life situation",
+            "Role play: Guide student through showing the human impacts on major earth systems"
+          ],
+          "assessment_criteria": "The interactions among the major earth systems are well described",
+          "suggested_resources": [
+            "Online resources on major earth systems, diagrams on the interaction among the major earth systems"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "geog-five-2"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.2 Demonstrate an understanding of the forces responsible for formation of the major relief features of the Earth",
+          "learning_activity": "(a) Describe the internal forces responsible for the formation of the Earth’s major relief features (volcanoes, block mountains, fold mountains, faults, rift valleys, depressions/basin) and earthquakes",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the forces responsible for landforms",
+            "Library/online study: Organize students to read relevant materials on the internal forces and the associated landforms",
+            "Field observation: Guide students to visit nearby site to explore the existing landforms in relation to internal forces.",
+            "Project work: Assign students a task of undertaking community mapping of the natural hazards and their impacts",
+            "Group discussion: Guide students through discussing the relationship between the landforms and the socio-economic activities in Tanzania"
+          ],
+          "assessment_criteria": "The internal forces responsible for the formation of the Earth’s major relief features are well described",
+          "suggested_resources": [
+            "Diagrams, maps, and atlas of the physical features",
+            "Models of the features result from internal forces",
+            "ICT device with contents on internal forces"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "geog-five-3"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.2 Demonstrate an understanding of the forces responsible for formation of the major relief features of the Earth",
+          "learning_activity": "(b) Describe the external forces (waves, gravitational forces, wind and running water) that shape the Earth’s surface (valleys, gullies, dunes, deltas, flood plains, yardangs, zeugens etc.)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the external forces that shape the earth’s surface",
+            "Library/online study: Guide students through exploring the landforms result from external forces",
+            "Field observation: Guide students to visit nearby sites to explore existing landforms in relation to external forces",
+            "Project work: Assign students a task to undertake community mapping of the natural hazards and their impacts",
+            "Group discussion: Guide students through discussing the importance of the landforms resulting from external forces"
+          ],
+          "assessment_criteria": "The external forces that shape the Earth’s surface are well described",
+          "suggested_resources": [
+            "Samples of different types of soil",
+            "water tap/ water pipe",
+            "fan/ air compressor",
+            "models of features results from external forces",
+            "online resources on external forces",
+            "topographical maps",
+            "atlas",
+            "and ICT device with contents on external forces"
+          ],
+          "periods_for_specific_competence": 70,
+          "id": "geog-five-4"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of skills and techniques in Geography",
+          "specific_competence": "2.1 Demonstrate mastery of some advanced skills in land surveying",
+          "learning_activity": "(a) Carry out some Advanced surveying activities (plane table, prismatic compass, leveling)",
+          "suggested_methods": [
+            "Guest speaker: Invite resourceful persons to share experiences about advanced surveying activities",
+            "Project work: Organize students in groups to carry out surveying activities around their schools and in the communities",
+            "Gallery walk: Organize the surveying innovation week at school for students to demonstrate surveying activities and display surveying tools and technologies"
+          ],
+          "assessment_criteria": "Some advanced surveying activities are well carried out",
+          "suggested_resources": [
+            "Diagrams of the surveying tools and activities ranging poles, pegs, chains, tapes, cross staff, arrow, alidade, spirit level, notebook, compass, abney level, plane table, tripod stands, pins, drawing accessories, U folk, plumb bob, telescopic alidade, GPS, GIS and ICT device with contents on surveying activities"
+          ],
+          "periods_for_specific_competence": 70,
+          "id": "geog-five-5"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of skills and techniques in Geography",
+          "specific_competence": "2.2 Demonstrate mastery of research skills in Geography",
+          "learning_activity": "(a) Acquire, present and interpret geographical data through charts, graphs, maps and diagrams (choropleth, scatter plots, dot maps, flow line etc. ) for planning and decision making",
+          "suggested_methods": [
+            "Think-ink-pair-share: Guide students through sharing their thoughts about sources of geographical data",
+            "Scenario: Provide a scenario on the research skills and ask the students in groups to discuss the process of acquiring, presenting and interpreting geographical data",
+            "Practical work: Guide students through illustrating different ways of presenting geographical information",
+            "Group library/online search: Organize students in groups to acquire, geographical data from secondary sources, present and interpret them",
+            "Jigsaw: Guide students through discussing the importance of Geographical information in planning and decision making"
+          ],
+          "assessment_criteria": "Geographical data are well acquired, presented and interpreted for planning and decision making",
+          "suggested_resources": [
+            "Online data",
+            "notebook",
+            "recording tools (tape recorder, camera, mobile phone)",
+            "software for data analysis (NVIVO, SPSS, GIS)",
+            "online resources on research skills"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "geog-five-6"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Geography",
+          "specific_competence": "3.1 Conduct a project in Geography",
+          "learning_activity": "(a) Identify a geographical challenge in society and design a project to address it",
+          "suggested_methods": [
+            "Case Study: Provide a case study about prevailing geographical issues that could be researched and guide students to explain the ways of identifying and addressing a research problem",
+            "Project work: Guide students through identifying geographical challenge in their society and design a project to address it"
+          ],
+          "assessment_criteria": "The geographical challenge is identified and the project to address it is well designed",
+          "suggested_resources": [
+            "Recording tools (tape recorder, notebook, camera, mobile phone)",
+            "software for data analysis (NVIVO, SPSS, GIS)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "geog-five-7"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.1 Demonstrate an understanding of rocks and the rock cycle",
+          "learning_activity": "(a) Describe rocks and the rock cycle (meaning, characteristics, types, formation, weathering and soil formation)",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the meaning, types, and characteristics of rocks and weathering",
+            "Case study: prepare a case study about rock formation, then guide students in groups to examine the rock cycle",
+            "Group discussion: Guide students through discussing the process of rock weathering",
+            "Field Work: Guide students to visit different sites to explore the nature of soil in relation to rock type.",
+            "Guest speaker: Invite resourceful persons to share experience on soil characteristics and their relationship on agriculture activities"
+          ],
+          "assessment_criteria": "Rocks and the rock cycle are well described",
+          "suggested_resources": [
+            "Diagrams of the rocks and the rock cycle",
+            "samples of different types of soil",
+            "online resources on rocks and the rock cycle",
+            "Maps",
+            "and models of rocks",
+            "ICT devices with contents on rocks and the rock cycle"
+          ],
+          "periods_for_specific_competence": 80,
+          "id": "geog-six-8"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.2 Demonstrate an understanding of the basics of hydrology and the hydrological cycle",
+          "learning_activity": "(a) Explain the basic concepts of hydrology (meaning, types and importance)",
+          "suggested_methods": [
+            "Group Discussion: Guide students through discussing the meaning, and importance of hydrology",
+            "Question & Answers: Engage students through questions and answers to explain the types of hydrology"
+          ],
+          "assessment_criteria": "The basic concepts of hydrology are well explained",
+          "suggested_resources": [
+            "Diagrams of the hydrological cycle",
+            "water",
+            "Samples of different types of soil",
+            "online resources on hydrology and the hydrological cycle",
+            "and topographical maps"
+          ],
+          "periods_for_specific_competence": 90,
+          "id": "geog-six-9"
+        },
+        {
+          "main_competence": "1.0 Demonstrate mastery of the structure of the Earth",
+          "specific_competence": "1.2 Demonstrate an understanding of the basics of hydrology and the hydrological cycle",
+          "learning_activity": "(b) Describe the hydrological cycle (Outputs, storages, flows and underground water)",
+          "suggested_methods": [
+            "Gallery Walk and Audial-visual Displays: Guide students through using displays, drawings and audio-visual materials to explore about hydrological cycle",
+            "Group Discussion: Guide students through discussing and explain the hydrological cycle",
+            "Role play: Guide student through showing human activities that affecting hydrological cycle"
+          ],
+          "assessment_criteria": "The hydrological cycle is well described",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "geog-six-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of skills and techniques in Geography",
+          "specific_competence": "2.1 Interpret maps and photographs",
+          "learning_activity": "(a) Use the principles of map interpretation (visualizing symbols, signs, understanding themes, direction and association) to infer geographical features",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming about principles of map interpretation",
+            "Group Discussion: Guide students in groups through discussing principles of map interpretation",
+            "Practical work Use different maps, guide students to apply the principles of map interpretation to infer geographical features"
+          ],
+          "assessment_criteria": "The principles of map interpretation are well used to infer geographical features",
+          "suggested_resources": [
+            "Topographical maps",
+            "protractors",
+            "rulers",
+            "online resources on map",
+            "GIS",
+            "GPS"
+          ],
+          "periods_for_specific_competence": 130,
+          "id": "geog-six-11"
+        },
+        {
+          "main_competence": "2.0 Demonstrate mastery of skills and techniques in Geography",
+          "specific_competence": "2.1 Interpret maps and photographs",
+          "learning_activity": "(b) Apply the techniques of photograph interpretation to analyse geographical phenomena",
+          "suggested_methods": [
+            "Brainstorming: Guide students through brainstorming the techniques of photograph interpretation",
+            "Practical work: Guide students through applying the techniques of photograph interpretation to analyse geographical phenomena"
+          ],
+          "assessment_criteria": "The techniques of photograph interpretation are well applied to analyse geographical phenomena",
+          "suggested_resources": [
+            "Black and white and coloured photographs",
+            "ICT devices with contents on photograph",
+            "GIS",
+            "GPS",
+            "and ICT simulation tools on photograph"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "geog-six-12"
+        },
+        {
+          "main_competence": "3.0 Conduct a project in Geography",
+          "specific_competence": "3.1 Conduct a project in Geography",
+          "learning_activity": "(a) Complete and submit for assessment the project started in Form Five",
+          "suggested_methods": [
+            "Project work: Guide students individual through writing a report for the project started in Form Five",
+            "Role Play: Organize a research project presentation week for the students to present and defend on the project report and submit for assessment"
+          ],
+          "assessment_criteria": "The project started in form Five is completed and submitted",
+          "suggested_resources": [
+            "Project evaluation guide",
+            "and ICT devices for report presentation"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "geog-six-13"
+        }
+      ]
+    }
+  }
+}

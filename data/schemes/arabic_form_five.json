@@ -1,0 +1,1212 @@
+{
+  "subject": "Arabic",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 5,
+  "total_periods": 179,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+      "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+      "learning_activity": "a( Kutunga matini kwa kutumia kauli ya utendwa, vielezi, viunganishi na kanuni za msingi za kisarufi maumbo",
+      "activity_id": "arab-five-1",
+      "periods": 6,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Mjadala wa vikundi: Waongoze wanafunzi kujadili kanuni za jina la mtendwa, viunganishi, vielezi na kanuni za msingi za sarufi maumbo"
+      ],
+      "assessment": "Matini mbalimbali kwa kutumia kauli ya utendaji.",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+      "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+      "learning_activity": "a( Kutunga matini kwa kutumia kauli ya utendwa, vielezi, viunganishi na kanuni za msingi za kisarufi maumbo",
+      "activity_id": "arab-five-1",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Mjadala wa vikundi: Waongoze wanafunzi kujadili kanuni za jina la mtendwa, viunganishi, vielezi na kanuni za msingi za sarufi maumbo"
+      ],
+      "assessment": "Matini mbalimbali kwa kutumia kauli ya utendaji.",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+      "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+      "learning_activity": "b( Kutumia aina zote za mush-taqaat katika mawawasaniliano )mfano. Kongamano, mahakama na mikutano(",
+      "activity_id": "arab-five-2",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kazi za vikundi: Waongoze wanafunzi kutunga matini kwa kutumia kauli ya mtendwa, vielezi na kanuni za msingi za sarufi maumbo",
+        "Oneshombinu: Waongoze wanafunzi kubaini aina zote za Mushtaqaati",
+        "Kazi za vikundi: Wawezeshe wanafunzi kutumia aina zote za Mushtaqaat katika kutunga sentensi mbalimbali"
+      ],
+      "assessment": "Aina zote za Mushtaqati zimetumika katika mawasiliano mfano: makongamano, mahakamani na mikutano.",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kumudu stadi za juu za lugha ya Kiarabu",
+      "specific_competence": "1.1 Kukuza uuelewa wa misingi na kanuni za lughaya Kiarabu.",
+      "learning_activity": "b( Kutumia aina zote za mush-taqaat katika mawawasaniliano )mfano. Kongamano, mahakama na mikutano(",
+      "activity_id": "arab-five-2",
+      "periods": 6,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Kazi za vikundi: Waongoze wanafunzi kutunga matini kwa kutumia kauli ya mtendwa, vielezi na kanuni za msingi za sarufi maumbo",
+        "Oneshombinu: Waongoze wanafunzi kubaini aina zote za Mushtaqaati",
+        "Kazi za vikundi: Wawezeshe wanafunzi kutumia aina zote za Mushtaqaat katika kutunga sentensi mbalimbali"
+      ],
+      "assessment": "Aina zote za Mushtaqati zimetumika katika mawasiliano mfano: makongamano, mahakamani na mikutano.",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "learning_activity": "a( Kubaini maana ya maneno mapya kutoka katika matini changamani kwa kutumia kamusi za kawaida na kamusi mtandao",
+      "activity_id": "arab-five-3",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waelekeze wanafunzi kubaini msamiati kutoka katika matini changamani walizozisikiliza au kuzisoma",
+        "Majadiliano ya vikundi: Waelekeze wanafunzi kujadili maana ya msamiati kutoka katika matini changamani kwa kutumia kamusi mbalimbali",
+        "Matembezi ya Galari: Waongoze wanafunzi kubaini maana ya msamiati katika sentensi"
+      ],
+      "assessment": "Maana mbalimbali za misamiati kutoka katika matini changamani mbali- mbali zimejadiliwa kupitia kamusi mbalimbali kwa usahihi",
+      "resources": [
+        "Matini anuai zinazotumika kupata maana ya maneno"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "learning_activity": "a( Kubaini maana ya maneno mapya kutoka katika matini changamani kwa kutumia kamusi za kawaida na kamusi mtandao",
+      "activity_id": "arab-five-3",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waelekeze wanafunzi kubaini msamiati kutoka katika matini changamani walizozisikiliza au kuzisoma",
+        "Majadiliano ya vikundi: Waelekeze wanafunzi kujadili maana ya msamiati kutoka katika matini changamani kwa kutumia kamusi mbalimbali",
+        "Matembezi ya Galari: Waongoze wanafunzi kubaini maana ya msamiati katika sentensi"
+      ],
+      "assessment": "Maana mbalimbali za misamiati kutoka katika matini changamani mbali- mbali zimejadiliwa kupitia kamusi mbalimbali kwa usahihi",
+      "resources": [
+        "Matini anuai zinazotumika kupata maana ya maneno"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "learning_activity": "b( Kuunda maneno mapya kwa kutumia mnyambuliko na viambishi mbalimbali",
+      "activity_id": "arab-five-4",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kubaini aina mbali mbali za minyambuliko",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana mbalimbali zinazopatikana katika minyambuliko ya maneno",
+        "Igizodhima: Waongoze wanafunzi kuunda maneno mapya kutoka katika minyambuliko mbalimbali ya maneno",
+        "Utatuzi wa tatizo: Waongoze wanafuzi kutumia maneno mapya waliyoyaunda katika sentensi mbalimbali"
+      ],
+      "assessment": "Maneno mapya mbalimbali yameundwa kwa kutumia minyambuliko ya viambishi",
+      "resources": [
+        "Matini anuai zenye maudhui ya uundaji wa maneno"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "learning_activity": "b( Kuunda maneno mapya kwa kutumia mnyambuliko na viambishi mbalimbali",
+      "activity_id": "arab-five-4",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kubaini aina mbali mbali za minyambuliko",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana mbalimbali zinazopatikana katika minyambuliko ya maneno",
+        "Igizodhima: Waongoze wanafunzi kuunda maneno mapya kutoka katika minyambuliko mbalimbali ya maneno",
+        "Utatuzi wa tatizo: Waongoze wanafuzi kutumia maneno mapya waliyoyaunda katika sentensi mbalimbali"
+      ],
+      "assessment": "Maneno mapya mbalimbali yameundwa kwa kutumia minyambuliko ya viambishi",
+      "resources": [
+        "Matini anuai zenye maudhui ya uundaji wa maneno"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "specific_competence": "1.2 Kukuza msamiati kutokana na mazungumzo na maandishi changamani",
+      "learning_activity": "b( Kuunda maneno mapya kwa kutumia mnyambuliko na viambishi mbalimbali",
+      "activity_id": "arab-five-4",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kubaini aina mbali mbali za minyambuliko",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana mbalimbali zinazopatikana katika minyambuliko ya maneno",
+        "Igizodhima: Waongoze wanafunzi kuunda maneno mapya kutoka katika minyambuliko mbalimbali ya maneno",
+        "Utatuzi wa tatizo: Waongoze wanafuzi kutumia maneno mapya waliyoyaunda katika sentensi mbalimbali"
+      ],
+      "assessment": "Maneno mapya mbalimbali yameundwa kwa kutumia minyambuliko ya viambishi",
+      "resources": [
+        "Matini anuai zenye maudhui ya uundaji wa maneno"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "a( Kuelezea vitu na matukio kwa kutumia Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "activity_id": "arab-five-5",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wasaidie wanafunzi kutumia msamiati na sarufi stahiki kueleza vitu mbalimbali na matumizi yake",
+        "Tafakuri binafsi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya kila siku",
+        "Kazi ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya wakati uliopita, uliopo na ujao"
+      ],
+      "assessment": "Vitu na matukio mbalimbali vimeelezewa kwa kutumia lugha ya Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "resources": [
+        "Matini mbalimbali zenye kuelezea vitu na matukio"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "a( Kuelezea vitu na matukio kwa kutumia Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "activity_id": "arab-five-5",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wasaidie wanafunzi kutumia msamiati na sarufi stahiki kueleza vitu mbalimbali na matumizi yake",
+        "Tafakuri binafsi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya kila siku",
+        "Kazi ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya wakati uliopita, uliopo na ujao"
+      ],
+      "assessment": "Vitu na matukio mbalimbali vimeelezewa kwa kutumia lugha ya Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "resources": [
+        "Matini mbalimbali zenye kuelezea vitu na matukio"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "a( Kuelezea vitu na matukio kwa kutumia Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "activity_id": "arab-five-5",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wasaidie wanafunzi kutumia msamiati na sarufi stahiki kueleza vitu mbalimbali na matumizi yake",
+        "Tafakuri binafsi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya kila siku",
+        "Kazi ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi stahiki kuelezea matukio ya wakati uliopita, uliopo na ujao"
+      ],
+      "assessment": "Vitu na matukio mbalimbali vimeelezewa kwa kutumia lugha ya Kiarabu fasaha )urasmi, muda, hadhira na mada(",
+      "resources": [
+        "Matini mbalimbali zenye kuelezea vitu na matukio"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "b( Kutunga matini changamani kuhusu fani mbalimbali )sheria, tiba, ualimu( kwa kutumia msamiati mwafaka na sarufi sahihi",
+      "activity_id": "arab-five-6",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utatuzi wa tatizo: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini changamani katika sharia",
+        "Kazimradi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu tiba",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu ualimu"
+      ],
+      "assessment": "",
+      "resources": [
+        "Matini mbalimbali zenye maudhui au mada ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "b( Kutunga matini changamani kuhusu fani mbalimbali )sheria, tiba, ualimu( kwa kutumia msamiati mwafaka na sarufi sahihi",
+      "activity_id": "arab-five-6",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utatuzi wa tatizo: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini changamani katika sharia",
+        "Kazimradi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu tiba",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu ualimu"
+      ],
+      "assessment": "",
+      "resources": [
+        "Matini mbalimbali zenye maudhui au mada ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "specific_competence": "1.3 Kutumia msamiati na sarufi stahiki",
+      "learning_activity": "b( Kutunga matini changamani kuhusu fani mbalimbali )sheria, tiba, ualimu( kwa kutumia msamiati mwafaka na sarufi sahihi",
+      "activity_id": "arab-five-6",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utatuzi wa tatizo: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini changamani katika sharia",
+        "Kazimradi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu tiba",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutumia msamiati na sarufi sahihi kutunga matini sahili kuhusu ualimu"
+      ],
+      "assessment": "",
+      "resources": [
+        "Matini mbalimbali zenye maudhui au mada ya utungaji"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "a( Kusikiliza na kuelewa midahalo na matini mbalimbali",
+      "activity_id": "arab-five-7",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Mdahalo: Waelekeze wanafunzi kusikiliza mihadhara na midahalo mbalimbali",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kushiriki katika dayolojia mbalimbali",
+        "Ziara ya kimasomo: Wasaidie wanafunzi kusikiliza midahalo mbalimbali"
+      ],
+      "assessment": "Midahalo na matini mbalimbali zimesikilizwa na kufahamika kwa ufasaha",
+      "resources": [
+        "Matini na vifaa mbalimbali vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "a( Kusikiliza na kuelewa midahalo na matini mbalimbali",
+      "activity_id": "arab-five-7",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Mdahalo: Waelekeze wanafunzi kusikiliza mihadhara na midahalo mbalimbali",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kushiriki katika dayolojia mbalimbali",
+        "Ziara ya kimasomo: Wasaidie wanafunzi kusikiliza midahalo mbalimbali"
+      ],
+      "assessment": "Midahalo na matini mbalimbali zimesikilizwa na kufahamika kwa ufasaha",
+      "resources": [
+        "Matini na vifaa mbalimbali vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "a( Kusikiliza na kuelewa midahalo na matini mbalimbali",
+      "activity_id": "arab-five-7",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Mdahalo: Waelekeze wanafunzi kusikiliza mihadhara na midahalo mbalimbali",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kushiriki katika dayolojia mbalimbali",
+        "Ziara ya kimasomo: Wasaidie wanafunzi kusikiliza midahalo mbalimbali"
+      ],
+      "assessment": "Midahalo na matini mbalimbali zimesikilizwa na kufahamika kwa ufasaha",
+      "resources": [
+        "Matini na vifaa mbalimbali vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "b( Kuibua maana iliyofichika katika midahalo na matini mbalimbali",
+      "activity_id": "arab-five-8",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya matini na midahalo mbalimbali",
+        "Kazi za vikundi: Wawezeshe wanafunzi kuibua maana iliyojificha katika matini na midahalo mbalimbali"
+      ],
+      "assessment": "Maana mbalimbali iliyofichikana katika midahalo na matini mbalimbali yamebainishwa kwa ufasaha",
+      "resources": [
+        "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "b( Kuibua maana iliyofichika katika midahalo na matini mbalimbali",
+      "activity_id": "arab-five-8",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya matini na midahalo mbalimbali",
+        "Kazi za vikundi: Wawezeshe wanafunzi kuibua maana iliyojificha katika matini na midahalo mbalimbali"
+      ],
+      "assessment": "Maana mbalimbali iliyofichikana katika midahalo na matini mbalimbali yamebainishwa kwa ufasaha",
+      "resources": [
+        "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "c( Kusikiliza na kuibua maana ya istilahi za kibalagha katika midahalo na matini",
+      "activity_id": "arab-five-9",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waelekeze wanafunzi kusikiliza na kubaini maana ya ujumla ya midahalo mbalimbali",
+        "Dayalojia: Waongoze wanafunzi kubaini mawazo madogo ya midahalo na matini",
+        "Utatuzi wa tatizo: Waongoze wanafunzi kubaini maana ya kibalagha katika midahalo na matini mbalimbali"
+      ],
+      "assessment": "Maana mbali mbali za istilahi za kibalagha katika midahalo mbalimbali zimesikilizwa kwa umakini na kuibuliwa",
+      "resources": [
+        "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kuonesha kiwango cha juu cha uuelewa wa lugha ya Kiarabu katika mazungumzo na maandishi.",
+      "specific_competence": "2.1 Kukuza uuelewa wa mazungumzo ya Kiarabu",
+      "learning_activity": "c( Kusikiliza na kuibua maana ya istilahi za kibalagha katika midahalo na matini",
+      "activity_id": "arab-five-9",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waelekeze wanafunzi kusikiliza na kubaini maana ya ujumla ya midahalo mbalimbali",
+        "Dayalojia: Waongoze wanafunzi kubaini mawazo madogo ya midahalo na matini",
+        "Utatuzi wa tatizo: Waongoze wanafunzi kubaini maana ya kibalagha katika midahalo na matini mbalimbali"
+      ],
+      "assessment": "Maana mbali mbali za istilahi za kibalagha katika midahalo mbalimbali zimesikilizwa kwa umakini na kuibuliwa",
+      "resources": [
+        "Matini na vifaa mbalimbali saidizi vya masikizi-uoni vyenye ujumbe au mada inayowasilishwa kwa masimulizi ya mdomo"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.1 Kutafsiri matini changamani",
+      "learning_activity": "a( Kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia",
+      "activity_id": "arab-five-10",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: waongoze wanafunzi kusoma matini changamani na kubaini maana ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili tafsiri ya ujumla ya matini changamani",
+        "Kazimradi: waelekeze wanafunzi kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia ya kisasa"
+      ],
+      "assessment": "Matini changamani zimefasiriwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kutafsiri"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.1 Kutafsiri matini changamani",
+      "learning_activity": "a( Kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia",
+      "activity_id": "arab-five-10",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: waongoze wanafunzi kusoma matini changamani na kubaini maana ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili tafsiri ya ujumla ya matini changamani",
+        "Kazimradi: waelekeze wanafunzi kutafsiri matini changamani kwa kutumia kamusi na vifaa mbalimbali vya teknolojia ya kisasa"
+      ],
+      "assessment": "Matini changamani zimefasiriwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kutafsiri"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "3.0 Kutafsiri, kuhariri na kukalimani",
+      "specific_competence": "3.2 Kufanya ukalimani",
+      "learning_activity": "a( Kukalimani mazungumzo na hotuba katika miktadha mabalimbali",
+      "activity_id": "arab-five-11",
+      "periods": 5,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza mazungumzo na hotuba mbalimbali katika muktadha mbalimbali na kubaini maana yake ya ujumla",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maana ya ujumla ya mauzngumzo na hotuba mbalimbali",
+        "Kazimradi: Waongoze wanafunzi kukalimani mazungumzo na hotuba katika miktadha mbalimbali"
+      ],
+      "assessment": "Mazungumzo na hotuba katika miktadha mbalimbali zimefanyiwa ukalimani kwa usahihi",
+      "resources": [
+        "Matini mbalimbali na vifaa vya kisasa vya kukalimani"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "4.0 Kuthamini na kubuni kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.1 Kutathmini maendeleo ya fasihi ya Kiarabu",
+      "learning_activity": "a( Kuchambua maendeleo ya fasihi ya Kiarabu",
+      "activity_id": "arab-five-12",
+      "periods": 5,
+      "activity_total_periods": 35,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusikiliza na kubaini maendeleo ya fasihi ya Kiarabu",
+        "Majadiliano ya vikundi: Waongeze wanafunzi kujadili maendeleo ya fasihi ya Kiaarabu",
+        "Kazimradi Waongoze wanafunzi kuchambua maendeleo ya fasihi ya Kiarabu"
+      ],
+      "assessment": "Maendeleo ya fasihi ya Kiarabu yamechambuliwa kwa usahihi.",
+      "resources": [
+        "Matini mbalimbali za fasihi ya Kiarabu"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+      "learning_activity": "a( Kuhakiki mashairi",
+      "activity_id": "arab-five-13",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: waongoze wanafunzi kutambua mbinu za kuhakiki mashairi",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili mbinu za kuhakiki mashairi",
+        "Utatuzi wa tatizo: Waongoze wanafunzi kuhakiki mashairi mbalimbali"
+      ],
+      "assessment": "Mashairi mbalimbali yamehakikiwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali yaliyohakikiwa"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+      "specific_competence": "4.2 Kuhakiki kazi za fasihi ya Kiarabu",
+      "learning_activity": "a( Kuhakiki mashairi",
+      "activity_id": "arab-five-13",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: waongoze wanafunzi kutambua mbinu za kuhakiki mashairi",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kujadili mbinu za kuhakiki mashairi",
+        "Utatuzi wa tatizo: Waongoze wanafunzi kuhakiki mashairi mbalimbali"
+      ],
+      "assessment": "Mashairi mbalimbali yamehakikiwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali yaliyohakikiwa"
+      ],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Arabic for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

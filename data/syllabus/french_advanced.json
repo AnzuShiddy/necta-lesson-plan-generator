@@ -1,0 +1,536 @@
+{
+  "subject": "French",
+  "level": "Advanced Secondary Education (Form V-VI)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727270543-French%20Muhutasari%20SEKONDARI%20YA%20JUU.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Form Five": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Articuler des phrases dans l’enchaînement avec la phonétique et la phonologie standards (phonèmes, syllabes, accents, intonation, liaison et élision)",
+          "suggested_methods": [
+            "Questions et réponses : Guider les étudiants à identifier les éléments prosodiques à travers des questions et réponses",
+            "Virelingues : Guider les étudiants à pratiquer l’articulation des phrases avec l’enchaînement à travers les virelingues"
+          ],
+          "assessment_criteria": "Capacité d’articuler correctement des mots dans l’enchaînement",
+          "suggested_resources": [
+            "- Documents oraux/audio-visuels portant sur des sujets variés",
+            "- Documents authentiques ou fabriqués écrits portant sur les virelingues"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-five-1"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Utiliser le langage de manière appropriée dans de divers contextes des conversations (langage familier, standard et soutenu)",
+          "suggested_methods": [
+            "Jeu de rôle : Guider les étudiants à jouer les différents rôles (étudiant-étudiant, étudiant-enseignant, client-vendeur, enfant-parent etc.)"
+          ],
+          "assessment_criteria": "Capacité d’utiliser le langage de manière appropriée dans de divers contextes des conversations (langage familier, standard et soutenu)",
+          "suggested_resources": [
+            "- Documents oraux/audio-visuels portant sur des conversations de sujets variés",
+            "- Textes authentiques ou fabriqués portant sur les conversations de sujets variés"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-five-2"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Composer des textes complexes logiques et cohérents",
+          "suggested_methods": [
+            "Présentation : Guider les étudiants à réfléchir sur différents événements sociaux/ faits divers et les présenter",
+            "Atelier d’écriture : Guider les étudiants dans des groupes gérables à rédiger des textes complexes logiques et cohérents portant sur des événements/faits divers variés"
+          ],
+          "assessment_criteria": "Capacité de composer des textes complexes logiques et cohérents portant sur des événements/faits divers variés",
+          "suggested_resources": [
+            "- Textes complexes authentiques ou fabriqués logiques et cohérents portant sur des événements/faits divers variés"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "fren-five-3"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+          "learning_activity": "Construire les sens de nouveaux mots et expressions à partir des textes complexes présentés à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Questions et réponse : Guider les étudiants écouter ou à lire des textes complexes sur des sujets variés, puis demander leur d’expliquer le sens des mots qui leur paraissent nouveaux",
+            "Synonymes et antonymes : Guider les étudiants à écouter ou lire des textes complexes sur des sujets variés, puis demander leur de donner les synonymes ou antonymes des mots qui leur paraissent nouveaux"
+          ],
+          "assessment_criteria": "Capacité de construire le sens de nouveaux mots et expressions à partir des textes complexes présentés à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Documents oraux/audio-visuels portant sur des sujets variés",
+            "- Dictionnaires",
+            "- Textes authentiques ou fabriqués portant sur des sujets variés"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-five-4"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+          "learning_activity": "Chercher des sens de nouveaux mots et des expressions en utilisant des dictionnaires, des encyclopédies et des thésaurus",
+          "suggested_methods": [
+            "Travail pratiques : Guider les étudiants à écouter ou à lire des textes et de repérer de nouveaux mots/expressions idiomatiques, puis de chercher leurs sens dans des dictionnaires, des encyclopédies et des thésaurus"
+          ],
+          "assessment_criteria": "Capacité de chercher de nouveaux mots ou expressions dans des dictionnaires, des encyclopédies et des thésaurus",
+          "suggested_resources": [
+            "- Documents oraux/audio-visuels portant sur des sujets variés",
+            "- Dictionnaires, encyclopédies et thésaurus",
+            "- Textes authentiques ou fabriqués portant sur des sujets variés"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-five-5"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.3 Utiliser le vocabulaire et la grammaire appropriés",
+          "learning_activity": "Utiliser le vocabulaire et la grammaire avancés pour rédiger des textes des sujets variés",
+          "suggested_methods": [
+            "Travail pratique : Guider les étudiants en groupes gérables à rédiger des textes sur des sujets variés",
+            "Atelier d’écriture : Guider les étudiants à utiliser le vocabulaire et la grammaire avancés pour rédiger des textes variés"
+          ],
+          "assessment_criteria": "Capacité d’utiliser le vocabulaire et la grammaire avancés pour rédiger des textes des sujets variés",
+          "suggested_resources": [
+            "- Documents authentiques variés portant sur le vocabulaire et le contenu gramatical prévus"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-five-6"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.1 Développer la compréhension des conversations en français",
+          "learning_activity": "Écouter et comprendre des informations complexes de différents contextes formels",
+          "suggested_methods": [
+            "Questions et réponses : Guider les étudiants à écouter un document oral portant sur des informations complexes de différents contextes formel et à répondre à des questions de compréhension"
+          ],
+          "assessment_criteria": "Capacité de répondre correctement à des questions de compréhension sur des informations complexes de différents contextes formels",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels du contexte formel"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-five-7"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.1 Développer la compréhension des conversations en français",
+          "learning_activity": "Écouter et répondre à des messages oraux avec plus de confiance et autonomie (demande une clarification et donne des commentaires)",
+          "suggested_methods": [
+            "Questions et réponses : Guider les étudiants à écouter des messages oraux et y répondre avec plus de confiance et autonomie"
+          ],
+          "assessment_criteria": "Capacité d’écouter et de répondre à des messages oraux avec plus de confiance et autonomie",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels varés"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-five-8"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.2 Développer la compréhension des textes complexes en français",
+          "learning_activity": "Lire la variété des textes pour identifier les caractéristiques de la langue écrite",
+          "suggested_methods": [
+            "Présentation : Guider les étudiants en groupes gérables à lire la variété des textes pour identifier les caractéristiques de la langue écrite"
+          ],
+          "assessment_criteria": "Capacité de lire la variété des textes pour identifier correctement les caractéristiques de la langue écrite",
+          "suggested_resources": [
+            "- Documents authentiques écrits variés portant des caractéristiques de la langue écrite"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-five-9"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Expliquer des thèmes principaux présentés dans des textes complexes variés",
+          "suggested_methods": [
+            "Présentation : Guider les étudiants en groupes gérables à écouter des documents oraux ou à lire des textes complexes, et à présenter oralement ou à l’écrit des thèmes principaux à partir de ces documents/textes",
+            "Discussion : En groupes gérables guider les étudiants à écouter des documents oraux ou à lire des textes complexes pour relever des thèmes principaux et en discuter"
+          ],
+          "assessment_criteria": "Capacité d’expliquer correctement des thèmes principaux à partir des documents oraux ou textes complexes lus sur des sujets variés",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels",
+            "-Textes authentiques complexes sur des sujets variés"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-five-10"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Participer à des discussions/débats et prendre sa position",
+          "suggested_methods": [
+            "Discussion/débat : Préparer des sujets et mener les étudiants en groupes gérables à en discuter ou à en débattre et à prendre sa position"
+          ],
+          "assessment_criteria": "Capacité à participer à des discussions ou à des débats de manière appropriée et à prendre sa position",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels portant sur des discussions ou des débats basés sur des sujets variés"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-five-11"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Rédiger des biographies",
+          "suggested_methods": [
+            "Présentation : Distribuer aux étudiants des biographies des personnes célèbres de leurs intérêts, et puis demander leur de lire et de repérer des éléments essentiels pour rédiger des biographies."
+          ],
+          "assessment_criteria": "Capacité de rédiger correctement une biographie longue",
+          "suggested_resources": [
+            "- Textes authentiques (biographies des personnes célèbres ou autres personnes)"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-five-12"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.1 Traduire des textes complexes",
+          "learning_activity": "Traduire des textes complexes du français vers le swahili et vice-versa sans machine",
+          "suggested_methods": [
+            "Travail pratique : Guider les étudiants à rédiger des biographies des personnes célèbres dans leur communauté",
+            "Scénario: Présenter un scenario aux étudiants et les mener à réfléchir sur les éléments importants dans la traduction (signification, type et l’importance)",
+            "Projet : Guider les étudiants à traduire des documents authentique des domaines différents du français vers le swahili et vice-versa sans machine"
+          ],
+          "assessment_criteria": "Capacité de traduire correctement des textes complexes du français vers le swahili et vice-versa sans machine",
+          "suggested_resources": [
+            "- Textes authentiques écrits en lien avec le sujet de texte cible de traduction",
+            "- Dictionnaires",
+            "- Thésaurus"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-five-13"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.1 Traduire des textes complexes",
+          "learning_activity": "Traduire des textes variés en utilisant les outils de Traduction Assistée par Ordinateur (TAO)",
+          "suggested_methods": [
+            "Discussion: En groupes gérables, mener les étudiants à discuter sur les outils de la Traduction Assistée par Ordinateur (TAO)",
+            "Projet : Guider les étudiants à traduire des documents authentique des domaines différents en utilisant les outils de Traduction Assistée par Ordinateur (TAO)",
+            "Scénario : Présenter un scenario aux étudiants et guider leur à réfléchir sur les inconvénients de la traduction automatiques"
+          ],
+          "assessment_criteria": "Capacité de traduire correctement des textes variés en utilisant les outils de Traduction Assistée par Ordinateur (TAO)",
+          "suggested_resources": [
+            "- Logiciels variés de TAO",
+            "- Dictionnaires bilingues en fonction de textes à traduire",
+            "- Textes écrits authentiques ou fabriqués"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-five-14"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.2 Interpréter",
+          "learning_activity": "Interpréter des dialogues et des discours complexes de divers contextes de communication formelle de manière simultanée et consécutive",
+          "suggested_methods": [
+            "Jeu de rôle/ dialogue ou simulation: Guider les étudiants à interpréter des dialogues et des discours formels de divers contextes de communication de manière simultanée ou consécutive"
+          ],
+          "assessment_criteria": "Capacité d’interpréter correctement des dialogues et des discours complexes de divers contextes de communication formelle de manière simultanée ou consécutive",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels portant sur des sujets de contexte formel",
+            "- Objets réels ou images d'équipment d'interprétation: - Écouteur - Micro - Micro-casque"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-five-15"
+        },
+        {
+          "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+          "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+          "learning_activity": "Connaître les grands auteurs de la littérature francophone et leurs œuvres",
+          "suggested_methods": [
+            "Recherche internet ou dans la bibliothèque : Guider les étudiants à chercher des informations liées aux grands auteurs de la littérature francophone et leurs œuvres",
+            "Exposé : Guider les étudiants à chercher les informations liées aux grands auteurs de la littérature francophone et leurs œuvres, et puis de faire des présentations"
+          ],
+          "assessment_criteria": "Capacité de connaître correctement les grands auteurs de la littérature francophone et leurs œuvres",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels portant sur de grands écrivains de la littérature francophone et leurs œuvres",
+            "- Textes authentiques écrits des écrivains francophones africains"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-five-16"
+        },
+        {
+          "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+          "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+          "learning_activity": "Analyser de différents œuvres littéraires (récits, romans)",
+          "suggested_methods": [
+            "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse littéraire en particulier des récits, romans",
+            "Discussion : Guider les étudiants à discuter les éléments clés à tenir compte lors de l’analyse littéraire en particulier des récits, romans",
+            "Travail pratique : En groupe gérables guider les étudiants à analyser des récits, romans"
+          ],
+          "assessment_criteria": "Capacité d’analyser correctement et avec confiance des différents œuvres littéraires (récits, romans)",
+          "suggested_resources": [
+            "- Œuvres littéraires proposés dans le programme de lecture et d’autres (récits, romans)"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "fren-five-17"
+        },
+        {
+          "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+          "specific_competence": "4.2 Composer des œuvres littéraires",
+          "learning_activity": "Composer un récit et un roman",
+          "suggested_methods": [
+            "Projet : Guider les étudiants en groupe gérables d’analyser au moins un récit et un roman",
+            "Projet : Guider les étudiants à composer un récit ou un roman en fonction de leur entre d'intérêt",
+            "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer un récit ou un roman en fonction de leur centre d’intérêt"
+          ],
+          "assessment_criteria": "Capacité de composer correctement un récit et un roman",
+          "suggested_resources": [
+            "- Récits",
+            "- Romans"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-five-18"
+        }
+      ]
+    },
+    "Form Six": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Utiliser les règles de la phonétique et de la phonologie dans des mots isolés et dans l’enchaînement",
+          "suggested_methods": [
+            "Virelingues : Guider les étudiants à lire des virelingues lentement et vite",
+            "Lecture à haute voix : Guider les étudiants à lire des mots composés sur les cartes"
+          ],
+          "assessment_criteria": "Capacité d’utiliser les règles de la phonétique et de la phonologie dans des mots isolés et dans l’enchaînement",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels de sujets variés",
+            "- Documents authentiques écrits portant sur la phonétique et la phonologie"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-six-19"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Converser dans des contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)",
+          "suggested_methods": [
+            "Jeu de rôle/ dialogue ou simulation: Guider les étudiants à jouer les rôles dans des conversations en contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)"
+          ],
+          "assessment_criteria": "Capacité de converser dans des contextes non familiers (à la douane, au tribunal, à des conférences, à des réunions)",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels de situations de communication suivantes: à la douane, au tribunal, à des conférences, à des réunions"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "fren-six-20"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.1 Développer la connaissance grammaticale (morphologie, phonologie, syntaxe, lexicologie, sémantique, et pragmatique)",
+          "learning_activity": "Rédiger des récits longs en utilisant le passé simple",
+          "suggested_methods": [
+            "Projet: Guider les étudiants à rédiger des récits longs en fonction de sujets de leur centre d’intérêt en utilisant le passé simple",
+            "Atelier d’écriture: Organiser un atelier d’écriture et mener les étudiants à rédiger des récits longs en fonction de sujets de leur centre d’intérêt en utilisant le passé simple"
+          ],
+          "assessment_criteria": "Capacité de rédiger correctement des récits longs avec le passé simple",
+          "suggested_resources": [
+            "- Récrits longs variés narrés en utilisant le temps passé"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "fren-six-21"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+          "learning_activity": "Donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+          "suggested_methods": [
+            "Remue-méninges : Guider les étudiants à réfléchir sur des sujets variés pour la préparation des discours",
+            "Jeu de rôle/ simulation : Guider les étudiants à jouer les rôles présentateur d’un discours /public"
+          ],
+          "assessment_criteria": "Capacité de donner des discours sur des sujets variés en utilisant le français avec efficacité et autonomie",
+          "suggested_resources": [
+            "- Documents oraux/audio-visuels portant sur des discours de sujets variés",
+            "- Documents authentiques écrits variés portant le vocabulaire et la grammaire cibles"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "fren-six-22"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+          "learning_activity": "Utiliser des synonymes et des antonymes pour composer une variété de textes complexes",
+          "suggested_methods": [
+            "Jeu de substitution : Guider les étudiants à substituer dans les phrases des synonymes et des antonymes dans des divers textes",
+            "Projet : Guider les étudiants à composer des textes complexes sur des sujets de leur centre d'intérêt en utilisant des synonymes et des antonymes"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement des synonymes et des antonymes pour composer une variété de textes complexes",
+          "suggested_resources": [
+            "- Documents authentiques/fabriqués oraux ou écrits portant sur des synonymes"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "fren-six-23"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières du français au niveau avancé",
+          "specific_competence": "1.2 Développer le vocabulaire à travers la conversation et à l’écrit",
+          "learning_activity": "Composer des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancés",
+          "suggested_methods": [
+            "Discussion : En groupes gérables, guider les étudiants a lire pour comprendre des textes portant sur des domaines spécifiques (journalisme, droit, médicine), et mener une discussion",
+            "Atelier d’écriture: Organiser un atelier d’écriture et guider les étudiants à rédiger des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée"
+          ],
+          "assessment_criteria": "Capacité de composer avec autonomie des textes portant sur des domaines spécifiques (journalisme, droit, médicine) en utilisant le vocabulaire et la grammaire avancée",
+          "suggested_resources": [
+            "- Textes complexes authentiques des domaines spécifiques: journalisme, droit, et médicine"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "fren-six-24"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.1 Développer la compréhension des conversations en français",
+          "learning_activity": "Écouter et répondre oralement à des informations en utilisant les caractéristiques inhérentes de la langue parlée",
+          "suggested_methods": [
+            "Travail pratique :\nGuider les étudiants à écouter des informations et à répondre oralement en utilisant les caractéristiques inhérentes de la langue parlée"
+          ],
+          "assessment_criteria": "Capacité d’écouter et de répondre oralement à des informations en utilisant correctement les caractéristiques inhérentes de la langue parlée",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels portant des caractéristiques inhérentes visées de la langue parlée"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-six-25"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Prendre part à des entretiens avec confiance et autonomie",
+          "suggested_methods": [
+            "Jeu de rôle/ dialogue ou simulation : Guider les étudiants à jouer les rôles dans des entretiens"
+          ],
+          "assessment_criteria": "Capacité de prendre part à des entretiens avec confiance et autonomie",
+          "suggested_resources": [
+            "- Document authentiques oraux/audio-visuels/écrits portant sur des entrentiens"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "fren-six-26"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Discuter des sujets transversaux en utilisant du vocabulaire avancé et des structures des phrases complexes",
+          "suggested_methods": [
+            "Discussion : En groupes gérables, guider les étudiants a discuter des aspects transversaux en utilisant le vocabulaire avancé et des phrases des structures complexes"
+          ],
+          "assessment_criteria": "Capacité de participer à des discussions sur des aspects transversaux en utilisant du vocabulaire avancé et des phrases des structures complexes",
+          "suggested_resources": [
+            "- Documents authentiques oraux/audio-visuels/écrits, portant sur des sujets transversaux"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "fren-six-27"
+        },
+        {
+          "main_competence": "2.0 Démontrer le niveau avancé de comprendre en français",
+          "specific_competence": "2.3 Maîtriser la communication complexe orale et écrite",
+          "learning_activity": "Rédiger des textes académiques avec les références (dissertations)",
+          "suggested_methods": [
+            "Projet : Guider les étudiants a rédiger des textes académiques /dissertations avec des références"
+          ],
+          "assessment_criteria": "Capacité de rédiger correctement des textes académiques/dissertations avec des références",
+          "suggested_resources": [
+            "- Documents authentiques écrits sur des essais académiques"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "fren-six-28"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.1 Traduire des textes complexes",
+          "learning_activity": "Traduire la variété des textes complexes en utilisant des outils de TAO",
+          "suggested_methods": [
+            "Projet : Guider les étudiants en groupes à traduire la variété des textes complexes en utilisant des outils de TAO"
+          ],
+          "assessment_criteria": "Capacité de traduire correctement la variété des textes complexes en utilisant des outils de TAO",
+          "suggested_resources": [
+            "- Logiciels de TAO",
+            "- Textes authentiques écrits"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-six-29"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.1 Traduire des textes complexes",
+          "learning_activity": "Créer des sous-titres pour les médias audio-visuels",
+          "suggested_methods": [
+            "Projet : Guider les étudiants en groupes à créer des sous-titres pour les médias audio-visuels authentiques"
+          ],
+          "assessment_criteria": "Capacité de créer des sous-titres pour les médias audio-visuels authentiques",
+          "suggested_resources": [
+            "- Logiciels",
+            "- Documents audio-visuels avec sous-titres"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "fren-six-30"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.2 Éditer des textes complexes",
+          "learning_activity": "Éditer et relire de divers textes complexes",
+          "suggested_methods": [
+            "Scénario : Présenter un scénario aux étudiants et mener leur à réfléchir sur le concept de l’édition et de la relecture (signification et l’importance)"
+          ],
+          "assessment_criteria": "Capacité d’éditer et de relire correctement des textes complexes",
+          "suggested_resources": [
+            "- Documents authentiques écrits",
+            "- Dictionnaires"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-six-31"
+        },
+        {
+          "main_competence": "3.0 Traduire, éditer et interpréter",
+          "specific_competence": "3.3 Interpréter",
+          "learning_activity": "Interpréter la variété des médias audiovisuels en utilisant les techniques voix hors champ et doublage",
+          "suggested_methods": [
+            "Simulation/ dramatisation : Guider les étudiants à jouer des rôles d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage"
+          ],
+          "assessment_criteria": "Capacité d’interpréter la variété des médias audio-visuels en utilisant les techniques voix hors champ et doublage",
+          "suggested_resources": [
+            "- Objets réels/ images d'équipement d’interprétation",
+            "- Logiciels de voix hors champ et doublage"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-six-32"
+        },
+        {
+          "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+          "specific_competence": "4.1 Lire et comprendre des œuvres littéraires des écrivains francophones",
+          "learning_activity": "Analyser des différents œuvres littéraires (poèmes et théâtre)",
+          "suggested_methods": [
+            "Remue-méninges : Guider les étudiants à réfléchir sur les éléments clés à tenir compte lors de l’analyse des oeuvre littéraire en particulier des poèmes et pièces de théâtre",
+            "Discussion : En groupes gérables mener les étudiants a discuter sur les éléments clés à tenir compte lors de l’analyse œuvres littéraires en particulier des poèmes et pièces de théâtre)",
+            "Travail pratique : Guider les étudiants à analyser des poèmes et pièces de théâtre",
+            "Projet : Guider les étudiants en groupe gérables d’analyser au moins un poème et une pièce de théâtre"
+          ],
+          "assessment_criteria": "Capacité d’analyser correctement des poèmes et pièces de théâtre",
+          "suggested_resources": [
+            "- Textes littéraires stipulilés dans le programme de lecture (poèmes et théâtre)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-six-33"
+        },
+        {
+          "main_competence": "4.0 Apprécier et composer des œuvres littéraires",
+          "specific_competence": "4.2 Composer des œuvres littéraires en français",
+          "learning_activity": "Composer un poème et une pièce de théâtre en français",
+          "suggested_methods": [
+            "Projet : Guider les étudiants à composer au moins cinq poèmes et une pièce de théâtre en fonction de centre de leur intérêt",
+            "Atelier d’écriture : Organiser un atelier d’écriture et mener les étudiants à composer au moins un poème et une pièce de théâtre en fonction de leur centre intérêt"
+          ],
+          "assessment_criteria": "Capacité de composer un poème et une pièce de théâtre en français en tenant compte des éléments du contenu et de la forme de ces œuvres littéraires",
+          "suggested_resources": [
+            "- Textes écrits variés (poèmes et pièces de théâtre en français)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-six-34"
+        }
+      ]
+    }
+  }
+}

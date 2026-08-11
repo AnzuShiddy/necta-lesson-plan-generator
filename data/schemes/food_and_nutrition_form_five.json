@@ -1,0 +1,1287 @@
+{
+  "subject": "Food and Nutrition",
+  "form": "Form Five",
+  "year": "2026/2027",
+  "level": "advanced",
+  "provisional_calendar": true,
+  "provisional_note": "Semester 1 (Jul-Dec 2026) follows the official MoEST 2026 calendar. Semester 2 (Jan-May 2027) is inferred from the 2026 pattern and ends before the ACSEE examinations - replace it with the published 2026/2027 almanac before relying on those dates.",
+  "periods_per_week": 6,
+  "total_periods": 184,
+  "teaching_weeks": 33,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(a) Explain the concept of groups with special dietary needs (meaning, category and reasons)",
+      "activity_id": "food-five-1",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Brainstorming: Guide students to brainstorm on the meaning of groups with special dietary needs",
+        "Group discussion: Guide students to discuss categories of groups with special dietary needs"
+      ],
+      "assessment": "The concept of groups with special dietary needs is well explained",
+      "resources": [
+        "Charts depicting categories of groups with special dietary needs"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(b) Analyse the nutritional requirements for each special group (children, adolescents, elders, vegetarians, pregnant women and lactating mothers, invalids and convalescents)",
+      "activity_id": "food-five-2",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Scenario: Provide a scenario for students to identify nutritional needs of groups with special dietary needs then guide them to share",
+        "Field trip: Organise a field trip to health centres for students to observe nutrition education provided and write the report"
+      ],
+      "assessment": "Nutritional requirements for each group are well analysed",
+      "resources": [
+        "Charts depicting nutritional requirements for different special groups of people.",
+        "Food composition tables."
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-3",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(c) Explain the concept of Nutrients values (meaning, types, uses and major factors considered in developing nutrient values)",
+      "activity_id": "food-five-3",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to explore the concept of nutrient values",
+        "Group discussion: Guide student to explore meaning types uses and major factors considered in developing nutrient values"
+      ],
+      "assessment": "The concept of Nutrients value is well explained",
+      "resources": [
+        "Food composition tables, RDA/NRV’s tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-4",
+      "semester": 1,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(d) Use RDA/NRV’s tables to determine nutritional requirements of individuals",
+      "activity_id": "food-five-4",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to use RDA/NRV’s tables to determine nutritional requirements of individuals"
+      ],
+      "assessment": "Nutritional requirements of each group are determined",
+      "resources": [
+        "RDA/NRV’s tables, food composition tables."
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(e) Compute the nutrients intake for different groups using food composition tables and compare with RDA",
+      "activity_id": "food-five-5",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Group discussion: Guide students to use various food composition tables to compute nutrient intake for various individuals and make comparison with RDA"
+      ],
+      "assessment": "Nutrients intake for different groups are well computed and compared with RDA",
+      "resources": [
+        "Food composition tables, RDA table"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(f) Plan meals for each group of individual with special dietary needs based on RDA, food composition table and Tanzania food based dietary guidelines",
+      "activity_id": "food-five-6",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Gallery walk: Guide students to plan meals for groups with special dietary needs based on RDA, food composition table and Tanzania food based dietary guidelines",
+        "Discussion: Guide them to discuss what they have planned"
+      ],
+      "assessment": "Meals for individuals with special dietary needs are well planned",
+      "resources": [
+        "Food composition tables, RDA tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2-3",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.1 Demonstrate an understanding of the dietary needs for different groups of people",
+      "learning_activity": "(g) Describe energy balance (meaning and components of energy expenditure)",
+      "activity_id": "food-five-7",
+      "periods": 1,
+      "activity_total_periods": 1,
+      "teaching_learning_activities": [
+        "Questions and answers: Provide questions for students to get the meaning of energy balance",
+        "Jigsaw: Organise students to discuss components of energy expenditure",
+        "Project activity: Task students in their club to calculate basal metabolic Index of different individuals"
+      ],
+      "assessment": "Energy balance concept is well described",
+      "resources": [
+        "Weighing scale, Stadiometer"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2-4",
+      "semester": 1,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+      "activity_id": "food-five-8",
+      "periods": 3,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to extract nutrients from various foods",
+        "Organise students to perform the experiments to test the presence of nutrients in foods"
+      ],
+      "assessment": "Various nutrients from selected foods are extracted",
+      "resources": [
+        "Food items such as cereals, milk, coconut, seeds and nuts,",
+        "laboratory apparatus and reagents"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+      "activity_id": "food-five-8",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to extract nutrients from various foods",
+        "Organise students to perform the experiments to test the presence of nutrients in foods"
+      ],
+      "assessment": "Various nutrients from selected foods are extracted",
+      "resources": [
+        "Food items such as cereals, milk, coconut, seeds and nuts,",
+        "laboratory apparatus and reagents"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+      "activity_id": "food-five-8",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to extract nutrients from various foods",
+        "Organise students to perform the experiments to test the presence of nutrients in foods"
+      ],
+      "assessment": "Various nutrients from selected foods are extracted",
+      "resources": [
+        "Food items such as cereals, milk, coconut, seeds and nuts,",
+        "laboratory apparatus and reagents"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+      "activity_id": "food-five-8",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to extract nutrients from various foods",
+        "Organise students to perform the experiments to test the presence of nutrients in foods"
+      ],
+      "assessment": "Various nutrients from selected foods are extracted",
+      "resources": [
+        "Food items such as cereals, milk, coconut, seeds and nuts,",
+        "laboratory apparatus and reagents"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(a) Extract nutrients from selected foods (cereals, milk, coconut, seeds and nuts)",
+      "activity_id": "food-five-8",
+      "periods": 4,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to extract nutrients from various foods",
+        "Organise students to perform the experiments to test the presence of nutrients in foods"
+      ],
+      "assessment": "Various nutrients from selected foods are extracted",
+      "resources": [
+        "Food items such as cereals, milk, coconut, seeds and nuts,",
+        "laboratory apparatus and reagents"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+      "activity_id": "food-five-9",
+      "periods": 2,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+      ],
+      "assessment": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+      "resources": [
+        "Food items",
+        "laboratory apparatus and chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+      "activity_id": "food-five-9",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+      ],
+      "assessment": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+      "resources": [
+        "Food items",
+        "laboratory apparatus and chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+      "activity_id": "food-five-9",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+      ],
+      "assessment": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+      "resources": [
+        "Food items",
+        "laboratory apparatus and chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-7",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+      "activity_id": "food-five-9",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+      ],
+      "assessment": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+      "resources": [
+        "Food items",
+        "laboratory apparatus and chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(b) Carry out microscopic observations to examine the structures of different foods",
+      "activity_id": "food-five-9",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skills Lab: Guide students to observe different structures of food stuffs under the microscope and task them to write experimental report"
+      ],
+      "assessment": "Microscopic observations to examine the structures of different foods stuff is well conducted",
+      "resources": [
+        "Food items",
+        "laboratory apparatus and chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+      "activity_id": "food-five-10",
+      "periods": 1,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+        "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+      ],
+      "assessment": "Nutrient present in foods are well determined",
+      "resources": [
+        "Food items containing protein, starch, fats,",
+        "laboratory apparatus,",
+        "relevant chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+      "activity_id": "food-five-10",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+        "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+      ],
+      "assessment": "Nutrient present in foods are well determined",
+      "resources": [
+        "Food items containing protein, starch, fats,",
+        "laboratory apparatus,",
+        "relevant chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+      "activity_id": "food-five-10",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+        "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+      ],
+      "assessment": "Nutrient present in foods are well determined",
+      "resources": [
+        "Food items containing protein, starch, fats,",
+        "laboratory apparatus,",
+        "relevant chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+      "activity_id": "food-five-10",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+        "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+      ],
+      "assessment": "Nutrient present in foods are well determined",
+      "resources": [
+        "Food items containing protein, starch, fats,",
+        "laboratory apparatus,",
+        "relevant chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.2 Conduct experiments on the nutrient present in different types of foods",
+      "learning_activity": "(c) Conduct laboratory analysis of selected foods to determine nutrient present. (protein, starch, fats)",
+      "activity_id": "food-five-10",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Skill lab: Demonstrate on how to determine the nutrients present in foods. Provide food items for students to perform the experiment and write analysis reports",
+        "ICT based learning: Guide students to discuss on food rancidity, food toxicants and functional foods"
+      ],
+      "assessment": "Nutrient present in foods are well determined",
+      "resources": [
+        "Food items containing protein, starch, fats,",
+        "laboratory apparatus,",
+        "relevant chemicals"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+      "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+      "activity_id": "food-five-11",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+        "Group discussion: Guide students to discuss what they have learnt and share"
+      ],
+      "assessment": "Determinants of good nutrition and intra-household food distribution are well described",
+      "resources": [
+        "A chart showing determinants of good nutrition"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+      "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+      "activity_id": "food-five-11",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+        "Group discussion: Guide students to discuss what they have learnt and share"
+      ],
+      "assessment": "Determinants of good nutrition and intra-household food distribution are well described",
+      "resources": [
+        "A chart showing determinants of good nutrition"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+      "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+      "activity_id": "food-five-11",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+        "Group discussion: Guide students to discuss what they have learnt and share"
+      ],
+      "assessment": "Determinants of good nutrition and intra-household food distribution are well described",
+      "resources": [
+        "A chart showing determinants of good nutrition"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+      "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+      "activity_id": "food-five-11",
+      "periods": 6,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+        "Group discussion: Guide students to discuss what they have learnt and share"
+      ],
+      "assessment": "Determinants of good nutrition and intra-household food distribution are well described",
+      "resources": [
+        "A chart showing determinants of good nutrition"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "1.0 Demonstrate mastery of principles of Food and Nutrition",
+      "specific_competence": "1.3 Demonstrate an understanding of the determinants of good nutrition and intra-household food distribution",
+      "learning_activity": "(a) Describe determinants of good nutrition (biological, economic, physical and social) and intra-household food distribution",
+      "activity_id": "food-five-11",
+      "periods": 1,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Library reading: Students to go through different readings to get an overview of food production and determinants of good nutrition and intra-household food distribution",
+        "Group discussion: Guide students to discuss what they have learnt and share"
+      ],
+      "assessment": "Determinants of good nutrition and intra-household food distribution are well described",
+      "resources": [
+        "A chart showing determinants of good nutrition"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19-2",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+      "activity_id": "food-five-12",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+      ],
+      "assessment": "Nutritional assessment methods are well described",
+      "resources": [
+        "Dietary assessment tools"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w19-3",
+      "semester": 1,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-18",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "January",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+      "activity_id": "food-five-12",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+      ],
+      "assessment": "Nutritional assessment methods are well described",
+      "resources": [
+        "Dietary assessment tools"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "January",
+      "start_date": "2027-01-18",
+      "end_date": "2027-01-22",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+      "activity_id": "food-five-12",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+      ],
+      "assessment": "Nutritional assessment methods are well described",
+      "resources": [
+        "Dietary assessment tools"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "January",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+      "activity_id": "food-five-12",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+      ],
+      "assessment": "Nutritional assessment methods are well described",
+      "resources": [
+        "Dietary assessment tools"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "February",
+      "start_date": "2027-02-01",
+      "end_date": "2027-02-05",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(a) Describe the methodology used in nutritional assessment (study design, ethics, data collection, analysis and report writing)",
+      "activity_id": "food-five-12",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Gallery walk: Organise the students in manageable groups to explore different methodologies used in nutritional assessment"
+      ],
+      "assessment": "Nutritional assessment methods are well described",
+      "resources": [
+        "Dietary assessment tools"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "February",
+      "start_date": "2027-02-08",
+      "end_date": "2027-02-12",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+      "activity_id": "food-five-13",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Field work: Guide students to carry out nutritional assessment",
+        "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+      ],
+      "assessment": "Nutritional assessment is well conducted",
+      "resources": [
+        "Dietary assessment tools, such as Food weighing scales,",
+        "anthropometric measurement equipment"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "February",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+      "activity_id": "food-five-13",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Field work: Guide students to carry out nutritional assessment",
+        "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+      ],
+      "assessment": "Nutritional assessment is well conducted",
+      "resources": [
+        "Dietary assessment tools, such as Food weighing scales,",
+        "anthropometric measurement equipment"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "February",
+      "start_date": "2027-02-22",
+      "end_date": "2027-02-26",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+      "activity_id": "food-five-13",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Field work: Guide students to carry out nutritional assessment",
+        "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+      ],
+      "assessment": "Nutritional assessment is well conducted",
+      "resources": [
+        "Dietary assessment tools, such as Food weighing scales,",
+        "anthropometric measurement equipment"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "March",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+      "activity_id": "food-five-13",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Field work: Guide students to carry out nutritional assessment",
+        "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+      ],
+      "assessment": "Nutritional assessment is well conducted",
+      "resources": [
+        "Dietary assessment tools, such as Food weighing scales,",
+        "anthropometric measurement equipment"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "March",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-12",
+      "main_competence": "2.0 Demonstrate mastery of the principles and practices of nutritional assessment",
+      "specific_competence": "2.1 Conduct nutritional assessment",
+      "learning_activity": "(b) Carry out nutritional assessment in a selected community",
+      "activity_id": "food-five-13",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Field work: Guide students to carry out nutritional assessment",
+        "Field work: Guide students to identify nutritional problem in their nearby community, write report and share."
+      ],
+      "assessment": "Nutritional assessment is well conducted",
+      "resources": [
+        "Dietary assessment tools, such as Food weighing scales,",
+        "anthropometric measurement equipment"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "3.0 Carry out a project in Food and Nutrition",
+      "specific_competence": "Conduct a project in Food and Nutrition",
+      "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+      "activity_id": "food-five-14",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Project: Guide students in their subject club to design a project on food and nutrition"
+      ],
+      "assessment": "A project on food and nutrition is well designed",
+      "resources": [
+        "Articles,",
+        "Journals,",
+        "Anthropometric measuring equipment questionnaire,",
+        "RDA tables,",
+        "food composition tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "March",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-28",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "April",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "main_competence": "3.0 Carry out a project in Food and Nutrition",
+      "specific_competence": "Conduct a project in Food and Nutrition",
+      "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+      "activity_id": "food-five-14",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Project: Guide students in their subject club to design a project on food and nutrition"
+      ],
+      "assessment": "A project on food and nutrition is well designed",
+      "resources": [
+        "Articles,",
+        "Journals,",
+        "Anthropometric measuring equipment questionnaire,",
+        "RDA tables,",
+        "food composition tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "April",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "main_competence": "3.0 Carry out a project in Food and Nutrition",
+      "specific_competence": "Conduct a project in Food and Nutrition",
+      "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+      "activity_id": "food-five-14",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Project: Guide students in their subject club to design a project on food and nutrition"
+      ],
+      "assessment": "A project on food and nutrition is well designed",
+      "resources": [
+        "Articles,",
+        "Journals,",
+        "Anthropometric measuring equipment questionnaire,",
+        "RDA tables,",
+        "food composition tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "3.0 Carry out a project in Food and Nutrition",
+      "specific_competence": "Conduct a project in Food and Nutrition",
+      "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+      "activity_id": "food-five-14",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Project: Guide students in their subject club to design a project on food and nutrition"
+      ],
+      "assessment": "A project on food and nutrition is well designed",
+      "resources": [
+        "Articles,",
+        "Journals,",
+        "Anthropometric measuring equipment questionnaire,",
+        "RDA tables,",
+        "food composition tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "April",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-31",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "3.0 Carry out a project in Food and Nutrition",
+      "specific_competence": "Conduct a project in Food and Nutrition",
+      "learning_activity": "(a) Design and carry out a project in Food and Nutrition",
+      "activity_id": "food-five-14",
+      "periods": 5,
+      "activity_total_periods": 25,
+      "teaching_learning_activities": [
+        "Project: Guide students in their subject club to design a project on food and nutrition"
+      ],
+      "assessment": "A project on food and nutrition is well designed",
+      "resources": [
+        "Articles,",
+        "Journals,",
+        "Anthropometric measuring equipment questionnaire,",
+        "RDA tables,",
+        "food composition tables"
+      ],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "May",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-32",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TIE, Food and Nutrition for Advanced Secondary Schools Form Five: Student's Book and Teacher's Guide, Tanzania Institute of Education",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}
