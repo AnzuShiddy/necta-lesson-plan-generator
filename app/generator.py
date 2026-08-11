@@ -38,6 +38,9 @@ supplied by the teacher.
 - `specific_activities` is the teacher's own breakdown of the main activity: list the \
 two to four concrete activities the class actually works through in this one lesson, \
 each a short phrase, in the order they are taught.
+- Leave `remarks` as an empty string. It is filled in by hand after the lesson has \
+been taught, so never write it in advance and never state how the lesson went, how \
+many students attended or whether the time was enough.
 - Write in clear, professional English suitable for a teacher's file and for inspection."""
 
 STAGE_GUIDES = {

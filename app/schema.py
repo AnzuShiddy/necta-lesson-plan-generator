@@ -53,7 +53,15 @@ class GeneratedLessonPlan(BaseModel):
     teaching_learning_resources: list[str] = Field(description="Resources, favouring locally available/improvised materials")
     references: list[str] = Field(description="Approved TIE (2023 edition) book citations with page placeholders")
     stages: list[LessonStage] = Field(description="Lesson development stages in order")
-    remarks: str = Field(description="Space-filler guidance for the remarks section")
+    # Remarks is a post-lesson field on the TIE form: the teacher writes it after
+    # teaching. Pre-filling it makes the plan claim things that have not happened
+    # yet ("all 47 students participated"), which is false in a document that goes
+    # to inspection — so it is always exported blank for the teacher to complete.
+    remarks: str = Field(
+        default="",
+        description="Always return an empty string; the teacher writes this after "
+                    "teaching the lesson",
+    )
 
 
 # ---------------------------------------------------------------------------

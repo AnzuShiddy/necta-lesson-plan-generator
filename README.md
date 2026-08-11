@@ -234,8 +234,20 @@ of the Word/PDF export.
 
   The booklet page has no title and no school/teacher lines, so the export
   omits them too. Fields the teacher left blank print as dotted leaders to be
-  filled in by hand, and the *Present* half of the students table is always
-  left empty for the teacher to complete on the day.
+  filled in by hand.
+
+Three parts of the form are deliberately never generated, because they record
+what happened rather than what is planned:
+
+- the *Present* half of the students table — attendance is taken on the day;
+- **Remarks** — written after teaching. An LLM asked to fill it in will happily
+  write "the lesson was successfully conducted with full participation of all
+  47 students" for a lesson nobody has taught yet, which is a false claim in a
+  document that goes to inspection;
+- the pages/volume in **References**, which print as `pp. ___`.
+
+A plan for a double period fits one A4 page. Longer ones flow onto a second
+page with the table header repeated.
 
 ## Architecture
 

@@ -243,7 +243,8 @@ function render(payload){
   $('output').innerHTML = `
     <div class="preview">
       ${body}
-      <p class="kv" style="margin-top:12px"><b>Remarks:</b> ${esc(p.remarks) || DOTS}</p>
+      <!-- Remarks is written by hand after the lesson, so it exports blank -->
+      <p class="kv" style="margin-top:12px"><b>Remarks:</b> ${DOTS}</p>
       <div class="row">
         <button type="button" class="secondary" onclick="download('docx')">↓ Download Word (.docx)</button>
         <button type="button" class="secondary" onclick="download('pdf')">↓ Download PDF</button>

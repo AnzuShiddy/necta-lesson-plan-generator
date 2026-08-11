@@ -36,8 +36,12 @@ from .schema import LessonPlanDocument
 _LP_DOTS = "." * 30
 _PROCESS_COLS = ["Stages", "Time (Minutes)", "Teaching Activities",
                  "Learning Activities", "Assessment Criteria"]
-# Column proportions measured off the printed TIE booklet page.
-_PROCESS_WIDTHS = [3.1, 2.1, 5.6, 5.6, 2.2]  # cm, sums to the A4 text width
+# Column proportions follow the printed TIE booklet page, except that Assessment
+# Criteria is widened from the booklet's 12% to 16%. The booklet is written on by
+# hand in a few words; a generated criterion runs to ~100 characters, and at the
+# printed width it wrapped to ten lines and drove the whole table onto a second
+# page. Time only ever holds a number, so it gives up the space.
+_PROCESS_WIDTHS = [3.0, 1.8, 5.4, 5.4, 3.0]  # cm, sums to the A4 text width
 
 
 def _is_tie(doc: LessonPlanDocument) -> bool:
@@ -221,7 +225,7 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
     _docx_process_table(d, doc)
 
     d.add_paragraph()
-    kv("Remarks", doc.plan.remarks or _LP_DOTS)
+    kv("Remarks", _LP_DOTS)   # written by hand after the lesson — see schema.py
 
     buf = io.BytesIO()
     d.save(buf)
@@ -348,7 +352,7 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
 
     story.append(_pdf_process_table(doc, cell, cell_head, tie))
     story.append(Spacer(1, 8))
-    block("Remarks", doc.plan.remarks or _LP_DOTS)
+    block("Remarks", _LP_DOTS)   # written by hand after the lesson — see schema.py
 
     pdf.build(story)
     return buf.getvalue()
