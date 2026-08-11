@@ -22,38 +22,92 @@ from reportlab.platypus import (
 from .schema import LessonPlanDocument
 
 
-# Official TIE (2023 revised curriculum) lesson plan layout: portrait page,
-# LESSON PLAN title, School/Teacher, Form/Subject, Time/Date lines, a
-# Registered/Present students table, competence and activity lines, then the
-# Teaching and Learning Process table and Remarks.
+# Two lesson plan layouts share one page skeleton:
+#
+#   "classic"  — the school-file layout: LESSON PLAN title, School/Teacher,
+#                Form/Subject, Time/Date lines, then the common body.
+#   "tie2023"  — a facsimile of the pre-printed TIE lesson plan booklet: no
+#                title and no school/teacher lines, Subject/Class then Date/Time
+#                paired down the page, Main Competence, the Registered/Present
+#                students table, then Specific Competence, Main Activity,
+#                Specific Activities, Resources and References.
+#
+# Both then print the "Teaching and Learning Process" table and Remarks.
 _LP_DOTS = "." * 30
+_PROCESS_COLS = ["Stages", "Time (Minutes)", "Teaching Activities",
+                 "Learning Activities", "Assessment Criteria"]
+# Column proportions measured off the printed TIE booklet page.
+_PROCESS_WIDTHS = [3.1, 2.1, 5.6, 5.6, 2.2]  # cm, sums to the A4 text width
 
 
-def _lp_header_lines(doc: LessonPlanDocument) -> list[str]:
+def _is_tie(doc: LessonPlanDocument) -> bool:
+    return doc.request.plan_format == "tie2023"
+
+
+def _lp_time(doc: LessonPlanDocument) -> str:
     r = doc.request
     time = r.time
     if r.period_number:
         time = f"Period {r.period_number}, {time}".strip(", ")
     if r.duration_minutes:
         time = f"{time} ({r.duration_minutes} minutes)".strip()
+    return time
+
+
+def _lp_header_lines(doc: LessonPlanDocument) -> list[str]:
+    r = doc.request
     return [
         f"Name of School: {r.school_name or _LP_DOTS}"
         f"        Teacher's Name: {r.teacher_name or _LP_DOTS}",
         f"Form: {f'{r.form} {r.stream}'.strip()}        Subject: {r.subject}",
-        f"Time: {time or _LP_DOTS}        Date: {r.date or _LP_DOTS}",
+        f"Time: {_lp_time(doc) or _LP_DOTS}        Date: {r.date or _LP_DOTS}",
+    ]
+
+
+def _tie_header_pairs(doc: LessonPlanDocument) -> list[tuple[str, str]]:
+    """The four boxed-in header fields of the TIE booklet, in printed order."""
+    r = doc.request
+    return [
+        ("Subject", r.subject),
+        ("Class", f"{r.form} {r.stream}".strip() or _LP_DOTS),
+        ("Date", r.date or _LP_DOTS),
+        ("Time", _lp_time(doc) or _LP_DOTS),
     ]
 
 
 def _lp_fields(doc: LessonPlanDocument) -> list[tuple[str, str]]:
+    """Body fields printed below the students table.
+
+    On the TIE form Main Competence sits *above* the students table, so it is
+    emitted separately there; the classic layout keeps it here at the top.
+    """
     p = doc.plan
+    resources = "; ".join(p.teaching_learning_resources)
+    references = "; ".join(p.references)
+    main_activity = doc.request.subtopic or p.lesson_title
+    specific = "; ".join(p.specific_activities) or p.lesson_title
+
+    if _is_tie(doc):
+        return [
+            ("Specific Competence", p.specific_competence),
+            ("Main Activity", main_activity),
+            ("Specific Activities", specific),
+            ("Teaching and Learning Resources", resources),
+            ("References", references),
+        ]
+
     fields = [
         ("Main Competence", p.main_competence),
         ("Specific Competence", p.specific_competence),
-        ("Main Activity", doc.request.subtopic or p.lesson_title),
-        ("Specific Activity", p.lesson_title),
+        ("Main Activity", main_activity),
+        ("Specific Activities", specific),
     ]
     if doc.request.week_label:
         fields.append(("Scheme of Work Reference", doc.request.week_label))
+    fields += [
+        ("Teaching and Learning Resources", resources),
+        ("References", references),
+    ]
     return fields
 
 
@@ -61,72 +115,113 @@ def _lp_fields(doc: LessonPlanDocument) -> list[tuple[str, str]]:
 # DOCX
 # ---------------------------------------------------------------------------
 
-def to_docx(doc: LessonPlanDocument) -> bytes:
+def _docx_students_table(d: Document, doc: LessonPlanDocument):
+    """Number of students: Registered vs Present (present left for the teacher)."""
     r = doc.request
-    d = Document()
-    style = d.styles["Normal"]
-    style.font.name = "Calibri"
-    style.font.size = Pt(10)
-
-    title = d.add_paragraph()
-    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = title.add_run("LESSON PLAN")
-    run.bold = True
-    run.font.size = Pt(14)
-
-    for line in _lp_header_lines(doc):
-        d.add_paragraph(line)
-
-    # Number of students: Registered vs Present (present left for the teacher)
     stable = d.add_table(rows=4, cols=6)
     stable.style = "Table Grid"
     stable.alignment = WD_TABLE_ALIGNMENT.CENTER
     top = stable.rows[0].cells
-    top[0].merge(top[5]).paragraphs[0].add_run("Number of students").bold = True
+    head = top[0].merge(top[5]).paragraphs[0]
+    head.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    head.add_run("Number of students").bold = True
     mid = stable.rows[1].cells
-    mid[0].merge(mid[2]).paragraphs[0].add_run("Registered").bold = True
-    mid[3].merge(mid[5]).paragraphs[0].add_run("Present").bold = True
+    for cells, label in ((mid[0].merge(mid[2]), "Registered"),
+                         (mid[3].merge(mid[5]), "Present")):
+        para = cells.paragraphs[0]
+        para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        para.add_run(label).bold = True
     for c, label in zip(stable.rows[2].cells, ["Girls", "Boys", "Total"] * 2):
-        c.paragraphs[0].add_run(label).bold = True
+        para = c.paragraphs[0]
+        para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        para.add_run(label).bold = True
     for c, value in zip(stable.rows[3].cells,
                         [r.girls, r.boys, r.boys + r.girls, "", "", ""]):
         c.text = str(value)
+        c.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.CENTER
+    return stable
 
-    d.add_paragraph()
+
+def _docx_process_table(d: Document, doc: LessonPlanDocument):
+    table = d.add_table(rows=1, cols=len(_PROCESS_COLS))
+    table.style = "Table Grid"
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    table.autofit = False
+    for cell, label, width in zip(table.rows[0].cells, _PROCESS_COLS,
+                                  _PROCESS_WIDTHS):
+        cell.width = Cm(width)
+        para = cell.paragraphs[0]
+        para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        para.add_run(label).bold = True
+    for st in doc.plan.stages:
+        cells = table.add_row().cells
+        for cell, width, text in zip(
+            cells, _PROCESS_WIDTHS,
+            [st.stage, str(st.duration_minutes), st.teaching_activities,
+             st.learning_activities, st.assessment],
+        ):
+            cell.width = Cm(width)
+            cell.text = text
+        cells[0].paragraphs[0].runs[0].bold = True
+    return table
+
+
+def to_docx(doc: LessonPlanDocument) -> bytes:
+    d = Document()
+    style = d.styles["Normal"]
+    style.font.name = "Calibri"
+    style.font.size = Pt(10)
+    if _is_tie(doc):
+        for sec in d.sections:
+            sec.left_margin = sec.right_margin = Cm(1.2)
 
     def kv(label: str, value: str):
         p = d.add_paragraph()
         p.add_run(label + ": ").bold = True
         p.add_run(value)
+        return p
 
-    for label, value in _lp_fields(doc):
-        kv(label, value)
+    if _is_tie(doc):
+        # The booklet page carries no title and no school/teacher lines: it
+        # opens straight into Subject/Class, Date/Time, then Main Competence.
+        pairs = _tie_header_pairs(doc)
+        head = d.add_table(rows=2, cols=2)   # borderless, to align the columns
+        head.autofit = False
+        for row, (left, right) in zip(head.rows, [pairs[:2], pairs[2:]]):
+            for cell, (label, value) in zip(row.cells, (left, right)):
+                cell.width = Cm(9.3)
+                para = cell.paragraphs[0]
+                para.add_run(label + ": ").bold = True
+                para.add_run(value)
+        kv("Main Competence", doc.plan.main_competence)
+        d.add_paragraph()
+        _docx_students_table(d, doc)
+        d.add_paragraph()
+        for label, value in _lp_fields(doc):
+            kv(label, value)
+        d.add_paragraph()
+        heading = d.add_paragraph()
+        heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        heading.add_run("Teaching and Learning Process").bold = True
+    else:
+        title = d.add_paragraph()
+        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = title.add_run("LESSON PLAN")
+        run.bold = True
+        run.font.size = Pt(14)
+        for line in _lp_header_lines(doc):
+            d.add_paragraph(line)
+        _docx_students_table(d, doc)
+        d.add_paragraph()
+        for label, value in _lp_fields(doc):
+            kv(label, value)
+        d.add_paragraph()
+        d.add_paragraph().add_run("Teaching and Learning Process").bold = True
 
-    kv("Teaching and Learning Resources",
-       "; ".join(doc.plan.teaching_learning_resources))
-    kv("References", "; ".join(doc.plan.references))
+    _docx_process_table(d, doc)
 
     d.add_paragraph()
-    p = d.add_paragraph()
-    p.add_run("Teaching and Learning Process").bold = True
-
-    table = d.add_table(rows=1, cols=5)
-    table.style = "Table Grid"
-    table.alignment = WD_TABLE_ALIGNMENT.CENTER
-    for cell, label in zip(table.rows[0].cells,
-                           ["Stages", "Time (Minutes)", "Teaching Activities",
-                            "Learning Activities", "Assessment Criteria"]):
-        cell.paragraphs[0].add_run(label).bold = True
-    for st in doc.plan.stages:
-        cells = table.add_row().cells
-        cells[0].text = st.stage
-        cells[1].text = str(st.duration_minutes)
-        cells[2].text = st.teaching_activities
-        cells[3].text = st.learning_activities
-        cells[4].text = st.assessment
-
-    d.add_paragraph()
-    kv("Remarks", doc.plan.remarks)
+    kv("Remarks", doc.plan.remarks or _LP_DOTS)
 
     buf = io.BytesIO()
     d.save(buf)
@@ -137,8 +232,61 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
 # PDF
 # ---------------------------------------------------------------------------
 
-def to_pdf(doc: LessonPlanDocument) -> bytes:
+def _pdf_students_table(doc: LessonPlanDocument, style: ParagraphStyle,
+                        tie: bool) -> Table:
     r = doc.request
+    total = r.boys + r.girls
+    centred = ParagraphStyle("stucell", parent=style, alignment=1)
+    data = [
+        [Paragraph("<b>Number of students</b>", centred), "", "", "", "", ""],
+        [Paragraph("<b>Registered</b>", centred), "", "",
+         Paragraph("<b>Present</b>", centred), "", ""],
+        [Paragraph(f"<b>{h}</b>", centred) for h in ["Girls", "Boys", "Total"] * 2],
+        [Paragraph(str(v), centred) for v in [r.girls, r.boys, total]] + ["", "", ""],
+    ]
+    width = 2.6 * cm if tie else 2.2 * cm
+    table = Table(data, colWidths=[width] * 6,
+                  hAlign="CENTER" if tie else "LEFT")
+    table.setStyle(TableStyle([
+        ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
+        ("SPAN", (0, 0), (5, 0)),
+        ("SPAN", (0, 1), (2, 1)),
+        ("SPAN", (3, 1), (5, 1)),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("TOPPADDING", (0, 0), (-1, -1), 2),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+    ]))
+    return table
+
+
+def _pdf_process_table(doc: LessonPlanDocument, cell: ParagraphStyle,
+                       head: ParagraphStyle, tie: bool) -> Table:
+    data = [[Paragraph(h, head) for h in _PROCESS_COLS]]
+    for st in doc.plan.stages:
+        data.append([
+            Paragraph(f"<b>{st.stage}</b>", cell),
+            Paragraph(str(st.duration_minutes), cell),
+            Paragraph(st.teaching_activities.replace("\n", "<br/>"), cell),
+            Paragraph(st.learning_activities.replace("\n", "<br/>"), cell),
+            Paragraph(st.assessment.replace("\n", "<br/>"), cell),
+        ])
+    table = Table(data, colWidths=[w * cm for w in _PROCESS_WIDTHS], repeatRows=1)
+    style = [
+        ("GRID", (0, 0), (-1, -1), 0.5, colors.black),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("TOPPADDING", (0, 0), (-1, -1), 4),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+    ]
+    # The printed booklet has no shaded header row; the classic layout keeps
+    # the app's green banner.
+    if not tie:
+        style.append(("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")))
+    table.setStyle(TableStyle(style))
+    return table
+
+
+def to_pdf(doc: LessonPlanDocument) -> bytes:
+    tie = _is_tie(doc)
     buf = io.BytesIO()
     pdf = SimpleDocTemplate(
         buf,
@@ -151,70 +299,56 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
     )
     styles = getSampleStyleSheet()
     cell = ParagraphStyle("cell", parent=styles["Normal"], fontSize=8, leading=10)
-    cell_b = ParagraphStyle("cellb", parent=cell, fontName="Helvetica-Bold",
-                            textColor=colors.white)
+    cell_head = ParagraphStyle(
+        "cellhead", parent=cell, fontName="Helvetica-Bold", alignment=1,
+        textColor=colors.black if tie else colors.white)
     h1 = ParagraphStyle("h1", parent=styles["Title"], fontSize=16)
-    small = ParagraphStyle("small", parent=styles["Normal"], fontSize=9, leading=12)
+    small = ParagraphStyle("small", parent=styles["Normal"], fontSize=9, leading=14)
+    centre = ParagraphStyle("centre", parent=small, alignment=1, fontSize=11,
+                            fontName="Helvetica-Bold")
 
-    story = [Paragraph("LESSON PLAN", h1)]
-    for line in _lp_header_lines(doc):
-        story.append(Paragraph(line.replace("        ", "&nbsp;" * 8), small))
-    story.append(Spacer(1, 6))
-
-    # Number of students: Registered vs Present
-    total = r.boys + r.girls
-    sdata = [
-        [Paragraph("<b>Number of students</b>", small), "", "", "", "", ""],
-        [Paragraph("<b>Registered</b>", small), "", "", Paragraph("<b>Present</b>", small), "", ""],
-        [Paragraph(f"<b>{h}</b>", small) for h in ["Girls", "Boys", "Total"] * 2],
-        [Paragraph(str(v), small) for v in [r.girls, r.boys, total]] + ["", "", ""],
-    ]
-    stable = Table(sdata, colWidths=[2.2 * cm] * 6, hAlign="LEFT")
-    stable.setStyle(TableStyle([
-        ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
-        ("SPAN", (0, 0), (5, 0)),
-        ("SPAN", (0, 1), (2, 1)),
-        ("SPAN", (3, 1), (5, 1)),
-        ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 2),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
-    ]))
-    story += [stable, Spacer(1, 8)]
+    story: list = []
 
     def block(label, value):
         story.append(Paragraph(f"<b>{label}:</b> {value}", small))
 
-    for label, value in _lp_fields(doc):
-        block(label, value)
-    block("Teaching and Learning Resources",
-          "; ".join(doc.plan.teaching_learning_resources))
-    block("References", "; ".join(doc.plan.references))
-    story.append(Spacer(1, 8))
-    story.append(Paragraph("<b>Teaching and Learning Process</b>", small))
+    if tie:
+        # Subject/Class and Date/Time paired across the page, as printed.
+        pairs = _tie_header_pairs(doc)
+        rows = [[Paragraph(f"<b>{lbl}:</b> {val}", small) for lbl, val in pair]
+                for pair in (pairs[:2], pairs[2:])]
+        header = Table(rows, colWidths=[9.3 * cm, 9.3 * cm], hAlign="LEFT")
+        header.setStyle(TableStyle([
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("LEFTPADDING", (0, 0), (-1, -1), 0),
+            ("TOPPADDING", (0, 0), (-1, -1), 0),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+        ]))
+        story.append(header)
+        block("Main Competence", doc.plan.main_competence)
+        story.append(Spacer(1, 8))
+        story.append(_pdf_students_table(doc, small, tie))
+        story.append(Spacer(1, 10))
+        for label, value in _lp_fields(doc):
+            block(label, value)
+        story.append(Spacer(1, 8))
+        story.append(Paragraph("Teaching and Learning Process", centre))
+    else:
+        story.append(Paragraph("LESSON PLAN", h1))
+        for line in _lp_header_lines(doc):
+            story.append(Paragraph(line.replace("        ", "&nbsp;" * 8), small))
+        story.append(Spacer(1, 6))
+        story.append(_pdf_students_table(doc, small, tie))
+        story.append(Spacer(1, 8))
+        for label, value in _lp_fields(doc):
+            block(label, value)
+        story.append(Spacer(1, 8))
+        story.append(Paragraph("<b>Teaching and Learning Process</b>", small))
     story.append(Spacer(1, 4))
 
-    data = [[Paragraph(h, cell_b) for h in
-             ["Stages", "Time (Minutes)", "Teaching Activities",
-              "Learning Activities", "Assessment Criteria"]]]
-    for st in doc.plan.stages:
-        data.append([
-            Paragraph(f"<b>{st.stage}</b>", cell),
-            Paragraph(str(st.duration_minutes), cell),
-            Paragraph(st.teaching_activities.replace("\n", "<br/>"), cell),
-            Paragraph(st.learning_activities.replace("\n", "<br/>"), cell),
-            Paragraph(st.assessment.replace("\n", "<br/>"), cell),
-        ])
-    table = Table(data, colWidths=[2.8 * cm, 1.7 * cm, 5.5 * cm, 5.5 * cm, 3.1 * cm],
-                  repeatRows=1)
-    table.setStyle(TableStyle([
-        ("GRID", (0, 0), (-1, -1), 0.5, colors.black),
-        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1f7a4d")),
-        ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 4),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
-    ]))
-    story += [table, Spacer(1, 8)]
-    block("Remarks", doc.plan.remarks)
+    story.append(_pdf_process_table(doc, cell, cell_head, tie))
+    story.append(Spacer(1, 8))
+    block("Remarks", doc.plan.remarks or _LP_DOTS)
 
     pdf.build(story)
     return buf.getvalue()

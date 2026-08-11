@@ -194,10 +194,48 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 Without a key, the browsing/preview UI still loads and exports work, but
 **Generate** returns a 502 telling you to set `GEMINI_API_KEY`.
 
-## Lesson development formats
+## Lesson plan formats
 
-- **Classic** — Introduction → New Knowledge → Reinforcement → Reflection → Consolidation
-- **TIE 2023** — Introduction → Competence Development → Design → Realisation
+The format picked in the form changes both the lesson stages and the page layout
+of the Word/PDF export.
+
+- **Classic** — Introduction → New Knowledge → Reinforcement → Reflection →
+  Consolidation, on the school-file page: a `LESSON PLAN` title, school and
+  teacher lines, and the scheme-of-work week printed as a reference.
+- **TIE 2023 booklet form** — Introduction → Competence Development → Design →
+  Realisation, laid out as a facsimile of the pre-printed TIE lesson plan
+  booklet page:
+
+  ```
+  Subject: ................        Class: ..............
+  Date: ...................        Time: ...............
+  Main Competence: ...........................................
+
+              ┌───────────── Number of students ─────────────┐
+              │     Registered      │        Present         │
+              │ Girls │ Boys │ Total│ Girls │ Boys │ Total    │
+
+  Specific Competence: .......................................
+  Main Activity: .............................................
+  Specific Activities: .......................................
+  Teaching and Learning Resources: ...........................
+  References: ................................................
+
+                  Teaching and Learning Process
+  ┌────────────┬───────────┬────────────┬────────────┬────────────┐
+  │   Stages   │   Time    │  Teaching  │  Learning  │ Assessment │
+  │            │ (Minutes) │ Activities │ Activities │  Criteria  │
+  ├────────────┼───────────┼────────────┼────────────┼────────────┤
+  │ Introduction / Competence Development / Design / Realisation  │
+  └────────────┴───────────┴────────────┴────────────┴────────────┘
+
+  Remarks: ...................................................
+  ```
+
+  The booklet page has no title and no school/teacher lines, so the export
+  omits them too. Fields the teacher left blank print as dotted leaders to be
+  filled in by hand, and the *Present* half of the students table is always
+  left empty for the teacher to complete on the day.
 
 ## Architecture
 

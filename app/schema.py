@@ -45,6 +45,11 @@ class GeneratedLessonPlan(BaseModel):
     lesson_title: str = Field(description="Short title of the lesson")
     main_competence: str = Field(description="Main competence exactly as in the syllabus")
     specific_competence: str = Field(description="Specific competence exactly as in the syllabus")
+    specific_activities: list[str] = Field(
+        default_factory=list,
+        description="The teacher's breakdown of the main activity into the concrete "
+                    "activities done in this single lesson",
+    )
     teaching_learning_resources: list[str] = Field(description="Resources, favouring locally available/improvised materials")
     references: list[str] = Field(description="Approved TIE (2023 edition) book citations with page placeholders")
     stages: list[LessonStage] = Field(description="Lesson development stages in order")

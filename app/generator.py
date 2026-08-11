@@ -35,6 +35,9 @@ Every enumerated sub-topic assigned to this lesson must be visibly addressed in 
 lesson stages or assessment — none may be skipped.
 - The stages you produce must sum (in duration_minutes) to the total lesson duration \
 supplied by the teacher.
+- `specific_activities` is the teacher's own breakdown of the main activity: list the \
+two to four concrete activities the class actually works through in this one lesson, \
+each a short phrase, in the order they are taught.
 - Write in clear, professional English suitable for a teacher's file and for inspection."""
 
 STAGE_GUIDES = {
@@ -44,9 +47,10 @@ STAGE_GUIDES = {
         "competence-based lesson development format used in Tanzanian secondary schools."
     ),
     "tie2023": (
-        "Use these four stages in order: Introduction, Competence Development, "
-        "Design, Realisation. This follows the TIE 2023 competence-based lesson "
-        "development stages."
+        "Use exactly these four stages, in this order, named exactly like this: "
+        "Introduction, Competence Development, Design, Realisation. These are the "
+        "four rows pre-printed on the TIE 2023 lesson plan form, so produce four "
+        "stages — no more, no fewer."
     ),
 }
 

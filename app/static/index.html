@@ -41,6 +41,11 @@
     table.plan { width:100%; border-collapse:collapse; margin-top:10px; font-size:.85rem; }
     table.plan th, table.plan td { border:1px solid var(--line); padding:7px; vertical-align:top; text-align:left; }
     table.plan th { background:var(--green); color:#fff; }
+    table.plan.students { width:auto; margin:12px auto; }
+    table.plan.students th, table.plan.students td { text-align:center; min-width:64px; }
+    /* Subject/Class and Date/Time sit paired across the TIE booklet page */
+    .tieHead { display:grid; grid-template-columns:1fr 1fr; column-gap:24px; }
+    .tieHead p { margin:2px 0; }
     .kv b { color:var(--green); }
     ul { margin:4px 0; padding-left:20px; }
     @media (max-width:760px){ .grid{grid-template-columns:1fr;} }
@@ -99,7 +104,7 @@
             <label>Lesson development format</label>
             <select id="plan_format">
               <option value="classic">Classic (Introduction → New Knowledge → Reinforcement → Reflection → Consolidation)</option>
-              <option value="tie2023">TIE 2023 (Introduction → Competence Development → Design → Realisation)</option>
+              <option value="tie2023">TIE 2023 booklet form (Introduction → Competence Development → Design → Realisation)</option>
             </select>
           </div>
         </div>
@@ -174,19 +179,71 @@ async function downloadScheme(kind){
 $('subject').onchange = loadForms;
 $('form').onchange = loadScheme;
 
+const DOTS = '.'.repeat(30);
+function kv(label, value){ return `<p class="kv"><b>${label}:</b> ${esc(value)}</p>`; }
+
+// Mirrors exporters.py so the preview is what the teacher downloads.
+function timeLabel(r){
+  let t = r.time || '';
+  if(r.period_number) t = `Period ${r.period_number}, ${t}`.replace(/,\s*$/,'');
+  if(r.duration_minutes) t = `${t} (${r.duration_minutes} minutes)`.trim();
+  return t;
+}
+function studentsTable(r){
+  return `<table class="plan students">
+    <tr><th colspan="6">Number of students</th></tr>
+    <tr><th colspan="3">Registered</th><th colspan="3">Present</th></tr>
+    <tr><th>Girls</th><th>Boys</th><th>Total</th><th>Girls</th><th>Boys</th><th>Total</th></tr>
+    <tr><td>${r.girls}</td><td>${r.boys}</td><td>${r.boys + r.girls}</td><td></td><td></td><td></td></tr>
+  </table>`;
+}
+function processTable(p){
+  const stages = p.stages.map(s=>`<tr><td><b>${esc(s.stage)}</b></td><td>${s.duration_minutes}</td><td>${esc(s.teaching_activities)}</td><td>${esc(s.learning_activities)}</td><td>${esc(s.assessment)}</td></tr>`).join('');
+  return `<table class="plan"><thead><tr><th>Stages</th><th>Time (Minutes)</th><th>Teaching Activities</th><th>Learning Activities</th><th>Assessment Criteria</th></tr></thead><tbody>${stages}</tbody></table>`;
+}
+
 function render(payload){
   const p = payload.plan, r = payload.request;
-  const stages = p.stages.map(s=>`<tr><td><b>${esc(s.stage)}</b><br><span class="muted">${s.duration_minutes} min</span></td><td>${esc(s.teaching_activities)}</td><td>${esc(s.learning_activities)}</td><td>${esc(s.assessment)}</td></tr>`).join('');
+  const resources = p.teaching_learning_resources.join('; ');
+  const refs = p.references.join('; ');
+  const mainActivity = r.subtopic || p.lesson_title;
+  const specific = (p.specific_activities || []).join('; ') || p.lesson_title;
+  let body;
+
+  if(r.plan_format === 'tie2023'){
+    // Facsimile of the pre-printed TIE booklet page: no title, no school or
+    // teacher lines, Main Competence above the students table.
+    body = `
+      <div class="tieHead">
+        ${kv('Subject', r.subject)}${kv('Class', `${r.form} ${r.stream}`.trim() || DOTS)}
+        ${kv('Date', r.date || DOTS)}${kv('Time', timeLabel(r) || DOTS)}
+      </div>
+      ${kv('Main Competence', p.main_competence)}
+      ${studentsTable(r)}
+      ${kv('Specific Competence', p.specific_competence)}
+      ${kv('Main Activity', mainActivity)}
+      ${kv('Specific Activities', specific)}
+      ${kv('Teaching and Learning Resources', resources)}
+      ${kv('References', refs)}
+      <h3 style="text-align:center;margin:14px 0 6px">Teaching and Learning Process</h3>
+      ${processTable(p)}`;
+  } else {
+    body = `
+      <h2>${esc(p.lesson_title)}</h2>
+      ${kv('Scheme of work', r.week_label)}
+      ${kv('Main Competence', p.main_competence)}
+      ${kv('Specific Competence', p.specific_competence)}
+      ${kv('Main Activity', mainActivity)}
+      ${kv('Specific Activities', specific)}
+      ${kv('Teaching and Learning Resources', resources)}
+      ${kv('References', refs)}
+      ${processTable(p)}`;
+  }
+
   $('output').innerHTML = `
     <div class="preview">
-      <h2>${esc(p.lesson_title)}</h2>
-      <p class="kv"><b>Scheme of work:</b> ${esc(r.week_label)}</p>
-      <p class="kv"><b>Main competence:</b> ${esc(p.main_competence)}</p>
-      <p class="kv"><b>Specific competence:</b> ${esc(p.specific_competence)}</p>
-      <p class="kv"><b>Resources:</b> ${p.teaching_learning_resources.map(esc).join('; ')}</p>
-      <p class="kv"><b>References:</b> ${p.references.map(esc).join('; ')}</p>
-      <table class="plan"><thead><tr><th>Stage / Time</th><th>Teaching activities</th><th>Learning activities</th><th>Assessment</th></tr></thead><tbody>${stages}</tbody></table>
-      <p class="kv" style="margin-top:12px"><b>Remarks:</b> ${esc(p.remarks)}</p>
+      ${body}
+      <p class="kv" style="margin-top:12px"><b>Remarks:</b> ${esc(p.remarks) || DOTS}</p>
       <div class="row">
         <button type="button" class="secondary" onclick="download('docx')">↓ Download Word (.docx)</button>
         <button type="button" class="secondary" onclick="download('pdf')">↓ Download PDF</button>
