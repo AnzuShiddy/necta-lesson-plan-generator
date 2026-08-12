@@ -19,6 +19,7 @@ from reportlab.platypus import (
     TableStyle,
 )
 
+from . import calendars
 from .schema import LessonPlanDocument
 
 
@@ -46,6 +47,18 @@ _PROCESS_WIDTHS = [3.0, 1.8, 5.4, 5.4, 3.0]  # cm, sums to the A4 text width
 
 def _is_tie(doc: LessonPlanDocument) -> bool:
     return doc.request.plan_format == "tie2023"
+
+
+def _translation_note(doc: LessonPlanDocument) -> str:
+    """TIE publishes the pre-primary and primary syllabuses in Kiswahili. An
+    English-medium plan therefore carries translated competence statements, and
+    must say so — everywhere else in this app a competence is verbatim syllabus
+    text, and a reader has no other way to tell the difference."""
+    r = doc.request
+    if calendars.takes_medium(r.form) and r.medium == calendars.ENGLISH:
+        return ("Note: this school is English-medium. The competence statements above are "
+                "an English translation of the Kiswahili TIE syllabus, not its wording.")
+    return ""
 
 
 def _lp_time(doc: LessonPlanDocument) -> str:
@@ -88,7 +101,10 @@ def _lp_fields(doc: LessonPlanDocument) -> list[tuple[str, str]]:
     p = doc.plan
     resources = "; ".join(p.teaching_learning_resources)
     references = "; ".join(p.references)
-    main_activity = doc.request.subtopic or p.lesson_title
+    # p.main_activity is the activity in the plan's language (an English-medium
+    # plan renders the Kiswahili syllabus text); request.subtopic is the raw
+    # scheme entry, used when the model did not supply one.
+    main_activity = p.main_activity or doc.request.subtopic or p.lesson_title
     specific = "; ".join(p.specific_activities) or p.lesson_title
 
     if _is_tie(doc):
@@ -118,6 +134,14 @@ def _lp_fields(doc: LessonPlanDocument) -> list[tuple[str, str]]:
 # ---------------------------------------------------------------------------
 # DOCX
 # ---------------------------------------------------------------------------
+
+def _docx_note(d: Document, doc: LessonPlanDocument):
+    note = _translation_note(doc)
+    if note:
+        run = d.add_paragraph().add_run(note)
+        run.italic = True
+        run.font.size = Pt(8)
+
 
 def _docx_students_table(d: Document, doc: LessonPlanDocument):
     """Number of students: Registered vs Present (present left for the teacher)."""
@@ -203,6 +227,7 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
         d.add_paragraph()
         for label, value in _lp_fields(doc):
             kv(label, value)
+        _docx_note(d, doc)
         d.add_paragraph()
         heading = d.add_paragraph()
         heading.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -219,6 +244,7 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
         d.add_paragraph()
         for label, value in _lp_fields(doc):
             kv(label, value)
+        _docx_note(d, doc)
         d.add_paragraph()
         d.add_paragraph().add_run("Teaching and Learning Process").bold = True
 
@@ -235,6 +261,14 @@ def to_docx(doc: LessonPlanDocument) -> bytes:
 # ---------------------------------------------------------------------------
 # PDF
 # ---------------------------------------------------------------------------
+
+def note(story: list, doc: LessonPlanDocument, style: ParagraphStyle):
+    text = _translation_note(doc)
+    if text:
+        story.append(Paragraph(f"<i>{text}</i>",
+                               ParagraphStyle("note", parent=style, fontSize=7.5,
+                                              textColor=colors.HexColor("#5a6b60"))))
+
 
 def _pdf_students_table(doc: LessonPlanDocument, style: ParagraphStyle,
                         tie: bool) -> Table:
@@ -335,6 +369,7 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
         story.append(Spacer(1, 10))
         for label, value in _lp_fields(doc):
             block(label, value)
+        note(story, doc, small)
         story.append(Spacer(1, 8))
         story.append(Paragraph("Teaching and Learning Process", centre))
     else:
@@ -346,6 +381,7 @@ def to_pdf(doc: LessonPlanDocument) -> bytes:
         story.append(Spacer(1, 8))
         for label, value in _lp_fields(doc):
             block(label, value)
+        note(story, doc, small)
         story.append(Spacer(1, 8))
         story.append(Paragraph("<b>Teaching and Learning Process</b>", small))
     story.append(Spacer(1, 4))

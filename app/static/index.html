@@ -74,7 +74,15 @@
           </div>
           <div><label>Subject</label><select id="subject"></select></div>
           <div><label>Form</label><select id="form"></select></div>
-          <div></div>
+          <!-- TIE publishes the pre-primary and primary syllabuses in Kiswahili;
+               English-medium schools teach that same curriculum in English. -->
+          <div id="mediumWrap" hidden>
+            <label>Medium of instruction</label>
+            <select id="medium">
+              <option value="kiswahili">Kiswahili medium</option>
+              <option value="english">English medium</option>
+            </select>
+          </div>
         </div>
         <p class="warn" id="calWarn" hidden></p>
         <div class="row" style="justify-content:space-between">
@@ -140,8 +148,12 @@ let currentPayload = null, selectedEntry = null;
 function esc(s){ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
 
 const level = () => $('level').value;
+// Only pre-primary and primary take a medium choice — see calendars.MEDIUM_LEVELS.
+const MEDIUM_LEVELS = ['nursery','primary'];
+const medium = () => MEDIUM_LEVELS.includes(level()) ? $('medium').value : 'kiswahili';
 
 async function loadSubjects(){
+  $('mediumWrap').hidden = !MEDIUM_LEVELS.includes(level());
   const d = await (await fetch('/api/subjects?level='+level())).json();
   $('subject').innerHTML = d.subjects.map(s=>`<option value="${s.name}"${s.status!=='ready'?' disabled':''}>${s.name}${STATUS_LABEL[s.status]}</option>`).join('');
   const first = d.subjects.find(s=>s.status==='ready');
@@ -221,11 +233,20 @@ function processTable(p){
   return `<table class="plan"><thead><tr><th>Stages</th><th>Time (Minutes)</th><th>Teaching Activities</th><th>Learning Activities</th><th>Assessment Criteria</th></tr></thead><tbody>${stages}</tbody></table>`;
 }
 
+// Mirrors exporters._translation_note: an English-medium plan carries translated
+// competences, and nothing else in the app would tell the reader that.
+function translationNote(r){
+  // medium is only ever 'english' for a level that takes the choice
+  if(r.medium !== 'english') return '';
+  return `<p class="muted" style="margin:6px 0"><i>Note: this school is English-medium. The competence
+    statements above are an English translation of the Kiswahili TIE syllabus, not its wording.</i></p>`;
+}
+
 function render(payload){
   const p = payload.plan, r = payload.request;
   const resources = p.teaching_learning_resources.join('; ');
   const refs = p.references.join('; ');
-  const mainActivity = r.subtopic || p.lesson_title;
+  const mainActivity = p.main_activity || r.subtopic || p.lesson_title;
   const specific = (p.specific_activities || []).join('; ') || p.lesson_title;
   let body;
 
@@ -244,6 +265,7 @@ function render(payload){
       ${kv('Specific Activities', specific)}
       ${kv('Teaching and Learning Resources', resources)}
       ${kv('References', refs)}
+      ${translationNote(r)}
       <h3 style="text-align:center;margin:14px 0 6px">Teaching and Learning Process</h3>
       ${processTable(p)}`;
   } else {
@@ -256,6 +278,7 @@ function render(payload){
       ${kv('Specific Activities', specific)}
       ${kv('Teaching and Learning Resources', resources)}
       ${kv('References', refs)}
+      ${translationNote(r)}
       ${processTable(p)}`;
   }
 
@@ -295,7 +318,7 @@ $('planForm').onsubmit = async (e)=>{
   $('status').textContent = 'Generating…';
   const body = {
     subject:$('subject').value, form:$('form').value, entry_id:selectedEntry,
-    plan_format:$('plan_format').value,
+    plan_format:$('plan_format').value, medium:medium(),
     school_name:$('school_name').value, teacher_name:$('teacher_name').value,
     date:$('date').value, stream:$('stream').value, period_number:$('period_number').value,
     time:$('time').value, duration_minutes:parseInt($('duration_minutes').value),

@@ -151,6 +151,37 @@ A pre-primary session is **20 minutes** (Mtaala wa Elimu ya Awali, Jedwali Na.
 1.5), not the 40-minute period used everywhere else, and the generator is told
 to keep every stage play-based, oral and concrete for that age.
 
+#### Medium of instruction
+
+TIE publishes the pre-primary and primary syllabuses **in Kiswahili only**.
+English versions exist historically (*Science Syllabus For Primary Education
+Standard III–VI*, *Syllabus for English Language STD III–VII ENGLISH MEDIUM
+SCHOOLS*) but every one of them 404s — TIE's whole `uploads/files/` tree is gone,
+the same failure recorded for O-level Arabic. English-medium schools nonetheless
+teach that identical curriculum in English, so the app offers a **medium of
+instruction** choice on these two levels (and only these two — secondary is
+already English-medium apart from its Kiswahili-taught subjects, which the app
+handles per subject):
+
+- **Kiswahili medium** — the whole plan is written in Kiswahili and the
+  competence statements are copied **verbatim** from the syllabus, as everywhere
+  else in the app.
+- **English medium** — the whole plan is written in English, and the competence
+  statements and the learning activity are *translated* from the Kiswahili
+  original. The export then carries a line saying so:
+
+  > *Note: this school is English-medium. The competence statements above are an
+  > English translation of the Kiswahili TIE syllabus, not its wording.*
+
+  That line is not decoration. Everywhere else a competence is verbatim syllabus
+  text, and a reader — including an inspector — has no other way to tell the
+  difference, so an English-medium plan says it plainly.
+
+The **References** citation stays in Kiswahili even for an English-medium plan,
+because it names a real published book (*TET, … Kitabu cha Mwanafunzi na
+Kiongozi cha Mwalimu*). Translating a title would misname the work the teacher
+is meant to pick up.
+
 ### Ordinary level (Form I–IV)
 
 Each subject shows a status:

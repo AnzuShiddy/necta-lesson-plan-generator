@@ -23,7 +23,8 @@ single classroom-ready lesson plan.
 
 Rules you must follow:
 - Copy the `main_competence` and `specific_competence` text EXACTLY as supplied. Do not \
-reword them.
+reword them. The single exception is an explicit MEDIUM OF INSTRUCTION instruction below \
+asking for a translation, which overrides this rule for those two fields only.
 - Base the lesson strictly on the supplied learning activity. Do not introduce content \
 from other topics or invent syllabus references.
 - Favour student-centred, activity-based methods (group discussion, brainstorming, \
@@ -37,13 +38,15 @@ Every enumerated sub-topic assigned to this lesson must be visibly addressed in 
 lesson stages or assessment — none may be skipped.
 - The stages you produce must sum (in duration_minutes) to the total lesson duration \
 supplied by the teacher.
+- `main_activity` is the supplied learning activity as it should appear on the plan, in the plan's own language: copy it as given, or render it in the medium of instruction when one is specified below.
 - `specific_activities` is the teacher's own breakdown of the main activity: list the \
 two to four concrete activities the class actually works through in this one lesson, \
 each a short phrase, in the order they are taught.
 - Leave `remarks` as an empty string. It is filled in by hand after the lesson has \
 been taught, so never write it in advance and never state how the lesson went, how \
 many students attended or whether the time was enough.
-- Write in clear, professional English suitable for a teacher's file and for inspection."""
+- Write clear, professional prose suitable for a teacher's file and for inspection, in \
+English unless a MEDIUM OF INSTRUCTION below asks for another language."""
 
 STAGE_GUIDES = {
     "classic": (
@@ -101,13 +104,35 @@ def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
             "ACSEE examination. Pitch the depth, subject language and assessment at "
             "A-level, not at Form I-IV."),
     }.get(level, "LEVEL: Ordinary Secondary Education (Form I-IV), leading to CSEE.")
+
+    # TIE publishes the pre-primary and primary syllabuses in Kiswahili. A
+    # Kiswahili-medium school wants the plan in that language, competences
+    # untouched; an English-medium school teaches the same curriculum in English
+    # and wants the whole plan — competences included — rendered there.
+    medium_note = ""
+    if calendars.takes_medium(req.form):
+        if req.medium == calendars.ENGLISH:
+            medium_note = (
+                "\nMEDIUM OF INSTRUCTION: English. This is an English-medium school, so "
+                "write EVERY field of the lesson plan in English. The syllabus states "
+                "`main_competence`, `specific_competence` and the learning activity in "
+                "Kiswahili: translate all three into English faithfully and completely "
+                "for `main_competence`, `specific_competence` and `main_activity`, "
+                "changing nothing but the language and keeping any numbering or lettering "
+                "(e.g. \"5.1\", \"(a)\"). Leave no field in Kiswahili — a reader of this "
+                "plan does not read Kiswahili.")
+        else:
+            medium_note = (
+                "\nMEDIUM OF INSTRUCTION: Kiswahili. Write EVERY field of the lesson plan "
+                "in Kiswahili, and copy `main_competence` and `specific_competence` "
+                "verbatim from the syllabus text above.")
     return f"""Prepare a lesson plan for one scheduled lesson, taken from the {year} scheme \
 of work below. {provenance}
 
 SUBJECT: {req.subject}
 SYLLABUS: {edition}
 FORM: {req.form}
-{level_note}
+{level_note}{medium_note}
 SCHEME OF WORK SLOT: Semester {entry['semester']}, Week {entry['week']} \
 ({entry['month']}, {entry['start_date']} to {entry['end_date']})
 LESSON DURATION: {req.duration_minutes} minutes (~{periods:.0f} period(s) of \

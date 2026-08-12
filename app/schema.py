@@ -12,6 +12,12 @@ class LessonPlanRequest(BaseModel):
     form: str                      # e.g. "Form One"
     entry_id: str                  # scheme-of-work week, e.g. "s1w4"
     plan_format: str = "classic"   # "classic" or "tie2023"
+    # Medium of instruction, for pre-primary and primary only (see
+    # calendars.MEDIUM_LEVELS). TIE publishes those syllabuses in Kiswahili;
+    # an English-medium school teaches the same curriculum in English, so the
+    # plan — competences included — is written in English and the export says
+    # the competences are a translation.
+    medium: str = "kiswahili"      # "kiswahili" or "english"
 
     school_name: str = ""
     teacher_name: str = ""
@@ -45,6 +51,11 @@ class GeneratedLessonPlan(BaseModel):
     lesson_title: str = Field(description="Short title of the lesson")
     main_competence: str = Field(description="Main competence exactly as in the syllabus")
     specific_competence: str = Field(description="Specific competence exactly as in the syllabus")
+    main_activity: str = Field(
+        default="",
+        description="The scheme-of-work learning activity this lesson covers, in the "
+                    "language the plan is written in",
+    )
     specific_activities: list[str] = Field(
         default_factory=list,
         description="The teacher's breakdown of the main activity into the concrete "

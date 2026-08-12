@@ -51,6 +51,18 @@ LEVEL_LABELS = {
 }
 LEVEL_ORDER = (NURSERY, PRIMARY, ORDINARY, ADVANCED)
 
+# Levels where a school genuinely chooses its medium of instruction. TIE
+# publishes the pre-primary and primary syllabuses in Kiswahili, but
+# English-medium schools teach that same curriculum in English. Secondary is
+# already English-medium apart from its Kiswahili-taught subjects, which the
+# app handles per subject, so it takes no medium choice.
+MEDIUM_LEVELS = (NURSERY, PRIMARY)
+KISWAHILI, ENGLISH = "kiswahili", "english"
+
+
+def takes_medium(form: str) -> bool:
+    return level_of(form) in MEDIUM_LEVELS
+
 
 def level_of(form: str) -> str:
     """Which level a form belongs to. The form name implies the level, so
