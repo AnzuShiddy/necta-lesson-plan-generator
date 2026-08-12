@@ -12,7 +12,7 @@ from functools import lru_cache
 from pathlib import Path
 
 from .calendars import (ADVANCED, LEVEL_LABELS, LEVEL_ORDER, NURSERY, ORDINARY,
-                        PRIMARY, level_of)
+                        PRIMARY, forms_for, level_of)
 
 SYLLABUS_DIR = Path(__file__).resolve().parent.parent / "data" / "syllabus"
 
@@ -79,11 +79,27 @@ def subject_status(subject: str, level: str = ORDINARY) -> str:
     return "pending"
 
 
-def list_subjects(level: str = ORDINARY) -> list[dict]:
+def level_forms(level: str = ORDINARY) -> list[str]:
+    """Every form taught at a level, whether or not a given subject covers it."""
+    return list(forms_for(level))
+
+
+def list_subjects(level: str = ORDINARY, form: str = "") -> list[dict]:
     """All advertised subjects for one level with their data status, ready
-    ones first."""
-    out = [{"name": s, "status": subject_status(s, level)}
-           for s in _registry().get(level, [])]
+    ones first.
+
+    Given a `form`, ready subjects are narrowed to those the form actually
+    studies — Afya na Mazingira is a Grade 1-2 subject, Literature in English a
+    Form III-IV one. Subjects with no data yet are always listed: they are
+    advertised so teachers can see what is coming, and without data there is no
+    way to tell which forms they would cover.
+    """
+    out = []
+    for s in _registry().get(level, []):
+        status = subject_status(s, level)
+        if form and status == "ready" and form not in list_forms(s, level):
+            continue
+        out.append({"name": s, "status": status})
     order = {"ready": 0, "pdf": 1, "pending": 2}
     out.sort(key=lambda d: (order[d["status"]], d["name"]))
     return out

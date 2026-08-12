@@ -29,14 +29,22 @@ def api_levels():
 
 
 @app.get("/api/subjects")
-def api_subjects(level: str = "ordinary"):
-    # Each entry: {"name": ..., "status": "ready"|"pdf"|"pending"}
-    return {"level": level, "subjects": syllabus.list_subjects(level)}
+def api_subjects(level: str = "ordinary", form: str = ""):
+    """Subjects for a level. With `form`, only those that form studies — a
+    Grade 4 class does not take Kusoma / Reading.
+
+    Each entry: {"name": ..., "status": "ready"|"pdf"|"pending"}
+    """
+    return {"level": level, "form": form,
+            "subjects": syllabus.list_subjects(level, form)}
 
 
 @app.get("/api/forms")
-def api_forms(subject: str, level: str = "ordinary"):
-    return {"forms": syllabus.list_forms(subject, level)}
+def api_forms(subject: str = "", level: str = "ordinary"):
+    """Forms taught at a level, or just those one subject covers."""
+    forms = (syllabus.list_forms(subject, level) if subject
+             else syllabus.level_forms(level))
+    return {"forms": forms}
 
 
 @app.get("/api/scheme")

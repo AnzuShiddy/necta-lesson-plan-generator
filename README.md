@@ -93,7 +93,11 @@ are different syllabuses, taught over different years:
 | Ordinary | Form I–IV | 2026 | 18 | 14 | 855 |
 | Advanced | Form V–VI | 2026/2027 | 30 | 30 | 988 |
 
-Pick the level in the UI; the subject and form dropdowns follow it. A subject
+Pick the level in the UI, then the **class**, and the subject list narrows to
+what that class actually studies — Afya na Mazingira is a Grade 1-2 subject,
+Literature in English a Form III-IV one, so neither clutters a class that does
+not take it. Subjects with no syllabus data yet are always listed (disabled), so
+teachers can still see what is coming. A subject
 taught at several levels (English, Kiswahili, Biology, …) keeps one syllabus
 document per level — `english.json`, `english_primary.json`,
 `english_language_advanced.json` — since TIE publishes them separately. The form
