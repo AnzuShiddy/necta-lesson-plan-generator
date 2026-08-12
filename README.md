@@ -177,12 +177,33 @@ handles per subject):
 - **Kiswahili medium** — the whole plan is written in Kiswahili and the
   competence statements are copied **verbatim** from the syllabus, as everywhere
   else in the app.
-- **English medium** — the whole plan is written in English, and the competence
-  statements and the learning activity are *translated* from the Kiswahili
-  original. The export then carries a line saying so:
+- **English medium** — the whole plan **and the scheme of work** are in English.
+  The scheme is still built deterministically with no model call: the syllabus
+  data is translated **once**, offline, by `scripts/translate_syllabus.py`, and
+  stored beside the source as `data/syllabus/<slug>.en.json`. The Kiswahili file
+  is never modified — it stays the verbatim transcription — and choosing a medium
+  simply picks which file the scheme is built from. Rows are matched back by
+  activity `id`, so a row the model drops keeps its original Kiswahili rather
+  than disappearing. The lesson plan's competence statements and learning
+  activity are likewise rendered in English. Both exports then carry a line
+  saying so:
 
   > *Note: this school is English-medium. The competence statements above are an
   > English translation of the Kiswahili TIE syllabus, not its wording.*
+
+  and on the scheme of work:
+
+  > *Note: this scheme is for an English-medium school. TIE publishes this
+  > syllabus in Kiswahili; the rows below are an English translation of it, not
+  > TIE's own wording.*
+
+  Two subjects need care and got it. The **English** syllabus is already in
+  English, so the pass copies it through unchanged — identical output is correct
+  there, not a failure. **Arabic** and **Chinese** are bilingual (their script
+  beside the Kiswahili) and the first pass kept the Kiswahili; they were re-run
+  with an instruction covering mixed-script sources. **Kiswahili** keeps the
+  Kiswahili words it teaches (*kuliko*, *zaidi ya*) inside English sentences,
+  which is right.
 
   That line is not decoration. Everywhere else a competence is verbatim syllabus
   text, and a reader — including an inspector — has no other way to tell the

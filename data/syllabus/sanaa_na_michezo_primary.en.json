@@ -1,0 +1,612 @@
+{
+  "subject": "Sanaa na Michezo",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727176628-MUHTASARI%20WA%20SOMO%20LA%20SANAA%20NA%20MICHEZO%20ELIMU%20YA%20MSINGI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(a) Imitating sounds of living and non-living things",
+          "suggested_methods": [
+            "Think-Write-Pair-Share: Guide pupils to imitate sounds of living and non-living things by thinking, writing names of the things, pairing and sharing",
+            "Improvisation and Performance: Organize pupils into learning groups to act out short events in order to demonstrate skills of using the body, voice, and imagination in their environment",
+            "Peer learning: Guide pupils in groups to prepare and present a play"
+          ],
+          "assessment_criteria": "Skills of imitating sounds of living and non-living things have been correctly identified",
+          "suggested_resources": [
+            "Audio recordings of living and non-living things",
+            "masks",
+            "costumes and scripts of plays related to imitating sounds of living and non-living things"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-1"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(b) Singing in unison while observing proper posture and breathing",
+          "suggested_methods": [
+            "Story songs: Guide pupils to sing songs derived from stories",
+            "Role play: Guide pupils to demonstrate actions that help to control breath during singing",
+            "Peer learning: Guide pupils to sing songs they like to one another"
+          ],
+          "assessment_criteria": "Unison singing while observing proper posture and breathing has been correctly done",
+          "suggested_resources": [
+            "Lyrics of short unison songs",
+            "recorded unison songs",
+            "musical instruments",
+            "microphones"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-2"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(c) Using musical instruments found in their environment to accompany short songs",
+          "suggested_methods": [
+            "Inquiry: Create an environment for pupils to touch and experiment with various musical instruments on their own",
+            "Demonstration: Guide pupils to use musical instruments found in their environment to accompany short songs"
+          ],
+          "assessment_criteria": "Musical instruments found in their environment have been correctly used to accompany short songs",
+          "suggested_resources": [
+            "Lyrics of short songs",
+            "songs recorded using various musical instruments",
+            "musical instruments available in the environment"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-3"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.2 Drawing pictures",
+          "learning_activity": "(a) Drawing simple pictures using a pencil and shading using a pencil",
+          "suggested_methods": [
+            "Questions and Answers: Guide pupils to name simple shapes",
+            "Project work: Guide pupils in groups to draw pictures that express feelings"
+          ],
+          "assessment_criteria": "Drawing pictures using a pencil has been correctly done",
+          "suggested_resources": [
+            "Sample pictures drawn using a pencil",
+            "texts and shapes of various objects with descriptions on how to draw using a pencil"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-4"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.3 Modelling various shapes",
+          "learning_activity": "Modelling simple shapes",
+          "suggested_methods": [
+            "Demonstration: Practically guide pupils through the steps of modelling simple shapes",
+            "Project work: Guide pupils in groups to model simple shapes"
+          ],
+          "assessment_criteria": "Various shapes have been correctly modelled",
+          "suggested_resources": [
+            "Clay",
+            "clay preparation tools",
+            "clay storage equipment",
+            "paper",
+            "liquid glue and various texts related to modelling"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-5"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.1 Mastering physical exercises",
+          "learning_activity": "Performing agility and balance exercises",
+          "suggested_methods": [
+            "Demonstration: Show pupils the steps for performing agility and balance exercises",
+            "Guide pupils to perform agility and balance exercises"
+          ],
+          "assessment_criteria": "Agility and balance exercises have been correctly performed",
+          "suggested_resources": [
+            "Exercise equipment (cones, ropes, balance beam)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-6"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.2 Playing traditional games",
+          "learning_activity": "Playing rede, running with a bottle on the head, and running with a spoon",
+          "suggested_methods": [
+            "Structured exercises: Guide pupils to play games of running with a bottle on the head and running with a spoon"
+          ],
+          "assessment_criteria": "The games of rede, running with a bottle on the head, and running with a spoon have been correctly played",
+          "suggested_resources": [
+            "Rede ball",
+            "spoon",
+            "lemon or egg and bottle"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "sana-3-7"
+        },
+        {
+          "main_competence": "3.0 Mastering skills of exhibiting works of art and sports",
+          "specific_competence": "3.1 Participating in exhibitions of works of art and sports",
+          "learning_activity": "(a) Exhibiting works of art at the class level",
+          "suggested_methods": [
+            "Project work: Guide pupils in groups to participate in exhibitions of works of art"
+          ],
+          "assessment_criteria": "Exhibitions of works of art have been correctly conducted",
+          "suggested_resources": [
+            "Videos of stage performances",
+            "various songs",
+            "art materials"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-8"
+        },
+        {
+          "main_competence": "3.0 Mastering skills of exhibiting works of art and sports",
+          "specific_competence": "3.1 Participating in exhibitions of works of art and sports",
+          "learning_activity": "(b) Participating in sports competitions at the class level",
+          "suggested_methods": [
+            "Project work: Guide pupils in groups to participate in sports competitions"
+          ],
+          "assessment_criteria": "Sports competitions have been correctly conducted",
+          "suggested_resources": [
+            "Sports equipment"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-9"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(a) Performing various body exercises by acting as living and non-living things",
+          "suggested_methods": [
+            "Demonstration: Show students the steps of performing various body exercises by acting as living and non-living things",
+            "Role play: Guide students in thinking and creating mental images of various living and non-living things in their environment, and then acting out their sounds and actions in front of their fellow students"
+          ],
+          "assessment_criteria": "Various body exercises by acting as living and non-living things have been performed correctly",
+          "suggested_resources": [
+            "Masks",
+            "drums",
+            "costumes",
+            "decorations and various acting props"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-10"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(b) Singing in unison and two-part harmony observing diction and tone",
+          "suggested_methods": [
+            "Imitation: Guide students to imitate how to sing by observing diction and tone",
+            "Song composition: Guide students to sing call-and-response or greeting songs to each other",
+            "Storytelling: Involve students in narratives that use various songs while observing diction and tone",
+            "Role play: Involve students in singing various character songs while observing diction and tone"
+          ],
+          "assessment_criteria": "Singing in unison and two-part harmony observing diction and tone has been performed correctly",
+          "suggested_resources": [
+            "Short two-part song texts",
+            "recorded songs and musical instruments"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "sana-4-11"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(c) Using musical instruments available in their environment to accompany the school song",
+          "suggested_methods": [
+            "Inquiry: Prepare an environment for students to play musical instruments of their choice",
+            "Peer learning: Encourage students to learn from one another how to play musical instruments to accompany the school song"
+          ],
+          "assessment_criteria": "Musical instruments have been used correctly to accompany the school song",
+          "suggested_resources": [
+            "School song text and musical instruments"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "sana-4-12"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.2 Drawing pictures",
+          "learning_activity": "Drawing pictures of various objects using a pencil",
+          "suggested_methods": [
+            "Demonstration: Practically guide students through the steps of drawing pictures using a pencil",
+            "Project work: Guide students in groups to draw pictures using a pencil"
+          ],
+          "assessment_criteria": "Pictures have been drawn correctly using a pencil",
+          "suggested_resources": [
+            "Drawing materials",
+            "various types of pencils and various texts related to picture drawing"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-13"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.3 Modelling various shapes",
+          "learning_activity": "Modelling a model of a real object",
+          "suggested_methods": [
+            "Demonstration: Practically guide students through the steps of modelling a model of a real object",
+            "Project work: Guide students in groups to model a model of a real object"
+          ],
+          "assessment_criteria": "Models of real objects have been modelled correctly",
+          "suggested_resources": [
+            "Clay",
+            "clay preparation tools",
+            "clay storage containers",
+            "paper",
+            "liquid glue and various texts related to pottery and modelling"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-14"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.1 Mastering physical exercises",
+          "learning_activity": "Performing exercises to build limb coordination and flexibility",
+          "suggested_methods": [
+            "Structured exercises: Guide students to perform exercises that build limb coordination and flexibility"
+          ],
+          "assessment_criteria": "Exercises to build limb coordination and flexibility have been performed correctly",
+          "suggested_resources": [
+            "Exercise equipment (Balance pad, balance discs, balance boards and mat)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-15"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.2 Playing traditional games",
+          "learning_activity": "Sack racing and chasing a chicken",
+          "suggested_methods": [
+            "Structured exercises: Guide students to do sack racing and chasing a chicken"
+          ],
+          "assessment_criteria": "Sack racing and chasing a chicken games have been played correctly",
+          "suggested_resources": [
+            "Sack",
+            "chicken",
+            "whistle",
+            "cones/markers"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-16"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.3 Playing modern games",
+          "learning_activity": "Performing acrobatics",
+          "suggested_methods": [
+            "Structured exercises: Guide students to perform acrobatics"
+          ],
+          "assessment_criteria": "Acrobatic games have been played correctly",
+          "suggested_resources": [
+            "Acrobatic equipment (mat, mattress, spring floor and carpet)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-17"
+        },
+        {
+          "main_competence": "3.0 Mastering skills in exhibiting works of art and sports",
+          "specific_competence": "3.1 Participating in exhibitions of works of art and sports",
+          "learning_activity": "(a) Conducting art exhibitions at the school level",
+          "suggested_methods": [
+            "Exhibition: Guide students to conduct art exhibitions at school"
+          ],
+          "assessment_criteria": "Exhibitions of works of art have been conducted correctly",
+          "suggested_resources": [
+            "Various works of art"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-4-18"
+        },
+        {
+          "main_competence": "3.0 Mastering skills in exhibiting works of art and sports",
+          "specific_competence": "3.1 Participating in exhibitions of works of art and sports",
+          "learning_activity": "(b) Participating in sports competitions at the school level",
+          "suggested_methods": [
+            "Project work: Guide students in groups to participate in sports competitions at school"
+          ],
+          "assessment_criteria": "Sports competitions have been conducted correctly",
+          "suggested_resources": [
+            "Sports equipment"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-19"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "Acting using actions and voice, and actions without voice (mime)",
+          "suggested_methods": [
+            "Demonstration: Guide students in groups to act using actions and voice",
+            "Mime and pantomime: Guide students in acting out the actions of living and non-living things using actions without voice (mime) accompanied by music"
+          ],
+          "assessment_criteria": "Characteristics of living and non-living things have been accurately acted out using actions and voice, and actions without voice",
+          "suggested_resources": [
+            "Masks",
+            "drums",
+            "costumes",
+            "body decorations and acting tools (props)"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "sana-5-20"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "Singing while observing music dynamics and voice balancing",
+          "suggested_methods": [
+            "Imitation: Guide students to imitate how to sing while observing music dynamics and voice balancing",
+            "Observation: Provide students with opportunities to watch videos and listen to audio of various choirs and groups singing while observing dynamics and voice balancing",
+            "Project work: Guide students to sing songs in at least two parts",
+            "Storytelling: Involve students in narratives that use various songs while paying attention to pronunciation and tone",
+            "Role play: Involve students in singing various character songs while paying attention to pronunciation and tone"
+          ],
+          "assessment_criteria": "Music dynamics and voice balancing have been observed in singing",
+          "suggested_resources": [
+            "Two-part song chart",
+            "short song lyrics",
+            "recorded songs",
+            "Tanzanian patriotic songs and musical instruments"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "sana-5-21"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "Using musical instruments to accompany the singing of solfege (d r m f s l t d’)",
+          "suggested_methods": [
+            "Observation: Provide students with opportunities to watch videos and listen to audio of various groups skillfully playing instruments to accompany solfege singing",
+            "Peer learning: Mix students with different abilities and encourage them to teach each other how to play musical instruments",
+            "Imitation: Guide students in playing musical instruments following musical scales"
+          ],
+          "assessment_criteria": "Musical instruments have been used correctly to accompany the singing of solfege (d r m f s l t d’)",
+          "suggested_resources": [
+            "Two-part song chart",
+            "short song lyrics",
+            "recorded songs",
+            "Tanzanian patriotic songs",
+            "musical instruments",
+            "projector",
+            "computer and solfege notation charts"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "sana-5-22"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.2 Drawing pictures",
+          "learning_activity": "Drawing pictures showing feelings and moods using a pencil",
+          "suggested_methods": [
+            "Brainstorming: Guide students to identify tools and objects for drawing pictures of various items",
+            "Demonstration: Guide students to show the correct way of using tools in drawing pictures of various items",
+            "Demonstration: Guide students in the selection and correct use of tools for drawing various pictures",
+            "Exhibition: Guide students to prepare a suitable area to hang the works they have created for discussion by the whole class"
+          ],
+          "assessment_criteria": "Various types of pictures have been accurately designed",
+          "suggested_resources": [
+            "Drawing tools and various texts on drawing techniques"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-5-23"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.3 Modelling various shapes",
+          "learning_activity": "Modelling and decorating various shapes",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss the characteristics of suitable clay, clay preparation, tools, and techniques used in modelling",
+            "Demonstration: Guide students by showing the correct way to model and decorate various shapes",
+            "Exhibition: Guide students to arrange works of art for discussion and further learning"
+          ],
+          "assessment_criteria": "Various shapes have been accurately modelled and decorated",
+          "suggested_resources": [
+            "Decorating tools",
+            "clay",
+            "clay storage containers",
+            "clay preparation tools",
+            "paper",
+            "liquid glue and various texts on pottery"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-24"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.4 Making objects using various materials",
+          "learning_activity": "Using materials to make objects with simple shapes",
+          "suggested_methods": [
+            "Discussion: Guide a discussion on how to prepare materials, tools, and various techniques for making objects with different shapes"
+          ],
+          "assessment_criteria": "Objects with simple shapes have been accurately made using materials",
+          "suggested_resources": [
+            "Various materials",
+            "object-making tools and various texts"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-25"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills, and competition",
+          "specific_competence": "2.1 Mastering physical exercises",
+          "learning_activity": "Performing exercises to build strength and speed",
+          "suggested_methods": [
+            "Drills: Guide students in groups to perform exercises to build strength and speed"
+          ],
+          "assessment_criteria": "Exercises to build strength and speed have been performed correctly",
+          "suggested_resources": [
+            "Exercise equipment (cones, whistles, hurdles, and ropes)"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-26"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills, and competition",
+          "specific_competence": "2.2 Playing traditional games",
+          "learning_activity": "Tug of war",
+          "suggested_methods": [
+            "Drills: Guide students to play tug of war"
+          ],
+          "assessment_criteria": "The tug of war game has been played correctly",
+          "suggested_resources": [
+            "Rope",
+            "markers and whistle"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-27"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills, and competition",
+          "specific_competence": "2.3 Playing modern games",
+          "learning_activity": "Playing football and netball",
+          "suggested_methods": [
+            "Drills: Guide students to play football and netball"
+          ],
+          "assessment_criteria": "Football and netball have been played correctly",
+          "suggested_resources": [
+            "Ball",
+            "whistle",
+            "cards",
+            "cones and flags"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-28"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(a) Using various acting techniques",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss how singing and acting are conducted in the community",
+            "Demonstration: Guide students in groups to prepare a short play with a theme derived from their community. The play should be presented in front of the class"
+          ],
+          "assessment_criteria": "Various acting techniques have been used correctly",
+          "suggested_resources": [
+            "Masks",
+            "drums",
+            "costumes",
+            "body ornaments",
+            "acting tools"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-29"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.1 Mastering the basics of singing and acting",
+          "learning_activity": "(b) Dancing traditional dances",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss various types of local dances and how they are performed",
+            "Demonstration: Guide students in groups to prepare and perform a dance. The dance should carry any message from the respective community and be performed in front of all students at school"
+          ],
+          "assessment_criteria": "Various dance techniques have been used correctly",
+          "suggested_resources": [
+            "Drums",
+            "shakers",
+            "ankle bells",
+            "costumes",
+            "body ornaments",
+            "dance tools"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-6-30"
+        },
+        {
+          "main_competence": "1.0 Designing works of art",
+          "specific_competence": "1.2 Drawing pictures",
+          "learning_activity": "Drawing pictures by observing various objects",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss the basic principles to consider when drawing pictures by observing various real objects and shapes",
+            "Practical demonstration: Guide students to show correct ways of using drawing materials and techniques for drawing pictures of real objects through observation.",
+            "Demonstration: Guide students to arrange works of art for discussion to learn more"
+          ],
+          "assessment_criteria": "Pictures have been drawn correctly by observing various objects",
+          "suggested_resources": [
+            "Drawing and painting materials",
+            "water colours",
+            "various shapes and texts related to drawing"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-31"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.1 Mastering physical exercises",
+          "learning_activity": "Performing endurance exercises",
+          "suggested_methods": [
+            "Drills: Guide students to perform endurance exercises"
+          ],
+          "assessment_criteria": "Endurance exercises have been performed correctly",
+          "suggested_resources": [
+            "Exercise equipment (jumping rope",
+            "treadmill",
+            "stopwatch)"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-32"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.2 Playing traditional games",
+          "learning_activity": "Playing high and low jumping games",
+          "suggested_methods": [
+            "Drills: Guide students to play high and low jumping games"
+          ],
+          "assessment_criteria": "High and low jumping games have been played correctly",
+          "suggested_resources": [
+            "Jumping field",
+            "measuring tape",
+            "sports attire",
+            "whistle",
+            "flags",
+            "stopwatch",
+            "take-off board",
+            "hurdle",
+            "mattress"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-33"
+        },
+        {
+          "main_competence": "2.0 Promoting health, skills and competition",
+          "specific_competence": "2.3 Playing major games",
+          "learning_activity": "Playing running games",
+          "suggested_methods": [
+            "Drills: Guide students to play running games"
+          ],
+          "assessment_criteria": "Running games have been played correctly",
+          "suggested_resources": [
+            "Running track",
+            "whistle",
+            "flags",
+            "stopwatch",
+            "rope",
+            "chalk",
+            "sports attire"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-34"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "sanaa_na_michezo_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

@@ -1,0 +1,167 @@
+{
+  "subject": "Creative Arts and Sports",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Singing songs",
+          "suggested_methods": [],
+          "assessment_criteria": "Songs have been sung",
+          "suggested_resources": [
+            "Different musical instruments",
+            "copies of songs",
+            "models",
+            "puppets",
+            "recorded songs"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-1"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Reciting poems",
+          "suggested_methods": [],
+          "assessment_criteria": "Poems have been recited",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-2"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Reciting choral verses (ngonjera)",
+          "suggested_methods": [],
+          "assessment_criteria": "Choral verses (ngonjera) have been recited",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-3"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Acting",
+          "suggested_methods": [],
+          "assessment_criteria": "Drama/skits have been acted",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-4"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Playing musical instruments",
+          "suggested_methods": [],
+          "assessment_criteria": "Musical instruments have been played",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-5"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.1 Performing performing arts",
+          "learning_activity": "Dancing to music",
+          "suggested_methods": [],
+          "assessment_criteria": "Music has been danced to",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "awal-awali-6"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.2 Designing arts involving manual work",
+          "learning_activity": "Creating objects",
+          "suggested_methods": [],
+          "assessment_criteria": "Various objects have been created",
+          "suggested_resources": [
+            "Video clips showing how to make various objects"
+          ],
+          "periods_for_specific_competence": 46,
+          "id": "awal-awali-7"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.2 Designing arts involving manual work",
+          "learning_activity": "Drawing pictures and shapes",
+          "suggested_methods": [],
+          "assessment_criteria": "Pictures and shapes have been drawn",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-8"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.2 Designing arts involving manual work",
+          "learning_activity": "Weaving/plaited items",
+          "suggested_methods": [],
+          "assessment_criteria": "Various items have been woven/plaited",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-9"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.2 Designing arts involving manual work",
+          "learning_activity": "Stringing objects on a thread/rope",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects have been strung on a thread/rope",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-10"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.3 Using creative skills involving physical performance",
+          "learning_activity": "Playing games involving fine muscles",
+          "suggested_methods": [],
+          "assessment_criteria": "Games involving fine finger muscles have been played",
+          "suggested_resources": [
+            "Pictures of sports attire",
+            "draughts",
+            "bao",
+            "snake and ladders game",
+            "puzzles",
+            "playing cards",
+            "mdako game",
+            "ludo",
+            "memory cards",
+            "swings",
+            "seesaws and slides",
+            "hurdles and tyres"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "awal-awali-11"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.3 Using creative skills involving physical performance",
+          "learning_activity": "Playing games involving gross muscles",
+          "suggested_methods": [],
+          "assessment_criteria": "Games involving gross body muscles have been played",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-12"
+        },
+        {
+          "main_competence": "1.0 Mastering artistic, creative and sports skills",
+          "specific_competence": "1.3 Using creative skills involving physical performance",
+          "learning_activity": "Making sports equipment",
+          "suggested_methods": [],
+          "assessment_criteria": "Various sports equipment has been made",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 17,
+          "id": "awal-awali-13"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "creative_arts_and_sports_nursery.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

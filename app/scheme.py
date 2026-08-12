@@ -204,15 +204,22 @@ def _even_week_rows(periods: list[int],
     return rows
 
 
-@lru_cache(maxsize=64)
-def build_scheme(subject: str, form: str) -> dict:
-    """Return a scheme-of-work dict for one subject + form for 2026."""
-    activities = syllabus.list_activities(subject, form)
+@lru_cache(maxsize=128)
+def build_scheme(subject: str, form: str,
+                 medium: str = calendars.KISWAHILI) -> dict:
+    """Return a scheme-of-work dict for one subject + form.
+
+    `medium` picks the language of the syllabus content for pre-primary and
+    primary, where TIE publishes in Kiswahili and an English-medium school
+    teaches the same curriculum in English. The English text is a stored
+    translation, so this stays deterministic — no model call is made here."""
+    activities = syllabus.list_activities(subject, form, medium)
     cal = calendars.for_form(form)
     weeks = cal.teaching_weeks()
     if not activities or not weeks:
         return {"subject": subject, "form": form, "year": cal.year_label,
-                "level": cal.key, "provisional_calendar": cal.provisional,
+                "level": cal.key, "medium": medium, "translated": False,
+                "provisional_calendar": cal.provisional,
                 "provisional_note": cal.provisional_note,
                 "periods_per_week": 0, "entries": []}
 
@@ -310,6 +317,11 @@ def build_scheme(subject: str, form: str) -> dict:
         "form": form,
         "year": cal.year_label,
         "level": cal.key,
+        "medium": medium,
+        # True when the rows below are a translation rather than TIE's own
+        # wording — the exports and the UI say so.
+        "translated": (medium == calendars.ENGLISH
+                       and syllabus.has_translation(subject, form)),
         # True when part of the year's dates are inferred rather than official;
         # the UI says so instead of presenting them as fact.
         "provisional_calendar": cal.provisional,
@@ -321,9 +333,10 @@ def build_scheme(subject: str, form: str) -> dict:
     }
 
 
-def get_entry(subject: str, form: str, entry_id: str) -> dict | None:
+def get_entry(subject: str, form: str, entry_id: str,
+              medium: str = calendars.KISWAHILI) -> dict | None:
     """Look up a scheme week by its entry_id (e.g. 's1w4')."""
-    for e in build_scheme(subject, form)["entries"]:
+    for e in build_scheme(subject, form, medium)["entries"]:
         if e["entry_id"] == entry_id:
             return e
     return None

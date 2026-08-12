@@ -1,0 +1,1715 @@
+{
+  "subject": "Kiswahili",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(a) Identifying vowel sounds (a, e, i, o, u) in words",
+          "suggested_methods": [],
+          "assessment_criteria": "Vowel sounds (a, e, i, o, u) have been identified in words",
+          "suggested_resources": [
+            "Cards and picture charts of objects starting with vowels",
+            "cards",
+            "charts and pictures of vowels",
+            "words",
+            "real objects",
+            "recorded vowel sounds and words"
+          ],
+          "periods_for_specific_competence": 37,
+          "id": "grad-1-1"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(b) Combining vowel sounds to form words (oa, au, ua)",
+          "suggested_methods": [],
+          "assessment_criteria": "Vowel sounds have been combined to form words (oa, au, ua)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-2"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(c) Identifying consonant sounds (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) in words",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant sounds (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) in words have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-3"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(d) Identifying capital and small letters",
+          "suggested_methods": [],
+          "assessment_criteria": "Capital and small letters have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-4"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(e) Combining consonant and vowel sounds to form syllables",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant and vowel sounds have been combined to form syllables",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-5"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(f) Separating by pronouncing the consonant and vowel sounds that formed syllables and the syllables that formed words",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant and vowel sounds that formed syllables and syllables that formed words have been separated by pronunciation",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-6"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(g) Identifying consonant cluster sounds (sh, th, mb, ny, ng, nd, kw, mw) in words",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant cluster sounds (sh, th, mb, ny, ng, nd, kw, mw) in words have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-7"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identifying letter sounds",
+          "learning_activity": "(h) Combining consonant cluster sounds (sh, th, mb, ny, ng, nd, kw, mw) with vowels to form syllables",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant cluster sounds (sh, th, mb, ny, ng, nd, kw, mw) have been combined to form syllables",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-8"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(a) Relating sounds and vowel letters (a, e, i, o, u) in texts",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds and vowel letters (a, e, i, o, u) in texts have been related",
+          "suggested_resources": [
+            "Cards and charts of pictures and letters",
+            "blackboard",
+            "words",
+            "videos with sounds and names of vowel letters",
+            "recorded vowel sounds and words"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "grad-1-9"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(b) Relating sounds and consonant letters (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) in texts",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds and consonant letters (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) have been related in texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-10"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(c) Relating sounds and consonant cluster letters (sh, th, mb, ny, ng, nd, kw, mw) in texts",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds and consonant cluster letters (sh, th, mb, ny, ng, nd, kw, mw) have been related in texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-11"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(d) Combining consonant cluster letter sounds and vowels to read syllables in all groups (sh, th, mb, ny, ng, nd, kw, mw)",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant cluster letter sounds and vowels have been combined to read syllables in all groups (sh, th, mb, ny, ng, nd, kw, mw)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-12"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(e) Combining syllables to read words",
+          "suggested_methods": [],
+          "assessment_criteria": "Syllables have been combined to read words",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-13"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(f) Separating by pronouncing individual sounds to form words",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds have been separated by pronouncing individual sounds to form words",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-14"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognizing the relationship between sounds and letters",
+          "learning_activity": "(g) Combining words to read sentences",
+          "suggested_methods": [],
+          "assessment_criteria": "Words have been combined to read sentences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-15"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Reading fluently",
+          "learning_activity": "(a) Reading aloud a matching text/story paying attention to correct pronunciation of words",
+          "suggested_methods": [],
+          "assessment_criteria": "A matching text/story has been read aloud paying attention to correct pronunciation of words",
+          "suggested_resources": [
+            "Word cards and charts",
+            "texts",
+            "pictures of various things and recorded texts or stories"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "grad-1-16"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Reading fluently",
+          "learning_activity": "(b) Reading aloud a matching text/story at an appropriate speed (40 words per minute)",
+          "suggested_methods": [],
+          "assessment_criteria": "A matching text/story has been read aloud at an appropriate speed (40 words per minute)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-17"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Reading fluently",
+          "learning_activity": "(c) Reading aloud a matching text/story with expression and paying attention to punctuation marks (full stop, comma, question mark, and exclamation mark)",
+          "suggested_methods": [],
+          "assessment_criteria": "A matching text/story has been read aloud with expression, and paying attention to punctuation marks (full stop, comma, question mark, and exclamation mark)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-18"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Reading and listening for comprehension",
+          "learning_activity": "(a) Interpreting and explaining pictures",
+          "suggested_methods": [],
+          "assessment_criteria": "Pictures have been explained and interpreted correctly",
+          "suggested_resources": [
+            "Picture cards and charts of various items",
+            "text/story material",
+            "recorded stories/texts"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "grad-1-19"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Reading and listening for comprehension",
+          "learning_activity": "(b) Predicting the content of a text/story accurately using pictures, the title of the text/story, and selected vocabulary",
+          "suggested_methods": [],
+          "assessment_criteria": "Has predicted the content of the text/story using pictures, the title of the story, and selected vocabulary",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-20"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Reading and listening for comprehension",
+          "learning_activity": "(c) Listening to a text/story for comprehension",
+          "suggested_methods": [],
+          "assessment_criteria": "The text/story has been listened to for comprehension",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-21"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Mastering the basics of writing",
+          "learning_activity": "(a) Using early writing skills",
+          "suggested_methods": [],
+          "assessment_criteria": "Early writing skills have been used",
+          "suggested_resources": [
+            "Letter cards",
+            "writing tools",
+            "videos showing writing basics"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "grad-1-22"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Mastering the basics of writing",
+          "learning_activity": "(b) Drawing letter strokes",
+          "suggested_methods": [],
+          "assessment_criteria": "Letter strokes have been drawn",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-23"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Mastering the basics of writing",
+          "learning_activity": "(c) Tracing letters following the steps",
+          "suggested_methods": [],
+          "assessment_criteria": "Letters have been traced following the steps",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-24"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(a) Writing small vowel letters (a, e, i, o, u), consonants (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) in order following the steps",
+          "suggested_methods": [],
+          "assessment_criteria": "Small vowel letters (a, e, i, o, u), consonants (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) have been written in order following the steps",
+          "suggested_resources": [
+            "Letter cards",
+            "videos showing how to write small vowel and consonant letters in order following the steps"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "grad-1-25"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(b) Writing capital vowel letters (A, E, I, O, U), consonants (B, M, K, D, N); (L, T, P, S, F, J); (G, Y, Z, H, R, W, V, CH) in order and following steps",
+          "suggested_methods": [],
+          "assessment_criteria": "Capital vowel letters (A, E, I, O, U) and consonants (B, M, K, D, N); (L, T, P, S, F, J); (G, Y, Z, H, R, W, V, CH) have been written in order and following steps",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-26"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(c) Writing consonant cluster letters (sh, th, mb, ny, ng, nd, kw, mw)",
+          "suggested_methods": [],
+          "assessment_criteria": "Consonant cluster letters (sh, th, mb, ny, ng, nd, kw, mw) have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-27"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(d) Writing syllables derived from consonant and vowel letters",
+          "suggested_methods": [],
+          "assessment_criteria": "Syllables derived from consonant and vowel letters have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-28"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(e) Writing syllables of consonant cluster letters",
+          "suggested_methods": [],
+          "assessment_criteria": "Syllables of consonant cluster letters have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-29"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.2 Mastering writing skills",
+          "learning_activity": "(f) Writing short sentences",
+          "suggested_methods": [],
+          "assessment_criteria": "Short sentences have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-30"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.3 Using writing rules",
+          "learning_activity": "Identifying punctuation marks (full stop, comma, question mark and exclamation mark)",
+          "suggested_methods": [],
+          "assessment_criteria": "Punctuation marks (full stop, comma, question mark and exclamation mark) have been identified",
+          "suggested_resources": [
+            "Recorded punctuation marks",
+            "texts showing punctuation marks and cards/charts showing punctuation marks"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "grad-1-31"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identify letter sounds",
+          "learning_activity": "(a) Identify sounds in words",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds in words have been identified",
+          "suggested_resources": [
+            "Real objects",
+            "picture cards and charts",
+            "letters",
+            "syllables",
+            "words and videos related to sounds of consonant clusters and vowel letters for reading syllables"
+          ],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-69"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identify letter sounds",
+          "learning_activity": "(b) Blend the sounds of consonant clusters (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) and vowels to read syllables",
+          "suggested_methods": [],
+          "assessment_criteria": "The sounds of consonant clusters (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) and vowels have been blended and syllables read",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-70"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identify letter sounds",
+          "learning_activity": "(c) Pronounce words with cluster syllables",
+          "suggested_methods": [],
+          "assessment_criteria": "Words with cluster syllables have been pronounced",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-71"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.1 Identify letter sounds",
+          "learning_activity": "(d) Identify the sounds that form words in sentences",
+          "suggested_methods": [],
+          "assessment_criteria": "The sounds forming words in sentences have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-72"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognize the relationship between sounds and letters",
+          "learning_activity": "(a) Blend sounds of two-consonant clusters and vowels to form syllables (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) and introduce consonant clusters with loan words (bl, sp, sk, pt, st, ks, kt, pl, al, ar)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds of two-consonant clusters and vowels have been blended to form syllables (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) and consonant clusters with loan words (bl, sp, sk, pt, st, ks, kt, pl, al, ar) have been introduced",
+          "suggested_resources": [
+            "Real objects",
+            "picture cards and charts",
+            "letters",
+            "syllables",
+            "words and videos with sounds of two-consonant clusters and vowels"
+          ],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-73"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognize the relationship between sounds and letters",
+          "learning_activity": "(b) Blend syllables to read words with three consonants and vowels (njwa, nywe, shwa, ngwa, mbwe, ndwa, ng’we)",
+          "suggested_methods": [],
+          "assessment_criteria": "Syllables have been blended to read words with three consonants and vowels (njwa, nywe, shwa, ngwa, mbwe, ndwa, ng’we)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-74"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.2 Recognize the relationship between sounds and letters",
+          "learning_activity": "(c) Blend words to read sentences",
+          "suggested_methods": [],
+          "assessment_criteria": "Words have been blended to read sentences",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-75"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Read fluently",
+          "learning_activity": "(a) Read a leveled passage/story with confidence while observing correct word pronunciation",
+          "suggested_methods": [],
+          "assessment_criteria": "A leveled passage/story has been read with confidence while observing correct word pronunciation",
+          "suggested_resources": [
+            "Recorded texts"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-76"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Read fluently",
+          "learning_activity": "(b) Read a leveled passage/story at an appropriate speed (50 words per minute)",
+          "suggested_methods": [],
+          "assessment_criteria": "A leveled passage/story has been read at an appropriate speed (50 words per minute)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-77"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Read fluently",
+          "learning_activity": "(c) Read a leveled passage/story with confidence, expression, and attention to punctuation marks (full stop, comma, question mark, exclamation mark)",
+          "suggested_methods": [],
+          "assessment_criteria": "A leveled passage/story has been read with confidence, expression, and attention to punctuation marks (full stop, comma, question mark, exclamation mark)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-78"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.3 Read fluently",
+          "learning_activity": "(d) Read aloud a simple passage/story",
+          "suggested_methods": [],
+          "assessment_criteria": "A simple passage/story has been read aloud",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-79"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Comprehend through reading and listening",
+          "learning_activity": "(a) Interpret and explain events (Arranging and reading sentences following the correct sequence of events, reading sentences with the correct sequence, arranging and reading scrambled sentences to create a logical flow)",
+          "suggested_methods": [],
+          "assessment_criteria": "Events have been interpreted and explained (arranging and reading sentences following the correct sequence of events, reading sentences with the correct sequence, arranging and reading scrambled sentences to create a logical flow)",
+          "suggested_resources": [
+            "Event pictures",
+            "sentence cards",
+            "videos related to reading and listening comprehension and recorded texts"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-80"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Comprehend through reading and listening",
+          "learning_activity": "(b) Retell a short text read following a logical sequence of events",
+          "suggested_methods": [],
+          "assessment_criteria": "Short texts have been read following a logical sequence of events",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-81"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Comprehend through reading and listening",
+          "learning_activity": "(c) Listen to a simple text for comprehension",
+          "suggested_methods": [],
+          "assessment_criteria": "A simple text has been listened to for comprehension",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-82"
+        },
+        {
+          "main_competence": "1.0 Reading",
+          "specific_competence": "1.4 Comprehend through reading and listening",
+          "learning_activity": "(d) Read a simple text for comprehension",
+          "suggested_methods": [],
+          "assessment_criteria": "A simple text has been read for comprehension",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-83"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Apply writing conventions",
+          "learning_activity": "(a) Use punctuation marks (writing a short piece while observing punctuation marks, writing a short essay while observing punctuation marks, identifying missing punctuation marks in a text)",
+          "suggested_methods": [],
+          "assessment_criteria": "Punctuation marks have been used",
+          "suggested_resources": [
+            "Videos related to writing conventions and recorded texts related to writing conventions"
+          ],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-84"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Apply writing conventions",
+          "learning_activity": "(b) Write print script with baseline alignment/stems",
+          "suggested_methods": [],
+          "assessment_criteria": "Print script with baseline alignment/stems has been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-85"
+        },
+        {
+          "main_competence": "2.0 Writing",
+          "specific_competence": "2.1 Apply writing conventions",
+          "learning_activity": "(c) Write a short text in a logical sequence of events",
+          "suggested_methods": [],
+          "assessment_criteria": "A short text has been written in a logical sequence of events",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-86"
+        }
+      ]
+    },
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Identifying the pronunciation of various sounds in syllables, words, sentences and texts",
+          "learning_activity": "(a) Pronouncing consonant cluster sounds ngw, ndw, njw, mbw and nzw",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to pronounce the consonant cluster sounds ngw, ndw, njw, mbw and nzw by imitating your pronunciation, or show pupils a video on the pronunciation of the mentioned consonant cluster sounds and then guide them to pronounce the sounds",
+            "Question and answer: Guide pupils to ask and answer questions that have answers containing the consonant cluster sounds ngw, ndw, njw, mbw and nzw",
+            "Text analysis: Guide pupils to read texts containing the consonant cluster sounds ngw, ndw, njw, mbw and nzw, and then identify those letters",
+            "Game: Use word cards/floor drawing blocks to guide pupils to pronounce the consonant cluster sounds ngw, ndw, njw, mbw and nzw. For each block, write one consonant cluster"
+          ],
+          "assessment_criteria": "The consonant cluster sounds ngw, ndw, njw, mbw and nzw are pronounced correctly",
+          "suggested_resources": [
+            "Consonant cluster cards",
+            "texts with story passages containing the consonant cluster sounds ngw, ndw, njw, mbw and nzw",
+            "manila paper",
+            "marker pens",
+            "chart",
+            "video and tablet"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "kisw-3-1"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Identifying the pronunciation of various sounds in syllables, words, sentences and texts",
+          "learning_activity": "(b) Pronouncing consonant cluster sounds in syllables, words, sentences and texts",
+          "suggested_methods": [
+            "Role play: Guide pupils to role-play the performance of various activities, in which they will use consonant cluster sounds",
+            "Tongue twister: Guide pupils to read sentences with words containing consecutive consonant cluster sounds"
+          ],
+          "assessment_criteria": "The consonant cluster sounds in syllables, words, sentences and texts are pronounced correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-2"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(a) Using vocabulary related to daily life to initiate and develop conversations with confidence in various contexts",
+          "suggested_methods": [
+            "Role play: Guide pupils to role-play daily activities in different contexts using appropriate vocabulary and with confidence",
+            "Word game: Guide pupils to form words starting with each letter of a word related to daily life"
+          ],
+          "assessment_criteria": "Vocabulary related to daily life has been used to initiate and develop conversations in various contexts with confidence",
+          "suggested_resources": [
+            "Pictures",
+            "drawings",
+            "real objects",
+            "CDs",
+            "recorder and computer"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-3"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(b) Identifying synonyms and antonyms in conversations",
+          "suggested_methods": [
+            "Story: Guide pupils to identify synonyms and antonyms from the conversation",
+            "Field trip: Guide pupils to make a field trip to identify the names of objects with synonyms and antonyms, and then present"
+          ],
+          "assessment_criteria": "Synonyms and antonyms are identified correctly in conversations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-4"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(c) Describing objects found in the environment in singular and plural forms",
+          "suggested_methods": [
+            "Observation: Guide pupils to observe objects in their environment, and then identify the singular and plural forms of those objects",
+            "Demonstration: Guide pupils to identify the singular and plural forms of various objects that you will show them"
+          ],
+          "assessment_criteria": "Objects found in the environment have been described correctly in singular and plural forms",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-5"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(d) Asking and answering questions",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss any given topic, and then ask each other questions",
+            "Chain: Guide pupils to ask each other questions and answer in a chain sequence"
+          ],
+          "assessment_criteria": "Questions are asked and answered fluently",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-6"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(e) Changing intonation according to emotions or the context of the conversation",
+          "suggested_methods": [
+            "Narration: Guide pupils to narrate various events in order to change intonation and express different emotions"
+          ],
+          "assessment_criteria": "Intonation has been changed correctly according to emotions or the context of the conversation",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-7"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Developing conversations in various contexts",
+          "learning_activity": "(f) Initiating and completing riddles, proverbs and idioms in conversations",
+          "suggested_methods": [
+            "Observation: Guide pupils using pictures/real objects to pose and solve riddles, initiate and complete proverbs, and explain the meanings of idioms and proverbs",
+            "Game: Guide pupils in two teams to pose and solve riddles, initiate and complete proverbs, and explain the meanings of idioms"
+          ],
+          "assessment_criteria": "Riddles, proverbs and idioms are initiated and completed correctly in conversations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-8"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.3 Using writing in communication according to various contexts",
+          "learning_activity": "(a) Writing a passage using punctuation marks: full stop (.), exclamation mark (!), question mark (?) and comma (,)",
+          "suggested_methods": [
+            "Dictation: Read to pupils a prepared passage and have them write it using punctuation marks: full stop (.), exclamation mark (!), question mark (?) and comma (,)"
+          ],
+          "assessment_criteria": "A passage is written using punctuation marks correctly: full stop (.), exclamation mark (!), question mark (?) and comma (,)",
+          "suggested_resources": [
+            "Computer",
+            "tablet",
+            "punctuation cards",
+            "pictures",
+            "passage and real objects"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-9"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.3 Using writing in communication according to various contexts",
+          "learning_activity": "(b) Writing a passage using cohesive conjunctions",
+          "suggested_methods": [
+            "Discussion: Guide pupils to read texts, and then identify and discuss words that serve to show connection or linkage between sentences or word phrases (phrase and phrase)"
+          ],
+          "assessment_criteria": "A passage is written using cohesive conjunctions",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-10"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.3 Using writing in communication according to various contexts",
+          "learning_activity": "(c) Using punctuation marks correctly when writing dictation",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss the importance and correct use of punctuation marks, and then write dictation observing those marks",
+            "Narration: Guide pupils to listen to recorded narratives, and then write what they heard while observing punctuation marks"
+          ],
+          "assessment_criteria": "Punctuation marks are used correctly when writing dictation",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-11"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.3 Using writing in communication according to various contexts",
+          "learning_activity": "(d) Using prepositions (behind, in front of, on top of, beside, under, in the middle of and around/next to) in writing",
+          "suggested_methods": [
+            "Demonstration: Show pupils real objects or pictures you have prepared, and then guide them to identify where objects are located based on the identified prepositions"
+          ],
+          "assessment_criteria": "Prepositions (behind, in front of, on top of, beside, under, in the middle of and around/next to) are used correctly in writing",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-12"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(a) Listening to conversations while focusing on key matters in various contexts",
+          "suggested_methods": [
+            "Narration: Guide pupils to narrate stories or news to each other, and then answer questions while focusing on key matters in various contexts"
+          ],
+          "assessment_criteria": "Conversations focusing on key matters in various contexts have been listened to",
+          "suggested_resources": [
+            "CD",
+            "computer",
+            "radio",
+            "tablet and dictionary"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-13"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(b) Using words heard in other conversational contexts",
+          "suggested_methods": [
+            "Demonstration: Show pupils pictures or real objects, and then guide them to use words corresponding to those objects according to context"
+          ],
+          "assessment_criteria": "Words heard in other conversational contexts are used correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-14"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(c) Using a dictionary to find the meanings of new vocabulary appearing in short simple texts",
+          "suggested_methods": [
+            "Story: Prepare a story showing the function of a dictionary",
+            "Project work: Give pupils several words from a short simple text, and then have them look up definitions in the dictionary"
+          ],
+          "assessment_criteria": "A dictionary is used to find the meanings of new vocabulary appearing in short simple texts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-15"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(d) Answering text-based questions correctly",
+          "suggested_methods": [
+            "Media: Guide pupils to listen to information in a text, and then ask questions regarding that text",
+            "Discussion: Guide pupils to discuss the importance of education using a text, and then ask questions"
+          ],
+          "assessment_criteria": "Text-based questions are answered correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-16"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and with comprehension",
+          "learning_activity": "(a) Reading short and simple texts at an appropriate speed and with correct pronunciation",
+          "suggested_methods": [
+            "Demonstration: Read a short and simple text at an appropriate speed according to the age of your pupils, with correct pronunciation, intonation and punctuation marks as an example, and then guide them to read"
+          ],
+          "assessment_criteria": "Short and simple texts are read at an appropriate speed and with correct pronunciation",
+          "suggested_resources": [
+            "Short simple texts",
+            "clock",
+            "recorder",
+            "smartphone",
+            "radio",
+            "computer",
+            "tablet and pointer"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-17"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and with comprehension",
+          "learning_activity": "(b) Reading sentences observing the rising and falling of sound waves",
+          "suggested_methods": [
+            "Observation: Guide pupils to identify sentences with different pitch levels using ICT equipment, and then guide them to repeat pronouncing those sentences to show different intonations",
+            "Question and Answer: Guide pupils to construct sentences, and then read them aloud observing the rising and falling of sound waves"
+          ],
+          "assessment_criteria": "Sentences are read fluently while observing the rising and falling of sound waves",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-18"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of something listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and with comprehension",
+          "learning_activity": "(c) Explaining the main message contained in a short text read",
+          "suggested_methods": [
+            "Question and answer: Guide pupils to read a short text, and then ask questions about the main message from the text"
+          ],
+          "assessment_criteria": "The main message contained in the short text read is explained fluently",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-19"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.1 Writing various texts",
+          "learning_activity": "(a) Writing various sentences correctly",
+          "suggested_methods": [
+            "Game: Prepare sentences, then cut those sentences into words and mix up the word cards. Guide pupils to form sentences and write them using the words written on the cards"
+          ],
+          "assessment_criteria": "Various sentences are written correctly",
+          "suggested_resources": [
+            "Sentence cards and event pictures"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-20"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.1 Writing various texts",
+          "learning_activity": "(b) Arranging mixed sentences in a correct sequence",
+          "suggested_methods": [
+            "Question and answer: Prepare sentences with incorrect word order, and then guide pupils to write those sentences correctly",
+            "Field trip: Guide pupils to visit a neighboring school, and then narrate their field trip step by step. Write those steps using complete sentences, then mix up the sentences and ask pupils to arrange them in logical order"
+          ],
+          "assessment_criteria": "Mixed sentences are arranged in a correct sequence",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-21"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.1 Writing various texts",
+          "learning_activity": "(c) Writing a short text observing proper word arrangement and punctuation marks",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss the proper arrangement of words and the importance of punctuation marks in writing a short text, and then write a short text observing these aspects"
+          ],
+          "assessment_criteria": "A short text is written correctly observing proper word arrangement and punctuation marks",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-22"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.2 Analyzing ideas presented in various texts",
+          "learning_activity": "(a) Identifying vocabulary appearing in short simple texts",
+          "suggested_methods": [
+            "Project work: Guide pupils to read short simple texts and listen to news on television, radio or phone, and then identify the vocabulary contained along with their definitions",
+            "Story: Guide pupils to read or listen to a story, and then name new words and look up their meanings in a dictionary"
+          ],
+          "assessment_criteria": "Vocabulary appearing in short simple texts has been identified",
+          "suggested_resources": [
+            "Short simple texts",
+            "radio",
+            "dictionary and television"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-23"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.2 Analyzing ideas presented in various texts",
+          "learning_activity": "(b) Analyzing main ideas emerging in short simple texts",
+          "suggested_methods": [
+            "Jigsaw: Divide different texts among groups, guide pupils to read and write the message of those texts, and then ensure each group reads all the work and explains key issues contained in the respective text"
+          ],
+          "assessment_criteria": "Main ideas emerging in short simple texts have been analyzed effectively",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-24"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.3 Demonstrating early skills in creating various Kiswahili works",
+          "learning_activity": "(a) Narrating short simple stories",
+          "suggested_methods": [
+            "Narration: Guide pupils to tell stories to each other, then select a few pupils to narrate their stories in front of the class"
+          ],
+          "assessment_criteria": "Short simple stories are narrated correctly",
+          "suggested_resources": [
+            "Drawings",
+            "short simple stories",
+            "illustrations and pictures"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-25"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(a) Comparing things using words (kuliko, zaidi ya, kama, mithili ya and mfano wa) in various contexts",
+          "suggested_methods": [
+            "Demonstration: Display two items at a time, then guide students to explain the concept of comparison",
+            "Question and answer: Prepare a table with comparison words, then guide students to construct sentences using the table"
+          ],
+          "assessment_criteria": "Things are compared correctly using words (kuliko, zaidi ya, kama, mithili ya and mfano wa) in various contexts fluently",
+          "suggested_resources": [
+            "List of idioms and proverbs",
+            "real objects",
+            "drawings and pictures"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "kisw-4-26"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(b) Narrating events considering tense markers: present (-na-), past (-li-), future (-ta-); and perfect aspect (-me-) and habitual aspect (hu-)",
+          "suggested_methods": [
+            "Concept map: Guide students through a chart to explain types of tenses and aspects",
+            "Question and answer: Guide students to construct sentences considering tense and aspect markers"
+          ],
+          "assessment_criteria": "Events are narrated accurately in various tenses and aspects",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-27"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(c) Expressing oneself with confidence",
+          "suggested_methods": [
+            "Debate: Give students a topic and divide them into two groups, then guide them to engage in a debate with confidence",
+            "Role play: Guide students to role-play with confidence"
+          ],
+          "assessment_criteria": "Expressing oneself with confidence is done fluently",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-28"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(d) Supporting or opposing an idea using arguments and simple examples",
+          "suggested_methods": [
+            "Ngonjera (poetic dialogue): Give students a topic and roles, then guide their dialogue and summarize the raised arguments"
+          ],
+          "assessment_criteria": "An idea is supported and opposed using arguments and simple examples",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-29"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(e) Using idioms and proverbs in conversation",
+          "suggested_methods": [
+            "Pictures and descriptions: Draw pictures and put idioms and proverbs for each picture then guide students to identify the relationship of idioms, proverbs and their pictures, then use those idioms and proverbs according to their meanings",
+            "Storytelling: Guide students to create stories using idioms and proverbs"
+          ],
+          "assessment_criteria": "Idioms and proverbs are used well in conversation",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-30"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(a) Composing simple texts using punctuation marks: hyphen (-), slash (/), brackets ( ) and quotation marks (“ ”)",
+          "suggested_methods": [
+            "Discussion: Guide students to compose simple texts using illustrations of punctuation marks correctly"
+          ],
+          "assessment_criteria": "Simple texts are composed correctly using punctuation marks: hyphen (-), slash (/), brackets ( ) and quotation marks (“ ”)",
+          "suggested_resources": [
+            "Friendly letters",
+            "envelopes",
+            "stamps",
+            "computers",
+            "tablets and punctuation mark cards"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-4-31"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(b) Using tenses and aspects correctly in writing a paragraph",
+          "suggested_methods": [
+            "Reading texts: Prepare texts that use various tenses and aspects, then guide students to identify those tenses and aspects by underlining, then construct sentences using those tenses and aspects"
+          ],
+          "assessment_criteria": "Tenses and aspects are used correctly in writing a paragraph",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-32"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(c) Writing simple texts considering a proper flow of ideas",
+          "suggested_methods": [
+            "Narration: Prepare pictures that build a story, mix them up, then guide students to write a story considering the correct sequence of the given pictures"
+          ],
+          "assessment_criteria": "A simple text is written considering the correct flow of ideas",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-33"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(d) Writing a friendly letter considering the correct structure",
+          "suggested_methods": [
+            "Discussion: Distribute friendly letters into groups, then guide students to discuss their parts",
+            "Boasting game: Give students the roles of the parts of a friendly letter, then guide them to boast in front of the class according to the characteristics of those parts"
+          ],
+          "assessment_criteria": "A friendly letter is written considering the correct structure",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-34"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(a) Listening to stories",
+          "suggested_methods": [
+            "Storytelling: Guide students to listen to stories on the radio/television/recorder, then ask them questions based on the story they listened to",
+            "Narration: Guide students to narrate the story they listened to"
+          ],
+          "assessment_criteria": "The story has been listened to attentively",
+          "suggested_resources": [
+            "Stories",
+            "recorder",
+            "CD",
+            "computer",
+            "tablet and radio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-4-35"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(b) Identifying the narrator's feelings through the rise and fall of voice tones",
+          "suggested_methods": [
+            "Storytelling: Narrate a story by assuming the role of each character considering the rise and fall of voice tones, then guide students to name the characteristics of each character based on their role"
+          ],
+          "assessment_criteria": "The narrator's feelings are identified correctly based on the rise and fall of voice tones",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-36"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(c) Identifying the main message from a story listened to",
+          "suggested_methods": [
+            "Discussion: Guide students in groups to discuss the main message from the story they listened to"
+          ],
+          "assessment_criteria": "The main message in the listened story is identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-37"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and comprehending",
+          "learning_activity": "(a) Reading short simple texts fluently",
+          "suggested_methods": [
+            "Field trip: Direct students to go to the library to read short simple texts, then return to the class and narrate the texts to each other",
+            "Reading aloud: Guide students to read short simple texts aloud considering appropriate speed, correct pronunciation and punctuation marks"
+          ],
+          "assessment_criteria": "Short simple texts are read fluently",
+          "suggested_resources": [
+            "Short simple texts and dictionary"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-4-38"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and comprehending",
+          "learning_activity": "(b) Answering questions based on a short text read",
+          "suggested_methods": [
+            "Question and answer: Guide students to answer questions related to the texts they have read",
+            "Rotational papers: Distribute different questions concerning the text, then each group writes answers on paper and passes the paper with answers to other groups to read those groups' answers"
+          ],
+          "assessment_criteria": "Questions based on the short text read are answered correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-39"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what has been listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and comprehending",
+          "learning_activity": "(c) Using new vocabulary and expressions contained in the short text read",
+          "suggested_methods": [
+            "Reading texts: Guide students to read short texts and identify new vocabulary and expressions in creative work",
+            "Question and answer: Guide students to construct stories using new vocabulary and expressions from the short texts they have read"
+          ],
+          "assessment_criteria": "New vocabulary and expressions contained in the short text read are used correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-40"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(a) Identifying vocabulary or phrases used to build or oppose an argument (e.g., your argument is good but ..., although you are saying this, there is ...)",
+          "suggested_methods": [
+            "Discussion: Guide students to listen to topics in media or ICT tools, then identify vocabulary or phrases used to build or oppose an argument",
+            "Debate: Guide students to build or oppose arguments using appropriate vocabulary and phrases used to build or oppose arguments"
+          ],
+          "assessment_criteria": "Vocabulary or phrases used to build or oppose arguments are identified correctly",
+          "suggested_resources": [
+            "Dictionary and various texts"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "kisw-4-41"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(b) Expressing opinions or ideas using vocabulary and phrases used to build or oppose arguments",
+          "suggested_methods": [
+            "Debate: Guide students to build arguments or oppose arguments using appropriate vocabulary and phrases correctly",
+            "Game: Guide students to role-play that they are in a class meeting discussing how to clean the classroom using appropriate language"
+          ],
+          "assessment_criteria": "Opinions or ideas using vocabulary and phrases used to build or oppose arguments are expressed politely",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-42"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(c) Building arguments with logical sequence and coherence",
+          "suggested_methods": [
+            "Game: Write several sentences that build a single idea (each sentence on its own paper), give students one sentence each and ensure they are mixed up, then have them arrange themselves in sequence according to the logic of the sentences",
+            "Question and answer: Guide students to match sentences in two columns"
+          ],
+          "assessment_criteria": "Arguments are built with logical sequence and coherence",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-43"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analyzing ideas presented in various texts",
+          "learning_activity": "(a) Reading short simple texts",
+          "suggested_methods": [
+            "Reading texts: Guide students to read short simple texts aloud and silently, then ask them questions about the text they read",
+            "Field trip: Guide students to visit a nearby library to read various texts based on the guidelines given to them, then write what they read and present it in class"
+          ],
+          "assessment_criteria": "Short simple texts have been read",
+          "suggested_resources": [
+            "Short simple texts and dictionary"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-4-44"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analyzing ideas presented in various texts",
+          "learning_activity": "(b) Explaining the meanings of new expressions that appeared in short simple texts",
+          "suggested_methods": [
+            "Reading texts: Guide students to read texts and identify vocabulary and new expressions in the texts",
+            "Project work: Guide students using dictionaries to look up the meanings of vocabulary and new expressions that appeared in the texts",
+            "Question and answer: Guide students to construct sentences using vocabulary and new expressions from the text"
+          ],
+          "assessment_criteria": "The meanings of new expressions that appeared in texts are explained correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-45"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analyzing ideas presented in various texts",
+          "learning_activity": "(c) Presenting main ideas contained in short simple texts",
+          "suggested_methods": [
+            "Reading texts: Guide students to read short simple texts, then summarize them focusing on the main ideas contained in those texts",
+            "Game: Guide students, in two columns, through competition, to present ideas contained in the texts they read, then award marks for each idea. The column with the most marks will win"
+          ],
+          "assessment_criteria": "Main ideas contained in short simple texts are presented correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-46"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.3 Demonstrating early skills of creativity in various Kiswahili works",
+          "learning_activity": "(a) Composing short simple stories",
+          "suggested_methods": [
+            "Discussion: Guide students to read short simple stories, discuss things to consider in story composition, then compose short simple stories",
+            "Narration: Guide students to narrate their lives while at school",
+            "Role play: Guide students to role-play the story they narrated about their lives while at school"
+          ],
+          "assessment_criteria": "Short simple stories are composed well",
+          "suggested_resources": [
+            "Pictures",
+            "illustrations",
+            "drawings and short simple stories"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "kisw-4-47"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(a) Using vocabulary to narrate events, news, and various things with confidence",
+          "suggested_methods": [
+            "Demonstration: Show students sequential pictures to narrate events, news, and various issues with confidence"
+          ],
+          "assessment_criteria": "Vocabulary has been used in narrating events, news, and various things with confidence",
+          "suggested_resources": [
+            "Dictionary",
+            "list of proverbs and idioms"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "kisw-5-48"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(b) Identifying grammatical persons (singular and plural) in conversations",
+          "suggested_methods": [
+            "Pictures and descriptions: Show pictures that identify grammatical persons (singular and plural), meaning the three grammatical persons (singular and plural) in conversations have been identified with people engaged in various activities, then explain the three grammatical persons in their singular and plural forms",
+            "Game: Guide a game of constructing sentences by observing grammatical persons. The first column should be the first person singular and plural. Do the same for the second and third columns. Note that a single sentence will be changed across all grammatical persons"
+          ],
+          "assessment_criteria": "The three grammatical persons (singular and plural) in conversations have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-49"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(c) Using idioms and proverbs in conversations",
+          "suggested_methods": [
+            "Narration: Guide students to tell stories using idioms and proverbs correctly"
+          ],
+          "assessment_criteria": "Idioms and proverbs have been used correctly in conversations",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-50"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(a) Writing a passage observing punctuation marks: colon (:), semicolon (;), apostrophe (‘) and ellipsis (…)",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss the use of punctuation marks: colon (:), semicolon (;), apostrophe (‘) and ellipsis (…) in writing",
+            "Dictation: Read a text to students in intervals so that they write while observing punctuation marks: colon (:), semicolon (;), apostrophe (‘) and ellipsis (…)"
+          ],
+          "assessment_criteria": "A passage has been written correctly observing the punctuation marks colon (:), semicolon (;), apostrophe (‘) and ellipsis (…)",
+          "suggested_resources": [
+            "Official letters",
+            "computer",
+            "dictionary and punctuation mark cards"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-51"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(b) Using appropriate vocabulary in essay writing according to the topic",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss and write the main idea of each paragraph, then complete the essay using appropriate vocabulary"
+          ],
+          "assessment_criteria": "Appropriate vocabulary has been used well in essay writing according to the topic",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-52"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(c) Writing an official letter observing the correct structure",
+          "suggested_methods": [
+            "Role play: Assign students roles in groups according to the parts of an official letter, then guide them to role play",
+            "Questions and Answers: Guide students to write official letters observing their parts"
+          ],
+          "assessment_criteria": "An official letter has been written correctly observing its structure",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-53"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(a) Narrating a story listened to correctly",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss basic matters when narrating a story",
+            "Narration: Guide students to narrate their lives during the holiday"
+          ],
+          "assessment_criteria": "The story listened to has been narrated correctly",
+          "suggested_resources": [
+            "Story",
+            "radio",
+            "dictionary",
+            "tablet",
+            "CD and computer"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-54"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(b) Interpreting the main message contained in the story and real-life environments",
+          "suggested_methods": [
+            "Questions and answers: Guide students to explain the lessons they get from the story by asking them questions",
+            "Fishbowl: Guide students to sit in two circles (inner circle and outer circle), then those in the inner circle explain the lessons they get from the story and those in the outer circle add what is missing"
+          ],
+          "assessment_criteria": "The main message contained in the story has been interpreted correctly considering real-life environments",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-55"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(c) Relating the behavior of characters in the story to real-life environments",
+          "suggested_methods": [
+            "Discussion: Guide students in groups to discuss how the behavior of characters resembles real-life environments",
+            "Observation: Give students the profile of each character, then guide them to investigate by comparing with people in their community"
+          ],
+          "assessment_criteria": "The behavior of characters in the story has been correctly related to real-life environments",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-56"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(d) Clarifying the meaning of idioms and proverbs contained in the story correctly",
+          "suggested_methods": [
+            "Game: Prepare two large cards, write the word “idiom” on one and the word “proverb” on the other, then write many idioms and proverbs on separate papers, and guide students holding cards written idiom to stand in front of the large card written ‘idiom’ while raising them, and those holding cards written proverb should do the same",
+            "Game: Form two teams, then one team should mention an idiom and the second team should say its meaning. Also, do the same for proverbs by exchanging roles"
+          ],
+          "assessment_criteria": "The meaning of idioms and proverbs contained in the story has been clarified correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-57"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and with comprehension",
+          "learning_activity": "(a) Reading long simple texts",
+          "suggested_methods": [
+            "Questions and answers: Guide students to read long simple texts, then ask students questions about those texts",
+            "Project work: Guide students to visit the library to read long simple texts, then identify the ideas contained in those texts and present them in class"
+          ],
+          "assessment_criteria": "Long simple texts have been read with comprehension",
+          "suggested_resources": [
+            "Long simple creative and non-creative texts"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-58"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of what is listened to or read",
+          "specific_competence": "2.2 Reading texts fluently and with comprehension",
+          "learning_activity": "(b) Presenting main ideas read in long texts",
+          "suggested_methods": [
+            "Questions and answers: Guide students to read texts, then explain the main ideas they have learned",
+            "Discussion: Guide students to discuss the main ideas in the long text they have read"
+          ],
+          "assessment_criteria": "Ideas read in long texts have been presented correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-59"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(a) Presenting arguments using vocabulary appropriate to the specific context of conversation",
+          "suggested_methods": [
+            "Role play: Guide students to role play presenting arguments in a student government meeting",
+            "Inviting a guest speaker: Invite a Community Development Officer to present a topic on health or proper gender relations, then guide students to contribute arguments based on the presented topic"
+          ],
+          "assessment_criteria": "Arguments have been presented correctly using vocabulary appropriate to the specific context of conversation",
+          "suggested_resources": [
+            "Real objects",
+            "tablet",
+            "computer",
+            "CD",
+            "pictures and radio"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-60"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.2 Writing various texts",
+          "learning_activity": "(a) Writing a short essay observing the components of an essay",
+          "suggested_methods": [
+            "Concept map: Guide students to name and explain the components of an essay starting with the first circle containing the word essay, then let them continue",
+            "Demonstration: Show a sample essay, then guide students to compose an essay observing that example"
+          ],
+          "assessment_criteria": "A short essay has been written observing essay components",
+          "suggested_resources": [
+            "Various essays",
+            "official letters",
+            "computer",
+            "tablet",
+            "envelopes and stamps"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-61"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.2 Writing various texts",
+          "learning_activity": "(b) Replying to a friendly letter",
+          "suggested_methods": [
+            "Questions and Answers: Guide students to reply to a friendly letter"
+          ],
+          "assessment_criteria": "A friendly letter has been replied to correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-62"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.3 Analyzing ideas presented in various texts",
+          "learning_activity": "(a) Analyzing various ideas that emerged in the short simple text read",
+          "suggested_methods": [
+            "Project work: Guide students to visit the library to read texts, then analyze the ideas contained in the texts they have read"
+          ],
+          "assessment_criteria": "Various ideas that emerged in the short simple text read have been analyzed fluently",
+          "suggested_resources": [
+            "Short simple texts"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-63"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.3 Analyzing ideas presented in various texts",
+          "learning_activity": "(b) Explaining ideas that emerged in the short simple text through speech",
+          "suggested_methods": [
+            "Reading texts: Prepare texts, divide them into groups, then guide students to read, discuss and explain the ideas emerging in those texts"
+          ],
+          "assessment_criteria": "Ideas that emerged in the short simple text have been explained correctly through speech",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-64"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.3 Analyzing ideas presented in various texts",
+          "learning_activity": "(c) Summarizing information read in the short simple text through writing",
+          "suggested_methods": [
+            "Questions and answers: Guide students using questions to identify main ideas in the short simple texts they have read and summarize them"
+          ],
+          "assessment_criteria": "Information read in the short simple text has been summarized correctly through writing",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-65"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.4 Demonstrating early creative skills in various Kiswahili works",
+          "learning_activity": "(a) Composing simple and short plays observing rules",
+          "suggested_methods": [
+            "Observation: Guide students to watch a play on television or radio and observe how characters take on roles in acting, then compose simple plays following the rules",
+            "Game: Guide students to perform the play they have composed"
+          ],
+          "assessment_criteria": "Simple and short plays have been composed correctly observing rules",
+          "suggested_resources": [
+            "Real objects"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-66"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and writing according to context",
+          "specific_competence": "3.4 Demonstrating early creative skills in various Kiswahili works",
+          "learning_activity": "(b) Acting simple dramas",
+          "suggested_methods": [
+            "Observation: Guide students to watch dramas on television or listen on the radio, then observe stylistic techniques and present them in class",
+            "Game: Guide students to act simple plays"
+          ],
+          "assessment_criteria": "Simple dramas have been acted effectively",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-67"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.1 Developing conversations in various contexts",
+          "learning_activity": "(a) Using vocabulary in various discussions with confidence",
+          "suggested_methods": [
+            "Debate: Guide students to use appropriate vocabulary in a debate"
+          ],
+          "assessment_criteria": "Vocabulary has been used in various discussions with confidence",
+          "suggested_resources": [
+            "Television, CDs and radio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-68"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(a) Identifying writing errors in texts",
+          "suggested_methods": [
+            "Observation: Guide students to read texts carefully and identify writing errors"
+          ],
+          "assessment_criteria": "Writing errors in texts have been identified",
+          "suggested_resources": [
+            "Messages of greetings, speeches, computers, tablets and various texts"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-69"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(b) Correcting writing errors in texts",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss and correct errors by writing the correct one where there is a writing error"
+          ],
+          "assessment_criteria": "Writing errors in texts have been corrected",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-70"
+        },
+        {
+          "main_competence": "1.0 Communicating in various contexts",
+          "specific_competence": "1.2 Using writing in communication according to various contexts",
+          "learning_activity": "(c) Writing messages of greetings and speeches by observing structure and context",
+          "suggested_methods": [
+            "Reading texts: Guide students to read various messages of greetings and speeches, then discuss the structure of speeches and messages of greetings",
+            "Boasting: Guide students in two teams to boast about messages of greetings and speeches by identifying their characteristics, structure, use and participants. Let one team be called messages of greetings and the second team be called speeches",
+            "Discussion: Guide students to discuss in groups things to consider when writing messages of greetings and speeches, then write messages of greetings and speeches"
+          ],
+          "assessment_criteria": "Messages of greetings and speeches have been written by observing structure and context correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-71"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of a matter listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(a) Listening to various news items and taking notes of main ideas",
+          "suggested_methods": [
+            "Narrative: Guide students to listen to news you have prepared, then write the main ideas contained in those news items",
+            "Observation: Guide students to listen to a news bulletin on the radio/television/computer, then write the main ideas they got"
+          ],
+          "assessment_criteria": "Various news items have been listened to and main ideas have been accurately noted",
+          "suggested_resources": [
+            "Voice recorder, radio and television"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "kisw-6-72"
+        },
+        {
+          "main_competence": "2.0 Showing understanding of a matter listened to or read",
+          "specific_competence": "2.1 Demonstrating listening and comprehension skills",
+          "learning_activity": "(b) Summarizing news listened to by focusing on main ideas",
+          "suggested_methods": [
+            "Questions and answers: Guide students to identify and write the main idea for each paragraph in the news they listened to, then connect the ideas to get a summary"
+          ],
+          "assessment_criteria": "News listened to has been summarized by focusing on main ideas",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-73"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(a) Using appropriate vocabulary in opposing or defending an argument by giving strong examples according to context",
+          "suggested_methods": [
+            "Debate: Guide students by giving them a debate topic, one side to oppose and the other to defend the argument with strong examples according to context"
+          ],
+          "assessment_criteria": "Appropriate vocabulary has been used fluently in opposing or defending an argument by giving strong examples according to context",
+          "suggested_resources": [
+            "Dictionary, television, CDs, radio and voice recorder"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-74"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(b) Using appealing language in presenting arguments",
+          "suggested_methods": [
+            "Presentation: Guide students to present arguments using appealing language, that is, containing figures of speech, idioms, proverbs and sayings"
+          ],
+          "assessment_criteria": "Appealing language has been used correctly in presenting arguments",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-75"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.1 Presenting arguments through speech in various contexts",
+          "learning_activity": "(c) Giving speeches using fluent language in school contexts",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss basic things to consider when giving a speech",
+            "Role play: Guide students to role play how to give a speech showing their priorities during school leadership position campaigns"
+          ],
+          "assessment_criteria": "Giving a speech using fluent language in a school context has been done",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-76"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analysing ideas presented in various texts",
+          "learning_activity": "(a) Reading various poems and dialogue poems (ngonjera)",
+          "suggested_methods": [
+            "Reading texts: Guide students to read texts containing poems and dialogue poems",
+            "Observation: Guide students to listen to recorded poems and dialogue poems, then observe how they are recited and chanted",
+            "Questions and answers: Guide students to identify things to consider when chanting a poem and reciting a dialogue poem"
+          ],
+          "assessment_criteria": "Various poems and dialogue poems have been read fluently",
+          "suggested_resources": [
+            "Poems and dialogue poems"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-77"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analysing ideas presented in various texts",
+          "learning_activity": "(b) Analysing ideas arising in dialogue poems and poems read",
+          "suggested_methods": [
+            "Project work: Guide students to visit the library to read dialogue poems and poems, then analyse the message contained",
+            "Discussion: Guide students to elaborate ideas that emerged in dialogue poems and poems"
+          ],
+          "assessment_criteria": "Ideas arising in dialogue poems and poems read have been analysed correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-78"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.2 Analysing ideas presented in various texts",
+          "learning_activity": "(c) Narrating ideas contained in dialogue poems and poems read",
+          "suggested_methods": [
+            "Discussion: Guide students to recite dialogue poems and chant poems, then discuss the message contained",
+            "Questions and answers: Guide students to elaborate ideas that emerged in dialogue poems and poems by asking them questions"
+          ],
+          "assessment_criteria": "Ideas contained in dialogue poems and poems read have been narrated fluently",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-79"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.3 Demonstrating early skills of creativity in various Kiswahili works",
+          "learning_activity": "(a) Composing a poem and a dialogue poem",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss and write words with similar endings, then write words with four syllables, then add other words with four syllables (totaling eight syllables), then compose dialogue poems and poems using those words"
+          ],
+          "assessment_criteria": "Dialogue poems and poems have been composed correctly",
+          "suggested_resources": [
+            "Dialogue poems, poems and real objects"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-80"
+        },
+        {
+          "main_competence": "3.0 Presenting arguments through speech and in writing according to context",
+          "specific_competence": "3.3 Demonstrating early skills of creativity in various Kiswahili works",
+          "learning_activity": "(b) Reciting dialogue poems and chanting poems",
+          "suggested_methods": [
+            "Observation: Guide students to watch dialogue poems and poems on television and radio and observe stylistic techniques used",
+            "Game: Guide students to recite dialogue poems and chant poems"
+          ],
+          "assessment_criteria": "Dialogue poems have been recited and poems have been chanted correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-81"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "kiswahili_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

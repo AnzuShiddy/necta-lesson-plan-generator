@@ -170,7 +170,7 @@ Produce the complete lesson plan now."""
 
 
 def generate(req: LessonPlanRequest) -> GeneratedLessonPlan:
-    entry = scheme.get_entry(req.subject, req.form, req.entry_id)
+    entry = scheme.get_entry(req.subject, req.form, req.entry_id, req.medium)
     if entry is None:
         raise ValueError(
             f"Unknown scheme week {req.entry_id!r} for {req.subject} {req.form}"

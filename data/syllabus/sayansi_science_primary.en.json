@@ -1,0 +1,691 @@
+{
+  "subject": "Sayansi / Science",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727175605-Muhtasari%20wa%20Somo%20la%20Sayansi%20Shule%20ya%20Msingi%20Darasa%20la%20III%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Demonstrate understanding of scientific theories",
+          "learning_activity": "(a) Explain the concept of science (meaning and branches of science)",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on the meaning of science and its branches",
+            "Discussion: Guide pupils to discuss the concept of science",
+            "Question and answer: Guide pupils to explain the concept of science by answering questions",
+            "Case study: Guide pupils to explain the concept of science through a case study concerning the meaning of science and its branches"
+          ],
+          "assessment_criteria": "The concept of science is explained correctly",
+          "suggested_resources": [
+            "Science kit",
+            "videos and motion pictures concerning branches of science"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-1"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Demonstrate understanding of scientific theories",
+          "learning_activity": "(b) Explain human sense organs",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on human sense organs",
+            "Discussion: Guide pupils to discuss human sense organs"
+          ],
+          "assessment_criteria": "Human sense organs are explained correctly",
+          "suggested_resources": [
+            "Chart showing human sense organs",
+            "Models/replicas of sense organs"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "saya-3-2"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.2 Conduct simple scientific investigations",
+          "learning_activity": "(a) Identify things found in the environment using sense organs",
+          "suggested_methods": [
+            "Experiments: In groups, guide pupils to conduct investigations using sense organs to identify things found in the environment"
+          ],
+          "assessment_criteria": "Things found in the environment are identified correctly using sense organs",
+          "suggested_resources": [
+            "Science kit",
+            "various things in the environment for example: soil, stones, heat source, scent source, sound source, animals, insects, plants and videos of things and living organisms in the environment"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-3"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.2 Conduct simple scientific investigations",
+          "learning_activity": "(b) Identify living and non-living things",
+          "suggested_methods": [
+            "Discussion: Guide pupils in groups to discuss in order to identify features of things and living organisms",
+            "Experiments: Guide pupils to conduct experiments to identify things and living organisms",
+            "Question and answer: Pupils should be guided to identify living and non-living things through question and answer"
+          ],
+          "assessment_criteria": "Living and non-living things are identified correctly",
+          "suggested_resources": [
+            "Videos",
+            "motion pictures showing characteristics of living things",
+            "videos of things and living organisms in the environment",
+            "real living organisms and things for example: Insects, animals, plants, stones and soil"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "saya-3-4"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.2 Conduct simple scientific investigations",
+          "learning_activity": "(c) Identify main groups of living organisms (plants and animals)",
+          "suggested_methods": [
+            "Question and answer: Pupils should be guided to identify the main groups of living organisms",
+            "Investigation: Guide pupils to conduct an investigation in the environment to identify the main groups of living organisms"
+          ],
+          "assessment_criteria": "The main groups of living organisms are identified correctly",
+          "suggested_resources": [
+            "Chart with living organisms such as plants, animals and insects"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "saya-3-5"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Conduct simple scientific experiments",
+          "learning_activity": "(a) Acknowledge steps of conducting a scientific investigation",
+          "suggested_methods": [
+            "Question and answer: Guide pupils through question and answer to explain the meaning of a scientific investigation",
+            "Discussion: Guide pupils to discuss the steps of conducting a scientific investigation",
+            "Investigation: Guide pupils to conduct a simple investigation in their environment"
+          ],
+          "assessment_criteria": "Steps of conducting a scientific investigation are explained correctly",
+          "suggested_resources": [
+            "Ruler",
+            "balance",
+            "stopwatch",
+            "tape measure",
+            "beaker",
+            "bowl",
+            "pencil",
+            "exercise book",
+            "tin and basket"
+          ],
+          "periods_for_specific_competence": 43,
+          "id": "saya-3-6"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Conduct simple scientific experiments",
+          "learning_activity": "(b) Conduct simple experiments on living and non-living things",
+          "suggested_methods": [
+            "Experiments: Guide pupils to conduct experiments to identify characteristics and essential needs of living organisms"
+          ],
+          "assessment_criteria": "Simple experiments on living and non-living things are conducted correctly",
+          "suggested_resources": [
+            "Animals",
+            "plants",
+            "stones",
+            "books and sand"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "saya-3-7"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Conduct simple scientific experiments",
+          "learning_activity": "(c) Conserve living organisms in the environment",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on the importance of living organisms in the environment",
+            "Discussion: Guide pupils in groups to discuss the importance of living organisms in the environment and ways to conserve them",
+            "Gallery walk: Guide pupils to conduct a gallery walk after discussion to learn the importance of living organisms in the environment and ways to conserve them",
+            "Project work: Guide pupils to carry out activities to conserve living organisms such as plants and animals"
+          ],
+          "assessment_criteria": "Living organisms in the environment are conserved correctly",
+          "suggested_resources": [
+            "Flower garden",
+            "vegetables",
+            "trees and various animals"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "saya-3-8"
+        },
+        {
+          "main_competence": "3.0 Master the use of ICT",
+          "specific_competence": "3.1 Use ICT in learning",
+          "learning_activity": "(a) Use ICT to play simple games that develop the ability to explain scientific events and concepts",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss procedures for using ICT to play simple games that develop the ability to explain scientific events and concepts",
+            "Demonstration: Guide pupils through demonstration to play simple games using ICT",
+            "Practical work: Guide pupils to use ICT tools to play games that develop the ability to explain scientific events and concepts"
+          ],
+          "assessment_criteria": "ICT is used to play simple games that develop the ability to explain scientific events and concepts",
+          "suggested_resources": [
+            "Phone",
+            "computer",
+            "tablet",
+            "Television",
+            "camera",
+            "printer and scanner"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-9"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.1 Showing understanding of scientific theories",
+          "learning_activity": "(a) Explaining health principles (balanced diet, physical exercises, personal and environmental hygiene, important signs and information)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the meaning of a balanced diet, physical exercises, personal and environmental hygiene, important signs and information",
+            "Discussion: Guide students in groups to discuss the concept of health principles",
+            "Guest speaker: Invite a health professional to explain health principles to students",
+            "Question and answer: Guide students to explain the concept of health principles",
+            "Case study: Guide students to explain the importance of personal and environmental hygiene through a case study"
+          ],
+          "assessment_criteria": "Health principles are explained correctly",
+          "suggested_resources": [
+            "Videos, motion pictures of a balanced diet, exercises, personal and environmental hygiene, pictures of important signs, personal hygiene tools, environmental hygiene tools",
+            "e-books"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "saya-4-10"
+        },
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.1 Showing understanding of scientific theories",
+          "learning_activity": "(b) Explaining major human diseases (modes of transmission, causes, control, and prevention)",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss major human diseases",
+            "Guest speaker: Invite a health professional to explain to students the types of diseases, modes of transmission, causes, methods of control, and prevention",
+            "Case study: Guide students to explain ways to prevent major human diseases through a case study"
+          ],
+          "assessment_criteria": "Types of human diseases are elaborated correctly",
+          "suggested_resources": [
+            "Videos and motion pictures of a balanced diet, exercises, personal and environmental hygiene",
+            "e-books",
+            "charts and brochures of various diseases"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "saya-4-11"
+        },
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.1 Showing understanding of scientific theories",
+          "learning_activity": "(c) Explaining the concept of matter (types and properties)",
+          "suggested_methods": [
+            "Question and answer: Guide students through questions and answers to explain the concept of matter",
+            "Discussion: Guide students in groups to identify the types and properties of matter"
+          ],
+          "assessment_criteria": "The concept of matter is explained correctly",
+          "suggested_resources": [
+            "Various objects in solid, liquid, and gas states",
+            "pictures and motion pictures of types of matter"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "saya-4-12"
+        },
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.1 Showing understanding of scientific theories",
+          "learning_activity": "(d) Explaining the process of combustion (combustion: meaning, causes, and results)",
+          "suggested_methods": [
+            "Question and answer: Guide students to explain the concept of combustion",
+            "Observation: Guide students to observe items that burn so that they can explain the concept of combustion",
+            "Discussion: Students in groups should hold discussions to identify the requirements for an object to burn",
+            "Experiments: Guide students to conduct experiments on burning objects to explain the concept of combustion"
+          ],
+          "assessment_criteria": "The process of combustion is explained correctly",
+          "suggested_resources": [
+            "Motion pictures",
+            "matchbox or fire lighter and burnable materials such as paper and twigs"
+          ],
+          "periods_for_specific_competence": 53,
+          "id": "saya-4-13"
+        },
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.2 Conducting simple scientific investigations",
+          "learning_activity": "(a) Investigating the growth stages of disease-spreading vectors in the environment (e.g., houseflies, cockroaches, and mosquitoes)",
+          "suggested_methods": [
+            "Observation: Guide students to investigate the growth stages of disease-spreading vectors in the environment",
+            "Field trip: Guide students to visit areas where vectors are found so that they can identify the growth stages of the vectors",
+            "Discussion: Guide students to discuss the growth stages of the vectors they identified as spreading diseases during the field trip"
+          ],
+          "assessment_criteria": "Investigation of the growth stages of disease-spreading vectors in the environment is conducted correctly",
+          "suggested_resources": [
+            "Science kit",
+            "housefly, cockroach, mosquito, other vectors found in the environment, and a chart showing vector growth stages"
+          ],
+          "periods_for_specific_competence": 55,
+          "id": "saya-4-14"
+        },
+        {
+          "main_competence": "1.0 Mastering scientific theories",
+          "specific_competence": "1.3 Showing understanding of forms of energy and their uses",
+          "learning_activity": "(a) Acknowledging forms of energy (heat, light, and sound) and their uses",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm on the concept of energy",
+            "Observation: Guide students to conduct an investigation of heat, light, and sound energies so that they can explain the concept of energy",
+            "Discussion: Guide students in groups to discuss the sources, properties, and uses of heat, light, and sound energies",
+            "Demonstration: Guide students to explain various uses of energy through a demonstration"
+          ],
+          "assessment_criteria": "Forms of energy and their uses are explained correctly",
+          "suggested_resources": [
+            "Electrical wires",
+            "thermometer",
+            "heater",
+            "battery",
+            "bulb",
+            "bell",
+            "radio",
+            "amplifiers",
+            "speaker",
+            "videos and motion pictures of heat, light, and sound energy"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-15"
+        },
+        {
+          "main_competence": "2.0 Mastering basic scientific skills",
+          "specific_competence": "2.1 Performing simple scientific experiments",
+          "learning_activity": "(a) Performing simple experiments to investigate states of matter",
+          "suggested_methods": [
+            "Case study: Guide students through a case study so that they can identify the states of matter",
+            "Experiments: Guide students in groups to perform simple experiments that will enable them to recognize and describe the properties of matter"
+          ],
+          "assessment_criteria": "Simple experiments to investigate states of matter are conducted correctly",
+          "suggested_resources": [
+            "Objects in solid, liquid, and gas states",
+            "fire source and ice"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-16"
+        },
+        {
+          "main_competence": "2.0 Mastering basic scientific skills",
+          "specific_competence": "2.1 Performing simple scientific experiments",
+          "learning_activity": "(b) Performing simple experiments to determine the importance of air in combustion",
+          "suggested_methods": [
+            "Discussion: Guide students in groups to discuss the importance of air in combustion",
+            "Experiments: Guide students in groups to perform simple experiments that will enable them to determine the importance of air in combustion"
+          ],
+          "assessment_criteria": "Simple experiments to determine the importance of air in combustion are conducted correctly",
+          "suggested_resources": [
+            "Science kit",
+            "fire source",
+            "various objects",
+            "burnable items and a tin"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "saya-4-17"
+        },
+        {
+          "main_competence": "2.0 Mastering basic scientific skills",
+          "specific_competence": "2.1 Performing simple scientific experiments",
+          "learning_activity": "(c) Performing simple experiments regarding heat, light, and sound energy",
+          "suggested_methods": [
+            "Discussion: Guide students to hold discussions on how to perform simple experiments related to energy",
+            "Experiments: Guide students in groups to perform simple experiments related to energy"
+          ],
+          "assessment_criteria": "Simple energy experiments are conducted correctly",
+          "suggested_resources": [
+            "Science kit",
+            "box",
+            "light source",
+            "heat source and sound source"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "saya-4-18"
+        },
+        {
+          "main_competence": "3.0 Mastering the use of ICT",
+          "specific_competence": "3.1 Using ICT in learning",
+          "learning_activity": "(a) Using ICT to draw and arrange various shapes logically",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss procedures for using ICT to draw and arrange various shapes",
+            "Demonstration: Guide students to be able to use ICT to draw and arrange various shapes using a demonstration"
+          ],
+          "assessment_criteria": "ICT is used correctly to draw and arrange various shapes",
+          "suggested_resources": [
+            "Phone",
+            "computer",
+            "tablet",
+            "simple drawing and shape arrangement software"
+          ],
+          "periods_for_specific_competence": 55,
+          "id": "saya-4-19"
+        },
+        {
+          "main_competence": "4.0 Designing simple computer programs",
+          "specific_competence": "4.1 Designing simple computer programs",
+          "learning_activity": "(a) Using a tool that simulates computer programming language (block-based programming languages) to create simple games using a single shape",
+          "suggested_methods": [
+            "Project work: Guide students to create simple games using shapes through a tool that simulates computer programming language",
+            "Demonstration: Guide students to figure out how to create simple games using a tool that simulates computer programming language through a demonstration"
+          ],
+          "assessment_criteria": "The correct tool simulating computer programming language has been used to create simple games using a single shape.",
+          "suggested_resources": [
+            "Computer program",
+            "computer",
+            "tablet and projector"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-20"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0. Master scientific theories",
+          "specific_competence": "1.1 Demonstrate an understanding of scientific theories",
+          "learning_activity": "(a) Explain the human digestive system (meaning, parts, and their functions)",
+          "suggested_methods": [
+            "Brainstorming: Students should be guided to brainstorm on the meaning of digestion",
+            "Discussion: Students should be guided to discuss the parts of the human digestive system and their importance",
+            "ICT-based learning: Students should be guided to explain the digestive system using a simulation"
+          ],
+          "assessment_criteria": "The human digestive system has been explained correctly",
+          "suggested_resources": [
+            "Models/replicas of the human digestive system, and animated videos of the human digestive system"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-21"
+        },
+        {
+          "main_competence": "1.0. Master scientific theories",
+          "specific_competence": "1.1 Demonstrate an understanding of scientific theories",
+          "learning_activity": "(b) Explain human reproductive systems",
+          "suggested_methods": [
+            "Discussion: Students in groups should be guided to discuss and explain human reproductive systems",
+            "ICT-based learning: Students should be guided to explain the female and male reproductive systems using a simulation"
+          ],
+          "assessment_criteria": "Human reproductive systems have been explained correctly",
+          "suggested_resources": [
+            "Models/replicas of human reproductive systems,",
+            "animated videos,",
+            "computer games, videos, and pictures of the human reproductive system"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "saya-5-22"
+        },
+        {
+          "main_competence": "1.0. Master scientific theories",
+          "specific_competence": "1.1 Demonstrate an understanding of scientific theories",
+          "learning_activity": "(c) Explain growth in animals and plants",
+          "suggested_methods": [
+            "Brainstorming: Students should be guided to brainstorm on the concept of growth",
+            "Discussion: Students in groups should be guided to discuss and explain the concept of growth in animals and plants"
+          ],
+          "assessment_criteria": "Growth in animals and plants has been explained correctly",
+          "suggested_resources": [
+            "Models, animated videos, videos, pictures showing growth in animals and plants, and a science set"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "saya-5-23"
+        },
+        {
+          "main_competence": "1.0. Master scientific theories",
+          "specific_competence": "1.1 Demonstrate an understanding of scientific theories",
+          "learning_activity": "(d) Explain the developmental stages of the human body",
+          "suggested_methods": [
+            "Discussion: Students in groups should be guided to discuss and explain the developmental stages of the human body",
+            "Question and answer: Students should be guided to explain the developmental stages of the human body through questions and answers"
+          ],
+          "assessment_criteria": "The developmental stages of the human body have been explained correctly",
+          "suggested_resources": [
+            "Animated videos, videos, pictures, charts/brochures concerning the developmental stages of the human body"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "saya-5-24"
+        },
+        {
+          "main_competence": "1.0. Master scientific theories",
+          "specific_competence": "1.2 Demonstrate an understanding of types of energy and their uses",
+          "learning_activity": "(a) Explain the concept of magnetism (meaning, properties, and uses)",
+          "suggested_methods": [
+            "Question and answer: Students should be guided to explain the meaning, properties, and uses of magnets using questions and answers",
+            "ICT-based learning: Students should be guided to explain the properties and uses of magnets using videos",
+            "Discussion: In groups, guide students to discuss and classify the various uses of magnets",
+            "Gallery walk: Guide students to conduct a gallery walk after the discussion to learn the various uses of magnets from their peers"
+          ],
+          "assessment_criteria": "The concept of magnetism has been explained correctly",
+          "suggested_resources": [
+            "Magnets, animated videos, videos explaining the concept of magnetism, a science set, and metallic objects"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-25"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(a) Perform simple experiments on growth in animals and plants",
+          "suggested_methods": [
+            "Question and answer: Students should be guided to explain the steps for conducting simple scientific experiments through questions and answers",
+            "Experiments: Students should be guided to conduct simple experiments on the growth of animals and plants"
+          ],
+          "assessment_criteria": "Simple experiments on growth in animals and plants have been performed correctly",
+          "suggested_resources": [
+            "Science set, small animals, animated videos, videos, pictures and charts showing stages of animal and plant growth, plant seeds, and a tape measure or ruler"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-26"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(b) Perform simple experiments to determine the properties of magnets",
+          "suggested_methods": [
+            "Experiments: Students should be guided in groups to perform simple experiments to determine the properties of magnets"
+          ],
+          "assessment_criteria": "Simple experiments to determine the properties of magnets have been performed completely",
+          "suggested_resources": [
+            "Magnets, animated videos, videos showing the properties of magnets, a science set, and metallic objects"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "saya-5-27"
+        },
+        {
+          "main_competence": "3.0 Design simple computer programs",
+          "specific_competence": "3.1 Design simple computer programs",
+          "learning_activity": "(a) Use block-based programming languages to create simple games connecting two shapes",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss creating simple games connecting two shapes",
+            "Demonstration: Guide students through demonstration on how to use block-based programming languages to create simple games connecting two shapes",
+            "Practical tasks: Guide students to use block-based programming languages to create simple games connecting two shapes"
+          ],
+          "assessment_criteria": "The appropriate block-based programming tool has been used to create simple games connecting two shapes",
+          "suggested_resources": [
+            "Computers, computer software, and a projector"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "saya-5-28"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Show an understanding of scientific theories",
+          "learning_activity": "(a) Explain the respiratory system in animals and plants (meaning, parts of the system and how respiration takes place)",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on the meaning of the respiratory system",
+            "Discussion: Guide pupils to discuss the parts of the human and plant respiratory system and how it takes place",
+            "ICT-based learning: Guide pupils to explain how the respiratory system works through simulation"
+          ],
+          "assessment_criteria": "The respiratory system in animals and plants is correctly explained",
+          "suggested_resources": [
+            "Pictures, charts, and a model of the respiratory system"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-29"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Show an understanding of scientific theories",
+          "learning_activity": "(b) Explain the concept of acids and bases (meaning, properties, sources and uses)",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss the meaning, sources, properties and uses of acids and bases",
+            "Practical tasks: Guide pupils to perform practical tasks so that they can explain the properties of acids and bases"
+          ],
+          "assessment_criteria": "The concept of acids and bases is correctly explained",
+          "suggested_resources": [
+            "Real objects containing acids or bases and litmus papers"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-6-30"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Show an understanding of scientific theories",
+          "learning_activity": "(c) Explain the concept of machines (meaning, types and uses)",
+          "suggested_methods": [
+            "Question and answer: Guide pupils through question and answer to explain the meaning of a machine",
+            "Discussion: Guide pupils in groups to discuss the types and uses of machines",
+            "Field trip: Guide pupils to visit places that use machines to produce goods so that they can explain the concept of a machine",
+            "Practical tasks: Guide pupils to use simple machines to be able to explain the various uses of machines"
+          ],
+          "assessment_criteria": "The concept of machines is fluently explained",
+          "suggested_resources": [
+            "Simple and complex machines"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-31"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.1 Show an understanding of scientific theories",
+          "learning_activity": "(d) Explain the concept of floating and sinking",
+          "suggested_methods": [
+            "Discussion: Guide pupils in groups to have a discussion on the concept of floating and sinking",
+            "Question and answer: Guide pupils to identify the characteristics of objects that can sink and float"
+          ],
+          "assessment_criteria": "The concept of floating and sinking is correctly explained",
+          "suggested_resources": [
+            "Real objects such as water, a piece of wood and a coin"
+          ],
+          "periods_for_specific_competence": 46,
+          "id": "saya-6-32"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.2 Show an understanding of types of energy and its uses",
+          "learning_activity": "(a) Explain the concept of electricity (meaning, sources and uses)",
+          "suggested_methods": [
+            "Discussion: Guide pupils in groups to discuss the meaning, sources and uses of electricity",
+            "Gallery walk: Guide pupils to identify sources of electricity using a gallery walk",
+            "Brainstorming: Guide pupils to brainstorm on the uses of electricity and its safety rules",
+            "Question and answer: Guide pupils to explain the uses of electricity and its safety rules"
+          ],
+          "assessment_criteria": "The concept of electricity is correctly explained",
+          "suggested_resources": [
+            "Wires, bulbs, switches, ammeters, voltmeters and batteries"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "saya-6-33"
+        },
+        {
+          "main_competence": "1.0 Master scientific theories",
+          "specific_competence": "1.2 Show an understanding of types of energy and its uses",
+          "learning_activity": "(b) Explain a simple electrical circuit (parts, types, symbols and connection)",
+          "suggested_methods": [
+            "Question and answer: Guide pupils to explain the meaning of a simple electrical circuit through question and answer",
+            "Discussion: Guide pupils to discuss the parts, types, symbols and connection of a simple electrical circuit",
+            "Demonstration: Guide pupils to explain the parts, types, symbols and connection of a simple electrical circuit through demonstration"
+          ],
+          "assessment_criteria": "The concept of a simple electrical circuit is correctly explained",
+          "suggested_resources": [
+            "Wires, bulbs, switches, ammeters, voltmeters and batteries"
+          ],
+          "periods_for_specific_competence": 49,
+          "id": "saya-6-34"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(a) Perform simple experiments to identify acidic or basic substances in the environment",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on various sources of acids in the environment",
+            "Experiments: Guide pupils to identify the presence of acids or bases in various objects found in the environment"
+          ],
+          "assessment_criteria": "Experiments to identify acidic or basic substances in the environment are correctly performed",
+          "suggested_resources": [
+            "Real objects containing acids or bases and litmus papers"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-35"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(b) Perform simple experiments concerning machines",
+          "suggested_methods": [
+            "Experiments: Guide pupils to perform various simple experiments using machines",
+            "Project work: Guide pupils to construct simple machines"
+          ],
+          "assessment_criteria": "Simple experiments concerning machines are correctly performed",
+          "suggested_resources": [
+            "Real objects, simple and complex machines"
+          ],
+          "periods_for_specific_competence": 51,
+          "id": "saya-6-36"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(c) Perform simple experiments concerning floating and sinking",
+          "suggested_methods": [
+            "Experiments: Guide pupils to perform experiments to identify objects that float and sink",
+            "Field trip: Guide pupils to visit lake shore or sea coastal areas to identify how water transport vessels float",
+            "Practical tasks: Guide pupils to make models of objects that float or sink"
+          ],
+          "assessment_criteria": "Simple experiments on floating and sinking are effectively performed",
+          "suggested_resources": [
+            "Real objects such as water, a piece of wood, a coin, an inflated balloon and pictures of sinking/floating objects"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "saya-6-37"
+        },
+        {
+          "main_competence": "2.0 Master basic scientific skills",
+          "specific_competence": "2.1 Perform simple scientific experiments",
+          "learning_activity": "(d) Perform experiments concerning simple electrical circuits",
+          "suggested_methods": [
+            "Project work: Guide pupils to construct a simple electrical circuit",
+            "Practical tasks: Guide pupils to perform activities to identify the structure of a simple electrical circuit"
+          ],
+          "assessment_criteria": "Experiments on constructing a simple electrical circuit are correctly performed",
+          "suggested_resources": [
+            "Batteries, electrical wires, bulbs and switches"
+          ],
+          "periods_for_specific_competence": 53,
+          "id": "saya-6-38"
+        },
+        {
+          "main_competence": "3.0 Design simple computer programs",
+          "specific_competence": "3.1 Design simple computer programs",
+          "learning_activity": "(a) Use a tool simulating computer language (block-based programming languages) to create simple games combining more than two shapes",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss the use of a simulation tool to play simple games that develop the ability to explain events and scientific concepts",
+            "Demonstration: Guide pupils through demonstration to create simple games combining more than two shapes",
+            "Experiments: Guide pupils to create simple games combining more than two shapes using a tool simulating computer language (block-based programming languages)"
+          ],
+          "assessment_criteria": "The appropriate computer language simulation tool has been used to create simple games combining more than two shapes",
+          "suggested_resources": [
+            "ICT equipment such as computers and projectors, and computer software"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "saya-6-39"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "sayansi_science_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

@@ -1,0 +1,975 @@
+{
+  "subject": "Hisabati / Mathematics",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727169918-MUHTASARI%20%20WA%20SOMO%20LA%20HISABATI%20DRS%20III-VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.1 Demonstrate understanding of the concept of numbers",
+          "learning_activity": "(a) Determine the place value of digits in whole numbers with more than one digit",
+          "suggested_methods": [
+            "Resource demonstration: Guide students to use materials, such as learning boards with digits 1 to 9 and 0, to form whole numbers with more than one digit and assign place value to each digit",
+            "Questions and discussions: Guide students by asking questions to determine the place value of digits in whole numbers with more than one digit"
+          ],
+          "assessment_criteria": "The place value of digits in whole numbers with more than one digit is correctly determined",
+          "suggested_resources": [
+            "Digit cards 1 to 9 and 0",
+            "abacus",
+            "number tray",
+            "place value chart and online applications related to determining the place value of digits in whole numbers"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "hisa-3-1"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.1 Demonstrate understanding of the concept of numbers",
+          "learning_activity": "(b) Read and write whole numbers with more than one digit",
+          "suggested_methods": [
+            "Group discussions: Guide students to read and write whole numbers with more than one digit through discussion"
+          ],
+          "assessment_criteria": "Whole numbers with more than one digit are read and written fluently",
+          "suggested_resources": [
+            "Digit cards 1 to 9 and 0",
+            "abacus",
+            "number tray and checklist"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-2"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.1 Demonstrate understanding of the concept of numbers",
+          "learning_activity": "(c) Compare whole numbers using the symbols =, < and >",
+          "suggested_methods": [
+            "Real object modeling: Guide students to use real object models to compare whole numbers and use the correct comparison symbols among =, < and >"
+          ],
+          "assessment_criteria": "Whole numbers are compared correctly",
+          "suggested_resources": [
+            "Whole number cards",
+            "manila cards",
+            "abacus",
+            "number tray and checklist"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-3"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.1 Demonstrate understanding of the concept of numbers",
+          "learning_activity": "(d) Identify patterns in whole numbers",
+          "suggested_methods": [
+            "Group discussions: Guide students to discuss by giving examples of patterns in various real-life situations and discuss various ordering questions in whole numbers"
+          ],
+          "assessment_criteria": "The pattern in whole numbers is correctly identified",
+          "suggested_resources": [
+            "Number cards",
+            "abacus",
+            "number tray",
+            "checklist and online applications related to identifying patterns in whole numbers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-4"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.2 Demonstrate understanding of number operations",
+          "learning_activity": "Add and subtract whole numbers",
+          "suggested_methods": [
+            "Group discussions: Guide students to add and subtract whole numbers using real-life examples"
+          ],
+          "assessment_criteria": "The operations of addition and subtraction of whole numbers are performed correctly",
+          "suggested_resources": [
+            "Counters",
+            "abacus",
+            "number tray and online applications related to addition and subtraction of whole numbers"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "hisa-3-5"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.3 Demonstrate understanding of measurements",
+          "learning_activity": "Determine measurements of length, mass and capacity",
+          "suggested_methods": [
+            "Practical exercises: Guide students in groups to measure different objects and determine their measurements. Then each group shares the results of the measurement with the class"
+          ],
+          "assessment_criteria": "Measurements of length, mass and capacity are correctly determined",
+          "suggested_resources": [
+            "Measurement chart",
+            "ruler",
+            "tape measure",
+            "weighing scale",
+            "bottle",
+            "beaker",
+            "measuring cylinder",
+            "string",
+            "jug",
+            "cup and bucket"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "hisa-3-6"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.4 Demonstrate understanding of shape skills",
+          "learning_activity": "(a) Explain the concept of shapes",
+          "suggested_methods": [
+            "Group discussions: Guide students to identify shapes in pictures or drawings by matching them with real shapes from their environment and discuss the properties of those shapes",
+            "Handicrafts: Guide students to draw and make various shapes and describe their properties"
+          ],
+          "assessment_criteria": "The concept of shapes is correctly explained",
+          "suggested_resources": [
+            "Various shapes (real and pictures) and real objects",
+            "various shape cards",
+            "shape fabrics",
+            "and online applications related to explaining the concept of shapes"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "hisa-3-7"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.4 Demonstrate understanding of shape skills",
+          "learning_activity": "(b) Explain the concept of a point, line, line segment and ray",
+          "suggested_methods": [
+            "Real object modeling: Guide students to explain the concept of a point, line, line segment and ray in real objects"
+          ],
+          "assessment_criteria": "The concept of a point, line, line segment and ray is correctly explained",
+          "suggested_resources": [
+            "Various shape drawings",
+            "pictures",
+            "real objects",
+            "geometry box",
+            "ruler",
+            "manila cards and marker pens"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-8"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.4 Demonstrate understanding of shape skills",
+          "learning_activity": "(c) Construct flat shapes using points, lines, and line segments",
+          "suggested_methods": [
+            "Object drawings: Guide students in groups to construct flat shapes using points, lines and line segments"
+          ],
+          "assessment_criteria": "Flat shapes are correctly constructed using points, lines and line segments",
+          "suggested_resources": [
+            "Various shapes (real and pictures)",
+            "real objects",
+            "geometry box",
+            "ruler",
+            "manila cards",
+            "marker pen and box"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-9"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.5 Demonstrate understanding of early number skills",
+          "learning_activity": "(a) Use the division of objects to explain the concept of fractions",
+          "suggested_methods": [
+            "Object drawings: Guide students to use simple drawings to explain the concept of fractions",
+            "Practical exercises: Guide students to use the division of real objects such as fruits, cake and sugarcane to explain the concept of fractions"
+          ],
+          "assessment_criteria": "The concept of fractions is fluently explained using the division of objects",
+          "suggested_resources": [
+            "Real objects",
+            "manila cards and online applications related to explaining the concept of fractions"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-3-10"
+        },
+        {
+          "main_competence": "1.0 Master the fundamentals of early mathematics",
+          "specific_competence": "1.5 Demonstrate understanding of early number skills",
+          "learning_activity": "(b) Add and subtract fractions with the same denominator",
+          "suggested_methods": [
+            "Group discussions: Guide them to add and subtract fractions with the same denominator and online applications related to addition and subtraction of fractions with the same denominator"
+          ],
+          "assessment_criteria": "The operations of addition and subtraction of fractions with the same denominator are performed correctly",
+          "suggested_resources": [
+            "Real objects",
+            "manila cards and online applications related to addition and subtraction of fractions with the same denominator"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-11"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.1 Demonstrate understanding of time calculations",
+          "learning_activity": "(a) Explain units of time",
+          "suggested_methods": [
+            "Group discussions: Guide students to discuss units of time in real situations by showing examples of activities involving time in everyday life"
+          ],
+          "assessment_criteria": "Units of time are fluently explained",
+          "suggested_resources": [
+            "Calendar",
+            "clock",
+            "time measurement chart and online applications related to units of time"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "hisa-3-12"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.1 Demonstrate understanding of time calculations",
+          "learning_activity": "(b) Read time in the 12-hour format",
+          "suggested_methods": [
+            "Real object modeling: Guide students to use real objects such as a clock and a time measurement chart to read time in the 12-hour format",
+            "Learning games: Guide students to use games for reading time in the 12-hour format"
+          ],
+          "assessment_criteria": "Time in the 12-hour format is correctly read",
+          "suggested_resources": [
+            "Clock",
+            "clock models",
+            "time measurement chart and online applications related to reading time in the 12-hour format"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hisa-3-13"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.1 Demonstrate understanding of time calculations",
+          "learning_activity": "(c) Read time in the 24-hour format",
+          "suggested_methods": [
+            "Real object modeling: Guide students to use real objects such as a clock and a time measurement chart to read time in the 24-hour format"
+          ],
+          "assessment_criteria": "Time in the 24-hour format is correctly read",
+          "suggested_resources": [
+            "24-hour format clocks",
+            "clock models and online applications related to reading time in the 24-hour format"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-14"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.1 Demonstrate understanding of time calculations",
+          "learning_activity": "(d) Identify the number of hours in a day, days in a week, weeks in a month and months in a year",
+          "suggested_methods": [
+            "Real object modeling: Guide students to use real objects such as a calendar and a clock to identify the number of hours in a day, days in a week, weeks in a month and months in a year"
+          ],
+          "assessment_criteria": "The number of hours in a day, days in a week, weeks in a month and months in a year",
+          "suggested_resources": [
+            "Calendar",
+            "clock and charts showing the number of hours in a day, days in a week, weeks in a month, and months in a year"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "hisa-3-15"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.2. Demonstrate understanding of money calculations",
+          "learning_activity": "(a) Identify Tanzanian currency in shillings and cents",
+          "suggested_methods": [
+            "Real object modeling: Guide students to use real Tanzanian money to identify Tanzanian currency in shillings and cents"
+          ],
+          "assessment_criteria": "Tanzanian currency in shillings and cents is correctly identified",
+          "suggested_resources": [
+            "Real money (coins and notes)",
+            "pictures of notes and coins",
+            "paper-made note models and money measurement chart"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "hisa-3-16"
+        },
+        {
+          "main_competence": "2.0 Master the application of mathematical skills",
+          "specific_competence": "2.2. Demonstrate understanding of money calculations",
+          "learning_activity": "(b) Add and subtract money",
+          "suggested_methods": [
+            "Discussions and real examples: Guide students to use real money to add and subtract money in shillings and cents",
+            "Learning games: Guide students to engage in play activities related to adding and subtracting real money"
+          ],
+          "assessment_criteria": "The operations of adding and subtracting money in shillings and cents are performed correctly",
+          "suggested_resources": [
+            "Real money (coins and notes) paper-made models of Tanzanian currency",
+            "cards with different values of Tanzanian coins and money measurement chart"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "hisa-3-17"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.1 Show an understanding of the concept of numbers",
+          "learning_activity": "Identify Roman numerals (up to M)",
+          "suggested_methods": [
+            "Real objects examples: Guide students to use real objects such as clocks and books to show how Roman numerals up to M are used"
+          ],
+          "assessment_criteria": "Roman numerals have been correctly identified",
+          "suggested_resources": [
+            "Number cards",
+            "chart of Roman numerals up to M and a clock with Roman numerals"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "hisa-4-18"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.2 Show an understanding of number operations",
+          "learning_activity": "Multiply and divide whole numbers",
+          "suggested_methods": [
+            "Online programs: Guide students to use online programs to multiply and divide whole numbers",
+            "Real-life puzzles: Guide students to solve multiplication and division problems of whole numbers using real-life puzzles"
+          ],
+          "assessment_criteria": "Operations of multiplying and dividing whole numbers have been performed correctly",
+          "suggested_resources": [
+            "Multiplication number chart",
+            "number tray",
+            "online programs related to multiplying and dividing whole numbers",
+            "calculator and abacus"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-4-19"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.3 Show an understanding of measurements",
+          "learning_activity": "(a) Convert units of length, mass and capacity into their components (millimetres to kilometres, milligrams to tonnes and millilitres to litres)",
+          "suggested_methods": [
+            "Real objects examples: Guide students to discuss and convert units of length, mass and capacity of real objects as well as using digital scales",
+            "Group discussions: Guide students to discuss in order to solve activities of converting units into their components"
+          ],
+          "assessment_criteria": "Units of length, mass and capacity have been accurately converted",
+          "suggested_resources": [
+            "Measurement chart",
+            "ruler",
+            "measuring tape",
+            "scale",
+            "bottle",
+            "beaker",
+            "measuring cylinder",
+            "measuring tape",
+            "tin",
+            "and online programs related to converting units of length, mass and capacity into their components"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "hisa-4-20"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.3 Show an understanding of measurements",
+          "learning_activity": "(b) Add and subtract units of length, mass and capacity",
+          "suggested_methods": [
+            "Real objects examples: Guide students to add and subtract units of length, mass and capacity of real objects"
+          ],
+          "assessment_criteria": "Addition and subtraction of units of length, mass and capacity have been performed correctly",
+          "suggested_resources": [
+            "Measurement chart",
+            "ruler",
+            "measuring tape",
+            "scale",
+            "bottle",
+            "beaker",
+            "measuring cylinder",
+            "string and tin"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-21"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.4 Show an understanding of basic shape skills",
+          "learning_activity": "Find the perimeter and areas of flat shapes (rectangle, square and triangle)",
+          "suggested_methods": [
+            "Real objects examples: Guide students to find the perimeter and areas of flat shapes in flat shapes of real objects along with questions to calculate perimeters and areas of flat shapes"
+          ],
+          "assessment_criteria": "Perimeter and areas of flat shapes have been found correctly",
+          "suggested_resources": [
+            "Various real shapes such as a blackboard and table",
+            "manila cards forming various flat shapes",
+            "pictures and online programs related to finding the perimeter and areas of flat shapes"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "hisa-4-22"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.5 Show an understanding of basic number skills",
+          "learning_activity": "(a) Compare fractions using signs =, < and >",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to do questions on comparing fractions using signs =, < and >"
+          ],
+          "assessment_criteria": "Comparison of fractions using signs =, < and > has been done correctly",
+          "suggested_resources": [
+            "Real objects",
+            "objects with various colors",
+            "Charts of signs =, < and > and online programs related to comparing fractions"
+          ],
+          "periods_for_specific_competence": 66,
+          "id": "hisa-4-23"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.5 Show an understanding of basic number skills",
+          "learning_activity": "(b) Multiply and divide fractions",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to multiply and divide fractions"
+          ],
+          "assessment_criteria": "Operations of multiplying and dividing fractions have been performed correctly",
+          "suggested_resources": [
+            "Real objects such as fruits and sweets",
+            "papers with drawings of objects",
+            "fraction number cards and online programs related to multiplying and dividing fractions"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "hisa-4-24"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.5 Show an understanding of basic number skills",
+          "learning_activity": "(c) Explain the concept of decimals",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to conduct discussions and questions on the concept of decimals"
+          ],
+          "assessment_criteria": "The concept of decimals has been explained fluently",
+          "suggested_resources": [
+            "Decimal number charts",
+            "real objects and online programs related to decimals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-25"
+        },
+        {
+          "main_competence": "1.0 Master the foundations of basic mathematics",
+          "specific_competence": "1.5 Show an understanding of basic number skills",
+          "learning_activity": "(d) Add and subtract decimals",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to conduct discussions and questions on adding and subtracting decimals"
+          ],
+          "assessment_criteria": "Operations of adding and subtracting decimals have been performed correctly",
+          "suggested_resources": [
+            "Decimal number chart",
+            "real objects",
+            "online programs related to adding and subtracting decimals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-26"
+        },
+        {
+          "main_competence": "2.0 Master the use of mathematical skills",
+          "specific_competence": "2.1 Show an understanding of time calculations",
+          "learning_activity": "(a) Convert units of time into their components (seconds to hours)",
+          "suggested_methods": [
+            "Real objects examples: Guide students to convert units of time using digital clocks"
+          ],
+          "assessment_criteria": "Units of time into their components have been converted correctly",
+          "suggested_resources": [
+            "Clock",
+            "clock model",
+            "chart of units of time in their components and online programs related to converting units of time into their components"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "hisa-4-27"
+        },
+        {
+          "main_competence": "2.0 Master the use of mathematical skills",
+          "specific_competence": "2.1 Show an understanding of time calculations",
+          "learning_activity": "(b) Add and subtract time in hours",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to conduct discussions and questions on adding and subtracting time in hours"
+          ],
+          "assessment_criteria": "Operations of adding and subtracting time in hours have been performed correctly",
+          "suggested_resources": [
+            "Clock and online programs related to adding and subtracting time in hours"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-28"
+        },
+        {
+          "main_competence": "2.0 Master the use of mathematical skills",
+          "specific_competence": "2.2 Show an understanding of money calculations",
+          "learning_activity": "Multiply and divide Tanzanian currency",
+          "suggested_methods": [
+            "Questions and discussions: Guide students to conduct discussions and questions on multiplying and dividing Tanzanian currency"
+          ],
+          "assessment_criteria": "Operations of multiplying and dividing Tanzanian currency have been performed correctly",
+          "suggested_resources": [
+            "Real money (coins and notes)",
+            "chart of Tanzanian currency and online programs related to multiplying and dividing Tanzanian currency"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-4-29"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.1 Show understanding of measurements",
+          "learning_activity": "(a) Multiply measurements of length, weight and capacity",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to multiply measurements of length, weight and capacity"
+          ],
+          "assessment_criteria": "The process of multiplying measurements of length, weight and capacity has been done correctly",
+          "suggested_resources": [
+            "Chart of measurements of length, weight and capacity and online programs concerning the multiplication of measurements of length, weight and capacity"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "hisa-5-30"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.1 Show understanding of measurements",
+          "learning_activity": "(b) Divide measurements of length, weight and capacity",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to use examples to divide measurements of length, weight and capacity"
+          ],
+          "assessment_criteria": "The process of dividing measurements of length, weight and capacity has been done correctly",
+          "suggested_resources": [
+            "Measurement chart, number chart and online programs concerning the division of measurements of length, weight and capacity"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-31"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.2 Show understanding of basic shape skills",
+          "learning_activity": "(a) Explain the concept of pi",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to explain the concept of pi using real circular objects",
+            "Project work: Guide pupils to find the value of pi using real circular objects",
+            "Online programs concerning explaining the concept of pi"
+          ],
+          "assessment_criteria": "The concept of pi has been explained fluently",
+          "suggested_resources": [
+            "Circular shapes, string, ruler, manila cards, marker pens, tin"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "hisa-5-32"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.2 Show understanding of basic shape skills",
+          "learning_activity": "(b) Find the circumference of a circle",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to find the circumference of a circle using real objects",
+            "Group discussion: Guide pupils to use examples to find the circumference of a circle"
+          ],
+          "assessment_criteria": "The circumference of a circle has been found correctly",
+          "suggested_resources": [
+            "Circular shapes, string, ruler, manila cards, marker pens, scissors and tin"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-33"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.2 Show understanding of basic shape skills",
+          "learning_activity": "(c) Find the area of a circle",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to find the area of a circle using real circular objects",
+            "Online programs: Guide pupils to use online programs such as quizzes to determine the area of a circle"
+          ],
+          "assessment_criteria": "The area of a circle has been found correctly",
+          "suggested_resources": [
+            "Circular shapes, string, ruler, manila cards, marker pens, scissors, tin and programs"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-5-34"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(a) Identify even, odd and prime numbers",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to conduct discussions and questions to identify even, odd and prime numbers",
+            "Online programs: Guide pupils to use online networks to identify even, odd and prime numbers"
+          ],
+          "assessment_criteria": "Even, odd and prime numbers have been identified correctly",
+          "suggested_resources": [
+            "Cards for even, odd and prime numbers and online programs related to even, odd and prime numbers"
+          ],
+          "periods_for_specific_competence": 68,
+          "id": "hisa-5-35"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(b) Find factors and multiples of numbers not exceeding three digits",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to find factors and multiples of numbers not exceeding three digits"
+          ],
+          "assessment_criteria": "Factors and multiples of numbers not exceeding three digits have been found correctly",
+          "suggested_resources": [
+            "Number cards, number tray and online programs related to multiples and factors of numbers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-36"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(c) Find the Greatest Common Factor (GCF) and Lowest Common Multiple (LCM) of whole numbers",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to find the Greatest Common Factor (GCF) and Lowest Common Multiple (LCM) of whole numbers"
+          ],
+          "assessment_criteria": "The Greatest Common Factor (GCF) and Lowest Common Multiple (LCM) of whole numbers have been found correctly",
+          "suggested_resources": [
+            "Number cards, number tray and online programs concerning GCF and LCM"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-37"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(d) Add and subtract fractions with different denominators",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to formulate questions and discuss adding and subtracting fractions with different denominators",
+            "Online programs: Guide pupils to use online programs to add and subtract fractions with different denominators"
+          ],
+          "assessment_criteria": "The processes of adding and subtracting fractions with different denominators have been done correctly",
+          "suggested_resources": [
+            "Real objects, chart of fraction addition and subtraction examples and online programs concerning adding and subtracting fractions with different denominators"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-38"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(e) Add and subtract mixed fractions",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to add and subtract mixed fractions using real objects",
+            "Online programs: Guide pupils to use online programs to add and subtract mixed fractions"
+          ],
+          "assessment_criteria": "The processes of adding and subtracting mixed fractions have been done correctly",
+          "suggested_resources": [
+            "Number cards with different denominators, real objects and online programs concerning adding and subtracting mixed fractions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-39"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(f) Multiply decimals",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to multiply decimals"
+          ],
+          "assessment_criteria": "The process of multiplying decimals has been done correctly",
+          "suggested_resources": [
+            "Real objects and online programs for multiplying decimals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-40"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(g) Divide numbers to get an answer with not more than three decimal places",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to divide decimals to get an answer with not more than three decimal places using various tools and real objects",
+            "Questions and discussion: Guide pupils to conduct discussions and questions on dividing decimals to get an answer with not more than three decimal places"
+          ],
+          "assessment_criteria": "The process of dividing decimals has been done correctly",
+          "suggested_resources": [
+            "Chart with examples of dividing numbers to get decimals, abacus and online programs concerning dividing numbers to get an answer with not more than three decimal places"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-41"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.3 Show understanding of basic number skills",
+          "learning_activity": "(h) Convert percentages into fractions or decimals",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to use real objects to convert percentages into fractions or decimals",
+            "Questions and discussion: Guide pupils to conduct discussions and questions on converting percentages into fractions or decimals"
+          ],
+          "assessment_criteria": "Percentages into fractions or decimals have been converted correctly",
+          "suggested_resources": [
+            "Cards with different percentages, abacus and online programs concerning converting percentages into fractions or decimals"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-42"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.4 Show preliminary understanding of algebra",
+          "learning_activity": "(a) Explain the concept of algebra",
+          "suggested_methods": [
+            "Real objects model: Guide pupils to explain the concept of algebra using real objects"
+          ],
+          "assessment_criteria": "The concept of algebra has been explained fluently",
+          "suggested_resources": [
+            "Letter chart, letter cards and online programs related to algebra"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "hisa-5-43"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.4 Show preliminary understanding of algebra",
+          "learning_activity": "(b) Identify variables and constants in algebraic terms",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to identify algebraic terms, variables and constants"
+          ],
+          "assessment_criteria": "Algebraic terms, variables and constants have been identified correctly",
+          "suggested_resources": [
+            "Chart of variables, constants and algebraic terms, letter cards and online programs related to algebra"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-44"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.4 Show preliminary understanding of algebra",
+          "learning_activity": "(c) Form algebraic sentences",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to form algebraic sentences"
+          ],
+          "assessment_criteria": "Algebraic sentences have been formed correctly",
+          "suggested_resources": [
+            "Chart of algebraic sentences, letter chart and online programs related to the formation of algebraic sentences"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-45"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.4 Show preliminary understanding of algebra",
+          "learning_activity": "(d) Simplify algebraic equations by following the correct mathematical order",
+          "suggested_methods": [
+            "Questions and discussion: Guide pupils to conduct discussions and questions on simplifying algebraic equations in real-life contexts"
+          ],
+          "assessment_criteria": "Algebraic equations have been simplified by following the correct mathematical order",
+          "suggested_resources": [
+            "Letter chart, abacus, number tray and online programs concerning simplifying algebraic equations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-46"
+        },
+        {
+          "main_competence": "1.0 Master the basics of mathematics",
+          "specific_competence": "1.4 Show preliminary understanding of algebra",
+          "learning_activity": "(e) Compute simple equations",
+          "suggested_methods": [
+            "Real objects models: Guide pupils to use real objects to compute simple algebraic equations"
+          ],
+          "assessment_criteria": "Simple algebraic equations have been computed correctly",
+          "suggested_resources": [
+            "Number chart, letter chart, sticks, cards, abacus, number tray and online programs concerning computing simple equations"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-47"
+        },
+        {
+          "main_competence": "2.1 Show understanding of financial arithmetic",
+          "specific_competence": "Solve puzzles of buying and selling",
+          "learning_activity": "Solve puzzles of buying and selling",
+          "suggested_methods": [
+            "Learning games: Guide pupils to solve puzzles of buying and selling using play money or play cards",
+            "Group discussion: Guide pupils in groups to solve puzzles of buying and selling and then each group presents to their peers"
+          ],
+          "assessment_criteria": "Puzzles of buying and selling have been solved fluently",
+          "suggested_resources": [
+            "Dummy money, real money, various items and online programs related to solving puzzles of buying and selling"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "hisa-5-48"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.1 Demonstrate an understanding of measurements",
+          "learning_activity": "Calculate word problems involving distance and time",
+          "suggested_methods": [
+            "Real objects examples: Guide pupils to use real objects to calculate time and distance",
+            "Group discussions: Guide pupils to discuss questions on calculating time and distance"
+          ],
+          "assessment_criteria": "Word problems involving time and distance are calculated accurately",
+          "suggested_resources": [
+            "Clock",
+            "small map",
+            "measuring tape and online applications with games or exercises related to calculating distance and time"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "hisa-6-49"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.2 Demonstrate an understanding of early shape skills",
+          "learning_activity": "(a) Find the area and volume of space shapes (cuboid, cube and cylinder)",
+          "suggested_methods": [
+            "Object drawings: Guide pupils to use object drawings on the chalkboard and manila cards to find surface areas and volumes of space shapes"
+          ],
+          "assessment_criteria": "Area and volume of space shapes are found accurately",
+          "suggested_resources": [
+            "Various shapes (real and pictures)",
+            "ruler",
+            "manila cards with object drawings",
+            "markers and online applications related to finding the area and volume of space shapes"
+          ],
+          "periods_for_specific_competence": 102,
+          "id": "hisa-6-50"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.2 Demonstrate an understanding of early shape skills",
+          "learning_activity": "(b) Find angles in flat shapes (triangle, rectangle and circle)",
+          "suggested_methods": [
+            "Object drawings: Guide pupils to use object drawings on the chalkboard and manila cards to find angles in flat shapes"
+          ],
+          "assessment_criteria": "Angles in flat shapes are found fluently",
+          "suggested_resources": [
+            "Protractor",
+            "manila cards with object drawings and online applications related to finding angles in flat shapes"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-51"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.2 Demonstrate an understanding of early shape skills",
+          "learning_activity": "(c) Explain types of triangles and the Pythagorean theorem",
+          "suggested_methods": [
+            "Object drawings: Guide pupils to use drawings of triangular objects on the chalkboard and manila cards to explain types of triangles and the Pythagorean theorem"
+          ],
+          "assessment_criteria": "Types of triangles and the Pythagorean theorem are explained accurately",
+          "suggested_resources": [
+            "Protractor",
+            "manila cards",
+            "markers and online applications related to explaining types of triangles and the Pythagorean theorem"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-52"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.3 Demonstrate an understanding of early number skills",
+          "learning_activity": "(a) Find the square of a number",
+          "suggested_methods": [
+            "Group discussions: Guide pupils to conduct discussions on finding the square of a number"
+          ],
+          "assessment_criteria": "The square of a number is found accurately",
+          "suggested_resources": [
+            "Number chart and square symbols",
+            "online applications related to finding the square of a number"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "hisa-6-53"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.3 Demonstrate an understanding of early number skills",
+          "learning_activity": "(b) Find the square root of a number",
+          "suggested_methods": [
+            "Group discussions: Guide pupils to conduct discussions on finding the square root of a number"
+          ],
+          "assessment_criteria": "The square root of a number is found accurately",
+          "suggested_resources": [
+            "Number chart and square root symbol",
+            "online applications related to finding the square root of a number"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-54"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.3 Demonstrate an understanding of early number skills",
+          "learning_activity": "(c) Elaborate the concept of integers",
+          "suggested_methods": [
+            "Real examples: Guide pupils to elaborate the concept of integers by giving real examples"
+          ],
+          "assessment_criteria": "The concept of integers is elaborated fluently",
+          "suggested_resources": [
+            "Colored papers",
+            "colored boards",
+            "money",
+            "books",
+            "pens and counters"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-55"
+        },
+        {
+          "main_competence": "1.0 Master the basics of early mathematics",
+          "specific_competence": "1.3 Demonstrate an understanding of early number skills",
+          "learning_activity": "(d) Perform operations on integers",
+          "suggested_methods": [
+            "Learning games: Guide pupils to use cards with different colors to play a game by matching cards to perform operations on integers based on zero pairs",
+            "Questions and discussions: Guide pupils to do questions and operations on integers"
+          ],
+          "assessment_criteria": "Operations on integers are performed accurately",
+          "suggested_resources": [
+            "Number tray",
+            "abacus",
+            "number chart",
+            "and online applications related to mathematical operations on integers"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-56"
+        },
+        {
+          "main_competence": "2.0 Master early applications of mathematics",
+          "specific_competence": "2.1 Demonstrate early understanding of statistics and their applications",
+          "learning_activity": "(a) Explain the concept of statistics",
+          "suggested_methods": [
+            "Group discussions: Guide pupils to collect and list objects in order using groups of mixed objects",
+            "Practical exercises: Guide pupils to practice drawing statistical graphs to show various data"
+          ],
+          "assessment_criteria": "The concept of statistics is explained fluently",
+          "suggested_resources": [
+            "Groups of mixed objects",
+            "maps showing real statistics",
+            "geographical diagrams explaining statistics of different areas",
+            "pictures and videos showing data and statistics"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "hisa-6-57"
+        },
+        {
+          "main_competence": "2.0 Master early applications of mathematics",
+          "specific_competence": "2.1 Demonstrate early understanding of statistics and their applications",
+          "learning_activity": "(b) Find the mean, median and mode in ungrouped data",
+          "suggested_methods": [
+            "Real object model: Guide pupils to use information from real ungrouped objects of mixed items to find the mean, median, and mode",
+            "Online applications: Guide pupils to use online applications to find the mean, median, and mode in ungrouped information"
+          ],
+          "assessment_criteria": "The mean, median, and mode in ungrouped data are found accurately",
+          "suggested_resources": [
+            "Groups of mixed objects and online applications related to finding the median and mode in data"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-58"
+        },
+        {
+          "main_competence": "2.0 Master early applications of mathematics",
+          "specific_competence": "2.1 Demonstrate early understanding of statistics and their applications",
+          "learning_activity": "(c) Identify the use of statistics (pie charts and bar graphs) to present information",
+          "suggested_methods": [
+            "Real examples: Guide pupils to identify the use of statistics (pie charts and bar graphs) to present information using real data",
+            "Project work: Guide pupils to find information in their community and present the information by means of bar graphs and pie charts"
+          ],
+          "assessment_criteria": "The use of statistics to present information is identified accurately",
+          "suggested_resources": [
+            "Charts of real statistics such as pie charts and bar graphs",
+            "online chart and graph making applications and geographical diagrams showing statistics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-59"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "hisabati_mathematics_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

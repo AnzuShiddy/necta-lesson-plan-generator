@@ -416,6 +416,11 @@ _SCHEME_COLS = [
     ("Remarks", 1.4),
 ]
 _TERM_NAMES = {1: "TERM I", 2: "TERM II"}
+
+_SCHEME_TRANSLATED = (
+    "Note: this scheme is for an English-medium school. TIE publishes this "
+    "syllabus in Kiswahili; the rows below are an English translation of it, "
+    "not TIE's own wording.")
 _DOTS = "." * 44
 
 
@@ -471,6 +476,10 @@ def scheme_to_docx(sch: dict) -> bytes:
     ):
         p = d.add_paragraph()
         p.add_run(line).font.size = Pt(10)
+    if sch.get("translated"):
+        run = d.add_paragraph().add_run(_SCHEME_TRANSLATED)
+        run.italic = True
+        run.font.size = Pt(8)
 
     for term_name, entries in _scheme_terms(sch):
         hp = d.add_paragraph()
@@ -510,8 +519,13 @@ def scheme_to_pdf(sch: dict) -> bytes:
         Paragraph(f"Name of School: {_DOTS}{gap}Teacher's Name: {_DOTS}", head),
         Paragraph(f"Subject: {sch['subject']}{gap}Form: {sch['form']}", head),
         Paragraph(f"Year: {sch['year']}{gap}Periods per week: {sch['periods_per_week']}", head),
-        Spacer(1, 6),
     ]
+    if sch.get("translated"):
+        story.append(Paragraph(
+            f"<i>{_SCHEME_TRANSLATED}</i>",
+            ParagraphStyle("schemenote", parent=head, fontSize=7.5,
+                           textColor=colors.HexColor("#5a6b60"))))
+    story.append(Spacer(1, 6))
     for term_name, entries in _scheme_terms(sch):
         story.append(Paragraph(term_name, styles["Heading3"]))
         data = [[Paragraph(label, cell_b) for label, _ in _SCHEME_COLS]]

@@ -1,0 +1,178 @@
+{
+  "subject": "Arithmetic, Science and ICT",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Identifying objects that build the concept of numbers in the environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects that build the concept of numbers in the environment have been identified",
+          "suggested_resources": [
+            "Number cards",
+            "chart showing flat shapes",
+            "number shapes",
+            "number charts",
+            "number tray",
+            "pictures and real Tanzanian currency"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "awal-awali-76"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Identifying shapes",
+          "suggested_methods": [],
+          "assessment_criteria": "Shapes have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-77"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Sorting objects according to characteristics",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects have been sorted according to characteristics",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-78"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Identifying measurements",
+          "suggested_methods": [],
+          "assessment_criteria": "Measurements have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-79"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Counting numbers 1-20",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers 1-20 have been counted",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-80"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Writing numbers 1-20",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers 1-20 have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "awal-awali-81"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Adding by using real objects and ICT",
+          "suggested_methods": [],
+          "assessment_criteria": "Addition by using real objects and ICT has been done",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-82"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Subtracting by using real objects and ICT",
+          "suggested_methods": [],
+          "assessment_criteria": "Subtraction by using real objects and ICT has been done",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-83"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.1 Using the environment to build mathematical concepts and logical thinking",
+          "learning_activity": "Recognizing Tanzanian coins and notes from sh 50 to sh 10000",
+          "suggested_methods": [],
+          "assessment_criteria": "Tanzanian coins and notes from sh 50 to sh 10000 have been recognized",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-84"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.2 Conducting scientific experiments",
+          "learning_activity": "Observing objects in the surrounding environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects in the surrounding environment have been observed",
+          "suggested_resources": [
+            "Pictures of plants and insects",
+            "Video showing simple scientific experiments"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "awal-awali-85"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.2 Conducting scientific experiments",
+          "learning_activity": "Performing simple scientific experiments",
+          "suggested_methods": [],
+          "assessment_criteria": "Simple scientific experiments have been performed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "awal-awali-86"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.3 Using ICT tools to communicate in various contexts",
+          "learning_activity": "Identifying ICT tools",
+          "suggested_methods": [],
+          "assessment_criteria": "ICT tools have been identified",
+          "suggested_resources": [
+            "Picture showing various ICT models"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "awal-awali-87"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.3 Using ICT tools to communicate in various contexts",
+          "learning_activity": "Creating various ICT models",
+          "suggested_methods": [],
+          "assessment_criteria": "Various ICT models have been created",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-88"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.3 Using ICT tools to communicate in various contexts",
+          "learning_activity": "Using a computer to perform various activities",
+          "suggested_methods": [],
+          "assessment_criteria": "A computer has been used to perform various activities",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-89"
+        },
+        {
+          "main_competence": "6 Using early mathematics, science and ICT skills",
+          "specific_competence": "6.3 Using ICT tools to communicate in various contexts",
+          "learning_activity": "Using various ICT tools",
+          "suggested_methods": [],
+          "assessment_criteria": "Various ICT tools have been used",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-90"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "arithmetic_science_and_ict_nursery.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

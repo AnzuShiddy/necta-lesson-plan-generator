@@ -1,0 +1,250 @@
+{
+  "subject": "Kuhesabu / Arithmetic",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Identify the concept of numbers",
+          "learning_activity": "(a) Identify the concept of numbers using objects in the environment",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of numbers using objects in the environment has been identified",
+          "suggested_resources": [
+            "Videos building the concept of numbers",
+            "real objects",
+            "number cards",
+            "puzzle board",
+            "number tray",
+            "number chart",
+            "abacus"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "grad-1-45"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Identify the concept of numbers",
+          "learning_activity": "(b) Identify numbers from 1-100 in digits and words",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers from 1-100 in digits and words have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-46"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Identify the concept of numbers",
+          "learning_activity": "(c) Arrange numbers in sequence from 1-100",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers in sequence from 1-100 have been arranged",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-47"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Use mathematical operations",
+          "learning_activity": "(a) Identify numbers into tens and units",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers into tens and units have been identified",
+          "suggested_resources": [
+            "Videos concerning number operations",
+            "real objects",
+            "number cards",
+            "puzzle board",
+            "number tray",
+            "number chart and abacus"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "grad-1-48"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Use mathematical operations",
+          "learning_activity": "(b) Use objects/ICT to master the concept of addition",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of addition has been built using objects/ICT",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-49"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Use mathematical operations",
+          "learning_activity": "(c) Add numbers to get a sum not exceeding 99",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers have been added to get a sum not exceeding 99",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-50"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Use mathematical operations",
+          "learning_activity": "(d) Use objects/ICT to master the concept of subtraction",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of subtraction has been built using objects/ICT",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-51"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Use mathematical operations",
+          "learning_activity": "(e) Subtract numbers not exceeding 99",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers have been subtracted for quantities not exceeding 99",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-52"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.3 Use mathematical concepts",
+          "learning_activity": "(a) Identify basic shapes",
+          "suggested_methods": [],
+          "assessment_criteria": "Basic shapes have been identified",
+          "suggested_resources": [
+            "Recorded videos concerning shapes",
+            "real objects",
+            "cards and picture charts of shapes"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "grad-1-53"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(a) Identifying numbers in hundreds",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers in hundreds have been identified",
+          "suggested_resources": [
+            "Real objects",
+            "number cards",
+            "puzzle board",
+            "number tray",
+            "number chart",
+            "abacus",
+            "Videos and recorded texts related to mathematical operations"
+          ],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-96"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(b) Adding numbers to get a total not exceeding 999",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers have been added to get a total not exceeding 999",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-97"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(c) Subtracting numbers not exceeding 999",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers not exceeding 999 have been subtracted",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-98"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(d) Using objects/ICT to master the concept of multiplication as adding equal groups",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of multiplication as adding equal groups using objects/ICT has been built",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-99"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(e) Multiplying single-digit numbers to get a product not exceeding 100",
+          "suggested_methods": [],
+          "assessment_criteria": "A single-digit number has been multiplied to get a product not exceeding 100",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-100"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(f) Using objects/ICT to master the concept of division as subtracting equal groups",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of division as subtracting equal groups using objects/ICT has been built",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-101"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.1 Using mathematical operations",
+          "learning_activity": "(g) Dividing numbers not exceeding 100 without a remainder",
+          "suggested_methods": [],
+          "assessment_criteria": "Numbers not exceeding 100 have been divided without a remainder",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-102"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Using mathematical concepts",
+          "learning_activity": "(a) Identifying the concept of fractions using real objects and ICT (whole, half, quarter, third, two-thirds, etc.)",
+          "suggested_methods": [],
+          "assessment_criteria": "The concept of fractions using real objects and ICT (whole, half, quarter, third, two-thirds, etc.) has been identified",
+          "suggested_resources": [
+            "Real objects",
+            "picture cards and charts and videos related to the concept of fractions"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-103"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Using mathematical concepts",
+          "learning_activity": "(b) Representing fractions using numbers (1/4, 1/2, etc.)",
+          "suggested_methods": [],
+          "assessment_criteria": "Fractions using numbers (1/4, 1/2, etc.) have been represented",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-104"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Using mathematical concepts",
+          "learning_activity": "(c) Applying measurement skills in various contexts",
+          "suggested_methods": [],
+          "assessment_criteria": "Measurement skills in various contexts have been applied",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-105"
+        },
+        {
+          "main_competence": "4.0 Arithmetic",
+          "specific_competence": "4.2 Using mathematical concepts",
+          "learning_activity": "(d) Using basic shapes to create various shapes",
+          "suggested_methods": [],
+          "assessment_criteria": "Basic shapes to create various shapes have been used",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-106"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "kuhesabu_arithmetic_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

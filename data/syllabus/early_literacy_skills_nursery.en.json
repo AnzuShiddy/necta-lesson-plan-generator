@@ -1,0 +1,214 @@
+{
+  "subject": "Early Literacy Skills",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.1 Listen in various contexts",
+          "learning_activity": "Differentiate sounds and noises in the environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds and noises in the environment have been differentiated",
+          "suggested_resources": [
+            "Pictures of different objects that make sounds",
+            "storybooks",
+            "story cards",
+            "instruction boards",
+            "recorded sounds of various animals and birds, animal costumes and puppets"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "awal-awali-26"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.1 Listen in various contexts",
+          "learning_activity": "Follow instructions given",
+          "suggested_methods": [],
+          "assessment_criteria": "Instructions given have been followed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-27"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.1 Listen in various contexts",
+          "learning_activity": "Listen to stories",
+          "suggested_methods": [],
+          "assessment_criteria": "Stories have been listened to",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 20,
+          "id": "awal-awali-28"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.2 Speak in various contexts",
+          "learning_activity": "Narrate various events",
+          "suggested_methods": [],
+          "assessment_criteria": "Various events have been narrated",
+          "suggested_resources": [
+            "Pictures of different events",
+            "storybooks",
+            "pictures of various objects",
+            "musical instruments",
+            "recorded songs"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-29"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.2 Speak in various contexts",
+          "learning_activity": "Posing and solving riddles",
+          "suggested_methods": [],
+          "assessment_criteria": "Riddles have been posed and solved",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-30"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.2 Speak in various contexts",
+          "learning_activity": "Sing songs",
+          "suggested_methods": [],
+          "assessment_criteria": "Songs have been sung",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-31"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.2 Speak in various contexts",
+          "learning_activity": "Narrate stories",
+          "suggested_methods": [],
+          "assessment_criteria": "Stories are narrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-32"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.3 Read at early stages",
+          "learning_activity": "Use early reading skills",
+          "suggested_methods": [],
+          "assessment_criteria": "Early reading skills have been used",
+          "suggested_resources": [
+            "Letter cards",
+            "alphabet chart",
+            "syllable cards",
+            "word cards",
+            "picture cards",
+            "picture cards with words",
+            "picture books",
+            "letter puzzle boards",
+            "recorded vowel and consonant letter sounds"
+          ],
+          "periods_for_specific_competence": 67,
+          "id": "awal-awali-33"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.3 Read at early stages",
+          "learning_activity": "Read pictures",
+          "suggested_methods": [],
+          "assessment_criteria": "Pictures have been read",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 21,
+          "id": "awal-awali-34"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.3 Read at early stages",
+          "learning_activity": "Pronounce initial sounds of picture names/words/objects",
+          "suggested_methods": [],
+          "assessment_criteria": "Initial sounds of picture names/words/objects have been pronounced correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-35"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.3 Read at early stages",
+          "learning_activity": "Associate sounds with letter shapes",
+          "suggested_methods": [],
+          "assessment_criteria": "Sounds have been associated with letter shapes",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-36"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.3 Read at early stages",
+          "learning_activity": "Read syllables and words",
+          "suggested_methods": [],
+          "assessment_criteria": "Syllables and words have been read",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-37"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.4 Write at early stages",
+          "learning_activity": "Trace the steps of writing letters",
+          "suggested_methods": [],
+          "assessment_criteria": "The steps of writing letters have been traced",
+          "suggested_resources": [
+            "Video showing how to write letters by following steps",
+            "Chart showing steps for letter writing"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "awal-awali-38"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.4 Write at early stages",
+          "learning_activity": "Write letters",
+          "suggested_methods": [],
+          "assessment_criteria": "Letters have been written",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-39"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.5 Communicate in various contexts",
+          "learning_activity": "Greet and say goodbye",
+          "suggested_methods": [],
+          "assessment_criteria": "The act of greeting and saying goodbye has taken place",
+          "suggested_resources": [
+            "Pictures showing people greeting and saying goodbye",
+            "pictures showing various buildings such as: church, mosque, hospital, school, films showing various important areas in the community"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-40"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.5 Communicate in various contexts",
+          "learning_activity": "Follow communication rules",
+          "suggested_methods": [],
+          "assessment_criteria": "Communication rules have been followed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-41"
+        },
+        {
+          "main_competence": "3.0 Master early language and communication skills",
+          "specific_competence": "3.5 Communicate in various contexts",
+          "learning_activity": "Express oneself in various contexts",
+          "suggested_methods": [],
+          "assessment_criteria": "Self-expression has taken place in various contexts",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-42"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "early_literacy_skills_nursery.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

@@ -87,6 +87,7 @@
           </div>
         </div>
         <p class="warn" id="calWarn" hidden></p>
+        <p class="muted" id="transNote" style="margin:8px 0 0" hidden></p>
         <div class="row" style="justify-content:space-between">
           <span class="muted" id="schemeMeta"></span>
           <span>
@@ -174,7 +175,7 @@ async function loadSubjects(){
 async function loadScheme(){
   selectedEntry = null;
   $('pickInfo').textContent = 'No week selected yet.';
-  const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value))).json();
+  const s = await (await fetch('/api/scheme?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value)+'&medium='+medium())).json();
   $('schemeMeta').textContent = s.entries.length
     ? `${s.subject} ${s.form} · ${s.year} · ${s.teaching_weeks} teaching weeks · ${s.periods_per_week} periods/week · ${s.total_periods} periods total`
     : 'No scheme available for this subject/form.';
@@ -182,6 +183,11 @@ async function loadScheme(){
   const warn = $('calWarn');
   warn.hidden = !(s.entries.length && s.provisional_calendar);
   warn.textContent = warn.hidden ? '' : '⚠ Provisional dates — ' + s.provisional_note;
+  const tn = $('transNote');
+  tn.hidden = !s.translated;
+  tn.textContent = s.translated
+    ? 'English-medium: the activities below are an English translation of the Kiswahili TIE syllabus, not its wording.'
+    : '';
   $('schemeBody').innerHTML = s.entries.map(e=>{
     const cont = e.topic_weeks>1 ? ` <span class="muted">(wk ${e.topic_week}/${e.topic_weeks})</span>` : '';
     const exam = e.kind === 'assessment';
@@ -206,7 +212,7 @@ function selectWeek(tr){
     + `<b>Sub-topic:</b> ${esc(decodeURIComponent(tr.dataset.la))}`;
 }
 async function downloadScheme(kind){
-  const url = '/api/scheme/export/'+kind+'?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value);
+  const url = '/api/scheme/export/'+kind+'?subject='+encodeURIComponent($('subject').value)+'&form='+encodeURIComponent($('form').value)+'&medium='+medium();
   const r = await fetch(url); if(!r.ok){ alert('Scheme export failed'); return; }
   const a = document.createElement('a'); a.href = URL.createObjectURL(await r.blob());
   a.download = 'scheme_of_work.'+kind; a.click();
@@ -215,6 +221,7 @@ async function downloadScheme(kind){
 $('level').onchange = loadLevel;
 $('form').onchange = loadSubjects;
 $('subject').onchange = loadScheme;
+$('medium').onchange = loadScheme;
 
 const DOTS = '.'.repeat(30);
 function kv(label, value){ return `<p class="kv"><b>${label}:</b> ${esc(value)}</p>`; }

@@ -1,0 +1,232 @@
+{
+  "subject": "Health and Environment",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.1 Maintaining body hygiene",
+          "learning_activity": "Identifying body parts and their functions",
+          "suggested_methods": [],
+          "assessment_criteria": "Body parts and their functions have been identified",
+          "suggested_resources": [
+            "Picture/chart showing body hygiene items",
+            "chart showing body parts",
+            "picture showing clothes storage facilities/areas"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "awal-awali-57"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.1 Maintaining body hygiene",
+          "learning_activity": "Cleaning the body",
+          "suggested_methods": [],
+          "assessment_criteria": "Body has been cleaned",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-58"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.1 Maintaining body hygiene",
+          "learning_activity": "Taking care of clothes",
+          "suggested_methods": [],
+          "assessment_criteria": "Clothes have been taken care of",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 25,
+          "id": "awal-awali-59"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.2 Appreciating various types of food",
+          "learning_activity": "Identifying various types of food",
+          "suggested_methods": [],
+          "assessment_criteria": "Various types of food have been identified",
+          "suggested_resources": [
+            "Pictures of various types of food",
+            "real food items",
+            "pictures showing food storage facilities",
+            "food models",
+            "pictures showing eating procedures in various contexts"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "awal-awali-60"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.2 Appreciating various types of food",
+          "learning_activity": "Explaining procedures to observe when eating",
+          "suggested_methods": [],
+          "assessment_criteria": "Procedures to observe when eating have been explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-61"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.2 Appreciating various types of food",
+          "learning_activity": "Preserving food",
+          "suggested_methods": [],
+          "assessment_criteria": "Food has been preserved",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-62"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.3 Caring for eating utensils",
+          "learning_activity": "Using eating utensils",
+          "suggested_methods": [],
+          "assessment_criteria": "Eating utensils have been used",
+          "suggested_resources": [
+            "Pictures of eating utensils",
+            "utensil washing equipment",
+            "pictures showing food storage areas"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "awal-awali-63"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.3 Caring for eating utensils",
+          "learning_activity": "Washing eating utensils",
+          "suggested_methods": [],
+          "assessment_criteria": "Eating utensils have been washed",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-64"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.3 Caring for eating utensils",
+          "learning_activity": "Storing eating utensils",
+          "suggested_methods": [],
+          "assessment_criteria": "Eating utensils have been stored",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-65"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.4 Exploring objects found in the environment",
+          "learning_activity": "Naming objects found in the environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects found in the environment have been named",
+          "suggested_resources": [
+            "Pictures/models of various objects in the environment",
+            "pictures of animals and plants"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "awal-awali-66"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.4 Exploring objects found in the environment",
+          "learning_activity": "Differentiating objects in one's environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Objects in one's environment have been differentiated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 26,
+          "id": "awal-awali-67"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.5 Cleaning the environment",
+          "learning_activity": "Cleaning the surrounding environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Cleaning has been done in the surrounding environment",
+          "suggested_resources": [
+            "Pictures showing the effects of a dirty environment",
+            "storybooks showing the effects of a dirty environment"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "awal-awali-68"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.5 Cleaning the environment",
+          "learning_activity": "Explaining the effects resulting from a dirty environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Effects resulting from a dirty environment have been explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-69"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.6 Avoiding hazardous environments",
+          "learning_activity": "Identifying risky actions",
+          "suggested_methods": [],
+          "assessment_criteria": "Risky actions have been identified",
+          "suggested_resources": [
+            "Pictures showing risky actions and hazardous environments",
+            "picture showing safety signs"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "awal-awali-70"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.6 Avoiding hazardous environments",
+          "learning_activity": "Identifying hazardous environments",
+          "suggested_methods": [],
+          "assessment_criteria": "Hazardous environments have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-71"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.6 Avoiding hazardous environments",
+          "learning_activity": "Demonstrating ways to avoid hazardous environments",
+          "suggested_methods": [],
+          "assessment_criteria": "Ways to avoid hazardous environments have been demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-72"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.6 Avoiding hazardous environments",
+          "learning_activity": "Identifying safety signs in one's environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Safety signs in one's environment have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "awal-awali-73"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.7 Taking precautions against various diseases",
+          "learning_activity": "Identifying communicable diseases",
+          "suggested_methods": [],
+          "assessment_criteria": "Communicable diseases have been identified",
+          "suggested_resources": [
+            "Pictures/charts showing symptoms of communicable diseases",
+            "pictures showing ways to protect oneself against communicable diseases"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-74"
+        },
+        {
+          "main_competence": "5.0 Maintaining health and environment",
+          "specific_competence": "5.7 Taking precautions against various diseases",
+          "learning_activity": "Protecting oneself against diseases",
+          "suggested_methods": [],
+          "assessment_criteria": "Protected oneself against diseases",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-75"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "health_and_environment_nursery.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

@@ -48,9 +48,9 @@ def api_forms(subject: str = "", level: str = "ordinary"):
 
 
 @app.get("/api/scheme")
-def api_scheme(subject: str, form: str):
-    """The 2026 scheme of work for a subject + form (weeks driving lesson plans)."""
-    return scheme.build_scheme(subject, form)
+def api_scheme(subject: str, form: str, medium: str = "kiswahili"):
+    """The scheme of work for a subject + form (weeks driving lesson plans)."""
+    return scheme.build_scheme(subject, form, medium)
 
 
 def _week_label(entry: dict) -> str:
@@ -66,7 +66,7 @@ def api_generate(req: LessonPlanRequest):
             detail="No GEMINI_API_KEY set on the server. Get a free key at "
                    "https://aistudio.google.com/apikey and restart the app.",
         )
-    entry = scheme.get_entry(req.subject, req.form, req.entry_id)
+    entry = scheme.get_entry(req.subject, req.form, req.entry_id, req.medium)
     if entry is None:
         raise HTTPException(status_code=400,
                             detail=f"Unknown scheme week {req.entry_id!r}")
@@ -115,16 +115,16 @@ DOCX_MIME = "application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 
 
 @app.get("/api/scheme/export/docx")
-def api_scheme_docx(subject: str, form: str):
-    sch = scheme.build_scheme(subject, form)
+def api_scheme_docx(subject: str, form: str, medium: str = "kiswahili"):
+    sch = scheme.build_scheme(subject, form, medium)
     fn = f"scheme_{subject}_{form}".replace(" ", "_")
     return Response(exporters.scheme_to_docx(sch), media_type=DOCX_MIME,
                     headers={"Content-Disposition": f'attachment; filename="{fn}.docx"'})
 
 
 @app.get("/api/scheme/export/pdf")
-def api_scheme_pdf(subject: str, form: str):
-    sch = scheme.build_scheme(subject, form)
+def api_scheme_pdf(subject: str, form: str, medium: str = "kiswahili"):
+    sch = scheme.build_scheme(subject, form, medium)
     fn = f"scheme_{subject}_{form}".replace(" ", "_")
     return Response(exporters.scheme_to_pdf(sch), media_type="application/pdf",
                     headers={"Content-Disposition": f'attachment; filename="{fn}.pdf"'})

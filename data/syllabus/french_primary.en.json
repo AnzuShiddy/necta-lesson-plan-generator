@@ -1,0 +1,755 @@
+{
+  "subject": "French",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727169152-French%20Syllabus%20For%20Primary%20Education%20Standardv%20III%20-%20VII.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Develop phonemic awareness and the pronunciation of French letters",
+          "learning_activity": "(a) Listen to and identify French sounds",
+          "suggested_methods": [
+            "Repetition: Have students listen to French sounds and repeat them aloud.",
+            "Sound discrimination game: Have students play this game using minimal pairs carrying targeted sounds.",
+            "Ball game: Using a ball, have students play this game by pronouncing the targeted sounds"
+          ],
+          "assessment_criteria": "Ability to identify French sounds",
+          "suggested_resources": [
+            "- Simple oral documents carrying targeted sounds",
+            "- Cards carrying French sounds",
+            "- Cards carrying simple words"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "fren-3-1"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Develop phonemic awareness and the pronunciation of French letters",
+          "learning_activity": "(b) Pronounce the sounds of French letters",
+          "suggested_methods": [
+            "Repetition: Have students listen to and repeat the sounds of the letters worked on",
+            "Reading aloud: Lead students to read French letters aloud",
+            "Ball game: Have students play the ball game while pronouncing the targeted letter sounds",
+            "Tongue twisters: Have students repeat simple tongue twisters carrying the targeted letter sounds"
+          ],
+          "assessment_criteria": "Ability to correctly pronounce French sounds",
+          "suggested_resources": [
+            "- Cards carrying French letters",
+            "- Cards carrying simple words",
+            "- Tongue twisters"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-2"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Develop phonemic awareness and the pronunciation of French letters",
+          "learning_activity": "(c) Combine the sounds of French letters to form words",
+          "suggested_methods": [
+            "Brainstorming: Lead students to think about the French letter sounds they already know and use these sounds to form simple words",
+            "Song: Lead students to sing the French alphabet song"
+          ],
+          "assessment_criteria": "Ability to combine French letter sounds to form French words",
+          "suggested_resources": [
+            "- Cards carrying French letters",
+            "- Cards carrying simple words",
+            "- Crossword puzzle games",
+            "- French alphabet song"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-3"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(a) Recognize the names of classroom objects presented orally and in writing",
+          "suggested_methods": [
+            "Questions and answers: Show students real objects or pictures of classroom objects, then ask them to name them (Example: Question - What is this? Answer - It is a ...)",
+            "Guessing game: Lead students to listen to descriptions of classroom objects and identify their names",
+            "Project: Organize students to draw and name/label classroom objects in French"
+          ],
+          "assessment_criteria": "Ability to identify the names of classroom objects presented orally and in writing",
+          "suggested_resources": [
+            "- Real classroom objects",
+            "- Photos/drawings of objects in the immediate environment"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-3-4"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(b) Recognize the names of animals and objects in the immediate environment presented orally and in writing",
+          "suggested_methods": [
+            "Questions and answers: Show students real objects or pictures of objects/animals, and then ask them to name them (Example: Question - What is this? Answer - It is a ...)",
+            "Guessing game: Have students listen to descriptions of animals and objects in the immediate environment and identify their names",
+            "Project: Organize students to draw and name/label in French pictures of animals and real objects from the immediate environment"
+          ],
+          "assessment_criteria": "Ability to recognize the names of animals and objects in the immediate environment presented orally and in writing",
+          "suggested_resources": [
+            "- Real objects from the immediate environment",
+            "- Photos/drawings of animals/objects in the immediate environment",
+            "- Oral documents featuring riddles"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-5"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(c) Recognize the names of family members presented orally and in writing",
+          "suggested_methods": [
+            "Questions and answers: Show students photos/drawings of a family member, and then ask them to name them (Example: Question - Who is this? Answer - It is the ...)",
+            "Project: Organize students to draw and name/label family members"
+          ],
+          "assessment_criteria": "Ability to identify family members presented orally and in writing",
+          "suggested_resources": [
+            "- Photos/drawings of family members",
+            "- Audio or written documents featuring family members"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-6"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(d) Use numbers up to 20 orally and in writing",
+          "suggested_methods": [
+            "Song: Lead students to sing a song about numbers up to 20",
+            "Practical work: Guide students to arrange objects according to numbers",
+            "Questions and answers: Show students real objects or their pictures, and then ask them to give the number of the presented objects (Example: Question - How many ... are there on the table? Answer - There are ... on the table)"
+          ],
+          "assessment_criteria": "Ability to use numbers up to 20 orally and in writing",
+          "suggested_resources": [
+            "- Audio documents/songs featuring numbers up to 20",
+            "- Number cards up to 20",
+            "- Real objects",
+            "- Photos/drawings of objects in the immediate environment"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-7"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.3 Master simple grammar and vocabulary",
+          "learning_activity": "(a) Use simple grammar and vocabulary orally and in writing to locate objects in the immediate environment (at school, at home)",
+          "suggested_methods": [
+            "Questions and answers: Show students where real objects or their pictures are located, and then ask them to locate these objects (Example: Question - Where is ...? Answer - He/she/it is ...)",
+            "Practical work: Have students listen to an audio document on location to identify the objects in question"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary orally and in writing to locate objects in the immediate environment (at school, at home)",
+          "suggested_resources": [
+            "- Audio documents on location",
+            "- Real objects",
+            "- Photos/drawings of the immediate environment",
+            "- Simple written texts featuring location"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-3-8"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.3 Master simple grammar and vocabulary",
+          "learning_activity": "(b) Use simple grammar and vocabulary orally and in writing to introduce oneself and introduce someone else",
+          "suggested_methods": [
+            "Demonstration: Demonstrate to students how to introduce oneself and ask them to introduce themselves in turn",
+            "Questions and answers: Lead students to introduce themselves using questions (Example: Question - What is your name? How old are you? Where do you live? Answer - My name is ..., I am ..., I live ...)",
+            "Role play: Guide students in pairs to play the role of introducing someone else",
+            "Practical work: Have students listen to an audio document on self-introduction to identify personal information"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary orally and in writing to introduce oneself and introduce someone else",
+          "suggested_resources": [
+            "- Oral documents featuring introductions",
+            "- Audio-visual documents featuring introductions",
+            "- Photos/drawings",
+            "- Written texts featuring introductions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-9"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of spoken and written information",
+          "specific_competence": "2.1 Read and understand simple texts",
+          "learning_activity": "(a) Read and understand short messages (announcements, instructions, text messages)",
+          "suggested_methods": [
+            "Presentation: Guide students to read simple texts and present what they have understood",
+            "Questions and answers: Guide students to read simple and short texts, then ask them questions to check comprehension"
+          ],
+          "assessment_criteria": "Ability to read and understand simple and short texts (announcements, instructions, and text messages)",
+          "suggested_resources": [
+            "- Simple authentic texts (announcements, instructions, and text messages)"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-3-10"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of spoken and written information",
+          "specific_competence": "2.2 React appropriately to a familiar communication context",
+          "learning_activity": "(a) Follow simple instructions given orally and in writing in a familiar context (at school and at home)",
+          "suggested_methods": [
+            "Role play: Guide students to play teacher-student/student-student/parent-child roles, etc.",
+            "Dramatization: Lead students to react based on read messages"
+          ],
+          "assessment_criteria": "Ability to react appropriately based on messages communicated in announcements, text messages, and instructions given at school and at home",
+          "suggested_resources": [
+            "- Oral documents featuring instructions",
+            "- Texts featuring instructions"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-3-11"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.1 Demonstrate knowledge of the basic characteristics of spoken and written language",
+          "learning_activity": "(a) Use appropriate intonations in simple communication",
+          "suggested_methods": [
+            "Dialogue game: Guide students to engage in dialogue taking into account correct intonation",
+            "Practical work: Guide students to formulate questions using intonation"
+          ],
+          "assessment_criteria": "Ability to use correct intonations in communication",
+          "suggested_resources": [
+            "- Oral documents"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-3-12"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.1 Demonstrate knowledge of the basic characteristics of spoken and written language",
+          "learning_activity": "(b) Use punctuation marks (capital letter, lowercase letter, period, and question mark) in simple texts",
+          "suggested_methods": [
+            "Writing workshop: Guide students to write sentences and short texts using punctuation marks"
+          ],
+          "assessment_criteria": "Ability to correctly use capital letters, lowercase letters, periods, and question marks in simple texts",
+          "suggested_resources": [
+            "- Simple authentic texts"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-13"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Link words to objects in the environment",
+          "learning_activity": "(a) Recognize the names of human body parts presented orally and in writing",
+          "suggested_methods": [
+            "Song/rhyme: Lead students to sing a song/rhyme about the parts of the human body",
+            "Role play: Guide students to play a role related to body parts (at the doctor)"
+          ],
+          "assessment_criteria": "Ability to recognize the names of human body parts presented orally and in writing",
+          "suggested_resources": [
+            "- Human body model",
+            "- Photos/drawings of human body parts"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-4-14"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Link words to objects in the environment",
+          "learning_activity": "(b) Use numbers up to 60 orally and in writing",
+          "suggested_methods": [
+            "Song: Lead students to sing a song of numbers up to 60",
+            "Practical work: Guide students to associate object images according to numbers",
+            "Questions and answers: Show students the images, and then ask them to state the numbers (Example: Question - How many ... are there in the basket? Answer - There are ... in the basket."
+          ],
+          "assessment_criteria": "Ability to use numbers up to 60 correctly orally and in writing",
+          "suggested_resources": [
+            "- Audio documents/songs about numbers up to 60",
+            "- Number cards up to 60",
+            "- Real objects",
+            "- Photos/drawings"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-15"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(a) Use simple grammar and vocabulary to describe people orally and in writing",
+          "suggested_methods": [
+            "Project: Guide students to draw and describe people",
+            "Guessing game: Guide students to play a guessing game to describe people"
+          ],
+          "assessment_criteria": "Ability to describe people physically and morally orally and in writing using simple grammar and vocabulary",
+          "suggested_resources": [
+            "- Oral documents on the description of people",
+            "- Audio-visual documents on the description of people",
+            "- Photos/drawings on the description of people"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-4-16"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(b) Use simple grammar and vocabulary to describe objects orally and in writing",
+          "suggested_methods": [
+            "Project: Guide students to draw and describe objects familiar to them",
+            "Guessing game: Guide students to play a guessing game to describe objects"
+          ],
+          "assessment_criteria": "Ability to describe objects orally and in writing",
+          "suggested_resources": [
+            "- Oral documents on the description of objects",
+            "- Audio-visual documents on the description of objects",
+            "- Photos/drawings on the description of objects"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-17"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(c) Use simple grammar and vocabulary to describe places/locations orally and in writing",
+          "suggested_methods": [
+            "Project: Guide students to draw maps of their neighborhood, village, street and describe them",
+            "Writing workshop: Lead students to write simple texts to describe places/locations"
+          ],
+          "assessment_criteria": "Ability to correctly describe different places/locations",
+          "suggested_resources": [
+            "- Maps of locations",
+            "- Photos/drawings"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-18"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(d) Use simple grammar and vocabulary orally and in writing to express the days of the week and the months of the year",
+          "suggested_methods": [
+            "Songs/rhymes: Lead students to sing a song/rhyme to learn the days of the week and/or the months of the year",
+            "Memory game: Prepare a game about the days of the week or the months of the year, and then guide students to play this game"
+          ],
+          "assessment_criteria": "Ability to correctly state the days of the week and the months of the year using simple grammar and vocabulary",
+          "suggested_resources": [
+            "- Monthly and annual calendars",
+            "- Authentic texts",
+            "- Crossword puzzle games"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-19"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(e) Use simple grammar and vocabulary to ask for and tell the time",
+          "suggested_methods": [
+            "Questions and answers: Lead students in pairs to ask each other and tell the time (Example: Question - What time is it? Answer - It is ... hour(s))",
+            "Project: Guide students to prepare their daily schedule"
+          ],
+          "assessment_criteria": "Ability to ask for and tell the time correctly using simple grammar and vocabulary",
+          "suggested_resources": [
+            "- Watches",
+            "- Clocks",
+            "- Authentic texts (schedules/timetables)"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-20"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(f) Ask for and state the date",
+          "suggested_methods": [
+            "Role play: Lead students in pairs to ask each other and state the date (Example: Question - What is the date today? Answer - Today is the ...)",
+            "Project: Guide students to prepare their weekend program"
+          ],
+          "assessment_criteria": "Ability to ask for and state the date correctly",
+          "suggested_resources": [
+            "- Calendars",
+            "- Authentic texts",
+            "- School timetable"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-21"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.1 Listen to and understand simple information",
+          "learning_activity": "(a) Listen to and understand information about likes and preferences",
+          "suggested_methods": [
+            "Presentation: Guide students to listen to and present information about likes and preferences",
+            "Dialogue game: Guide students to assign roles and state what they like or do not like",
+            "Song: Guide students to sing a song about likes or preferences"
+          ],
+          "assessment_criteria": "Ability to listen to and understand information about likes and preferences",
+          "suggested_resources": [
+            "- Oral documents on various topics",
+            "- Audio-visual documents on various topics",
+            "- Photos/drawings"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-4-22"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "(a) Read and understand simple descriptions of people, objects, and animals",
+          "suggested_methods": [
+            "Questions and answers: Guide students to read simple texts on descriptions of people, objects, and animals, and then ask them questions to check comprehension",
+            "Presentation: Guide students to read simple texts on descriptions of people, objects, and animals and present important information"
+          ],
+          "assessment_criteria": "Ability to read and understand simple descriptions of people, objects, and animals",
+          "suggested_resources": [
+            "- Simple descriptive texts",
+            "- Photos/drawings of people, objects, and animals"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-4-23"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.3 Respond appropriately to a familiar communication context",
+          "learning_activity": "(a) Follow traffic rules and instructions",
+          "suggested_methods": [
+            "Brainstorming: Guide students to reflect on the traffic rules present in their surroundings",
+            "Project: Guide students to draw and label road signs"
+          ],
+          "assessment_criteria": "Ability to correctly follow traffic rules and instructions",
+          "suggested_resources": [
+            "- Simple authentic texts on traffic rules/road signs"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "fren-4-24"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.1 Demonstrate knowledge of basic features of spoken and written language",
+          "learning_activity": "(a) Use punctuation marks (exclamation marks and commas) in simple texts",
+          "suggested_methods": [
+            "Writing workshop: Guide students to write sentences and short texts using punctuation marks"
+          ],
+          "assessment_criteria": "Ability to correctly use punctuation marks (exclamation marks and commas) in simple texts",
+          "suggested_resources": [
+            "- Simple authentic texts"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-4-25"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.2 Converse in various contexts using appropriate grammar and vocabulary",
+          "learning_activity": "(a) Use appropriate grammar and vocabulary to express feelings",
+          "suggested_methods": [
+            "Questions and answers: Guide students in pairs to ask each other questions based on the expression of feelings and answer them",
+            "Role play: Guide students to play roles in various communication contexts"
+          ],
+          "assessment_criteria": "Ability to use appropriate grammar and vocabulary to express feelings",
+          "suggested_resources": [
+            "- Short oral documents on feelings",
+            "- Short audio-visual documents about feelings",
+            "- Authentic texts about feelings"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-4-26"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.1 Match words to objects in the environment",
+          "learning_activity": "(a) Use numbers up to 500 orally and in writing",
+          "suggested_methods": [
+            "Role-play: Guide students to play roles using numbers up to 500"
+          ],
+          "assessment_criteria": "Ability to use numbers up to 500 orally and in writing",
+          "suggested_resources": [
+            "Real objects",
+            "Oral documents on numbers up to 500",
+            "Audio-visual documents on numbers up to 500",
+            "Simple authentic texts on numbers up to 500"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-5-27"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(a) Use simple grammar and vocabulary orally and in writing to ask for and give directions",
+          "suggested_methods": [
+            "Practical work: Make students listen to a short, simple audio document about street directions",
+            "Dialogue game: Guide students in pairs to play a short dialogue about directions"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary orally and in writing to ask for and give directions appropriately",
+          "suggested_resources": [
+            "Oral documents on asking for directions",
+            "Audio-visual documents on asking for directions",
+            "Authentic texts on asking for directions",
+            "Photos/drawings"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-5-28"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(b) Use simple grammar and vocabulary orally and in writing to make and respond to a polite request",
+          "suggested_methods": [
+            "Dialogue game: Guide students in pairs to play a short dialogue to make and respond to a polite request",
+            "Team game (crossword puzzle): Lead students in teams to play this game based on grammar and vocabulary related to polite requests"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary orally and in writing to make and respond to a polite request appropriately",
+          "suggested_resources": [
+            "Oral documents on a polite request",
+            "Audio-visual documents on a polite request",
+            "Authentic texts on a polite request",
+            "Photos/drawings"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-29"
+        },
+        {
+          "main_competence": "1.0 Master basic French language skills",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(c) Use simple grammar and vocabulary orally and in writing to talk about daily routines",
+          "suggested_methods": [
+            "Dialogue game: Guide students in pairs to play a short dialogue to talk about daily routines",
+            "Memory game: Lead students to play this game on the subject of talking about their daily routine (Example - I get up in the morning and brush my teeth, I get up in the morning, brush my teeth and take a bath, ...)"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary orally and in writing to talk correctly about daily routines",
+          "suggested_resources": [
+            "Audio documents on expressing daily routines",
+            "Audio-visual documents on expressing daily routines",
+            "Written texts on expressing daily routines",
+            "Photos/drawings"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-30"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.1 Listen to and understand simple information",
+          "learning_activity": "(a) Listen to and understand information on means of transport",
+          "suggested_methods": [
+            "Brainstorming: Guide students to think about and identify different means of transport",
+            "Questions and answers: Using questions, guide students to identify means of transport"
+          ],
+          "assessment_criteria": "Ability to correctly understand information on means of transport",
+          "suggested_resources": [
+            "Authentic texts on means of transport/images",
+            "Oral/audio-visual documents on means of transport"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-5-31"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "(a) Read and understand short stories",
+          "suggested_methods": [
+            "Presentation: Guide students to read short stories for comprehension, and then make a presentation on the message of the story",
+            "Discussion: Guide students in small groups to read a short narrative text and discuss it"
+          ],
+          "assessment_criteria": "Ability to read and understand short stories",
+          "suggested_resources": [
+            "Various stories"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "fren-5-32"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of spoken and written information",
+          "specific_competence": "2.3 Read simple texts correctly",
+          "learning_activity": "(a) Read simple texts with fluency",
+          "suggested_methods": [
+            "Reading aloud: Guide students to read simple texts aloud taking into account good pronunciation, rhythm, intonation, and appropriate speed"
+          ],
+          "assessment_criteria": "Ability to read simple texts with fluency",
+          "suggested_resources": [
+            "Various simple authentic texts"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "fren-5-33"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.1 Demonstrate knowledge of basic characteristics of spoken and written language",
+          "learning_activity": "(a) Make a phone call to someone",
+          "suggested_methods": [
+            "Dialogue/role-play game: Guide students in pairs to converse on telephone conversations about familiar topics"
+          ],
+          "assessment_criteria": "Ability to converse on the telephone appropriately",
+          "suggested_resources": [
+            "Short oral/audio-visual documents on telephone conversations"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "fren-5-34"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.2 Converse in varied contexts using appropriate grammar and vocabulary",
+          "learning_activity": "(a) Use simple grammar and vocabulary to ask for and give prices",
+          "suggested_methods": [
+            "Questions and answers: Ask students questions about the prices of various objects",
+            "Role-play: Guide students to play the roles of customer/vendor"
+          ],
+          "assessment_criteria": "Ability to ask for and give prices appropriately",
+          "suggested_resources": [
+            "Real objects",
+            "Oral/audio-visual documents on shopping",
+            "Various written texts on shopping/services"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-5-35"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.2 Converse in varied contexts using appropriate grammar and vocabulary",
+          "learning_activity": "(b) Use simple grammar and vocabulary to have a simple conversation about food items",
+          "suggested_methods": [
+            "Brainstorming: Guide students to think about various food items",
+            "Role-play: Guide students to play roles in a conversation about food items"
+          ],
+          "assessment_criteria": "Ability to use simple grammar and vocabulary to have a simple conversation about food items",
+          "suggested_resources": [
+            "Real objects",
+            "Oral/audio-visual documents on the topic of food items",
+            "Various written texts on food items"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-36"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in diverse contexts",
+          "specific_competence": "3.3 Communicate in writing in varied contexts using appropriate grammar and vocabulary",
+          "learning_activity": "(a) Use appropriate grammar and vocabulary to correspond (write postcards and invitation cards)",
+          "suggested_methods": [
+            "Presentation: Guide students to write postcards or invitation cards, and then present them",
+            "Writing workshop: Guide students in manageable groups to write postcards or invitation cards"
+          ],
+          "assessment_criteria": "Abilities to write a postcard or invitation card correctly",
+          "suggested_resources": [
+            "Authentic texts (postcards, invitation cards)"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-5-37"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic language skills in French",
+          "specific_competence": "1.1 Relate words to objects in the environment",
+          "learning_activity": "(a) Use numbers up to 1,000 orally and in writing",
+          "suggested_methods": [
+            "Role play: Guide students to play roles using numbers up to 1,000"
+          ],
+          "assessment_criteria": "Ability to use numbers up to 1,000 orally and in writing",
+          "suggested_resources": [
+            "Real objects",
+            "Oral documents on numbers up to 1,000",
+            "Audio-visual documents on numbers up to 1,000",
+            "Simple authentic texts on numbers up to 1,000"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-6-38"
+        },
+        {
+          "main_competence": "1.0 Master basic language skills in French",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(a) Use simple grammar and vocabulary to narrate a past event (holidays, trips)",
+          "suggested_methods": [
+            "Songs/stories/rhymes: Guide students to sing or narrate past events about holidays or trips",
+            "Presentation: Guide students to use simple grammar and vocabulary to narrate a past event about holidays or trips",
+            "Writing workshop: Guide students to write narrative texts about holidays or trips"
+          ],
+          "assessment_criteria": "Ability to correctly use simple grammar and vocabulary to narrate past events about holidays or trips",
+          "suggested_resources": [
+            "Authentic oral/audio-visual documents on narrations of past events",
+            "Simple narrative texts"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "fren-6-39"
+        },
+        {
+          "main_competence": "1.0 Master basic language skills in French",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(b) Use simple grammar and vocabulary to express future events",
+          "suggested_methods": [
+            "Presentation: Guide students to use simple grammar and vocabulary to express future events",
+            "Writing workshop: Guide students to use simple grammar and vocabulary to write simple texts about future events"
+          ],
+          "assessment_criteria": "Ability to correctly use simple grammar and vocabulary to express future events",
+          "suggested_resources": [
+            "Authentic oral/audio-visual documents on narrations of future events",
+            "Simple written texts on narrations of future events"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-6-40"
+        },
+        {
+          "main_competence": "1.0 Master basic language skills in French",
+          "specific_competence": "1.2 Master simple grammar and vocabulary",
+          "learning_activity": "(c) Use simple grammar and vocabulary to talk about daily activities",
+          "suggested_methods": [
+            "Presentation: Guide students to use simple grammar and vocabulary to talk about daily activities",
+            "Dialogue game: Guide students to use simple grammar and vocabulary to dialogue about daily activities"
+          ],
+          "assessment_criteria": "Ability to correctly use simple grammar and vocabulary to talk about daily activities",
+          "suggested_resources": [
+            "Authentic oral/audio-visual documents on information about daily life"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-6-41"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of oral and written information",
+          "specific_competence": "2.1 Listen to and understand simple information",
+          "learning_activity": "(a) Listen to and understand weather information",
+          "suggested_methods": [
+            "Questions and answers: Guide students to listen to an oral document on the weather, and then ask them questions to check comprehension"
+          ],
+          "assessment_criteria": "Ability to correctly listen to and understand weather information",
+          "suggested_resources": [
+            "Authentic oral/audio-visual documents on the weather",
+            "Authentic texts on weather information"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-6-42"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of oral and written information",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "(a) Read and understand simple poems",
+          "suggested_methods": [
+            "Questions and answers: Guide students to read simple poems, then ask them questions to check comprehension",
+            "Presentation: Guide students in manageable groups to read simple poems, and then present the message"
+          ],
+          "assessment_criteria": "Ability to correctly read and understand poems",
+          "suggested_resources": [
+            "Various simple poems"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-6-43"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.3 Communicate in writing in various contexts using appropriate grammar and vocabulary",
+          "learning_activity": "(a) Use appropriate grammar and vocabulary to write a short friendly letter",
+          "suggested_methods": [
+            "Presentation: Guide students to write short friendly letters, and then present them"
+          ],
+          "assessment_criteria": "Ability to correctly write a short friendly letter",
+          "suggested_resources": [
+            "Friendly letters"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-6-44"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "french_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

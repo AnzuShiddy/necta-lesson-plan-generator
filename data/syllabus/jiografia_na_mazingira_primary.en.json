@@ -1,0 +1,431 @@
+{
+  "subject": "Jiografia na Mazingira",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727166774-JIOGRAFIA%20NA%20MAZINGIRA%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic map and solar system skills",
+          "specific_competence": "1.1 Use maps in everyday life",
+          "learning_activity": "Explain the concept of geography and environment (meaning, relationship, and importance)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the meaning of geography and environment",
+            "Reading assignment: Guide students to read a reading passage on the relationship between geography and environment and then discuss it",
+            "Question and answer: Guide students to explain the importance of geography and environment to their communities",
+            "Online and library learning: Guide students to read online or in books content concerning the importance of geography and environment and then discuss"
+          ],
+          "assessment_criteria": "The concept of geography and environment has been explained correctly",
+          "suggested_resources": [
+            "A chart showing the concept of geography",
+            "A video with content on the concept of geography"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "jiog-3-1"
+        },
+        {
+          "main_competence": "2.0 Master basic physical relief and existing resources skills",
+          "specific_competence": "2.1 Demonstrate basic understanding of physical relief",
+          "learning_activity": "Explain the concept of physical relief (meaning, landforms - mountains, hills, plains, valleys, plateaus, basins, and distribution)",
+          "suggested_methods": [
+            "Question and answer: Guide students to explain the meaning of physical relief and name landforms",
+            "Discussion: Guide students to explain the distribution of landforms using maps",
+            "Observation: Take students to nearby areas to observe various landforms"
+          ],
+          "assessment_criteria": "The concept of physical relief has been explained correctly",
+          "suggested_resources": [
+            "Topographical maps",
+            "Pictures and charts of various landforms"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "jiog-3-2"
+        },
+        {
+          "main_competence": "3.0 Master the basics of environmental conservation",
+          "specific_competence": "3.1 Demonstrate basic understanding of environmental conservation education",
+          "learning_activity": "(a) Explain the relationship between human activities and environmental conservation (livestock keeping, mining, fishing, lumbering, industries, and agriculture)",
+          "suggested_methods": [
+            "Question and answer: Using questions and answers, guide students to explain the meaning of environment, human activities, and environmental conservation",
+            "Discussion: Guide students in groups to discuss the relationship between human activities and environmental conservation",
+            "Observation: Guide students to visit school and home areas where human activities take place to identify the existing relationship between those activities and environmental conservation"
+          ],
+          "assessment_criteria": "The relationship between human activities and environmental conservation has been explained correctly",
+          "suggested_resources": [
+            "Short videos and articles of real-life examples of human activities affecting the environment and the actual environment"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "jiog-3-3"
+        },
+        {
+          "main_competence": "3.0 Master the basics of environmental conservation",
+          "specific_competence": "3.1 Demonstrate basic understanding of environmental conservation education",
+          "learning_activity": "(b) Explain methods of environmental conservation (planting flowers and trees/grass, various methods of waste management in the environment)",
+          "suggested_methods": [
+            "Question and answer: Guide students to explain methods of environmental conservation",
+            "Online and library learning: Guide students to read in the library or online about methods of environmental conservation",
+            "Observation: Guide students to visit nearby areas with conserved environments to identify the methods used to conserve those environments",
+            "Practical work: Guide students to plant trees and flowers/grass and use proper waste management methods"
+          ],
+          "assessment_criteria": "Methods of environmental conservation have been explained correctly",
+          "suggested_resources": [
+            "Short videos and articles of events with real-life examples of environmental conservation",
+            "Actual environment"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-3-4"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(a) Showing the direction of various objects using the four and eight main cardinal points of the world (identifying the four main points, drawing the four main points, using the four main points to show direction, identifying the eight points, drawing the eight points, using the eight points to show direction)",
+          "suggested_methods": [
+            "Questions and answers: Guide pupils using questions and answers to identify the four and eight main cardinal points of the world",
+            "Practical work: Guide pupils to (i) draw and show the direction of the four and eight main cardinal points of the world (ii) use the four and eight main cardinal points to show objects and various areas of the school and their communities"
+          ],
+          "assessment_criteria": "The direction of various objects has been shown using the four and eight main cardinal points of the world",
+          "suggested_resources": [
+            "Compass",
+            "simple map drawings",
+            "globe"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "jiog-4-5"
+        },
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(b) Explaining the concept of a map (meaning, features, and importance)",
+          "suggested_methods": [
+            "Questions and Answers: Engage pupils using questions and answers to explain the meaning of a map",
+            "Group work: Guide pupils in groups to discuss the features and importance of maps and then present in class"
+          ],
+          "assessment_criteria": "The concept of a map has been explained correctly",
+          "suggested_resources": [
+            "Simple map",
+            "chart of various map symbols"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "jiog-4-6"
+        },
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(c) Drawing a simple map to show the classroom environment",
+          "suggested_methods": [
+            "Questions and answers: Guide pupils to identify items found in the classroom",
+            "Practical work: Guide pupils to draw a simple map showing the classroom environment"
+          ],
+          "assessment_criteria": "A simple map showing the classroom environment has been drawn correctly",
+          "suggested_resources": [
+            "Drawing tools (Paper, pencil, eraser, ruler, manila cards, classroom map)"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "jiog-4-7"
+        },
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(d) Drawing a simple map of the school, ward, district, Tanzania",
+          "suggested_methods": [
+            "Discussion: Guide pupils to discuss how to draw a simple map of the school, ward, district, and Tanzania",
+            "Practical work: Guide individual pupils to draw a simple map of the school, ward, district, and Tanzania"
+          ],
+          "assessment_criteria": "A simple map of the school, ward, district, and Tanzania has been drawn correctly",
+          "suggested_resources": [
+            "Map drawings"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-4-8"
+        },
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(e) Using a simple map to determine direction, distance, and to give and follow instructions",
+          "suggested_methods": [
+            "Questions and Answers: Use questions and answers to guide pupils to identify the uses of maps in their daily lives",
+            "Practical work: Use simple maps (classroom, school, and village) to guide pupils to determine direction, distance, and to give and follow instructions"
+          ],
+          "assessment_criteria": "A simple map to determine direction, distance, and to give and follow instructions has been used correctly",
+          "suggested_resources": [
+            "Compass",
+            "measuring tape and map drawings"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-4-9"
+        },
+        {
+          "main_competence": "1.0 To master basic map-reading and solar system skills",
+          "specific_competence": "1.1 To use maps in daily life",
+          "learning_activity": "(f) Using a map to show administrative boundaries (Regions) and relief features (mountains, valleys, rivers, great lakes, and the sea)",
+          "suggested_methods": [
+            "Questions and answers: Through questions and answers, guide pupils to identify administrative boundaries and areas or regions where various relief features are found",
+            "Presentation: Use the map of Tanzania for pupils to identify things that make up relief features and administrative boundaries",
+            "Practical work: Guide pupils to draw the map of Tanzania showing administrative boundaries (regions) and relief features"
+          ],
+          "assessment_criteria": "A map showing administrative boundaries and relief features has been used correctly",
+          "suggested_resources": [
+            "Map showing administrative boundaries and relief features"
+          ],
+          "periods_for_specific_competence": 33,
+          "id": "jiog-4-10"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic skills of landforms and available resources",
+          "specific_competence": "1.1 Show an understanding of the main natural resources of Tanzania",
+          "learning_activity": "Explain the distribution of the main natural resources of Tanzania",
+          "suggested_methods": [
+            "Observation: Guide students to identify and explain the resources available in their communities",
+            "Online and library learning: Guide students to read various information sources to identify the main natural resources of Tanzania",
+            "Discussion: Guide students to discuss the distribution of Tanzania's main natural resources"
+          ],
+          "assessment_criteria": "The distribution of Tanzania's main natural resources is explained correctly",
+          "suggested_resources": [
+            "Maps showing the distribution of Tanzania's main natural resources"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-11"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of landforms and available resources",
+          "specific_competence": "1.2 Show an initial understanding of the relationship between natural resources and development",
+          "learning_activity": "Explain the relationship between the distribution of natural resources and development (forests-tourism, beekeeping; rivers/lakes/oceans-fishing, transportation, agriculture; land-agriculture, livestock keeping, mining)",
+          "suggested_methods": [
+            "Questions and answers: Guide students to explain the relationship between natural resources and development",
+            "Case study: Guide students to read various cases concerning the distribution of natural resources and their relationship to development",
+            "Discussion: Guide students to discuss the distribution of natural resources and its relationship with development"
+          ],
+          "assessment_criteria": "The relationship between the distribution of natural resources and development is explained correctly",
+          "suggested_resources": [
+            "Texts with content on the relationship between the distribution of natural resources and development"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-12"
+        },
+        {
+          "main_competence": "2.0 Master basic skills of human geography",
+          "specific_competence": "2.1 Show an initial understanding of the relationship between population distribution and resource use",
+          "learning_activity": "(a) Explain the geographical causes of population distribution",
+          "suggested_methods": [
+            "Questions and answers: Use questions and answers to involve students in explaining the geographical causes of population distribution"
+          ],
+          "assessment_criteria": "The geographical causes of population distribution are explained correctly",
+          "suggested_resources": [
+            "Population charts"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-13"
+        },
+        {
+          "main_competence": "2.0 Master basic skills of human geography",
+          "specific_competence": "2.1 Show an initial understanding of the relationship between population distribution and resource use",
+          "learning_activity": "(b) Explain the relationship between population distribution, resource use, and environmental conservation",
+          "suggested_methods": [
+            "Discussion: Guide students to discuss the relationship between population distribution, resource use, and environmental conservation"
+          ],
+          "assessment_criteria": "The relationship between population distribution, resource use, and environmental conservation is explained correctly",
+          "suggested_resources": [
+            "Videos and charts showing the relationship between population distribution, resource use, and environmental conservation"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-14"
+        },
+        {
+          "main_competence": "3.0 Master the fundamentals of environmental conservation",
+          "specific_competence": "3.1 Show an initial understanding of the concept of weather and its relationship to economic activities",
+          "learning_activity": "(a) Explain the concept of weather (meaning, weather elements, and equipment used to measure and record weather)",
+          "suggested_methods": [
+            "Brainstorming: Guide students to brainstorm the meaning and elements of weather",
+            "Discussion: Guide students to discuss the equipment used to measure and record weather elements"
+          ],
+          "assessment_criteria": "The concept of weather is explained correctly",
+          "suggested_resources": [
+            "Video with content on the concept of weather, and various equipment for measuring weather elements"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-15"
+        },
+        {
+          "main_competence": "3.0 Master the fundamentals of environmental conservation",
+          "specific_competence": "3.1 Show an initial understanding of the concept of weather and its relationship to economic activities",
+          "learning_activity": "(b) Measure and record temperature, humidity, rainfall, wind, and air pressure",
+          "suggested_methods": [
+            "Field trip: Guide students to visit a weather station in their surrounding areas to measure and record weather elements"
+          ],
+          "assessment_criteria": "Temperature, humidity, rainfall, wind, and air pressure are measured and recorded correctly",
+          "suggested_resources": [
+            "Various equipment for measuring weather elements"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-16"
+        },
+        {
+          "main_competence": "3.0 Master the fundamentals of environmental conservation",
+          "specific_competence": "3.1 Show an initial understanding of the concept of weather and its relationship to economic activities",
+          "learning_activity": "(c) Explain the relationship between weather and economic activities",
+          "suggested_methods": [
+            "Questions and answers: Guide students using questions and answers to explain the relationship between weather and economic activities",
+            "Discussion: Guide students to discuss the relationship existing between weather and economic activities"
+          ],
+          "assessment_criteria": "The relationship between weather and economic activities is explained correctly",
+          "suggested_resources": [
+            "Text with content concerning the relationship between weather and economic activities"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-17"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic map reading and solar system skills",
+          "specific_competence": "1.1 Demonstrate basic understanding of solar system education",
+          "learning_activity": "Explain the concept of the solar system (meaning, importance, planets and their arrangement, and other celestial bodies)",
+          "suggested_methods": [
+            "Question and answer: Guide pupils using questions and answers to explain the meaning and importance of the solar system",
+            "Practical guidance: Guide individual pupils to draw a diagram of the solar system and explain it accurately",
+            "Discussion: Guide pupils in groups, using a diagram of the solar system, to discuss the arrangement of the planets"
+          ],
+          "assessment_criteria": "The concept of the solar system is explained accurately",
+          "suggested_resources": [
+            "Models of the solar system",
+            "diagrams of the solar system",
+            "pamphlets",
+            "globe",
+            "cartoons/animated pictures showing the arrangement of the planets"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "jiog-6-18"
+        },
+        {
+          "main_competence": "1.0 Master basic map reading and solar system skills",
+          "specific_competence": "1.1 Demonstrate basic understanding of solar system education",
+          "learning_activity": "Online and library learning: Guide pupils to read in the library or online about the sun, planets, and other celestial bodies and then present in class",
+          "suggested_methods": [
+            "Online and library learning: Guide pupils to read in the library or online about the sun, planets, and other celestial bodies and then present in class"
+          ],
+          "assessment_criteria": "The concept of the solar system is explained accurately",
+          "suggested_resources": [
+            "Models of the solar system",
+            "diagrams of the solar system",
+            "pamphlets",
+            "globe",
+            "cartoons/animated pictures showing the arrangement of the planets"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "jiog-6-19"
+        },
+        {
+          "main_competence": "2.0 Master basic relief skills",
+          "specific_competence": "2.1 Demonstrate basic understanding of relief",
+          "learning_activity": "Explain the relationship between relief and natural vegetation",
+          "suggested_methods": [
+            "Question and answer: Through questions and answers, guide pupils to explain the relationship between relief and natural vegetation",
+            "Discussion: Guide pupils to discuss the relationship between landforms and natural vegetation"
+          ],
+          "assessment_criteria": "The relationship between relief and natural vegetation is explained accurately",
+          "suggested_resources": [
+            "Maps showing the relationship between relief and vegetation",
+            "animated pictures showing landforms and natural vegetation"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "jiog-6-20"
+        },
+        {
+          "main_competence": "2.0 Master basic relief skills",
+          "specific_competence": "2.1 Demonstrate basic understanding of relief",
+          "learning_activity": "Field trip: Guide pupils to identify the relationship between relief and natural vegetation in the natural environment",
+          "suggested_methods": [
+            "Field trip: Guide pupils to identify the relationship between relief and natural vegetation in the natural environment"
+          ],
+          "assessment_criteria": "The relationship between relief and natural vegetation is explained accurately",
+          "suggested_resources": [
+            "Maps showing the relationship between relief and vegetation",
+            "animated pictures showing landforms and natural vegetation"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "jiog-6-21"
+        },
+        {
+          "main_competence": "3.0 Master basic human geography skills",
+          "specific_competence": "3.1 Demonstrate understanding of sources of population and settlement data",
+          "learning_activity": "(a) Explain the importance of population and settlement data",
+          "suggested_methods": [
+            "Question and answer: Through questions and answers, guide pupils to explain the importance of population and settlement data"
+          ],
+          "assessment_criteria": "The importance of population and settlement data is explained accurately",
+          "suggested_resources": [
+            "Text materials containing population and settlement content"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-22"
+        },
+        {
+          "main_competence": "3.0 Master basic human geography skills",
+          "specific_competence": "3.1 Demonstrate understanding of sources of population and settlement data",
+          "learning_activity": "(b) Explain the sources for obtaining population and settlement data (census: meaning, types, characteristics, importance, birth and death registration, migration records)",
+          "suggested_methods": [
+            "Discussion: Guide pupils in groups to discuss various sources for obtaining population and settlement data and then present in class",
+            "Discussion: In groups, guide pupils to discuss various sources for obtaining population and settlement data",
+            "Guest speaker: A guest with knowledge on various sources for obtaining population and settlement data to talk to pupils"
+          ],
+          "assessment_criteria": "Sources for obtaining population and settlement data are explained accurately",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "jiog-6-23"
+        },
+        {
+          "main_competence": "4.0 Master the basics of environmental conservation",
+          "specific_competence": "4.1 Demonstrate basic understanding of the concept of climate and its relationship with economic activities",
+          "learning_activity": "(a) Explain the concept of climate and factors affecting it",
+          "suggested_methods": [
+            "Question and answer: Through questions and answers, guide pupils to explain the concept of climate and factors affecting it",
+            "Case study: Using various scenarios in the community and environment, guide pupils to explain factors affecting climate",
+            "Discussion: Guide pupils in groups to discuss human activities affecting climate"
+          ],
+          "assessment_criteria": "The concept of climate and factors affecting it are explained accurately",
+          "suggested_resources": [
+            "Climate maps",
+            "climatic statistics",
+            "charts showing climatic information"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-24"
+        },
+        {
+          "main_competence": "4.0 Master the basics of environmental conservation",
+          "specific_competence": "4.1 Demonstrate basic understanding of the concept of climate and its relationship with economic activities",
+          "learning_activity": "(b) Explain the relationship between climate, population distribution, and economic activities",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to brainstorm on the relationship between climate, population distribution, and economic activities",
+            "Case study: Use various scenarios to explain the relationship between climate, population distribution, and economic activities",
+            "Field trip: Guide pupils to visit the actual environment to relate climate, population distribution, and economic activities",
+            "Discussion: Guide pupils in groups to discuss the relationship between climate, population distribution, and economic activities"
+          ],
+          "assessment_criteria": "The relationship between climate, population distribution, and economic activities is explained accurately",
+          "suggested_resources": [
+            "Climate maps",
+            "climatic statistics",
+            "charts showing climatic information",
+            "video showing the relationship between climate, population distribution, and economic activities"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-25"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "jiografia_na_mazingira_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

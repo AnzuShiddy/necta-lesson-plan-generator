@@ -1,0 +1,1243 @@
+{
+  "subject": "Arabic",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727171454-MUHTASARI%20WA%20KIARABU%20FINAL%20III%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the understanding of phonemes, pronunciation of Arabic letters, and their writing",
+          "learning_activity": "a) Listening to and pronouncing Arabic sounds",
+          "suggested_methods": [
+            "Audio-lingual method: Guide pupils to listen to the sounds of the Arabic language",
+            "Group work: Guide pupils to understand the sounds of the Arabic language."
+          ],
+          "assessment_criteria": "Arabic sounds have been listened to and pronounced correctly",
+          "suggested_resources": [
+            "Audio recorders with content or topics for listening and speaking skills"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-3-1"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the understanding of phonemes, pronunciation of Arabic letters, and their writing",
+          "learning_activity": "b) Reading and writing Arabic consonants",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to discuss various sounds of the Arabic language and differentiate them in pronunciation.",
+            "Recitation: Guide pupils to read Arabic consonants.",
+            "Transcription: Guide pupils to write Arabic consonants."
+          ],
+          "assessment_criteria": "Arabic consonants have been read and written correctly",
+          "suggested_resources": [
+            "Various texts based on reading and writing content"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "arab-3-2"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the understanding of phonemes, pronunciation of Arabic letters, and their writing",
+          "learning_activity": "c) Listening to and pronouncing Arabic vowels",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to identify the vowels of the Arabic language.",
+            "Group discussion: Guide pupils to discuss the vowels of the Arabic language.",
+            "Recitation: Guide pupils to pronounce Arabic vowels."
+          ],
+          "assessment_criteria": "Arabic vowels have been listened to and pronounced correctly",
+          "suggested_resources": [
+            "Audio recorders with content or topics for listening and speaking skills"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "arab-3-3"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the understanding of phonemes, pronunciation of Arabic letters, and their writing",
+          "learning_activity": "d) Reading and writing Arabic vowels",
+          "suggested_methods": [
+            "Gallery walk: Guide pupils to recognize various shapes of Arabic vowels.",
+            "Group discussion: Guide pupils to discuss various shapes of Arabic vowels.",
+            "Demonstration: Guide pupils to write Arabic vowels"
+          ],
+          "assessment_criteria": "Arabic vowels have been read and written correctly",
+          "suggested_resources": [
+            "Various texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "arab-3-4"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the understanding of phonemes, pronunciation of Arabic letters, and their writing",
+          "learning_activity": "e) Reading and writing various Arabic syllables",
+          "suggested_methods": [
+            "Syllable/word cards: Guide pupils to read syllables from prepared cards"
+          ],
+          "assessment_criteria": "Arabic syllables have been read and written correctly",
+          "suggested_resources": [
+            "Various publications with names and words of various objects"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-5"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "a) Relating words to various objects found in the classroom and school environment",
+          "suggested_methods": [
+            "Brainstorming: Guide pupils to identify names of classroom objects",
+            "Gallery walk: Guide pupils to identify names of objects found in the school environment"
+          ],
+          "assessment_criteria": "Names of classroom objects have been identified correctly",
+          "suggested_resources": [
+            "Various publications with names and words of various objects"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "arab-3-6"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "b) Relating words to various actions taking place in the classroom and school environment",
+          "suggested_methods": [
+            "Gallery walk: Guide pupils to identify actions taking place in the classroom environment",
+            "Role-play: Guide pupils to identify various actions taking place in the school environment."
+          ],
+          "assessment_criteria": "Various actions taking place in the classroom have been identified correctly",
+          "suggested_resources": [
+            "Various publications with words and actions"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "arab-3-7"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "c) Reading words that relate objects and actions taking place in the classroom and school environment",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to read words relating objects and actions taking place in the classroom environment.",
+            "Role-play: Guide pupils to participate in a role-play of reading words relating objects and actions taking place in the school environment."
+          ],
+          "assessment_criteria": "Words relating objects and actions taking place in the classroom have been read correctly",
+          "suggested_resources": [
+            "Various texts with reading content"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "arab-3-8"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "d) Writing words that relate objects and actions taking place in the classroom and school environment",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to write words relating objects and actions taking place in the classroom environment.",
+            "Demonstration: Guide pupils to write words relating objects and actions taking place in the school environment"
+          ],
+          "assessment_criteria": "Words relating objects and actions taking place in the classroom have been written correctly",
+          "suggested_resources": [
+            "Various texts with writing content"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "arab-3-9"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.3 Master basic grammar and vocabulary",
+          "learning_activity": "a) Introducing oneself using simple sentences",
+          "suggested_methods": [
+            "Dialogue: Guide pupils to introduce themselves"
+          ],
+          "assessment_criteria": "Pupils have introduced themselves correctly",
+          "suggested_resources": [
+            "Audio recorders with speaking topics or content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-10"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.3 Master basic grammar and vocabulary",
+          "learning_activity": "b) Reading and writing words used in self-introduction",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to read and write words used in self-introduction"
+          ],
+          "assessment_criteria": "Words used in self-introduction have been read and written correctly",
+          "suggested_resources": [
+            "Various publications with content for reading and writing words"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "arab-3-11"
+        },
+        {
+          "main_competence": "1.0 Master the basic skills of the Arabic language",
+          "specific_competence": "1.3 Master basic grammar and vocabulary",
+          "learning_activity": "c) Identifying different tenses",
+          "suggested_methods": [
+            "Role-play demonstration: Guide pupils to identify different types of tenses."
+          ],
+          "assessment_criteria": "Various types of tenses have been identified correctly",
+          "suggested_resources": [
+            "Publications and various texts with content for reading tense"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-12"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.1 Listen to and understand information",
+          "learning_activity": "a) Listening to and responding to greetings, invitations, farewells, and expressions of gratitude",
+          "suggested_methods": [
+            "Dialogue: Guide pupils to recognize various words used in greetings, invitations, farewells, and gratitude",
+            "Group work: Guide pupils to identify various ways of responding to greetings, invitations, farewells, and gratitude.",
+            "Dialogue: Guide pupils to respond correctly to greetings, invitations, farewells, and gratitude"
+          ],
+          "assessment_criteria": "Conversations regarding greetings, invitations, farewells, and gratitude have been conducted correctly",
+          "suggested_resources": [
+            "Audio recorders with listening topics or content"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "arab-3-13"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.1 Listen to and understand information",
+          "learning_activity": "b) Listening to and responding to simple instructions given at school",
+          "suggested_methods": [
+            "Dialogue: Guide pupils to recognize simple instructions given at school",
+            "Group work: Guide pupils to use various types of simple instructions given at school"
+          ],
+          "assessment_criteria": "Simple instructions given at school have been carried out correctly",
+          "suggested_resources": [
+            "Audio recorders with listening topics or content"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "arab-3-14"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.2 Demonstrate an appropriate response in a familiar communicative context",
+          "learning_activity": "a) Listening to and following simple commands or instructions given in the school environment",
+          "suggested_methods": [
+            "Short drama: Guide pupils to identify commands and instructions given at school."
+          ],
+          "assessment_criteria": "Simple commands and instructions given in the school environment have been followed correctly",
+          "suggested_resources": [
+            "Audio recorders with listening topics or content"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "arab-3-15"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.2 Demonstrate an appropriate response in a familiar communicative context",
+          "learning_activity": "b) Listening to and showing appropriate emotions based on short, simple information",
+          "suggested_methods": [
+            "Role-play: Guide pupils to show appropriate emotions based on the short information they listened to"
+          ],
+          "assessment_criteria": "Appropriate emotions resulting from listening to short, simple information have been shown correctly",
+          "suggested_resources": [
+            "Audio recorders with listening topics or content"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "arab-3-16"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.1 Demonstrate understanding of basic features of spoken and written language",
+          "learning_activity": "a) Using appropriate intonation when communicating",
+          "suggested_methods": [
+            "Dialogue: Guide pupils to use and differentiate various types of intonation"
+          ],
+          "assessment_criteria": "Appropriate intonation has been used when communicating",
+          "suggested_resources": [
+            "Various texts with content for presentation through speech and writing"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-3-17"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.1 Demonstrate understanding of basic features of spoken and written language",
+          "learning_activity": "b) Using punctuation marks correctly (question marks and full stops)",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to recognize and use question marks and full stops"
+          ],
+          "assessment_criteria": "Question marks and full stops have been used correctly",
+          "suggested_resources": [
+            "Various texts with content for presentation through speech and writing"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "arab-3-18"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.1 Demonstrate understanding of basic features of spoken and written language",
+          "learning_activity": "c) Using punctuation marks correctly (exclamation marks and commas)",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to recognize and use exclamation marks and commas"
+          ],
+          "assessment_criteria": "Exclamation marks and commas have been used correctly",
+          "suggested_resources": [
+            "Various texts with content for presentation through speech and writing"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "arab-3-19"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master phoneme comprehension, Arabic letter pronunciation, and writing",
+          "learning_activity": "(a) Listening to and pronouncing words with short vowels",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to pronounce words with short vowels"
+          ],
+          "assessment_criteria": "Words with short vowels were pronounced correctly",
+          "suggested_resources": [
+            "Audio recorders specialised in listening skills"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-20"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master phoneme comprehension, Arabic letter pronunciation, and writing",
+          "learning_activity": "(b) Listening to and pronouncing words with long vowels",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to pronounce words with long vowels"
+          ],
+          "assessment_criteria": "Words with long vowels were pronounced correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-21"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master phoneme comprehension, Arabic letter pronunciation, and writing",
+          "learning_activity": "(c) Reading and writing words with short vowels",
+          "suggested_methods": [
+            "Text reading",
+            "Guide the pupils to read words with short vowels",
+            "Demonstration",
+            "Guide the pupils to write words with short vowels"
+          ],
+          "assessment_criteria": "Words with short vowels were read correctly. Words with short vowels were written correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-22"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master phoneme comprehension, Arabic letter pronunciation, and writing",
+          "learning_activity": "(d) Reading and writing words with long vowels",
+          "suggested_methods": [
+            "Text reading",
+            "Guide the pupils to read words with long vowels",
+            "What is in the bag game",
+            "Guide the pupils to write words with long vowels"
+          ],
+          "assessment_criteria": "Words with long vowels were read correctly. Words with long vowels were written correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-23"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Correlate words with objects in the environment",
+          "learning_activity": "(a) Correlating words with objects found in the home environment",
+          "suggested_methods": [
+            "Gallery walk",
+            "Guide the pupils to identify the names of objects found in the home environment"
+          ],
+          "assessment_criteria": "Names of various objects found in the home environment were identified correctly",
+          "suggested_resources": [
+            "Various publications featuring different words, objects, and actions"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-4-24"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Correlate words with objects in the environment",
+          "learning_activity": "(b) Correlating words with actions that take place in the home environment",
+          "suggested_methods": [
+            "Gallery walk",
+            "Guide the pupils to specify various actions that take place in the home environment"
+          ],
+          "assessment_criteria": "Various actions taking place in the home environment were specified correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-25"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Correlate words with objects in the environment",
+          "learning_activity": "(c) Reading words related to objects and actions that occur in the home environment",
+          "suggested_methods": [
+            "Pictures and descriptions",
+            "Guide the pupils to read words relating objects and actions that take place in the home environment"
+          ],
+          "assessment_criteria": "Words correlating objects and actions taking place in the home environment were read correctly",
+          "suggested_resources": [
+            "Various texts with content relating objects and actions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-26"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Correlate words with objects in the environment",
+          "learning_activity": "(d) Writing words related to objects and actions that occur in the home environment",
+          "suggested_methods": [
+            "Picture",
+            "Guide the pupils to write words correlating objects and actions that take place in the home environment"
+          ],
+          "assessment_criteria": "Words correlating objects and actions taking place in the home environment were written correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-27"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master simple grammar and vocabulary",
+          "learning_activity": "(a) Introducing relatives and friends using simple sentences",
+          "suggested_methods": [
+            "Case study",
+            "Guide the pupils to introduce family members and friends"
+          ],
+          "assessment_criteria": "Family members and friends were introduced correctly",
+          "suggested_resources": [
+            "Various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-28"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master simple grammar and vocabulary",
+          "learning_activity": "(b) Reading and writing words used in introducing relatives and friends",
+          "suggested_methods": [
+            "Picture",
+            "Guide the pupils to read and write words used to introduce family members and friends"
+          ],
+          "assessment_criteria": "Family members and friends were introduced correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-29"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master simple grammar and vocabulary",
+          "learning_activity": "(c) Expressing events happening at different times and periods using simple grammar and vocabulary",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to explain events happening at different times using simple grammar and vocabulary"
+          ],
+          "assessment_criteria": "Events happening at different times were explained correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-30"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.1 Listen to and understand information presented orally",
+          "learning_activity": "(a) Listening to and understanding news or a message",
+          "suggested_methods": [
+            "Questions and answers",
+            "Guide the pupils to understand the provided information"
+          ],
+          "assessment_criteria": "The provided information was understood correctly",
+          "suggested_resources": [
+            "Audio recorders and various texts with listening themes or content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-4-31"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.1 Listen to and understand information presented orally",
+          "learning_activity": "(b) Listening to and understanding various requests",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to understand the provided instructions"
+          ],
+          "assessment_criteria": "The provided instructions were understood correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-32"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.1 Listen to and understand information presented orally",
+          "learning_activity": "(c) Listening to directions and responding using simple vocabulary",
+          "suggested_methods": [
+            "Dialogue",
+            "Guide the pupils to listen to and respond to oral directions"
+          ],
+          "assessment_criteria": "Oral directions provided were responded to correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-33"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.2 Read and understand the meaning of simple texts",
+          "learning_activity": "(a) Reading simple news and responding to simple announcements",
+          "suggested_methods": [
+            "Demonstration",
+            "Guide the pupils to read simple information",
+            "Questions and answers",
+            "Guide the pupils to respond to simple announcements"
+          ],
+          "assessment_criteria": "Simple text was read correctly. Simple announcements were responded to correctly",
+          "suggested_resources": [
+            "Publications and various texts with reading content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-34"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.2 Read and understand the meaning of simple texts",
+          "learning_activity": "(b) Reading and answering questions based on simple texts (about people, objects, places, and animals)",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to read simple texts",
+            "Role play",
+            "Guide the pupils to answer questions based on the simple text they read"
+          ],
+          "assessment_criteria": "Questions arising from the read text were answered correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-35"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.3 Demonstrate appropriate response in a familiar communicative context",
+          "learning_activity": "(a) Listening to and following simple commands or instructions given in the home environment",
+          "suggested_methods": [
+            "Dialogue",
+            "Guide the pupils to follow simple commands and instructions given in the home environment"
+          ],
+          "assessment_criteria": "Simple commands and instructions given in the home environment were listened to and followed correctly",
+          "suggested_resources": [
+            "Publications and various texts with listening and speaking content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-36"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.3 Demonstrate appropriate response in a familiar communicative context",
+          "learning_activity": "(b) Conducting conversations and exchanging ideas on home matters",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to role-play conversations taking place in the home environment"
+          ],
+          "assessment_criteria": "Conversations exchanging ideas in the home context took place correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-37"
+        },
+        {
+          "main_competence": "2.0 Demonstrate understanding of information in conversation and writing",
+          "specific_competence": "2.3 Demonstrate appropriate response in a familiar communicative context",
+          "learning_activity": "(c) Using correct and appropriate language according to context and time",
+          "suggested_methods": [
+            "Role play",
+            "Guide the pupils to use correct language according to context and time"
+          ],
+          "assessment_criteria": "Language use according to context and time took place correctly",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-38"
+        },
+        {
+          "main_competence": "3.0 Effective communication in various contexts",
+          "specific_competence": "3.1 Demonstrate understanding of basic features of conversational and written language",
+          "learning_activity": "(a) Expressing simple feelings",
+          "suggested_methods": [
+            "Case study",
+            "Guide the pupils to express different feelings in various contexts",
+            "Narrative",
+            "Tell the pupils stories containing different human feelings"
+          ],
+          "assessment_criteria": "Different feelings in various contexts were expressed correctly",
+          "suggested_resources": [
+            "Publications and various audio recorders with speaking content"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "arab-4-39"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the comprehension of Arabic phonemes, pronunciation, and writing",
+          "learning_activity": "(a) Listening to and pronouncing words with stress (shaddah)",
+          "suggested_methods": [
+            "Demonstration",
+            "Guide pupils to listen to and identify shaddah",
+            "Demonstration",
+            "Guide pupils to pronounce words with shaddah along with their different vowels"
+          ],
+          "assessment_criteria": "Words with shaddah are pronounced correctly",
+          "suggested_resources": [
+            "Various audio recorders with listening and pronunciation content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-5-40"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the comprehension of Arabic phonemes, pronunciation, and writing",
+          "learning_activity": "(b) Reading and writing words with stress (shaddah)",
+          "suggested_methods": [
+            "Text reading",
+            "Guide pupils to read words with shaddah"
+          ],
+          "assessment_criteria": "Words with shaddah are read correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-41"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the comprehension of Arabic phonemes, pronunciation, and writing",
+          "learning_activity": "(c) Identifying various shapes of Arabic letters in words",
+          "suggested_methods": [
+            "Word card game",
+            "Guide pupils to identify various shapes of Arabic letters in words"
+          ],
+          "assessment_criteria": "Various shapes of Arabic letters in words are identified correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-42"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.1 Master the comprehension of Arabic phonemes, pronunciation, and writing",
+          "learning_activity": "(d) Writing various shapes of Arabic letters in words",
+          "suggested_methods": [
+            "Demonstration",
+            "Guide pupils to write various shapes of Arabic letters in words"
+          ],
+          "assessment_criteria": "Various shapes of Arabic letters in words are written correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-43"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(a) Relating words to various objects found in a market environment",
+          "suggested_methods": [
+            "Group discussions:",
+            "Guide pupils to name words and relate them to objects found in a market environment."
+          ],
+          "assessment_criteria": "Words are named and related to objects found in a market environment correctly.",
+          "suggested_resources": [
+            "Various texts and publications"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-5-44"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(b) Relating words to various actions taking place in a market environment",
+          "suggested_methods": [
+            "Role play",
+            "Guide pupils to participate in a role play of naming words and relating them to actions taking place in a market environment"
+          ],
+          "assessment_criteria": "Words are named and related to actions taking place in a market environment correctly",
+          "suggested_resources": [
+            "Various texts and publications"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-45"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(c) Reading words that relate objects and actions taking place in a market environment",
+          "suggested_methods": [
+            "Role play",
+            "Guide pupils to participate in a role play of naming words and relating them to actions taking place in a market environment"
+          ],
+          "assessment_criteria": "Names of objects and actions taking place in a market environment are read correctly",
+          "suggested_resources": [
+            "Various publications with reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-46"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.2 Relate words to objects in the environment",
+          "learning_activity": "(d) Writing words that relate objects and actions taking place in a market environment",
+          "suggested_methods": [
+            "Pictures and word cards",
+            "Guide pupils to participate in a role play of writing the names of objects and actions taking place in a market environment"
+          ],
+          "assessment_criteria": "Names of objects and actions taking place in a market environment are written correctly",
+          "suggested_resources": [
+            "Various texts and publications with writing topics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-47"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master grammar and simple vocabulary",
+          "learning_activity": "(a) Stating where one comes from using simple sentences",
+          "suggested_methods": [
+            "Role play",
+            "Guide pupils to state where they come from"
+          ],
+          "assessment_criteria": "Pupils have stated where they come from correctly",
+          "suggested_resources": [
+            "Maps and various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-5-48"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master grammar and simple vocabulary",
+          "learning_activity": "(b) Describing the boundaries of a place using the four cardinal points of the world",
+          "suggested_methods": [
+            "Questions and answers",
+            "Guide pupils to describe the boundaries of a place using the four cardinal points of the world"
+          ],
+          "assessment_criteria": "Using the four cardinal points of the world, the boundaries of a place are described correctly",
+          "suggested_resources": [
+            "Maps and various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-49"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master grammar and simple vocabulary",
+          "learning_activity": "(c) Describing various tenses using simple grammar and vocabulary",
+          "suggested_methods": [
+            "Group discussions:",
+            "Guide pupils to describe various tenses"
+          ],
+          "assessment_criteria": "Various tenses are described correctly",
+          "suggested_resources": [
+            "Maps and various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-50"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master grammar and simple vocabulary",
+          "learning_activity": "(d) Describing daily activities using simple vocabulary and grammar",
+          "suggested_methods": [
+            "Narratives",
+            "Guide pupils to describe daily activities"
+          ],
+          "assessment_criteria": "Daily activities are described correctly",
+          "suggested_resources": [
+            "Maps and various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-51"
+        },
+        {
+          "main_competence": "1.0 Master basic skills of the Arabic language",
+          "specific_competence": "1.3 Master grammar and simple vocabulary",
+          "learning_activity": "(e) Describing future events using simple vocabulary and grammar",
+          "suggested_methods": [
+            "Composition",
+            "Guide pupils to describe future events"
+          ],
+          "assessment_criteria": "Future events are described correctly",
+          "suggested_resources": [
+            "Maps and various texts with speaking content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-52"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.1 Listen to and understand information",
+          "learning_activity": "(a) Listening to a short text and summarizing it orally",
+          "suggested_methods": [
+            "Group discussions:",
+            "Guide pupils to discuss techniques for summarizing a text"
+          ],
+          "assessment_criteria": "A short text is listened to and summarized orally correctly",
+          "suggested_resources": [
+            "Various texts with listening content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-5-53"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.1 Listen to and understand information",
+          "learning_activity": "(b) Listening to a short simple text and identifying the meaning of new words used",
+          "suggested_methods": [
+            "Narratives:",
+            "Guide pupils to discuss the meaning of new words in the text they listened to"
+          ],
+          "assessment_criteria": "The meanings of new words in the text they listened to are identified correctly",
+          "suggested_resources": [
+            "Various texts with listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-54"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.1 Listen to and understand information",
+          "learning_activity": "(c) Listening to simple instructions and executing them",
+          "suggested_methods": [
+            "Questions and answers:",
+            "Guide pupils to identify given instructions and execute them"
+          ],
+          "assessment_criteria": "Given instructions are identified and executed correctly",
+          "suggested_resources": [
+            "Various texts with listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-55"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "(a) Reading a short simple text and identifying the meaning of new words used",
+          "suggested_methods": [
+            "Group discussions",
+            "Guide pupils to read a short text and identify the meaning of new words"
+          ],
+          "assessment_criteria": "New words used in the read text are listed on a chalkboard correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-5-56"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "(b) Reading and identifying the intended message in a simple text",
+          "suggested_methods": [
+            "Group discussions",
+            "Guide pupils to read the text well and identify the meaning of new words",
+            "Chalkboard",
+            "Guide pupils to list new words used in the read text"
+          ],
+          "assessment_criteria": "New words used in the read text are listed on a chalkboard correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-57"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.2 Read and understand simple texts",
+          "learning_activity": "Discussion",
+          "suggested_methods": [
+            "Guide pupils to identify the message in the text they read"
+          ],
+          "assessment_criteria": "The intended message in the simple text is identified correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-58"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.3 Demonstrate an appropriate response in a familiar communicative context",
+          "learning_activity": "(a) Listening to and following instructions or directions given in a market environment",
+          "suggested_methods": [
+            "Dialogue",
+            "Guide pupils to follow instructions and directions in a market environment"
+          ],
+          "assessment_criteria": "Instructions and directions given in a market environment are followed correctly",
+          "suggested_resources": [
+            "Various publications and texts with listening content"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "arab-5-59"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.3 Demonstrate an appropriate response in a familiar communicative context",
+          "learning_activity": "(b) Listening to short information and describing the main ideas contained therein",
+          "suggested_methods": [
+            "Text reading",
+            "Guide pupils to describe the main ideas contained in the information they listened to"
+          ],
+          "assessment_criteria": "The main ideas contained in the listened information are described correctly",
+          "suggested_resources": [
+            "Various publications and texts with listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-60"
+        },
+        {
+          "main_competence": "2.0 Demonstrate comprehension of information in speech and writing",
+          "specific_competence": "2.3 Demonstrate an appropriate response in a familiar communicative context",
+          "learning_activity": "(c) Reading a simple text and showing the correct emotions resulting from the contained message",
+          "suggested_methods": [
+            "Group discussions:",
+            "Guide pupils to express their feelings about the message they read."
+          ],
+          "assessment_criteria": "The correct emotions resulting from the message contained in the read text are shown correctly",
+          "suggested_resources": [
+            "Various publications and texts with reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-61"
+        },
+        {
+          "main_competence": "3.0 Communicate effectively in various contexts",
+          "specific_competence": "3.1 Demonstrate understanding of the basic features of spoken and written language",
+          "learning_activity": "(a) Participating in simple conversations about clothing and food",
+          "suggested_methods": [
+            "Role play:",
+            "Guide pupils to hold conversations about clothing and food.",
+            "Dialogue",
+            "Guide pupils to perform a dialogue on various foods and clothing available in shops",
+            "Brainstorming",
+            "Ask pupils what items they like to buy in clothing and food when they go to shops with their parents"
+          ],
+          "assessment_criteria": "Simple conversations about clothing and food are conducted correctly",
+          "suggested_resources": [
+            "Various texts with conversation content"
+          ],
+          "periods_for_specific_competence": 4,
+          "id": "arab-5-62"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "Master the basic skills of the Arabic language",
+          "specific_competence": "Master phoneme awareness, pronunciation of Arabic letters and their writing",
+          "learning_activity": "Guide pupils to listen to and pronounce simple sentences",
+          "suggested_methods": [
+            "Ding-Dong game",
+            "Guide pupils to listen to and pronounce simple sentences"
+          ],
+          "assessment_criteria": "Simple sentences are pronounced correctly",
+          "suggested_resources": [
+            "Audio recorders with listening topics or content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-63"
+        },
+        {
+          "main_competence": "Master the basic skills of the Arabic language",
+          "specific_competence": "Master phoneme awareness, pronunciation of Arabic letters and their writing",
+          "learning_activity": "Guide pupils to read simple sentences",
+          "suggested_methods": [
+            "Ding-Dong game: Guide pupils to read simple sentences"
+          ],
+          "assessment_criteria": "Simple sentences are read correctly",
+          "suggested_resources": [
+            "Audio recorders with reading topics or content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-64"
+        },
+        {
+          "main_competence": "Master the basic skills of the Arabic language",
+          "specific_competence": "Master phoneme awareness, pronunciation of Arabic letters and their writing",
+          "learning_activity": "Transcription: Guide pupils to transcribe simple sentences",
+          "suggested_methods": [
+            "Transcription: Guide pupils to transcribe simple sentences"
+          ],
+          "assessment_criteria": "Simple sentences are written correctly",
+          "suggested_resources": [
+            "Audio recorders with reading topics or content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-65"
+        },
+        {
+          "main_competence": "Master the basic skills of the Arabic language",
+          "specific_competence": "Master phoneme awareness, pronunciation of Arabic letters and their writing",
+          "learning_activity": "Demonstration: Guide pupils to construct simple sentences",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to construct simple sentences"
+          ],
+          "assessment_criteria": "Simple sentences are constructed correctly",
+          "suggested_resources": [
+            "Various texts and publications with composition content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-66"
+        },
+        {
+          "main_competence": "Relate words to objects in the environment",
+          "specific_competence": "Relate words to various objects found in a hospital environment",
+          "learning_activity": "Role play: Guide pupils to name various objects found in a hospital environment",
+          "suggested_methods": [
+            "Role play: Guide pupils to name various objects found in a hospital environment"
+          ],
+          "assessment_criteria": "Names of various objects found in a hospital environment are named correctly",
+          "suggested_resources": [
+            "Various publications and texts linking objects, words and actions"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "arab-6-67"
+        },
+        {
+          "main_competence": "Relate words to objects in the environment",
+          "specific_competence": "Relate words to various actions taking place in a hospital environment",
+          "learning_activity": "Dialogue: Guide pupils to name various actions taking place in a hospital environment",
+          "suggested_methods": [
+            "Dialogue: Guide pupils to name various actions taking place in a hospital environment"
+          ],
+          "assessment_criteria": "Various actions taking place in a hospital environment are named correctly",
+          "suggested_resources": [
+            "Various publications and texts linking objects, words and actions"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-68"
+        },
+        {
+          "main_competence": "Relate words to objects in the environment",
+          "specific_competence": "Read words relating objects and actions taking place in a hospital environment",
+          "learning_activity": "Demonstration: Guide pupils to read the names of objects and actions taking place in a hospital environment",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to read the names of objects and actions taking place in a hospital environment"
+          ],
+          "assessment_criteria": "Names of objects and actions taking place in a hospital environment are read correctly",
+          "suggested_resources": [
+            "Various texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-69"
+        },
+        {
+          "main_competence": "Relate words to objects in the environment",
+          "specific_competence": "Write words relating objects and actions taking place in a hospital environment",
+          "learning_activity": "Role play: Guide pupils to write the names of objects and actions taking place in a hospital environment",
+          "suggested_methods": [
+            "Role play: Guide pupils to write the names of objects and actions taking place in a hospital environment"
+          ],
+          "assessment_criteria": "Names of objects and actions taking place in a hospital environment are written correctly",
+          "suggested_resources": [
+            "Various texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-70"
+        },
+        {
+          "main_competence": "Master grammar and simple vocabulary",
+          "specific_competence": "Read and write the names of various natural attractions found in Tanzania (mountains, rivers, lakes and national parks)",
+          "learning_activity": "Demonstration: Guide pupils to read and write the names of various natural attractions found in Tanzania",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to read and write the names of various natural attractions found in Tanzania"
+          ],
+          "assessment_criteria": "Names of various natural attractions found in Tanzania are read and written correctly",
+          "suggested_resources": [
+            "Various texts with reading and writing content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-6-71"
+        },
+        {
+          "main_competence": "Master grammar and simple vocabulary",
+          "specific_competence": "Describe the borders of Tanzania",
+          "learning_activity": "Demonstration: Guide pupils to describe the borders of Tanzania",
+          "suggested_methods": [
+            "Demonstration: Guide pupils to describe the borders of Tanzania"
+          ],
+          "assessment_criteria": "The borders of Tanzania are described correctly",
+          "suggested_resources": [
+            "Maps and various publications"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-72"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to and understand information",
+          "learning_activity": "Think - pair - share: Guide pupils to listen to a short text and identify new words",
+          "suggested_methods": [
+            "Think - pair - share: Guide pupils to listen to a short text and identify new words",
+            "Group discussion: Guide pupils to give the meaning of new words"
+          ],
+          "assessment_criteria": "Correct sentences are constructed using words contained in the text they listened to",
+          "suggested_resources": [
+            "Various texts based on listening content"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-6-73"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to and understand information",
+          "learning_activity": "Give one take one: Guide pupils to construct sentences using new words",
+          "suggested_methods": [
+            "Give one take one: Guide pupils to construct sentences using new words"
+          ],
+          "assessment_criteria": "Main ideas contained in the text they listened to are identified correctly",
+          "suggested_resources": [
+            "Various texts based on listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-74"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to and understand information",
+          "learning_activity": "Group discussion: Guide pupils to identify main ideas in the text they listened to",
+          "suggested_methods": [
+            "Group discussion: Guide pupils to identify main ideas in the text they listened to"
+          ],
+          "assessment_criteria": "A short simple text is summarized in writing correctly",
+          "suggested_resources": [
+            "Various texts based on listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-75"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to and understand information",
+          "learning_activity": "Narration: Guide pupils to summarize the text they listened to",
+          "suggested_methods": [
+            "Narration: Guide pupils to summarize the text they listened to"
+          ],
+          "assessment_criteria": "A short simple text is summarized in writing correctly",
+          "suggested_resources": [
+            "Various texts based on listening content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-76"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Read and understand simple texts",
+          "learning_activity": "Study circle: Guide pupils to read a short text and identify new words",
+          "suggested_methods": [
+            "Study circle: Guide pupils to read a short text and identify new words",
+            "Group discussion: Guide pupils to give the meaning of new words"
+          ],
+          "assessment_criteria": "The meanings of new words contained in the text are identified correctly",
+          "suggested_resources": [
+            "Various texts based on reading content"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-77"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Read and understand simple texts",
+          "learning_activity": "Group work: Guide pupils to summarize the text they read",
+          "suggested_methods": [
+            "Group work: Guide pupils to summarize the text they read"
+          ],
+          "assessment_criteria": "The simple text is read and summarized correctly",
+          "suggested_resources": [
+            "Various texts based on reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-78"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Read and understand simple texts",
+          "learning_activity": "Text reading: Guide pupils to identify main ideas in the text they read",
+          "suggested_methods": [
+            "Text reading: Guide pupils to identify main ideas in the text they read"
+          ],
+          "assessment_criteria": "Main ideas contained in the read text are written correctly",
+          "suggested_resources": [
+            "Various texts based on reading content"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-79"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to correct instructions or directions given in a hospital environment",
+          "learning_activity": "Role play: Guide pupils to listen to and understand instructions and directions given in a hospital",
+          "suggested_methods": [
+            "Role play: Guide pupils to listen to and understand instructions and directions given in a hospital"
+          ],
+          "assessment_criteria": "Simple instructions and directions given in a hospital environment are listened to correctly",
+          "suggested_resources": [
+            "Various texts based on listening content or topics"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-80"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to correct instructions or directions given in a hospital environment",
+          "learning_activity": "Group work: Guide pupils to explain points or main ideas contained in the information they listened to",
+          "suggested_methods": [
+            "Group work: Guide pupils to explain points or main ideas contained in the information they listened to"
+          ],
+          "assessment_criteria": "Points or main ideas contained in the listened information are explained correctly",
+          "suggested_resources": [
+            "Various texts based on listening content or topics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-81"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to correct instructions or directions given in a hospital environment",
+          "learning_activity": "Self-reflection: Guide pupils to give oral and written directions in a hospital context",
+          "suggested_methods": [
+            "Self-reflection: Guide pupils to give oral and written directions in a hospital context"
+          ],
+          "assessment_criteria": "Vocabulary is used correctly in giving or receiving oral directions in a hospital context",
+          "suggested_resources": [
+            "Various texts based on listening content or topics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-82"
+        },
+        {
+          "main_competence": "Demonstrate understanding of information in speech and writing",
+          "specific_competence": "Listen to correct instructions or directions given in a hospital environment",
+          "learning_activity": "Drama: Guide pupils to receive oral and written directions in a hospital context",
+          "suggested_methods": [
+            "Drama: Guide pupils to receive oral and written directions in a hospital context"
+          ],
+          "assessment_criteria": "Vocabulary is used correctly in giving or receiving written directions in a hospital context",
+          "suggested_resources": [
+            "Various texts based on listening content or topics"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-83"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "arabic_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

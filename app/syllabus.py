@@ -11,8 +11,8 @@ import re
 from functools import lru_cache
 from pathlib import Path
 
-from .calendars import (ADVANCED, LEVEL_LABELS, LEVEL_ORDER, NURSERY, ORDINARY,
-                        PRIMARY, forms_for, level_of)
+from .calendars import (ADVANCED, ENGLISH, KISWAHILI, LEVEL_LABELS, LEVEL_ORDER,
+                        NURSERY, ORDINARY, PRIMARY, forms_for, level_of, takes_medium)
 
 SYLLABUS_DIR = Path(__file__).resolve().parent.parent / "data" / "syllabus"
 
@@ -34,11 +34,22 @@ def _slug(subject: str, level: str = ORDINARY) -> str:
     return slug + LEVEL_SUFFIX.get(level, "")
 
 
+# TIE publishes the pre-primary and primary syllabuses in Kiswahili. An
+# English-medium school teaches that same curriculum in English, so each of
+# those documents has an English rendering stored beside it as
+# `<slug>.en.json` — written once by scripts/translate_syllabus.py, never at
+# request time, so the scheme of work stays deterministic and free to build.
+# The Kiswahili file remains the verbatim source and is not touched.
+TRANSLATION_SUFFIX = ".en.json"
+
+
 @lru_cache(maxsize=1)
 def _load_all() -> dict[tuple[str, str], dict]:
     """Every syllabus document, keyed by (subject, level)."""
     catalog: dict[tuple[str, str], dict] = {}
     for path in sorted(SYLLABUS_DIR.glob("*.json")):
+        if path.name.endswith(TRANSLATION_SUFFIX):
+            continue
         data = json.loads(path.read_text(encoding="utf-8"))
         forms = list(data.get("forms", {}))
         level = level_of(forms[0]) if forms else ORDINARY
@@ -46,8 +57,31 @@ def _load_all() -> dict[tuple[str, str], dict]:
     return catalog
 
 
-def _document(subject: str, form: str) -> dict | None:
-    return _load_all().get((subject, level_of(form)))
+@lru_cache(maxsize=1)
+def _load_translations() -> dict[tuple[str, str], dict]:
+    """English renderings, keyed the same way as the source documents."""
+    out: dict[tuple[str, str], dict] = {}
+    for path in sorted(SYLLABUS_DIR.glob(f"*{TRANSLATION_SUFFIX}")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        forms = list(data.get("forms", {}))
+        level = level_of(forms[0]) if forms else ORDINARY
+        out[(data["subject"], level)] = data
+    return out
+
+
+def has_translation(subject: str, form: str) -> bool:
+    return (subject, level_of(form)) in _load_translations()
+
+
+def _document(subject: str, form: str, medium: str = KISWAHILI) -> dict | None:
+    """The syllabus document for a subject, in the requested medium.
+
+    Falls back to the published Kiswahili when no translation exists — a plan
+    or scheme built on the real syllabus beats one built on nothing."""
+    key = (subject, level_of(form))
+    if medium == ENGLISH and key in _load_translations():
+        return _load_translations()[key]
+    return _load_all().get(key)
 
 
 @lru_cache(maxsize=1)
@@ -110,15 +144,16 @@ def list_forms(subject: str, level: str = ORDINARY) -> list[str]:
     return list(data["forms"].keys()) if data else []
 
 
-def list_activities(subject: str, form: str) -> list[dict]:
-    data = _document(subject, form)
+def list_activities(subject: str, form: str, medium: str = KISWAHILI) -> list[dict]:
+    data = _document(subject, form, medium)
     if not data or form not in data["forms"]:
         return []
     return data["forms"][form]["activities"]
 
 
-def get_activity(subject: str, form: str, activity_id: str) -> dict | None:
-    for act in list_activities(subject, form):
+def get_activity(subject: str, form: str, activity_id: str,
+                 medium: str = KISWAHILI) -> dict | None:
+    for act in list_activities(subject, form, medium):
         if act["id"] == activity_id:
             return act
     return None

@@ -1,0 +1,108 @@
+{
+  "subject": "Afya na Mazingira",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.1 Maintaining personal health and the surrounding community",
+          "learning_activity": "(a) Cleaning his or her body",
+          "suggested_methods": [],
+          "assessment_criteria": "Body has been cleaned",
+          "suggested_resources": [
+            "Real objects",
+            "picture charts",
+            "and videos showing simple games, real body and clothing cleaning tools, picture charts regarding body and clothing hygiene, videos regarding health care"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "grad-1-65"
+        },
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.1 Maintaining personal health and the surrounding community",
+          "learning_activity": "(b) Caring for his or her clothes",
+          "suggested_methods": [],
+          "assessment_criteria": "Clothes have been cared for",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-66"
+        },
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.2 Protecting oneself from hazardous environments",
+          "learning_activity": "(a) Avoiding hazardous environments and objects",
+          "suggested_methods": [],
+          "assessment_criteria": "Hazardous environments and objects have been avoided",
+          "suggested_resources": [
+            "Safety sign chart",
+            "pictures of animals",
+            "hazardous events and areas",
+            "hazardous environments and road safety signs recorded and in the environment"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "grad-1-67"
+        },
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.2 Protecting oneself from hazardous environments",
+          "learning_activity": "(b) Identifying road safety signs and signs in his or her environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Road safety signs and signs in his or her environment have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-68"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.1 Exploring things found in the environment",
+          "learning_activity": "Conducting simple exploration of living and non-living things in the surrounding environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Simple exploration of living and non-living things has been conducted",
+          "suggested_resources": [
+            "Pictures",
+            "real objects and videos related to exploring existing things"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "grad-2-115"
+        },
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.2 Protecting oneself from hazardous environments",
+          "learning_activity": "Observing road safety signs and signs in one's environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Road safety signs and signs in one's environment have been observed",
+          "suggested_resources": [
+            "Pictures",
+            "real objects and recorded hazardous environments"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "grad-2-116"
+        },
+        {
+          "main_competence": "6.0 Maintaining health and the environment",
+          "specific_competence": "6.3 Having a positive attitude towards the environment",
+          "learning_activity": "Participating in environment-related activities at school",
+          "suggested_methods": [],
+          "assessment_criteria": "Has participated in environment-related activities at school",
+          "suggested_resources": [
+            "Cards and picture charts",
+            "real objects and recorded texts related to the environment"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "grad-2-117"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "afya_na_mazingira_primary.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}

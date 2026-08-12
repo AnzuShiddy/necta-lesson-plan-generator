@@ -1,0 +1,160 @@
+{
+  "subject": "Naipenda Nchi Yangu Tanzania",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.1 Appreciating national symbols and values",
+          "learning_activity": "Identifying national symbols",
+          "suggested_methods": [],
+          "assessment_criteria": "National symbols have been identified",
+          "suggested_resources": [
+            "National flag",
+            "picture of a giraffe",
+            "picture books showing union matters",
+            "picture chart showing national leaders",
+            "real Tanzanian currency",
+            "films showing union matters"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "awal-awali-14"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.1 Appreciating national symbols and values",
+          "learning_activity": "Identifying national values (patriotism, accountability and the national language)",
+          "suggested_methods": [],
+          "assessment_criteria": "National values have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-15"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.1 Appreciating national symbols and values",
+          "learning_activity": "Explaining the Union of Tanganyika and Zanzibar",
+          "suggested_methods": [],
+          "assessment_criteria": "The Union of Tanganyika and Zanzibar has been explained",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-16"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.1 Appreciating national symbols and values",
+          "learning_activity": "Naming national leaders",
+          "suggested_methods": [],
+          "assessment_criteria": "Names of national leaders have been named",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-17"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.2 Appreciating Tanzanian foods",
+          "learning_activity": "Identifying foods found in one's community",
+          "suggested_methods": [],
+          "assessment_criteria": "Foods found in one's community have been identified",
+          "suggested_resources": [
+            "Pictures/charts of various foods",
+            "real foods",
+            "Videos showing various Tanzanian foods"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "awal-awali-18"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.2 Appreciating Tanzanian foods",
+          "learning_activity": "Identifying foods found in other communities",
+          "suggested_methods": [],
+          "assessment_criteria": "Foods found in other communities have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 18,
+          "id": "awal-awali-19"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.3 Appreciating Tanzanian attire",
+          "learning_activity": "Identifying Tanzanian attire worn in one's environment",
+          "suggested_methods": [],
+          "assessment_criteria": "Tanzanian attire worn in one's environment has been identified",
+          "suggested_resources": [
+            "Real attire",
+            "cards with pictures of attire",
+            "films showing various attire and foods"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-20"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.3 Appreciating Tanzanian attire",
+          "learning_activity": "Demonstrating various attire worn in one's community",
+          "suggested_methods": [],
+          "assessment_criteria": "Various attire worn in one's community has been demonstrated",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-21"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.4 Demonstrating acts of faith according to one's belief",
+          "learning_activity": "Identifying one's faith",
+          "suggested_methods": [],
+          "assessment_criteria": "One's faith has been identified",
+          "suggested_resources": [
+            "Various types of attire according to faith",
+            "real clothes",
+            "pictures of places of worship as well as pictures showing events of faith"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "awal-awali-22"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.4 Demonstrating acts of faith according to one's belief",
+          "learning_activity": "Identifying acts of faith",
+          "suggested_methods": [],
+          "assessment_criteria": "Acts of faith have been identified",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 19,
+          "id": "awal-awali-23"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.5 Respecting other people's faiths",
+          "learning_activity": "Identifying other people's faiths",
+          "suggested_methods": [],
+          "assessment_criteria": "Other people's faiths have been identified",
+          "suggested_resources": [
+            "Pictures of religious leaders in their attire",
+            "various types of attire according to faith",
+            "real clothes",
+            "pictures of places of worship as well as pictures showing events of faith"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-24"
+        },
+        {
+          "main_competence": "2.0 Appreciating the culture of one's community, faith education and national values",
+          "specific_competence": "2.5 Respecting other people's faiths",
+          "learning_activity": "Participating in social activities together",
+          "suggested_methods": [],
+          "assessment_criteria": "Has participated in social activities together",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-25"
+        }
+      ]
+    }
+  },
+  "language": "en",
+  "translation_of": "naipenda_nchi_yangu_tanzania_nursery.json",
+  "translation_note": "English rendering of the Kiswahili TIE syllabus, for English-medium schools. Not TIE's own wording — see translation_of for the verbatim source."
+}
