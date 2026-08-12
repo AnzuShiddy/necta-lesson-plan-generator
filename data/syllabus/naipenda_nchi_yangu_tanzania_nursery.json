@@ -1,0 +1,157 @@
+{
+  "subject": "Naipenda Nchi Yangu Tanzania",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.1 Kuthamini alama na tunu za taifa",
+          "learning_activity": "Kubaini alama za taifa",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za taifa zimebainishwa",
+          "suggested_resources": [
+            "Bendera ya taifa",
+            "picha ya twiga",
+            "vitabu vya picha zinazoonesha masuala ya muungano",
+            "chati ya picha inayoonesha viongozi wa kitaifa",
+            "fedha halisi za kitanzania",
+            "filamu zinazoonesha masuala ya muungano"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "awal-awali-14"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.1 Kuthamini alama na tunu za taifa",
+          "learning_activity": "Kubaini tunu za taifa (uzalendo, uwajibikaji na lugha ya taifa)",
+          "suggested_methods": [],
+          "assessment_criteria": "Tunu za taifa zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-15"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.1 Kuthamini alama na tunu za taifa",
+          "learning_activity": "Kuelezea Muungano wa Tanganyika na Zanzibar",
+          "suggested_methods": [],
+          "assessment_criteria": "Muungano wa Tanganyika na Zanzibar umeelezewa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-16"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.1 Kuthamini alama na tunu za taifa",
+          "learning_activity": "Kutaja majina ya viongozi wa kitaifa",
+          "suggested_methods": [],
+          "assessment_criteria": "Majina ya viongozi wa kitaifa yametajwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-17"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.2 Kuthamini vyakula vya Kitanzania",
+          "learning_activity": "Kubaini vyakula vinavyopatikana katika jamii yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyakula vinavyopatikana katika jamii yake vimebainishwa",
+          "suggested_resources": [
+            "Picha/chati za vyakula mbalimbali",
+            "vyakula halisi",
+            "Video zinazoonesha vyakula mbalimbali vya kitanzania"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "awal-awali-18"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.2 Kuthamini vyakula vya Kitanzania",
+          "learning_activity": "Kubaini vyakula vinavyopatikana katika jamii nyingine",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyakula vinavyopatikana katika jamii nyingine vimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 18,
+          "id": "awal-awali-19"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.3 Kuthamini mavazi ya Kitanzania",
+          "learning_activity": "Kubainisha mavazi ya Kitanzania yanayovaliwa katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Mavazi ya Kitanzania yanayovaliwa katika mazingira yake yamebainishwa",
+          "suggested_resources": [
+            "Mavazi halisi",
+            "kadi zenye picha za mavazi",
+            "filamu zinazoonesha mavazi na vyakula mbalimbali"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-20"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.3 Kuthamini mavazi ya Kitanzania",
+          "learning_activity": "Kuonesha mavazi mbalimbali yanayovaliwa katika jamii yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Mavazi mbalimbali yanayovaliwa katika jamii yake yameoneshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-21"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.4 Kuonesha matendo ya kiimani kulingana na imani yake",
+          "learning_activity": "Kubaini imani yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Imani yake imebainishwa",
+          "suggested_resources": [
+            "Mavazi ya aina mbalimbali kulingana na Imani",
+            "nguo halisi",
+            "picha za majengo ya kuabudia pamoja na picha zinazoonesha matukio ya kiimani"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "awal-awali-22"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.4 Kuonesha matendo ya kiimani kulingana na imani yake",
+          "learning_activity": "Kubaini matendo ya kiimani",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo ya kiimani yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 19,
+          "id": "awal-awali-23"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.5 Kuheshimu imani za watu wengine",
+          "learning_activity": "Kubainisha imani za watu wengine",
+          "suggested_methods": [],
+          "assessment_criteria": "Imani za watu wengine zimebainishwa",
+          "suggested_resources": [
+            "Picha za viongozi wa dini wakiwa katika mavazi yao",
+            "mavazi ya aina mbalimbali kulingana na imani",
+            "nguo halisi",
+            "picha za majengo ya kuabudia pamoja na picha zinazoonesha matukio ya kiimani"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-24"
+        },
+        {
+          "main_competence": "2.0 Kuthamini utamaduni wa jamii yake, elimu ya imani na tunu za taifa",
+          "specific_competence": "2.5 Kuheshimu imani za watu wengine",
+          "learning_activity": "Kushirikishana katika shughuli za kijamii",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameshirikiana katika shughuli za kijamii",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-25"
+        }
+      ]
+    }
+  }
+}

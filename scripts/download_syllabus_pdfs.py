@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -29,9 +30,14 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; lesson-planner/1.0)"}
 TIMEOUT = 120
 
 
+SUFFIX = {"ordinary": "", "advanced": "_advanced",
+          "primary": "_primary", "nursery": "_nursery"}
+
+
 def slug(subject: str, level: str = "ordinary") -> str:
-    s = subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
-    return s + "_advanced" if level == "advanced" else s
+    s = re.sub(r"\bya\b", " ", subject.lower())
+    s = re.sub(r"_+", "_", re.sub(r"[^a-z0-9]+", "_", s)).strip("_")
+    return s + SUFFIX.get(level, "")
 
 
 def download(subject: str, url: str, force: bool, level: str) -> str:
@@ -61,11 +67,16 @@ def main() -> None:
     ap.add_argument("subjects", nargs="*", help="Subject names (default: --all)")
     ap.add_argument("--all", action="store_true", help="Download every listed subject")
     ap.add_argument("--force", action="store_true", help="Re-download existing files")
-    ap.add_argument("--level", default="ordinary", choices=["ordinary", "advanced"],
-                    help="ordinary = Form I-IV (default), advanced = Form V-VI")
+    ap.add_argument("--level", default="ordinary",
+                    choices=["nursery", "primary", "ordinary", "advanced"],
+                    help="nursery = Awali, primary = Grade 1-6, "
+                         "ordinary = Form I-IV (default), advanced = Form V-VI")
     args = ap.parse_args()
 
-    catalog = SOURCES["levels"][args.level]["subjects"]
+    level = SOURCES["levels"][args.level]
+    # Pre-primary and Grade 1-2 come as one document holding every subject of
+    # the band; it is downloaded under the band's key, not a subject name.
+    catalog = {**level["subjects"], **level.get("combined", {})}
     wanted = list(catalog) if (args.all or not args.subjects) else args.subjects
 
     unknown = [s for s in wanted if s not in catalog]

@@ -7,10 +7,12 @@ already implies the level, so callers keep passing a form and never a level.
 """
 
 import json
+import re
 from functools import lru_cache
 from pathlib import Path
 
-from .calendars import ADVANCED, ORDINARY, level_of
+from .calendars import (ADVANCED, LEVEL_LABELS, LEVEL_ORDER, NURSERY, ORDINARY,
+                        PRIMARY, level_of)
 
 SYLLABUS_DIR = Path(__file__).resolve().parent.parent / "data" / "syllabus"
 
@@ -18,14 +20,18 @@ SYLLABUS_DIR = Path(__file__).resolve().parent.parent / "data" / "syllabus"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PDF_DIR = DATA_DIR / "pdfs"
 
-# Filenames and PDFs for the Form V-VI syllabus of a subject taught at both
-# levels carry this suffix, so the two documents never collide.
-ADVANCED_SUFFIX = "_advanced"
+# A subject taught at several levels (English, Kiswahili, Mathematics ...) has a
+# separate TIE document per level. Every level but ordinary suffixes its files so
+# the documents never collide; ordinary keeps the bare slug it was first written
+# with.
+LEVEL_SUFFIX = {ORDINARY: "", ADVANCED: "_advanced",
+                PRIMARY: "_primary", NURSERY: "_nursery"}
 
 
 def _slug(subject: str, level: str = ORDINARY) -> str:
-    slug = subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
-    return slug + ADVANCED_SUFFIX if level == ADVANCED else slug
+    slug = re.sub(r"\bya\b", " ", subject.lower())
+    slug = re.sub(r"_+", "_", re.sub(r"[^a-z0-9]+", "_", slug)).strip("_")
+    return slug + LEVEL_SUFFIX.get(level, "")
 
 
 @lru_cache(maxsize=1)
@@ -48,22 +54,19 @@ def _document(subject: str, form: str) -> dict | None:
 def _registry() -> dict[str, list[str]]:
     """Advertised subjects per level, from data/registry.json."""
     reg = DATA_DIR / "registry.json"
-    levels: dict[str, list[str]] = {ORDINARY: [], ADVANCED: []}
+    levels: dict[str, list[str]] = {key: [] for key in LEVEL_ORDER}
     if reg.exists():
         data = json.loads(reg.read_text(encoding="utf-8"))
-        for key in (ORDINARY, ADVANCED):
+        for key in LEVEL_ORDER:
             levels[key] = list(data.get("levels", {}).get(key, {}).get("subjects", []))
     for subject, level in _load_all():
-        if subject not in levels[level]:
+        if subject not in levels.setdefault(level, []):
             levels[level].append(subject)
     return levels
 
 
 def list_levels() -> list[dict]:
-    return [
-        {"key": ORDINARY, "label": "Ordinary level (Form I-IV)"},
-        {"key": ADVANCED, "label": "Advanced level (Form V-VI)"},
-    ]
+    return [{"key": key, "label": LEVEL_LABELS[key]} for key in LEVEL_ORDER]
 
 
 def subject_status(subject: str, level: str = ORDINARY) -> str:

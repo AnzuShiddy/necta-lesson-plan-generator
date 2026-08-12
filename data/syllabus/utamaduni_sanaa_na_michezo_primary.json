@@ -1,0 +1,237 @@
+{
+  "subject": "Utamaduni, Sanaa na Michezo",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.1  Kuthamini utamaduni wake na wa watu wengine",
+          "learning_activity": "(a)  Kubaini vyakula vya Kitanzania",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyakula vya Kitanzania vimebainishwa",
+          "suggested_resources": [
+            "Sanaa na michezo iliyorekodiwa",
+            "vitu halisi",
+            "vifani mbalimbali",
+            "chati za picha zinazoonesha vyakula",
+            "mavazi",
+            "ngoma za Kitanzania zilizorekodiwa",
+            "ngoma na filimbi"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "grad-1-54"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.1  Kuthamini utamaduni wake na wa watu wengine",
+          "learning_activity": "(b)  Kubaini mavazi ya Kitanzania",
+          "suggested_methods": [],
+          "assessment_criteria": "Mavazi ya Kitanzania yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-55"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.1  Kuthamini utamaduni wake na wa watu wengine",
+          "learning_activity": "(c)  Kucheza ngoma na kuimba nyimbo za asili",
+          "suggested_methods": [],
+          "assessment_criteria": "Ngoma na nyimbo za asili zimechezwa na kuimbwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-56"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.21  *** Kuheshimu tofauti za kiimani",
+          "learning_activity": "(a)  Kueleza imani za watu wanaomzunguka",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameelezea imani za watu wanaomzunguka",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 8,
+          "id": "grad-1-57"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.21  *** Kuheshimu tofauti za kiimani",
+          "learning_activity": "(b)  Kushirikiana katika shughuli za kijamii",
+          "suggested_methods": [],
+          "assessment_criteria": "Shughuli za kijamii zimefanyika kwa kushirikiana",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-58"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.3  Kuonesha matendo yenye kimaadili",
+          "learning_activity": "(a)  Kutenda matendo yenye kimaadili",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo ya kimaadili yametendwa",
+          "suggested_resources": [
+            "Matendo yenye maadili yaliyorekodiwa",
+            "kadi za picha zinazoonesha kuthamini watu wengine na chati za sheria mbalimbali mfano sheria za shule"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "grad-1-59"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.3  Kuonesha matendo yenye kimaadili",
+          "learning_activity": "(b)  Kutenda matendo yanayoonesha kuthamini watu wengine",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo yanayoonesha kuthamini watu wengine yametendwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-60"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.4  Kubuni kazi za sanaa",
+          "learning_activity": "(a)  Kusuka, kufinyanga, kuchora, kupiga chapa, kutunga vitu na kupaka rangi",
+          "suggested_methods": [],
+          "assessment_criteria": "Amesuka, amefinyanga, amechora, amepiga chapa, ametunga vitu na amepaka rangi",
+          "suggested_resources": [
+            "Kazi za sanaa zilizorekodiwa",
+            "vitu halisi na chati za picha zinazoonesha watu wakisuka",
+            "kufinyanga",
+            "kutunga vitu",
+            "kupaka rangi",
+            "kuimba nyimbo na mashairi yaliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "grad-1-61"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.4  Kubuni kazi za sanaa",
+          "learning_activity": "(b)  Kuimba nyimbo na mashairi",
+          "suggested_methods": [],
+          "assessment_criteria": "Nyimbo na mashairi zimeimbwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-62"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.4  Kubuni kazi za sanaa",
+          "learning_activity": "(c)  Kucheza ngoma na muziki",
+          "suggested_methods": [],
+          "assessment_criteria": "Ngoma na muziki imechezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-63"
+        },
+        {
+          "main_competence": "5.0  Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.5  Kushiriki katika michezo mbalimbali",
+          "learning_activity": "Kufanya mazoezi sahili ya viungo (wepesi, msawazo na uratibu wa mwili)",
+          "suggested_methods": [],
+          "assessment_criteria": "Mazoezi sahili ya viungo yamefanyika",
+          "suggested_resources": [
+            "Vitu halisi",
+            "chati za picha",
+            "na michezo sahili iliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "grad-1-64"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.1 Kuthamini utamaduni wake na wa watu wengine",
+          "learning_activity": "(a) Kubaini makazi ya asili ya Kitanzania",
+          "suggested_methods": [],
+          "assessment_criteria": "Makazi ya asili ya Kitanzania yamebainishwa",
+          "suggested_resources": [
+            "Kadi na chati za picha na video zinazohusu utamaduni",
+            "sanaa na michezo"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "grad-2-107"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.1 Kuthamini utamaduni wake na wa watu wengine",
+          "learning_activity": "(b) Kubaini shughuli mbalimbali za jamii za Kitanzania",
+          "suggested_methods": [],
+          "assessment_criteria": "Shughuli mbalimbali za jamii za Kitanzania zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "grad-2-108"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.2 Kuheshimu tofauti za kiimani",
+          "learning_activity": "(a) Kuhusianisha imani na maadili mema",
+          "suggested_methods": [],
+          "assessment_criteria": "Amehusianisha imani na maadili mema",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "grad-2-109"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.2 Kuheshimu tofauti za kiimani",
+          "learning_activity": "(b) Kujali matendo ya imani za watu wengine",
+          "suggested_methods": [],
+          "assessment_criteria": "Amejali matendo ya imani za watu wengine",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 10,
+          "id": "grad-2-110"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.3 Kubuni kazi za sanaa",
+          "learning_activity": "(a) Kushiriki katika sanaa za utendaji wa mikono (kufuma, kufinyanga, kuchonga, kushona, kutia nakshi)",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameshiriki katika sanaa za utendaji wa mikono (kufuma, kufinyanga, kuchonga, kushona, kutia nakshi",
+          "suggested_resources": [
+            "Kadi",
+            "chati za picha na kazi za sanaa zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "grad-2-111"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.3 Kubuni kazi za sanaa",
+          "learning_activity": "(b) Kushiriki katika sanaa za ubunifu wa sauti (ngonjera, majigambo, vichekesho)",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameshiriki kufanya sanaa za ubunifu wa sauti (ngonjera, majigambo, vichekesho)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 22,
+          "id": "grad-2-112"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.3 Kubuni kazi za sanaa",
+          "learning_activity": "(c) Kufanya sanaa zinazohusisha utendaji wa mwili (kuigiza, mijongeo ya mwili)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sanaa zinazohusisha utendaji wa mwili (kuigiza, mijongeo ya mwili) zimefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 22,
+          "id": "grad-2-113"
+        },
+        {
+          "main_competence": "5.0 Kuthamini utamaduni, sanaa na michezo",
+          "specific_competence": "5.4 Kushiriki katika michezo mbalimbali",
+          "learning_activity": "Kucheza michezo sahili",
+          "suggested_methods": [],
+          "assessment_criteria": "Michezo sahili imechezwa",
+          "suggested_resources": [
+            "Vitu halisi na michezo sahili iliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "grad-2-114"
+        }
+      ]
+    }
+  }
+}

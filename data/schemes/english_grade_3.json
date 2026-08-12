@@ -1,0 +1,1446 @@
+{
+  "subject": "English",
+  "form": "Grade 3",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 7,
+  "total_periods": 244,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(a) Write dictated words",
+      "activity_id": "engl-3-1",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Dictation: Guide the pupils through writing words (use only words that the pupil has already learned to spell)"
+      ],
+      "assessment": "Dictated words are written correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(a) Write dictated words",
+      "activity_id": "engl-3-1",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Dictation: Guide the pupils through writing words (use only words that the pupil has already learned to spell)"
+      ],
+      "assessment": "Dictated words are written correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(a) Write dictated words",
+      "activity_id": "engl-3-1",
+      "periods": 1,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Dictation: Guide the pupils through writing words (use only words that the pupil has already learned to spell)"
+      ],
+      "assessment": "Dictated words are written correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(b) Listen and respond to questions based on simple stories from familiar contexts (home, school)",
+      "activity_id": "engl-3-2",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Prediction: Show the pupils a cover of a book to predict what the story is about",
+        "Storytelling: Tell the pupils a story using facial expressions, voices and gestures to support understanding"
+      ],
+      "assessment": "Questions on simple stories in a familiar environment are responded to correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(b) Listen and respond to questions based on simple stories from familiar contexts (home, school)",
+      "activity_id": "engl-3-2",
+      "periods": 7,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Prediction: Show the pupils a cover of a book to predict what the story is about",
+        "Storytelling: Tell the pupils a story using facial expressions, voices and gestures to support understanding"
+      ],
+      "assessment": "Questions on simple stories in a familiar environment are responded to correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop listening and speaking skills",
+      "learning_activity": "(b) Listen and respond to questions based on simple stories from familiar contexts (home, school)",
+      "activity_id": "engl-3-2",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Prediction: Show the pupils a cover of a book to predict what the story is about",
+        "Storytelling: Tell the pupils a story using facial expressions, voices and gestures to support understanding"
+      ],
+      "assessment": "Questions on simple stories in a familiar environment are responded to correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials for listening and speaking"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(a) Read aloud simple short stories",
+      "activity_id": "engl-3-3",
+      "periods": 5,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Discussion: Give the pupils a list of words and guide them through pronouncing familiar words",
+        "Songs: Guide the pupils through singing songs with targeted words"
+      ],
+      "assessment": "Simple and short texts are read aloud fluently",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(a) Read aloud simple short stories",
+      "activity_id": "engl-3-3",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Discussion: Give the pupils a list of words and guide them through pronouncing familiar words",
+        "Songs: Guide the pupils through singing songs with targeted words"
+      ],
+      "assessment": "Simple and short texts are read aloud fluently",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(a) Read aloud simple short stories",
+      "activity_id": "engl-3-3",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Discussion: Give the pupils a list of words and guide them through pronouncing familiar words",
+        "Songs: Guide the pupils through singing songs with targeted words"
+      ],
+      "assessment": "Simple and short texts are read aloud fluently",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(a) Read aloud simple short stories",
+      "activity_id": "engl-3-3",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Discussion: Give the pupils a list of words and guide them through pronouncing familiar words",
+        "Songs: Guide the pupils through singing songs with targeted words"
+      ],
+      "assessment": "Simple and short texts are read aloud fluently",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(a) Read aloud simple short stories",
+      "activity_id": "engl-3-3",
+      "periods": 6,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Discussion: Give the pupils a list of words and guide them through pronouncing familiar words",
+        "Songs: Guide the pupils through singing songs with targeted words"
+      ],
+      "assessment": "Simple and short texts are read aloud fluently",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 1,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 7,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Develop phonemic awareness and pronunciation of English letters",
+      "learning_activity": "(b) Read short, simple texts for comprehension",
+      "activity_id": "engl-3-4",
+      "periods": 3,
+      "activity_total_periods": 32,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate by reading a text and asking comprehension questions",
+        "Scanning: Guide the pupils through picking and combining specific words from a text to generate the general idea"
+      ],
+      "assessment": "Short texts are read for comprehension",
+      "resources": [
+        "Manila paper, cards, texts and audio/ audiovisual materials with phonemes"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(a) Use personal pronouns",
+      "activity_id": "engl-3-5",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Matching: Use pictures to guide the pupils through pronouncing the words him, her, it, them, you, etc",
+        "Songs: Guide the pupils through singing songs with pronouns and ask them some questions about the pronouns"
+      ],
+      "assessment": "Personal pronouns are used correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(a) Use personal pronouns",
+      "activity_id": "engl-3-5",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Matching: Use pictures to guide the pupils through pronouncing the words him, her, it, them, you, etc",
+        "Songs: Guide the pupils through singing songs with pronouns and ask them some questions about the pronouns"
+      ],
+      "assessment": "Personal pronouns are used correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(b) Express possession using the verbs have and has",
+      "activity_id": "engl-3-6",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Describing: Guide the pupils through expressing possessions using have and has",
+        "Draw and Describe: Ask the pupils to draw pictures and describe them using have and has"
+      ],
+      "assessment": "Possessions are well expressed using the verbs have and has",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(b) Express possession using the verbs have and has",
+      "activity_id": "engl-3-6",
+      "periods": 7,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Describing: Guide the pupils through expressing possessions using have and has",
+        "Draw and Describe: Ask the pupils to draw pictures and describe them using have and has"
+      ],
+      "assessment": "Possessions are well expressed using the verbs have and has",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(b) Express possession using the verbs have and has",
+      "activity_id": "engl-3-6",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Describing: Guide the pupils through expressing possessions using have and has",
+        "Draw and Describe: Ask the pupils to draw pictures and describe them using have and has"
+      ],
+      "assessment": "Possessions are well expressed using the verbs have and has",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(c) Express routines and ongoing activities in school and home contexts (target: simple present tense, present continuous tense)",
+      "activity_id": "engl-3-7",
+      "periods": 5,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate the use and structure of simple present tense, and present continuous tense",
+        "Chart: Use a chart with columns for the simple present and present continuous process to show the pupils how - s, -es and ies are added to the verb",
+        "Pictures: Show the pupils a series of pictures with sentences underneath narrating what is happening in the images"
+      ],
+      "assessment": "Routines and ongoing activities in school and home contexts are expressed correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(c) Express routines and ongoing activities in school and home contexts (target: simple present tense, present continuous tense)",
+      "activity_id": "engl-3-7",
+      "periods": 4,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Demonstration: Demonstrate the use and structure of simple present tense, and present continuous tense",
+        "Chart: Use a chart with columns for the simple present and present continuous process to show the pupils how - s, -es and ies are added to the verb",
+        "Pictures: Show the pupils a series of pictures with sentences underneath narrating what is happening in the images"
+      ],
+      "assessment": "Routines and ongoing activities in school and home contexts are expressed correctly",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(d) Use conjunctions in oral and written contexts (target: and, but)",
+      "activity_id": "engl-3-8",
+      "periods": 3,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Songs: Play recorded songs about conjunctions and ask the pupils to identify the conjunctions",
+        "Explanation: Compose pairs of simple sentences for pupils to see how and and but are used"
+      ],
+      "assessment": "Conjunctions are used in oral and written contexts",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w18-3",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.3 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(d) Use conjunctions in oral and written contexts (target: and, but)",
+      "activity_id": "engl-3-8",
+      "periods": 6,
+      "activity_total_periods": 9,
+      "teaching_learning_activities": [
+        "Songs: Play recorded songs about conjunctions and ask the pupils to identify the conjunctions",
+        "Explanation: Compose pairs of simple sentences for pupils to see how and and but are used"
+      ],
+      "assessment": "Conjunctions are used in oral and written contexts",
+      "resources": [
+        "Texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(a) Read two-syllable and grade-appropriate words",
+      "activity_id": "engl-3-9",
+      "periods": 1,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Explain and demonstrate: Demonstrate and explain the structure of syllables",
+        "Syllable Match-Ups: Give the pupils cards with single syllables to match up and make new two-syllable words"
+      ],
+      "assessment": "Two syllables and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(a) Read two-syllable and grade-appropriate words",
+      "activity_id": "engl-3-9",
+      "periods": 7,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Explain and demonstrate: Demonstrate and explain the structure of syllables",
+        "Syllable Match-Ups: Give the pupils cards with single syllables to match up and make new two-syllable words"
+      ],
+      "assessment": "Two syllables and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(a) Read two-syllable and grade-appropriate words",
+      "activity_id": "engl-3-9",
+      "periods": 7,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Explain and demonstrate: Demonstrate and explain the structure of syllables",
+        "Syllable Match-Ups: Give the pupils cards with single syllables to match up and make new two-syllable words"
+      ],
+      "assessment": "Two syllables and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(a) Read two-syllable and grade-appropriate words",
+      "activity_id": "engl-3-9",
+      "periods": 4,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Explain and demonstrate: Demonstrate and explain the structure of syllables",
+        "Syllable Match-Ups: Give the pupils cards with single syllables to match up and make new two-syllable words"
+      ],
+      "assessment": "Two syllables and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4-2",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(b) Read multi-syllable and grade-appropriate words",
+      "activity_id": "engl-3-10",
+      "periods": 3,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Clapping Games: Guide the pupils through identifying syllables in spoken words by clapping for each syllable",
+        "Jumping syllables: Lead the pupils to separate words into syllables and create new words",
+        "Songs: Use fun songs such as The Wheels on the Bus, Old McDonald, The Itsy Bitsy Spider, Bingo, and Row Row Row Your Boat to learn to pronounce words into syllables",
+        "Using pictures: Guide the pupils through identifying and saying multi syllabic words from magazines or online sources"
+      ],
+      "assessment": "Multi-syllable and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(b) Read multi-syllable and grade-appropriate words",
+      "activity_id": "engl-3-10",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Clapping Games: Guide the pupils through identifying syllables in spoken words by clapping for each syllable",
+        "Jumping syllables: Lead the pupils to separate words into syllables and create new words",
+        "Songs: Use fun songs such as The Wheels on the Bus, Old McDonald, The Itsy Bitsy Spider, Bingo, and Row Row Row Your Boat to learn to pronounce words into syllables",
+        "Using pictures: Guide the pupils through identifying and saying multi syllabic words from magazines or online sources"
+      ],
+      "assessment": "Multi-syllable and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(b) Read multi-syllable and grade-appropriate words",
+      "activity_id": "engl-3-10",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Clapping Games: Guide the pupils through identifying syllables in spoken words by clapping for each syllable",
+        "Jumping syllables: Lead the pupils to separate words into syllables and create new words",
+        "Songs: Use fun songs such as The Wheels on the Bus, Old McDonald, The Itsy Bitsy Spider, Bingo, and Row Row Row Your Boat to learn to pronounce words into syllables",
+        "Using pictures: Guide the pupils through identifying and saying multi syllabic words from magazines or online sources"
+      ],
+      "assessment": "Multi-syllable and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(b) Read multi-syllable and grade-appropriate words",
+      "activity_id": "engl-3-10",
+      "periods": 4,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Clapping Games: Guide the pupils through identifying syllables in spoken words by clapping for each syllable",
+        "Jumping syllables: Lead the pupils to separate words into syllables and create new words",
+        "Songs: Use fun songs such as The Wheels on the Bus, Old McDonald, The Itsy Bitsy Spider, Bingo, and Row Row Row Your Boat to learn to pronounce words into syllables",
+        "Using pictures: Guide the pupils through identifying and saying multi syllabic words from magazines or online sources"
+      ],
+      "assessment": "Multi-syllable and grade-appropriate words are read correctly",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(c) Read aloud a variety of grade-level texts",
+      "activity_id": "engl-3-11",
+      "periods": 2,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Modelling: Read a text aloud then ask the pupils to read the texts after you have read",
+        "Question and Answer: Ask questions before, during and after reading a text"
+      ],
+      "assessment": "A variety of grade-level texts are read aloud",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(c) Read aloud a variety of grade-level texts",
+      "activity_id": "engl-3-11",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Modelling: Read a text aloud then ask the pupils to read the texts after you have read",
+        "Question and Answer: Ask questions before, during and after reading a text"
+      ],
+      "assessment": "A variety of grade-level texts are read aloud",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(c) Read aloud a variety of grade-level texts",
+      "activity_id": "engl-3-11",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Modelling: Read a text aloud then ask the pupils to read the texts after you have read",
+        "Question and Answer: Ask questions before, during and after reading a text"
+      ],
+      "assessment": "A variety of grade-level texts are read aloud",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Read a variety of simple texts appropriately",
+      "learning_activity": "(c) Read aloud a variety of grade-level texts",
+      "activity_id": "engl-3-11",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Modelling: Read a text aloud then ask the pupils to read the texts after you have read",
+        "Question and Answer: Ask questions before, during and after reading a text"
+      ],
+      "assessment": "A variety of grade-level texts are read aloud",
+      "resources": [
+        "Various reading texts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Identify words with short and long vowels (e.g., ship/sheep, full/fool, to/too)",
+      "activity_id": "engl-3-12",
+      "periods": 2,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Read and write: Guide the pupils through pronouncing and writing words with long vowels",
+        "Sort the words: Guide pupils through sorting the words based on how long vowel sounds are spelled"
+      ],
+      "assessment": "Words with short and long vowels are identified",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Identify words with short and long vowels (e.g., ship/sheep, full/fool, to/too)",
+      "activity_id": "engl-3-12",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Read and write: Guide the pupils through pronouncing and writing words with long vowels",
+        "Sort the words: Guide pupils through sorting the words based on how long vowel sounds are spelled"
+      ],
+      "assessment": "Words with short and long vowels are identified",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Identify words with short and long vowels (e.g., ship/sheep, full/fool, to/too)",
+      "activity_id": "engl-3-12",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Read and write: Guide the pupils through pronouncing and writing words with long vowels",
+        "Sort the words: Guide pupils through sorting the words based on how long vowel sounds are spelled"
+      ],
+      "assessment": "Words with short and long vowels are identified",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Identify words with short and long vowels (e.g., ship/sheep, full/fool, to/too)",
+      "activity_id": "engl-3-12",
+      "periods": 5,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Read and write: Guide the pupils through pronouncing and writing words with long vowels",
+        "Sort the words: Guide pupils through sorting the words based on how long vowel sounds are spelled"
+      ],
+      "assessment": "Words with short and long vowels are identified",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Pronounce words with long vowel sounds with speed and fluency",
+      "activity_id": "engl-3-13",
+      "periods": 1,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Discussion: Ask the pupils to discuss and circle the correct spelling of words with long vowel sounds"
+      ],
+      "assessment": "Words with long vowels are pronounced with speed and fluency",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Pronounce words with long vowel sounds with speed and fluency",
+      "activity_id": "engl-3-13",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Discussion: Ask the pupils to discuss and circle the correct spelling of words with long vowel sounds"
+      ],
+      "assessment": "Words with long vowels are pronounced with speed and fluency",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Pronounce words with long vowel sounds with speed and fluency",
+      "activity_id": "engl-3-13",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Discussion: Ask the pupils to discuss and circle the correct spelling of words with long vowel sounds"
+      ],
+      "assessment": "Words with long vowels are pronounced with speed and fluency",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Pronounce words with long vowel sounds with speed and fluency",
+      "activity_id": "engl-3-13",
+      "periods": 6,
+      "activity_total_periods": 19,
+      "teaching_learning_activities": [
+        "Discussion: Ask the pupils to discuss and circle the correct spelling of words with long vowel sounds"
+      ],
+      "assessment": "Words with long vowels are pronounced with speed and fluency",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Read short phrases and simple sentences with short and long vowels",
+      "activity_id": "engl-3-14",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Instructional routines: Guide the pupils through using “touch and say” to read phrases containing long vowels"
+      ],
+      "assessment": "Short phrases and simple sentences with short and long vowels are read correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Read short phrases and simple sentences with short and long vowels",
+      "activity_id": "engl-3-14",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Instructional routines: Guide the pupils through using “touch and say” to read phrases containing long vowels"
+      ],
+      "assessment": "Short phrases and simple sentences with short and long vowels are read correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Read short phrases and simple sentences with short and long vowels",
+      "activity_id": "engl-3-14",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Instructional routines: Guide the pupils through using “touch and say” to read phrases containing long vowels"
+      ],
+      "assessment": "Short phrases and simple sentences with short and long vowels are read correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "subject": "Sanaa na Michezo",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727176628-MUHTASARI%20WA%20SOMO%20LA%20SANAA%20NA%20MICHEZO%20ELIMU%20YA%20MSINGI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(a) Kuigiza sauti za viumbe vilivyo hai na visivyo hai",
+          "suggested_methods": [
+            "Fikiri-Andika-Jozisha-Shirikisha: Waongoze wanafunzi kuigiza sauti za viumbe vilivyo hai na visivyo hai kwa kufikiri, kuandika majina ya viumbe, kujozisha na kushirikisha",
+            "Ufaraguzi na Maonesho: Wapange wanafunzi katika makundi ya kujifunza uigizaji wa matukio mafupi mafupi ili kubaini stadi za kutumia mwili, sauti, ufikirifu katika mazingira yao",
+            "Ujifunzaji rika: Waongoze wanafunzi katika makundi kuandaa na kuwasilisha igizo"
+          ],
+          "assessment_criteria": "Stadi za uigizaji wa sauti za viumbe vilivyo hai na visivyo hai zimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Rekodi za sauti za viumbe hai na visivyo hai",
+            "barakoa",
+            "maleba na matini ya michezo ya kuigiza yanayohusu kuigiza sauti za viumbe hai na visivyo hai"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-1"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(b) Kuimba kwa sauti moja (unison singing) kwa kuzingatia mkao na upumuaji sahihi (proper posture and breathing)",
+          "suggested_methods": [
+            "Nyimbo za hadithi: Waongoze wanafunzi kuimba nyimbo zinazotokana na hadithi",
+            "Igizodhima: Waongoze wanafunzi kuonesha matendo yanayosaidia kudhibiti pumzi wakati wa uimbaji",
+            "Ujifunzaji rika: Waongoze wanafunzi kuimbiana nyimbo wazipendazo"
+          ],
+          "assessment_criteria": "Uimbaji wa sauti moja kwa kuzingatia mkao na upumuaji sahihi umefanyika kwa usahihi",
+          "suggested_resources": [
+            "Matini za nyimbo fupi zenye sauti moja",
+            "nyimbo zilizorekodiwa kwa uimbaji wa sauti moja",
+            "ala za muziki",
+            "vipaza sauti"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-2"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(c) Kutumia ala za muziki zinazotumika katika mazingira yake kusindikiza nyimbo fupi",
+          "suggested_methods": [
+            "Udadisi: Andaa mazingira ya wanafunzi kugusa na kufanya majaribio ya vyombo mbalimbali vya muziki wakiwa wenyewe",
+            "Oneshombinu: Waongoze wanafunzi kutumia ala za muziki zinazotumika katika mazingira yao kusindikiza nyimbo fupi"
+          ],
+          "assessment_criteria": "Ala za muziki zinazotumika kwenye mazingira yake zimetumika kwa usahihi kusindikiza nyimbo fupi",
+          "suggested_resources": [
+            "Matini za nyimbo fupi",
+            "nyimbo zilizorekodiwa kwa kutumia ala mbalimbali za muziki",
+            "ala za muziki zinazopatikana katika mazingira"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-3"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.2 Kuchora picha",
+          "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+          "suggested_methods": [
+            "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+            "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+          ],
+          "assessment_criteria": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+          "suggested_resources": [
+            "Picha za mfano zilizochorwa kwa penseli",
+            "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-4"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+          "learning_activity": "Kufinyanga maumbo sahili",
+          "suggested_methods": [
+            "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+            "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+          ],
+          "assessment_criteria": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+          "suggested_resources": [
+            "Udongo",
+            "vifaa vya kutayarishia udongo",
+            "vifaa vya kuhifadhia udongo",
+            "karatasi",
+            "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-5"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+          "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+          "suggested_methods": [
+            "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+            "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+          ],
+          "assessment_criteria": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-3-6"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.2 Kucheza michezo ya asili",
+          "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+          ],
+          "assessment_criteria": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+          "suggested_resources": [
+            "Mpira wa rede",
+            "kijiko",
+            "limao au yai na chupa"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "sana-3-7"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+          "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+          "learning_activity": "(a) Kufanya maonesho ya kazi za sanaa katika ngazi ya darasa",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika maonesho ya kazi za sanaa"
+          ],
+          "assessment_criteria": "Maonesho ya kazi za sanaa yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Video za maigizo ya majukwaani",
+            "nyimbo mbalimbali",
+            "vifaa vya sanaa"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-8"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+          "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+          "learning_activity": "(b) Kushiriki katika mashindano ya michezo katika ngazi ya darasa",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika mashindano ya michezo"
+          ],
+          "assessment_criteria": "Mashindano ya michezo yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya michezo"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-3-9"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(a) Kufanya mazoezi mbalimbali ya mwili kwa kuigiza viumbe hai na visivyo hai",
+          "suggested_methods": [
+            "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi mbalimbali ya mwili kwa kuigiza viumbe hai na visivyo hai",
+            "Igizodhima: Waongoze wanafunzi katika kufikiri na kujenga picha za aina mbalimbali za viumbe hai na visivyo hai katika mazingira yao, na kisha kuigiza sauti na matendo yao mbele ya wanafunzi wenzao"
+          ],
+          "assessment_criteria": "Mazoezi mbalimbali ya mwili kwa kuigiza viumbe hai na visivyo hai yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Barakoa",
+            "ngoma",
+            "maleba",
+            "mapambo na vifaa mbalimbali vya kuigizia"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-10"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(b) Kuimba kwa sauti moja na sauti mbili kwa kuzingatia matamshi (diction) na toni (tone)",
+          "suggested_methods": [
+            "Kufuatisha: Waongoze wanafunzi kufuatisha namna ya kuimba kwa kuzingatia matamshi na toni",
+            "Kutunga nyimbo: Waongoze wanafunzi kuimbiana nyimbo za kusibu",
+            "Hadithi: Wahusishe wanafunzi katika simulizi zinazotumia nyimbo mbalimbali kwa kuzingatia matamshi na toni",
+            "Igizodhima: Wahusishe wanafunzi katika kuimba nyimbo mbalimbali za uhusika wakizingatia matamshi na toni"
+          ],
+          "assessment_criteria": "Uimbaji kwa sauti moja na sauti mbili kwa kuzingatia matamshi (diction) na toni (tone) umefanyika kwa usahihi",
+          "suggested_resources": [
+            "Matini za nyimbo fupi zenye sauti mbili",
+            "nyimbo zilizorekodiwa na ala za muziki"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "sana-4-11"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(c) Kutumia ala za muziki zinazotumika katika mazingira yake kusindikiza wimbo wa shule",
+          "suggested_methods": [
+            "Udadisi: Andaa mazingira ya wanafunzi kupiga ala za muziki wazipendazo",
+            "Ujifunzaji rika: Watie moyo wanafunzi wajifunze wao kwa wao kupiga ala za muziki kwa kusindikiza wimbo wa shule"
+          ],
+          "assessment_criteria": "Ala za muziki zimetumika kwa usahihi kusindikiza wimbo wa shule",
+          "suggested_resources": [
+            "Matini ya wimbo wa shule na ala za muziki"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "sana-4-12"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.2 Kuchora picha",
+          "learning_activity": "Kuchora picha za vitu mbalimbali kwa kutumia penseli",
+          "suggested_methods": [
+            "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kuchora picha kwa kutumia penseli",
+            "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha kwa kutumia penseli"
+          ],
+          "assessment_criteria": "Picha zimechorwa kwa usahihi kwa kutumia penseli",
+          "suggested_resources": [
+            "Vifaa vya kuchorea",
+            "penseli za aina mbalimbali na matini mbalimbali zinazohusu uchoraji wa picha"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-13"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+          "learning_activity": "Kufinyanga mfano wa kitu halisi",
+          "suggested_methods": [
+            "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga mfano wa kitu halisi",
+            "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga mfano wa kitu halisi"
+          ],
+          "assessment_criteria": "Mfano wa vitu halisi vimefinyangwa kwa usahihi",
+          "suggested_resources": [
+            "Udongo",
+            "vifaa vya kutayarishia udongo",
+            "vifaa vya kuhifadhia udongo",
+            "karatasi",
+            "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-14"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+          "learning_activity": "Kufanya mazoezi ya kujenga mawasiliano ya viungo na unyumbufu (coordination and flexibility)",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kufanya mazoezi ya kujenga mawasiliano ya viungo na unyumbufu"
+          ],
+          "assessment_criteria": "Mazoezi ya kujenga mawasiliano ya viungo na unyumbufu yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya mazoezi (Balance pad, balance discs, balance boards na mkeka)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-15"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.2 Kucheza michezo ya asili",
+          "learning_activity": "Kukimbia kwenye gunia na kukimbiza kuku",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kukimbia kwenye gunia na kukimbiza kuku"
+          ],
+          "assessment_criteria": "Michezo ya kukimbia kwenye gunia na kukimbiza kuku imechezwa kwa usahihi",
+          "suggested_resources": [
+            "Gunia",
+            "kuku",
+            "filimbi",
+            "koni/alama"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-16"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.3 Kucheza michezo ya kisasa",
+          "learning_activity": "Kucheza sarakasi",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza sarakasi"
+          ],
+          "assessment_criteria": "Michezo ya sarakasi imechezwa kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya sarakasi (mkeka, godoro, spring floor na kapeti)"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-17"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+          "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+          "learning_activity": "(a) Kufanya maonesho ya sanaa katika ngazi ya shule",
+          "suggested_methods": [
+            "Maonesho: Waongoze wanafunzi kufanya maonesho ya kazi za sanaa shuleni"
+          ],
+          "assessment_criteria": "Maonesho ya kazi za sanaa yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Kazi mbalimbali za sanaa"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "sana-4-18"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+          "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+          "learning_activity": "(b) Kushiriki katika mashindano ya michezo katika ngazi ya shule",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika mashindano ya michezo shuleni"
+          ],
+          "assessment_criteria": "Mashindano ya michezo yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya michezo"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-4-19"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "Kuigiza kwa kutumia vitendo na sauti na vitendo bila sauti (mime)",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi katika vikundi kuigiza kwa kutumia vitendo na sauti",
+            "Uigizaji bubu (Mime and pantomime): Waongoze wanafunzi katika kuigiza vitendo vya viumbe hai na visivyo hai kutumia vitendo bila sauti (mime) kwa kusindikizwa na muziki"
+          ],
+          "assessment_criteria": "Tabia za viumbe hai na visivyo hai zimeigizwa kwa usahihi kwa kutumia vitendo na sauti na vitendo bila sauti",
+          "suggested_resources": [
+            "Barakoa",
+            "ngoma",
+            "maleba",
+            "mapambo ya mwilini na zana za kuigizia (props)"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "sana-5-20"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "Kuimba kwa kuzingatia mienendo ya muziki (dynamics) na uwiano wa sauti (voice balancing)",
+          "suggested_methods": [
+            "Kufuatisha: Waongoze wanafunzi kufuatisha namna ya kuimba kwa kuzingatia mienendo ya muziki na uwiano wa sauti",
+            "Uchunguzi: Wapatie wanafunzi fursa ya kuangalia video na kusikiliza audio za kwaya na vikundi mbalimbali vinavyoimba kwa kuzingatia mienendo na uwiano wa sauti",
+            "Kazimradi: Waongoze wanafunzi kuimba nyimbo kwa sauti angalau mbili",
+            "Hadithi: Wahusishe wanafunzi katika simulizi zinazotumia nyimbo mbalimbali kwa kuzingatia matamshi na toni",
+            "Igizodhima: Wahusishe wanafunzi katika kuimba nyimbo mbalimbali za uhusika wakizingatia matamshi na toni"
+          ],
+          "assessment_criteria": "Mienendo ya muziki (dynamics) na uwiano wa sauti (voice balancing) vimezingatiwa katika uimbaji",
+          "suggested_resources": [
+            "Chati ya wimbo wa sauti mbili",
+            "matini za nyimbo fupi",
+            "nyimbo zilizorekodiwa",
+            "nyimbo za kizalendo za Kitanzania na ala za muziki"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "sana-5-21"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "Kutumia ala za muziki kusindikiza uimbaji wa solfege (d r m f s l t d’)",
+          "suggested_methods": [
+            "Uchunguzi: Wapatie wanafunzi fursa ya kuangalia video na kusikiliza audio za vikundi mbalimbali vinavyopiga ala kwa ustadi katika kusindikiza uimbaji wa solfege",
+            "Ujifunzaji rika: Wachanganye wanafunzi wenye uwezo tofauti tofauti na wahamasishe kufundishana wao kwa wao kupiga ala za muziki",
+            "Kufuatisha: Waongoze wanafunzi katika kupiga ala za muziki kwa kufuata skeli za muziki"
+          ],
+          "assessment_criteria": "Ala za muziki zimetumika kwa usahihi kusindikiza uimbaji wa solfege (d r m f s l t d’)",
+          "suggested_resources": [
+            "Chati ya wimbo wa sauti mbili",
+            "matini za nyimbo fupi",
+            "nyimbo zilizorekodiwa",
+            "nyimbo za kizalendo za kitanzania",
+            "ala za muziki",
+            "projekta",
+            "kompyuta na chati za alama za solfege"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "sana-5-22"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.2 Kuchora picha",
+          "learning_activity": "Kuchora picha zinazoonesha hisia na hali kwa kutumia penseli",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubainisha vifaa na vitu vya kuchorea picha za vitu mbalimbali",
+            "Oneshombinu: Waongoze wanafunzi kuonesha njia sahihi ya matumizi ya vifaa katika kuchora picha za vitu mbalimbali",
+            "Oneshombinu: Ongoza wanafunzi katika uchaguzi na matumizi sahihi ya vifaa vya kuchorea picha mbalimbali",
+            "Maonesho: Ongoza wanafunzi kuandaa sehemu faafu kwa kutundikia kazi walizotengeneza kwa ajili ya majadiliano ya wanadarasa wote"
+          ],
+          "assessment_criteria": "Picha za aina mbalimbali zimebuniwa kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya kuchorea na matini mbalimbali zinazohusu mbinu za uchoraji"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-5-23"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+          "learning_activity": "Kufinyanga na kuweka nakshi kwenye maumbo mbalimbali",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi kujadili kuhusu sifa za udongo faafu, maandalizi ya udongo, vifaa na mbinu zitumikazo katika ufinyangaji",
+            "Oneshombinu: Ongoza wanafunzi kwa kuonesha njia sahihi ya kufinyanga na kutia nakshi maumbo mbalimbali",
+            "Maonesho: Ongoza wanafunzi kupanga kazi za sanaa kwa ajili ya majadiliano na kujifunza zaidi"
+          ],
+          "assessment_criteria": "Maumbo mbalimbali yamefinyangwa na kuwekewa nakshi kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya kuwekea nakshi",
+            "udongo",
+            "vifaa vya kuhifadhia udongo",
+            "vifaa vya kutayarishia udongo",
+            "karatasi",
+            "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-24"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.4 Kutengeneza vitu kwa kutumia makunzi mbalimbali",
+          "learning_activity": "Kutumia makunzi kutengeneza vitu vyenye maumbo sahili",
+          "suggested_methods": [
+            "Majadiliano: Ongoza majadiliano ya namna ya kuandaa makunzi, vifaa na mbinu mbalimbali za kutengeneza vitu vyenye maumbo mbalimbali"
+          ],
+          "assessment_criteria": "Vitu vyenye maumbo sahili vimetengenezwa kwa usahihi kwa kutumia makunzi",
+          "suggested_resources": [
+            "Makunzi mbalimbali",
+            "vifaa vya kutengenezea vitu na matini mbalimbali"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-25"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+          "learning_activity": "Kufanya mazoezi ya kujenga nguvu na kasi (strength and speed)",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi katika vikundi kufanya mazoezi ya kujenga nguvu na kasi"
+          ],
+          "assessment_criteria": "Mazoezi ya kujenga nguvu na kasi yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya mazoezi (koni, filimbi, viunzi na kamba)"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-26"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.2 Kucheza michezo ya asili",
+          "learning_activity": "Kuvuta kamba",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza mchezo wa kuvuta kamba"
+          ],
+          "assessment_criteria": "Mchezo wa kuvuta kamba umechezwa kwa usahihi",
+          "suggested_resources": [
+            "Kamba",
+            "alama na filimbi"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-27"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.3 Kucheza michezo ya kisasa",
+          "learning_activity": "Kucheza mpira wa miguu na netiboli",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza mpira wa miguu na netiboli"
+          ],
+          "assessment_criteria": "Mpira wa miguu na netiboli zimechezwa kwa usahihi",
+          "suggested_resources": [
+            "Mpira",
+            "filimbi",
+            "kadi",
+            "koni na vibendera"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-5-28"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(a) Kutumia mbinu mbalimbali za uigizaji",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili jinsi uimbaji na uigizaji unavyofanyika katika jamii",
+            "Maonesho: Waongoze wanafunzi katika makundi kuandaa mchezo mfupi wa kuigiza wenye dhima inayotokana na jamii yao. Mchezo uoneshwe mbele ya darasa"
+          ],
+          "assessment_criteria": "Mbinu mbalimbali za uigizaji zimetumika kwa usahihi",
+          "suggested_resources": [
+            "Barakoa",
+            "ngoma",
+            "maleba",
+            "mapambo ya mwilini",
+            "zana za uigizaji"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-29"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+          "learning_activity": "(b) Kucheza ngoma za asili",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili aina mbalimbali za ngoma za hapa nchini na jinsi uchezaji wake unavyofanyika",
+            "Maonesho: Waongoze wanafunzi katika makundi kuandaa na kucheza ngoma. Ngoma ibebe ujumbe wowote kutoka katika jamii husika na ichezwe mbele ya wanafunzi wote shuleni"
+          ],
+          "assessment_criteria": "Mbinu mbalimbali za kucheza ngoma zimetumika kwa usahihi",
+          "suggested_resources": [
+            "Ngoma",
+            "manyanga",
+            "njuga",
+            "maleba",
+            "mapambo ya mwilini",
+            "zana za kuchezea ngoma"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "sana-6-30"
+        },
+        {
+          "main_competence": "1.0 Kubuni kazi za sanaa",
+          "specific_competence": "1.2 Kuchora picha",
+          "learning_activity": "Kuchora picha kwa kuangalia vitu mbalimbali",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili kanuni za msingi za kuzingatia wakati wa kuchora picha kwa kuangalia vitu na maumbo mbalimbali halisi",
+            "Oneshombinu: Waongoze wanafunzi kuonesha njia sahihi za kutumia vifaa na mbinu za kuchora picha na vitu halisi kwa kuviangalia.",
+            "Maonesho: Ongoza wanafunzi kupanga kazi za sanaa kwa ajili ya majadiliano ili kujifunza zaidi"
+          ],
+          "assessment_criteria": "Picha zimechorwa kwa usahihi kwa kuangalia na vitu mbalimbali",
+          "suggested_resources": [
+            "Vifaa vya kuchorea na kupakia rangi",
+            "rangi za maji",
+            "maumbo na matini mbalimbali zinazohusu uchoraji"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-31"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+          "learning_activity": "Kufanya mazoezi ya ustahimilivu (endurance)",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kufanya mazoezi ya ustahimilivu"
+          ],
+          "assessment_criteria": "Mazoezi ya ustahimilivu yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vifaa vya mazoezi (kamba ya kuruka",
+            "trade mill",
+            "saa ya michezo)"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-32"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.2 Kucheza michezo ya asili",
+          "learning_activity": "Kucheza michezo ya kuruka ya chini na juu",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kuruka chini na juu"
+          ],
+          "assessment_criteria": "Michezo ya kuruka chini na juu imechezwa kwa usahihi",
+          "suggested_resources": [
+            "Uwanja wa kurukia",
+            "futikamba",
+            "nguo za michezo",
+            "filimbi",
+            "vibendera",
+            "saa ya michezo",
+            "kibao cha kurukia",
+            "kihunzi",
+            "godoro"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-33"
+        },
+        {
+          "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+          "specific_competence": "2.3 Kucheza michezo mikubwa",
+          "learning_activity": "Kucheza michezo ya kukimbia",
+          "suggested_methods": [
+            "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia"
+          ],
+          "assessment_criteria": "Michezo ya kukimbia imechezwa kwa usahihi",
+          "suggested_resources": [
+            "Eneo la kukimbilia",
+            "filimbi",
+            "vibendera",
+            "saa ya michezo",
+            "kamba",
+            "chokaa",
+            "nguo za michezo"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "sana-6-34"
+        }
+      ]
+    }
+  }
+}

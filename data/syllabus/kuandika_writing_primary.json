@@ -1,0 +1,159 @@
+{
+  "subject": "Kuandika / Writing",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1  Kumudu misingi ya kuandika",
+          "learning_activity": "(a)  Kutumia stadi za awali za kuandika",
+          "suggested_methods": [],
+          "assessment_criteria": "Stadi za awali za kuandika zimetumika",
+          "suggested_resources": [
+            "Kadi za herufi",
+            "viandikio",
+            "video zinazoonesha misingi ya kuandika"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "grad-1-22"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1  Kumudu misingi ya kuandika",
+          "learning_activity": "(b)  Kuchora michoro ya herufi",
+          "suggested_methods": [],
+          "assessment_criteria": "Michoro ya herufi imechorwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-23"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1  Kumudu misingi ya kuandika",
+          "learning_activity": "(c)  Kufuatisha herufi kwa kuzingatia hatua",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi zimefuatishwa kwa kuzingatia hatua",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-24"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(a) Kuandika herufi ndogo za irabu (a, e, i, o, u), konsonanti (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) kwa mpangilio kwa kuzingatia hatua",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi ndogo za irabu (a, e, i, o, u), konsonanti (b, m, k, d, n) ; (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) zimeandikwa kwa mpangilio kwa kufuata hatua",
+          "suggested_resources": [
+            "Kadi za herufi",
+            "video zinazoonesha namna ya kuandika herufi ndogo za irabu na konsonanti kwa mpangilio kwa kufuata hatua"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "grad-1-25"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(b)  Kuandika herufi kubwa za irabu (A, E, I, O, U), konsonanti (B, M, K, D, N); (L, T, P, S, F, J); (G, Y, Z, H, R, W, V, CH) kwa mpangilio na kufuata hatua",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi kubwa za irabu (A, E, I, O, U) na konsonanti (B, M, K, D, N); (L, T, P, S, F, J); (G, Y, Z, H, R, W, V, CH) zimeandikwa kwa mpangilio na kufuata hatua",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-26"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(c)  Kuandika herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw)",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw) zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-27"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(d) Kuandika silabi zinazotokana na herufi za konsonanti na irabu",
+          "suggested_methods": [],
+          "assessment_criteria": "Silabi zinazotokana na herufi za konsonanti na irabu zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-28"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(e)  Kuandika silabi za herufi mwambatano",
+          "suggested_methods": [],
+          "assessment_criteria": "Silabi za herufi mwambatano zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-29"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.2  Kumudu stadi za kuandika",
+          "learning_activity": "(f)  Kuandika sentensi fupi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sentensi fupi zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-30"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.3  Kutumia kanuni za uandishi",
+          "learning_activity": "Kubaini alama za uandishi (nukta, mkato, alama ya kuuliza na alama ya mshangao)",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za uandishi (nukta, mkato, alama ya kuuliza na alama ya mshangao) zimebainishwa",
+          "suggested_resources": [
+            "Alama za uandishi zilizorekodiwa",
+            "matini zinazoonesha alama za uandishi na kadi/chati zinazoonesha alama za uandishi"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "grad-1-31"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1 Kutumia kanuni za uandishi",
+          "learning_activity": "(a) Kutumia alama za uandishi (kuandika habari fupi kwa kuzingatia alama za uandishi, kuandika insha fupi kwa kuzingatia alama za uandishi, kubaini alama za uandishi zinazokosekana katika matini)",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za uandishi zimetumika",
+          "suggested_resources": [
+            "Video zinazohusu kanuni za uandishi na matini zilizorekodiwa zinazohusu kanuni za uandishi"
+          ],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-84"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1 Kutumia kanuni za uandishi",
+          "learning_activity": "(b) Kuandika mwandiko wa chapa wenye kikonyo",
+          "suggested_methods": [],
+          "assessment_criteria": "Mwandiko wa chapa wenye kikonyo umeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-85"
+        },
+        {
+          "main_competence": "2.0 Kuandika",
+          "specific_competence": "2.1 Kutumia kanuni za uandishi",
+          "learning_activity": "(c) Kuandika matini fupi kwa mtiririko wa matukio wenye mantiki",
+          "suggested_methods": [],
+          "assessment_criteria": "Matini fupi imeaandikwa kwa mtiririko wa matukio wenye mantiki",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 195,
+          "id": "grad-2-86"
+        }
+      ]
+    }
+  }
+}

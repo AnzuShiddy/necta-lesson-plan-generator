@@ -1,0 +1,428 @@
+{
+  "subject": "Jiografia na Mazingira",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727166774-JIOGRAFIA%20NA%20MAZINGIRA%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "Kueleza dhana ya jiografia na mazingira (maana, uhusiano na umuhimu)",
+          "suggested_methods": [
+            "Bunguabongo: Ongoza wanafunzi kubunguabongo kuhusu maana ya Jiografia na Mazingira",
+            "Kisamafunzo: Ongoza wanafunzi kusoma kisamafunzo kinachohusu uhusiano wa jiografia na mazingira kisha kujadili",
+            "Maswali na majibu: Ongoza wanafunzi kueleza umuhimu wa Jiografia na mazingira kwa jamii zao",
+            "Ujifunzaji kwa njia ya mtandao na maktaba: Ongoza wanafunzi kusoma katika mtandao au vitabu maudhui yanayohusu umuhimu wa Jiografia na mazingira kisha kujadiliana"
+          ],
+          "assessment_criteria": "Dhana ya Jiografia na Mazingira imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Mchoro unaoonesha dhana ya jiografia",
+            "video yenye maudhui ya dhana ya jiografia"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "jiog-3-1"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za sura ya nchi na rasilimali zilizopo",
+          "specific_competence": "2.1 Kuonesha uelewa wa awali wa sura ya nchi",
+          "learning_activity": "Kueleza dhana ya sura ya nchi (Maana, maumbo - milima, vilima, tambarare, mabonde, uwanda wa juu na basini na mtawanyiko)",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kueleza maana ya sura ya nchi na kutaja maumbo ya sura ya nchi",
+            "Majadiliano: Ongoza wanafunzi kueleza mtawanyiko wa maumbo ya sura ya nchi kwa kutumia ramani",
+            "Uchunguzi: Wanafunzi wapelekwe katika maeneo ya jirani kuchunguza maumbo mbalimbali ya sura ya nchi"
+          ],
+          "assessment_criteria": "Dhana ya sura ya nchi imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani za topografia",
+            "picha na michoro ya maumbo mbalimbali ya sura ya nchi"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "jiog-3-2"
+        },
+        {
+          "main_competence": "3.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "3.1 Kuonesha uelewa wa awali wa elimu ya kutunza mazingira",
+          "learning_activity": "(a) Kueleza uhusiano baina ya shughuli za kibinadamu na utunzaji wa mazingira (ufugaji, uchimbaji madini, uvuvi, uchanaji mbao, viwanda na kilimo)",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, ongoza wanafunzi kueleza maana ya mazingira, shughuli za kibinadamu na utunzaji wa mazingira",
+            "Majadiliano: Ongoza wanafunzi katika makundi kujadiliana kuhusu uhusiano wa shughuli za kibinadamu na utunzaji wa mazingira",
+            "Uchunguzi: Ongoza wanafunzi kutembelea maeneo ya shuleni na nyumbani ambayo shughuli za kibinadamu zinafanyika ili kubaini uhusiano uliopo kati ya shughuli hizo na utunzaji wa mazingira"
+          ],
+          "assessment_criteria": "Uhusiano wa shughuli za kibinadamu na utunzaji wa mazingira umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Video fupi na makala za matukio ya mifano halisi ya shughuli za binadamu zinazoathiri mazingira na mazingira halisi"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "jiog-3-3"
+        },
+        {
+          "main_competence": "3.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "3.1 Kuonesha uelewa wa awali wa elimu ya kutunza mazingira",
+          "learning_activity": "(b) Kueleza njia za kutunza mazingira (kupanda maua na miti/ukoka, njia anuai za kukabiliana na taka katika mazingira)",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kueleza njia za kutunza mazingira",
+            "Ujifunzaji kwa njia ya mtandao na maktaba: Ongoza wanafunzi kusoma katika maktaba au katika mtandao kuhusu njia za kutunza mazingira",
+            "Uchunguzi: Ongoza wanafunzi kutembelea maeneo ya jirani yenye mazingira yaliyotunzwa ili kubaini njia zilizotumika kutunza mazingira hayo",
+            "Kazi ya vitendo: Ongoza wanafunzi kupanda miti na maua/ukoka na kutumia njia bora za uhifadhi wa taka"
+          ],
+          "assessment_criteria": "Njia za kutunza mazingira zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Video fupi na makala za matukio ya mifano halisi ya utunzaji wa mazingira",
+            "mazingira halisi"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-3-4"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+            "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+          ],
+          "assessment_criteria": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+          "suggested_resources": [
+            "Dira",
+            "michoro ya ramani rahisi",
+            "tufe"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "jiog-4-5"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+          "suggested_methods": [
+            "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+            "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+          ],
+          "assessment_criteria": "Dhana ya ramani imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani sahili",
+            "chati ya alama mbalimbali za ramani"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "jiog-4-6"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+            "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+          ],
+          "assessment_criteria": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+          "suggested_resources": [
+            "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "jiog-4-7"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+            "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+          ],
+          "assessment_criteria": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+          "suggested_resources": [
+            "Michoro ya ramani"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-4-8"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+          "suggested_methods": [
+            "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+            "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+          ],
+          "assessment_criteria": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+          "suggested_resources": [
+            "Dira",
+            "futikamba na michoro ya ramani"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "jiog-4-9"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+          "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+          "suggested_methods": [
+            "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+            "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+            "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+          ],
+          "assessment_criteria": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+          ],
+          "periods_for_specific_competence": 33,
+          "id": "jiog-4-10"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za sura ya nchi na rasilimali zilizopo",
+          "specific_competence": "1.1 Kuonesha uelewa wa rasilimali asilia kuu za Tanzania",
+          "learning_activity": "Kueleza mtawanyiko wa rasilimali asilia kuu za Tanzania",
+          "suggested_methods": [
+            "Uchunguzi: Ongoza wanafunzi kubaini na kueleza rasilimali zilizopo kwenye jamii zao",
+            "Ujifunzaji kupitia mtandao na maktaba: Ongoza wanafunzi kusoma taarifa mbalimbali ili kubaini rasilimali asilia kuu za Tanzania",
+            "Majadiliano: Ongoza wanafunzi kujadili kuhusu mtawanyiko wa rasilimali asilia kuu za Tanzania"
+          ],
+          "assessment_criteria": "Mtawanyiko wa rasilimali asilia kuu za Tanzania umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani zinazoonesha mtawanyiko wa rasilimali asilia kuu za Tanzania"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-11"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za sura ya nchi na rasilimali zilizopo",
+          "specific_competence": "1.2 Kuonesha uelewa wa awali wa uhusiano kati ya rasilimali asilia na maendeleo",
+          "learning_activity": "Kueleza uhusiano kati ya mtawanyiko wa rasilimali asilia na maendeleo (misitu-utalii, ufugaji wa nyuki; mito/maziwa/bahari-uvuvi, usafirishaji, kilimo; ardhi-kilimo, ufugaji, uchimbaji wa madini)",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kueleza uhusiano wa rasilimali asilia na maendeleo",
+            "Kisamafunzo: Ongoza wanafunzi kusoma visa mbalimbali vinavyohusu mtawanyiko wa rasilimali asilia na uhusiano wake katika maendeleo",
+            "Majadiliano: Ongoza wanafunzi kujadiliana kuhusu mtawanyiko wa rasilimali asilia na uhusiano wake na maendeleo"
+          ],
+          "assessment_criteria": "Uhusiano wa mtawanyiko wa rasilimali asilia na maendeleo umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini zenye maudhui ya uhusiano kati ya mtawanyiko wa rasilimali asilia na maendeleo"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-12"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za Jiografia ya binadamu",
+          "specific_competence": "2.1 Kuonesha uelewa wa awali wa uhusiano kati ya mtawanyiko wa watu na matumizi ya rasilimali",
+          "learning_activity": "(a) Kueleza visababishi vya kijiografia vya mtawanyiko wa watu",
+          "suggested_methods": [
+            "Maswali na majibu: Tumia maswali na majibu kuwashirikisha wanafunzi kueleza visababishi vya kijiografia vya mtawanyiko wa watu"
+          ],
+          "assessment_criteria": "Visababishi vya kijiografia vya mtawanyiko wa watu vimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Chati za idadi ya watu"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-13"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za Jiografia ya binadamu",
+          "specific_competence": "2.1 Kuonesha uelewa wa awali wa uhusiano kati ya mtawanyiko wa watu na matumizi ya rasilimali",
+          "learning_activity": "(b) Kueleza uhusiano kati ya mtawanyiko wa watu, matumizi ya rasilimali na utunzaji wa mazingira",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi kujadiliana kuhusu uhusiano kati ya mtawanyiko wa watu, matumizi ya rasilimali na utunzaji wa mazingira"
+          ],
+          "assessment_criteria": "Uhusiano kati ya mtawanyiko wa watu, matumizi ya rasilimali na utunzaji wa mazingira umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Video na chati zinazoonesha uhusiano kati ya mtawanyiko watu, matumizi ya rasilimali na utunzaji wa mazingira"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-14"
+        },
+        {
+          "main_competence": "3.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "3.1 Kuonesha uelewa wa awali wa dhana ya tabianchi na uhusiano wake na shughuli za kiuchumi",
+          "learning_activity": "(a) Kueleza dhana ya hali ya hewa (maana, vipengele vya hali ya hewa, na vifaa vinavyotumika kupima na kurekodi hali ya hewa)",
+          "suggested_methods": [
+            "Bunguabongo: Ongoza wanafunzi kubunguabongo maana na vipengele vya hali ya hewa",
+            "Majadiliano: Ongoza wanafunzi kujadili vifaa vinavyotumika kupima na kurekodi vipengele vya hali ya hewa"
+          ],
+          "assessment_criteria": "Dhana ya hali ya hewa imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Video yenye maudhui ya dhana ya hali ya hewa, na vifaa mbali mbali vya kupimia vipengele vya hali ya hewa"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-15"
+        },
+        {
+          "main_competence": "3.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "3.1 Kuonesha uelewa wa awali wa dhana ya tabianchi na uhusiano wake na shughuli za kiuchumi",
+          "learning_activity": "(b) Kupima na kurekodi jotoridi, unyevuanga, mvua, upepo na mgandamizo wa hewa",
+          "suggested_methods": [
+            "Ziara ya mafunzo: Ongoza wanafunzi kutembelea kituo cha kupimia vipengele vya hali ya hewa kwenye maeneo yanayowazunguka ili kupima na kurekodi vipengele vya hali ya hewa"
+          ],
+          "assessment_criteria": "Jotoridi, unyevuanga, mvua, upepo na mgandamizo wa hewa vimepimwa na kurekodiwa kwa usahihi",
+          "suggested_resources": [
+            "Vifaa mbalimbali vya kupimia vipengele vya hali ya hewa"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-16"
+        },
+        {
+          "main_competence": "3.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "3.1 Kuonesha uelewa wa awali wa dhana ya tabianchi na uhusiano wake na shughuli za kiuchumi",
+          "learning_activity": "(c) Kueleza uhusiano kati ya hali ya hewa na shughuli za kiuchumi",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kuelezea uhusiano wa hali hewa watu na shughuli za kiuchumi",
+            "Majadiliano: Ongoza wanafunzi kujadili kuhusu uhusiano uliopo kati ya hali ya hewa na shughuli za kiuchumi"
+          ],
+          "assessment_criteria": "Uhusiano kati ya hali ya hewa na shughuli za kiuchumi umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini yenye maudhui yanayohusu uhusiano kati ya hali ya hewa na shughuli za kiuchumi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "jiog-5-17"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kuonesha uelewa wa awali wa elimu ya mfumo wa jua",
+          "learning_activity": "Kueleza dhana ya mfumo wa jua (maana, umuhimu, sayari na mpangilio wake na magimba mengine)",
+          "suggested_methods": [
+            "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kueleza maana na umuhimu mfumo wa jua",
+            "Kuongoza kwa vitendo: Ongoza mwanafunzi mmoja mmoja kuchora mchoro wa mfumo wa jua na kuuelezea kwa usahihi",
+            "Majadiliano: Ongoza wanafunzi kwa kutumia mchoro wa mfumo wa jua katika vikundi kujadili mpangilio wa sayari"
+          ],
+          "assessment_criteria": "Dhana ya mfumo wa jua imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Vifani vya mfumo wa jua",
+            "michoro ya mfumo wa jua",
+            "kurunzi",
+            "tufe",
+            "katuni/picha mjongeo kuonesha mpangilio wa sayari"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "jiog-6-18"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+          "specific_competence": "1.1 Kuonesha uelewa wa awali wa elimu ya mfumo wa jua",
+          "learning_activity": "Ujifunzaji kupitia mtandao na maktaba: Ongoza wanafunzi kusoma katika maktaba au katika mtandao kuhusu jua, sayari na, magimba mengine kisha kuwasilisha darasani",
+          "suggested_methods": [
+            "Ujifunzaji kupitia mtandao na maktaba: Ongoza wanafunzi kusoma katika maktaba au katika mtandao kuhusu jua, sayari na, magimba mengine kisha kuwasilisha darasani"
+          ],
+          "assessment_criteria": "Dhana ya mfumo wa jua imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Vifani vya mfumo wa jua",
+            "michoro ya mfumo wa jua",
+            "kurunzi",
+            "tufe",
+            "katuni/picha mjongeo kuonesha mpangilio wa sayari"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "jiog-6-19"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za sura ya nchi",
+          "specific_competence": "2.1 Kuonesha uelewa wa awali wa sura ya nchi",
+          "learning_activity": "Kueleza uhusiano kati ya sura ya nchi na uoto wa asili",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, ongoza wanafunzi kueleza uhusiano kati ya sura ya nchi na uoto wa asili",
+            "Majadiliano: Ongoza wanafunzi kujadili uhusiano kati ya maumbo ya sura ya nchi na uoto wa asili"
+          ],
+          "assessment_criteria": "Uhusiano kati ya sura ya nchi na uoto wa asili umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani zinazoonesha uhusiano wa sura ya nchi na uoto",
+            "picha mjongeo kuonesha maumbo ya sura ya nchi na uoto wa asili"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "jiog-6-20"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za sura ya nchi",
+          "specific_competence": "2.1 Kuonesha uelewa wa awali wa sura ya nchi",
+          "learning_activity": "Ziara mafunzo: Ongoza wanafunzi kubaini uhusiano kati ya sura ya nchi na uoto wa asili katika mazingira asilia",
+          "suggested_methods": [
+            "Ziara mafunzo: Ongoza wanafunzi kubaini uhusiano kati ya sura ya nchi na uoto wa asili katika mazingira asilia"
+          ],
+          "assessment_criteria": "Uhusiano kati ya sura ya nchi na uoto wa asili umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani zinazoonesha uhusiano wa sura ya nchi na uoto",
+            "picha mjongeo kuonesha maumbo ya sura ya nchi na uoto wa asili"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "jiog-6-21"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za Jiografia ya binadamu",
+          "specific_competence": "3.1 Kuonesha uelewa wa vyanzo vya taarifa za idadi ya watu na makazi",
+          "learning_activity": "(a) Kueleza umuhimu wa taarifa za idadi ya watu na makazi",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, ongoza wanafunzi kueleza umuhimu wa taarifa za idadi ya watu na makazi"
+          ],
+          "assessment_criteria": "Umuhimu wa taarifa ya idadi ya watu na makazi umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini zenye maudhui ya idadi ya watu na makazi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-22"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za Jiografia ya binadamu",
+          "specific_competence": "3.1 Kuonesha uelewa wa vyanzo vya taarifa za idadi ya watu na makazi",
+          "learning_activity": "(b) Kueleza vyanzo vya upatikanaji wa taarifa za idadi ya watu na makazi (sensa: maana, aina, sifa, umuhimu, usajiri wa vizazi na vifo, rekodi za uhamiaji )",
+          "suggested_methods": [
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadili vyanzo mbalimbali vya upatikanaji wa taarifa za idadi ya watu na makazi kisha kuwasilisha darasani",
+            "Majadiliano: Katika makundi, ongoza wanafunzi kujadiliana kuhusu vyanzo mbalimbali vya upatikanaji wa taarifa za idadi ya watu na makazi",
+            "Kualika mgeni: Mgeni mwenye maarifa juu ya vyanzo mbalimbali vya upatikanaji wa taarifa za idadi ya watu na makazi kuzungumza na wanafunzi"
+          ],
+          "assessment_criteria": "Vyanzo vya upatikanaji wa taarifa za idadi ya watu na makazi vimeelezwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "jiog-6-23"
+        },
+        {
+          "main_competence": "4.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "4.1 Kuonesha uelewa wa awali wa dhana ya tabianchi na uhusiano wake na shughuli za kiuchumi",
+          "learning_activity": "(a) Kueleza dhana ya tabianchi na mambo yanayoiathiri",
+          "suggested_methods": [
+            "Maswali na majibu: Kwa kutumia maswali na majibu, ongoza wanafunzi kueleza dhana ya tabianchi na mambo yanyoiathiri",
+            "Kisamafunzo: Kwa kutumia visa mbalimbali kwenye jamii na mazingira, ongoza wanafunzi kueleza mambo yanayoathiri tabianchi",
+            "Majadiliano: Ongoza wanafunzi katika vikundi kujadiliana kuhusu shughuli za kibinadamu zinazoathiri tabianchi"
+          ],
+          "assessment_criteria": "Dhana ya tabianchi na mambo yanayoiathiri vimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani za tabianchi",
+            "takwimu za tabianchi",
+            "chati zinazoonesha taarifa za tabianchi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-24"
+        },
+        {
+          "main_competence": "4.0 Kumudu misingi ya kutunza mazingira",
+          "specific_competence": "4.1 Kuonesha uelewa wa awali wa dhana ya tabianchi na uhusiano wake na shughuli za kiuchumi",
+          "learning_activity": "(b) Kueleza uhusiano kati ya tabianchi, mtawanyiko wa watu na shughuli za kiuchumi",
+          "suggested_methods": [
+            "Banguabongo: Ongoza wanafunzi kubanguabongo kuhusu uhusiano kati ya tabianchi, mtawanyiko wa watu na shughuli za kiuchumi",
+            "Kisamafunzo: Tumia visa mbalimbali kuelezea uhusiano kati ya tabia nchi, mtawanyiko wa watu na shughuli za kiuchumi",
+            "Ziara ya mafunzo: Ongoza wanafunzi kutembelea mazingira halisi ili kuhusianisha tabianchi, mtawanyiko wa watu na shughuli za kiuchumi",
+            "Majadiliano: Ongoza wanafunzi katika vikundi wajadili uhusiano kati ya tabianchi, mtawanyiko wa watu na shughuli za kiuchumi"
+          ],
+          "assessment_criteria": "Uhusiano kati ya tabianchi, mtawanyiko wa watu na shughuli za kiuchumi umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani za tabianchi",
+            "takwimu za tabianchi",
+            "chati zinazoonesha taarifa za tabianchi",
+            "video inayoonesha uhusiano wa tabianchi, mtawanyiko wa watu na shughuli za kiuchumi"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "jiog-6-25"
+        }
+      ]
+    }
+  }
+}

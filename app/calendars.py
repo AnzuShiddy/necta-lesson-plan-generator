@@ -1,11 +1,12 @@
 """Academic calendars for Tanzanian secondary schools, and the ordered teaching
 weeks each one produces.
 
-Two calendars, because the two levels do not share a school year:
+Two calendars, because advanced level does not share the others' school year:
 
-  * Ordinary level (Form I-IV) runs January to December within one calendar
-    year. Source: MoEST Semester Calendar for Pre-Primary, Primary and
-    Secondary Schools, academic year 2026.
+  * Pre-primary (Awali), primary (Grade 1-6) and ordinary level (Form I-IV) all
+    run January to December within one calendar year, on the same dates: the
+    MoEST calendar is issued for Pre-Primary, Primary and Secondary Schools
+    together. Academic year 2026:
       Semester 1: 13 Jan 2026 - 05 Jun 2026;  mid-term break 27 Mar - 08 Apr
       Semester 2: 06 Jul 2026 - 04 Dec 2026;  mid-term break 04 Sep - 14 Sep
 
@@ -20,23 +21,45 @@ inside a mid-term break. Weeks are numbered per semester.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date, timedelta
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June",
           "July", "August", "September", "October", "November", "December"]
 
+NURSERY_FORMS = ("Awali",)
+# The 2023 curriculum makes primary six years, so there is no Grade 7 here.
+PRIMARY_FORMS = tuple(f"Grade {n}" for n in range(1, 7))
 ORDINARY_FORMS = ("Form One", "Form Two", "Form Three", "Form Four")
 ADVANCED_FORMS = ("Form Five", "Form Six")
 
+NURSERY = "nursery"
+PRIMARY = "primary"
 ORDINARY = "ordinary"
 ADVANCED = "advanced"
+
+_LEVEL_BY_FORM = {f: NURSERY for f in NURSERY_FORMS}
+_LEVEL_BY_FORM.update({f: PRIMARY for f in PRIMARY_FORMS})
+_LEVEL_BY_FORM.update({f: ORDINARY for f in ORDINARY_FORMS})
+_LEVEL_BY_FORM.update({f: ADVANCED for f in ADVANCED_FORMS})
+
+LEVEL_LABELS = {
+    NURSERY: "Pre-primary (Awali)",
+    PRIMARY: "Primary (Grade 1-6)",
+    ORDINARY: "Ordinary level (Form I-IV)",
+    ADVANCED: "Advanced level (Form V-VI)",
+}
+LEVEL_ORDER = (NURSERY, PRIMARY, ORDINARY, ADVANCED)
 
 
 def level_of(form: str) -> str:
     """Which level a form belongs to. The form name implies the level, so
     nothing else in the app has to carry it around."""
-    return ADVANCED if form in ADVANCED_FORMS else ORDINARY
+    return _LEVEL_BY_FORM.get(form, ORDINARY)
+
+
+def forms_for(level: str) -> tuple[str, ...]:
+    return tuple(f for f, lvl in _LEVEL_BY_FORM.items() if lvl == level)
 
 
 @dataclass(frozen=True)
@@ -176,7 +199,15 @@ ADVANCED_2026_27 = Calendar(
     ),
 )
 
-CALENDARS = {ORDINARY: ORDINARY_2026, ADVANCED: ADVANCED_2026_27}
+# Pre-primary and primary sit on the very same MoEST 2026 calendar as Form I-IV
+# — one almanac covers all three — so they reuse it, relabelled with their own
+# level key.
+CALENDARS = {
+    NURSERY: replace(ORDINARY_2026, key=NURSERY),
+    PRIMARY: replace(ORDINARY_2026, key=PRIMARY),
+    ORDINARY: ORDINARY_2026,
+    ADVANCED: ADVANCED_2026_27,
+}
 
 
 def for_form(form: str) -> Calendar:

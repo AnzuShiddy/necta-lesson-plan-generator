@@ -1,0 +1,1237 @@
+{
+  "subject": "French",
+  "form": "Grade 4",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 2,
+  "total_periods": 76,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+      "learning_activity": "(a) Reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+      "activity_id": "fren-4-14",
+      "periods": 3,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Chanson/ comptine : Mener les élèves à chanter une chanson/ comptine des parties du corps humain",
+        "Jeu de rôle : Guider les élèves à jouer un rôle portant sur les parties du corps (chez le médecin)"
+      ],
+      "assessment": "Capacité de reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+      "resources": [
+        "- Modèle du corps humain",
+        "- Photos/ dessins des membre du corps humain"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+      "learning_activity": "(a) Reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+      "activity_id": "fren-4-14",
+      "periods": 3,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Chanson/ comptine : Mener les élèves à chanter une chanson/ comptine des parties du corps humain",
+        "Jeu de rôle : Guider les élèves à jouer un rôle portant sur les parties du corps (chez le médecin)"
+      ],
+      "assessment": "Capacité de reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+      "resources": [
+        "- Modèle du corps humain",
+        "- Photos/ dessins des membre du corps humain"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+      "learning_activity": "(b) Utiliser les nombres jusqu’à 60 oralement et à l’écrit",
+      "activity_id": "fren-4-15",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Chanson : Mener les élèves à chanter une chanson de nombres jusqu’à 60",
+        "Travail pratique : Guider les élèves à associer les images d’objets en fonction de nombres",
+        "Questions et réponses : Montrer aux élèves les images, et puis leur demander de dire les nombres (Exemple : Question- Il y a combien de .... dans le panier ? Réponse - Il y a ... dans le panier."
+      ],
+      "assessment": "Capacité d’utiliser correctement les nombres jusqu’à 60 à l’oral et à l’écrit",
+      "resources": [
+        "- Documents sonores/ chansons portant sur les nombres jusqu’à 60",
+        "- Cartes de nombres jusqu’à 60",
+        "- Objets réels",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+      "learning_activity": "(b) Utiliser les nombres jusqu’à 60 oralement et à l’écrit",
+      "activity_id": "fren-4-15",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Chanson : Mener les élèves à chanter une chanson de nombres jusqu’à 60",
+        "Travail pratique : Guider les élèves à associer les images d’objets en fonction de nombres",
+        "Questions et réponses : Montrer aux élèves les images, et puis leur demander de dire les nombres (Exemple : Question- Il y a combien de .... dans le panier ? Réponse - Il y a ... dans le panier."
+      ],
+      "assessment": "Capacité d’utiliser correctement les nombres jusqu’à 60 à l’oral et à l’écrit",
+      "resources": [
+        "- Documents sonores/ chansons portant sur les nombres jusqu’à 60",
+        "- Cartes de nombres jusqu’à 60",
+        "- Objets réels",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+      "learning_activity": "(b) Utiliser les nombres jusqu’à 60 oralement et à l’écrit",
+      "activity_id": "fren-4-15",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Chanson : Mener les élèves à chanter une chanson de nombres jusqu’à 60",
+        "Travail pratique : Guider les élèves à associer les images d’objets en fonction de nombres",
+        "Questions et réponses : Montrer aux élèves les images, et puis leur demander de dire les nombres (Exemple : Question- Il y a combien de .... dans le panier ? Réponse - Il y a ... dans le panier."
+      ],
+      "assessment": "Capacité d’utiliser correctement les nombres jusqu’à 60 à l’oral et à l’écrit",
+      "resources": [
+        "- Documents sonores/ chansons portant sur les nombres jusqu’à 60",
+        "- Cartes de nombres jusqu’à 60",
+        "- Objets réels",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire simples pour décrire des personnes à l’oral et à l’écrit",
+      "activity_id": "fren-4-16",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Projet : Guider les élèves à dessiner et à décrire des personnes",
+        "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire des personnes"
+      ],
+      "assessment": "Capacité de décrire des personnes physiquement et moralement à l’oral et à l’écrit en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Documents oraux portant sur la décricrption des personnes",
+        "- Documents audio-visuels la décricrption des personnes",
+        "- Photos/ dessins la décricrption des personnes"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire simples pour décrire des personnes à l’oral et à l’écrit",
+      "activity_id": "fren-4-16",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Projet : Guider les élèves à dessiner et à décrire des personnes",
+        "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire des personnes"
+      ],
+      "assessment": "Capacité de décrire des personnes physiquement et moralement à l’oral et à l’écrit en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Documents oraux portant sur la décricrption des personnes",
+        "- Documents audio-visuels la décricrption des personnes",
+        "- Photos/ dessins la décricrption des personnes"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(b) Utiliser la grammaire et le vocabulaire simples pour décrire des objets oralement et à l’écrit",
+      "activity_id": "fren-4-17",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Projet : Guider les élèves à dessiner et à décrire des objets qui leur sont familiers",
+        "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire les objets"
+      ],
+      "assessment": "Capacité de décrire des objets à l’oral et à l’écrit",
+      "resources": [
+        "- Documents oraux portant sur la décricrption des objets",
+        "- Documents audio-visuels sur décricrption des objets",
+        "- Photos/ dessins sur la décricrption décricrption des objets"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(b) Utiliser la grammaire et le vocabulaire simples pour décrire des objets oralement et à l’écrit",
+      "activity_id": "fren-4-17",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Projet : Guider les élèves à dessiner et à décrire des objets qui leur sont familiers",
+        "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire les objets"
+      ],
+      "assessment": "Capacité de décrire des objets à l’oral et à l’écrit",
+      "resources": [
+        "- Documents oraux portant sur la décricrption des objets",
+        "- Documents audio-visuels sur décricrption des objets",
+        "- Photos/ dessins sur la décricrption décricrption des objets"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(c) Utiliser la grammaire et le vocabulaire simples pour décrire des lieux/endroits oralement et à l’écrit",
+      "activity_id": "fren-4-18",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Projet : guider les élèves à dessiner des plans de leur quartier, village, rue et les décrire",
+        "Atelier d’écriture : Mener les élèves à rédiger des textes simples pour décrire les lieux/endroits"
+      ],
+      "assessment": "Capacité de décrire correctement des lieux/endroits différents",
+      "resources": [
+        "- Plans des endroits",
+        "-Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(c) Utiliser la grammaire et le vocabulaire simples pour décrire des lieux/endroits oralement et à l’écrit",
+      "activity_id": "fren-4-18",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Projet : guider les élèves à dessiner des plans de leur quartier, village, rue et les décrire",
+        "Atelier d’écriture : Mener les élèves à rédiger des textes simples pour décrire les lieux/endroits"
+      ],
+      "assessment": "Capacité de décrire correctement des lieux/endroits différents",
+      "resources": [
+        "- Plans des endroits",
+        "-Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(d) Utiliser oralement et à l’écrit la grammaire et le vocabulaire simples pour exprimer les jours de la semaine et les mois de l’année",
+      "activity_id": "fren-4-19",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Chansons/ comptines : Mener les élèves à chanter une chanson/ comptine pour apprendre les jours de la semaine et ou les mois de l’année",
+        "Jeu de mémoire : Préparer un jeu portant sur les jours de la semaine ou les mois de l’année, et puis guider les élèves à jouer ce jeu"
+      ],
+      "assessment": "Capacité de dire correctement les jours de la semaine et les mois de l’année en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Calendriers mensuels et annuels",
+        "- Textes authentiques",
+        "- Jeux des mots-croisés"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(d) Utiliser oralement et à l’écrit la grammaire et le vocabulaire simples pour exprimer les jours de la semaine et les mois de l’année",
+      "activity_id": "fren-4-19",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Chansons/ comptines : Mener les élèves à chanter une chanson/ comptine pour apprendre les jours de la semaine et ou les mois de l’année",
+        "Jeu de mémoire : Préparer un jeu portant sur les jours de la semaine ou les mois de l’année, et puis guider les élèves à jouer ce jeu"
+      ],
+      "assessment": "Capacité de dire correctement les jours de la semaine et les mois de l’année en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Calendriers mensuels et annuels",
+        "- Textes authentiques",
+        "- Jeux des mots-croisés"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(e) Utiliser la grammaire et le vocabulaire simples pour demander et dire l’heure",
+      "activity_id": "fren-4-20",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Questions et réponses : Mener les élèves en binôme de se demander et de se dire l’heure (Exemple : Question- Il est quelle heure ? Réponse- Il est ... heure(s)",
+        "Projet : Guider les élèves à préparer son emploi du temps quotidien"
+      ],
+      "assessment": "Capacité de demander et de dire l’heure correctement en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Montres",
+        "- Pendules/ Horloges",
+        "- Textes authentiques (des emplois du temps/ horaires"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(e) Utiliser la grammaire et le vocabulaire simples pour demander et dire l’heure",
+      "activity_id": "fren-4-20",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Questions et réponses : Mener les élèves en binôme de se demander et de se dire l’heure (Exemple : Question- Il est quelle heure ? Réponse- Il est ... heure(s)",
+        "Projet : Guider les élèves à préparer son emploi du temps quotidien"
+      ],
+      "assessment": "Capacité de demander et de dire l’heure correctement en utilisant la grammaire et le vocabulaire simples",
+      "resources": [
+        "- Montres",
+        "- Pendules/ Horloges",
+        "- Textes authentiques (des emplois du temps/ horaires"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w14-2",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(f) Demander et dire la date",
+      "activity_id": "fren-4-21",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Jeu de rôle : Mener les élèves en binôme de se demander et de se dire la date (Exemple : Question- Nous sommes quelle date ? Réponse- Aujourd’hui nous sommes le ...",
+        "Projet : Guider les élèves à préparer son programme de weekend"
+      ],
+      "assessment": "Capacité de demander et de dire date correctement",
+      "resources": [
+        "- Calendriers",
+        "- Textes authentiques",
+        "- Emploi du temps scolaire"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+      "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+      "learning_activity": "(f) Demander et dire la date",
+      "activity_id": "fren-4-21",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Jeu de rôle : Mener les élèves en binôme de se demander et de se dire la date (Exemple : Question- Nous sommes quelle date ? Réponse- Aujourd’hui nous sommes le ...",
+        "Projet : Guider les élèves à préparer son programme de weekend"
+      ],
+      "assessment": "Capacité de demander et de dire date correctement",
+      "resources": [
+        "- Calendriers",
+        "- Textes authentiques",
+        "- Emploi du temps scolaire"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.1 Écouter et comprendre des informations simples",
+      "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+      "activity_id": "fren-4-22",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+        "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+        "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+      ],
+      "assessment": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+      "resources": [
+        "- Documents oraux portant sur des sujets variés",
+        "- Documents audio-visuels portant sur des sujets variés",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.1 Écouter et comprendre des informations simples",
+      "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+      "activity_id": "fren-4-22",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+        "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+        "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+      ],
+      "assessment": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+      "resources": [
+        "- Documents oraux portant sur des sujets variés",
+        "- Documents audio-visuels portant sur des sujets variés",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.1 Écouter et comprendre des informations simples",
+      "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+      "activity_id": "fren-4-22",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+        "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+        "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+      ],
+      "assessment": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+      "resources": [
+        "- Documents oraux portant sur des sujets variés",
+        "- Documents audio-visuels portant sur des sujets variés",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.1 Écouter et comprendre des informations simples",
+      "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+      "activity_id": "fren-4-22",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+        "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+        "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+      ],
+      "assessment": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+      "resources": [
+        "- Documents oraux portant sur des sujets variés",
+        "- Documents audio-visuels portant sur des sujets variés",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.1 Écouter et comprendre des informations simples",
+      "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+      "activity_id": "fren-4-22",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+        "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+        "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+      ],
+      "assessment": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+      "resources": [
+        "- Documents oraux portant sur des sujets variés",
+        "- Documents audio-visuels portant sur des sujets variés",
+        "- Photos/ dessins"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.2 Lire et comprendre des textes simples",
+      "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+      "activity_id": "fren-4-23",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+        "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+      ],
+      "assessment": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+      "resources": [
+        "-Textes simples descriptifs",
+        "-Photos/dessins de personnes, d’objets et des animaux"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.3 Réagir de manière appropriée à un contexte familier de communication",
+      "learning_activity": "(a) Suivre le code de la route et des consignes",
+      "activity_id": "fren-4-24",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Remue-méninge : Guider les élèves à réfléchir sur le code de la route présents dans leurs entourages",
+        "Projet : Guider les élèves à dessiner et étiqueter les panneaux de signalisation"
+      ],
+      "assessment": "Capacité de suivre correctement le code de la route et des consignes",
+      "resources": [
+        "- Textes simples authentiques sur le code de la route/ les panneaux signalétiques"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.3 Réagir de manière appropriée à un contexte familier de communication",
+      "learning_activity": "(a) Suivre le code de la route et des consignes",
+      "activity_id": "fren-4-24",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Remue-méninge : Guider les élèves à réfléchir sur le code de la route présents dans leurs entourages",
+        "Projet : Guider les élèves à dessiner et étiqueter les panneaux de signalisation"
+      ],
+      "assessment": "Capacité de suivre correctement le code de la route et des consignes",
+      "resources": [
+        "- Textes simples authentiques sur le code de la route/ les panneaux signalétiques"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+      "specific_competence": "2.3 Réagir de manière appropriée à un contexte familier de communication",
+      "learning_activity": "(a) Suivre le code de la route et des consignes",
+      "activity_id": "fren-4-24",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Remue-méninge : Guider les élèves à réfléchir sur le code de la route présents dans leurs entourages",
+        "Projet : Guider les élèves à dessiner et étiqueter les panneaux de signalisation"
+      ],
+      "assessment": "Capacité de suivre correctement le code de la route et des consignes",
+      "resources": [
+        "- Textes simples authentiques sur le code de la route/ les panneaux signalétiques"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+      "learning_activity": "(a) Utiliser les signes de ponctuation (Les points d’exclamation et la virgule) dans des textes simples",
+      "activity_id": "fren-4-25",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+      ],
+      "assessment": "Capacité d’utiliser correctement les marques de ponctuation (Le point d’exclamation et la virgule) dans des textes simples",
+      "resources": [
+        "- Textes authentiques simples"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+      "learning_activity": "(a) Utiliser les signes de ponctuation (Les points d’exclamation et la virgule) dans des textes simples",
+      "activity_id": "fren-4-25",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+      ],
+      "assessment": "Capacité d’utiliser correctement les marques de ponctuation (Le point d’exclamation et la virgule) dans des textes simples",
+      "resources": [
+        "- Textes authentiques simples"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+      "learning_activity": "(a) Utiliser les signes de ponctuation (Les points d’exclamation et la virgule) dans des textes simples",
+      "activity_id": "fren-4-25",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+      ],
+      "assessment": "Capacité d’utiliser correctement les marques de ponctuation (Le point d’exclamation et la virgule) dans des textes simples",
+      "resources": [
+        "- Textes authentiques simples"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+      "learning_activity": "(a) Utiliser les signes de ponctuation (Les points d’exclamation et la virgule) dans des textes simples",
+      "activity_id": "fren-4-25",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+      ],
+      "assessment": "Capacité d’utiliser correctement les marques de ponctuation (Le point d’exclamation et la virgule) dans des textes simples",
+      "resources": [
+        "- Textes authentiques simples"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "activity_id": "fren-4-26",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves en binôme à se poser des questions basées sur l’expression des sentiments et à se répondre",
+        "Jeu de rôle : Guider les élèves à jouer des rôles dans des contextes variés de communication"
+      ],
+      "assessment": "Capacité d’utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "resources": [
+        "- Documents oraux courts sur les sentiments",
+        "- Documents audio-visuels courts portant sur les sentiments",
+        "- Textes authentiques portant sur les sentiments"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "activity_id": "fren-4-26",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves en binôme à se poser des questions basées sur l’expression des sentiments et à se répondre",
+        "Jeu de rôle : Guider les élèves à jouer des rôles dans des contextes variés de communication"
+      ],
+      "assessment": "Capacité d’utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "resources": [
+        "- Documents oraux courts sur les sentiments",
+        "- Documents audio-visuels courts portant sur les sentiments",
+        "- Textes authentiques portant sur les sentiments"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "activity_id": "fren-4-26",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves en binôme à se poser des questions basées sur l’expression des sentiments et à se répondre",
+        "Jeu de rôle : Guider les élèves à jouer des rôles dans des contextes variés de communication"
+      ],
+      "assessment": "Capacité d’utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "resources": [
+        "- Documents oraux courts sur les sentiments",
+        "- Documents audio-visuels courts portant sur les sentiments",
+        "- Textes authentiques portant sur les sentiments"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+      "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+      "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "activity_id": "fren-4-26",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Questions et réponses : Guider les élèves en binôme à se poser des questions basées sur l’expression des sentiments et à se répondre",
+        "Jeu de rôle : Guider les élèves à jouer des rôles dans des contextes variés de communication"
+      ],
+      "assessment": "Capacité d’utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+      "resources": [
+        "- Documents oraux courts sur les sentiments",
+        "- Documents audio-visuels courts portant sur les sentiments",
+        "- Textes authentiques portant sur les sentiments"
+      ],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, French kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

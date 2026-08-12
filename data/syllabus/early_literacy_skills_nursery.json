@@ -1,0 +1,211 @@
+{
+  "subject": "Early Literacy Skills",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.1 Kusikiliza katika miktadha mbalimbali",
+          "learning_activity": "Kutofautisha sauti na milio katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti na milio katika mazingira yake imetofautishwa",
+          "suggested_resources": [
+            "Picha za vitu tofauti vinavyotoa mlio",
+            "vitabu vya hadithi",
+            "kadi za hadithi",
+            "vibao vya maelekezo",
+            "sauti mbalimbali za wanyama na ndege zilizorekodiwa vifani vya wanyama na vikaragosi"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "awal-awali-26"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.1 Kusikiliza katika miktadha mbalimbali",
+          "learning_activity": "Kufuata maelekezo yanayotolewa",
+          "suggested_methods": [],
+          "assessment_criteria": "Maelekezo yaliyotolewa yamefuatwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-27"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.1 Kusikiliza katika miktadha mbalimbali",
+          "learning_activity": "Kusikiliza hadithi",
+          "suggested_methods": [],
+          "assessment_criteria": "Hadithi imesikilizwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 20,
+          "id": "awal-awali-28"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.2 Kuzungumza katika miktadha mbalimbali",
+          "learning_activity": "Kusimulia matukio mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Matukio mbalimbali yamesimuliwa",
+          "suggested_resources": [
+            "Picha za matukio tofauti",
+            "vitabu vya hadithi",
+            "picha za vitu mbalimbali",
+            "ala za muziki",
+            "nyimbo zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-29"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.2 Kuzungumza katika miktadha mbalimbali",
+          "learning_activity": "Kutega na kutegua vitendawili",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitendawili vimetegwa na kuteguliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-30"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.2 Kuzungumza katika miktadha mbalimbali",
+          "learning_activity": "Kuimba nyimbo",
+          "suggested_methods": [],
+          "assessment_criteria": "Nyimbo zimeimbwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-31"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.2 Kuzungumza katika miktadha mbalimbali",
+          "learning_activity": "Kusimulia hadithi",
+          "suggested_methods": [],
+          "assessment_criteria": "Hadithi isimuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-32"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.3 Kusoma katika hatua za awali",
+          "learning_activity": "Kutumia stadi za awali za kusoma",
+          "suggested_methods": [],
+          "assessment_criteria": "Stadi za awali za kusoma zimetumika",
+          "suggested_resources": [
+            "Kadi za herufi",
+            "chati ya herufi",
+            "kadi za silabi",
+            "kadi za maneno",
+            "kadi za picha",
+            "kadi za picha zenye maneno",
+            "vitabu vya picha",
+            "vibaofumbo vya herufi",
+            "sauti za herufi za irabu na konsonanti zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 67,
+          "id": "awal-awali-33"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.3 Kusoma katika hatua za awali",
+          "learning_activity": "Kusoma picha",
+          "suggested_methods": [],
+          "assessment_criteria": "Picha zimesomwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 21,
+          "id": "awal-awali-34"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.3 Kusoma katika hatua za awali",
+          "learning_activity": "Kutamka sauti za mwanzo za majina ya picha/maneno/vitu",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za mwanzo za majina ya picha/maneno/vitu zimetamkwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-35"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.3 Kusoma katika hatua za awali",
+          "learning_activity": "Kuhusianisha sauti na maumbo ya herufi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti zimehusianishwa na maumbo ya herufi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-36"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.3 Kusoma katika hatua za awali",
+          "learning_activity": "Kusoma silabi na maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Silabi na maneno yamesomwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-37"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.4 Kuandika katika hatua za awali",
+          "learning_activity": "Kufuatisha hatua za kuandika herufi",
+          "suggested_methods": [],
+          "assessment_criteria": "Hatua za kuandika herufi zimefuatishwa",
+          "suggested_resources": [
+            "Video inayoonesha namna ya kuandika herufi kwa kufuata hatua",
+            "Chati inayoonesha hatua za uandishi wa herufi"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "awal-awali-38"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.4 Kuandika katika hatua za awali",
+          "learning_activity": "Kuandika herufi",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-39"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.5 Kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kusalimiana na kuagana",
+          "suggested_methods": [],
+          "assessment_criteria": "Kitendo cha kusalimiana na kuagana kimefanyika",
+          "suggested_resources": [
+            "Picha zinazoonesha watu wakisalimiana na kuagana",
+            "picha zinazoonesha majengo mbalimbali kama vile: kanisa, msikiti, hospitali, shule, filamu zinazoonesha maeneo mbalimbali ya muhimu katika jamii"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-40"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.5 Kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kufuata kanuni za mawasiliano",
+          "suggested_methods": [],
+          "assessment_criteria": "Kanuni za mawasiliano zimefuatwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-41"
+        },
+        {
+          "main_competence": "3.0 Kumudu stadi za awali za lugha na mawasiliano",
+          "specific_competence": "3.5 Kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kujieleza katika miktadha mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Kujieleza kumefanyika katika miktadha mbalimbali",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-42"
+        }
+      ]
+    }
+  }
+}

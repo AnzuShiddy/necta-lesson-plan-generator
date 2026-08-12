@@ -1,0 +1,164 @@
+{
+  "subject": "Creative Arts and Sports",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kuimba nyimbo",
+          "suggested_methods": [],
+          "assessment_criteria": "Nyimbo zimeimbwa",
+          "suggested_resources": [
+            "Ala tofauti za muziki",
+            "nakala za nyimbo",
+            "vifani",
+            "vikaragosi",
+            "nyimbo zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kughani mashairi",
+          "suggested_methods": [],
+          "assessment_criteria": "Mashairi yameghaniwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kutamba ngonjera",
+          "suggested_methods": [],
+          "assessment_criteria": "Ngonjera zimetambwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-3"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kuigiza",
+          "suggested_methods": [],
+          "assessment_criteria": "Maigizo yameigizwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-4"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kutumia ala za muziki",
+          "suggested_methods": [],
+          "assessment_criteria": "Ala za muziki zimetumika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-5"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.1 Kuonesha sanaa za maonesho",
+          "learning_activity": "Kucheza muziki",
+          "suggested_methods": [],
+          "assessment_criteria": "Muziki umechezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 16,
+          "id": "awal-awali-6"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.2 Kubuni sanaa zinazohusisha utendaji wa mikono",
+          "learning_activity": "Kuunda vitu",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu mbalimbali vimeundwa",
+          "suggested_resources": [
+            "Picha za video zinazoonesha namna ya kutengeneza vitu mbalimbali"
+          ],
+          "periods_for_specific_competence": 46,
+          "id": "awal-awali-7"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.2 Kubuni sanaa zinazohusisha utendaji wa mikono",
+          "learning_activity": "Kuchora picha na maumbo",
+          "suggested_methods": [],
+          "assessment_criteria": "Picha na maumbo zimechorwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-8"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.2 Kubuni sanaa zinazohusisha utendaji wa mikono",
+          "learning_activity": "Kusuka vitu",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu mbalimbali vimesukwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-9"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.2 Kubuni sanaa zinazohusisha utendaji wa mikono",
+          "learning_activity": "Kutunga vitu katika uzi/kamba",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu vimetungwa katika uzi/kamba",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-10"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.3 Kutumia stadi za ubunifu zinazohusisha utendaji wa mwili",
+          "learning_activity": "Kucheza michezo inayohusisha misuli midogo",
+          "suggested_methods": [],
+          "assessment_criteria": "Michezo inayohusisha misuli midogo ya vidole imechezwa",
+          "suggested_resources": [
+            "Picha za mavazi ya michezo",
+            "drafti",
+            "bao",
+            "mchezo wa nyoka na ngazi",
+            "vibaofumbo",
+            "karata",
+            "mdako",
+            "ludo",
+            "kadi za kumbukumbu",
+            "bembea",
+            "ya kusukuma na mtelezo",
+            "viunzi na tairi"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "awal-awali-11"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.3 Kutumia stadi za ubunifu zinazohusisha utendaji wa mwili",
+          "learning_activity": "Kucheza michezo inayohusisha misuli mikubwa",
+          "suggested_methods": [],
+          "assessment_criteria": "Michezo inayohusisha misuli mikubwa ya mwili imechezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-12"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za kisanii, ubunifu na michezo",
+          "specific_competence": "1.3 Kutumia stadi za ubunifu zinazohusisha utendaji wa mwili",
+          "learning_activity": "Kutengeneza vifaa vya michezo",
+          "suggested_methods": [],
+          "assessment_criteria": "Vifaa mbalimbali vya michezo vimetengenezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 17,
+          "id": "awal-awali-13"
+        }
+      ]
+    }
+  }
+}

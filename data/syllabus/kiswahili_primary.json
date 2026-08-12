@@ -1,0 +1,1163 @@
+{
+  "subject": "Kiswahili",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727177907-MUHTASARI%20SOMO%20KISWAHILI%20DRS%20III%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kutambua matamshi ya sauti mbalimbali katika silabi, maneno, sentensi na habari",
+          "learning_activity": "(a) Kutamka sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi kutamka herufi za sauti mwambatano ngw, ndw, njw, mbw na nzw kwa kufuatisha unavyotamka au waoneshe wanafunzi video ya utamkaji wa sauti za herufi mwambatano tajwa kisha waongoze kutamka sauti za herufi hizo",
+            "Maswali na majibu: Waongoze wanafunzi kujidesa maswali ambayo yana majibu yenye sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw",
+            "Uchambuzi wa matini: Waongoze wanafunzi kusoma matini zenye sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw, kisha wazibainishe herufi hizo",
+            "Mchezo: Tumia kadi za maneno/vyumba vya kuchora chini kuwaongoza wanafunzi kutamka sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw. Kwa kila chumba, andika herufi mwambatano moja"
+          ],
+          "assessment_criteria": "Sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw zimetamkwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za herufi mwambatano",
+            "matini zenye vifungu vya habari vyenye sauti za herufi mwambatano ngw, ndw, njw, mbw na nzw",
+            "manila",
+            "kalamu rashasha",
+            "chatipindu",
+            "video na tableti"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "kisw-3-1"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kutambua matamshi ya sauti mbalimbali katika silabi, maneno, sentensi na habari",
+          "learning_activity": "(b) Kutamka sauti mwambatano katika silabi, maneno, sentensi na habari",
+          "suggested_methods": [
+            "Igizodhima: Waongoze wanafunzi kuigiza utendaji wa shughuli mbalimbali, ambapo ndani yake watatumia sauti za herufi mwambatano",
+            "Kitanza ndimi: Waongoze wanafunzi kusoma sentensi zenye maneno yenye sauti za herufi mwambatano zinazofuatana"
+          ],
+          "assessment_criteria": "Sauti za herufi mwambatano katika silabi, maneno, sentensi na habari zimetamkwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-2"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kutumia msamiati unaohusiana na maisha ya kila siku katika kuanzisha na kuendeleza mazungumzo kwa kujiamini katika miktadha mbalimbali",
+          "suggested_methods": [
+            "Igizodhima: Waongoze wanafunzi kuigiza shughuli za kila siku katika miktadha tofautitofauti kwa kutumia msamiati mwafaka na kwa kujiamini",
+            "Mchezo wa maneno: Waongoze wanafunzi kuunda maneno kwa kuanza na kila herufi ya neno linalohusiana na maisha ya kila siku"
+          ],
+          "assessment_criteria": "Msamiati unaohusiana na maisha ya kila siku umetumika katika kuanzisha na kuendeleza mazungumzo katika miktadha mbalimbali kwa kujiamini",
+          "suggested_resources": [
+            "Picha",
+            "michoro",
+            "vitu halisi",
+            "sidii",
+            "kinasasauti na kompyuta"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-3"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(b) Kubaini maneno yenye maana sawa na kinyume katika mazungumzo",
+          "suggested_methods": [
+            "Hadithi: Waongoze wanafunzi kubainisha maneno yenye maana sawa na vinyume kutoka kwenye mazungumzo",
+            "Ziara: Waongoze wanafunzi kufanya ziara ili kubaini majina ya vitu vyenye maana sawa na vinyume vya maneno, kisha kuwasilisha"
+          ],
+          "assessment_criteria": "Maneno yenye maana sawa na kinyume yamebainishwa kwa usahihi katika mazungumzo",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-4"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(c) Kuelezea vitu vilivyomo kwenye mazingira katika umoja na wingi",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kuchunguza vitu vilivyomo kwenye mazingira yao, kisha wabainishe umoja na wingi wa vitu hivyo",
+            "Oneshombinu: Waongoze wanafunzi kubainisha umoja na wingi wa vitu mbalimbali utakavyowaonesha"
+          ],
+          "assessment_criteria": "Vitu vilivyomo kwenye mazingira vimeelezewa kwa usahihi katika umoja na wingi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-5"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(d) Kuuliza na kujibu maswali",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana mada yoyote fulani, kisha waulizane maswali",
+            "Mkufu: Waongoze wanafunzi kuulizana maswali na kujibu kwa mfuatano wa kimkufu"
+          ],
+          "assessment_criteria": "Maswali yameulizwa na kujibiwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-6"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(e) Kubadili kiimbo kulingana na hisia au muktadha wa mazungumzo",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kusimulia matukio mbalimbali ili kubadili kiimbo na kuonesha hisia tofautitofauti"
+          ],
+          "assessment_criteria": "Kiimbo kimebadilishwa kulingana na hisia au muktadha wa mazungumzo kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-7"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(f) Kuanzisha na kumalizia vitendawili, methali na nahau katika mazungumzo",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kwa kutumia picha/vitu halisi kutega na kutegua vitendawili, kuanzisha na kumalizia methali na kueleza maana ya nahau na methali",
+            "Mchezo: Waongoze wanafunzi katika timu mbili kutega na kutegua vitendawili, kuanzisha na kumalizia methali na kueleza maana ya nahau"
+          ],
+          "assessment_criteria": "Vitendawili, methali na nahau vimeanzishwa na kumaliziwa kwa usahihi katika mazungumzo",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-8"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.3 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(a) Kuandika kifungu cha habari kwa kutumia alama za uakifishaji: nukta (.), mshangao (!), kiulizo (?) na mkato (,)",
+          "suggested_methods": [
+            "Imla: Wasomee wanafunzi kifungu cha habari ulichokiandaa na wakiandike kwa kutumia alama za uakifishaji: nukta (.), mshangao (!), kiulizo (?) na mkato (,)"
+          ],
+          "assessment_criteria": "Kifungu cha habari kimeandikwa kwa kutumia alama za uakifishaji kwa usahihi: nukta (.), mshangao (!), kiulizo (?) na mkato (,)",
+          "suggested_resources": [
+            "Kompyuta",
+            "tableti",
+            "kadi za alama za uakifishaji",
+            "picha",
+            "kifungu cha habari na vitu halisi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-9"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.3 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(b) Kuandika kifungu cha habari kwa kutumia viunganishi vya ushikamani",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kusoma matini, kisha wabainishe na kujadili maneno yanayofanya kazi ya kuonesha uhusiano au muungano baina ya sentensi na sentensi au vifungu vya maneno (kifungu cha maneno na kifungu cha maneno)"
+          ],
+          "assessment_criteria": "Kifungu cha habari kimeandikwa kwa kutumia viunganishi vya ushikamani",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-10"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.3 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(c) Kutumia alama za uakifishaji kwa usahihi wakati wa kuandika imla",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana umuhimu na matumizi sahihi ya alama za uakifishaji, kisha waandike imla kwa kuzingatia alama hizo",
+            "Masimulizi: Waongoze wanafunzi kusikiliza masimulizi yaliyorekodiwa, kisha waandike walichokisikia kwa kuzingatia alama za uakifishaji"
+          ],
+          "assessment_criteria": "Alama za uakifishaji zimetumika kwa usahihi wakati wa kuandika imla",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-11"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.3 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(d) Kutumia vihusishi (nyuma ya, mbele ya, juu ya, kando ya, chini ya, katikati ya na pembeni ya) katika uandishi",
+          "suggested_methods": [
+            "Oneshombinu: Waoneshe wanafunzi vitu halisi au picha ulizoziandaa, kisha waongoze kubainisha mahali vitu vilipo kwa kuzingatia vihusishi vilivyobainishwa"
+          ],
+          "assessment_criteria": "Vihusishi (nyuma ya, mbele ya, juu ya, kando ya, chini ya, katikati ya na pembeni ya) vimetumika katika uandishi kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-12"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(a) Kusikiliza mazungumzo kwa kuzingatia mambo ya msingi katika miktadha mbalimbali",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kusimuliana hadithi au habari, kisha wajibu maswali kwa kuzingatia mambo ya msingi katika miktadha mbalimbali"
+          ],
+          "assessment_criteria": "Mazungumzo kwa kuzingatia mambo ya msingi katika miktadha mbalimbali yamesikilizwa",
+          "suggested_resources": [
+            "Sidii",
+            "kompyuta",
+            "redio",
+            "tableti na kamusi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-13"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(b) Kutumia maneno aliyoyasikia katika miktadha mingine ya mazungumzo",
+          "suggested_methods": [
+            "Oneshombinu: Waoneshe wanafunzi picha au vitu halisi, kisha waongoze kutumia maneno yanayoendana na vitu hivyo kulingana na muktadha"
+          ],
+          "assessment_criteria": "Maneno aliyoyasikia katika miktadha mingine ya mazungumzo yametumika kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-14"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(c) Kutumia kamusi kupata maana ya msamiati mpya uliojitokeza katika matini fupi sahili",
+          "suggested_methods": [
+            "Hadithi: Andaa hadithi inayoonesha kazi ya kamusi",
+            "Kazimradi: Wape wanafunzi maneno kadhaa kutokana na matini fupi sahili, kisha watafute fasili kwenye kamusi"
+          ],
+          "assessment_criteria": "Kamusi imetumutika kupata maana ya msamiati mpya uliojitokeza katika matini fupi sahili",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-15"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(d) Kujibu kwa usahihi maswali yanayotokana na matini",
+          "suggested_methods": [
+            "Midia: Waongoze wanafunzi kusikiliza habari iliyopo katika matini, kisha waulize maswali kuhusiana na matini hiyo",
+            "Majadiliano: Waongoze wanafunzi kujadiliana kwa kutumia matini umuhimu wa elimu, kisha waulize maswali"
+          ],
+          "assessment_criteria": "Maswali yanayotokana na matini yamejibiwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-16"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(a) Kusoma matini fupi na sahili kwa kasi mwafaka na matamshi sahihi",
+          "suggested_methods": [
+            "Oneshombinu: Soma matini fupi na rahisi kwa kasi mwafaka kulingana na umri wa wanafunzi wako, matamshi sahihi, kiimbo na alama za uakifishaji kama mfano, kisha waongoze wao kusoma"
+          ],
+          "assessment_criteria": "Matini fupi na sahili zimesomwa kwa kasi mwafaka na matamshi sahihi",
+          "suggested_resources": [
+            "Matini fupi sahili",
+            "saa",
+            "kinasasauti",
+            "simujanja",
+            "redio",
+            "kompyuta",
+            "tableti na kinyonyi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-17"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(b) Kusoma sentensi kwa kuzingatia kupanda na kushuka kwa mawimbi ya sauti",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kubaini sentensi zenye mipando tofauti ya sauti kwa kutumia vifaa vya TEHAMA, kisha waongoze kurudia kutamka sentensi hizo ili kuonesha viimbo tofauti",
+            "Maswali na Majibu: Waongoze wanafunzi kutunga sentensi, kisha wazisome kwa sauti kwa kuzingatia kupanda na kushuka kwa mawimbi ya sauti"
+          ],
+          "assessment_criteria": "Sentensi zimesomwa kwa kuzingatia kupanda na kushuka kwa mawimbi ya sauti kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-18"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(c) Kueleza ujumbe mkuu uliomo katika matini fupi aliyoisoma",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kusoma matini fupi, kisha waulize maswali kuhusu ujumbe mkuu kutokana na matini"
+          ],
+          "assessment_criteria": "Ujumbe mkuu uliomo katika matini fupi iliyosomwa umeelezewa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-19"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuandika matini mbalimbali",
+          "learning_activity": "(a) Kuandika sentensi mbalimbali kwa usahihi",
+          "suggested_methods": [
+            "Mchezo: Andaa sentensi, kisha kata sentensi hizo katika maneno na kadi hizo za maneno zichanganye. Waongoze wanafunzi kuunda sentensi na kuziandika kwa kutumia maneno hayo yaliyoandikwa kwenye kadi"
+          ],
+          "assessment_criteria": "Sentensi mbalimbali zimeandikwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za sentensi na picha za matukio"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-20"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuandika matini mbalimbali",
+          "learning_activity": "(b) Kupanga katika mtiririko sahihi sentensi zilizochanganywa",
+          "suggested_methods": [
+            "Maswali na majibu: Andaa sentensi zenye mpangilio wa maneno usio sahihi, kisha waongoze wanafunzi kuandika sentensi hizo kwa usahihi",
+            "Ziara: Waongoze wanafunzi kutembelea shule ya jirani, kisha wasimulie ziara yao hatua kwa hatua. Ziandike hatua hizo kwa kutumia sentensi kamili, kisha zichanganye sentensi hizo na kuwataka wanafunzi kuzipanga kwa mfuatano wa kimantiki"
+          ],
+          "assessment_criteria": "Sentensi zilizochanganywa zimepangwa katika mtiririko sahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-21"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuandika matini mbalimbali",
+          "learning_activity": "(c) Kuandika matini fupi kwa kuzingatia mpangilio sahihi wa maneno na alama za uakifishaji",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili kuhusu mpangilio sahihi wa maneno na umuhimu wa alama za uakifishaji katika uandishi wa matini fupi, kisha waandike matini fupi kwa kuzingatia mambo hayo"
+          ],
+          "assessment_criteria": "Matini fupi imeandikwa kwa usahihi kwa kuzingatia mpangilio sahihi wa maneno na alama za uakifishaji",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-22"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(a) Kubainisha msamiati uliojitokeza katika matini fupi sahili",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi kusoma matini fupi sahili na kusikiliza habari kwenye televisheni, redio au simu, kisha wabainishe msamiati uliomo pamoja na fasili zake",
+            "Hadithi: Waongoze wanafunzi kusoma au kusikiliza hadithi, kisha wataje maneno mapya na watafute maana zake katika kamusi"
+          ],
+          "assessment_criteria": "Msamiati uliojitokeza katika matini fupi sahili umebainishwa",
+          "suggested_resources": [
+            "Matini fupi sahili",
+            "redio",
+            "kamusi na televisheni"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-23"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(b) Kuchambua mawazo makuu yanayojitokeza katika matini fupi sahili",
+          "suggested_methods": [
+            "Changanyakete: Gawa matini tofauti katika vikundi, waongoze wanafunzi kusoma na kuandika ujumbe wa matini hizo, kisha kila kikundi kihakikishe kinasoma kazi zote na kueleza masuala muhimu yaliyomo kwenye matini husika"
+          ],
+          "assessment_criteria": "Mawazo makuu yaliyojitokeza katika matini fupi sahili yamechambuliwa kwa ufanisi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-3-24"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(a) Kusimulia hadithi fupi sahili",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kusimuliana hadithi, kisha chagua wanafunzi wachache wasimulie hadithi zao mbele ya darasa"
+          ],
+          "assessment_criteria": "Hadithi fupi sahili zimesimuliwa kwa usahihi",
+          "suggested_resources": [
+            "Michoro",
+            "hadithi fupi sahili",
+            "vielelezo na picha"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-3-25"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kulinganisha vitu kwa kutumia maneno (kuliko, zaidi ya, kama, mithili ya na mfano wa) katika miktadha mbalimbali",
+          "suggested_methods": [
+            "Oneshombinu: Onesha vitu viwiliviwili, kisha waongoze wanafunzi kueleza dhana ya ulinganishi",
+            "Maswali na majibu: Andaa jedwali lenye maneno ya kulinganisha, kisha waongoze wanafunzi kutunga sentensi kwa kutumia jedwali"
+          ],
+          "assessment_criteria": "Vitu vimelinganishwa kwa kutumia maneno (kuliko, zaidi ya, kama, mithili ya na mfano wa) katika miktadha mbalimbali kwa ufasaha",
+          "suggested_resources": [
+            "Orodha ya nahau na methali",
+            "vitu halisi",
+            "michoro na picha"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "kisw-4-26"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(b) Kusimulia matukio kwa kuzingatia njeo za wakati: uliopo (-na-), uliopita (-li-), ujao (-ta-); na hali timilifu (-me-) na mazoea (hu-)",
+          "suggested_methods": [
+            "Ramani ya dhana: Waongoze wanafunzi kupitia mchoro kueleza aina za nyakati na hali",
+            "Maswali na majibu: Waongoze wanafunzi kutunga sentensi kwa kuzingatia viambishi vya nyakati na hali"
+          ],
+          "assessment_criteria": "Matukio yamesimuliwa kwa usahihi katika nyakati na hali mbalimbali",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-27"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(c) Kujieleza kwa kujiamini",
+          "suggested_methods": [
+            "Mdahalo: Wape mada wanafunzi na wagawe katika vikundi viwili, kisha waongoze kufanya majibizano kwa kujiamini",
+            "Igizo: Waongoze wanafunzi kuigiza kwa kujiamini"
+          ],
+          "assessment_criteria": "Kujieleza kwa kujiamini kumefanyika kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-28"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(d) Kuunga mkono au kupinga wazo kwa hoja na mifano rahisi",
+          "suggested_methods": [
+            "Ngonjera: Wape wanafunzi mada na uhusika kisha ongoza majibizano yao na wafanye majumuisho ya hoja zilizoibuliwa"
+          ],
+          "assessment_criteria": "Wazo limeungwa mkono na kupingwa kwa hoja na mifano rahisi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-29"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(e) Kutumia nahau na methali katika mazungumzo",
+          "suggested_methods": [
+            "Picha na maelezo: Chora picha na uweke nahau na methali kwa kila picha halafu waongoze wanafunzi kutambua uhusiano wa nahau, methali na picha zake, kisha watumie nahau na methali hizo kwa kuzingatia maana zake",
+            "Hadithi: Waongoze wanafunzi kutunga hadithi kwa kutumia nahau na methali"
+          ],
+          "assessment_criteria": "Nahau na methali zimetumiwa vizuri katika mazungumzo",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-30"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(a) Kutunga matini sahili kwa kutumia alama za uakifishaji: kistari kifupi (-), mkwaju (/), mabano ( ) na funga na fungua semi (“ ”)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kutunga matini sahili kwa kutumia vielelezo vya alama za uakifishaji kwa usahihi"
+          ],
+          "assessment_criteria": "Matini sahili zimetungwa kwa kutumia alama za uakifishaji: kistari kifupi (-), mkwaju (/), mabano ( ) na funga na fungua semi (“ ”) kwa usahihi",
+          "suggested_resources": [
+            "Barua za kirafiki",
+            "bahasha",
+            "stempu",
+            "kompyuta",
+            "tableti na kadi za alama za uakifishaji"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-4-31"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(b) Kutumia nyakati na hali kwa usahihi katika uandishi wa kifungu cha habari",
+          "suggested_methods": [
+            "Kusoma matini: Andaa matini zilizotumia nyakati na hali mbalimbali, kisha waongoze wanafunzi kubaini nyakati na hali hizo kwa kupigia mstari, halafu watunge sentensi kwa kutumia nyakati na hali hizo"
+          ],
+          "assessment_criteria": "Nyakati na hali vimetumika kwa usahihi katika uandishi wa kifungu cha habari",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-32"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(c) Kuandika matini sahili kwa kuzingatia mtiririko sahihi wa mawazo",
+          "suggested_methods": [
+            "Masimulizi: Andaa picha zenye kujenga habari, zichanganye, kisha waongoze wanafunzi kuandika habari kwa kuzingatia mfuatano sahihi wa picha walizopewa"
+          ],
+          "assessment_criteria": "Matini sahili imeandikwa kwa kuzingatia mtiririko sahihi wa mawazo",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-33"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(d) Kuandika barua ya kirafiki kwa kuzingatia muundo sahihi",
+          "suggested_methods": [
+            "Majadiliano: Gawa barua za kirafiki katika vikundi, kisha waongoze wanafunzi kujadili vipengele vyake",
+            "Majigambo: Wape wanafunzi uhusika wa vipengele vya barua ya kirafiki, kisha waongoze kujigamba mbele ya darasa kulingana na sifa za vipengele hivyo"
+          ],
+          "assessment_criteria": "Barua ya kirafiki imeandikwa kwa kuzingatia muundo sahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-34"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(a) Kusikiliza hadithi",
+          "suggested_methods": [
+            "Hadithi: Waongoze wanafunzi kusikiliza hadithi kwenye redio/televisheni/kinasasauti, kisha waulize maswali kutokana na hadithi waliyoisikiliza",
+            "Masimulizi: Waongoze wanafunzi kusimulia hadithi waliyoisikiliza"
+          ],
+          "assessment_criteria": "Hadithi imesikilizwa kwa umakini",
+          "suggested_resources": [
+            "Hadithi",
+            "kinasasauti",
+            "sidii",
+            "kompyuta",
+            "tableti na redio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-4-35"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(b) Kubaini hisia za msimuliaji kutokana na kupanda na kushuka kwa mawimbi ya sauti",
+          "suggested_methods": [
+            "Hadithi: Simulia hadithi kwa kuuvaa uhusika wa kila mhusika kwa kuzingatia kupanda na kushuka kwa mawimbi ya sauti, kisha waongoze wanafunzi kutaja sifa za kila mhusika kwa kuzingatia uhusika wake"
+          ],
+          "assessment_criteria": "Hisia za msimuliaji zimebainishwa kwa usahihi kutokana na kupanda na kushuka kwa mawimbi ya sauti",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-36"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(c) Kubaini ujumbe mkuu kutokana na hadithi aliyoisikiliza",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili ujumbe mkuu kutokana na hadithi waliyoisikiliza"
+          ],
+          "assessment_criteria": "Ujumbe mkuu katika hadithi iliyosikilizwa umebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-37"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(a) Kusoma matini fupi sahili kwa ufasaha",
+          "suggested_methods": [
+            "Ziara: Waelekeze wanafunzi kwenda maktaba kusoma matini fupi sahili, kisha warudi darasani na wasimuliane matini hizo",
+            "Kusoma kwa sauti: Waongoze wanafunzi kusoma matini fupi sahili kwa sauti kwa kuzingatia kasi stahiki, matamshi sahihi na alama za uakifishaji"
+          ],
+          "assessment_criteria": "Matini fupi sahili imesomwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini fupi sahili na kamusi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-4-38"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(b) Kujibu maswali kutokana na matini fupi aliyoisoma",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kujibu maswali yanayohusiana na matini walizozisoma",
+            "Karatasi tembezi: Gawa maswali tofautitofauti yanayohusu matini, kisha kila kikundi kiandike majibu kwenye karatasi na kigawe karatasi yenye majibu kwenye vikundi vingine kwa ajili ya kusoma majibu ya vikundi hivyo"
+          ],
+          "assessment_criteria": "Maswali kutokana na matini fupi iliyosomwa yamejibiwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-39"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(c) Kutumia msamiati na semi mpya zilizomo kwenye matini fupi aliyoisoma",
+          "suggested_methods": [
+            "Kusoma matini: Waongoze wanafunzi kusoma matini fupi na kubaini msamiati na semi mpya kwenye kazi bunifu",
+            "Maswali na majibu: Waongoze wanafunzi kutunga habari kwa kutumia msamiati na semi mpya kutoka kwenye matini fupi walizozisoma"
+          ],
+          "assessment_criteria": "Msamiati na semi mpya zilizomo kwenye matini fupi aliyoisoma vimetumiwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-40"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kubaini msamiati au vifungu vya maneno vinavyotumika kujenga au kupinga hoja (mf. hoja yako ni nzuri lakini ..., ingawa unasema hivi, kuna ...)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kusikiliza mada katika vyombo vya habari au vifaa vya TEHAMA, kisha wabaini msamiati au vifungu vya maneno vinavyotumika kujenga au kupinga hoja",
+            "Mdahalo: Waongoze wanafunzi kujenga au kupinga hoja kwa kutumia msamiati mwafaka na vifungu vya maneno vinavyotumika kujenga au kupinga hoja"
+          ],
+          "assessment_criteria": "Msamiati au vifungu vya maneno vinavyotumika kujenga au kupinga hoja vimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Kamusi na matini mbalimbali"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "kisw-4-41"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(b) Kutoa maoni au mawazo kwa kutumia msamiati na vifungu vya maneno vinavyotumika kujenga au kupinga hoja",
+          "suggested_methods": [
+            "Mdahalo: Waongoze wanafunzi kujenga hoja au kupinga hoja kwa kutumia msamiati mwafaka na vifungu vya maneno kwa usahihi",
+            "Mchezo: Waongoze wanafunzi kuigiza wapo kwenye kikao cha darasa kinachojadili namna ya kufanya usafi wa darasa kwa kutumia lugha mwafaka"
+          ],
+          "assessment_criteria": "Maoni au mawazo kwa kutumia msamiati na vifungu vya maneno vinavyotumika kujenga au kupinga hoja yametolewa kwa staha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-42"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(c) Kujenga hoja kwa mfuatano na ushikamani wa kimantiki",
+          "suggested_methods": [
+            "Mchezo: Andika sentensi kadhaa zinazojenga wazo moja (kila sentensi iwe kwenye karatasi yake), wape wanafunzi sentensi mojamoja na hakikisha wamechanganyika, kisha wajipange kwa mfuatano kulingana na mantiki ya sentensi",
+            "Maswali na majibu: Waongoze wanafunzi kuoanisha sentensi kwenye safu mbili"
+          ],
+          "assessment_criteria": "Hoja zimejengwa kwa mfuatano na ushikamani wa kimantiki",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-43"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(a) Kusoma matini fupi sahili",
+          "suggested_methods": [
+            "Usomaji wa matini: Waongoze wanafunzi kusoma matini fupi sahili kwa sauti na kimya, kisha waulize maswali kuhusu matini waliyoisoma",
+            "Ziara: Waongoze wanafunzi kutembelea maktaba ya karibu ili kusoma matini mbalimbali kwa kuzingatia mwongozo uliowapa, kisha waandike waliyoyasoma na kuwasilisha darasani"
+          ],
+          "assessment_criteria": "Matini fupi sahili zimesomwa",
+          "suggested_resources": [
+            "Matini fupi sahili na kamusi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-4-44"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(b) Kueleza maana ya semi mpya zilizojitokeza katika matini fupi sahili",
+          "suggested_methods": [
+            "Usomaji wa matini: Waongoze wanafunzi kusoma matini na kubaini msamiati na semi mpya kwenye matini",
+            "Kazimradi: Waongoze wanafunzi kwa kutumia kamusi kutafuta maana za msamiati na semi mpya zilizojitokeza kwenye matini",
+            "Maswali na majibu: Waongoze wanafunzi kutunga sentensi kwa kutumia msamiati na semi mpya kutoka kwenye matini"
+          ],
+          "assessment_criteria": "Maana ya semi mpya zilizojitokeza katika matini zimeelezwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-45"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(c) Kuwasilisha mawazo makuu yaliyomo katika matini fupi sahili",
+          "suggested_methods": [
+            "Usomaji wa matini: Waongoze wanafunzi kusoma matini fupi sahili, kisha wazifupishe kwa kuzingatia mawazo makuu yaliyomo katika matini hizo",
+            "Mchezo: Waongoze wanafunzi, katika safu mbili, kwa kushindana, kuwasilisha mawazo yaliyomo kwenye matini walizosoma, kisha toa alama kwa kila wazo. Safu yenye alama nyingi ndiyo itakayoshinda"
+          ],
+          "assessment_criteria": "Mawazo makuu yaliyomo katika matini fupi sahili yamewasilishwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-4-46"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(a) Kutunga hadithi fupi sahili",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kusoma hadithi fupi sahili, wajadiliane mambo ya kuzingatia katika utunzi wa hadithi, kisha watunge hadithi fupi sahili",
+            "Masimulizi: Waongoze wanafunzi kusimulia maisha yao wawapo shuleni",
+            "Igizo: Waongoze wanafunzi kuigiza hadithi waliyoisimulia kuhusu maisha yao wawapo shuleni"
+          ],
+          "assessment_criteria": "Hadithi fupi sahili zimetungwa vizuri",
+          "suggested_resources": [
+            "Picha",
+            "vielelezo",
+            "michoro na hadithi fupi sahili"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "kisw-4-47"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kutumia msamiati katika kusimulia matukio, habari na vitu mbalimbali kwa kujiamini",
+          "suggested_methods": [
+            "Oneshombinu: Waoneshe wanafunzi picha zilizo katika mfuatano kusimulia matukio, habari na masuala mbalimbali kwa kujiamini"
+          ],
+          "assessment_criteria": "Msamiati umetumika katika kusimulia matukio, habari na vitu mbalimbali kwa kujiamini",
+          "suggested_resources": [
+            "Kamusi",
+            "orodha ya methali na nahau"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "kisw-5-48"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(b) Kubainisha nafsi (umoja na wingi) katika mazungumzo",
+          "suggested_methods": [
+            "Picha na maelezo: Onesha picha zinazobainisha nafsi (umoja na wingi) yaani Nafsi tatu (umoja na wingi) katika mazungumzo zimebainishwa watu wakiwa kwenye shughuli mbalimbali, kisha eleza nafsi tatu katika umoja na wingi wake",
+            "Mchezo: Ongoza mchezo wa kutunga sentensi kwa kuzingatia nafsi. Safu ya kwanza iwe nafsi ya kwanza umoja na wingi. Fanya hivyo kwa safu ya pili na ya tatu. Zingatia kuwa sentensi moja itabadilishwa katika nafsi zote"
+          ],
+          "assessment_criteria": "Nafsi tatu (umoja na wingi) katika mazungumzo zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-49"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(c) Kutumia nahau na methali katika mazungumzo",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kusimulia hadithi kwa kutumia nahau na methali kwa usahihi"
+          ],
+          "assessment_criteria": "Nahau na methali zimetumika kwa usahihi katika mazungumzo",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-50"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(a) Kuandika kifungu cha habari kwa kuzingatia alama za uakifishaji: nuktapacha (:), nuktamkato (;), ritifaa (‘) na nuktakatishi (…)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili matumizi ya alama za uakifishaji: nuktapacha (:), nuktamkato (;), ritifaa (‘) na nuktakatishi (…) katika uandishi",
+            "Imla: Wasomee wanafunzi habari kwa vituo ili waandike kwa kuzingatia alama za uakifishaji: nuktapacha (:), nuktamkato (;), ritifaa (‘) na nuktakatishi (…)"
+          ],
+          "assessment_criteria": "Kifungu cha habari kimeandikwa kwa usahihi kwa kuzingatia alama za uakifishaji nuktapacha (:), nuktamkato (;), ritifaa (‘) na nuktakatishi (…)",
+          "suggested_resources": [
+            "Barua za kiofisi",
+            "kompyuta",
+            "kamusi na kadi za alama za uakifishaji"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-51"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(b) Kutumia msamiati sahihi katika uandishi wa insha kwa kuzingatia mada",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili na kuandika wazo la kila aya, kisha wakamilishe insha kwa kutumia msamiati mwafaka"
+          ],
+          "assessment_criteria": "Msamiati sahihi umetumiwa vizuri katika uandishi wa insha kwa kuzingatia mada",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-52"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(c) Kuandika barua ya kiofisi kwa kuzingatia muundo sahihi",
+          "suggested_methods": [
+            "Majigambo: Wape wanafunzi uhusika kwa vikundi kulingana na vipengele vya barua ya kiofisi, kisha waongoze kujigamba",
+            "Maswali na Majibu: Waongoze wanafunzi kuandika barua za kiofisi kwa kuzingatia vipengele vyake"
+          ],
+          "assessment_criteria": "Barua ya kiofisi imeandikwa kwa usahihi kwa kuzingatia muundo wake",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-53"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(a) Kusimulia hadithi aliyoisikiliza kwa usahihi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili mambo ya msingi wakati wa kusimulia hadithi",
+            "Masimulizi: Waongoze wanafunzi kuhadithia maisha yao wakati wa likizo"
+          ],
+          "assessment_criteria": "Hadithi iliyosikilizwa imesimuliwa kwa usahihi",
+          "suggested_resources": [
+            "Hadithi",
+            "redio",
+            "kamusi",
+            "tableti",
+            "sidii na kompyuta"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-54"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(b) Kutafsiri ujumbe mkuu uliomo kwenye hadithi na mazingira halisi",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kueleza mafunzo wanayoyapata kutokana na hadithi kwa kuwauliza maswali",
+            "Bakuli la samaki: Waongoze wanafunzi kukaa katika maduara mawili (duara ndani na duara nje), kisha wale wa ndani waeleze mafunzo wanayopata kwenye hadithi na wale wa nje waongeze kile kinachopungua"
+          ],
+          "assessment_criteria": "Ujumbe mkuu uliomo kwenye hadithi umetafsiriwa kwa usahihi kwa kuzingatia mazingira halisi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-55"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(c) Kuhusianisha mienendo ya wahusika waliomo katika hadithi na mazingira halisi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili mienendo ya wahusika inavyoshabihiana na mazingira halisi",
+            "Uchunguzi: Wape wanafunzi wasifu wa kila mhusika, kisha waongoze kuchunguza kwa kulinganisha na watu katika jamii yao"
+          ],
+          "assessment_criteria": "Mienendo ya wahusika waliomo katika hadithi imehusianishwa na mazingira halisi kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-56"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(d) Kufafanua maana ya nahau na methali zilizomo katika hadithi kwa usahihi",
+          "suggested_methods": [
+            "Mchezo: Andaa kadi mbili kubwa, moja iandikwe neno “nahau” na nyingine iandikwe neno “methali”, kisha andika nahau na methali nyingi katika karatasi tofautitofauti, halafu waongoze wanafunzi wenye kadi zilizoandikwa nahau kusimama mbele ya kadi kubwa iliyoandikwa ‘nahau’ huku wakizinyanyua, na wale wenye kadi zilizoandikwa methali wafanye hivyohivyo",
+            "Mchezo: Unda timu mbili, kisha timu moja iwe inataja nahau na timu ya pili iseme maana yake. Pia, ifanyike kwa methali kwa kubadilishana utendaji"
+          ],
+          "assessment_criteria": "Maana ya nahau na methali zilizomo katika hadithi zimefafanuliwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-57"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(a) Kusoma matini ndefu sahili",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kusoma matini ndefu sahili, kisha waulize wanafunzi maswali kuhusu matini hizo",
+            "Kazimradi: Waongoze wanafunzi kutembelea maktaba kusoma matini ndefu sahili, kisha wabainishe mawazo yaliyomo katika matini hizo na kuwasilisha darasani"
+          ],
+          "assessment_criteria": "Matini ndefu sahili zimesomwa kwa ufahamu",
+          "suggested_resources": [
+            "Matini bunifu na zisizo bunifu ndefu sahili"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-58"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.2 Kusoma matini kwa ufasaha na ufahamu",
+          "learning_activity": "(b) Kuwasilisha mawazo makuu aliyoyasoma katika matini ndefu",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kusoma matini, kisha waeleze mawazo makuu waliyojifunza",
+            "Majadiliano: Waongoze wanafunzi kujadili mawazo makuu katika matini ndefu waliyoisoma"
+          ],
+          "assessment_criteria": "Mawazo yaliyosomwa katika matini ndefu yamewasilishwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-59"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kutoa hoja kwa kutumia msamiati unaoendana na muktadha mahususi wa mazungumzo",
+          "suggested_methods": [
+            "Igizo: Waongoze wanafunzi kuigiza kuwasilisha hoja katika kikao cha serikali ya wanafunzi",
+            "Kualika mgeni: Mwalike Afisa Maendeleo ya Jamii kutoa mada kuhusu afya au mahusiano sahihi ya kijinsia, kisha waongoze wanafunzi kuchangia hoja kutokana na mada iliyowasilishwa"
+          ],
+          "assessment_criteria": "Hoja zimetolewa kwa kutumia msamiati unaoendana na muktadha mahususi wa mazungumzo kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi",
+            "tableti",
+            "kompyuta",
+            "sidii",
+            "picha na redio"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-60"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuandika matini mbalimbali",
+          "learning_activity": "(a) Kuandika insha fupi kwa kuzingatia vipengele vya insha",
+          "suggested_methods": [
+            "Ramani ya dhana: Waongoze wanafunzi kutaja na kufafanua vipengele vya insha kwa kuanza na mduara wa kwanza wenye neno insha, kisha wao waendelee",
+            "Oneshombinu: Onesha insha ya mfano, kisha waongoze wanafunzi kutunga insha kwa kuzingatia mfano huo"
+          ],
+          "assessment_criteria": "Insha fupi imeandikwa kwa kuzingatia vipengele vya insha",
+          "suggested_resources": [
+            "Insha mbalimbali",
+            "barua za kiofisi",
+            "kompyuta",
+            "tableti",
+            "bahasha na stempu"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-61"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuandika matini mbalimbali",
+          "learning_activity": "(b) Kujibu barua ya kirafiki",
+          "suggested_methods": [
+            "Maswali na Majibu: Waongoze wanafunzi kujibu barua ya kirafiki"
+          ],
+          "assessment_criteria": "Barua ya kirafiki imejibiwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-62"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(a) Kuchambua mawazo mbalimbali yaliyojitokeza katika matini fupi sahili aliyoisoma",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi kutembelea maktaba kusoma matini, kisha wachambue mawazo yaliyomo katika matini walizozisoma"
+          ],
+          "assessment_criteria": "Mawazo mbalimbali yaliyojitokeza katika matini fupi sahili iliyosomwa yamechambuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Matini fupi sahili"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-63"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(b) Kueleza mawazo yaliyojitokeza katika matini fupi sahili kwa kuzungumza",
+          "suggested_methods": [
+            "Kusoma matini: Andaa matini, zigawe kwenye vikundi, kisha waongoze wanafunzi kusoma, kujadili na kueleza mawazo yanayojitokeza katika matini hizo"
+          ],
+          "assessment_criteria": "Mawazo yaliyojitokeza katika matini fupi sahili yameelezwa kwa usahihi kwa kuzungumza",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-64"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(c) Kufupisha habari alizozisoma katika matini fupi sahili kwa kuandika",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kwa kutumia maswali kubaini mawazo makuu katika matini fupi sahili walizozisoma na kuzifupisha"
+          ],
+          "assessment_criteria": "Habari zilizosomwa katika matini fupi sahili zimefupishwa kwa usahihi kwa kuandika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-65"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.4 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(a) Kutunga maigizo rahisi na mafupi kwa kuzingatia kanuni",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kuangalia igizo kwenye televisheni au redio na kuchunguza namna wahusika wanavyovaa uhusika katika uigizaji, kisha watunge maigizo rahisi kwa kufuata kanuni",
+            "Mchezo: Waongoze wanafunzi kuigiza igizo walilolitunga"
+          ],
+          "assessment_criteria": "Maigizo rahisi na mafupi yametungwa kwa kuzingatia kanuni kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "kisw-5-66"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.4 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(b) Kuigiza michezo sahili",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kuangalia michezo kwenye televisheni au kusikiliza redioni, kisha wachunguze mbinu za kifani na kuziwasilisha darasani",
+            "Mchezo: Waongoze wanafunzi kuigiza maigizo rahisi"
+          ],
+          "assessment_criteria": "Michezo sahili imeigizwa kwa ufanisi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-5-67"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.1 Kuendeleza mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kutumia msamiati katika mijadala mbalimbali kwa kujiamini",
+          "suggested_methods": [
+            "Mdahalo: Waongoze wanafunzi kutumia msamiati sahihi katika mdahalo"
+          ],
+          "assessment_criteria": "Msamiati umetumika katika mijadala mbalimbali kwa kujiamini",
+          "suggested_resources": [
+            "Televisheni, sidii na redio"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-68"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(a) Kubaini makosa ya kiuandishi katika matini",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kusoma matini kwa umakini na kubainisha makosa ya kiuandishi"
+          ],
+          "assessment_criteria": "Makosa ya kiuandishi katika matini yamebainishwa",
+          "suggested_resources": [
+            "Risala, hotuba, kompyuta, tableti na matini mbalimbali"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-69"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(b) Kusahihisha makosa ya kiuandishi katika matini",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili na kusahihisha makosa kwa kuandika kilichosahihi mahali penye kosa la kiuandishi"
+          ],
+          "assessment_criteria": "Makosa ya kiuandishi katika matini yamesahihishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-70"
+        },
+        {
+          "main_competence": "1.0 Kuwasiliana katika miktadha mbalimbali",
+          "specific_competence": "1.2 Kutumia maandishi katika mawasiliano kulingana na miktadha mbalimbali",
+          "learning_activity": "(c) Kuandika risala na hotuba kwa kuzingatia muundo na muktadha",
+          "suggested_methods": [
+            "Kusoma matini: Waongoze wanafunzi kusoma risala na hotuba mbalimbali, kisha wajadili muundo wa hotuba na risala",
+            "Majigambo: Waongoze wanafunzi katika timu mbili kujigamba kuhusu risala na hotuba wakibainisha sifa, muundo, matumizi na wahusika wake. Timu moja iitwe risala na timu ya pili iitwe hotuba",
+            "Majadiliano: Waongoze wanafunzi kujadiliana katika vikundi, mambo ya kuzingatia katika uandishi wa risala na hotuba, kisha waandike risala na hotuba"
+          ],
+          "assessment_criteria": "Risala na hotuba zimeandikwa kwa kuzingatia muundo na muktadha kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-71"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(a) Kusikiliza habari mbalimbali na kunukuu mawazo makuu",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kusikiliza habari ulizoziandaa, kisha waandike mawazo makuu yaliyomo kwenye habari hizo",
+            "Uchunguzi: Waongoze wanafunzi kusikiliza taarifa ya habari kwenye redio/televisheni/kompyuta, kisha waandike mawazo makuu waliyoyapata"
+          ],
+          "assessment_criteria": "Habari mbalimbali zimesikilizwa na mawazo makuu yamenukuliwa kwa usahihi",
+          "suggested_resources": [
+            "Kinasasauti, redio na televisheni"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "kisw-6-72"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uuelewa wa jambo alilolisikiliza au kulisoma",
+          "specific_competence": "2.1 Kuonesha stadi za kusikiliza na kuelewa",
+          "learning_activity": "(b) Kufupisha habari alizozisikiliza kwa kuzingatia mawazo makuu",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kubainisha na kuandika wazo kuu kwa kila aya katika habari waliyoisikiliza, kisha waunganishe mawazo na kupata ufupisho"
+          ],
+          "assessment_criteria": "Habari zilizosikilizwa zimefupishwa kwa kuzingatia mawazo makuu",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-73"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(a) Kutumia msamiati mwafaka katika kupinga au kutetea hoja kwa kutoa mifano thabiti kulingana na muktadha",
+          "suggested_methods": [
+            "Mdahalo: Waongoze wanafunzi kwa kuwapa kichwa cha mdahalo, upande mmoja upinge na mwingine utetee hoja kwa mifano thabiti kulingana na muktadha"
+          ],
+          "assessment_criteria": "Msamiati mwafaka umetumika kwa ufasaha katika kupinga au kutetea hoja kwa kutoa mifano thabiti kulingana na muktadha",
+          "suggested_resources": [
+            "Kamusi, televisheni, sidii, redio na kinasasauti"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-74"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(b) Kutumia lugha ya mvuto katika kuwasilisha hoja",
+          "suggested_methods": [
+            "Uwasilishaji: Waongoze wanafunzi kuwasilisha hoja kwa kutumia lugha ya mvuto, yaani yenye tamathali za semi, nahau, methali na misemo"
+          ],
+          "assessment_criteria": "Lugha ya mvuto imetumika kwa usahihi katika kuwasilisha hoja",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-75"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.1 Kuwasilisha hoja kwa njia ya mazungumzo katika miktadha mbalimbali",
+          "learning_activity": "(c) Kuhutubia kwa lugha fasaha katika miktadha ya shuleni",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadili mambo ya msingi ya kuzingatia wakati wa kuhutubia",
+            "Igizo: Waongoze wanafunzi kuigiza namna ya kuhutubia kuonesha vipaumbele vyao wakati wa kampeni za kugombea nafasi za uongozi shuleni"
+          ],
+          "assessment_criteria": "Kuhutubia kwa lugha fasaha katika muktadha wa shuleni kumefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-76"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(a) Kusoma mashairi na ngonjera mbalimbali",
+          "suggested_methods": [
+            "Kusoma matini: Waongoze wanafunzi kusoma matini zenye mashairi na ngonjera",
+            "Uchunguzi: Waongoze wanafunzi kusikiliza mashairi na ngonjera zilizorekodiwa, kisha wachunguze namna zinavyotambwa na kughaniwa",
+            "Maswali na majibu: Waongoze wanafunzi kubainisha mambo ya kuzingatia wakati wa kughani shairi na kutamba ngonjera"
+          ],
+          "assessment_criteria": "Mashairi na ngonjera mbalimbali zimesomwa kwa ufasaha",
+          "suggested_resources": [
+            "Mashairi na ngonjera"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-77"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(b) Kuchambua mawazo yanayo jitokeza katika ngonjera na mashairi aliyoyasoma",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi kutembelea maktaba kusoma ngonjera na mashairi, kisha kuchambua ujumbe uliomo",
+            "Majadiliano: Waongoze wanafunzi kufafanua mawazo yaliyojitokeza katika ngonjera na mashairi"
+          ],
+          "assessment_criteria": "Mawazo yanayojitokeza katika ngonjera na mashairi yaliyosomwa yamechambuliwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-78"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.2 Kuchanganua mawazo yaliyowasilishwa katika matini mbalimbali",
+          "learning_activity": "(c) Kusimulia mawazo yaliyomo katika ngonjera na mashairi aliyoyasoma",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kutamba ngonjera na kughani mashairi, kisha wajadili ujumbe uliomo",
+            "Maswali na majibu: Waongoze wanafunzi kufafanua mawazo yaliyojitokeza katika ngonjera na mashairi kwa kuwauliza maswali"
+          ],
+          "assessment_criteria": "Mawazo yaliyomo katika ngonjera na mashairi yaliyosomwa yamesimuliwa kwa ufasaha",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-79"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(a) Kutunga shairi na ngonjera",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana na kuandika maneno yenye miishio inayofanana, kisha waandike maneno yenye mizani nne, halafu waongeze maneno mengine yenye mizani nne (jumla ziwe mizani nane), kisha watunge ngonjera na mashairi kwa kutumia maneno hayo"
+          ],
+          "assessment_criteria": "Ngonjera na mashairi vimetungwa kwa usahihi",
+          "suggested_resources": [
+            "Ngonjera, mashairi na vitu halisi"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "kisw-6-80"
+        },
+        {
+          "main_competence": "3.0 Kuwasilisha hoja kwa mazungumzo na kwa maandishi kulingana na muktadha",
+          "specific_competence": "3.3 Kuonesha stadi za awali za ubunifu wa kazi mbalimbali za Kiswahili",
+          "learning_activity": "(b) Kutamba ngonjera na kughani mashairi",
+          "suggested_methods": [
+            "Uchunguzi: Waongoze wanafunzi kuangalia ngonjera na mashairi kwenye televisheni na redio na kuchunguza mbinu za kifani zilizotumika",
+            "Mchezo: Waongoze wanafunzi kutamba ngonjera na kughani mashairi"
+          ],
+          "assessment_criteria": "Ngonjera zimetambwa na mashairi yameghaniwa kwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "kisw-6-81"
+        }
+      ]
+    }
+  }
+}

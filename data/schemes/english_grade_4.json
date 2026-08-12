@@ -1,0 +1,1552 @@
+{
+  "subject": "English",
+  "form": "Grade 4",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 6,
+  "total_periods": 234,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(a) Associate words with objects found in different contexts (e.g., home, hospital, market, bus station)",
+      "activity_id": "engl-4-15",
+      "periods": 7,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Direct/explicit instruction: Guide the pupils through learning words in their immediate surroundings",
+        "Repetition and multiple exposures: Expose the pupils to new words"
+      ],
+      "assessment": "Words are associated with objects found in different contexts",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(a) Associate words with objects found in different contexts (e.g., home, hospital, market, bus station)",
+      "activity_id": "engl-4-15",
+      "periods": 1,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Direct/explicit instruction: Guide the pupils through learning words in their immediate surroundings",
+        "Repetition and multiple exposures: Expose the pupils to new words"
+      ],
+      "assessment": "Words are associated with objects found in different contexts",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(b) Match objects with their respective characteristics",
+      "activity_id": "engl-4-16",
+      "periods": 6,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Vocabulary 7-up game: Guide the pupils through matching vocabulary with objects in a simple game"
+      ],
+      "assessment": "Words are matched with their respective characteristics",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(b) Match objects with their respective characteristics",
+      "activity_id": "engl-4-16",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Vocabulary 7-up game: Guide the pupils through matching vocabulary with objects in a simple game"
+      ],
+      "assessment": "Words are matched with their respective characteristics",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(c) Construct short sentences using vocabulary referring to objects found in different settings",
+      "activity_id": "engl-4-17",
+      "periods": 6,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Word walls: Ask the pupils to construct sentences with words on the word wall"
+      ],
+      "assessment": "Short sentences are constructed by using vocabulary referring to objects found in different settings",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.1 Develop vocabulary by relating words with objects in the environment",
+      "learning_activity": "(c) Construct short sentences using vocabulary referring to objects found in different settings",
+      "activity_id": "engl-4-17",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Word walls: Ask the pupils to construct sentences with words on the word wall"
+      ],
+      "assessment": "Short sentences are constructed by using vocabulary referring to objects found in different settings",
+      "resources": [
+        "Realia, word lists, charts and audio/ audiovisual materials with environmental vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(a) Talk about quantity using appropriate words (e.g., some, many, any, much)",
+      "activity_id": "engl-4-18",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Explanation: Guide the pupils through talking about quantities of things using some, many, any, much",
+        "Role play: Guide the pupils through playing the roles of sellers and buyers in shopping using the expressions ‘ How much is it and ‘How many do we want/need"
+      ],
+      "assessment": "Quantities are expressed using appropriate words",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(a) Talk about quantity using appropriate words (e.g., some, many, any, much)",
+      "activity_id": "engl-4-18",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Explanation: Guide the pupils through talking about quantities of things using some, many, any, much",
+        "Role play: Guide the pupils through playing the roles of sellers and buyers in shopping using the expressions ‘ How much is it and ‘How many do we want/need"
+      ],
+      "assessment": "Quantities are expressed using appropriate words",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(b) Express location using appropriate prepositions of place and time (target: in, at, on, under, inside, outside, over, near)",
+      "activity_id": "engl-4-19",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Games: Use games like ‘Simon Says’ to guide the pupils through responding to commands with prepositions",
+        "Preposition race: Ask the pupils to follow instructions that include prepositions of place and time"
+      ],
+      "assessment": "Location is expressed using appropriate prepositions of place and time",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(b) Express location using appropriate prepositions of place and time (target: in, at, on, under, inside, outside, over, near)",
+      "activity_id": "engl-4-19",
+      "periods": 7,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Games: Use games like ‘Simon Says’ to guide the pupils through responding to commands with prepositions",
+        "Preposition race: Ask the pupils to follow instructions that include prepositions of place and time"
+      ],
+      "assessment": "Location is expressed using appropriate prepositions of place and time",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(c) Express past events (target: simple past tense, past continuous tense)",
+      "activity_id": "engl-4-20",
+      "periods": 7,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Game: Ask the pupils to change irregular verbs in present tense into past tense"
+      ],
+      "assessment": "Past events are expressed correctly",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(c) Express past events (target: simple past tense, past continuous tense)",
+      "activity_id": "engl-4-20",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Game: Ask the pupils to change irregular verbs in present tense into past tense"
+      ],
+      "assessment": "Past events are expressed correctly",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(d) Use conjunctions in oral and written contexts (target: so, because)",
+      "activity_id": "engl-4-21",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Link-Up Game: Guide the pupils in pairs through writing a sentence at the same time using so and because",
+        "“SLAP-IT” Game: Guide the pupils through getting the correct word and gaining a point for their group in the game"
+      ],
+      "assessment": "Conjunctions are well used in oral and written contexts",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Demonstrate mastery of basic English language skills",
+      "specific_competence": "1.2 Use appropriate grammar and vocabulary both orally and in writing",
+      "learning_activity": "(d) Use conjunctions in oral and written contexts (target: so, because)",
+      "activity_id": "engl-4-21",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Link-Up Game: Guide the pupils in pairs through writing a sentence at the same time using so and because",
+        "“SLAP-IT” Game: Guide the pupils through getting the correct word and gaining a point for their group in the game"
+      ],
+      "assessment": "Conjunctions are well used in oral and written contexts",
+      "resources": [
+        "Charts, texts and audio/ audiovisual materials with grammar and vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 1,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 7,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 7,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 7,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 6,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.1 Respond appropriately in a familiar communicative context",
+      "learning_activity": "Participate in simple dialogues about school, market and home contexts",
+      "activity_id": "engl-4-22",
+      "periods": 2,
+      "activity_total_periods": 42,
+      "teaching_learning_activities": [
+        "Dialogue: Use a dialogue with the appropriate vocabulary for market and home",
+        "Roleplay: Guide the pupils through role-playing a teacher-pupil conversation on a particular topic"
+      ],
+      "assessment": "Simple dialogues are produced on school, market and home contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with communicative contexts"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w16-2",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(a) Read aloud grade-level simple texts with appropriate intonation",
+      "activity_id": "engl-4-23",
+      "periods": 4,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Demonstration: Read aloud, model, and verbalize the words in the text",
+        "Reader’s Theatre: Assign the pupils in groups to take turns in reading their scripts with appropriate intonation"
+      ],
+      "assessment": "Grade-level simple texts are read aloud with appropriate intonation",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(a) Read aloud grade-level simple texts with appropriate intonation",
+      "activity_id": "engl-4-23",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Demonstration: Read aloud, model, and verbalize the words in the text",
+        "Reader’s Theatre: Assign the pupils in groups to take turns in reading their scripts with appropriate intonation"
+      ],
+      "assessment": "Grade-level simple texts are read aloud with appropriate intonation",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(a) Read aloud grade-level simple texts with appropriate intonation",
+      "activity_id": "engl-4-23",
+      "periods": 5,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Demonstration: Read aloud, model, and verbalize the words in the text",
+        "Reader’s Theatre: Assign the pupils in groups to take turns in reading their scripts with appropriate intonation"
+      ],
+      "assessment": "Grade-level simple texts are read aloud with appropriate intonation",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(b) Read grade-level simple texts of different natures fluently",
+      "activity_id": "engl-4-24",
+      "periods": 1,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Modelling: Reading simple texts and ask the pupils to read in groups"
+      ],
+      "assessment": "Grade-level simple texts of different natures are read fluently",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18-3",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(b) Read grade-level simple texts of different natures fluently",
+      "activity_id": "engl-4-24",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Modelling: Reading simple texts and ask the pupils to read in groups"
+      ],
+      "assessment": "Grade-level simple texts of different natures are read fluently",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(b) Read grade-level simple texts of different natures fluently",
+      "activity_id": "engl-4-24",
+      "periods": 6,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Modelling: Reading simple texts and ask the pupils to read in groups"
+      ],
+      "assessment": "Grade-level simple texts of different natures are read fluently",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Comprehend oral and written information",
+      "specific_competence": "2.2 Read appropriately a variety of simple texts",
+      "learning_activity": "(b) Read grade-level simple texts of different natures fluently",
+      "activity_id": "engl-4-24",
+      "periods": 2,
+      "activity_total_periods": 15,
+      "teaching_learning_activities": [
+        "Modelling: Reading simple texts and ask the pupils to read in groups"
+      ],
+      "assessment": "Grade-level simple texts of different natures are read fluently",
+      "resources": [
+        "Simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Pronounce words with similar sounds (e.g., see/sea, by/bye/buy, right/write)",
+      "activity_id": "engl-4-25",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Listen and Repeat: Pronounce a word and ask your pupils to pronounce it after you",
+        "Tongue twisters: Guide the pupils through reciting tongue twisters with the correct pronunciation"
+      ],
+      "assessment": "Words with the same sound are pronounced correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Pronounce words with similar sounds (e.g., see/sea, by/bye/buy, right/write)",
+      "activity_id": "engl-4-25",
+      "periods": 6,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Listen and Repeat: Pronounce a word and ask your pupils to pronounce it after you",
+        "Tongue twisters: Guide the pupils through reciting tongue twisters with the correct pronunciation"
+      ],
+      "assessment": "Words with the same sound are pronounced correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(a) Pronounce words with similar sounds (e.g., see/sea, by/bye/buy, right/write)",
+      "activity_id": "engl-4-25",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Listen and Repeat: Pronounce a word and ask your pupils to pronounce it after you",
+        "Tongue twisters: Guide the pupils through reciting tongue twisters with the correct pronunciation"
+      ],
+      "assessment": "Words with the same sound are pronounced correctly",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Convey simple ideas using words with similar sounds",
+      "activity_id": "engl-4-26",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Modelling: Construct complete and correct sentences with two words with the same sound",
+        "Discussion: Guide the pupils through discussing a particular topic"
+      ],
+      "assessment": "Simple ideas are conveyed using words with the same sound",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Convey simple ideas using words with similar sounds",
+      "activity_id": "engl-4-26",
+      "periods": 6,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Modelling: Construct complete and correct sentences with two words with the same sound",
+        "Discussion: Guide the pupils through discussing a particular topic"
+      ],
+      "assessment": "Simple ideas are conveyed using words with the same sound",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(b) Convey simple ideas using words with similar sounds",
+      "activity_id": "engl-4-26",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Modelling: Construct complete and correct sentences with two words with the same sound",
+        "Discussion: Guide the pupils through discussing a particular topic"
+      ],
+      "assessment": "Simple ideas are conveyed using words with the same sound",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Use words with opposite meanings in spoken contexts",
+      "activity_id": "engl-4-27",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Brainstorming: Lead the pupils in groups to compose sentences using the antonyms of given words",
+        "Matching: Guide the pupils through matching words with their antonyms",
+        "Complete the list: Assign the pupils to complete the column of antonyms for each word provided in another column",
+        "Memory games: Mix words and their antonyms and ask the pupils to match them"
+      ],
+      "assessment": "Words with opposite meanings are used in spoken contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Use words with opposite meanings in spoken contexts",
+      "activity_id": "engl-4-27",
+      "periods": 6,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Brainstorming: Lead the pupils in groups to compose sentences using the antonyms of given words",
+        "Matching: Guide the pupils through matching words with their antonyms",
+        "Complete the list: Assign the pupils to complete the column of antonyms for each word provided in another column",
+        "Memory games: Mix words and their antonyms and ask the pupils to match them"
+      ],
+      "assessment": "Words with opposite meanings are used in spoken contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.1 Demonstrate knowledge of the basic features of spoken language",
+      "learning_activity": "(c) Use words with opposite meanings in spoken contexts",
+      "activity_id": "engl-4-27",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Brainstorming: Lead the pupils in groups to compose sentences using the antonyms of given words",
+        "Matching: Guide the pupils through matching words with their antonyms",
+        "Complete the list: Assign the pupils to complete the column of antonyms for each word provided in another column",
+        "Memory games: Mix words and their antonyms and ask the pupils to match them"
+      ],
+      "assessment": "Words with opposite meanings are used in spoken contexts",
+      "resources": [
+        "Wallcharts, texts and audio/ audiovisual materials with features of spoken language"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(a) Identify the form and content of wishes and messages",
+      "activity_id": "engl-4-28",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Task-based learning: Guide the pupils through identifying the form and content of written messages from a sample of cards"
+      ],
+      "assessment": "The form and content of wishes and messages are identified",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(a) Identify the form and content of wishes and messages",
+      "activity_id": "engl-4-28",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Task-based learning: Guide the pupils through identifying the form and content of written messages from a sample of cards"
+      ],
+      "assessment": "The form and content of wishes and messages are identified",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(b) Write wishes and messages to parents, teachers and friends",
+      "activity_id": "engl-4-29",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Guided writing: Guide the pupils through writing their wishes in groups",
+        "Games: Guide the pupils through using the ‘Association game’ to write messages to parents, teachers and friends"
+      ],
+      "assessment": "Wishes and messages are written to parents, teachers and friends correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(b) Write wishes and messages to parents, teachers and friends",
+      "activity_id": "engl-4-29",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Guided writing: Guide the pupils through writing their wishes in groups",
+        "Games: Guide the pupils through using the ‘Association game’ to write messages to parents, teachers and friends"
+      ],
+      "assessment": "Wishes and messages are written to parents, teachers and friends correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(b) Write wishes and messages to parents, teachers and friends",
+      "activity_id": "engl-4-29",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Guided writing: Guide the pupils through writing their wishes in groups",
+        "Games: Guide the pupils through using the ‘Association game’ to write messages to parents, teachers and friends"
+      ],
+      "assessment": "Wishes and messages are written to parents, teachers and friends correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(c) Prepare a schedule of daily routines",
+      "activity_id": "engl-4-30",
+      "periods": 3,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Match up: Guide the pupils through matching different times of the day with their daily routine",
+        "Composing: Guide the pupils through composing their schedules for daily routines"
+      ],
+      "assessment": "Schedules of daily routines are prepared correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(c) Prepare a schedule of daily routines",
+      "activity_id": "engl-4-30",
+      "periods": 6,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Match up: Guide the pupils through matching different times of the day with their daily routine",
+        "Composing: Guide the pupils through composing their schedules for daily routines"
+      ],
+      "assessment": "Schedules of daily routines are prepared correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.2 Produce short written messages using appropriate grammar and vocabulary",
+      "learning_activity": "(c) Prepare a schedule of daily routines",
+      "activity_id": "engl-4-30",
+      "periods": 1,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Match up: Guide the pupils through matching different times of the day with their daily routine",
+        "Composing: Guide the pupils through composing their schedules for daily routines"
+      ],
+      "assessment": "Schedules of daily routines are prepared correctly",
+      "resources": [
+        "Realia, word lists, charts, calendars, cards and audio/ audiovisual materials with appropriate vocabulary"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(a) Write simple sentences using visual/ audiovisual stimuli (e.g., pictures, charts, diagrams)",
+      "activity_id": "engl-4-31",
+      "periods": 5,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Pictures: Use pictures to guide the pupils through describing and writing sentences",
+        "Mix and fix sentences: Guide the pupils through constructing sentences by re-arranging mixed parts of sentences",
+        "What’s missing? Guide the pupils through identifying the skipped parts or sentences"
+      ],
+      "assessment": "Simple sentences are written using visual/audiovisual stimuli",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(a) Write simple sentences using visual/ audiovisual stimuli (e.g., pictures, charts, diagrams)",
+      "activity_id": "engl-4-31",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Pictures: Use pictures to guide the pupils through describing and writing sentences",
+        "Mix and fix sentences: Guide the pupils through constructing sentences by re-arranging mixed parts of sentences",
+        "What’s missing? Guide the pupils through identifying the skipped parts or sentences"
+      ],
+      "assessment": "Simple sentences are written using visual/audiovisual stimuli",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(a) Write simple sentences using visual/ audiovisual stimuli (e.g., pictures, charts, diagrams)",
+      "activity_id": "engl-4-31",
+      "periods": 6,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Pictures: Use pictures to guide the pupils through describing and writing sentences",
+        "Mix and fix sentences: Guide the pupils through constructing sentences by re-arranging mixed parts of sentences",
+        "What’s missing? Guide the pupils through identifying the skipped parts or sentences"
+      ],
+      "assessment": "Simple sentences are written using visual/audiovisual stimuli",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(a) Write simple sentences using visual/ audiovisual stimuli (e.g., pictures, charts, diagrams)",
+      "activity_id": "engl-4-31",
+      "periods": 1,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Pictures: Use pictures to guide the pupils through describing and writing sentences",
+        "Mix and fix sentences: Guide the pupils through constructing sentences by re-arranging mixed parts of sentences",
+        "What’s missing? Guide the pupils through identifying the skipped parts or sentences"
+      ],
+      "assessment": "Simple sentences are written using visual/audiovisual stimuli",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17-2",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(b) Write simple guided paragraphs using appropriate and punctuation marks (target: and, but, comma, full stop, question marks)",
+      "activity_id": "engl-4-32",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Brainstorming: Ask the pupils to brainstorm on a chosen topic",
+        "Hook-On Sentences: Guide the pupils to write simple guided paragraphs by hooking one sentence to another"
+      ],
+      "assessment": "Simple guided paragraphs are written using appropriate conjunctions and punctuation marks",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(b) Write simple guided paragraphs using appropriate and punctuation marks (target: and, but, comma, full stop, question marks)",
+      "activity_id": "engl-4-32",
+      "periods": 6,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Brainstorming: Ask the pupils to brainstorm on a chosen topic",
+        "Hook-On Sentences: Guide the pupils to write simple guided paragraphs by hooking one sentence to another"
+      ],
+      "assessment": "Simple guided paragraphs are written using appropriate conjunctions and punctuation marks",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Communicate effectively in different contexts",
+      "specific_competence": "3.3 Demonstrate basic skills in creative writing",
+      "learning_activity": "(b) Write simple guided paragraphs using appropriate and punctuation marks (target: and, but, comma, full stop, question marks)",
+      "activity_id": "engl-4-32",
+      "periods": 6,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Brainstorming: Ask the pupils to brainstorm on a chosen topic",
+        "Hook-On Sentences: Guide the pupils to write simple guided paragraphs by hooking one sentence to another"
+      ],
+      "assessment": "Simple guided paragraphs are written using appropriate conjunctions and punctuation marks",
+      "resources": [
+        "Picture, charts, diagrams and simple texts with a variety of issues"
+      ],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, English kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

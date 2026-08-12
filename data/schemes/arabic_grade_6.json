@@ -1,0 +1,1246 @@
+{
+  "subject": "Arabic",
+  "form": "Grade 6",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 2,
+  "total_periods": 78,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+      "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+      "learning_activity": "Waongoze wanafunzi kusikiliza na kutamka sentensi sahili",
+      "activity_id": "arab-6-63",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Mchezo wa Ding-Dong",
+        "Waongoze wanafunzi kusikiliza na kutamka sentensi sahili"
+      ],
+      "assessment": "Sentensi sahili zimetamkwa kwa usahihi",
+      "resources": [
+        "Vinasa sauti vyenye mada au maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+      "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+      "learning_activity": "Waongoze wanafunzi kusoma sentensi sahili",
+      "activity_id": "arab-6-64",
+      "periods": 3,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Mchezo wa Ding-Dong: Waongoze wanafunzi kusoma sentensi sahili"
+      ],
+      "assessment": "Sentensi sahili zimesomwa kwa usahihi",
+      "resources": [
+        "Vinasa sauti vyenye mada au maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+      "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+      "learning_activity": "Kunukuu: Waongoze wanafunzi kunukuu sentensi sahili",
+      "activity_id": "arab-6-65",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Kunukuu: Waongoze wanafunzi kunukuu sentensi sahili"
+      ],
+      "assessment": "Sentensi sahili zimeandikwa kwa usahihi",
+      "resources": [
+        "Vinasa sauti vyenye mada au maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+      "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+      "learning_activity": "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili",
+      "activity_id": "arab-6-66",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili"
+      ],
+      "assessment": "Sentensi sahili zimetungwa kwa usahihi",
+      "resources": [
+        "Matini na machapisho mbalimbali yenye maudhui za utungaji"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+      "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+      "learning_activity": "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili",
+      "activity_id": "arab-6-66",
+      "periods": 1,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili"
+      ],
+      "assessment": "Sentensi sahili zimetungwa kwa usahihi",
+      "resources": [
+        "Matini na machapisho mbalimbali yenye maudhui za utungaji"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+      "activity_id": "arab-6-67",
+      "periods": 2,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 8
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuhusianisha maneno na vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini",
+      "learning_activity": "Dayologia: Waongoze wanafunzi kutaja vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini",
+      "activity_id": "arab-6-68",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Dayologia: Waongoze wanafunzi kutaja vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini"
+      ],
+      "assessment": "Vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini vimetajwa kwa usahihi",
+      "resources": [
+        "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+      "activity_id": "arab-6-69",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini yamesomwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+      "specific_competence": "Kuandika maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima Waongoze wanafunzi kuandika majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+      "activity_id": "arab-6-70",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Igizodhima Waongoze wanafunzi kuandika majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini"
+      ],
+      "assessment": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+      "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+      "activity_id": "arab-6-71",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+      ],
+      "assessment": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "Kumudu sarufi na msamiati sahili",
+      "specific_competence": "Kuelezea mipaka ya Tanzania",
+      "learning_activity": "Oneshombinu Waongoze wanafunzi kuelezea mipaka ya Tanzania",
+      "activity_id": "arab-6-72",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Oneshombinu Waongoze wanafunzi kuelezea mipaka ya Tanzania"
+      ],
+      "assessment": "Mipaka ya Tanzania imeelezewa kwa usahihi",
+      "resources": [
+        "Ramani na machapisho mbalimbali"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+      "activity_id": "arab-6-73",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+      ],
+      "assessment": "Sentensi sahihi zimetungwa kwa kutumia maneno yaliyomo katika matini waliyoisikiliza",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+      "activity_id": "arab-6-73",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+      ],
+      "assessment": "Sentensi sahihi zimetungwa kwa kutumia maneno yaliyomo katika matini waliyoisikiliza",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya",
+      "activity_id": "arab-6-74",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya"
+      ],
+      "assessment": "Mawazo makuu yaliyomo katika matini waliyoisikiliza yamebainishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya",
+      "activity_id": "arab-6-74",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya"
+      ],
+      "assessment": "Mawazo makuu yaliyomo katika matini waliyoisikiliza yamebainishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza",
+      "activity_id": "arab-6-75",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza"
+      ],
+      "assessment": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza",
+      "activity_id": "arab-6-75",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza"
+      ],
+      "assessment": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza",
+      "activity_id": "arab-6-76",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza"
+      ],
+      "assessment": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8-3",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza na kuelewa taarifa",
+      "learning_activity": "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza",
+      "activity_id": "arab-6-76",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza"
+      ],
+      "assessment": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+      "activity_id": "arab-6-77",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+      ],
+      "assessment": "Maana ya maneno mapya yaliyomo katika matini yamebainishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+      "activity_id": "arab-6-77",
+      "periods": 2,
+      "activity_total_periods": 4,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+        "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+      ],
+      "assessment": "Maana ya maneno mapya yaliyomo katika matini yamebainishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma",
+      "activity_id": "arab-6-78",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma"
+      ],
+      "assessment": "Matini sahili imesomwa na imefupishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma",
+      "activity_id": "arab-6-78",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma"
+      ],
+      "assessment": "Matini sahili imesomwa na imefupishwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma",
+      "activity_id": "arab-6-79",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma"
+      ],
+      "assessment": "Mawazo makuu yaliyomo katika matini iliyosomwa yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusoma na kuelewa matini sahili",
+      "learning_activity": "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma",
+      "activity_id": "arab-6-79",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma"
+      ],
+      "assessment": "Mawazo makuu yaliyomo katika matini iliyosomwa yameandikwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini",
+      "activity_id": "arab-6-80",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini"
+      ],
+      "assessment": "Maagizo na maelekezo sahili yanayotolewa katika mazingira ya hospitalini yamesikilizwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini",
+      "activity_id": "arab-6-80",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini"
+      ],
+      "assessment": "Maagizo na maelekezo sahili yanayotolewa katika mazingira ya hospitalini yamesikilizwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza",
+      "activity_id": "arab-6-81",
+      "periods": 1,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza"
+      ],
+      "assessment": "Hoja au mawazo makuu yaliyomo katika taarifa iliyosikilizwa yameelezwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza",
+      "activity_id": "arab-6-81",
+      "periods": 2,
+      "activity_total_periods": 3,
+      "teaching_learning_activities": [
+        "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza"
+      ],
+      "assessment": "Hoja au mawazo makuu yaliyomo katika taarifa iliyosikilizwa yameelezwa kwa usahihi",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Tafakari binafsi: Waongoze wanafunzi kutoa maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali",
+      "activity_id": "arab-6-82",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Tafakari binafsi: Waongoze wanafunzi kutoa maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali"
+      ],
+      "assessment": "Msamiati umetumika kwa kwa usahihi katika kutoa au kupokea maelekezo kwa mdomo katika muktadha wa hospitali",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+      "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+      "learning_activity": "Igizo: Waongoze wanafunzi kupokea maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali",
+      "activity_id": "arab-6-83",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Igizo: Waongoze wanafunzi kupokea maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali"
+      ],
+      "assessment": "Msamiati umetumika kwa usahihi katika kutoa au kupokea maelekezo kwa maandishi katika muktadha wa hospitali",
+      "resources": [
+        "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+      ],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Arabic kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

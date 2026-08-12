@@ -1,0 +1,175 @@
+{
+  "subject": "Arithmetic, Science and ICT",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kubaini vitu vinavyojenga dhana ya namba katika mazingira",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu vinavyojenga dhana ya namba katika mazingira vimebainishwa",
+          "suggested_resources": [
+            "Kadi za namba",
+            "chati inayoonesha maumbo bapa",
+            "maumbo ya namba",
+            "chati za namba",
+            "sinia la namba",
+            "picha na fedha halisi za kitanzania"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "awal-awali-76"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kubaini maumbo",
+          "suggested_methods": [],
+          "assessment_criteria": "Maumbo yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-77"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kuchambua vitu kulingana na sifa",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu vimechambuliwa kulingana na sifa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-78"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kubaini vipimo",
+          "suggested_methods": [],
+          "assessment_criteria": "Vipimo vimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-79"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kuhesabu namba 1-20",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba 1-20 zimehesabiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-80"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kuandika namba 1-20",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba 1-20 zimeandikwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 28,
+          "id": "awal-awali-81"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kuongeza kwa kutumia vitu halisi na TEHAMA",
+          "suggested_methods": [],
+          "assessment_criteria": "Kuongeza kwa kutumia vitu halisi na TEHAMA kumefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-82"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kupunguza kwa kutumia vitu halisi na TEHAMA",
+          "suggested_methods": [],
+          "assessment_criteria": "Kupunguza kwa kutumia vitu halisi na TEHAMA kumefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-83"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.1 Kutumia mazingira kujenga dhana za kihisabati na kufikiri kimantiki",
+          "learning_activity": "Kutambua sarafu na noti za Kitanzania kuanzia sh 50 hadi sh 10000",
+          "suggested_methods": [],
+          "assessment_criteria": "Sarafu na noti za Kitanzania kuanzia sh 50 hadi sh 10000 zimetambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-84"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.2 Kufanya majaribio ya Kisayansi",
+          "learning_activity": "Kuchunguza vitu katika mazingira yanayomzunguka",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu katika mazingira yanayomzunguka vimechunguzwa",
+          "suggested_resources": [
+            "Picha za mimea na wadudu",
+            "Video inayoonesha majaribio sahili ya kisayansi"
+          ],
+          "periods_for_specific_competence": 42,
+          "id": "awal-awali-85"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.2 Kufanya majaribio ya Kisayansi",
+          "learning_activity": "Kufanya majaribio sahili ya kisayansi",
+          "suggested_methods": [],
+          "assessment_criteria": "Majaribio sahili ya kisayansi yamefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 29,
+          "id": "awal-awali-86"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.3 Kutumia vifaa vya TEHAMA kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kubaini vifaa vya TEHAMA",
+          "suggested_methods": [],
+          "assessment_criteria": "Vifaa vya TEHAMA vimebainishwa",
+          "suggested_resources": [
+            "Picha inayoonesha vifani mbalimbali vya TEHAMA"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "awal-awali-87"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.3 Kutumia vifaa vya TEHAMA kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kuunda vifani mbalimbali vya TEHAMA",
+          "suggested_methods": [],
+          "assessment_criteria": "Vifani mbalimbali vya TEHAMA vimeundwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-88"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.3 Kutumia vifaa vya TEHAMA kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kutumia kompyuta kufanya shughuli mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Kompyuta imetumika kufanya shughuli mbalimbali",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-89"
+        },
+        {
+          "main_competence": "6 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA",
+          "specific_competence": "6.3 Kutumia vifaa vya TEHAMA kuwasiliana katika miktadha mbalimbali",
+          "learning_activity": "Kutumia vifaa mbalimbali vya TEHAMA",
+          "suggested_methods": [],
+          "assessment_criteria": "Vifaa mbalimbali vya TEHAMA vimetumika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 30,
+          "id": "awal-awali-90"
+        }
+      ]
+    }
+  }
+}

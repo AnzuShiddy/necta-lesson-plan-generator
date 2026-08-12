@@ -1,0 +1,416 @@
+{
+  "subject": "Kusoma / Reading",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(a)  Kubaini sauti za irabu (a, e, i, o, u) katika maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za irabu zimebainishwa (a, e, i, o, u) katika maneno",
+          "suggested_resources": [
+            "Kadi na chati za picha za vitu vinazoanza na irabu",
+            "kadi",
+            "chati na picha za irabu",
+            "maneno",
+            "vitu halisi",
+            "sauti za irabu na maneno yaliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 37,
+          "id": "grad-1-1"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(b)  Kuunganisha sauti za irabu ili kuunda maneno (oa, au, ua)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za irabu zimeunganishwa ili kuunda maneno (oa, au, ua)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-2"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(c) Kutambua sauti za konsonanti (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) kwenye maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za konsonanti (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) kwenye maneno zimetambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-3"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(d)  Kutambua herufi kubwa na ndogo",
+          "suggested_methods": [],
+          "assessment_criteria": "Herufi kubwa na ndogo zimetambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-4"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(e)  Kuunganisha sauti za konsonanti na irabu ili kuunda silabi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za konsonanti na irabu zimeunganishwa ili kuunda silabi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-5"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(f) Kutenganisha kwa kutamka sauti za konsonanti na irabu zilizounda silabi na silabi zilizounda maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za konsonanti na irabu zilizounda silabi na silabi zilizounda maneno zimetenganishwa kwa kutamka",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-6"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(g)  Kutambua sauti za herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw) kwenye maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw) kwenye maneno zimetambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-7"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1  Kutambua sauti za herufi",
+          "learning_activity": "(h)  Kuunganisha sauti za herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw) na irabu ili kuunda silabi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za herufi mwambatano (sh, th, mb, ny, ng, nd, kw, mw) zimeunganishwa ili kuunda silabi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-8"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(a)  Kuhusianisha sauti na herufi za irabu (a, e, i, o, u) katika matini",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti na herufi za irabu (a, e, i, o, u) katika matini zimehusianishwa",
+          "suggested_resources": [
+            "Kadi na chati za picha na herufi",
+            "ubao",
+            "maneno",
+            "video zenye sauti na majina ya herufi za irabu",
+            "sauti za irabu na maneno yaliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "grad-1-9"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(b)  Kuhusianisha sauti na herufi za konsonanti (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) katika matini",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti na herufi za konsonanti (b, m, k, d, n); (l, t, p, s, f, j); (g, y, z, h, r, w, v, ch) zimehusianishwa katika matini",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-10"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(c)  Kuhusianisha sauti na herufi za konsonanti mwambatano (sh, th, mb, ny, ng, nd, kw, mw) katika matini",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti na herufi za konsonanti mwambatano (sh, th, mb, ny, ng, nd, kw, mw) zimehusianishwa katika matini",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-11"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(d) Kuunganisha sauti za herufi za konsonanti mwambatano na irabu ili kusoma silabi katika makundi yote (sh, th, mb, ny, ng, nd, kw, mw)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za herufi za konsonanti mwambatano na irabu ili kusoma silabi katika makundi yote (sh, th, mb, ny, ng, nd, kw, mw) zimeunganishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-12"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(e)  Kuunganisha silabi ili kusoma maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Silabi zimeunganishwa ili kusoma maneno",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-13"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(f) Kutenganisha kwa kutamka sauti mojamoja ili kuunda maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti zimetenganishwa kwa kutamka sauti mojamoja ili kuunda maneno",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-14"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2  Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(g)  Kuunganisha maneno ili kusoma sentensi",
+          "suggested_methods": [],
+          "assessment_criteria": "Maneno yameunganishwa ili kusoma sentensi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-15"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3  Kusoma kwa ufasaha",
+          "learning_activity": "(a)  Kusoma kwa sauti kifungu cha habari/hadithi linganifu kwa kuzingatia matamshi sahihi ya maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu cha habari/hadithi linganifu kwa kuzingatia matamshi sahihi ya maneno kimesomwa kwa sauti",
+          "suggested_resources": [
+            "Kadi na chati za maneno",
+            "matini",
+            "picha za vitu mbalimbali na vifungu vya habari au hadithi zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "grad-1-16"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3  Kusoma kwa ufasaha",
+          "learning_activity": "(b)  Kusoma kwa sauti kifungu linganifu cha habari/hadithi kwa kasi stahiki (maneno 40 kwa dakika)",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu linganifu cha habari/hadithi kimesomwa kwa sauti na kwa kasi stahiki (maneno 40 kwa dakika)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-17"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3  Kusoma kwa ufasaha",
+          "learning_activity": "(c)  Kusoma kwa sauti kifungu linganifu cha habari/hadithi kwa hisia na kwa kuzingatia alama za uandishi (nukta, mkato, alama ya kuuliza na alama ya mshangao)",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu linganifu cha habari/hadithi kimesomwa kwa sauti, hisia na kwa kuzingatia alama za uandishi (nukta, mkato, alama ya kuuliza na alama ya mshangao)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-18"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4  Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(a)  Kutafsiri na kuelezea picha",
+          "suggested_methods": [],
+          "assessment_criteria": "Picha zimeelezewa na kutafsiriwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi na chati za picha za vitu mbalimbali",
+            "matini ya habari/hadithi",
+            "hadithi/habari zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "grad-1-19"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4  Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(b)  Kubashiri maudhui ya habari/hadithi kwa usahihi kwa kutumia picha, jina la habari/hadithi na msamiati uliochaguliwa",
+          "suggested_methods": [],
+          "assessment_criteria": "Amebashiri maudhui ya habari/hadithi kwa kwa kutumia picha, jina la hadithi na msamiati uliochaguliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-20"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4  Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(c)  Kusikiliza habari/hadithi kwa ufahamu",
+          "suggested_methods": [],
+          "assessment_criteria": "Habari/hadithi imesikilizwa kwa ufahamu",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-21"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1 Kutambua sauti za herufi",
+          "learning_activity": "(a) Kubaini sauti katika maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti katika maneno zimebainishwa",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi na chati za picha",
+            "herufi",
+            "silabi",
+            "maneno na video zinazohusu sauti za herufi za konsonanti mwambatano na irabu kusoma silabi"
+          ],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-69"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1 Kutambua sauti za herufi",
+          "learning_activity": "(b) Kuunganisha sauti za herufi za konsonanti mwambatano (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) na irabu kusoma silabi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za herufi za konsonanti mwambatano (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) na irabu zimeunganishwa na silabi zimesomwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-70"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1 Kutambua sauti za herufi",
+          "learning_activity": "(c) Kutamka maneno yenye silabi mwambatano",
+          "suggested_methods": [],
+          "assessment_criteria": "Maneno yenye silabi mwambatano yametamkwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-71"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.1 Kutambua sauti za herufi",
+          "learning_activity": "(d) Kutambua sauti zinazounda maneno katika sentensi",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti zinazounda maneno katika sentensi zimetambuliwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-72"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2 Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(a) Kuunganisha sauti za herufi mwambatano zenye konsonanti mbili na irabu ili kuunda silabi (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) na kutambulisha herufi mwambatano zenye maneno ya kukopa (bl, sp, sk, pt, st, ks, kt, pl, al, ar)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sauti za herufi mwambatano zenye konsonanti mbili na irabu zimeunganishwa ili kuunda silabi (gh, ng’, nz, nj, sw, bw, gw, tw, dh, pw, vy, fy, my, ml, ky, py, ft, lw) na herufi mwambatano zenye maneno ya kukopa (bl, sp, sk, pt, st, ks, kt, pl, al, ar) zimetambulishwa",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi na chati za picha",
+            "herufi",
+            "silabi",
+            "maneno na video zenye sauti za herufi mwambatano zenye konsonanti mbili na irabu"
+          ],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-73"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2 Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(b) Kuunganisha silabi kusoma maneno yenye konsonanti tatu na irabu (njwa, nywe, shwa, ngwa, mbwe, ndwa, ng’we)",
+          "suggested_methods": [],
+          "assessment_criteria": "Silabi zimeunganishwa kusoma maneno yenye konsonanti tatu na irabu (njwa, nywe, shwa, ngwa, mbwe, ndwa, ng’we)",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-74"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.2 Kutambua uhusiano wa sauti na herufi",
+          "learning_activity": "(c) Kuunganisha maneno kusoma sentensi",
+          "suggested_methods": [],
+          "assessment_criteria": "Maneno yameunganishwa kusoma sentensi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 98,
+          "id": "grad-2-75"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3 Kusoma kwa ufasaha",
+          "learning_activity": "(a) Kusoma kwa kujiamini kifungu cha habari/hadithi linganifu kwa kuzingatia matamshi sahihi ya maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu cha habari/ hadithi linganifu kwa kuzingatia matamshi sahihi ya maneno kimesomwa kwa kujiamini",
+          "suggested_resources": [
+            "Matini zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-76"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3 Kusoma kwa ufasaha",
+          "learning_activity": "(b) Kusoma kifungu cha habari/hadithi linganifu kwa kasi stahiki (maneno 50 kwa dakika)",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu cha habari/ hadithi linganifu kwa kasi stahiki (maneno 50 kwa dakika) kimesomwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-77"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3 Kusoma kwa ufasaha",
+          "learning_activity": "(c) Kusoma kwa kujiamini kifungu linganifu cha habari/hadithi kwa hisia na kwa kuzingatia alama za uandishi (nukta, mkato, alama ya kuuliza, alama ya mshangao)",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu linganifu cha habari/hadithi kwa hisia na kwa kuzingatia alama za uandishi (nukta, mkato, alama ya kuuliza, alama ya mshangao) kimesomwa kwa kujiamini",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-78"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.3 Kusoma kwa ufasaha",
+          "learning_activity": "(d) Kusoma kwa sauti kifungu cha habari/hadithi sahili",
+          "suggested_methods": [],
+          "assessment_criteria": "Kifungu cha habari/hadithi sahili kimesomwa kwa sauti",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-2-79"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4 Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(a) Kutafsiri na kuelezea matukio (Kupanga na kusoma sentensi kwa kufuata mtiririko sahihi wa matukio, kusoma sentensi zenye mtiririko sahihi, kupanga na kusoma sentensi zilizochanganywa ili kuleta mtiririko wenye mantiki)",
+          "suggested_methods": [],
+          "assessment_criteria": "Matukio yametafsiriwa na kuelezewa (kupanga na kusoma sentensi kwa kufuata mtiririko sahihi wa matukio, kusoma sentensi zenye mtiririko sahihi, kupanga na kusoma sentensi zilizochanganywa ili kuleta mtiririko wenye mantiki)",
+          "suggested_resources": [
+            "Picha za matukio",
+            "kadi za sentensi",
+            "video zinazohusu kusoma na kusikiliza kwa ufahamu na matini zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-80"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4 Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(b) Kusimulia matini fupi aliyoisoma kwa mtiririko wa matukio yenye mantiki",
+          "suggested_methods": [],
+          "assessment_criteria": "Matini fupi zimesomwa kwa mtiririko wa matukio yenye mantiki",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-81"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4 Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(c) Kusikiliza matini sahili kwa ufahamu",
+          "suggested_methods": [],
+          "assessment_criteria": "Matini sahili imesikilizwa kwa ufahamu",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-82"
+        },
+        {
+          "main_competence": "1.0 Kusoma",
+          "specific_competence": "1.4 Kusoma na kusikiliza kwa ufahamu",
+          "learning_activity": "(d) Kusoma matini sahili kwa ufahamu",
+          "suggested_methods": [],
+          "assessment_criteria": "Matini sahili imesomwa kwa ufahamu",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 58,
+          "id": "grad-2-83"
+        }
+      ]
+    }
+  }
+}

@@ -1,8 +1,8 @@
 # Tanzania Lesson Plan Generator (NECTA / TIE 2023)
 
 An AI-assisted web app that produces competence-based lesson plans for Tanzanian
-secondary education, grounded in the **Tanzania Institute of Education (TIE) 2023
-revised curriculum**. It follows the real teaching workflow: the syllabus is laid
+schools — pre-primary, primary and secondary — grounded in the **Tanzania
+Institute of Education (TIE) 2023 revised curriculum**. It follows the real teaching workflow: the syllabus is laid
 out as a **2026 scheme of work** (weeks and dates on the official school calendar),
 the teacher picks a week, and the AI (Google Gemini) expands that week's sub-topic
 into a full classroom-ready lesson plan — previewable and downloadable as
@@ -32,8 +32,9 @@ Open **http://localhost:8000**, pick a subject → form → learning activity, f
 the lesson header, and click **Generate lesson plan**. Preview it in the browser,
 then download it as **Word (.docx)** or **PDF**.
 
-> The 44 subject/level combinations with syllabus data (see below) work out of
-> the box — all 30 Form V–VI subjects and 14 of the Form I–IV ones. Without a
+> The 65 subject/level combinations with syllabus data (see below) work out of
+> the box — pre-primary, all of primary, all 30 Form V–VI subjects and 14 of the
+> Form I–IV ones, 2,624 learning activities in all. Without a
 > `GEMINI_API_KEY` the browsing UI still loads and exports work, but **Generate**
 > returns an error asking you to set the key. On Google's free tier, per-model
 > daily request limits are small — if generation is rate-limited, wait and retry
@@ -49,8 +50,10 @@ that scheme **deterministically and grounded**, with no AI and no scraping:
 - **periods per topic** come from the syllabus's own `periods_for_specific_competence`;
 - **weeks and dates** come from the academic calendar for that form's level
   (`app/calendars.py`), picked from the form name:
-  - **Form I–IV, 2026** — official MoEST calendar. Sem 1: 13 Jan–5 Jun, break
-    27 Mar–8 Apr; Sem 2: 6 Jul–4 Dec, break 4 Sep–14 Sep; 37 teaching weeks.
+  - **Awali, Grade 1–6 and Form I–IV, 2026** — the official MoEST calendar,
+    issued for pre-primary, primary and secondary together. Sem 1: 13 Jan–5 Jun,
+    break 27 Mar–8 Apr; Sem 2: 6 Jul–4 Dec, break 4 Sep–14 Sep; 37 teaching
+    weeks.
   - **Form V–VI, 2026/2027** — the A-level year runs July to May, so it spans
     two calendar years. Sem 1 (6 Jul–4 Dec 2026) is the official MoEST block,
     matching Form V reporting on 4 July 2026. Sem 2 runs into 2027 and is
@@ -80,19 +83,73 @@ knowledge.
 
 ## Subject coverage
 
-Subjects are advertised per **level** (`data/registry.json`), because the two
-levels are different syllabuses on different school years:
+Subjects are advertised per **level** (`data/registry.json`), because the levels
+are different syllabuses, taught over different years:
 
 | Level | Forms | School year | Subjects | Ready | Activities |
 |---|---|---|---|---|---|
-| Ordinary | I–IV | 2026 | 18 | 14 | 769 |
-| Advanced | V–VI | 2026/2027 | 30 | 30 | 988 |
+| Pre-primary | Awali | 2026 | 6 | 6 | 90 |
+| Primary | Grade 1–6 | 2026 | 15 | 15 | 691 |
+| Ordinary | Form I–IV | 2026 | 18 | 14 | 855 |
+| Advanced | Form V–VI | 2026/2027 | 30 | 30 | 988 |
 
 Pick the level in the UI; the subject and form dropdowns follow it. A subject
-taught at both levels (Biology, History, …) keeps two separate syllabus
-documents — `data/syllabus/biology.json` and `biology_advanced.json` — since TIE
-publishes them separately. The form name implies the level everywhere else, so
-nothing downstream has to carry it around.
+taught at several levels (English, Kiswahili, Biology, …) keeps one syllabus
+document per level — `english.json`, `english_primary.json`,
+`english_language_advanced.json` — since TIE publishes them separately. The form
+name implies the level everywhere else, so nothing downstream has to carry it
+around.
+
+### Pre-primary (Awali) and primary (Grade 1–6)
+
+Pre-primary and primary sit on the **same MoEST 2026 calendar** as Form I–IV —
+one almanac covers all three. The 2023 curriculum makes primary six years, so
+there is no Grade 7.
+
+TIE publishes these two levels differently from secondary, and the ingestion
+handles both shapes:
+
+- **Grade 3–6** — one document per subject, `Standard III–VI`, split by grade
+  exactly like the secondary syllabuses. 10 subjects: Kiswahili, English,
+  Hisabati / Mathematics, Sayansi / Science, Jiografia na Mazingira, Historia ya
+  Tanzania na Maadili, Sanaa na Michezo, French, Arabic, Chinese.
+- **Pre-primary and Grade 1–2** — a *single* document holds the whole band, and
+  it is organised by main competence rather than by subject. Each numbered main
+  competence **is** a subject, so every activity is filed under the subject its
+  competence number names. The two maps live in `COMBINED_DOCS` in
+  `scripts/ingest_syllabus.py`, read straight off each document's own competence
+  table (Jedwali Na. 1 / Na. 1.2) and cited line by line, so the split stays
+  grounded in the source rather than in the model's judgement:
+
+  | Awali — Jedwali Na. 1.2 | Subject |
+  |---|---|
+  | 1.0 Kumudu stadi za kisanii, ubunifu na michezo | Creative Arts and Sports |
+  | 2.0 Kuthamini utamaduni … na tunu za taifa | Naipenda Nchi Yangu Tanzania |
+  | 3.0 Kumudu stadi za awali za lugha ya mawasiliano | Early Literacy Skills |
+  | 4.0 Kuhusiana | Early Life Skills |
+  | 5.0 Kutunza afya na mazingira | Health and Environment |
+  | 6.0 Kutumia stadi za awali za kihisabati, sayansi na TEHAMA | Arithmetic, Science and ICT |
+
+  Grade 1–2 maps the same way onto Kusoma / Reading, Kuandika / Writing,
+  English, Kuhesabu / Arithmetic, Utamaduni Sanaa na Michezo, and Afya na
+  Mazingira. Kiswahili is *not* a separate Grade 1–2 subject — at that stage its
+  literacy strands are Kusoma and Kuandika, which is what the document says.
+
+Ingest them with:
+
+```bash
+python scripts/download_syllabus_pdfs.py --all --level primary
+python scripts/ingest_syllabus.py --all --level primary   # combined doc first
+python scripts/ingest_syllabus.py --combined awali        # pre-primary
+```
+
+A subject can be split across two documents — English is in both the combined
+Grade 1–2 syllabus and its own Grade 3–6 one — so ingesting either **keeps** the
+other's grades rather than overwriting them.
+
+A pre-primary session is **20 minutes** (Mtaala wa Elimu ya Awali, Jedwali Na.
+1.5), not the 40-minute period used everywhere else, and the generator is told
+to keep every stage play-based, oral and concrete for that age.
 
 ### Ordinary level (Form I–IV)
 

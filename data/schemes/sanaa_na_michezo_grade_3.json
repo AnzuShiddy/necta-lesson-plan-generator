@@ -1,0 +1,1352 @@
+{
+  "subject": "Sanaa na Michezo",
+  "form": "Grade 3",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 3,
+  "total_periods": 120,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(a) Kuigiza sauti za viumbe vilivyo hai na visivyo hai",
+      "activity_id": "sana-3-1",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Fikiri-Andika-Jozisha-Shirikisha: Waongoze wanafunzi kuigiza sauti za viumbe vilivyo hai na visivyo hai kwa kufikiri, kuandika majina ya viumbe, kujozisha na kushirikisha",
+        "Ufaraguzi na Maonesho: Wapange wanafunzi katika makundi ya kujifunza uigizaji wa matukio mafupi mafupi ili kubaini stadi za kutumia mwili, sauti, ufikirifu katika mazingira yao",
+        "Ujifunzaji rika: Waongoze wanafunzi katika makundi kuandaa na kuwasilisha igizo"
+      ],
+      "assessment": "Stadi za uigizaji wa sauti za viumbe vilivyo hai na visivyo hai zimebainishwa kwa usahihi",
+      "resources": [
+        "Rekodi za sauti za viumbe hai na visivyo hai",
+        "barakoa",
+        "maleba na matini ya michezo ya kuigiza yanayohusu kuigiza sauti za viumbe hai na visivyo hai"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(a) Kuigiza sauti za viumbe vilivyo hai na visivyo hai",
+      "activity_id": "sana-3-1",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Fikiri-Andika-Jozisha-Shirikisha: Waongoze wanafunzi kuigiza sauti za viumbe vilivyo hai na visivyo hai kwa kufikiri, kuandika majina ya viumbe, kujozisha na kushirikisha",
+        "Ufaraguzi na Maonesho: Wapange wanafunzi katika makundi ya kujifunza uigizaji wa matukio mafupi mafupi ili kubaini stadi za kutumia mwili, sauti, ufikirifu katika mazingira yao",
+        "Ujifunzaji rika: Waongoze wanafunzi katika makundi kuandaa na kuwasilisha igizo"
+      ],
+      "assessment": "Stadi za uigizaji wa sauti za viumbe vilivyo hai na visivyo hai zimebainishwa kwa usahihi",
+      "resources": [
+        "Rekodi za sauti za viumbe hai na visivyo hai",
+        "barakoa",
+        "maleba na matini ya michezo ya kuigiza yanayohusu kuigiza sauti za viumbe hai na visivyo hai"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(b) Kuimba kwa sauti moja (unison singing) kwa kuzingatia mkao na upumuaji sahihi (proper posture and breathing)",
+      "activity_id": "sana-3-2",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Nyimbo za hadithi: Waongoze wanafunzi kuimba nyimbo zinazotokana na hadithi",
+        "Igizodhima: Waongoze wanafunzi kuonesha matendo yanayosaidia kudhibiti pumzi wakati wa uimbaji",
+        "Ujifunzaji rika: Waongoze wanafunzi kuimbiana nyimbo wazipendazo"
+      ],
+      "assessment": "Uimbaji wa sauti moja kwa kuzingatia mkao na upumuaji sahihi umefanyika kwa usahihi",
+      "resources": [
+        "Matini za nyimbo fupi zenye sauti moja",
+        "nyimbo zilizorekodiwa kwa uimbaji wa sauti moja",
+        "ala za muziki",
+        "vipaza sauti"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(b) Kuimba kwa sauti moja (unison singing) kwa kuzingatia mkao na upumuaji sahihi (proper posture and breathing)",
+      "activity_id": "sana-3-2",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Nyimbo za hadithi: Waongoze wanafunzi kuimba nyimbo zinazotokana na hadithi",
+        "Igizodhima: Waongoze wanafunzi kuonesha matendo yanayosaidia kudhibiti pumzi wakati wa uimbaji",
+        "Ujifunzaji rika: Waongoze wanafunzi kuimbiana nyimbo wazipendazo"
+      ],
+      "assessment": "Uimbaji wa sauti moja kwa kuzingatia mkao na upumuaji sahihi umefanyika kwa usahihi",
+      "resources": [
+        "Matini za nyimbo fupi zenye sauti moja",
+        "nyimbo zilizorekodiwa kwa uimbaji wa sauti moja",
+        "ala za muziki",
+        "vipaza sauti"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(b) Kuimba kwa sauti moja (unison singing) kwa kuzingatia mkao na upumuaji sahihi (proper posture and breathing)",
+      "activity_id": "sana-3-2",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Nyimbo za hadithi: Waongoze wanafunzi kuimba nyimbo zinazotokana na hadithi",
+        "Igizodhima: Waongoze wanafunzi kuonesha matendo yanayosaidia kudhibiti pumzi wakati wa uimbaji",
+        "Ujifunzaji rika: Waongoze wanafunzi kuimbiana nyimbo wazipendazo"
+      ],
+      "assessment": "Uimbaji wa sauti moja kwa kuzingatia mkao na upumuaji sahihi umefanyika kwa usahihi",
+      "resources": [
+        "Matini za nyimbo fupi zenye sauti moja",
+        "nyimbo zilizorekodiwa kwa uimbaji wa sauti moja",
+        "ala za muziki",
+        "vipaza sauti"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4-2",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(c) Kutumia ala za muziki zinazotumika katika mazingira yake kusindikiza nyimbo fupi",
+      "activity_id": "sana-3-3",
+      "periods": 2,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Udadisi: Andaa mazingira ya wanafunzi kugusa na kufanya majaribio ya vyombo mbalimbali vya muziki wakiwa wenyewe",
+        "Oneshombinu: Waongoze wanafunzi kutumia ala za muziki zinazotumika katika mazingira yao kusindikiza nyimbo fupi"
+      ],
+      "assessment": "Ala za muziki zinazotumika kwenye mazingira yake zimetumika kwa usahihi kusindikiza nyimbo fupi",
+      "resources": [
+        "Matini za nyimbo fupi",
+        "nyimbo zilizorekodiwa kwa kutumia ala mbalimbali za muziki",
+        "ala za muziki zinazopatikana katika mazingira"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.1 Kumudu misingi ya uimbaji na uigizaji",
+      "learning_activity": "(c) Kutumia ala za muziki zinazotumika katika mazingira yake kusindikiza nyimbo fupi",
+      "activity_id": "sana-3-3",
+      "periods": 4,
+      "activity_total_periods": 6,
+      "teaching_learning_activities": [
+        "Udadisi: Andaa mazingira ya wanafunzi kugusa na kufanya majaribio ya vyombo mbalimbali vya muziki wakiwa wenyewe",
+        "Oneshombinu: Waongoze wanafunzi kutumia ala za muziki zinazotumika katika mazingira yao kusindikiza nyimbo fupi"
+      ],
+      "assessment": "Ala za muziki zinazotumika kwenye mazingira yake zimetumika kwa usahihi kusindikiza nyimbo fupi",
+      "resources": [
+        "Matini za nyimbo fupi",
+        "nyimbo zilizorekodiwa kwa kutumia ala mbalimbali za muziki",
+        "ala za muziki zinazopatikana katika mazingira"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 4,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.2 Kuchora picha",
+      "learning_activity": "(a) Kuchora picha sahili kwa kutumia penseli na hali kwa kutumia penseli",
+      "activity_id": "sana-3-4",
+      "periods": 1,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Waongoze wanafunzi kutaja maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kuchora picha zinazoelezea hisia"
+      ],
+      "assessment": "Uchoraji picha kwa kutumia penseli umefanyika kwa usahihi",
+      "resources": [
+        "Picha za mfano zilizochorwa kwa penseli",
+        "matini na maumbo ya vitu mbalimbali yenye maelezo ya namna ya kuchora kwa penseli"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w11-2",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Kubuni kazi za sanaa",
+      "specific_competence": "1.3 Kufinyanga maumbo mbalimbali",
+      "learning_activity": "Kufinyanga maumbo sahili",
+      "activity_id": "sana-3-5",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Fanya kwa vitendo kuelekeza wanafunzi hatua za kufinyanga maumbo sahili",
+        "Kazimradi: Waongoze wanafunzi katika vikundi kufinyanga maumbo sahili"
+      ],
+      "assessment": "Maumbo mbalimbali yamefinyangwa kwa usahihi",
+      "resources": [
+        "Udongo",
+        "vifaa vya kutayarishia udongo",
+        "vifaa vya kuhifadhia udongo",
+        "karatasi",
+        "gundi ya maji na matini mbalimbali zinazohusu ufinyanzi"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 3,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.1 Kumudu mazoezi ya viungo",
+      "learning_activity": "Kufanya mazoezi ya wepesi na msawazo (agility and balance)",
+      "activity_id": "sana-3-6",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Oneshombinu: Waoneshe wanafunzi hatua za kufanya mazoezi ya wepesi na msawazo",
+        "Waongoze wanafunzi kufanya mazoezi ya wepesi na msawazo"
+      ],
+      "assessment": "Mazoezi ya wepesi na msawazo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya mazoezi (koni, kamba, ubao wa usawazo)"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 7
+    },
+    {
+      "entry_id": "s2w6-2",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 1,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 9,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 3,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 10,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kuimarisha afya, stadi na ushindani",
+      "specific_competence": "2.2 Kucheza michezo ya asili",
+      "learning_activity": "Kucheza michezo ya rede, kukimbia na chupa kichwani, kukimbia na kijiko",
+      "activity_id": "sana-3-7",
+      "periods": 2,
+      "activity_total_periods": 30,
+      "teaching_learning_activities": [
+        "Mazoezi yanayoratibiwa: Waongoze wanafunzi kucheza michezo ya kukimbia na chupa kichwani na kukimbia na kijiko"
+      ],
+      "assessment": "Michezo ya rede, kukimbia na chupa kichwani na kukimbia na kijiko imechezwa kwa usahihi",
+      "resources": [
+        "Mpira wa rede",
+        "kijiko",
+        "limao au yai na chupa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 11,
+      "topic_weeks": 11
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+      "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+      "learning_activity": "(a) Kufanya maonesho ya kazi za sanaa katika ngazi ya darasa",
+      "activity_id": "sana-3-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika maonesho ya kazi za sanaa"
+      ],
+      "assessment": "Maonesho ya kazi za sanaa yamefanyika kwa usahihi",
+      "resources": [
+        "Video za maigizo ya majukwaani",
+        "nyimbo mbalimbali",
+        "vifaa vya sanaa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+      "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+      "learning_activity": "(a) Kufanya maonesho ya kazi za sanaa katika ngazi ya darasa",
+      "activity_id": "sana-3-8",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika maonesho ya kazi za sanaa"
+      ],
+      "assessment": "Maonesho ya kazi za sanaa yamefanyika kwa usahihi",
+      "resources": [
+        "Video za maigizo ya majukwaani",
+        "nyimbo mbalimbali",
+        "vifaa vya sanaa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+      "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+      "learning_activity": "(a) Kufanya maonesho ya kazi za sanaa katika ngazi ya darasa",
+      "activity_id": "sana-3-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika maonesho ya kazi za sanaa"
+      ],
+      "assessment": "Maonesho ya kazi za sanaa yamefanyika kwa usahihi",
+      "resources": [
+        "Video za maigizo ya majukwaani",
+        "nyimbo mbalimbali",
+        "vifaa vya sanaa"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+      "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+      "learning_activity": "(b) Kushiriki katika mashindano ya michezo katika ngazi ya darasa",
+      "activity_id": "sana-3-9",
+      "periods": 2,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika mashindano ya michezo"
+      ],
+      "assessment": "Mashindano ya michezo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya michezo"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w18-3",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Kumudu stadi za maonesho ya kazi za sanaa na michezo",
+      "specific_competence": "3.1 Kushiriki katika maonesho ya kazi za sanaa na michezo",
+      "learning_activity": "(b) Kushiriki katika mashindano ya michezo katika ngazi ya darasa",
+      "activity_id": "sana-3-9",
+      "periods": 3,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kazimradi: Waongoze wanafunzi katika vikundi kushiriki katika mashindano ya michezo"
+      ],
+      "assessment": "Mashindano ya michezo yamefanyika kwa usahihi",
+      "resources": [
+        "Vifaa vya michezo"
+      ],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Sanaa na Michezo kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

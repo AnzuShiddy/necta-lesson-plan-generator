@@ -80,6 +80,12 @@ _FORM_KISWAHILI = {
     "Form Four": "Kidato cha Nne",
     "Form Five": "Kidato cha Tano",
     "Form Six": "Kidato cha Sita",
+    "Grade 1": "Darasa la Kwanza",
+    "Grade 2": "Darasa la Pili",
+    "Grade 3": "Darasa la Tatu",
+    "Grade 4": "Darasa la Nne",
+    "Grade 5": "Darasa la Tano",
+    "Grade 6": "Darasa la Sita",
 }
 
 
@@ -87,10 +93,21 @@ def _references(subject: str, form: str) -> str:
     """TIE book citation for the scheme's reference (rejea) column.
 
     The Form V-VI books are a separate series from the 2023 Form I-IV ones, so
-    they are cited as Advanced Secondary and without the 2023 edition year."""
+    they are cited as Advanced Secondary and without the 2023 edition year.
+    Pre-primary and primary cite the TET (Kiswahili) series, which is how the
+    books are published and how primary teachers cite them."""
+    level = calendars.level_of(form)
+    if level == calendars.NURSERY:
+        return ("TET, Mtaala na Muhtasari wa Elimu ya Awali (Toleo la 2023), "
+                "Taasisi ya Elimu Tanzania")
+    if level == calendars.PRIMARY:
+        darasa = _FORM_KISWAHILI.get(form, form)
+        return (f"TET, {subject} kwa Shule za Msingi {darasa}: Kitabu cha "
+                "Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), "
+                "Taasisi ya Elimu Tanzania")
     kiswahili = subject in _KISWAHILI_MEDIUM
     kidato = _FORM_KISWAHILI.get(form, form)
-    if calendars.level_of(form) == calendars.ADVANCED:
+    if level == calendars.ADVANCED:
         if kiswahili:
             return (f"TET, {subject} kwa Sekondari ya Juu {kidato}: Kitabu cha "
                     "Mwanafunzi na Kiongozi cha Mwalimu, Taasisi ya Elimu Tanzania")

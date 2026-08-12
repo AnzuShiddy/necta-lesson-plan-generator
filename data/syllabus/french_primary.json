@@ -1,0 +1,752 @@
+{
+  "subject": "French",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727169152-French%20Syllabus%20For%20Primary%20Education%20Standardv%20III%20-%20VII.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Développer la conscience phonémique et la prononciation des lettres françaises",
+          "learning_activity": "(a) Écouter et identifier les sons du français",
+          "suggested_methods": [
+            "Répétition : Faire écouter aux élèves les sons du français et de les répéter à haute voix.",
+            "Jeu de la discrimination des sons : Faire jouer les élèves ce jeu à l'aide des paires minimales portant des sons visés.",
+            "Jeu de la balle: À l’aide de la balle, faire jouer ce jeu les élèves en prononçant les sons visés"
+          ],
+          "assessment_criteria": "Capacité d’identifier les sons du français",
+          "suggested_resources": [
+            "- Documents oraux simples portant des sons visés",
+            "- Cartes portant des sons français",
+            "- Cartes portants des mots simples"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "fren-3-1"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Développer la conscience phonémique et la prononciation des lettres françaises",
+          "learning_activity": "(b) Prononcer les sons des lettres françaises",
+          "suggested_methods": [
+            "Répétition : Faire écouter et répéter les élèves les sons des lettres travaillés",
+            "Lecture à haute voix : Mener les élèves à lire des lettres du français à haute voix",
+            "Jeu de balle : Faire jouer les élèves au jeu de la balle en prononçant les sons des lettres visés",
+            "Virelangues : Faire répéter les virelangues simples portant des sons des lettres visés"
+          ],
+          "assessment_criteria": "Capacité de prononcer correctement les sons du français",
+          "suggested_resources": [
+            "- Cartes portant des lettres du français",
+            "- Cartes portant des mots simples",
+            "- Virelangues"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-2"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Développer la conscience phonémique et la prononciation des lettres françaises",
+          "learning_activity": "(c) Combiner les sons des lettres françaises pour former des mots",
+          "suggested_methods": [
+            "Remue-méninge : Mener les élèves à réfléchir sur les sons des lettres françaises qu’ils connaissent déjà et utiliser ces sons pour former des mots simples",
+            "Chanson : Mener les élèves à chanter la chanson de l’alphabet français"
+          ],
+          "assessment_criteria": "Capacité de combiner des sons des lettres françaises pour former des mots du français",
+          "suggested_resources": [
+            "- Cartes portant des lettres du français",
+            "- Cartes portant des mots simples",
+            "- Jeux des mots-croisés",
+            "- Chanson de l’alphabet français"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-3"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(a) Reconnaître les noms des objets de la classe présentés à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Questions et réponses : Montrer aux élèves les objets réels ou les images des objets de la classe, puis leur demander de les nommer (Exemple : Question- Qu’est-ce que c’est? Réponse -C’est un/une ...)",
+            "Jeu de devinette : Mener les élèves à écouter des descriptifs sur des objets de la classe et à identifier leurs noms",
+            "Projet: Organiser les élèves à dessiner et à nommer/étiqueter en français les objets de la classe"
+          ],
+          "assessment_criteria": "Capacité d’identifier les noms des objets de la classe présentés à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Objets réels de classe",
+            "- Photos/dessins des objets de l’environnement proche"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-3-4"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(b) Reconnaître les noms des animaux et des objets de l’environnement proche présentés à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Questions et réponses : Montrer aux élèves les objets réels ou les images des objets/animaux, et puis demander leur de les nommer (Exemple : Question- Qu’est-ce que c’est? Réponse -C’est un/une ...)",
+            "Jeu de devinette : Faire écouter les élèves les descriptifs sur les animaux et les objets de l’environnement proche et à identifier leurs noms",
+            "Projet : Organiser les élèves à dessiner et à nommer/étiqueter en français des images d’animaux et des objets réels de l’environnement proche"
+          ],
+          "assessment_criteria": "Capacité de reconnaître les noms des animaux et des objets de l’environnement proche présentés à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Objets réels de l’environnement proche",
+            "- Photos/dessins des animaux/des objets de l’environnement proche",
+            "- Documents oraux portant sur des devinettes"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-5"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(c) Reconnaître les noms des membres de la famille présentés à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Questions et réponses : Montrer aux élèves la photo/dessins de membre de la famille, et puis leur demander de les nommer (Exemple : Question- Qui est-ce ? Réponse -C’est le/la ...)",
+            "Projet: organiser les élèves à dessiner et à nommer/étiqueter les membres de la famille"
+          ],
+          "assessment_criteria": "Capacité d’identifier les membres de la famille présentés à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Photos/dessins de membres de la famille",
+            "- Documents sonores ou écrit portant sur les membres de la famille"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-6"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(d) Utiliser les nombres jusqu’à 20 oralement et à l’écrit",
+          "suggested_methods": [
+            "Chanson : Mener les élèves à chanter une chanson sur les nombres jusqu’à 20",
+            "Travail pratique : Guider les élèves à ranger des objets en fonction des nombres",
+            "Questions et réponses : Montrer aux élèves les objets réels ou leurs images, et puis leur demander de donner le nombre des objets présentés (Exemple : Question- Il y a combien de .... sur la table ? Réponse - Il y a ... sur la table)"
+          ],
+          "assessment_criteria": "Capacité d’utiliser les nombres jusqu’à 20 à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Documents sonores/chansons portants sur les nombres jusqu’à 20",
+            "- Cartes des nombres jusqu’à 20",
+            "- Objets réels",
+            "- Photos/dessins des objets de l’environnement proche"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-7"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.3 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(a) Utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour localiser des objets de l’environnement proche (à l’école, à la maison)",
+          "suggested_methods": [
+            "Questions et réponses : Montrer aux élèves où se trouvent les objets réels ou leurs images, et puis demander leur de localiser ces objets (Exemple : Question- Où est ... ? Réponse – Il/elle est ...)",
+            "Travail pratique : Faire écouter les élèves un document sonore portant sur la localisation pour repérer les objets en question"
+          ],
+          "assessment_criteria": "Capacité d’utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour localiser des objets de l’environnement proche (à l’école, à la maison)",
+          "suggested_resources": [
+            "- Documents sonores sur la localisation",
+            "- Objets réels",
+            "- Photos/dessins de l’envronnement proche",
+            "- Textes simples écrits portant sur la localisation"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-3-8"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.3 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(b) Utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour se présenter et présenter quelqu’un",
+          "suggested_methods": [
+            "Démonstration : Démontrer aux élèves comment se présenter et leur demander de se présenter à leur tour",
+            "Questions et réponses : Mener les élèves à se présenter à l’aide des questions ? (Exemple : Question- comment tu t’appelles ? Tu as quel âge ? Tu habites où Réponse – Je m’appelle ..., J’ai ..., J’habite ...)",
+            "Jeu de rôle : Guider les élèves en binôme de jouer le rôle de présenter l’autrui",
+            "Travail pratique : Faire écouter aux élèves un document sonore portant sur la présentation pour repérer les informations personnelles"
+          ],
+          "assessment_criteria": "Capacité d’utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour se présenter et présenter quelqu’un",
+          "suggested_resources": [
+            "- Documents oraux portant sur la présentation",
+            "- Documents audio- visuels portant sur la présentation",
+            "- Photos/dessins",
+            "- Textes écrits portant sur la présentation"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-9"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.1 Lire et comprendre des textes simples",
+          "learning_activity": "(a) Lire et comprendre des messages courts (annonces, instructions/consignes, texto)",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à lire des textes simples et de présenter ce qu’ils ont compris",
+            "Questions et réponses : Guider les élèves à lire des textes simples et courts, puis poser leur des questions pour vérifier la compréhension"
+          ],
+          "assessment_criteria": "Capacité de lire et de comprendre des textes simples et courts (des annonces, des instructions/consignes/s et des texto)",
+          "suggested_resources": [
+            "- Textes authentiques simples (des annonces, des instructions/consignes et des texto)"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-3-10"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.2 Réagir de manière appropriée à un contexte familier de communication",
+          "learning_activity": "(a) Suivre des consignes simples données oralement et à l’écrit dans le contexte familier (à l’école et à la maison)",
+          "suggested_methods": [
+            "Jeu de rôle : Guider les élèves à jouer les rôles enseignant-élève/élève-élève/parent-enfant etc.",
+            "Dramatisation: Mener les élèves à réagir en fonction de messages lus"
+          ],
+          "assessment_criteria": "Capacité de réagir de manière appropriée en fonction de messages communiqués dans des annonces, texto, et consignes données à l’école et à la maison",
+          "suggested_resources": [
+            "- Documents oraux portant sur des consignes",
+            "- Textes portant sur des consignes"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-3-11"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+          "learning_activity": "(a) Utiliser les intonations appropriées dans la communication simple",
+          "suggested_methods": [
+            "Jeu de dialogue : Guider les élèves à dialoguer en tenant compte de l’intonation correcte",
+            "Travail pratique : Guider les élèves à formuler des questions à l’aide de l’intonation"
+          ],
+          "assessment_criteria": "Capacité d’utiliser les intonations correctes dans la communication",
+          "suggested_resources": [
+            "- Documents oraux"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-3-12"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+          "learning_activity": "(b) Utiliser les signes de ponctuation (majuscule, minuscule, point et point d’interrogation) dans des textes simples",
+          "suggested_methods": [
+            "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement les lettres majuscules, les lettres minuscules, le point et point d’interrogation dans des textes simples",
+          "suggested_resources": [
+            "- Textes authentiques simples"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-3-13"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+          "learning_activity": "(a) Reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Chanson/ comptine : Mener les élèves à chanter une chanson/ comptine des parties du corps humain",
+            "Jeu de rôle : Guider les élèves à jouer un rôle portant sur les parties du corps (chez le médecin)"
+          ],
+          "assessment_criteria": "Capacité de reconnaître les noms des parties du corps humain présentés à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Modèle du corps humain",
+            "- Photos/ dessins des membre du corps humain"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-4-14"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Relier des mots aux objets dans l’environne- ment",
+          "learning_activity": "(b) Utiliser les nombres jusqu’à 60 oralement et à l’écrit",
+          "suggested_methods": [
+            "Chanson : Mener les élèves à chanter une chanson de nombres jusqu’à 60",
+            "Travail pratique : Guider les élèves à associer les images d’objets en fonction de nombres",
+            "Questions et réponses : Montrer aux élèves les images, et puis leur demander de dire les nombres (Exemple : Question- Il y a combien de .... dans le panier ? Réponse - Il y a ... dans le panier."
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement les nombres jusqu’à 60 à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Documents sonores/ chansons portant sur les nombres jusqu’à 60",
+            "- Cartes de nombres jusqu’à 60",
+            "- Objets réels",
+            "- Photos/ dessins"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-15"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire simples pour décrire des personnes à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Projet : Guider les élèves à dessiner et à décrire des personnes",
+            "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire des personnes"
+          ],
+          "assessment_criteria": "Capacité de décrire des personnes physiquement et moralement à l’oral et à l’écrit en utilisant la grammaire et le vocabulaire simples",
+          "suggested_resources": [
+            "- Documents oraux portant sur la décricrption des personnes",
+            "- Documents audio-visuels la décricrption des personnes",
+            "- Photos/ dessins la décricrption des personnes"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "fren-4-16"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(b) Utiliser la grammaire et le vocabulaire simples pour décrire des objets oralement et à l’écrit",
+          "suggested_methods": [
+            "Projet : Guider les élèves à dessiner et à décrire des objets qui leur sont familiers",
+            "Jeu de devinette : Guider les élèves à jouer un jeu de devinette pour décrire les objets"
+          ],
+          "assessment_criteria": "Capacité de décrire des objets à l’oral et à l’écrit",
+          "suggested_resources": [
+            "- Documents oraux portant sur la décricrption des objets",
+            "- Documents audio-visuels sur décricrption des objets",
+            "- Photos/ dessins sur la décricrption décricrption des objets"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-17"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(c) Utiliser la grammaire et le vocabulaire simples pour décrire des lieux/endroits oralement et à l’écrit",
+          "suggested_methods": [
+            "Projet : guider les élèves à dessiner des plans de leur quartier, village, rue et les décrire",
+            "Atelier d’écriture : Mener les élèves à rédiger des textes simples pour décrire les lieux/endroits"
+          ],
+          "assessment_criteria": "Capacité de décrire correctement des lieux/endroits différents",
+          "suggested_resources": [
+            "- Plans des endroits",
+            "-Photos/ dessins"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-18"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(d) Utiliser oralement et à l’écrit la grammaire et le vocabulaire simples pour exprimer les jours de la semaine et les mois de l’année",
+          "suggested_methods": [
+            "Chansons/ comptines : Mener les élèves à chanter une chanson/ comptine pour apprendre les jours de la semaine et ou les mois de l’année",
+            "Jeu de mémoire : Préparer un jeu portant sur les jours de la semaine ou les mois de l’année, et puis guider les élèves à jouer ce jeu"
+          ],
+          "assessment_criteria": "Capacité de dire correctement les jours de la semaine et les mois de l’année en utilisant la grammaire et le vocabulaire simples",
+          "suggested_resources": [
+            "- Calendriers mensuels et annuels",
+            "- Textes authentiques",
+            "- Jeux des mots-croisés"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-19"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(e) Utiliser la grammaire et le vocabulaire simples pour demander et dire l’heure",
+          "suggested_methods": [
+            "Questions et réponses : Mener les élèves en binôme de se demander et de se dire l’heure (Exemple : Question- Il est quelle heure ? Réponse- Il est ... heure(s)",
+            "Projet : Guider les élèves à préparer son emploi du temps quotidien"
+          ],
+          "assessment_criteria": "Capacité de demander et de dire l’heure correctement en utilisant la grammaire et le vocabulaire simples",
+          "suggested_resources": [
+            "- Montres",
+            "- Pendules/ Horloges",
+            "- Textes authentiques (des emplois du temps/ horaires"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-20"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(f) Demander et dire la date",
+          "suggested_methods": [
+            "Jeu de rôle : Mener les élèves en binôme de se demander et de se dire la date (Exemple : Question- Nous sommes quelle date ? Réponse- Aujourd’hui nous sommes le ...",
+            "Projet : Guider les élèves à préparer son programme de weekend"
+          ],
+          "assessment_criteria": "Capacité de demander et de dire date correctement",
+          "suggested_resources": [
+            "- Calendriers",
+            "- Textes authentiques",
+            "- Emploi du temps scolaire"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-4-21"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.1 Écouter et comprendre des informations simples",
+          "learning_activity": "(a) Écouter et comprendre des informations sur les goûts et les préférences",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à écouter et présenter des informations sur les goûts et les préférences",
+            "Jeu de dialogue : Guider les élèves à se répartir les rôles et dire ce que l’on aime ou l’on’aime pas",
+            "Chanson : Guider les élèves à chanter une chanson sur les goûts ou préférences"
+          ],
+          "assessment_criteria": "Capacité d’écouter et de comprendre des informations sur les goûts et les préférences",
+          "suggested_resources": [
+            "- Documents oraux portant sur des sujets variés",
+            "- Documents audio-visuels portant sur des sujets variés",
+            "- Photos/ dessins"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-4-22"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.2 Lire et comprendre des textes simples",
+          "learning_activity": "(a) Lire et comprendre des descriptions simples des personnes, des objets, des animaux",
+          "suggested_methods": [
+            "Questions et réponses : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux, et puis poser leur des questions pour vérifier la compréhension",
+            "Présentation : Guider les élèves à lire des textes simples sur les descriptions des personnes, des objets et des animaux et de présenter des informations importantes"
+          ],
+          "assessment_criteria": "Capacité de lire et de comprendre des descriptions simples de personnes, des objets et des animaux",
+          "suggested_resources": [
+            "-Textes simples descriptifs",
+            "-Photos/dessins de personnes, d’objets et des animaux"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-4-23"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.3 Réagir de manière appropriée à un contexte familier de communication",
+          "learning_activity": "(a) Suivre le code de la route et des consignes",
+          "suggested_methods": [
+            "Remue-méninge : Guider les élèves à réfléchir sur le code de la route présents dans leurs entourages",
+            "Projet : Guider les élèves à dessiner et étiqueter les panneaux de signalisation"
+          ],
+          "assessment_criteria": "Capacité de suivre correctement le code de la route et des consignes",
+          "suggested_resources": [
+            "- Textes simples authentiques sur le code de la route/ les panneaux signalétiques"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "fren-4-24"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+          "learning_activity": "(a) Utiliser les signes de ponctuation (Les points d’exclamation et la virgule) dans des textes simples",
+          "suggested_methods": [
+            "Atelier d’écriture : Guider les élèves à rédiger les phrases et de petits textes en utilisant les signes de ponctuation"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement les marques de ponctuation (Le point d’exclamation et la virgule) dans des textes simples",
+          "suggested_resources": [
+            "- Textes authentiques simples"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-4-25"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+          "suggested_methods": [
+            "Questions et réponses : Guider les élèves en binôme à se poser des questions basées sur l’expression des sentiments et à se répondre",
+            "Jeu de rôle : Guider les élèves à jouer des rôles dans des contextes variés de communication"
+          ],
+          "assessment_criteria": "Capacité d’utiliser la grammaire et le vocabulaire appropriés pour exprimer les sentiments",
+          "suggested_resources": [
+            "- Documents oraux courts sur les sentiments",
+            "- Documents audio-visuels courts portant sur les sentiments",
+            "- Textes authentiques portant sur les sentiments"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-4-26"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(a) Utiliser les nombres jusqu’à 500 à l’oral et à l’écrit",
+          "suggested_methods": [
+            "Jeu de rôle : Guider les élèves à jouer des rôles en utilisant les nombres jusqu’à 500"
+          ],
+          "assessment_criteria": "Capacité d’utiliser les nombres jusqu’à 500 à l’oral et à l’écrit",
+          "suggested_resources": [
+            "Objets réels",
+            "Documents oraux portant sur les nombres jusqu’à 500",
+            "Documents audio-visuels portant sur les nombres jusqu’à 500",
+            "Textes simples authentiques portant sur les nombres jusqu’ à 500"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-5-27"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(a) Utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour demander et donner des directions",
+          "suggested_methods": [
+            "Travail pratique : Faire écouter aux élèves un document sonore simple et court portant sur des directions dans la rue",
+            "Jeu de dialogue : Guider les élèves en binôme de jouer un petit dialogue sur des directions"
+          ],
+          "assessment_criteria": "Capacité d’utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour demander et donner des directions de manière appropriée",
+          "suggested_resources": [
+            "Documents oraux portant sur une demande de directions",
+            "Documents audio-visuels portant sur une demande de directions",
+            "Des textes authentiques portant sur une demande de directions",
+            "Photos/dessins"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "fren-5-28"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(b) Utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour faire et répondre à une demande polie",
+          "suggested_methods": [
+            "Jeu de dialogue : Guider les élèves en binôme de jouer un petit dialogue pour faire et répondre à une demande polie",
+            "Jeu en équipes (mots-croisés) : Mener les élèves en équipes à jouer ce jeu basé sur la grammaire et le vocabulaire liés aux demandes polies"
+          ],
+          "assessment_criteria": "Capacité d’utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour faire et répondre à une demande polie de manière appropriée",
+          "suggested_resources": [
+            "Documents oraux portant sur une demande polie",
+            "Documents audio-visuels portant sur une demande polie",
+            "Textes authentiques portant sur une demande polie",
+            "Photos/dessins"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-29"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(c) Utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour parler de ses routines quotidiennes",
+          "suggested_methods": [
+            "Jeu de dialogue : Guider les élèves en binôme de jouer un petit dialogue pour parler de ses routines quotidiennes",
+            "Jeu de mémoire : Mener les élèves à jouer ce jeu au sujet de parler de sa routine quotidienne (Exemple- Je me lève le matin et je me brosse les dents, je me lève le matin, je me brosse les dents et je me baigne, ...)"
+          ],
+          "assessment_criteria": "Capacité d’utiliser à l’oral et à l’écrit la grammaire et le vocabulaire simples pour parler correctement de ses routines quotidiennes",
+          "suggested_resources": [
+            "Documents sonores portant sur exprimer ses routines quotidiennes",
+            "Documents audio-visuels portant sur exprimer ses routines quotidiennes",
+            "Textes écrits portant sur exprimer ses routines quotidiennes",
+            "Photos/dessins"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-30"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.1 Écouter et comprendre des informations simples",
+          "learning_activity": "(a) Écouter et comprendre des informations sur les moyens de transports",
+          "suggested_methods": [
+            "Remue-méninge : Guider les élèves à réfléchir et identifier différents moyens de transport",
+            "Questions et réponses : À l’aide des questions, guider les élèves à identifier les moyens de transport"
+          ],
+          "assessment_criteria": "Capacité de comprendre correctement des informations sur les moyens de transport",
+          "suggested_resources": [
+            "Textes authentiques sur les moyens de transports/images",
+            "Documents oraux/audio-visuels sur les moyens de transport"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "fren-5-31"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.2 Lire et comprendre des textes simples",
+          "learning_activity": "(a) Lire et comprendre des récits courts",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à lire des récits courts pour la compréhension, et puis de faire la présentation sur le message du récit",
+            "Discussion : Guider les élèves en petits groupes à lire un texte narratif court et à en discuter"
+          ],
+          "assessment_criteria": "Capacité de lire et de comprendre des récits courts",
+          "suggested_resources": [
+            "Récits variés"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "fren-5-32"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.3 Lire correctement des textes simples",
+          "learning_activity": "(a) Lire des textes simples avec aisance",
+          "suggested_methods": [
+            "Lecture à haute voix : Guider les élèves à lire des textes simples à haute voix en tenant compte de la bonne prononciation, rythme, intonation et vitesse appropriée"
+          ],
+          "assessment_criteria": "Capacité de lire des textes simples avec aisance",
+          "suggested_resources": [
+            "Textes authentiques simples variés"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "fren-5-33"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.1 Démontrer une connaissance des caractéristiques de base de la langue parlée et écrite",
+          "learning_activity": "(a) Téléphoner à quelqu’un",
+          "suggested_methods": [
+            "Jeu de dialogue/rôle : Guider les élèves en binôme à dialoguer sur les conversations téléphoniques des sujets familiers"
+          ],
+          "assessment_criteria": "Capacité de converser au téléphone de manière approprière",
+          "suggested_resources": [
+            "Documents oraux/audio-visuels courts portant sur des conversations téléphoniques"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "fren-5-34"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire simples pour demander et donner le prix",
+          "suggested_methods": [
+            "Questions et réponses : Poser des questions aux élèves sur le prix des objets variés",
+            "Jeu de rôle : Guider les élèves à jouer les rôles client/vendeur"
+          ],
+          "assessment_criteria": "Capacité de demander et de donner le prix de manière appropriée",
+          "suggested_resources": [
+            "Objets réels",
+            "Documents oraux/audio-visuels portant sur faire des achats",
+            "Textes écrits variés sur des achats/services"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "fren-5-35"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.2 Converser dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+          "learning_activity": "(b) Utiliser la grammaire et le vocabulaire simples pour converser de manière simple sur des aliments",
+          "suggested_methods": [
+            "Remue-méninge : Guider les élèves à réfléchir sur des aliments variés",
+            "Jeu de rôles : Guider les élèves à jouer les rôles dans la conversation sur des aliments"
+          ],
+          "assessment_criteria": "Capacité d’utiliser la grammaire et le vocabulaire simples pour converser de manière simple sur des aliments",
+          "suggested_resources": [
+            "Objets réels",
+            "Documents oraux/audio-visuels portant sur le sujet des aliments",
+            "Textes écrits variés sur des aliments"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-5-36"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans des divers contextes",
+          "specific_competence": "3.3 Communiquer à l’écrit dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour faire des correspondances (rédiger des cartes postales et des cartes d’invitation)",
+          "suggested_methods": [
+            "Présentation : guider les élèves à rédiger des cartes postales ou des cartes d’invitation, et puis de les présenter",
+            "Atelier d’écriture : Guider les élèves en groupes gérables à rédiger des cartes postales ou des cartes d’invitation"
+          ],
+          "assessment_criteria": "Capacités de rédiger correctement une carte postale ou une carte d’invitation",
+          "suggested_resources": [
+            "Textes authentiques (des cartes postales, des cartes d’invitation)"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-5-37"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.1 Relier des mots aux objets dans l’environnement",
+          "learning_activity": "(a) Utiliser les nombres jusqu’à 1 000 à l’orale et à l’écrit",
+          "suggested_methods": [
+            "Jeu de rôle : Guider les élèves à jouer des rôles en utilisant les nombres jusqu’à 1000"
+          ],
+          "assessment_criteria": "Capacité d’utiliser les nombres jusqu’à 1 000 à l’oral et à l’écrit",
+          "suggested_resources": [
+            "Objets réels",
+            "Documents oraux portant sur les nombres jusqu’ à 1000",
+            "Documents audio-visuels portant sur les nombres jusqu’ à 1000",
+            "Textes simples authentiques portant sur les nombres jusqu’ à 1000"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "fren-6-38"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire simples pour raconter un événement passé (les vacances, les voyages)",
+          "suggested_methods": [
+            "Chansons/contes/comptine : Guider les élèves à chanter ou à raconter des événements passés sur les vacances ou les voyages",
+            "Présentation : Guider les élèves à utiliser la grammaire et le vocabulaire simples pour raconter un événement passé sur les vacances ou les voyages",
+            "Atelier d’écriture : Guider les élèves à rédiger des textes narratifs sur les vacances ou le voyage"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement la grammaire et le vocabulaire simples pour raconter des événements passés sur les vacances ou les voyages",
+          "suggested_resources": [
+            "Documents authentiques oraux/audio-visuels sur les narrations des événements passés",
+            "Textes narratifs simples"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "fren-6-39"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(b) Utiliser la grammaire et le vocabulaire simples pour exprimer des événements futurs",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à utiliser la grammaire et le vocabulaire simples pour exprimer des événements futurs",
+            "Atelier d’écriture : Guider les élèves à utiliser la grammaire et le vocabulaire simples pour rédiger des textes simples sur des événements futurs"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement la grammaire et le vocabulaire simples pour exprimer des événements futurs",
+          "suggested_resources": [
+            "Documents authentiques oraux/audio-visuels sur des narrations des événements futurs",
+            "Textes écrits simples sur des narrations des événements futurs"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-6-40"
+        },
+        {
+          "main_competence": "1.0 Maîtriser les compétences langagières de base du français",
+          "specific_competence": "1.2 Maîtriser la grammaire et le vocabulaire simples",
+          "learning_activity": "(c) Utiliser la grammaire et le vocabulaire simples pour parler d’activités quotidiennes",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à utiliser la grammaire et le vocabulaire simples pour parler des activités quotidiennes",
+            "Jeu de dialogue : Guider les élèves à utiliser la grammaire et le vocabulaire simples pour dialogue sur des activités quotidiennes"
+          ],
+          "assessment_criteria": "Capacité d’utiliser correctement la grammaire et le vocabulaire simples pour parler des activités quotidiennes",
+          "suggested_resources": [
+            "Documents authentiques oraux/audio-visuels portant sur des informations sur la vie quotidienne"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "fren-6-41"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.1 Écouter et comprendre des informations simples",
+          "learning_activity": "(a) Écouter et comprendre des informations sur la météo",
+          "suggested_methods": [
+            "Questions et réponses : Guider les élèves à écouter un document oral sur la météo, et puis leur poser des questions pour vérifier la compréhension"
+          ],
+          "assessment_criteria": "Capacité d’écouter et de comprendre correctement des informations sur la météo",
+          "suggested_resources": [
+            "Documents authentiques oraux/audio-visuels portant sur la météo",
+            "Textes authentiques portant sur des informations sur la météo"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-6-42"
+        },
+        {
+          "main_competence": "2.0 Démontrer la compréhension des informations orales et écrites",
+          "specific_competence": "2.2 Lire et comprendre des textes simples",
+          "learning_activity": "(a) Lire et comprendre des poèmes simples",
+          "suggested_methods": [
+            "Questions et réponses : Guider les élèves à lire des poèmes simples, puis poser leur des questions pour vérifier la compréhension",
+            "Présentation : guider les élèves en groupes gérables à lire des poèmes simples, et puis de présenter le message"
+          ],
+          "assessment_criteria": "Capacité de lire et de comprendre correctement des poèmes",
+          "suggested_resources": [
+            "Poèmes simples variés"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "fren-6-43"
+        },
+        {
+          "main_competence": "3.0 Communiquer efficacement dans divers contextes",
+          "specific_competence": "3.3 Communiquer à l’écrit dans des contextes variés en utilisant la grammaire et le vocabulaire appropriés",
+          "learning_activity": "(a) Utiliser la grammaire et le vocabulaire appropriés pour écrire une lettre amicale courte",
+          "suggested_methods": [
+            "Présentation : Guider les élèves à écrire des lettres amicales courtes, et puis de les présenter"
+          ],
+          "assessment_criteria": "Capacités d’écrire correctement une lettre amicale courte",
+          "suggested_resources": [
+            "Lettres amicales"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "fren-6-44"
+        }
+      ]
+    }
+  }
+}

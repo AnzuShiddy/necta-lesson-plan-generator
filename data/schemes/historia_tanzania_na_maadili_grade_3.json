@@ -1,0 +1,1491 @@
+{
+  "subject": "Historia ya Tanzania na Maadili",
+  "form": "Grade 3",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 5,
+  "total_periods": 175,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.1 Kumudu dhana ya Historia ya Tanzania, urithi na maadili",
+      "learning_activity": "(a) Kueleza dhana ya Historia ya Tanzania, urithi na maadili (maana, umuhimu)",
+      "activity_id": "hist-3-1",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi kubunguabongo maana ya historia ya Tanzania, urithi na maadili",
+        "Changanyakete: Wanafunzi katika vikundi wajadiliane kuhusu umuhimu wa historia ya Tanzania, urithi na maadili kisha washirikishe vikundi vingine ili kuboresha kazi zao",
+        "Kutumia TEHAMA: Wezeshe wanafunzi kujadili na kubaini dhana ya Historia ya Tanzania, urithi na maadili katika makala za filamu"
+      ],
+      "assessment": "Dhana ya Historia ya Tanzania, urithi na maadili imeelezwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha zinazoonesha historia ya Tanzania maadili na urithi",
+        "- Filamu zinazoonesha vitendo vya kimaadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.1 Kumudu dhana ya Historia ya Tanzania, urithi na maadili",
+      "learning_activity": "(b) Kubaini vitendo vya kimaadili na umuhimu wake",
+      "activity_id": "hist-3-2",
+      "periods": 5,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wanafunzi wajadili kisamafunzo chenye matukio ya kimaadili ili kujifunza vitendo vya maadili na umuhimu wake",
+        "Igizodhima: Ongoza wanafunzi kuonesha matendo ya maadili",
+        "Kutumia TEHAMA: Wezeshe wanafunzi kujadili na kubaini vitendo vya kimaadili na umuhimu wake katika makala ya filamu"
+      ],
+      "assessment": "Vitendo vya kimaadili na umuhimu wake vimebainishwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Michoro/picha/picha mguso zinazoonesha vitendo vya kimaadili",
+        "- Filamu zinazoonesha vitendo vya kimaadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(a) Kubaini wajibu na haki zake katika familia na shuleni",
+      "activity_id": "hist-3-3",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kuchunguza na kuandika kuhusu wajibu na haki zao katika familia na shuleni",
+        "Changanyakete: Wanafunzi katika vikundi wajadiliane kuhusu haki na wajibu wao katika familia na shuleni kisha washirikishe vikundi vingine kuboresha"
+      ],
+      "assessment": "Amebainisha wajibu na haki zake katika familia na shuleni",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati yenye kuonesha wajibu wa mtoto katika shule na familia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(a) Kubaini wajibu na haki zake katika familia na shuleni",
+      "activity_id": "hist-3-3",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kuchunguza na kuandika kuhusu wajibu na haki zao katika familia na shuleni",
+        "Changanyakete: Wanafunzi katika vikundi wajadiliane kuhusu haki na wajibu wao katika familia na shuleni kisha washirikishe vikundi vingine kuboresha"
+      ],
+      "assessment": "Amebainisha wajibu na haki zake katika familia na shuleni",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati yenye kuonesha wajibu wa mtoto katika shule na familia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(a) Kubaini wajibu na haki zake katika familia na shuleni",
+      "activity_id": "hist-3-3",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kuchunguza na kuandika kuhusu wajibu na haki zao katika familia na shuleni",
+        "Changanyakete: Wanafunzi katika vikundi wajadiliane kuhusu haki na wajibu wao katika familia na shuleni kisha washirikishe vikundi vingine kuboresha"
+      ],
+      "assessment": "Amebainisha wajibu na haki zake katika familia na shuleni",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati yenye kuonesha wajibu wa mtoto katika shule na familia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(a) Kubaini wajibu na haki zake katika familia na shuleni",
+      "activity_id": "hist-3-3",
+      "periods": 2,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kuchunguza na kuandika kuhusu wajibu na haki zao katika familia na shuleni",
+        "Changanyakete: Wanafunzi katika vikundi wajadiliane kuhusu haki na wajibu wao katika familia na shuleni kisha washirikishe vikundi vingine kuboresha"
+      ],
+      "assessment": "Amebainisha wajibu na haki zake katika familia na shuleni",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati yenye kuonesha wajibu wa mtoto katika shule na familia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w6-2",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(b) Kuonesha matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni",
+      "activity_id": "hist-3-4",
+      "periods": 3,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waigize matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Maswali na Majibu: Tumia maswali kuongoza wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Majadiliano: Ongoza majadiliano kuwezeshwa wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana"
+      ],
+      "assessment": "Matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni yameoneshwa",
+      "resources": [
+        "- Matini yenye sheria za shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha zenye kuonesha matendo ya kuheshimu, kuheshimiana na kushirikiana"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(b) Kuonesha matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni",
+      "activity_id": "hist-3-4",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waigize matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Maswali na Majibu: Tumia maswali kuongoza wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Majadiliano: Ongoza majadiliano kuwezeshwa wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana"
+      ],
+      "assessment": "Matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni yameoneshwa",
+      "resources": [
+        "- Matini yenye sheria za shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha zenye kuonesha matendo ya kuheshimu, kuheshimiana na kushirikiana"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(b) Kuonesha matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni",
+      "activity_id": "hist-3-4",
+      "periods": 5,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waigize matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Maswali na Majibu: Tumia maswali kuongoza wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Majadiliano: Ongoza majadiliano kuwezeshwa wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana"
+      ],
+      "assessment": "Matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni yameoneshwa",
+      "resources": [
+        "- Matini yenye sheria za shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha zenye kuonesha matendo ya kuheshimu, kuheshimiana na kushirikiana"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(b) Kuonesha matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni",
+      "activity_id": "hist-3-4",
+      "periods": 4,
+      "activity_total_periods": 17,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waigize matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Maswali na Majibu: Tumia maswali kuongoza wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana",
+        "Majadiliano: Ongoza majadiliano kuwezeshwa wanafunzi kubaini matendo ya heshima, kutii sheria, kujali na kushirikiana"
+      ],
+      "assessment": "Matendo ya kuheshimu wengine, kutii sheria, kujithamini, kujali na kushirikiana na watu wengine nyumbani na shuleni yameoneshwa",
+      "resources": [
+        "- Matini yenye sheria za shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha zenye kuonesha matendo ya kuheshimu, kuheshimiana na kushirikiana"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w9-2",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(c) Kueleza maarifa na ujuzi wa asili wa jamii inayomzunguka (katika kilimo, utunzaji wa mazingira, dawa na dini)",
+      "activity_id": "hist-3-5",
+      "periods": 1,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika taarifa zinazohusu maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini",
+        "Matembezi ya galari: Wanafunzi wapitie kazi za vikundi vingine ili kujadili na kueleza maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini"
+      ],
+      "assessment": "Maarifa na ujuzi wa asili wa jamii inayomzunguka katika kilimo, utunzaji wa mazingira, dawa na dini yameelezwa",
+      "resources": [
+        "- Mazao mbalimbali",
+        "- Picha zenye kuonesha mazao ya kilimo, dawa na utunzaji wa mazingira",
+        "- Filamu zenye kuonesha shughuli za kilimo, utunzaji wa mazingira",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(c) Kueleza maarifa na ujuzi wa asili wa jamii inayomzunguka (katika kilimo, utunzaji wa mazingira, dawa na dini)",
+      "activity_id": "hist-3-5",
+      "periods": 5,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika taarifa zinazohusu maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini",
+        "Matembezi ya galari: Wanafunzi wapitie kazi za vikundi vingine ili kujadili na kueleza maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini"
+      ],
+      "assessment": "Maarifa na ujuzi wa asili wa jamii inayomzunguka katika kilimo, utunzaji wa mazingira, dawa na dini yameelezwa",
+      "resources": [
+        "- Mazao mbalimbali",
+        "- Picha zenye kuonesha mazao ya kilimo, dawa na utunzaji wa mazingira",
+        "- Filamu zenye kuonesha shughuli za kilimo, utunzaji wa mazingira",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(c) Kueleza maarifa na ujuzi wa asili wa jamii inayomzunguka (katika kilimo, utunzaji wa mazingira, dawa na dini)",
+      "activity_id": "hist-3-5",
+      "periods": 5,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika taarifa zinazohusu maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini",
+        "Matembezi ya galari: Wanafunzi wapitie kazi za vikundi vingine ili kujadili na kueleza maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini"
+      ],
+      "assessment": "Maarifa na ujuzi wa asili wa jamii inayomzunguka katika kilimo, utunzaji wa mazingira, dawa na dini yameelezwa",
+      "resources": [
+        "- Mazao mbalimbali",
+        "- Picha zenye kuonesha mazao ya kilimo, dawa na utunzaji wa mazingira",
+        "- Filamu zenye kuonesha shughuli za kilimo, utunzaji wa mazingira",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.2 Kumudu maarifa ya jamii inayomzunguka",
+      "learning_activity": "(c) Kueleza maarifa na ujuzi wa asili wa jamii inayomzunguka (katika kilimo, utunzaji wa mazingira, dawa na dini)",
+      "activity_id": "hist-3-5",
+      "periods": 5,
+      "activity_total_periods": 16,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika taarifa zinazohusu maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini",
+        "Matembezi ya galari: Wanafunzi wapitie kazi za vikundi vingine ili kujadili na kueleza maarifa na ujuzi wa asili wa jamii katika kilimo, utunzaji wa mazingira, dawa na dini"
+      ],
+      "assessment": "Maarifa na ujuzi wa asili wa jamii inayomzunguka katika kilimo, utunzaji wa mazingira, dawa na dini yameelezwa",
+      "resources": [
+        "- Mazao mbalimbali",
+        "- Picha zenye kuonesha mazao ya kilimo, dawa na utunzaji wa mazingira",
+        "- Filamu zenye kuonesha shughuli za kilimo, utunzaji wa mazingira",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(a) Kubaini asili za jamii zinazomzunguka (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo)",
+      "activity_id": "hist-3-6",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Igizo dhima: Ongoza wanafunzi kuigiza tamaduni za jamii zinazomzunguka.",
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza asili za jamii zao kupitia kwa walezi/wazazi na watu wengine",
+        "Kutumia TEHAMA: Wanafunzi wabainishe asili za jamii zinazowazunguka (mf. tamaduni, mavazi, chakula, ngoma, michezo na nyimbo za jamii katika makala za filamu walizozitazama"
+      ],
+      "assessment": "Asili za jamii (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo) zinazomzunguka zimebainishwa",
+      "resources": [
+        "- Michoro/picha yenye ngoma za asili na michezo ya jamii",
+        "- Mavazi ya makabila ya Kitanzania",
+        "- Picha zenye kuonesha vyakula vya jamii tofauti",
+        "- Filamu zenye makala zinazohusu asili za jamii"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(a) Kubaini asili za jamii zinazomzunguka (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo)",
+      "activity_id": "hist-3-6",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Igizo dhima: Ongoza wanafunzi kuigiza tamaduni za jamii zinazomzunguka.",
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza asili za jamii zao kupitia kwa walezi/wazazi na watu wengine",
+        "Kutumia TEHAMA: Wanafunzi wabainishe asili za jamii zinazowazunguka (mf. tamaduni, mavazi, chakula, ngoma, michezo na nyimbo za jamii katika makala za filamu walizozitazama"
+      ],
+      "assessment": "Asili za jamii (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo) zinazomzunguka zimebainishwa",
+      "resources": [
+        "- Michoro/picha yenye ngoma za asili na michezo ya jamii",
+        "- Mavazi ya makabila ya Kitanzania",
+        "- Picha zenye kuonesha vyakula vya jamii tofauti",
+        "- Filamu zenye makala zinazohusu asili za jamii"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(a) Kubaini asili za jamii zinazomzunguka (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo)",
+      "activity_id": "hist-3-6",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Igizo dhima: Ongoza wanafunzi kuigiza tamaduni za jamii zinazomzunguka.",
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza asili za jamii zao kupitia kwa walezi/wazazi na watu wengine",
+        "Kutumia TEHAMA: Wanafunzi wabainishe asili za jamii zinazowazunguka (mf. tamaduni, mavazi, chakula, ngoma, michezo na nyimbo za jamii katika makala za filamu walizozitazama"
+      ],
+      "assessment": "Asili za jamii (tamaduni, mavazi, chakula, ngoma, michezo na nyimbo) zinazomzunguka zimebainishwa",
+      "resources": [
+        "- Michoro/picha yenye ngoma za asili na michezo ya jamii",
+        "- Mavazi ya makabila ya Kitanzania",
+        "- Picha zenye kuonesha vyakula vya jamii tofauti",
+        "- Filamu zenye makala zinazohusu asili za jamii"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15-2",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(b) Kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii",
+      "activity_id": "hist-3-7",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kusimulia kuhusu umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria unavyosaidia maendeleo ya kiuchumi na kijamii",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii"
+      ],
+      "assessment": "Umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii umefafanuliwa",
+      "resources": [
+        "- Picha/video zenye kuonesha urithi wa Historia na ujuzi wa asili",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(b) Kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii",
+      "activity_id": "hist-3-7",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kusimulia kuhusu umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria unavyosaidia maendeleo ya kiuchumi na kijamii",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii"
+      ],
+      "assessment": "Umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii umefafanuliwa",
+      "resources": [
+        "- Picha/video zenye kuonesha urithi wa Historia na ujuzi wa asili",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(b) Kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii",
+      "activity_id": "hist-3-7",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kusimulia kuhusu umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria unavyosaidia maendeleo ya kiuchumi na kijamii",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kufafanua umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii"
+      ],
+      "assessment": "Umuhimu wa maarifa, ujuzi wa asili na urithi wa kihistoria kwa maendeleo ya kiuchumi na kijamii umefafanuliwa",
+      "resources": [
+        "- Picha/video zenye kuonesha urithi wa Historia na ujuzi wa asili",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17-2",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(c) Kubaini mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii",
+      "activity_id": "hist-3-8",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya uchunguzi ili kubaini mbinu za kutumia maarifa na ujuzi wa asili katika kuboresha ustawi wa jamii katika maeneo yanayowazunguka",
+        "Changanyakete : Wanafunzi katika vikundi wajadiliane kuhusu mbinu za kutumia maarifa na ujuzi katika kuboresha ustawi wa jamii kisha washirikishe vikundi vingine ili kuboresha"
+      ],
+      "assessment": "Mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii zimebainishwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kilimo, utunzaji wa mazingira na dawa za asili",
+        "- Video zenye makala zinazohusu utunzaji wa mazingira"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(c) Kubaini mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii",
+      "activity_id": "hist-3-8",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya uchunguzi ili kubaini mbinu za kutumia maarifa na ujuzi wa asili katika kuboresha ustawi wa jamii katika maeneo yanayowazunguka",
+        "Changanyakete : Wanafunzi katika vikundi wajadiliane kuhusu mbinu za kutumia maarifa na ujuzi katika kuboresha ustawi wa jamii kisha washirikishe vikundi vingine ili kuboresha"
+      ],
+      "assessment": "Mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii zimebainishwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kilimo, utunzaji wa mazingira na dawa za asili",
+        "- Video zenye makala zinazohusu utunzaji wa mazingira"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(c) Kubaini mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii",
+      "activity_id": "hist-3-8",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya uchunguzi ili kubaini mbinu za kutumia maarifa na ujuzi wa asili katika kuboresha ustawi wa jamii katika maeneo yanayowazunguka",
+        "Changanyakete : Wanafunzi katika vikundi wajadiliane kuhusu mbinu za kutumia maarifa na ujuzi katika kuboresha ustawi wa jamii kisha washirikishe vikundi vingine ili kuboresha"
+      ],
+      "assessment": "Mbinu za kutumia maarifa na ujuzi wa asili (katika kilimo, utunzaji wa mazingira, dawa, dini) katika kuboresha ustawi wa jamii zimebainishwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kilimo, utunzaji wa mazingira na dawa za asili",
+        "- Video zenye makala zinazohusu utunzaji wa mazingira"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w1-2",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(d) Kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yake (mf. nyumbani, shuleni)",
+      "activity_id": "hist-3-9",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Fikiri-Andika-Jozisha-Shirikisha : Wanafunzi katika jozi wafikiri, waandike na kisha washirikishane namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao.",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao (mfano nyumbani na shuleni)"
+      ],
+      "assessment": "Anasimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira ya shule na nyumbani",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha za vitu vya asili",
+        "- Filamu au michoro yenye maudhui yanayohusu maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(d) Kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yake (mf. nyumbani, shuleni)",
+      "activity_id": "hist-3-9",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Fikiri-Andika-Jozisha-Shirikisha : Wanafunzi katika jozi wafikiri, waandike na kisha washirikishane namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao.",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao (mfano nyumbani na shuleni)"
+      ],
+      "assessment": "Anasimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira ya shule na nyumbani",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha za vitu vya asili",
+        "- Filamu au michoro yenye maudhui yanayohusu maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(d) Kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yake (mf. nyumbani, shuleni)",
+      "activity_id": "hist-3-9",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Fikiri-Andika-Jozisha-Shirikisha : Wanafunzi katika jozi wafikiri, waandike na kisha washirikishane namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao.",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili namna ya kusimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira yao (mfano nyumbani na shuleni)"
+      ],
+      "assessment": "Anasimulia maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria katika mazingira ya shule na nyumbani",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Picha za vitu vya asili",
+        "- Filamu au michoro yenye maudhui yanayohusu maarifa na ujuzi wa asili, asili za jamii na urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(e) Kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+      "activity_id": "hist-3-10",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Ziara za kimasomo: Wanafunzi kutembelea maeneo yenye vitu vya asili na urithi wa kihistoria katika jamii inayomzunguka na kuwasilisha taarifa",
+        "Mgeni mwalikwa: Alika mgeni kuelezea kuhusu thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili na kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka"
+      ],
+      "assessment": "Thamani ya asili na urithi wa kihistoria katika jamii imeelezwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Vitu vya asili na urithi wa kihistoria",
+        "- Picha/picha mguso zenye kuonesha maeneo ya urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(e) Kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+      "activity_id": "hist-3-10",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Ziara za kimasomo: Wanafunzi kutembelea maeneo yenye vitu vya asili na urithi wa kihistoria katika jamii inayomzunguka na kuwasilisha taarifa",
+        "Mgeni mwalikwa: Alika mgeni kuelezea kuhusu thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili na kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka"
+      ],
+      "assessment": "Thamani ya asili na urithi wa kihistoria katika jamii imeelezwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Vitu vya asili na urithi wa kihistoria",
+        "- Picha/picha mguso zenye kuonesha maeneo ya urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.3 Kutumia maarifa na ujuzi wa asili wa jamii inayomzunguka kusimulia asili, urithi, na maadili ya jamii husika",
+      "learning_activity": "(e) Kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+      "activity_id": "hist-3-10",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Ziara za kimasomo: Wanafunzi kutembelea maeneo yenye vitu vya asili na urithi wa kihistoria katika jamii inayomzunguka na kuwasilisha taarifa",
+        "Mgeni mwalikwa: Alika mgeni kuelezea kuhusu thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kujadili na kueleza thamani ya asili na urithi wa kihistoria katika jamii inayomzunguka"
+      ],
+      "assessment": "Thamani ya asili na urithi wa kihistoria katika jamii imeelezwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Vitu vya asili na urithi wa kihistoria",
+        "- Picha/picha mguso zenye kuonesha maeneo ya urithi wa kihistoria"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(a) Kueleza uhusiano wake na jamii inayomzunguka (nyumbani na shuleni)",
+      "activity_id": "hist-3-11",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Uhalisishaji wa tukio: Ongoza wanafunzi kwenye vikundi kuigiza uhusiano kati yao na baba, mama, dada, kaka, ndugu wa karibu na familia na watu wengine shuleni na nyumbani",
+        "Maswali na majibu: Tumia maswali kuongoza wanafunzi kueleza uhusiano wao na familia, ndugu wa karibu na familia na watu wengine shuleni na nyumbani"
+      ],
+      "assessment": "Uhusiano wake na jamii inayomzunguka nyumbani na shuleni umeelezwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha matendo ya kuhusiana",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(a) Kueleza uhusiano wake na jamii inayomzunguka (nyumbani na shuleni)",
+      "activity_id": "hist-3-11",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Uhalisishaji wa tukio: Ongoza wanafunzi kwenye vikundi kuigiza uhusiano kati yao na baba, mama, dada, kaka, ndugu wa karibu na familia na watu wengine shuleni na nyumbani",
+        "Maswali na majibu: Tumia maswali kuongoza wanafunzi kueleza uhusiano wao na familia, ndugu wa karibu na familia na watu wengine shuleni na nyumbani"
+      ],
+      "assessment": "Uhusiano wake na jamii inayomzunguka nyumbani na shuleni umeelezwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha matendo ya kuhusiana",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(b) Kubaini umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake",
+      "activity_id": "hist-3-12",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wanafunzi wajadili visa mafunzo ili kubaini uhusiano na ushirikiano wa familia na rafiki",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kueleza umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake"
+      ],
+      "assessment": "Umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake umebainishwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha matendo ya kuhusiana na ushirikiano",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(b) Kubaini umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake",
+      "activity_id": "hist-3-12",
+      "periods": 5,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Wanafunzi wajadili visa mafunzo ili kubaini uhusiano na ushirikiano wa familia na rafiki",
+        "Maswali na majibu : Tumia maswali kuongoza wanafunzi kueleza umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake"
+      ],
+      "assessment": "Umuhimu wa uhusiano na ushirikiano wa familia na rafiki zake umebainishwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha matendo ya kuhusiana na ushirikiano",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(c) Kueleza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+      "activity_id": "hist-3-13",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya utafiti mdogo maeneo ya sokoni, shuleni au kwenye shughuli za uzalishaji mali wakichunguza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii"
+      ],
+      "assessment": "Matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii yameelezwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kijamii na kiuchumi",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(c) Kueleza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+      "activity_id": "hist-3-13",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya utafiti mdogo maeneo ya sokoni, shuleni au kwenye shughuli za uzalishaji mali wakichunguza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii"
+      ],
+      "assessment": "Matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii yameelezwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kijamii na kiuchumi",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Kulinda Historia ya Tanzania, urithi na maadili ya Taifa",
+      "specific_competence": "1.4 Kutathmini ushirikiano baina ya jamii za Kitanzania katika kujenga uhusiano wa kijamii na kiuchumi",
+      "learning_activity": "(c) Kueleza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+      "activity_id": "hist-3-13",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi kufanya utafiti mdogo maeneo ya sokoni, shuleni au kwenye shughuli za uzalishaji mali wakichunguza matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii"
+      ],
+      "assessment": "Matendo ya kijamii na kiuchumi yanayojenga uhusiano na ushirikiano katika jamii yameelezwa",
+      "resources": [
+        "- Picha/picha mguso/michoro yenye kuonesha shughuli za kijamii na kiuchumi",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w12-2",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(a) Kueleza mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+      "activity_id": "hist-3-14",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waandae na kuonesha igizo kuhusu mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika kuhusu mifumo ya uongozi katika ngazi za familia, ukoo na shule",
+        "Kutumia TEHAMA: Wanafunzi wajadili na kueleza mifumo ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania katika ngazi ya familia, ukoo na shule katika filamu walizozitazama"
+      ],
+      "assessment": "Mifumo ya uongozi katika ngazi ya familia, ukoo na shule imeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Makala zinazohusu mifumo ya utunzaji na ukuzaji wa maadili katika ngazi ya familia, ukoo na shule zilizoifadhiwa katika midia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(a) Kueleza mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+      "activity_id": "hist-3-14",
+      "periods": 4,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waandae na kuonesha igizo kuhusu mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika kuhusu mifumo ya uongozi katika ngazi za familia, ukoo na shule",
+        "Kutumia TEHAMA: Wanafunzi wajadili na kueleza mifumo ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania katika ngazi ya familia, ukoo na shule katika filamu walizozitazama"
+      ],
+      "assessment": "Mifumo ya uongozi katika ngazi ya familia, ukoo na shule imeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Makala zinazohusu mifumo ya utunzaji na ukuzaji wa maadili katika ngazi ya familia, ukoo na shule zilizoifadhiwa katika midia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(a) Kueleza mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+      "activity_id": "hist-3-14",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Igizo dhima: Wanafunzi waandae na kuonesha igizo kuhusu mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "Utafiti mdogo: Wanafunzi wachunguze na kuandika kuhusu mifumo ya uongozi katika ngazi za familia, ukoo na shule",
+        "Kutumia TEHAMA: Wanafunzi wajadili na kueleza mifumo ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania katika ngazi ya familia, ukoo na shule katika filamu walizozitazama"
+      ],
+      "assessment": "Mifumo ya uongozi katika ngazi ya familia, ukoo na shule imeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia, ukoo na shule",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Makala zinazohusu mifumo ya utunzaji na ukuzaji wa maadili katika ngazi ya familia, ukoo na shule zilizoifadhiwa katika midia"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w14-2",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kueleza misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka",
+      "activity_id": "hist-3-15",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Changanyakete: Wanafunzi katika vikundi wajadili misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani na kisha washirikishe vikundi vingine",
+        "Mbinu za kutaja (snowball): Elekeza wanafunzi kila mmoja kueleza misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani",
+        "Nyimbo: Wanafunzi kuimba wimbo unaotaja misingi ya maadili shuleni na nyumbani"
+      ],
+      "assessment": "Misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka shuleni na nyumbani imeelezwa",
+      "resources": [
+        "- Picha/picha mguso michoro yenye kuonesha misingi ya maadili",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Nyimbo za misingi ya maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kueleza misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka",
+      "activity_id": "hist-3-15",
+      "periods": 4,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Changanyakete: Wanafunzi katika vikundi wajadili misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani na kisha washirikishe vikundi vingine",
+        "Mbinu za kutaja (snowball): Elekeza wanafunzi kila mmoja kueleza misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani",
+        "Nyimbo: Wanafunzi kuimba wimbo unaotaja misingi ya maadili shuleni na nyumbani"
+      ],
+      "assessment": "Misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka shuleni na nyumbani imeelezwa",
+      "resources": [
+        "- Picha/picha mguso michoro yenye kuonesha misingi ya maadili",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Nyimbo za misingi ya maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(b) Kueleza misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka",
+      "activity_id": "hist-3-15",
+      "periods": 2,
+      "activity_total_periods": 8,
+      "teaching_learning_activities": [
+        "Changanyakete: Wanafunzi katika vikundi wajadili misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani na kisha washirikishe vikundi vingine",
+        "Mbinu za kutaja (snowball): Elekeza wanafunzi kila mmoja kueleza misingi ya ukuzaji na utunzaji wa maadili shuleni na nyumbani",
+        "Nyimbo: Wanafunzi kuimba wimbo unaotaja misingi ya maadili shuleni na nyumbani"
+      ],
+      "assessment": "Misingi ya ukuzaji na utunzaji wa maadili katika jamii inayomzunguka shuleni na nyumbani imeelezwa",
+      "resources": [
+        "- Picha/picha mguso michoro yenye kuonesha misingi ya maadili",
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Nyimbo za misingi ya maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(c) Kueleza mchango wa uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+      "activity_id": "hist-3-16",
+      "periods": 2,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuadika taarifa kuhusu michango ya viongozi wa koo zao katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu mchango wa viongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni"
+      ],
+      "assessment": "Michango ya uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni umeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia na ukoo",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(c) Kueleza mchango wa uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+      "activity_id": "hist-3-16",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuadika taarifa kuhusu michango ya viongozi wa koo zao katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu mchango wa viongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni"
+      ],
+      "assessment": "Michango ya uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni umeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia na ukoo",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(c) Kueleza mchango wa uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+      "activity_id": "hist-3-16",
+      "periods": 1,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kuadika taarifa kuhusu michango ya viongozi wa koo zao katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni",
+        "Mtaalamu mwalikwa: Alika mgeni kuelezea kuhusu mchango wa viongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni"
+      ],
+      "assessment": "Michango ya uongozi wa ukoo katika utunzaji na ukuzaji wa maadili ya jamii kabla ya ukoloni umeelezwa",
+      "resources": [
+        "- Chati yenye kuonesha mifumo ya uongozi katika ngazi ya familia na ukoo",
+        "- Matini ya Historia ya Tanzania na Maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(d) Kubaini wajibu wa jamii katika ujenzi wa maadili ya familia",
+      "activity_id": "hist-3-17",
+      "periods": 3,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubunguabongo kuhusu wajibu wa jamii katika ujenzi wa maadili ya familia",
+        "Igizodhima: Ongoza wanafunzi kuandaa na kuigiza matendo yanayohusu wajibu wa jamii katika ujenzi wa maadili ya familia",
+        "Maswali na majibu: Tumia maswali kuongoza washiriki kujadili kuhusu wajibu wa jamii katika ujenzi wa maadili ya familia"
+      ],
+      "assessment": "Wajibu wa jamiii katika ujenzi wa maadili ya familia umebainishwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati zenye kuonesha wajibu wa jamii katika ujenzi wa maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w18-3",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Kumudu Historia ya Tanzania na Maadili kabla ya ukoloni",
+      "specific_competence": "2.1 Kuelezea mifumo mbalimbali ya utunzaji na ukuzaji wa maadili ya jamii za Kitanzania kabla ya ukoloni",
+      "learning_activity": "(d) Kubaini wajibu wa jamii katika ujenzi wa maadili ya familia",
+      "activity_id": "hist-3-17",
+      "periods": 4,
+      "activity_total_periods": 7,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubunguabongo kuhusu wajibu wa jamii katika ujenzi wa maadili ya familia",
+        "Igizodhima: Ongoza wanafunzi kuandaa na kuigiza matendo yanayohusu wajibu wa jamii katika ujenzi wa maadili ya familia",
+        "Maswali na majibu: Tumia maswali kuongoza washiriki kujadili kuhusu wajibu wa jamii katika ujenzi wa maadili ya familia"
+      ],
+      "assessment": "Wajibu wa jamiii katika ujenzi wa maadili ya familia umebainishwa",
+      "resources": [
+        "- Matini ya Historia ya Tanzania na Maadili",
+        "- Chati zenye kuonesha wajibu wa jamii katika ujenzi wa maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 2
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Tatu: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

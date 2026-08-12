@@ -1,0 +1,108 @@
+{
+  "subject": "Afya na Mazingira",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "6.0  Kutunza afya na mazingira",
+          "specific_competence": "6.1  Kutunza afya yake na jamii inayomzunguka",
+          "learning_activity": "(a)  Kusafisha mwili wake",
+          "suggested_methods": [],
+          "assessment_criteria": "Mwili umesafishwa",
+          "suggested_resources": [
+            "Vitu halisi",
+            "chati za picha",
+            "na video zinazoonesha michezo sahili",
+            "vifaa halisi vya kusafishia mwili na mavazi",
+            "chati za picha zinazohusu usafi wa mwili na mavazi",
+            "video zinazohusu utunzaji wa afya"
+          ],
+          "periods_for_specific_competence": 7,
+          "id": "grad-1-65"
+        },
+        {
+          "main_competence": "6.0  Kutunza afya na mazingira",
+          "specific_competence": "6.1  Kutunza afya yake na jamii inayomzunguka",
+          "learning_activity": "(b)  Kutunza mavazi yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Mavazi yametunzwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-66"
+        },
+        {
+          "main_competence": "6.0  Kutunza afya na mazingira",
+          "specific_competence": "6.2  Kujilinda na mazingira hatarishi",
+          "learning_activity": "(a)  Kuepuka mazingira na vitu hatarishi",
+          "suggested_methods": [],
+          "assessment_criteria": "Mazingira na vitu hatarishi vimeepukwa",
+          "suggested_resources": [
+            "Chati ya alama za usalama",
+            "picha za wanyama",
+            "matukio na maeneo hatarishi",
+            "mazigira hatarishi na alama za usalama barabarani zilizorekodiwa na katika mazingira"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "grad-1-67"
+        },
+        {
+          "main_competence": "6.0  Kutunza afya na mazingira",
+          "specific_competence": "6.2  Kujilinda na mazingira hatarishi",
+          "learning_activity": "(b)  Kubaini alama za usalama barabarani na katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za usalama barabarani na katika mazingira yake zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-68"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "6.0 Kutunza afya na mazingira",
+          "specific_competence": "6.1 Kuchunguza vitu vilivyopo katika mazingira",
+          "learning_activity": "Kufanya uchunguzi sahili wa viumbe hai na visivyo hai katika mazingira yanayomzunguka",
+          "suggested_methods": [],
+          "assessment_criteria": "Uchunguzi sahili wa viumbe hai na visivyo hai umefanywa",
+          "suggested_resources": [
+            "Picha",
+            "vitu halisi na video zinazohusu kuchunguza vitu vilivyopo"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "grad-2-115"
+        },
+        {
+          "main_competence": "6.0 Kutunza afya na mazingira",
+          "specific_competence": "6.2 Kujilinda na mazingira hatarishi",
+          "learning_activity": "Kuzingatia alama za usalama barabarani na katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za usalama barabarani na katika mazingira yake zimezingatiwa",
+          "suggested_resources": [
+            "Picha",
+            "vitu halisi na mazingira hatarishi yaliyorekodiwa"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "grad-2-116"
+        },
+        {
+          "main_competence": "6.0 Kutunza afya na mazingira",
+          "specific_competence": "6.3 Kuwa na mtazamo chanya kuhusu mazingira",
+          "learning_activity": "Kushiriki katika shughuli zinazohusu mazingira shuleni",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameshiriki katika shughuli zinazohusu mazingira shuleni",
+          "suggested_resources": [
+            "Kadi na chati ya picha",
+            "vitu halisi na matini zinazohusu mazingira zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "grad-2-117"
+        }
+      ]
+    }
+  }
+}

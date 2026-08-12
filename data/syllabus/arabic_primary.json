@@ -1,0 +1,1265 @@
+{
+  "subject": "Arabic",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727171454-MUHTASARI%20WA%20KIARABU%20FINAL%20III%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "a( Kusikiliza na kutamka sauti za Kiarabu",
+          "suggested_methods": [
+            "Kisamafunzo: Waongoze wanafunzi kusikiliza sauti za lugha ya Kiarabu",
+            "Kazi ya vikundi: Waongoze wanafunzi kuelewa sauti za lugha ya Kiarabu."
+          ],
+          "assessment_criteria": "Sauti za Kiarabu zimesikilizwa na kutamkwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye maudhui au mada za stadi za kusikiliza na kuzungumza"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-3-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "b( Kusoma na kuandika konsonanti za Kiarabu",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze  wanafunzi kujadili sauti mbalimbali za lugha ya kiarabu na kuzitofautisha kimatamshi.",
+            "Kukariri Waongoze wanafunzi kusoma konsonanti za Kiarabu.",
+            "Kunukuu Waongoze wanafunzi kuandika konsonanti za Kiarabu."
+          ],
+          "assessment_criteria": "Konsonanti za Kiarabu zimesomwa na zimeandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini anuai zilizojikita katika maudhui za kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "arab-3-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "c( Kusikiliza na kutamka irabu za Kiarabu",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi kuzitambua irabu za lugha ya kiarabu.",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili irabu za lugha ya kiarabu.",
+            "Kukariri: Waongoze wanafunzi kutamka irabu za Kiarabu."
+          ],
+          "assessment_criteria": "Irabu za Kiarabu zimesikilizwa na kutamkwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye maudhui au mada za stadi za kusikiliza na kuzungumza"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "arab-3-3"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "d( Kusoma na Kuandika irabu za Kiarabu",
+          "suggested_methods": [
+            "Matembezi ya galari: Waongoze wanafunzi kutambua maumbo mbalimbali ya irabu za Kiarabu.",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kujadili maumbo mbalimbali ya irabu za Kiarabu.",
+            "Oneshombinu: Waongoze wanafunzi kuandika irabu za Kiarabu"
+          ],
+          "assessment_criteria": "Irabu za Kiarabu zimesomwa na zimeandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui za kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "arab-3-4"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "e( Kusoma na kuandika silabi mbalimbali za Kiarabu",
+          "suggested_methods": [
+            "Kadi za silabi/maneno Waongoze wanafunzi kusoma silabi katika kadi zilizoandaliwa"
+          ],
+          "assessment_criteria": "Silabi za Kiarabu zimesomwa na zimeandikwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho mbalimbali yenye majina na maneno ya vitu anuai"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-5"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "a( Kuhusianisha maneno na vitu mbalimbali vinavyopatikana darasani na mazingira ya shule",
+          "suggested_methods": [
+            "Bunguabongo Waongoze wanafunzi kutambua majina ya vitu vya darasani",
+            "Matembezi ya galari Waongoze wanafunzi kutambua majina ya vitu vinavyopatikana katika mazingira ya shule"
+          ],
+          "assessment_criteria": "Majina ya vitu vya darasani yametambuliwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho mbalimbali yenye majina na maneno ya vitu anuai"
+          ],
+          "periods_for_specific_competence": 20,
+          "id": "arab-3-6"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "b( Kuhusianisha maneno na vitendo mbalimbali vinavyofanyika darasani na katika mazingira ya shule",
+          "suggested_methods": [
+            "Matembezi ya galari Waongoze wanafunzi kubaini vitendo vinavyofanyika katika mazingira ya darasani",
+            "Igizodhima Waongoze wanafunzi kubaini vitendo mbalimbali vinavyofanyika katika mzingira ya shuleni."
+          ],
+          "assessment_criteria": "Vitendo mbalimbali vinavyofanyika darasani vimetambuliwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho mbalimbali yenye maneno na vitendo"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "arab-3-7"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "c( Kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya darasani na shuleni",
+          "suggested_methods": [
+            "Majadiliano ya vikundi Waongoze wanafunzi kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya darasani.",
+            "Igizodhima waongoze wanafunzi kushiriki katika igizo la kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya shuleni."
+          ],
+          "assessment_criteria": "Maneno yanayohusianisha vitu na vitendo vinavyofanyika darasani yamesomwa kwa usahihi",
+          "suggested_resources": [
+            "Matini anuai zenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "arab-3-8"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "d( Kuandika maneno yanayo husianisha vitu na vitendo vinavyofanyika katika mazingira ya darasani na shuleni",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kuandika maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya darasani.",
+            "Oneshombinu Waongoze wanafunzi kuandika maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya shuleni"
+          ],
+          "assessment_criteria": "Maneno yanayohusianisha vitu na vitendo vinavyofanyika darasani yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini anuai zenye maudhui ya kuandika"
+          ],
+          "periods_for_specific_competence": 23,
+          "id": "arab-3-9"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "a( Kujitambulisha kwa kutumia sentensi sahili",
+          "suggested_methods": [
+            "Dayalojia Waongoze wanafunzi kujitambulisha"
+          ],
+          "assessment_criteria": "Wanafunzi wamejitambulisha kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui za kuzungumza"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-10"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": ")b( Kusoma na kuandika maneno yanayotumika katika kujitambulisha",
+          "suggested_methods": [
+            "Oneshombinu Waongoze wanafunzi kusoma na kuandika maneno yanayotumika katika kujitambulisha"
+          ],
+          "assessment_criteria": "Maneno yanayotumika katika kujitambulisha yamesomwa na kuandikwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho mbalimbali yenye maudhi za kusoma na kuandika maneno"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "arab-3-11"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "c( Kubaini nyakati mbalimbali",
+          "suggested_methods": [
+            "Igizombinu Waongoze wanafunzi kubaini aina mbalimbali za nyakati."
+          ],
+          "assessment_criteria": "Aina mbalimbali za nyakati zimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui za kusoma wakati"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-3-12"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.1 Kusikiliza na kuelewa taarifa",
+          "learning_activity": "a( Kusikiliza na kujibu salamu, mwaliko, kuagana na shukurani",
+          "suggested_methods": [
+            "Dayalojia Waongoze wanafunzi kutambua maneno mbalimbali yanayotumika katika salamu, mwaliko, kuagana na kushukur",
+            "Kazi za vikundi: Waongoze wanafunzi kubaini aina mbalimbali za kuitikia salamu, mwaliko, kuagana na shukrani.",
+            "Dayalojia: Waongoze wanafunzi kujibu kwa usahihi salamu, mwaliko, kuagana na shukrani"
+          ],
+          "assessment_criteria": "Mazungumzo kuhusu maamkizi, mialiko, maagano na shukrani yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 25,
+          "id": "arab-3-13"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.1 Kusikiliza na kuelewa taarifa",
+          "learning_activity": "b( Kusikiliza na kujibu maelekezo sahili yanayotolewa shuleni",
+          "suggested_methods": [
+            "Dayalojia: Waongoze wanafunzi kutambua maelekezo sahili yanayotolewa shuleni",
+            "Kazi za vikundi: Waongoze wanafunzi kutumia aina mbalimbali za maelekezo sahili yatolewayo shuleni"
+          ],
+          "assessment_criteria": "Maelekezo sahili yanayotolewa shuleni yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "arab-3-14"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.2 Kuonesha mwitiko sahihi katika muktadha wa kimawasiliano unaofahamika",
+          "learning_activity": "a( Kusikiliza na kufuata maagizo au maelekezo sahili yanayotolewa katika mazingira ya shule",
+          "suggested_methods": [
+            "Igizo fupi: Waongoze wanafunzi kubaini maagizo na maelekezo yanayotolewa shuleni."
+          ],
+          "assessment_criteria": "Maagizo na maelekezo sahili yanayotolewa katika mazingira ya shule yamefuatwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "arab-3-15"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.2 Kuonesha mwitiko sahihi katika muktadha wa kimawasiliano unaofahamika",
+          "learning_activity": "b( Kusikiliza na kuonesha hisia sahihi kutokana na taarifa fupi sahili",
+          "suggested_methods": [
+            "Igizodhima: Waongoze wanafunzi kuonesha hisia sahihi kutokana na taarifa fupi waliyoisikiliza"
+          ],
+          "assessment_criteria": "Hisia sahihi zilizotokana na usikilizaji wa taarifa fupi sahili zimeonyeshwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 27,
+          "id": "arab-3-16"
+        },
+        {
+          "main_competence": "3.0 Kuwasiliana kwa ufanisi katika miktadha mbalimbali",
+          "specific_competence": "3.1 Kuonesha uelewa wa sifa za msingi za lugha ya mazungumzo na maandishi",
+          "learning_activity": "a( Kutumia kiimbo sahihi wakati wa kuwasiliana",
+          "suggested_methods": [
+            "Dayalojia Waongoze wanafunzi kutumia na kutofautisha aina mbalimbali za viimbo"
+          ],
+          "assessment_criteria": "Kiimbo sahihi kimetumika wakati wa kuwasiliana",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya uwasilishaji kwa njia ya mazungumzo na maandishi"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-3-17"
+        },
+        {
+          "main_competence": "3.0 Kuwasiliana kwa ufanisi katika miktadha mbalimbali",
+          "specific_competence": "3.1 Kuonesha uelewa wa sifa za msingi za lugha ya mazungumzo na maandishi",
+          "learning_activity": "b( Kutumia alama za uakifishaji kwa usahihi )alama za kuuliza swali na kituo(",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutambua na kutumia alama ya kuuliza na ya kituo"
+          ],
+          "assessment_criteria": "Alama za kuuliza na kituo zimetumika kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya uwasilishaji kwa njia ya mazungumzo na maandishi"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "arab-3-18"
+        },
+        {
+          "main_competence": "3.0 Kuwasiliana kwa ufanisi katika miktadha mbalimbali",
+          "specific_competence": "3.1 Kuonesha uelewa wa sifa za msingi za lugha ya mazungumzo na maandishi",
+          "learning_activity": "c( Kutumia alama za uakifishaji kwa usahihi )alama za mshangao na mkato(",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutambua na kutumia alama ya mshangao na ya mkato"
+          ],
+          "assessment_criteria": "Alama za mshangao na mkato zimetumika kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya uwasilishaji kwa njia ya mazungumzo na maandishi"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "arab-3-19"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "اكتساب المهارات1.1\nالأساسية للأصوات\nونطق الحروف \nالعربية وكتابتها\n\n1.1 Kumudu \nufahamu wa \nfonimu na \nmatamshi ya \nherufi za \nkiarabu na \nuandishi wake",
+          "learning_activity": "(أ) الاستماع إلى الكلمات\nالمتحركة بحركات \nقصيرة ونطقها\n\na( Kusikiliza na \nkutamka maneno \nyenye irabu fupi",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "أرشد التلميذ لنطق الكلمات \nالمتحركة بحركات قصيرة",
+            "Igizodhima:\n Waongoze wanafunzi\n kutamka maneno yenye\n irabu fupi"
+          ],
+          "assessment_criteria": "تم نطق الكلمات\nالمتحركة بحركات \nقصيرة بطريقة صحيحة\n Maneno yenye\n irabu fupi\n yametamkwa kwa\nusahihi",
+          "suggested_resources": [
+            "المسجلت الصوتية\nالمتخــصـصـة في \nمــهارة الاستماع",
+            "Vinasa sauti \nvyenye mada au \nmaudhui ya \nkusikiliza"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-20"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "اكتساب المهارات1.1\nالأساسية للأصوات\nونطق الحروف \nالعربية وكتابتها\n\n1.1 Kumudu \nufahamu wa \nfonimu na \nmatamshi ya \nherufi za \nkiarabu na \nuandishi wake",
+          "learning_activity": "(ب) استماع إلى الكلمات\nالمتحركة بحركات \nطويلة ونطقها\n\nb( Kusikiliza na \nkutamka maneno \nyenye irabu \ndefu",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "أرشد التلميذ لنطق الكلمات \nالمتحركة بحركات طويلة",
+            "Igizodhima:\nWaongoze wanafunzi \nkutamka maneno yenye \nirabu ndefu"
+          ],
+          "assessment_criteria": "تم نطق الكلمات\nالمتحركة بحركات \nطويلة بشكل صحيح\n Maneno yenye\n irabu ndefu\n yametamkwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-21"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "اكتساب المهارات1.1\nالأساسية للأصوات\nونطق الحروف \nالعربية وكتابتها\n\n1.1 Kumudu \nufahamu wa \nfonimu na \nmatamshi ya \nherufi za \nkiarabu na \nuandishi wake",
+          "learning_activity": "(ج) قراءة الكلمات\nالمتحركة بحركات \nقصيرة وكتابتها\n\nc( Kusoma na \nkuandika \nmaneno yenye \nirabu fupi",
+          "suggested_methods": [
+            "قراءة النص",
+            "أرشد التلميذ لقراءة الكلمات \nالمتحركة بحركات قصيرة",
+            "Usomaji  matini: \nWaongoze wanafunzi \nkusoma maneno yenye \nirabu fupi",
+            "العرض",
+            "أرشد التلميذ لكتابة الكلمات \nالمتحركة بحركات قصيرة",
+            "Oneshombinu:\nWaongoze wanafunzi \nkuandika maneno yenye \nirabu fupi"
+          ],
+          "assessment_criteria": "قُرِئتِ الكلمات المتحركة \nبحركات قصيرة بشكل \nصحيح\nManeno yenye \nirabu fupi \nyamesomwa kwa \nusahihi\nكُتِبت الكلمات المتحركة\nبحركات قصيرة بشكل \nصحيح\n Maneno yenye\n irabu fupi\n yameandikwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-22"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "اكتساب المهارات1.1\nالأساسية للأصوات\nونطق الحروف \nالعربية وكتابتها\n\n1.1 Kumudu \nufahamu wa \nfonimu na \nmatamshi ya \nherufi za \nkiarabu na \nuandishi wake",
+          "learning_activity": "(د) قراءة الكلمات\nالمتحركة بحركات \nطويلة وكتابتها\n\nd( Kusoma na \nkuandika \nmaneno yenye \nirabu ndefu",
+          "suggested_methods": [
+            "قراءة النص",
+            "أرشد التلميذ \nلقراءة الكلمات المتحركة بحركات \nطويلة",
+            "Usomaji  matini:\nWaongoze wanafunzi \nkusoma maneno yenye \nirabu ndefu",
+            "ماذا في الحقيبة",
+            "أرشد التلميذ لكتابة الكلمات \nالمتحركة بحركات طويلة",
+            "Mchezo wa kapuni kuna \nnini: Waongoze \nswanafunzi kuandika \nmaneno yenye irabu \ndefu"
+          ],
+          "assessment_criteria": "قُرئتِ الكلمات المتحركة\nبحركات طويلة بشكل \nصحيح\n Maneno yenye\n irabu ndefu\n yamesomwa kwa\nusahihi\nكُتِبت الكلمات المتحركة\nبحركات طويلة بشكل \nصحيح\n Maneno yenye\n irabu ndefu\n yameandikwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-23"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "ربط الكلمات1.2\nبالأشياء في البيئة\n\n1.2 Kuhusianisha \nmaneno na vitu \nkatika \nmazingira",
+          "learning_activity": "(أالربط بين الكلمات \nوالأشياء \nالموجودة في بيئة \nالبيت\n\na( Kuhusianisha \nmaneno na vitu \nmbalimbali \nvinavyopatikana \nkatika mazingira \nya nyumbani",
+          "suggested_methods": [
+            "زيارة الكلري",
+            "أرشد التلميذ للتعرف على أسماء \nالأشياء الموجودة في بيئة البيت",
+            "Matembezi ya galari\n Waongoze wanafunzi\n kutambua majina ya vitu\n vinavyopatikana katika\nmazingira ya nyumbani"
+          ],
+          "assessment_criteria": "تم التعرف على أسماء\nالأشياء الموجودة في بيئة \nالبيت بشكل صحيح\n Majina ya vitu\n mbalimbali\n vinavyopatikana\n katika mazingira\n ya nyumbani\n yametambuliwa\nkwa usahihi",
+          "suggested_resources": [
+            "اتورالمنش\nالــمــتــنــوعــة \nالمـــتــخــصــصة  في \nالـــكــلمات \nوالأشـــيـــاء والأفعال \nالـــمـــخــتــلــفة\n Machapisho anuai\n  yenye maneno,\n vitu pamoja na\n vitendo\nmbalimbali"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-4-24"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "ربط الكلمات1.2\nبالأشياء في البيئة\n\n1.2 Kuhusianisha \nmaneno na vitu \nkatika \nmazingira",
+          "learning_activity": "بالربط بين \nالكلمات والأفعال \nالتي تحدث في \nبيئة البيت\n\nb( Kuhusianisha \nmaneno na \nvitendo \nmbalimbali \nvinavyofanyika \nkatika mazingira \nya nyumbani",
+          "suggested_methods": [
+            "زيارة الكلري",
+            "أرشد التلميذ للبيان الأفعال \nالمختلفة التي تحدث في بيئة البيت",
+            "Matembezi ya galari\n Waongoze wanafunzi\n kubainisha vitendo\n mbalimbali\n vinavyofanyika katika\nmazingira ya nyumbani"
+          ],
+          "assessment_criteria": "ذُكِرت الأفعال التي\nتحدث في بيئة البيت \nبشكل صحيح\nvitendo \nmbalimbali \nvinavyofanyika \nkatika mazingira \nya nyumbani \nvimebainishwa \nkwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-25"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "ربط الكلمات1.2\nبالأشياء في البيئة\n\n1.2 Kuhusianisha \nmaneno na vitu \nkatika \nmazingira",
+          "learning_activity": "(ج) قراءة الكلمات المتعلقة\nبالأشياء والأفعال التي \nتقع في بيئة البيت\n\nc( Kusoma maneno \nyanayohusianisha \nvitu na vitendo \nvinavyofanyika \nkatika mazingira \nya nyumbani",
+          "suggested_methods": [
+            "الصور والأوصاف",
+            "أرشد التلميذ لقراءة الكلمات \n المتعلقة بالأشياء والأفعال التي تقع\nفي بيئة البيت",
+            "Picha na maelezo\nWaongoze wanafunzi \nkusoma maneno \nyanayohusianisha vitu na \nvitendo vinavyofanyika \nkatika mazingira ya \nnyumbani"
+          ],
+          "assessment_criteria": "تمت قراءة الكلمات\nالمتعلقة بالأشياء والأفعال \nالتي تقع في بيئة البيت \nبشكل صحيح\n Maneno\n yanayohusianisha\n vitu na vitendo\n vinavyofanyika\n katika mazingira\n ya nyumbani\n yamesomwa kwa\nusahihi",
+          "suggested_resources": [
+            "النـــصــوص\nالــمــتــنــوعــة المتعلقة \nبالأشـــيـــاء والأفـــعال \n Matini anuai\n zenye maudhui ya\n kuhusianisha vitu\n na vitendo"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-26"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "ربط الكلمات1.2\nبالأشياء في البيئة\n\n1.2 Kuhusianisha \nmaneno na vitu \nkatika \nmazingira",
+          "learning_activity": "(د) كتابة الكلمات المتعلقة\nبالأشياء والأفعال التي \nتقع في بيئة البيت\n\nd( Kuandika maneno \nyanayohusianisha \nvitu na vitendo \nvinavyofanyika \nkatika mazingira \nya nyumbani",
+          "suggested_methods": [
+            "صورة",
+            "أرشد التلميذ لكتابة الكلمات \nالمتعلقة بالأشياء والأفعال التي \nتقع في بيئة البيت",
+            "Picha: \nWaongoze wanafunzi \nkuandika maneno \nyanayohusianisha vitu na \nvitendo vinavyofanyika \nkatika mazingira ya \nnyumbani"
+          ],
+          "assessment_criteria": "كُتبت الكلمات المتعلقة \nبالأشياء والأفعال التي \nتقع في بيئة البيت بشكل \nصحيح\n Maneno\n yanayohusianisha\n vitu na vitendo\n vinavyofanyika\n katika mazingira\n ya nyumbani\n yameandikwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-27"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "الـــقــدرة على1.3\nإتـــقـــان القواعد\nوالمفردات \nالـــســـهـــلــة\n\n1.3 Kumudu sarufi \nna msamiati \nsahili",
+          "learning_activity": "(أ) التعريف بالأهل\nوالأصدقاء باستخدام \nجمل سهلة\n\na( Kutambulisha \nwanafamilia na \nmarafiki kwa \nkutumia sentensi \nsahili",
+          "suggested_methods": [
+            "دراسة حالة",
+            "لتعريف أرشد التلميذ ل\nبالأهل والأصدقاء",
+            "Kisamafunzo\n)a( Waongoze wanafunzi \nkutambulisha \nwanafamilia na marafiki"
+          ],
+          "assessment_criteria": "التعريف بالأهلتم \nوالأصدقاء بشكل \n الصحيح\n Wanafamilia na\n marafiki\n wametambulishwa\nkwa usahihi",
+          "suggested_resources": [
+            "الــنــصــوص \nالمـــخــتــلــفة \nالمــتــخــصــصـة في \nوالـــكــلم \nMatini anuai \nzenye maudhui ya \nkuzungumza"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-28"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "الـــقــدرة على1.3\nإتـــقـــان القواعد\nوالمفردات \nالـــســـهـــلــة\n\n1.3 Kumudu sarufi \nna msamiati \nsahili",
+          "learning_activity": "(ب) قراءة الكلمات\nالمستخدمة في \nالتعريف بالأهل \nوالأصدقاء وكتابتها\n\nb( Kusoma na \nkuandika \nmaneno \nyanayotumika \nkutambulisha \nwanafamilia na \nmarafiki",
+          "suggested_methods": [
+            "صورة",
+            "لقراءة وكتابة التلاميذ أرشد \nالتعرف الكلمات المستخدمة في \nعلى أفراد الأسرة والأصدق",
+            "Picha:\nWaongoze wanafunzi \nkusoma na kuandika \nmaneno yanayotumika \nkutambulisha \nwanafamilia na marafiki"
+          ],
+          "assessment_criteria": "تمّت قراءة وكتابة\nالكلمات المستخدمة في \nالتعريف بالأهل \n  بشكل والأصدقاء\nصحيح\n Wanafamilia na\n marafiki\n wametambulishwa\nkwa usahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-29"
+        },
+        {
+          "main_competence": "الـــقــدرة\nعلى إتــــقــان\nالمهارات \nالأساسية للغة \nالعربية\n\n1.0 Kumudu \nstadi za \nmsingi za \nlugha ya \nKiarabu",
+          "specific_competence": "الـــقــدرة على1.3\nإتـــقـــان القواعد\nوالمفردات \nالـــســـهـــلــة\n\n1.3 Kumudu sarufi \nna msamiati \nsahili",
+          "learning_activity": "(ج) التعبير عما يحدث في\nأزمان وأوقات مختلفة \nباستخدام القواعد \nوالمفردات السهلة\n\nc( Kueleza mambo \nyanayofanyika \nkatika nyakati \nmbalimbali kwa \nkutumia sarufi na \nmsamiati sahili",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "أرشد التلميذ لشر) الأشياء \nالحادثة في أوقات مختلفة \nباستخدام قواعد اللغة والمفردات \nالسهلة",
+            "Igizodhima:\nWaongoze wanafunzi \nkueleza mambo \nyanayofanyika katika \nnyakati mbalimbali \nkwa kutumia sarufi na \nmsamiati sahili"
+          ],
+          "assessment_criteria": "تمّ التعبير عن الأشياء\nالحادثة في أزمان \nوأوقات مختلفة بشكل \nصحيح \n Mambo\n yanayofanyika\n katika nyakati\n mbalimbali\n yameelezwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-30"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "استماع وفهم2.1\nالمعلومات المقدمة\nشفويا\n\n2.1 Kusikiliza na \nkuelewa taarifa \nzilizotolewa \nkwa mdomo",
+          "learning_activity": "(أاستماع وفهم \nالخبر أو \nالرسالة\n\na( Kusikiliza na \nkuelewa \ntaarifa/ujumbe",
+          "suggested_methods": [
+            "أسئلة وأجوبة",
+            "أرشد التلميذ لفهم المعلومات \nالمقدمة",
+            "Maswaali na  majibu:\nWaongoze wanafunzi \nkuelewa taarifa \niliyotolewa"
+          ],
+          "assessment_criteria": "تم فهم المعلومات المقدمة\nبشكل صحيح \nTaarifa iliyotolewa \nimeeleweka kwa \nusahihi",
+          "suggested_resources": [
+            "المــســجــلت\nالـــصــوتـــيــة \nوالــنــصــوص المختلفة \nالمـــتــخــصــصـص في \nالاســتــمــاع \nVinasa sauti na \nmatini mbalimbali \nvyenye mada \nau maudhui ya \nkusikiliza"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-4-31"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "استماع وفهم2.1\nالمعلومات المقدمة\nشفويا\n\n2.1 Kusikiliza na \nkuelewa taarifa \nzilizotolewa \nkwa mdomo",
+          "learning_activity": "(باستماع وفهم \nالطلبات المختلفة\n\nb( Kusikiliza na \nkuelewa \nmaagizo",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "أرشد التلميذ لفهم التعليمات \nالمقدمة",
+            "Igizodhima:\nWaongoze wanafunzi \nkuelewa maagizo \nyaliyotolewa"
+          ],
+          "assessment_criteria": "تمَّ فهم التعليمات المقدمة\nبشكل صحيح  \nMaagizo \nyaliyotolewa \nyameeleweka kwa \nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-32"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "استماع وفهم2.1\nالمعلومات المقدمة\nشفويا\n\n2.1 Kusikiliza na \nkuelewa taarifa \nzilizotolewa \nkwa mdomo",
+          "learning_activity": "(ج) استماع إلى التوجيهات\nوإبداء الاستجابة \nباستخدام المفردات \nالسهلة\n\nc( Kusikiliza \nmaelekezo na \nkuyajibu kwa \nkutumia \nmsamiati sahili",
+          "suggested_methods": [
+            "الحوار",
+            "أرشد التلميذ لفهم الإرشادات \nالمقدمة شفويا",
+            "Dayolojia:\nWaongoze wanafunzi \nkusikiliza na kujibu \nmaelekezo yanayotolewa \nkwa mdomo"
+          ],
+          "assessment_criteria": "تمّ فهم الإرشادات\nالمقدمة شفويا بشكل \nصحيح\n \nMaelekezo\n yanayotolewa kwa \n mdomo\n yamejibiwa kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-33"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "قراءة وفهم معنى2.2\nالنصوص السهلة\n\n2.2 Kusoma na \nkuelewa matini \nsahili",
+          "learning_activity": "(أقراءة الأخبار \nالسهلة \nوالاستجابة \nللإعلنات \nالسهلة\n\na( Kusoma taarifa \nsahili na kujibu \nmatangazo \nsahili",
+          "suggested_methods": [
+            "العرض",
+            "معلومات  أرشد التلميذ لقراءة  \nسهلة",
+            "Onesho mbinu:\nWaongoze wanafunzi \nkusoma taarifa sahili",
+            "أسئلة و أجوبة",
+            "وجه التلميذ لإجابة الإعلنات \nالسهلة",
+            "Maswali na majibu:\nWaongoze wanafunzi \nkujibu matangazo sahili"
+          ],
+          "assessment_criteria": "قراءة النص السهلتمت \nبشكل صحيح \n Matini sahili \nimesomwa kwa\nusahihi\n إجابة الإعلناتتمت\nالسهلة بشكل صحيح  \n Matangazo sahili \nyamejibiwa kwa\nusahihi",
+          "suggested_resources": [
+            "المنشورات\nوالــنــصــوص المختلفة \n، المــتــخــصــصــة \nفي القراءة \n Machapisho na\n matini anuai\n yenye maudhui ya\nkusoma"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-34"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "قراءة وفهم معنى2.2\nالنصوص السهلة\n\n2.2 Kusoma na \nkuelewa matini \nsahili",
+          "learning_activity": "(بقراءة النصوص \nالسهلة عن الناس \nوالحيوانات \nوالأشياء \nوالأماكن، \nوالإجابة عن \nالأسئلة عنها\n\nb( Kusoma na \nkujibu maswali \nkutokana na \nmatini sahili \n)kuhusu watu, \nvitu, sehemu na \nwanyama(",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "أرشد التلميذ لقراءة  نص سهل\n Waongoze wanafunzi\nkusoma matini sahili",
+            "لعب الأدوار",
+            "أرشد التلميذ للإجابة على الأسئلة \n الذي قرأوهالسهلبناءً على النص",
+            "Igizodhima:\nWaongoze wanafunzi \nkujibu maswali kutokana \nna matini sahili \nwaliyoisoma"
+          ],
+          "assessment_criteria": "الإجابة عن الأسئلةتمت\nمن النص السهل المقروء \nبشكل صحيح\nMaswali \nyatokanayo na \nmatini iliyosomwa \nyamejibiwa kwa \nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-35"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika\n\n2.3 Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika",
+          "learning_activity": "الاستماع\nواتباع  \nالأوامر \nوالتوجيهات \nالسهلة المتعلقة \nببيئة البيت\n\na( Kusikiliza na \nkufuata maagizo \nau maelekezo \nsahili yanayo \ntolewa katika \nmazingira ya \nnyumbani",
+          "suggested_methods": [
+            "حوار",
+            "وجه التلميذ في اتباع التعليمات \nوالإرشادات السهلة الموجهة في \nبيئة المنزل",
+            "Dayalojia: \nWaongoze wanafunzi \nkufuata maagizo na \nmaelekezo sahili \nyanayotolewa katika \nmazingira ya nyumbani"
+          ],
+          "assessment_criteria": "تمَّ الاستماع واتباع\nالتعليمات والإرشادات \nالسلهة الموجهة في بيئة \nالمنزل بشكل صحيح\n Maagizo na\n maelekezo sahili\n yanayotolewa\n katika mazingira\n ya nyumbani\n yamesikilizwa na\n kufuatwa kwa\nusahihi",
+          "suggested_resources": [
+            "المنشورات\nوالــنــصــوص المختلفة \n، المــتــخــصــصــة \nفي الاستماع  \nوالـــكـــلم\nMachapisho na \nmatini anuai \nyenye maudhui \nya kusikiliza na \nkuzungumza"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-4-36"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika\n\n2.3 Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika",
+          "learning_activity": "(أإجراء الحادثة \nوتبادل الآراء \nفي أمور البيت\n\nb( Kufanya \nmazungumzo na \nkubadilishana \nmawazo katika \nmuktadha wa \nnyumbani",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "وجه التلميذ في تمثيل المحادثات \nالواقعة في بيئة المنزل",
+            "Igizodhima:\n Waongoze wanafunzi\n kuigiza mzungumzo\n yanayofanyika katika\nmazingira ya nyumbani"
+          ],
+          "assessment_criteria": "تمَّ  إجراء المحادثات\nوتبادل الأفكار في بيئة \nالمنزل بشكل صحيح\n Mazungumzo ya\n kubadilishana\n mawazo katika\n muktadha wa\n nyumbani\n yamefanyika kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-37"
+        },
+        {
+          "main_competence": "إظهار فهم2.0\nالمعلومات في\nالمـــحـــادثــة \nوالـــكـــتـــابـــة \n\n2.0 Kuonesha \nuelewa wa \ntaarifa katika \nmazungumzo \nna maandishi",
+          "specific_competence": "Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika\n\n2.3 Kuonesha \nmwitiko sahihi \nkatika \nmuktadha wa \nkimawasiliano \nunaofahamika",
+          "learning_activity": "(ج) استخدام لغة صحيحة\nومناسبة للمقتضى \nوالزمن\n\nc( Kutumia lugha \nsahihi \nkulingana na \nmuktadha na \nmuda.",
+          "suggested_methods": [
+            "لعب الأدوار",
+            "وجه التلميذ في استخدام اللغة \nالسهلة بناءً على المقتضى والزمن",
+            "Igizodhima:\nWaongoze wanafunzi \nkutumia lugha sahihi \nkulingana na muktadha \nna muda."
+          ],
+          "assessment_criteria": "تمَّ استخدام اللغة السهلة\nبناءً على المقتضى \nوالزمن بشكل صحيح \n Matumizi ya lugha\n kulingana na\n muktdha na muda\n yamefanyika kwa\nusahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "arab-4-38"
+        },
+        {
+          "main_competence": "الواصل3.0\nالفعال في السياقات\nالمختلفة\n\n3.0 \nKuwasiliana \nkwa ufanisi \nkatika \nmiktadha \nmbalimbali",
+          "specific_competence": "إظهار فهم الملمح3.1\nالأساسية للغة\nالمحادثة و \nالــــكـــتابـــة\n\n3.1  Kuonesha \nuelewa wa \nsifa za msingi \nza lugha ya \nmazungumzo \nna maandishi",
+          "learning_activity": "(أ) التعبير عن الشعور\nالسهلة\n\na( Kuelezea hisia \nsahili",
+          "suggested_methods": [
+            "دراسة حالة",
+            "التعبير عن  وجه التلميذ في\nمشاعر مختلفة في سياقات مختلفة",
+            "Kisamafunzo\n Waongoze wanafunzi\n kuelezea hisia tofauti\n katika miktadha\nmbalimbali",
+            "الحكاية",
+            "أخبرهم بالأخبار فيها مشاعر \nالناس  المختلفة",
+            "Masimulizi\n Wasimulie wanafunzi\n habari ndani yake kukiwa\n na hisia mbalimbali za\nwatu"
+          ],
+          "assessment_criteria": "تمَّ التعبير عن مشاعر\nمختلفة في سياقات \nمختلفة بشكل صحيح \n Hisia tofauti katika\n miktadha\n mbalimbali\n zimeelezewa kwa\nusahihi",
+          "suggested_resources": [
+            "المنشورات\nة  وتيلت الصسجوالـم\nالمختلفة، \nالمــتــخـصــصــة في \nالـــكـــلم\nMachapisho na \nvinasa sauti anuai \nyenye maudhui ya \nkuzungumza"
+          ],
+          "periods_for_specific_competence": 6,
+          "id": "arab-4-39"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya Kiarabu na uandishi wake",
+          "learning_activity": "a( Kusikiliza na kutamka maneno yenye mkazo (shadda)",
+          "suggested_methods": [
+            "Oneshombinu",
+            "Waongoze wanafunzi kusikiliza na kutambua shadda",
+            "Oneshombinu",
+            "Waongoze wanafunzi kutamka maneno yenye shada pamoja na irabu zake tofauti"
+          ],
+          "assessment_criteria": "Maneno yenye shadda yametamkwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti anuai vyenye maudhui ya kusikiliza na kutamka"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-5-40"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya Kiarabu na uandishi wake",
+          "learning_activity": "b( Kusoma na kuandika maneno yenye mkazo )shadda(",
+          "suggested_methods": [
+            "Usomaji matini",
+            "Waongoze wanafunzi kusoma maneno yenye shadda"
+          ],
+          "assessment_criteria": "Maneno yenye shadda yamesomwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-41"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya Kiarabu na uandishi wake",
+          "learning_activity": "c( Kubaini maumbo mbalimbali ya herufi za Kiarabu katika maneno",
+          "suggested_methods": [
+            "Mchezo wa kadi za maneno",
+            "Waongoze wanafunzi kubaini maumbo mbalimbali ya herufi za Kiarabu katika maneno"
+          ],
+          "assessment_criteria": "Maumbo mbalimbali ya herufi za Kiarabu katika maneno yamebainiwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-42"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.1 Kumudu ufahamu wa fonimu na matamshi ya Kiarabu na uandishi wake",
+          "learning_activity": "d( Kuandika maumbo mbalimbali ya herufi za Kiarabu katika maneno",
+          "suggested_methods": [
+            "Oneshombinu",
+            "Waongoze wanafunzi kuandika maumbo mbalimbali ya herufi za Kiarabu katika maneno"
+          ],
+          "assessment_criteria": "Maumbo mbalimbali ya herufi za Kiarabu katika maneno yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-43"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "a( Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya sokoni",
+          "suggested_methods": [
+            "Majadiliano ya vikundi:",
+            "Waongoze wanafunzi kutaja maneno na kuyahusianishan na vitu vinavyopatikana katika mazingira ya sokoni."
+          ],
+          "assessment_criteria": "Maneno yametajwa na kuhusianishwa na vitu vinavyopatikana katika mazingira ya sokoni kwa usahihi.",
+          "suggested_resources": [
+            "Matini na machapisho mbalimbali"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-5-44"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": "b( Kuhusianisha maneno na vitendo mbalimbali vinavyofanyika katika mazingira ya sokoni",
+          "suggested_methods": [
+            "Igizodhima",
+            "Waongoze wanafunzi kushiriki katika igizo la kutaja maneno na kuyahusianisha na vitendo vinavyofanyika katika mazingira ya sokoni"
+          ],
+          "assessment_criteria": "Maneno yametajwa na kuhusianiashwa na vitendo vinavyofanyika katika mazingira ya sokoni kwa usahihi",
+          "suggested_resources": [
+            "Matini na machapisho mbalimbali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-45"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": ")c( Kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya sokoni",
+          "suggested_methods": [
+            "Igizodhima",
+            "Waongoze wanafunzi kushiriki katika igizo la kutaja maneno na kuyahusianisha na vitendo vinavyofanyika katika mazingira ya sokoni"
+          ],
+          "assessment_criteria": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya sokoni yamesomwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho mbalimbali yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-46"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.2 Kuhusianisha maneno na vitu katika mazingira",
+          "learning_activity": ")d( Kuandika maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya sokoni",
+          "suggested_methods": [
+            "Picha na kadi za maneno",
+            "Waongoze wanafunzi kushiriki katika igizo la kuandika majina ya vitu na vitendo vinavyofanyika katika mazingira ya sokoni"
+          ],
+          "assessment_criteria": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya sokoni yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini na machapisho mbalimbali yenye mada ya uandishi"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-47"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "a( Kueleza sehemu anayotoka kwa kutumia sentensi sahili",
+          "suggested_methods": [
+            "Igizodhima",
+            "Waongoze wanafunzi Kueleza sehemu wanazotoka"
+          ],
+          "assessment_criteria": "Wanafunzi wameeleza sehemu wanazotoka kwa usahihi",
+          "suggested_resources": [
+            "Ramani na matini anuai yenye maudhui ya kuzungumza"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "arab-5-48"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "b( Kuelezea mipaka ya sehemu kwa kutumia pande kuu nne za dunia",
+          "suggested_methods": [
+            "Maswali na majibu",
+            "Waongoze wanafunzi kuelezea mipaka ya sehemu kwa kutumia pande kuu nne za dunia"
+          ],
+          "assessment_criteria": "Kwa kutumia pande kuu nne za dunia mipaka ya sehemu imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Ramani na matini anuai yenye maudhui ya kuzungumza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-49"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "c( Kueleza nyakati mbalimbali kwa kutumia sarufi na msamiati sahili",
+          "suggested_methods": [
+            "Majadiliano ya vikundi:",
+            "Waongoze wanafunzi kuelezea nyakati mbalimbali"
+          ],
+          "assessment_criteria": "Nyakati mbalimbali zimeelezewa kwa usahihi",
+          "suggested_resources": [
+            "Ramani na matini anuai yenye maudhui ya kuzungumza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-50"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "d( Kuelezea matendo ya kila siku kwa kutumia msamiati na sarufi sahili",
+          "suggested_methods": [
+            "Masimulizi",
+            "Waongoze wanafunzi kuelezea matendo ya kila siku"
+          ],
+          "assessment_criteria": "Matendo ya kila siku yameelezewa kwa usahihi",
+          "suggested_resources": [
+            "Ramani na matini anuai yenye maudhui ya kuzungumza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-51"
+        },
+        {
+          "main_competence": "1.0 Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "1.3 Kumudu sarufi na msamiati sahili",
+          "learning_activity": "e( Kuelezea matukio yajayo kwa kutumia msamiati na sarufi sahili",
+          "suggested_methods": [
+            "Utungaji",
+            "Waongoze wanafunzi kuelezea matukio yajayo"
+          ],
+          "assessment_criteria": "Matukio yajayo yameelezewa kwa usahihi",
+          "suggested_resources": [
+            "Ramani na matini anuai yenye maudhui ya kuzungumza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-52"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.1 Kusikiliza na kuelewa taarifa",
+          "learning_activity": "a( Kusikiliza matini fupi na kuifupisha kwa maneno",
+          "suggested_methods": [
+            "Majidiliano ya vikundi:",
+            "Waongoze wanafunzi kujadili mbinu za kufupisha matini"
+          ],
+          "assessment_criteria": "Matini fupi imesikilizwa na kuifupishwa kwa mdomo kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-5-53"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.1 Kusikiliza na kuelewa taarifa",
+          "learning_activity": ")b( Kusikiliza matini fupi sahili na kubaini maana ya maneno mapya yaliyotumika",
+          "suggested_methods": [
+            "Masimulizi:",
+            "Waongoze wanafunzi kujadili maana ya maneno mapya katika matini waliyosikiliza"
+          ],
+          "assessment_criteria": "Maana ya maneno mapya katika matini waliyoisikiliza yamebainiwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-54"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.1 Kusikiliza na kuelewa taarifa",
+          "learning_activity": "c) Kusikiliza maagizo sahili na kuyatekeleza",
+          "suggested_methods": [
+            "Maswali na majibu:",
+            "Waongoze wanafunzi kubaini maagizo yaliyotolewa na kuyatekeleza"
+          ],
+          "assessment_criteria": "Maagizo yaliyotolewa yamebainiwa na kutekelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui za kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-55"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.2 Kusoma na kuelewa matini sahili",
+          "learning_activity": "a( Kusoma matini fupi sahili na kubaini maana ya maneno mapya yaliyotumika",
+          "suggested_methods": [
+            "Majadiliano ya vikundi",
+            "Waongoze wanafunzi kusoma matini fupi na kubaini maana ya maneno mapya"
+          ],
+          "assessment_criteria": "Maneno mapya yaliyotumika katika matini iliyosomwa yameorodheshwa katika ubao mdogo kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-5-56"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.2 Kusoma na kuelewa matini sahili",
+          "learning_activity": ")b( Kusoma na kubaini ujumbe uliokusudiwa katika matini sahili",
+          "suggested_methods": [
+            "Majadiliano ya vikundi",
+            "Waongoze wanafunzi kusoma matini vizuri na kubaini maana ya maneno mapya",
+            "Ubao mdogo",
+            "Waongoze wanafunzi kuorodhesha maneno mapya yaliyotumika katika matini iliyosomwa"
+          ],
+          "assessment_criteria": "Maneno mapya yaliyotumika katika matini iliyosomwa yameorodheshwa katika ubao mdogo kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-57"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.2 Kusoma na kuelewa matini sahili",
+          "learning_activity": "Majadiliano",
+          "suggested_methods": [
+            "Waongoze wanafunzi kubaini ujumbe katika matini waliyoisoma"
+          ],
+          "assessment_criteria": "Ujumbe uliokusudiwa katika matini sahili umebainiwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini anuai yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-58"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.3 Kuonesha muitiko sahihi katika muktadha wa kimawasiliano unaofahamika",
+          "learning_activity": "a( Kusikiliza na kufuata maagizo au maelekezo yanayotolewa katika mazingira ya sokoni",
+          "suggested_methods": [
+            "Dayolojia",
+            "Waongoze wanafunzi kufuata maagizo na maelekezo katika mazingira ya sokoni"
+          ],
+          "assessment_criteria": "Maagizo na maelekezo yanayotolewa katika mazingira ya sokoni yamefuatwa kwa usahihi",
+          "suggested_resources": [
+            "Machapicho na matini mbalimbali zenye maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 8,
+          "id": "arab-5-59"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.3 Kuonesha muitiko sahihi katika muktadha wa kimawasiliano unaofahamika",
+          "learning_activity": "b( Kusikiliza taarifa fupi na kuelezea mawazo makuu yaliyomo",
+          "suggested_methods": [
+            "Usomaji matini",
+            "Waongoze wanafunzi kuelezea mawazo makuu yaliyomo katika taarifa waliyoisikiliza"
+          ],
+          "assessment_criteria": "Mawazo makuu yaliyomo katika taarifa iliyosikilizwa yameelezewa kwa usahihi",
+          "suggested_resources": [
+            "Machapicho na matini mbalimbali zenye maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-60"
+        },
+        {
+          "main_competence": "2.0 Kuonesha uelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "2.3 Kuonesha muitiko sahihi katika muktadha wa kimawasiliano unaofahamika",
+          "learning_activity": "c( Kusoma matini sahili na kuonesha hisia sahihi kutokana na ujumbe uliomo",
+          "suggested_methods": [
+            "Majadiliano ya vikundi:",
+            "Waongoze wanafunzi kuelezea hisia zao juu ya ujumbe waliousoma."
+          ],
+          "assessment_criteria": "Hisia sahihi kutokana na ujumbe uliomo katika matini iliyosomwa imeoneshwa kwa usahihi",
+          "suggested_resources": [
+            "Machapicho na matini mbalimbali yenye maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-5-61"
+        },
+        {
+          "main_competence": "3.0 Kuwasiliana kwa ufanisi katika miktadha mbalimbali",
+          "specific_competence": "3.1 Kuonesha uelewa wa sifa za msingi za lugha ya mazungumzo na maandishi",
+          "learning_activity": "a( Kushiriki katika mazungumzo sahili kuhusu mavazi na vyakula",
+          "suggested_methods": [
+            "Igizodhima:",
+            "Waongoze wanafunzi kufanya mazungumzo kuhusu mavazi na vyakula.",
+            "Dayalojia",
+            "Waongoze wanafunzi kufanya dayalojia juu ya vyakula na mavazi mbalimbali yanayopatikana madukani",
+            "Bunguabongo",
+            "Waulize wanafunzi ni vitu gani wanapenda kununua katika mavazi na vyakula wanapokwenda dukani pamoja na wazazi wao"
+          ],
+          "assessment_criteria": "Mazungumzo sahili kuhusu mavazi na vyakula yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya mazungumzo"
+          ],
+          "periods_for_specific_competence": 4,
+          "id": "arab-5-62"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "Waongoze wanafunzi kusikiliza na kutamka sentensi sahili",
+          "suggested_methods": [
+            "Mchezo wa Ding-Dong",
+            "Waongoze wanafunzi kusikiliza na kutamka sentensi sahili"
+          ],
+          "assessment_criteria": "Sentensi sahili zimetamkwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-63"
+        },
+        {
+          "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "Waongoze wanafunzi kusoma sentensi sahili",
+          "suggested_methods": [
+            "Mchezo wa Ding-Dong: Waongoze wanafunzi kusoma sentensi sahili"
+          ],
+          "assessment_criteria": "Sentensi sahili zimesomwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-64"
+        },
+        {
+          "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "Kunukuu: Waongoze wanafunzi kunukuu sentensi sahili",
+          "suggested_methods": [
+            "Kunukuu: Waongoze wanafunzi kunukuu sentensi sahili"
+          ],
+          "assessment_criteria": "Sentensi sahili zimeandikwa kwa usahihi",
+          "suggested_resources": [
+            "Vinasa sauti vyenye mada au maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-65"
+        },
+        {
+          "main_competence": "Kumudu stadi za msingi za lugha ya Kiarabu",
+          "specific_competence": "Kumudu ufahamu wa fonimu na matamshi ya herufi za Kiarabu na uandishi wake",
+          "learning_activity": "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili",
+          "suggested_methods": [
+            "Oneshombinu Waongoze wanafunzi kutunga sentensi sahili"
+          ],
+          "assessment_criteria": "Sentensi sahili zimetungwa kwa usahihi",
+          "suggested_resources": [
+            "Matini na machapisho mbalimbali yenye maudhui za utungaji"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-66"
+        },
+        {
+          "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+          "specific_competence": "Kuhusianisha maneno na vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+          "learning_activity": "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini",
+          "suggested_methods": [
+            "Igizodhima Waongoze wanafunzi kutaja majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini"
+          ],
+          "assessment_criteria": "Majina ya vitu mbalimbali vinavyopatikana katika mazingira ya hospitalini yametajwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "arab-6-67"
+        },
+        {
+          "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+          "specific_competence": "Kuhusianisha maneno na vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini",
+          "learning_activity": "Dayologia: Waongoze wanafunzi kutaja vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini",
+          "suggested_methods": [
+            "Dayologia: Waongoze wanafunzi kutaja vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini"
+          ],
+          "assessment_criteria": "Vitendo mbalimbali vinavyofanyika katika mazingira ya hospitalini vimetajwa kwa usahihi",
+          "suggested_resources": [
+            "Machapisho na matini mbalimbali yanayohusianisha vitu, maneno na vitendo"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-68"
+        },
+        {
+          "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+          "specific_competence": "Kusoma maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+          "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi kusoma majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini"
+          ],
+          "assessment_criteria": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini yamesomwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-69"
+        },
+        {
+          "main_competence": "Kuhusianisha maneno na vitu katika mazingira",
+          "specific_competence": "Kuandika maneno yanayohusianisha vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+          "learning_activity": "Igizodhima Waongoze wanafunzi kuandika majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini",
+          "suggested_methods": [
+            "Igizodhima Waongoze wanafunzi kuandika majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini"
+          ],
+          "assessment_criteria": "Majina ya vitu na vitendo vinavyofanyika katika mazingira ya hospitalini yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-70"
+        },
+        {
+          "main_competence": "Kumudu sarufi na msamiati sahili",
+          "specific_competence": "Kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania )milima, mito, maziwa na mbuga za wanyama(",
+          "learning_activity": "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania",
+          "suggested_methods": [
+            "Oneshombinu: Waongoze wanafunzi kusoma na kuandika majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania"
+          ],
+          "assessment_criteria": "Majina ya vivutio mbalimbali vya kiasili vinavyopatikana Tanzania yamesomwa na yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye maudhui ya kusoma na kuandika"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-6-71"
+        },
+        {
+          "main_competence": "Kumudu sarufi na msamiati sahili",
+          "specific_competence": "Kuelezea mipaka ya Tanzania",
+          "learning_activity": "Oneshombinu Waongoze wanafunzi kuelezea mipaka ya Tanzania",
+          "suggested_methods": [
+            "Oneshombinu Waongoze wanafunzi kuelezea mipaka ya Tanzania"
+          ],
+          "assessment_criteria": "Mipaka ya Tanzania imeelezewa kwa usahihi",
+          "suggested_resources": [
+            "Ramani na machapisho mbalimbali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-72"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza na kuelewa taarifa",
+          "learning_activity": "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+          "suggested_methods": [
+            "Fikiri - jozisha -shirikisha: Waongoze wanafunzi kusikiliza matini fupi na kubaini maneno mapya",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+          ],
+          "assessment_criteria": "Sentensi sahihi zimetungwa kwa kutumia maneno yaliyomo katika matini waliyoisikiliza",
+          "suggested_resources": [
+            "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "arab-6-73"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza na kuelewa taarifa",
+          "learning_activity": "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya",
+          "suggested_methods": [
+            "Toa moja chukua moja: Waongoze wanafunzi kutunga sentensi kwa kutumia maneno mapya"
+          ],
+          "assessment_criteria": "Mawazo makuu yaliyomo katika matini waliyoisikiliza yamebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-74"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza na kuelewa taarifa",
+          "learning_activity": "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza",
+          "suggested_methods": [
+            "Majadiliano ya kikundi: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisikiliza"
+          ],
+          "assessment_criteria": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-75"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza na kuelewa taarifa",
+          "learning_activity": "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza",
+          "suggested_methods": [
+            "Masimulizi: Waongoze wanafunzi kufupisha matini waliyoisikiliza"
+          ],
+          "assessment_criteria": "Matini fupi sahili imefupishwa kwa maandishi kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zenye kujikita katika maudhui ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-76"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusoma na kuelewa matini sahili",
+          "learning_activity": "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+          "suggested_methods": [
+            "Kisamafunzo: Waongoze wanafunzi kusoma matini fupi na kubaini maneno mapya",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutoa maana ya maneno mapya"
+          ],
+          "assessment_criteria": "Maana ya maneno mapya yaliyomo katika matini yamebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-77"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusoma na kuelewa matini sahili",
+          "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma",
+          "suggested_methods": [
+            "Kazi ya vikundi: Waongoze wanafunzi kufupisha matini waliyoisoma"
+          ],
+          "assessment_criteria": "Matini sahili imesomwa na imefupishwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-78"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusoma na kuelewa matini sahili",
+          "learning_activity": "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma",
+          "suggested_methods": [
+            "Usomaji matini: Waongoze wanafunzi kubaini mawazo makuu katika matini waliyoisoma"
+          ],
+          "assessment_criteria": "Mawazo makuu yaliyomo katika matini iliyosomwa yameandikwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita katika maudhui ya kusoma"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-79"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+          "learning_activity": "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini",
+          "suggested_methods": [
+            "Igizodhima: Waongoze wanafunzi kusikiliza na kuelewa maagizo na maelekezo yanayotolewa hospitalini"
+          ],
+          "assessment_criteria": "Maagizo na maelekezo sahili yanayotolewa katika mazingira ya hospitalini yamesikilizwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "arab-6-80"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+          "learning_activity": "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza",
+          "suggested_methods": [
+            "Kazi ya vikundi: Waongoze wanafunzi kuelezea hoja au mawazo makuu yaliyomo katika habari waliyoisikiliza"
+          ],
+          "assessment_criteria": "Hoja au mawazo makuu yaliyomo katika taarifa iliyosikilizwa yameelezwa kwa usahihi",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-81"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+          "learning_activity": "Tafakari binafsi: Waongoze wanafunzi kutoa maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali",
+          "suggested_methods": [
+            "Tafakari binafsi: Waongoze wanafunzi kutoa maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali"
+          ],
+          "assessment_criteria": "Msamiati umetumika kwa kwa usahihi katika kutoa au kupokea maelekezo kwa mdomo katika muktadha wa hospitali",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-82"
+        },
+        {
+          "main_competence": "Kuonesha uuelewa wa taarifa katika mazungumzo na maandishi",
+          "specific_competence": "Kusikiliza maagizo au maelekezo sahihi yanayotolewa katika mazingira ya hospitalini",
+          "learning_activity": "Igizo: Waongoze wanafunzi kupokea maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali",
+          "suggested_methods": [
+            "Igizo: Waongoze wanafunzi kupokea maelekezo ya mdomo na ya maandishi katika muktadha wa hospitali"
+          ],
+          "assessment_criteria": "Msamiati umetumika kwa usahihi katika kutoa au kupokea maelekezo kwa maandishi katika muktadha wa hospitali",
+          "suggested_resources": [
+            "Matini mbalimbali zilizojikita kwenye maudhui au mada ya kusikiliza"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "arab-6-83"
+        }
+      ]
+    }
+  }
+}

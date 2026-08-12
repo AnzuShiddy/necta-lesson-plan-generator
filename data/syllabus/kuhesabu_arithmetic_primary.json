@@ -1,0 +1,247 @@
+{
+  "subject": "Kuhesabu / Arithmetic",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 1": {
+      "activities": [
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutambua dhana ya namba",
+          "learning_activity": "(a)  Kubaini dhana ya namba kwa kutumia vitu katika mazingira",
+          "suggested_methods": [],
+          "assessment_criteria": "Dhana ya namba kwa kutumia vitu katika mazingira imebainishwa",
+          "suggested_resources": [
+            "Video zinazojenga dhana ya namba",
+            "vitu halisi",
+            "kadi za namba",
+            "kibao fumbo",
+            "sinia la namba",
+            "chati ya namba",
+            "abakasi"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "grad-1-45"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutambua dhana ya namba",
+          "learning_activity": "(b)  Kubaini namba kuanzia 1-100 kwa tarakimu na maneno",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba kuanzia 1-100 kwa tarakimu na maneno zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-46"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutambua dhana ya namba",
+          "learning_activity": "(c)   Kupanga namba kwa mfuatano 1-100",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba kwa mfuatano 1-100 zimepangwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-47"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2  Kutumia matendo ya kihisabati",
+          "learning_activity": "(a)  Kutambua namba katika makumi na mamoja",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba katika makumi na mamoja zimetambuliwa",
+          "suggested_resources": [
+            "Video zinazohusu matendo ya namba",
+            "vitu halisi",
+            "kadi za namba",
+            "kibao fumbo",
+            "sinia la namba",
+            "chati ya namba na abakasi"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "grad-1-48"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2  Kutumia matendo ya kihisabati",
+          "learning_activity": "(b)  Kutumia vitu/TEHAMA kumudu dhana ya kujumlisha",
+          "suggested_methods": [],
+          "assessment_criteria": "Dhana ya kujumlisha imejengwa kwa kutumia vitu/TEHEMA",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-49"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2  Kutumia matendo ya kihisabati",
+          "learning_activity": "(c)  Kujumlisha namba kupata jumla isiyozidi 99",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba zimejumlishwa kupata jumla isiyozidi 99",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-50"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2  Kutumia matendo ya kihisabati",
+          "learning_activity": "(d)  Kutumia vitu/TEHAMA kumudu dhana ya kutoa",
+          "suggested_methods": [],
+          "assessment_criteria": "Dhana ya kutoa imejengwa kwa kutumia vitu/TEHEMA",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-51"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2  Kutumia matendo ya kihisabati",
+          "learning_activity": "(e)   Kutoa namba zisizozidi 99",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba zimetolewa kwa idadi zisizozidi 99",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "grad-1-52"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.3  Kutumia dhana za kihisabati",
+          "learning_activity": "(a)  Kubaini maumbo ya msingi",
+          "suggested_methods": [],
+          "assessment_criteria": "Maumbo ya msingi yamebainishwa",
+          "suggested_resources": [
+            "Video zinazohusu maumbo yaliyorekodiwa",
+            "vitu halisi",
+            "kadi na chati za picha za maumbo"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "grad-1-53"
+        }
+      ]
+    },
+    "Grade 2": {
+      "activities": [
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(a) Kutambua namba katika mamia",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba katika mamia zimetambuliwa",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi za namba",
+            "kibao fumbo",
+            "sinia la namba",
+            "chati ya namba",
+            "abakasi",
+            "Video zinazohusu matendo ya kihisabati na matini zinazohusu matendo ya kihisabati zilizorekodiwa"
+          ],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-96"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(b) Kujumlisha namba kupata jumla isiyozidi 999",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba zimejumlishwa kupata jumla isiyozidi 999",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-97"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(c) Kutoa namba zisizozidi 999",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba zisizozidi 999 zimetolewa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-98"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(d) Kutumia vitu/TEHAMA kumudu dhana ya kuzidisha kama kujumlisha makundi yanayolingana",
+          "suggested_methods": [],
+          "assessment_criteria": "Kumudu dhana ya kuzidisha kama kujumlisha makundi yanayolingana kwa kutumia vitu/TEHAMA imejegwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-99"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(e) Kuzidisha namba kwa tarakimu moja kupata zao lisilozidi 100",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba kwa tarakimu moja imezidishwa kupata zao lisilozidi 100",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-100"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(f) Kutumia vitu/TEHAMA kumudu dhana ya kugawanya kama kutoa makundi yanayolingana",
+          "suggested_methods": [],
+          "assessment_criteria": "Dhana ya kugawanya kama kutoa makundi yanayolingana kwa kutumia vitu/TEHAMA imejengwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-101"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.1 Kutumia matendo ya kihisabati",
+          "learning_activity": "(g) Kugawanya namba zisizozidi 100 bila baki",
+          "suggested_methods": [],
+          "assessment_criteria": "Namba zisizozidi 100 zimegawanywa bila baki",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 173,
+          "id": "grad-2-102"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2 Kutumia dhana za kihisabati",
+          "learning_activity": "(a) Kubaini dhana ya sehemu kwa kutumia vitu halisi na TEHAMA (nzima, nusu, robo, theluthi, theluthi mbili n.k)",
+          "suggested_methods": [],
+          "assessment_criteria": "Dhana ya sehemu kwa kutumia vitu halisi na TEHAMA (nzima, nusu, robo, theluthi, theluthi mbili n.k) imebainishwa",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi na chati za picha na video zinazohusu dhana ya sehemu"
+          ],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-103"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2 Kutumia dhana za kihisabati",
+          "learning_activity": "(b) Kuonesha sehemu kwa kutumia namba ( 1 4 , 1 2 n.k)",
+          "suggested_methods": [],
+          "assessment_criteria": "Sehemu kwa kutumia namba ( 1 4 , 1 2 n.k) imeoneshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-104"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2 Kutumia dhana za kihisabati",
+          "learning_activity": "(c) Kutumia stadi za vipimo katika miktadha mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Stadi za vipimo katika miktadha mbalimbali zimetumika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-105"
+        },
+        {
+          "main_competence": "4.0 Kuhesabu",
+          "specific_competence": "4.2 Kutumia dhana za kihisabati",
+          "learning_activity": "(d) Kutumia maumbo ya msingi kuumba maumbo mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Maumbo ya msingi kuumba maumbo mbalimbali yametumika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 100,
+          "id": "grad-2-106"
+        }
+      ]
+    }
+  }
+}

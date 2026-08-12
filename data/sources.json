@@ -1,6 +1,31 @@
 {
  "note": "Official TIE syllabus PDFs, per level. uploads/documents/sw-* = the 2023 revised editions (used). uploads/files/* = older 2018/2019 edition (NOT used). Advanced-level PDFs download to data/pdfs/<slug>_advanced.pdf so a subject taught at both levels keeps its two documents apart.",
  "levels": {
+  "nursery": {
+   "note": "TIE Mtaala na Muhtasari wa Elimu ya Awali (2023) — one document for the whole level, split by its six main competences (Jedwali Na. 1.2).",
+   "subjects": {},
+   "combined": {
+    "awali": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf"
+   }
+  },
+  "primary": {
+   "note": "TIE Muhtasari wa Elimu ya Msingi (2023). Grade 3-6 have one document per subject; Grade 1-2 all come from the single combined document keyed __grade_1_2__, split by its main competences. Each URL was fetched and its title page checked.",
+   "subjects": {
+    "Arabic": "https://www.tie.go.tz/uploads/documents/sw-1727171454-MUHTASARI%20WA%20KIARABU%20FINAL%20III%20-%20VI.pdf",
+    "Chinese": "https://www.tie.go.tz/uploads/documents/sw-1727176969-MUHTASARI%20WA%20LUGHA%20YA%20KICHINA%20ELIMU%20YA%20MSINGI%20III%20-%20VI.pdf",
+    "English": "https://www.tie.go.tz/uploads/documents/sw-1727168466-ENGLISH%20Syllabus%20III-VI%20FINAL.pdf",
+    "French": "https://www.tie.go.tz/uploads/documents/sw-1727169152-French%20Syllabus%20For%20Primary%20Education%20Standardv%20III%20-%20VII.pdf",
+    "Hisabati / Mathematics": "https://www.tie.go.tz/uploads/documents/sw-1727169918-MUHTASARI%20%20WA%20SOMO%20LA%20HISABATI%20DRS%20III-VI.pdf",
+    "Historia ya Tanzania na Maadili": "https://www.tie.go.tz/uploads/documents/sw-1727167960-Muhtasari%20historia%20ya%20Tanzania%20na%20Maadili%20Drs%20III%20-%20%20IV.pdf",
+    "Jiografia na Mazingira": "https://www.tie.go.tz/uploads/documents/sw-1727166774-JIOGRAFIA%20NA%20MAZINGIRA%20FINAL.pdf",
+    "Kiswahili": "https://www.tie.go.tz/uploads/documents/sw-1727177907-MUHTASARI%20SOMO%20KISWAHILI%20DRS%20III%20-%20VI.pdf",
+    "Sanaa na Michezo": "https://www.tie.go.tz/uploads/documents/sw-1727176628-MUHTASARI%20WA%20SOMO%20LA%20SANAA%20NA%20MICHEZO%20ELIMU%20YA%20MSINGI.pdf",
+    "Sayansi / Science": "https://www.tie.go.tz/uploads/documents/sw-1727175605-Muhtasari%20wa%20Somo%20la%20Sayansi%20Shule%20ya%20Msingi%20Darasa%20la%20III%20-%20VI.pdf"
+   },
+   "combined": {
+    "grade_1_2": "https://www.tie.go.tz/uploads/documents/sw-1727083562-Elimu%20ya%20Msingi%20DRS%20I-II%20FINAL%20FINAL.pdf"
+   }
+  },
   "ordinary": {
    "note": "Official TIE 2023 Ordinary Secondary Education syllabus PDFs. uploads/documents/sw-* = 2023 revised edition (used). uploads/files/* = older 2018/2019 edition (NOT used).",
    "subjects": {

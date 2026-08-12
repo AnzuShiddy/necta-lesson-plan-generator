@@ -1,0 +1,1426 @@
+{
+  "subject": "Hisabati / Mathematics",
+  "form": "Grade 6",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 6,
+  "total_periods": 234,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.1 Kuonesha uuelewa wa vipimo",
+      "learning_activity": "Kukokotoa mafumbo yanayohusu umbali na muda",
+      "activity_id": "hisa-6-49",
+      "periods": 7,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kukokotoa muda na umbali",
+        "Majadiliano katika vikundi: Waongoze wanafunzi kujadiliana maswali ya kukokotoa muda na umbali"
+      ],
+      "assessment": "Mafumbo yanayohusu muda na umbali yamekokotolewa kwa usahihi",
+      "resources": [
+        "Saa",
+        "ramani ndogo",
+        "futikamba na programu za mtandaoni zenye michezo au mazoezi yanayohusu kukokotoa umbali na muda"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.1 Kuonesha uuelewa wa vipimo",
+      "learning_activity": "Kukokotoa mafumbo yanayohusu umbali na muda",
+      "activity_id": "hisa-6-49",
+      "periods": 7,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kukokotoa muda na umbali",
+        "Majadiliano katika vikundi: Waongoze wanafunzi kujadiliana maswali ya kukokotoa muda na umbali"
+      ],
+      "assessment": "Mafumbo yanayohusu muda na umbali yamekokotolewa kwa usahihi",
+      "resources": [
+        "Saa",
+        "ramani ndogo",
+        "futikamba na programu za mtandaoni zenye michezo au mazoezi yanayohusu kukokotoa umbali na muda"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.1 Kuonesha uuelewa wa vipimo",
+      "learning_activity": "Kukokotoa mafumbo yanayohusu umbali na muda",
+      "activity_id": "hisa-6-49",
+      "periods": 4,
+      "activity_total_periods": 18,
+      "teaching_learning_activities": [
+        "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kukokotoa muda na umbali",
+        "Majadiliano katika vikundi: Waongoze wanafunzi kujadiliana maswali ya kukokotoa muda na umbali"
+      ],
+      "assessment": "Mafumbo yanayohusu muda na umbali yamekokotolewa kwa usahihi",
+      "resources": [
+        "Saa",
+        "ramani ndogo",
+        "futikamba na programu za mtandaoni zenye michezo au mazoezi yanayohusu kukokotoa umbali na muda"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 3,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+      "activity_id": "hisa-6-50",
+      "periods": 3,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+      ],
+      "assessment": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+      "resources": [
+        "Maumbo mbalimbali (halisi na picha)",
+        "rula",
+        "kadi za manila zenye michoro ya vitu",
+        "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w8-2",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 4,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 7,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+      "activity_id": "hisa-6-51",
+      "periods": 2,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+      ],
+      "assessment": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w13-2",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 4,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 6,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 6,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 6,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 6,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+      "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+      "activity_id": "hisa-6-52",
+      "periods": 6,
+      "activity_total_periods": 34,
+      "teaching_learning_activities": [
+        "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "assessment": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+      "resources": [
+        "Kipimo cha nyuzi (protractor)",
+        "kadi za manila",
+        "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 6
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(a) Kutafuta kipeo cha pili cha namba",
+      "activity_id": "hisa-6-53",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeo cha pili cha namba"
+      ],
+      "assessment": "Kipeo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama za kipeo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(a) Kutafuta kipeo cha pili cha namba",
+      "activity_id": "hisa-6-53",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeo cha pili cha namba"
+      ],
+      "assessment": "Kipeo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama za kipeo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(a) Kutafuta kipeo cha pili cha namba",
+      "activity_id": "hisa-6-53",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeo cha pili cha namba"
+      ],
+      "assessment": "Kipeo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama za kipeo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w3-2",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(b) Kufuta kipeuo cha pili cha namba",
+      "activity_id": "hisa-6-54",
+      "periods": 5,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeuo cha pili cha namba"
+      ],
+      "assessment": "Kipeuo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama ya kipeuo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeuo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(b) Kufuta kipeuo cha pili cha namba",
+      "activity_id": "hisa-6-54",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeuo cha pili cha namba"
+      ],
+      "assessment": "Kipeuo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama ya kipeuo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeuo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(b) Kufuta kipeuo cha pili cha namba",
+      "activity_id": "hisa-6-54",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeuo cha pili cha namba"
+      ],
+      "assessment": "Kipeuo cha pili cha namba kimetafutwa kwa usahihi",
+      "resources": [
+        "Chati ya namba na alama ya kipeuo cha pili",
+        "programu za mtandaoni zinazohusiana na kutafuta kipeuo cha pili cha namba"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(c) Kufafanua dhana ya namba kamili",
+      "activity_id": "hisa-6-55",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kufafanua dhana ya namba kamili kwa kutoa mifano halisi"
+      ],
+      "assessment": "Dhana ya namba kamili imefafanuliwa kwa ufasaha",
+      "resources": [
+        "Karatasi za rangi",
+        "vibao vya rangi",
+        "pesa",
+        "vitabu",
+        "kalamu na vihesabio"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(c) Kufafanua dhana ya namba kamili",
+      "activity_id": "hisa-6-55",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kufafanua dhana ya namba kamili kwa kutoa mifano halisi"
+      ],
+      "assessment": "Dhana ya namba kamili imefafanuliwa kwa ufasaha",
+      "resources": [
+        "Karatasi za rangi",
+        "vibao vya rangi",
+        "pesa",
+        "vitabu",
+        "kalamu na vihesabio"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(c) Kufafanua dhana ya namba kamili",
+      "activity_id": "hisa-6-55",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kufafanua dhana ya namba kamili kwa kutoa mifano halisi"
+      ],
+      "assessment": "Dhana ya namba kamili imefafanuliwa kwa ufasaha",
+      "resources": [
+        "Karatasi za rangi",
+        "vibao vya rangi",
+        "pesa",
+        "vitabu",
+        "kalamu na vihesabio"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(d) Kufanya matendo katika namba kamili",
+      "activity_id": "hisa-6-56",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Michezo ya ujifunzaji: Waongoze wanafunzi kutumia kadi zenye rangi tofauti kucheza mchezo kwa kufananisha kadi ili kufanya matendo ya namba kamili kwa kuzingatia jozi ya sifuri",
+        "Maswali na majadiliano: Waongoze wanafunzi kufanya maswali na matendo katika namba kamili"
+      ],
+      "assessment": "Matendo katika namba kamili yamefanyika kwa usahihi",
+      "resources": [
+        "Sinia la namba",
+        "abakasi",
+        "chati ya namba",
+        "na programu za mtandaoni zinazohusiana na matendo ya hisabati katika namba kamili"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(d) Kufanya matendo katika namba kamili",
+      "activity_id": "hisa-6-56",
+      "periods": 6,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Michezo ya ujifunzaji: Waongoze wanafunzi kutumia kadi zenye rangi tofauti kucheza mchezo kwa kufananisha kadi ili kufanya matendo ya namba kamili kwa kuzingatia jozi ya sifuri",
+        "Maswali na majadiliano: Waongoze wanafunzi kufanya maswali na matendo katika namba kamili"
+      ],
+      "assessment": "Matendo katika namba kamili yamefanyika kwa usahihi",
+      "resources": [
+        "Sinia la namba",
+        "abakasi",
+        "chati ya namba",
+        "na programu za mtandaoni zinazohusiana na matendo ya hisabati katika namba kamili"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+      "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+      "learning_activity": "(d) Kufanya matendo katika namba kamili",
+      "activity_id": "hisa-6-56",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Michezo ya ujifunzaji: Waongoze wanafunzi kutumia kadi zenye rangi tofauti kucheza mchezo kwa kufananisha kadi ili kufanya matendo ya namba kamili kwa kuzingatia jozi ya sifuri",
+        "Maswali na majadiliano: Waongoze wanafunzi kufanya maswali na matendo katika namba kamili"
+      ],
+      "assessment": "Matendo katika namba kamili yamefanyika kwa usahihi",
+      "resources": [
+        "Sinia la namba",
+        "abakasi",
+        "chati ya namba",
+        "na programu za mtandaoni zinazohusiana na matendo ya hisabati katika namba kamili"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s2w9-2",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(a) Kuelezea dhana ya takwimu",
+      "activity_id": "hisa-6-57",
+      "periods": 2,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+        "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+      ],
+      "assessment": "Dhana ya takwimu imeelezwa kwa ufasaha",
+      "resources": [
+        "Makundi ya vitu mchanganyiko",
+        "ramani zinazoonesha takwimu halisi",
+        "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+        "picha na video za kuonesha data na takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(a) Kuelezea dhana ya takwimu",
+      "activity_id": "hisa-6-57",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+        "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+      ],
+      "assessment": "Dhana ya takwimu imeelezwa kwa ufasaha",
+      "resources": [
+        "Makundi ya vitu mchanganyiko",
+        "ramani zinazoonesha takwimu halisi",
+        "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+        "picha na video za kuonesha data na takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(a) Kuelezea dhana ya takwimu",
+      "activity_id": "hisa-6-57",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+        "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+      ],
+      "assessment": "Dhana ya takwimu imeelezwa kwa ufasaha",
+      "resources": [
+        "Makundi ya vitu mchanganyiko",
+        "ramani zinazoonesha takwimu halisi",
+        "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+        "picha na video za kuonesha data na takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(a) Kuelezea dhana ya takwimu",
+      "activity_id": "hisa-6-57",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+        "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+      ],
+      "assessment": "Dhana ya takwimu imeelezwa kwa ufasaha",
+      "resources": [
+        "Makundi ya vitu mchanganyiko",
+        "ramani zinazoonesha takwimu halisi",
+        "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+        "picha na video za kuonesha data na takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(a) Kuelezea dhana ya takwimu",
+      "activity_id": "hisa-6-57",
+      "periods": 1,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+        "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+      ],
+      "assessment": "Dhana ya takwimu imeelezwa kwa ufasaha",
+      "resources": [
+        "Makundi ya vitu mchanganyiko",
+        "ramani zinazoonesha takwimu halisi",
+        "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+        "picha na video za kuonesha data na takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(b) Kutafuta wastani, namba ya katikati (Mediani) na namba iliyojitokeza mara nyingi (modi) kwenye data zisizo katika makundi",
+      "activity_id": "hisa-6-58",
+      "periods": 5,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Mfano wa vitu halisi: Waongoze wanafunzi kutumia taarifa za vitu halisi zisizo katika makundi ya vitu mchanganyiko kutafuta wastani, mediani, na modi",
+        "Programu za mtandaoni:Waongoze wanafunzi kutumia programu za mitandao kutafuta wastani, mediani, na modi kwenye taarifa zisizo katika makundi"
+      ],
+      "assessment": "Wastani, namba ya katikati, na namba iliyojitokeza mara nyingi kwenye data zisizo za makundi zimetafutwa wa kwa usahihi",
+      "resources": [
+        "Makundi ya vitu mchanganyiko na programu za mtandaoni zinazohusiana na kutafuta mediani na modi kwenye data"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(b) Kutafuta wastani, namba ya katikati (Mediani) na namba iliyojitokeza mara nyingi (modi) kwenye data zisizo katika makundi",
+      "activity_id": "hisa-6-58",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Mfano wa vitu halisi: Waongoze wanafunzi kutumia taarifa za vitu halisi zisizo katika makundi ya vitu mchanganyiko kutafuta wastani, mediani, na modi",
+        "Programu za mtandaoni:Waongoze wanafunzi kutumia programu za mitandao kutafuta wastani, mediani, na modi kwenye taarifa zisizo katika makundi"
+      ],
+      "assessment": "Wastani, namba ya katikati, na namba iliyojitokeza mara nyingi kwenye data zisizo za makundi zimetafutwa wa kwa usahihi",
+      "resources": [
+        "Makundi ya vitu mchanganyiko na programu za mtandaoni zinazohusiana na kutafuta mediani na modi kwenye data"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(b) Kutafuta wastani, namba ya katikati (Mediani) na namba iliyojitokeza mara nyingi (modi) kwenye data zisizo katika makundi",
+      "activity_id": "hisa-6-58",
+      "periods": 6,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Mfano wa vitu halisi: Waongoze wanafunzi kutumia taarifa za vitu halisi zisizo katika makundi ya vitu mchanganyiko kutafuta wastani, mediani, na modi",
+        "Programu za mtandaoni:Waongoze wanafunzi kutumia programu za mitandao kutafuta wastani, mediani, na modi kwenye taarifa zisizo katika makundi"
+      ],
+      "assessment": "Wastani, namba ya katikati, na namba iliyojitokeza mara nyingi kwenye data zisizo za makundi zimetafutwa wa kwa usahihi",
+      "resources": [
+        "Makundi ya vitu mchanganyiko na programu za mtandaoni zinazohusiana na kutafuta mediani na modi kwenye data"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(b) Kutafuta wastani, namba ya katikati (Mediani) na namba iliyojitokeza mara nyingi (modi) kwenye data zisizo katika makundi",
+      "activity_id": "hisa-6-58",
+      "periods": 4,
+      "activity_total_periods": 21,
+      "teaching_learning_activities": [
+        "Mfano wa vitu halisi: Waongoze wanafunzi kutumia taarifa za vitu halisi zisizo katika makundi ya vitu mchanganyiko kutafuta wastani, mediani, na modi",
+        "Programu za mtandaoni:Waongoze wanafunzi kutumia programu za mitandao kutafuta wastani, mediani, na modi kwenye taarifa zisizo katika makundi"
+      ],
+      "assessment": "Wastani, namba ya katikati, na namba iliyojitokeza mara nyingi kwenye data zisizo za makundi zimetafutwa wa kwa usahihi",
+      "resources": [
+        "Makundi ya vitu mchanganyiko na programu za mtandaoni zinazohusiana na kutafuta mediani na modi kwenye data"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(c) Kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa",
+      "activity_id": "hisa-6-59",
+      "periods": 2,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa kwa kutumia data halisi",
+        "Kazimradi: Waongoze wanafunzi kutafuta taarifa katika jamii yao na wawasilishe taarifa kwa njia ya mihimili na duara"
+      ],
+      "assessment": "Matumizi ya takwimu kuwasilisha taarifa yamebainishwa kwa usahihi",
+      "resources": [
+        "Chati za takwimu halisi kama duara na mihimili",
+        "programu za mtandaoni za kutengeneza chati na grafu na michoro ya kijiografia inayoonesha takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(c) Kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa",
+      "activity_id": "hisa-6-59",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa kwa kutumia data halisi",
+        "Kazimradi: Waongoze wanafunzi kutafuta taarifa katika jamii yao na wawasilishe taarifa kwa njia ya mihimili na duara"
+      ],
+      "assessment": "Matumizi ya takwimu kuwasilisha taarifa yamebainishwa kwa usahihi",
+      "resources": [
+        "Chati za takwimu halisi kama duara na mihimili",
+        "programu za mtandaoni za kutengeneza chati na grafu na michoro ya kijiografia inayoonesha takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(c) Kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa",
+      "activity_id": "hisa-6-59",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa kwa kutumia data halisi",
+        "Kazimradi: Waongoze wanafunzi kutafuta taarifa katika jamii yao na wawasilishe taarifa kwa njia ya mihimili na duara"
+      ],
+      "assessment": "Matumizi ya takwimu kuwasilisha taarifa yamebainishwa kwa usahihi",
+      "resources": [
+        "Chati za takwimu halisi kama duara na mihimili",
+        "programu za mtandaoni za kutengeneza chati na grafu na michoro ya kijiografia inayoonesha takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+      "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+      "learning_activity": "(c) Kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa",
+      "activity_id": "hisa-6-59",
+      "periods": 6,
+      "activity_total_periods": 20,
+      "teaching_learning_activities": [
+        "Mifano halisi: Waongoze wanafunzi kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa kwa kutumia data halisi",
+        "Kazimradi: Waongoze wanafunzi kutafuta taarifa katika jamii yao na wawasilishe taarifa kwa njia ya mihimili na duara"
+      ],
+      "assessment": "Matumizi ya takwimu kuwasilisha taarifa yamebainishwa kwa usahihi",
+      "resources": [
+        "Chati za takwimu halisi kama duara na mihimili",
+        "programu za mtandaoni za kutengeneza chati na grafu na michoro ya kijiografia inayoonesha takwimu"
+      ],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Hisabati / Mathematics kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

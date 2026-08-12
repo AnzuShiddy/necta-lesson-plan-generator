@@ -1,6 +1,50 @@
 {
   "note": "The full subject list the app advertises, per level. Status is derived at runtime: 'ready' if data/syllabus/<slug>.json exists (advanced-level slugs end in _advanced), else 'pdf' if the PDF is downloaded (run scripts/ingest_syllabus.py), else 'pending' (needs the official TIE PDF URL).",
   "levels": {
+    "nursery": {
+      "forms": [
+        "Awali"
+      ],
+      "syllabus": "TIE Mtaala na Muhtasari wa Elimu ya Awali (2023)",
+      "note": "One document covers pre-primary. Its six main competences (Jedwali Na. 1.2) are the six subject areas below, in that order.",
+      "subjects": [
+        "Creative Arts and Sports",
+        "Naipenda Nchi Yangu Tanzania",
+        "Early Literacy Skills",
+        "Early Life Skills",
+        "Health and Environment",
+        "Arithmetic, Science and ICT"
+      ]
+    },
+    "primary": {
+      "forms": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5",
+        "Grade 6"
+      ],
+      "syllabus": "TIE Muhtasari wa Elimu ya Msingi (2023)",
+      "note": "The 2023 curriculum makes primary six years, so there is no Grade 7. Grade 1-2 come from one combined document whose six main competences are the subjects; Grade 3-6 have one document per subject.",
+      "subjects": [
+        "Kusoma / Reading",
+        "Kuandika / Writing",
+        "Kuhesabu / Arithmetic",
+        "Utamaduni, Sanaa na Michezo",
+        "Afya na Mazingira",
+        "Kiswahili",
+        "English",
+        "Hisabati / Mathematics",
+        "Sayansi / Science",
+        "Jiografia na Mazingira",
+        "Historia ya Tanzania na Maadili",
+        "Sanaa na Michezo",
+        "French",
+        "Arabic",
+        "Chinese"
+      ]
+    },
     "ordinary": {
       "forms": [
         "Form One",

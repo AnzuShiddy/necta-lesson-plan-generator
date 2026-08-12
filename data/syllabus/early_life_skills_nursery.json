@@ -1,0 +1,177 @@
+{
+  "subject": "Early Life Skills",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.1 Kujithamini na kuthamini wengine",
+          "learning_activity": "Kujitamublisha na kutambulisha wengine",
+          "suggested_methods": [],
+          "assessment_criteria": "Amejitambulisha na kutambulisha wengine",
+          "suggested_resources": [
+            "Picha zinazoonesha watu wakijitambulisha na kutambulisha wengine",
+            "picha zinazoonesha matendo mema",
+            "picha zinazoonesha shughuli mbalimbali za kijamii",
+            "filamu zinazoonesha matendo mbalimbali ya kusalimiana kuagana na kutambulishana"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "awal-awali-43"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.1 Kujithamini na kuthamini wengine",
+          "learning_activity": "Kuonesha matendo ya tabia njema",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo ya tabia njema yameoneshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-44"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.1 Kujithamini na kuthamini wengine",
+          "learning_activity": "Kubaini haki na wajibu wake",
+          "suggested_methods": [],
+          "assessment_criteria": "Haki na wajibu umebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-45"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.1 Kujithamini na kuthamini wengine",
+          "learning_activity": "Kubaini kazi zinazotendwa na wanafamilia na watu wengine",
+          "suggested_methods": [],
+          "assessment_criteria": "Kazi zinazotendwa na wanafamilia na watu wengine zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-46"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.2 Kutawala hisia katika miktadha mbalimbali",
+          "learning_activity": "Kutaja vitu anavyovipenda na asivyovipenda",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu anavyovipenda na asivyovipenda vimetajwa",
+          "suggested_resources": [
+            "Picha zinazoonesha matendo ya hisia",
+            "picha za vitu mbalimbali",
+            "filamu zinazoonesha matendo ya hisia mbalimbali"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "awal-awali-47"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.2 Kutawala hisia katika miktadha mbalimbali",
+          "learning_activity": "Kueleza namna ya kutawala hisia",
+          "suggested_methods": [],
+          "assessment_criteria": "Namna ya kutawala hisia imeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-48"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.2 Kutawala hisia katika miktadha mbalimbali",
+          "learning_activity": "Kutenda matendo yanayoonesha hisia",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo yanayoonesha hisia yametendwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-49"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.3 Kumudu stadi za kujitegemea",
+          "learning_activity": "Kutenda matendo ya kujitegemea",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo ya kujitegemea yametendwa",
+          "suggested_resources": [
+            "Picha zinazoonesha matendo ya kujitegemea",
+            "picha zinazoonesha vitu katika mpangilio sahihi",
+            "vitu halisi",
+            "filamu zinazoonesha matendo ya kujitegemea"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "awal-awali-50"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.3 Kumudu stadi za kujitegemea",
+          "learning_activity": "Kupanga vitu katika mpangilio sahihi",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu vimepangwa katika mpangilio sahihi",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-51"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.4 Kumudu stadi za kushirikiana",
+          "learning_activity": "Kushirikiana katika miktadha mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Ameshirikiana katika miktadha mbalimbali",
+          "suggested_resources": [
+            "Picha zinazoonesha matukio ya kushirikiana",
+            "ludo",
+            "nyoka na ngazi",
+            "karata",
+            "drafti",
+            "vitabu vya hadithi kuhusu ushirikiano"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "awal-awali-52"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.4 Kumudu stadi za kushirikiana",
+          "learning_activity": "Kupeana zamu katika michezo na shughuli mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Kupeana zamu katika michezo na shughuli mbalimbali kumefanyika",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-53"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.5 Kutatua changamoto katika maisha ya kila siku",
+          "learning_activity": "Kucheza michezo inayojenga stadi za kutatua changamoto",
+          "suggested_methods": [],
+          "assessment_criteria": "Michezo inayojenga stadi za kutatua changamoto imechezwa",
+          "suggested_resources": [
+            "Vibaofumbo",
+            "vipande vya mbao vya ukubwa tofauti"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "awal-awali-54"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.5 Kutatua changamoto katika maisha ya kila siku",
+          "learning_activity": "Kuonesha namna ya kukabiliana na changamoto",
+          "suggested_methods": [],
+          "assessment_criteria": "Namna ya kukabiliana na changamoto imeoneshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-55"
+        },
+        {
+          "main_competence": "4.0 Kuhusiana na kuthamini wengine",
+          "specific_competence": "4.5 Kutatua changamoto katika maisha ya kila siku",
+          "learning_activity": "Kutumia TEHAMA kutatua changamoto",
+          "suggested_methods": [],
+          "assessment_criteria": "TEHAMA imetumika kutatua changamoto",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-56"
+        }
+      ]
+    }
+  }
+}

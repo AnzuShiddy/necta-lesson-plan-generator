@@ -1,0 +1,1262 @@
+{
+  "subject": "Sayansi / Science",
+  "form": "Grade 5",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 5,
+  "total_periods": 175,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(a) Kueleza mfumo wa mmeng’enyo wa chakula wa binadamu (maana, sehemu na kazi zake)",
+      "activity_id": "saya-5-21",
+      "periods": 5,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu maana ya mmeng’enyo wa chakula",
+        "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu za mfumo wa mmeng’enyo wa chakula wa binadamu na umuhimu wake",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa mmeng’enyo wa chakula kwa kutumia “simulation”"
+      ],
+      "assessment": "Mfumo wa mmeng’enyo wa chakula wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mfumo wa mmeng’enyo wa chakula wa binadamu, na picha mjongeo za mfumo wa mmeng’enyo wa chakula wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(a) Kueleza mfumo wa mmeng’enyo wa chakula wa binadamu (maana, sehemu na kazi zake)",
+      "activity_id": "saya-5-21",
+      "periods": 5,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu maana ya mmeng’enyo wa chakula",
+        "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu za mfumo wa mmeng’enyo wa chakula wa binadamu na umuhimu wake",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa mmeng’enyo wa chakula kwa kutumia “simulation”"
+      ],
+      "assessment": "Mfumo wa mmeng’enyo wa chakula wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mfumo wa mmeng’enyo wa chakula wa binadamu, na picha mjongeo za mfumo wa mmeng’enyo wa chakula wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(a) Kueleza mfumo wa mmeng’enyo wa chakula wa binadamu (maana, sehemu na kazi zake)",
+      "activity_id": "saya-5-21",
+      "periods": 2,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu maana ya mmeng’enyo wa chakula",
+        "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu za mfumo wa mmeng’enyo wa chakula wa binadamu na umuhimu wake",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa mmeng’enyo wa chakula kwa kutumia “simulation”"
+      ],
+      "assessment": "Mfumo wa mmeng’enyo wa chakula wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mfumo wa mmeng’enyo wa chakula wa binadamu, na picha mjongeo za mfumo wa mmeng’enyo wa chakula wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w3-2",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(b) Kueleza mifumo ya uzazi wa binadamu",
+      "activity_id": "saya-5-22",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kuelezea mifumo ya uzazi wa binadamu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa uzazi wa mwanamke na mwanaume kwa kutumia “simulation”"
+      ],
+      "assessment": "Mifumo ya uzazi wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mifumo wa uzazi ya binadamu,",
+        "picha mjongeo,",
+        "michezo ya kompyuta, video na picha za mfumo wa uzazi wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(b) Kueleza mifumo ya uzazi wa binadamu",
+      "activity_id": "saya-5-22",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kuelezea mifumo ya uzazi wa binadamu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa uzazi wa mwanamke na mwanaume kwa kutumia “simulation”"
+      ],
+      "assessment": "Mifumo ya uzazi wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mifumo wa uzazi ya binadamu,",
+        "picha mjongeo,",
+        "michezo ya kompyuta, video na picha za mfumo wa uzazi wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(b) Kueleza mifumo ya uzazi wa binadamu",
+      "activity_id": "saya-5-22",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kuelezea mifumo ya uzazi wa binadamu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa uzazi wa mwanamke na mwanaume kwa kutumia “simulation”"
+      ],
+      "assessment": "Mifumo ya uzazi wa binadamu umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli/vifani vya mifumo wa uzazi ya binadamu,",
+        "picha mjongeo,",
+        "michezo ya kompyuta, video na picha za mfumo wa uzazi wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(c) Kueleza ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-23",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu dhana ya ukuaji",
+        "Majadiliano: Wanafunzi katika vikundi waongozwe kujadiliana na kuelezea dhana ya ukuaji katika wanyama na mimea"
+      ],
+      "assessment": "Ukuaji katika wanyama na mimea umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli, picha mjongeo, video, picha zinazoonesha ukuaji katika wanyama na mimea na seti ya sayansi"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(c) Kueleza ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-23",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu dhana ya ukuaji",
+        "Majadiliano: Wanafunzi katika vikundi waongozwe kujadiliana na kuelezea dhana ya ukuaji katika wanyama na mimea"
+      ],
+      "assessment": "Ukuaji katika wanyama na mimea umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli, picha mjongeo, video, picha zinazoonesha ukuaji katika wanyama na mimea na seti ya sayansi"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(c) Kueleza ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-23",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu dhana ya ukuaji",
+        "Majadiliano: Wanafunzi katika vikundi waongozwe kujadiliana na kuelezea dhana ya ukuaji katika wanyama na mimea"
+      ],
+      "assessment": "Ukuaji katika wanyama na mimea umeelezwa kwa usahihi",
+      "resources": [
+        "Modeli, picha mjongeo, video, picha zinazoonesha ukuaji katika wanyama na mimea na seti ya sayansi"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7-2",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(d) Kueleza hatua za makuzi za mwili wa binadamu",
+      "activity_id": "saya-5-24",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kueleza hatua za makuzi za mwili wa binadamu",
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za makuzi za mwili wa binadamu kwa njia ya maswali na majibu"
+      ],
+      "assessment": "Hatua za makuzi za mwili wa binadamu zimeelezwa kwa usahihi",
+      "resources": [
+        "Picha mjongeo, video, picha, chati/vipeperushi vinavyohusu hatua za makuzi za mwili wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(d) Kueleza hatua za makuzi za mwili wa binadamu",
+      "activity_id": "saya-5-24",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kueleza hatua za makuzi za mwili wa binadamu",
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za makuzi za mwili wa binadamu kwa njia ya maswali na majibu"
+      ],
+      "assessment": "Hatua za makuzi za mwili wa binadamu zimeelezwa kwa usahihi",
+      "resources": [
+        "Picha mjongeo, video, picha, chati/vipeperushi vinavyohusu hatua za makuzi za mwili wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+      "learning_activity": "(d) Kueleza hatua za makuzi za mwili wa binadamu",
+      "activity_id": "saya-5-24",
+      "periods": 5,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kueleza hatua za makuzi za mwili wa binadamu",
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za makuzi za mwili wa binadamu kwa njia ya maswali na majibu"
+      ],
+      "assessment": "Hatua za makuzi za mwili wa binadamu zimeelezwa kwa usahihi",
+      "resources": [
+        "Picha mjongeo, video, picha, chati/vipeperushi vinavyohusu hatua za makuzi za mwili wa binadamu"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0. Kumudu nadharia za kisayansi",
+      "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+      "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+      "activity_id": "saya-5-25",
+      "periods": 5,
+      "activity_total_periods": 45,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+        "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+        "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+        "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+      ],
+      "assessment": "Dhana ya usumaku imeelezwa kwa usahihi",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 9,
+      "topic_weeks": 9
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-26",
+      "periods": 5,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+        "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+      ],
+      "assessment": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+      "resources": [
+        "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-26",
+      "periods": 5,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+        "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+      ],
+      "assessment": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+      "resources": [
+        "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-26",
+      "periods": 5,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+        "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+      ],
+      "assessment": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+      "resources": [
+        "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-26",
+      "periods": 5,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+        "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+      ],
+      "assessment": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+      "resources": [
+        "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+      "activity_id": "saya-5-26",
+      "periods": 3,
+      "activity_total_periods": 23,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+        "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+      ],
+      "assessment": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+      "resources": [
+        "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5-2",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+      "activity_id": "saya-5-27",
+      "periods": 2,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+      ],
+      "assessment": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+      "activity_id": "saya-5-27",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+      ],
+      "assessment": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+      "activity_id": "saya-5-27",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+      ],
+      "assessment": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+      "activity_id": "saya-5-27",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+      ],
+      "assessment": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+      "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+      "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+      "activity_id": "saya-5-27",
+      "periods": 5,
+      "activity_total_periods": 22,
+      "teaching_learning_activities": [
+        "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+      ],
+      "assessment": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+      "resources": [
+        "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 6,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 7,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 8,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 9,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+      "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+      "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+      "activity_id": "saya-5-28",
+      "periods": 4,
+      "activity_total_periods": 40,
+      "teaching_learning_activities": [
+        "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+        "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+        "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+      ],
+      "assessment": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+      "resources": [
+        "Kompyuta, programu ya kompyuta na projekta"
+      ],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 10,
+      "topic_weeks": 10
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Sayansi / Science kwa Shule za Msingi Darasa la Tano: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

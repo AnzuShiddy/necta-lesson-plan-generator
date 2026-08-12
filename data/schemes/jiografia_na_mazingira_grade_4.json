@@ -1,0 +1,958 @@
+{
+  "subject": "Jiografia na Mazingira",
+  "form": "Grade 4",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 1,
+  "total_periods": 30,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+      "activity_id": "jiog-4-5",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+        "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+      ],
+      "assessment": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+      "resources": [
+        "Dira",
+        "michoro ya ramani rahisi",
+        "tufe"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+      "activity_id": "jiog-4-5",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+        "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+      ],
+      "assessment": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+      "resources": [
+        "Dira",
+        "michoro ya ramani rahisi",
+        "tufe"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+      "activity_id": "jiog-4-5",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+        "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+      ],
+      "assessment": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+      "resources": [
+        "Dira",
+        "michoro ya ramani rahisi",
+        "tufe"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+      "activity_id": "jiog-4-5",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+        "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+      ],
+      "assessment": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+      "resources": [
+        "Dira",
+        "michoro ya ramani rahisi",
+        "tufe"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(a) Kuonesha uelekeo wa vitu mbalimbali kwa kutumia pande kuu nne na nane za dunia (Kutambua pande kuu nne, kuchora pande kuu nne, kutumia pande kuu nne kuonesha uelekeo, kutambua pande nane, kuchora pande nane, kutumia pande nane kuonesha uelekeo)",
+      "activity_id": "jiog-4-5",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kwa kutumia maswali na majibu kutambua pande kuu nne na nane za dunia",
+        "Kazi ya vitendo: Ongoza wanafunzi (i) kuchora na kuonesha uelekeo wa pande kuu nne na nane za dunia (ii) kutumia pande kuu nne na nane za dunia kuonesha vitu, maeneo mbalimbali ya shule na jamii zao"
+      ],
+      "assessment": "Uelekeo wa vitu mbalimbali umeoneshwa kwa kutumia pande kuu nne na nane za dunia",
+      "resources": [
+        "Dira",
+        "michoro ya ramani rahisi",
+        "tufe"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+      "activity_id": "jiog-4-6",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+        "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+      ],
+      "assessment": "Dhana ya ramani imeelezwa kwa usahihi",
+      "resources": [
+        "Ramani sahili",
+        "chati ya alama mbalimbali za ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+      "activity_id": "jiog-4-6",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+        "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+      ],
+      "assessment": "Dhana ya ramani imeelezwa kwa usahihi",
+      "resources": [
+        "Ramani sahili",
+        "chati ya alama mbalimbali za ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+      "activity_id": "jiog-4-6",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+        "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+      ],
+      "assessment": "Dhana ya ramani imeelezwa kwa usahihi",
+      "resources": [
+        "Ramani sahili",
+        "chati ya alama mbalimbali za ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+      "activity_id": "jiog-4-6",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+        "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+      ],
+      "assessment": "Dhana ya ramani imeelezwa kwa usahihi",
+      "resources": [
+        "Ramani sahili",
+        "chati ya alama mbalimbali za ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(b) Kueleza dhana ya ramani (maana, sifa na umuhimu)",
+      "activity_id": "jiog-4-6",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Shirikisha wanafunzi kwa kutumia maswali na majibu kueleza maana ya ramani",
+        "Kazi kwa vikundi: Ongoza wanafunzi katika vikundi kujadiliana kuhusu sifa na umuhimu wa ramani kisha kuwasilisha darasani"
+      ],
+      "assessment": "Dhana ya ramani imeelezwa kwa usahihi",
+      "resources": [
+        "Ramani sahili",
+        "chati ya alama mbalimbali za ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+      "activity_id": "jiog-4-7",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+        "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+      ],
+      "assessment": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+      "resources": [
+        "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+      "activity_id": "jiog-4-7",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+        "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+      ],
+      "assessment": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+      "resources": [
+        "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+      "activity_id": "jiog-4-7",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+        "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+      ],
+      "assessment": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+      "resources": [
+        "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+      "activity_id": "jiog-4-7",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+        "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+      ],
+      "assessment": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+      "resources": [
+        "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(c) Kuchora ramani sahili kuonesha mazingira ya darasani",
+      "activity_id": "jiog-4-7",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Ongoza wanafunzi kubainisha vitu vilivyomo darasani",
+        "Kazi za Vitendo: Ongoza wanafunzi kuchora ramani sahili kuonesha mazingira ya darasani"
+      ],
+      "assessment": "Ramani sahili ya kuonesha mazingira ya darasa imechorwa kwa usahihi",
+      "resources": [
+        "Zana za kuchorea (Karatasi, kalamu ya risasi, ufutio, rula, kadi za manila, ramani ya darasa)"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+      "activity_id": "jiog-4-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+        "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+      ],
+      "assessment": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+      "resources": [
+        "Michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+      "activity_id": "jiog-4-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+        "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+      ],
+      "assessment": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+      "resources": [
+        "Michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+      "activity_id": "jiog-4-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+        "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+      ],
+      "assessment": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+      "resources": [
+        "Michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+      "activity_id": "jiog-4-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+        "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+      ],
+      "assessment": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+      "resources": [
+        "Michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(d) Kuchora ramani sahili ya shule, kata, wilaya, Tanzania",
+      "activity_id": "jiog-4-8",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili namna ya kuchora ramani sahili ya shule, kata, wilaya na Tanzania",
+        "Kazi kwa Vitendo: Ongoza mwanafunzi mmoja mmoja kuchora ramani sahili ya shule, kata, wilaya, na Tanzania"
+      ],
+      "assessment": "Ramani sahili ya shule, kata, wilaya, na Tanzania imechorwa kwa usahihi",
+      "resources": [
+        "Michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+      "activity_id": "jiog-4-9",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+        "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+      ],
+      "assessment": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+      "resources": [
+        "Dira",
+        "futikamba na michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+      "activity_id": "jiog-4-9",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+        "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+      ],
+      "assessment": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+      "resources": [
+        "Dira",
+        "futikamba na michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+      "activity_id": "jiog-4-9",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+        "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+      ],
+      "assessment": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+      "resources": [
+        "Dira",
+        "futikamba na michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+      "activity_id": "jiog-4-9",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+        "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+      ],
+      "assessment": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+      "resources": [
+        "Dira",
+        "futikamba na michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(e) Kutumia ramani sahili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo",
+      "activity_id": "jiog-4-9",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali na majibu, ongoza wanafunzi kubainisha matumizi ya ramani katika maisha yao ya kila siku",
+        "Kazi ya vitendo: Tumia ramani rahisi (Darasa, shule na kijiji) kuongoza wanafunzi kubaini uelekeo, umbali kutoa na kufuata maelekezo"
+      ],
+      "assessment": "Ramani sahili ili kubaini uelekeo, umbali, na kutoa na kufuata maelekezo imetumika kwa usahihi",
+      "resources": [
+        "Dira",
+        "futikamba na michoro ya ramani"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+      "activity_id": "jiog-4-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+        "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+        "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+      ],
+      "assessment": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+      "resources": [
+        "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+      "activity_id": "jiog-4-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+        "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+        "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+      ],
+      "assessment": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+      "resources": [
+        "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+      "activity_id": "jiog-4-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+        "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+        "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+      ],
+      "assessment": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+      "resources": [
+        "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+      "activity_id": "jiog-4-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+        "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+        "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+      ],
+      "assessment": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+      "resources": [
+        "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "1.0 Kumudu stadi za awali za ramani na mfumo wa jua",
+      "specific_competence": "1.1 Kutumia ramani katika maisha ya kila siku",
+      "learning_activity": "(f) Kutumia ramani kuonesha mipaka ya kiutawala (Mikoa) na sura ya nchi (milima, mabonde, mito na maziwa makuu, na bahari)",
+      "activity_id": "jiog-4-10",
+      "periods": 1,
+      "activity_total_periods": 5,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Kupitia maswali na majibu ongoza wanafunzi kubaini mipaka ya kiutawala na maeneo au mikoa ambapo maumbo mbalimbali ya sura ya nchi yanapatikana",
+        "Wasilisho: Tumia ramani ya Tanzania ili wanafunzi wabaini vitu vinavyounda sura ya nchi na mipaka ya kiutawala",
+        "Kazi ya vitendo: Ongoza wanafunzi kuchora ramani ya Tanzania kuonesha mipaka ya kiutawala (mikoa) na sura ya nchi"
+      ],
+      "assessment": "Ramani ya kuonesha mipaka ya kiutawala na sura ya nchi imetumiwa kwa usahihi",
+      "resources": [
+        "Ramani inayoonesha mipaka ya kiutawala na sura ya nchi"
+      ],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 5,
+      "topic_weeks": 5
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Jiografia na Mazingira kwa Shule za Msingi Darasa la Nne: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

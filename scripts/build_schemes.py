@@ -10,6 +10,7 @@ data snapshot.
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -21,7 +22,12 @@ OUT = ROOT / "data" / "schemes"
 
 
 def slug(subject: str) -> str:
-    return subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
+    """Filename stem for a subject. Matches app.syllabus._slug at ordinary
+    level; no level suffix is needed because the form is in the filename and no
+    form name is shared between levels. Subject names carry slashes and commas
+    ("Hisabati / Mathematics"), which must not reach the path."""
+    s = re.sub(r"\bya\b", " ", subject.lower())
+    return re.sub(r"_+", "_", re.sub(r"[^a-z0-9]+", "_", s)).strip("_")
 
 
 def main() -> None:

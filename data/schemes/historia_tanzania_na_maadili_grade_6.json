@@ -1,0 +1,1427 @@
+{
+  "subject": "Historia ya Tanzania na Maadili",
+  "form": "Grade 6",
+  "year": "2026",
+  "level": "primary",
+  "provisional_calendar": false,
+  "provisional_note": "",
+  "periods_per_week": 4,
+  "total_periods": 147,
+  "teaching_weeks": 37,
+  "entries": [
+    {
+      "entry_id": "s1w1",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumudu Historia ya Ujenzi wa Taifa na Maadili katika Kipindi cha 1961-1966",
+      "specific_competence": "1.1 Kumudu historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966",
+      "learning_activity": "(a) Kueleza historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966 (kiuchumi, kisiasa na kijamii)",
+      "activity_id": "hist-6-40",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Bunguabongo : Ongoza wanafunzi kubanguabongo wakieleza historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966",
+        "Changanyakete : Wanafunzi wajadili katika vikundi wakifafanua historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966 na kisha kushirikisha vikundi vya jirani",
+        "Maswali na majibu : Tumia maswali kuwezesha wanafunzi kujadili na kueleza historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966"
+      ],
+      "assessment": "Historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966 kiuchumi, kisiasa na kijamii",
+      "resources": [
+        "- Matini na picha picha/picha mguso zenye kuonesha matukio ya kihistoria kuhusu ujenzi wa Taifa na maadili kipindi cha 1961-1966",
+        "- Matini, picha picha/picha mguso au michoro yenye kuonesha maendeleo/shughuli za kiuchumi, kisiasa na kijamii katika kipindi cha 1961-1966"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w1-2",
+      "semester": 1,
+      "week": 1,
+      "month": "January",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-16",
+      "main_competence": "1.0 Kumudu Historia ya Ujenzi wa Taifa na Maadili katika Kipindi cha 1961-1966",
+      "specific_competence": "1.1 Kumudu historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966",
+      "learning_activity": "(b) Kubaini mafanikio yaliyofikiwa katika historia ya ujenzi wa Taifa na maadili",
+      "activity_id": "hist-6-41",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Fikiri-andika-jozisha-shirikisha: Waongoze wanafunzi katika jozi kufikiri, kuandika na kisha kushirikishana mafanikio yaliyofikiwa katika historia ya ujenzi wa Taifa na maadili katika kipindi cha 1961-1966",
+        "Kutumia TEHAMA: Wezesha wanafunzi ukitumia filamu kubaini mafanikio yaliyofikiwa katika historia ya ujenzi wa Taifa na maadili katika kipindi cha 1961-1966"
+      ],
+      "assessment": "Mwanafunzi anabaini mafanikio yaliyofikiwa katika historia ya ujenzi wa Taifa na maadili",
+      "resources": [
+        "- Makala za filamu zinazohusu mafanikio katika historia ya ujenzi wa Taifa na maadili kipindi cha 1961-1966",
+        "- Matini, picha/picha mguso au michoro yenye kuonesha maendeleo/shughuli za kiuchumi, kisiasa na kijamii katika kipindi cha 1961-1966"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "1.0 Kumudu Historia ya Ujenzi wa Taifa na Maadili katika Kipindi cha 1961-1966",
+      "specific_competence": "1.1 Kumudu historia ya ujenzi wa Taifa na maadili baada ya uhuru katika kipindi cha 1961-1966",
+      "learning_activity": "(c) Kuelezea changamoto zilizojitokeza wakati wa ujenzi wa Taifa na maadili baada ya uhuru",
+      "activity_id": "hist-6-42",
+      "periods": 2,
+      "activity_total_periods": 2,
+      "teaching_learning_activities": [
+        "Maswali na Majibu: Tumia maswali kuongoza wanafunzi kuelezea changamoto zilizojitokeza wakati wa ujenzi wa Taifa na maadili katika kipindi cha 1961-1966",
+        "Majadiliano : Ongoza majadiliano kuwezesha wanafunzi kuelezea changamoto zilizojitokeza wakati wa ujenzi wa Taifa na maadili katika kipindi cha 1961-1966"
+      ],
+      "assessment": "Changamoto zilizojitokeza wakati wa ujenzi wa Taifa na maadili baada ya uhuru zimeelezwa",
+      "resources": [
+        "- Makala za filamu, picha/picha mguso zinazohusu historia ya ujenzi wa Taifa na maadili katika kipindi cha 1961-1966"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w2-2",
+      "semester": 1,
+      "week": 2,
+      "month": "January",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea (lengo na umuhimu)",
+      "activity_id": "hist-6-43",
+      "periods": 2,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubanguabongo wakieleza dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea na kisha kushirikisha kundi la jirani kazi zao"
+      ],
+      "assessment": "Dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea imeelezwa kwa kuzingatia lengo na umuhimu wake",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w3",
+      "semester": 1,
+      "week": 3,
+      "month": "January",
+      "start_date": "2026-01-26",
+      "end_date": "2026-01-30",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea (lengo na umuhimu)",
+      "activity_id": "hist-6-43",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubanguabongo wakieleza dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea na kisha kushirikisha kundi la jirani kazi zao"
+      ],
+      "assessment": "Dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea imeelezwa kwa kuzingatia lengo na umuhimu wake",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w4",
+      "semester": 1,
+      "week": 4,
+      "month": "February",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-06",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea (lengo na umuhimu)",
+      "activity_id": "hist-6-43",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubanguabongo wakieleza dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea na kisha kushirikisha kundi la jirani kazi zao"
+      ],
+      "assessment": "Dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea imeelezwa kwa kuzingatia lengo na umuhimu wake",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w5",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea (lengo na umuhimu)",
+      "activity_id": "hist-6-43",
+      "periods": 1,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Bunguabongo: Ongoza wanafunzi kubanguabongo wakieleza dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana, lengo na umuhimu wa Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea na kisha kushirikisha kundi la jirani kazi zao"
+      ],
+      "assessment": "Dhana ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea imeelezwa kwa kuzingatia lengo na umuhimu wake",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w5-2",
+      "semester": 1,
+      "week": 5,
+      "month": "February",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kufafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili nchini (ushirikiano, haki na usawa, heshima, utu, uwajibikaji, miiko ya uongozi, umoja wa Kitaifa na uzalendo n.k)",
+      "activity_id": "hist-6-44",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Tumia kisamafunzo kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini",
+        "Majadiliano: Ongoza wanafunzi kujadili na kufafafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili",
+        "Kutumia TEHAMA: Tumia picha au maudhui yaliyoifadhiwa katika midia kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini"
+      ],
+      "assessment": "Misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini imefafanuliwa",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha",
+        "- Filamu za hotuba zinazohusu matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w6",
+      "semester": 1,
+      "week": 6,
+      "month": "February",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-20",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kufafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili nchini (ushirikiano, haki na usawa, heshima, utu, uwajibikaji, miiko ya uongozi, umoja wa Kitaifa na uzalendo n.k)",
+      "activity_id": "hist-6-44",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Tumia kisamafunzo kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini",
+        "Majadiliano: Ongoza wanafunzi kujadili na kufafafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili",
+        "Kutumia TEHAMA: Tumia picha au maudhui yaliyoifadhiwa katika midia kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini"
+      ],
+      "assessment": "Misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini imefafanuliwa",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha",
+        "- Filamu za hotuba zinazohusu matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w7",
+      "semester": 1,
+      "week": 7,
+      "month": "February",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-27",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kufafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili nchini (ushirikiano, haki na usawa, heshima, utu, uwajibikaji, miiko ya uongozi, umoja wa Kitaifa na uzalendo n.k)",
+      "activity_id": "hist-6-44",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Kisamafunzo: Tumia kisamafunzo kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini",
+        "Majadiliano: Ongoza wanafunzi kujadili na kufafafanua misingi ya Azimio la Arusha (Ujamaa na Kujitegemea) katika harakati za ujenzi wa Taifa huru na maadili",
+        "Kutumia TEHAMA: Tumia picha au maudhui yaliyoifadhiwa katika midia kuwezesha wanafunzi kufafanua misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini"
+      ],
+      "assessment": "Misingi ya Azimio la Arusha katika harakati za ujenzi wa Taifa huru na maadili nchini imefafanuliwa",
+      "resources": [
+        "- Matini yenye taarifa za Azimio la Arusha",
+        "- Picha//picha mguso au michoro yenye kuonesha matukio ya Azimio la Arusha",
+        "- Filamu za hotuba zinazohusu matukio ya Azimio la Arusha"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w8",
+      "semester": 1,
+      "week": 8,
+      "month": "March",
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-06",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+      "activity_id": "hist-6-45",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza mchango wa azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+        "Changanyakete: Ongoza wanafunzi katika vikundi kujadili mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa na kisha kushirikisha vikundi vya jirani",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kujadili na kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "assessment": "Mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa umeelezwa",
+      "resources": [
+        "- Matini yanayohusu matukio ya kihistoria,",
+        "- Visa mafunzo kuhusu rushwa",
+        "- Hotuba zinazohusu Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w9",
+      "semester": 1,
+      "week": 9,
+      "month": "March",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-13",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+      "activity_id": "hist-6-45",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza mchango wa azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+        "Changanyakete: Ongoza wanafunzi katika vikundi kujadili mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa na kisha kushirikisha vikundi vya jirani",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kujadili na kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "assessment": "Mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa umeelezwa",
+      "resources": [
+        "- Matini yanayohusu matukio ya kihistoria,",
+        "- Visa mafunzo kuhusu rushwa",
+        "- Hotuba zinazohusu Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(a) Kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+      "activity_id": "hist-6-45",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza mchango wa azimio la Arusha katika harakati za mapambano dhidi ya rushwa",
+        "Changanyakete: Ongoza wanafunzi katika vikundi kujadili mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa na kisha kushirikisha vikundi vya jirani",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kujadili na kueleza mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "assessment": "Mchango wa Azimio la Arusha katika harakati za mapambano dhidi ya rushwa umeelezwa",
+      "resources": [
+        "- Matini yanayohusu matukio ya kihistoria,",
+        "- Visa mafunzo kuhusu rushwa",
+        "- Hotuba zinazohusu Azimio la Arusha katika harakati za mapambano dhidi ya rushwa"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-2",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kutathmini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "activity_id": "hist-6-46",
+      "periods": 2,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kutathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "Changanyakete: Wanafunzi kujadili wakitathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985 kwa kushirikisha vikundi vya jirani"
+      ],
+      "assessment": "Mwanafunzi ametathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "resources": [
+        "- Matini yenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "- Hotuba zenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w10-3",
+      "semester": 1,
+      "week": 10,
+      "month": "March",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-20",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-9",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s1w11",
+      "semester": 1,
+      "week": 11,
+      "month": "April",
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-17",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kutathmini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "activity_id": "hist-6-46",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kutathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "Changanyakete: Wanafunzi kujadili wakitathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985 kwa kushirikisha vikundi vya jirani"
+      ],
+      "assessment": "Mwanafunzi ametathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "resources": [
+        "- Matini yenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "- Hotuba zenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w12",
+      "semester": 1,
+      "week": 12,
+      "month": "April",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.1 Kuelezea Misingi na Maadili ya Azimio la Arusha na Siasa ya Ujamaa na Kujitegemea",
+      "learning_activity": "(b) Kutathmini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "activity_id": "hist-6-46",
+      "periods": 4,
+      "activity_total_periods": 10,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Wanafunzi wachunguze na kutathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "Changanyakete: Wanafunzi kujadili wakitathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985 kwa kushirikisha vikundi vya jirani"
+      ],
+      "assessment": "Mwanafunzi ametathimini harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+      "resources": [
+        "- Matini yenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985",
+        "- Hotuba zenye taarifa za harakati za ujenzi wa Taifa na maadili wakati wa kipindi cha 1967-1985"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w13",
+      "semester": 1,
+      "week": 13,
+      "month": "April",
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-01",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(a) Kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji (lengo na umuhimu wake kwa Tanzania)",
+      "activity_id": "hist-6-47",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Mgeni mtaalamu: Alika mgeni kusimulia mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji umeelezwa lwa kuzingatia lengo na umuhimu wake kwa Tanzania",
+      "resources": [
+        "- Visa mafunzo kuhusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Hotuba au matini zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w14",
+      "semester": 1,
+      "week": 14,
+      "month": "May",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(a) Kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji (lengo na umuhimu wake kwa Tanzania)",
+      "activity_id": "hist-6-47",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Mgeni mtaalamu: Alika mgeni kusimulia mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji umeelezwa lwa kuzingatia lengo na umuhimu wake kwa Tanzania",
+      "resources": [
+        "- Visa mafunzo kuhusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Hotuba au matini zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w15",
+      "semester": 1,
+      "week": 15,
+      "month": "May",
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-15",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(a) Kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji (lengo na umuhimu wake kwa Tanzania)",
+      "activity_id": "hist-6-47",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Mgeni mtaalamu: Alika mgeni kusimulia mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji",
+        "Kisa mafunzo: Tumia kisamafunzo kuwezesha wanafunzi kueleza mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji umeelezwa lwa kuzingatia lengo na umuhimu wake kwa Tanzania",
+      "resources": [
+        "- Visa mafunzo kuhusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Hotuba au matini zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w16",
+      "semester": 1,
+      "week": 16,
+      "month": "May",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-22",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(b) Kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "activity_id": "hist-6-48",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili ili kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+        "Msawali na Majibu: Tumia maswali kuwezesha wanafunzi kubaini mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mwanafunzi anabaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "resources": [
+        "- Hotuba zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Matini yenye taarifa za harakati za ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w17",
+      "semester": 1,
+      "week": 17,
+      "month": "May",
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-29",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(b) Kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "activity_id": "hist-6-48",
+      "periods": 4,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili ili kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+        "Msawali na Majibu: Tumia maswali kuwezesha wanafunzi kubaini mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mwanafunzi anabaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "resources": [
+        "- Hotuba zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Matini yenye taarifa za harakati za ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "2.0 Kutathmini ujenzi wa Taifa na Maadili wakati wa Azimio la Arusha 1967-1985",
+      "specific_competence": "2.2 Kuelezea mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "learning_activity": "(b) Kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "activity_id": "hist-6-48",
+      "periods": 3,
+      "activity_total_periods": 11,
+      "teaching_learning_activities": [
+        "Majadiliano: Ongoza wanafunzi kujadili ili kubaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+        "Msawali na Majibu: Tumia maswali kuwezesha wanafunzi kubaini mchango wa Tanzania katika ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "assessment": "Mwanafunzi anabaini mchango wa Tanzania katika mapambano dhidi ya ukoloni na ukandamizaji",
+      "resources": [
+        "- Hotuba zinazohusu mapambano dhidi ya ukoloni na ukandamizaji Afrika",
+        "- Matini yenye taarifa za harakati za ukombozi wa Afrika dhidi ya ukoloni na ukandamizaji"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 3
+    },
+    {
+      "entry_id": "s1w18-2",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(a) Kuelezea dhana ya uliberali (maana na sifa)",
+      "activity_id": "hist-6-49",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana ya uliberali kwa kuzingatia maana na sifa za uliberali wakishirikisha vikundi vya jirani",
+        "BanguaBongo: Ongoza wanafunzi kubanguabongo wakieleza maana, chimbuko, sifa na sababu za uliberali"
+      ],
+      "assessment": "Dhana ya uliberali imeelezwa kwa kuzingatia maana na sifa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s1w18-3",
+      "semester": 1,
+      "week": 18,
+      "month": "June",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "main_competence": "TERMINAL EXAMINATIONS",
+      "specific_competence": "Terminal Examinations",
+      "learning_activity": "Terminal Examinations",
+      "activity_id": "milestone-terminal-examinations-17",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Terminal Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w1",
+      "semester": 2,
+      "week": 1,
+      "month": "July",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(a) Kuelezea dhana ya uliberali (maana na sifa)",
+      "activity_id": "hist-6-49",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana ya uliberali kwa kuzingatia maana na sifa za uliberali wakishirikisha vikundi vya jirani",
+        "BanguaBongo: Ongoza wanafunzi kubanguabongo wakieleza maana, chimbuko, sifa na sababu za uliberali"
+      ],
+      "assessment": "Dhana ya uliberali imeelezwa kwa kuzingatia maana na sifa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w2",
+      "semester": 2,
+      "week": 2,
+      "month": "July",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(a) Kuelezea dhana ya uliberali (maana na sifa)",
+      "activity_id": "hist-6-49",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana ya uliberali kwa kuzingatia maana na sifa za uliberali wakishirikisha vikundi vya jirani",
+        "BanguaBongo: Ongoza wanafunzi kubanguabongo wakieleza maana, chimbuko, sifa na sababu za uliberali"
+      ],
+      "assessment": "Dhana ya uliberali imeelezwa kwa kuzingatia maana na sifa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w3",
+      "semester": 2,
+      "week": 3,
+      "month": "July",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-24",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(a) Kuelezea dhana ya uliberali (maana na sifa)",
+      "activity_id": "hist-6-49",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Changanyakete: Wezesha wanafunzi kujadili katika vikundi dhana ya uliberali kwa kuzingatia maana na sifa za uliberali wakishirikisha vikundi vya jirani",
+        "BanguaBongo: Ongoza wanafunzi kubanguabongo wakieleza maana, chimbuko, sifa na sababu za uliberali"
+      ],
+      "assessment": "Dhana ya uliberali imeelezwa kwa kuzingatia maana na sifa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w4",
+      "semester": 2,
+      "week": 4,
+      "month": "July",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(b) Kubaini athari za uliberali katika maadili na ujenzi wa Taifa",
+      "activity_id": "hist-6-50",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Kutumia TEHAMA: Tumia makala za filamu zinayohusu uliberali na maadili kuwezesha wanafunzi kujadili athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuhusu athari za utandawazi katika maadili"
+      ],
+      "assessment": "Athari za uliberali katika maadili na ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali",
+        "- Filamu zenye makala zinazohusu uliberali na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w5",
+      "semester": 2,
+      "week": 5,
+      "month": "August",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(b) Kubaini athari za uliberali katika maadili na ujenzi wa Taifa",
+      "activity_id": "hist-6-50",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Kutumia TEHAMA: Tumia makala za filamu zinayohusu uliberali na maadili kuwezesha wanafunzi kujadili athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuhusu athari za utandawazi katika maadili"
+      ],
+      "assessment": "Athari za uliberali katika maadili na ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali",
+        "- Filamu zenye makala zinazohusu uliberali na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w6",
+      "semester": 2,
+      "week": 6,
+      "month": "August",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(b) Kubaini athari za uliberali katika maadili na ujenzi wa Taifa",
+      "activity_id": "hist-6-50",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Kutumia TEHAMA: Tumia makala za filamu zinayohusu uliberali na maadili kuwezesha wanafunzi kujadili athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuhusu athari za utandawazi katika maadili"
+      ],
+      "assessment": "Athari za uliberali katika maadili na ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali",
+        "- Filamu zenye makala zinazohusu uliberali na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(b) Kubaini athari za uliberali katika maadili na ujenzi wa Taifa",
+      "activity_id": "hist-6-50",
+      "periods": 1,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Utafiti mdogo: Ongoza wanafunzi kuchunguza athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Kutumia TEHAMA: Tumia makala za filamu zinayohusu uliberali na maadili kuwezesha wanafunzi kujadili athari za uliberali katika maadili na ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuhusu athari za utandawazi katika maadili"
+      ],
+      "assessment": "Athari za uliberali katika maadili na ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye taarifa za uliberali",
+        "- Filamu zenye makala zinazohusu uliberali na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w7-2",
+      "semester": 2,
+      "week": 7,
+      "month": "August",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-21",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(c) Kutathmini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "activity_id": "hist-6-51",
+      "periods": 3,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kuandaa na kuonesha igizo kuhusu changamoto za kimaadili na mikakati ya kukabiliana nazo",
+        "Mdahalo: Wanafunzi wajadili katika mdahalo wakitathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo"
+      ],
+      "assessment": "Mwanafunzi anatathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "resources": [
+        "- Matini zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(c) Kutathmini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "activity_id": "hist-6-51",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kuandaa na kuonesha igizo kuhusu changamoto za kimaadili na mikakati ya kukabiliana nazo",
+        "Mdahalo: Wanafunzi wajadili katika mdahalo wakitathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo"
+      ],
+      "assessment": "Mwanafunzi anatathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "resources": [
+        "- Matini zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w8-2",
+      "semester": 2,
+      "week": 8,
+      "month": "August",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "main_competence": "MIDTERM TEST",
+      "specific_competence": "Midterm Test",
+      "learning_activity": "Midterm Test",
+      "activity_id": "milestone-midterm-test-25",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Midterm Test",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w9",
+      "semester": 2,
+      "week": 9,
+      "month": "September",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(c) Kutathmini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "activity_id": "hist-6-51",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kuandaa na kuonesha igizo kuhusu changamoto za kimaadili na mikakati ya kukabiliana nazo",
+        "Mdahalo: Wanafunzi wajadili katika mdahalo wakitathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo"
+      ],
+      "assessment": "Mwanafunzi anatathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "resources": [
+        "- Matini zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.1 Kufafanua dhana ya uliberali kwa kuhusianisha na maadili ya Kitanzania",
+      "learning_activity": "(c) Kutathmini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "activity_id": "hist-6-51",
+      "periods": 1,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Igizodhima: Waongoze wanafunzi kuandaa na kuonesha igizo kuhusu changamoto za kimaadili na mikakati ya kukabiliana nazo",
+        "Mdahalo: Wanafunzi wajadili katika mdahalo wakitathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo"
+      ],
+      "assessment": "Mwanafunzi anatathimini mikakati ya kukabiliana na changamoto za kimaadili katika ujenzi wa Taifa katika nyakati za uliberali na wakati uliopo",
+      "resources": [
+        "- Matini zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu athari za uliberali katika ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w10-2",
+      "semester": 2,
+      "week": 10,
+      "month": "September",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(a) Kubaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "activity_id": "hist-6-52",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kuongea kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali",
+        "Utafiti mdogo: Ongoza wanafunzi kufanya utafiti mdogo kuhusu athari za utandawazi katika maadili nchini",
+        "Mdahalo: Ongoza wanafunzi kujadili katika mdahalo kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali"
+      ],
+      "assessment": "Mwanafunzi amebaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "resources": [
+        "- Matini zenye taarifa zinazohusu athari za utandawazi katika maadili",
+        "- Filamu zenye makala zinazohusu mkinzano wa maadili nyakati za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w11",
+      "semester": 2,
+      "week": 11,
+      "month": "October",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-09",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(a) Kubaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "activity_id": "hist-6-52",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kuongea kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali",
+        "Utafiti mdogo: Ongoza wanafunzi kufanya utafiti mdogo kuhusu athari za utandawazi katika maadili nchini",
+        "Mdahalo: Ongoza wanafunzi kujadili katika mdahalo kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali"
+      ],
+      "assessment": "Mwanafunzi amebaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "resources": [
+        "- Matini zenye taarifa zinazohusu athari za utandawazi katika maadili",
+        "- Filamu zenye makala zinazohusu mkinzano wa maadili nyakati za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w12",
+      "semester": 2,
+      "week": 12,
+      "month": "October",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-16",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(a) Kubaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "activity_id": "hist-6-52",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kuongea kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali",
+        "Utafiti mdogo: Ongoza wanafunzi kufanya utafiti mdogo kuhusu athari za utandawazi katika maadili nchini",
+        "Mdahalo: Ongoza wanafunzi kujadili katika mdahalo kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali"
+      ],
+      "assessment": "Mwanafunzi amebaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "resources": [
+        "- Matini zenye taarifa zinazohusu athari za utandawazi katika maadili",
+        "- Filamu zenye makala zinazohusu mkinzano wa maadili nyakati za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(a) Kubaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "activity_id": "hist-6-52",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mtaalamu mwalikwa: Alika mtaalamu kuongea kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali",
+        "Utafiti mdogo: Ongoza wanafunzi kufanya utafiti mdogo kuhusu athari za utandawazi katika maadili nchini",
+        "Mdahalo: Ongoza wanafunzi kujadili katika mdahalo kuhusu uwepo wa mkinzano wa maadili nyakati za uliberali"
+      ],
+      "assessment": "Mwanafunzi amebaini uwepo wa mkinzano wa maadili nyakati za uliberali",
+      "resources": [
+        "- Matini zenye taarifa zinazohusu athari za utandawazi katika maadili",
+        "- Filamu zenye makala zinazohusu mkinzano wa maadili nyakati za uliberali"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w13-2",
+      "semester": 2,
+      "week": 13,
+      "month": "October",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(b) Kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi",
+      "activity_id": "hist-6-53",
+      "periods": 2,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa na katika kufanya uamuzi sahihi",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi"
+      ],
+      "assessment": "Athari za uliberali kwa Taifa katika kufanya maamuzi sahihi zimeelezwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w14",
+      "semester": 2,
+      "week": 14,
+      "month": "October",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(b) Kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi",
+      "activity_id": "hist-6-53",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa na katika kufanya uamuzi sahihi",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi"
+      ],
+      "assessment": "Athari za uliberali kwa Taifa katika kufanya maamuzi sahihi zimeelezwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w15",
+      "semester": 2,
+      "week": 15,
+      "month": "November",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(b) Kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi",
+      "activity_id": "hist-6-53",
+      "periods": 4,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa na katika kufanya uamuzi sahihi",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi"
+      ],
+      "assessment": "Athari za uliberali kwa Taifa katika kufanya maamuzi sahihi zimeelezwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(b) Kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi",
+      "activity_id": "hist-6-53",
+      "periods": 3,
+      "activity_total_periods": 13,
+      "teaching_learning_activities": [
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa na katika kufanya uamuzi sahihi",
+        "Maswali na majibu: Tumia maswali kuwezesha wanafunzi kujadili na kueleza athari za uliberali kwa Taifa katika kufanya uamuzi sahihi"
+      ],
+      "assessment": "Athari za uliberali kwa Taifa katika kufanya maamuzi sahihi zimeelezwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w16-2",
+      "semester": 2,
+      "week": 16,
+      "month": "November",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(c) Kubaini mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa",
+      "activity_id": "hist-6-54",
+      "periods": 1,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Ziara mafunzo: Ongoza wanafunzi kutembelea ofisi za ustawi wa jamii/ serikali za mitaa ili kubaini mbinu mbalimbali zinazotumika kulinda maadili na katika ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa"
+      ],
+      "assessment": "Mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 1,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w17",
+      "semester": 2,
+      "week": 17,
+      "month": "November",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(c) Kubaini mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa",
+      "activity_id": "hist-6-54",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Ziara mafunzo: Ongoza wanafunzi kutembelea ofisi za ustawi wa jamii/ serikali za mitaa ili kubaini mbinu mbalimbali zinazotumika kulinda maadili na katika ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa"
+      ],
+      "assessment": "Mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 2,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(c) Kubaini mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa",
+      "activity_id": "hist-6-54",
+      "periods": 4,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Ziara mafunzo: Ongoza wanafunzi kutembelea ofisi za ustawi wa jamii/ serikali za mitaa ili kubaini mbinu mbalimbali zinazotumika kulinda maadili na katika ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa"
+      ],
+      "assessment": "Mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 3,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w18-2",
+      "semester": 2,
+      "week": 18,
+      "month": "November",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "main_competence": "REVISION",
+      "specific_competence": "Revision",
+      "learning_activity": "Revision",
+      "activity_id": "milestone-revision-35",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Revision",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    },
+    {
+      "entry_id": "s2w19",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "3.0 Kutathmini Historia ya Tanzania na Maadili wakati wa Uliberali 1986 hadi sasa",
+      "specific_competence": "3.2 Kutumia maarifa na ujuzi wa historia ya Tanzania na maadili kufanya uamuzi sahihi katika nyakati za uliberali",
+      "learning_activity": "(c) Kubaini mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa",
+      "activity_id": "hist-6-54",
+      "periods": 3,
+      "activity_total_periods": 12,
+      "teaching_learning_activities": [
+        "Ziara mafunzo: Ongoza wanafunzi kutembelea ofisi za ustawi wa jamii/ serikali za mitaa ili kubaini mbinu mbalimbali zinazotumika kulinda maadili na katika ujenzi wa Taifa",
+        "Mdahalo: Ongoza mdahalo kuwezesha wanafunzi kujadili mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa"
+      ],
+      "assessment": "Mbinu zinazotumika kukabili mkinzano wa maadili katika ujenzi wa Taifa zimebainishwa",
+      "resources": [
+        "- Matini zenye maudhui yanayohusu uliberali, ujenzi wa Taifa na maadili",
+        "- Filamu zenye makala zinazohusu uliberali, ujenzi wa Taifa na maadili"
+      ],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "topic",
+      "topic_week": 4,
+      "topic_weeks": 4
+    },
+    {
+      "entry_id": "s2w19-2",
+      "semester": 2,
+      "week": 19,
+      "month": "November",
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "main_competence": "ANNUAL EXAMINATIONS",
+      "specific_competence": "Annual Examinations",
+      "learning_activity": "Annual Examinations",
+      "activity_id": "milestone-annual-examinations-36",
+      "periods": 0,
+      "activity_total_periods": 0,
+      "teaching_learning_activities": [],
+      "assessment": "Annual Examinations",
+      "resources": [],
+      "references": "TET, Historia ya Tanzania na Maadili kwa Shule za Msingi Darasa la Sita: Kitabu cha Mwanafunzi na Kiongozi cha Mwalimu (Toleo la 2023), Taasisi ya Elimu Tanzania",
+      "remarks": "",
+      "kind": "assessment",
+      "topic_week": 1,
+      "topic_weeks": 1
+    }
+  ]
+}

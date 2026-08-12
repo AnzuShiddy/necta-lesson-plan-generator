@@ -1,0 +1,688 @@
+{
+  "subject": "Sayansi / Science",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727175605-Muhtasari%20wa%20Somo%20la%20Sayansi%20Shule%20ya%20Msingi%20Darasa%20la%20III%20-%20VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(a) Kueleza dhana ya sayansi (maana na matawi ya sayansi)",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu maana ya sayansi na matawi yake",
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu dhana ya sayansi",
+            "Maswali na majibu: Waongoze wanafunzi kueleza dhana ya sayansi kwa kujibu maswali",
+            "Kisa mafunzo: Waongoze wanafunzi kueleza dhana ya sayansi kupitia kisa mafunzo kinachohusu maana ya sayansi na matawi yake"
+          ],
+          "assessment_criteria": "Dhana ya Sayansi imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Seti ya sayansi",
+            "video na picha mjongeo kuhusu matawi ya sayansi"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(b) Kueleza milango ya fahamu ya binadamu",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu milango ya fahamu ya binadamu",
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu milango ya fahamu ya binadamu"
+          ],
+          "assessment_criteria": "Milango ya fahamu ya binadamu imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Chati inayoonesha milango ya fahamu ya binadamu",
+            "Modeli/vifani vya milango ya fahamu"
+          ],
+          "periods_for_specific_competence": 11,
+          "id": "saya-3-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kufanya uchunguzi sahili wa kisayansi",
+          "learning_activity": "(a) Kubaini vitu vilivyomo katika mazingira kwa kutumia milango ya fahamu",
+          "suggested_methods": [
+            "Majaribio: Katika vikundi waongoze wanafunzi kufanya uchunguzi kwa kutumia milango ya fahamu ili kubaini vitu vilivyomo katika mazingira"
+          ],
+          "assessment_criteria": "Vitu vilivyomo katika mazingira vimebainishwa kwa usahihi kwa kutumia milango ya fahamu",
+          "suggested_resources": [
+            "Seti ya sayansi",
+            "vitu mbalimbali katika mazingira mfano: udongo, mawe, chanzo cha joto, chanzo cha harufu, chanzo cha sauti wanyama, wadudu, mimea na video za vitu na viumbehai katika mazingira"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-3"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kufanya uchunguzi sahili wa kisayansi",
+          "learning_activity": "(b) Kubaini viumbehai na vitu visivyo hai",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadiliana ili kubaini sifa za vitu na viumbehai",
+            "Majaribio: Waongoze wanafunzi kufanya majaribio ya kubaini vitu na viumbehai",
+            "Maswali na majibu: Wanafunzi waongozwe kubaini viumbehai na visivyo hai kwa njia ya maswali na majibu"
+          ],
+          "assessment_criteria": "Viumbehai na vitu visivyo hai vimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Video",
+            "picha mjongeo zinazoonesha sifa za viumbehai",
+            "video za vitu na viumbehai katika mazingira",
+            "viumbehai na vitu halisi mfano: Wadudu, wanyama, mimea, mawe na udongo"
+          ],
+          "periods_for_specific_competence": 13,
+          "id": "saya-3-4"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kufanya uchunguzi sahili wa kisayansi",
+          "learning_activity": "(c) Kubaini makundi makuu ya viumbehai (mimea na wanyama)",
+          "suggested_methods": [
+            "Maswali na majibu:Wanafunzi waongozwe kubaini makundi makuu ya viumbehai",
+            "Uchunguzi: Waongoze wanafunzi kufanya uchunguzi katika mazingira ili kubaini makundi makuu ya viumbehai"
+          ],
+          "assessment_criteria": "Makundi makuu ya viumbehai zimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Chati yenye viumbehai kama vile mimea, wanyama na wadudu"
+          ],
+          "periods_for_specific_competence": 14,
+          "id": "saya-3-5"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(a) Kuaridhia hatua za kufanya uchunguzi wa kisayansi",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kwa njia ya maswali na majibu kueleza maana ya uchunguzi wa kisayansi",
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu hatua za kufanya uchunguzi wa kisayansi",
+            "Uchunguzi: Waongoze wanafunzi kufanya uchunguzi sahili katika mazingira yao"
+          ],
+          "assessment_criteria": "Hatua za kufanya uchunguzi wa kisayansi zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Rula",
+            "mizani",
+            "stopwatch",
+            "futikamba",
+            "bilauri",
+            "bakuli",
+            "penseli",
+            "daftari",
+            "kopo na tenga"
+          ],
+          "periods_for_specific_competence": 43,
+          "id": "saya-3-6"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(b) Kufanya majaribio sahili kuhusu viumbehai na vitu visivyo hai",
+          "suggested_methods": [
+            "Majaribio: Waongoze wanafunzi kufanya majaribio ya kubaini sifa na mahitaji muhimu ya viumbehai"
+          ],
+          "assessment_criteria": "Majaribio sahili kuhusu viumbehai na vitu visivyo hai yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Wanyama",
+            "mimea",
+            "mawe",
+            "vitabu na mchanga"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "saya-3-7"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(c) Kutunza viumbehai katika mazingira",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu umuhimu wa viumbehai katika mazingira",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili umuhimu wa viumbehai katika mazingira na namna ya kuwatunza",
+            "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza umuhimu wa viumbehai katika mazingira na namna ya kuwatunza",
+            "Kazimradi: Waongoze wanafunzi kufanya shughuli za kutunza viumbehai kama vile mimea na wanyama"
+          ],
+          "assessment_criteria": "Viumbehai katika mazingira vimetunzwa kwa usahihi",
+          "suggested_resources": [
+            "Bustani ya maua",
+            "mboga",
+            "miti na wanyama mbalimbali"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "saya-3-8"
+        },
+        {
+          "main_competence": "3.0 Kumudu matumizi ya TEHAMA",
+          "specific_competence": "3.1 Kutumia TEHAMA katika ujifunzaji",
+          "learning_activity": "(a) Kutumia TEHAMA kucheza michezo sahili inayokuza uwezo wa kueleza matukio na dhana za kisayansi",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu taratibu za kutumia TEHAMA ili kucheza michezo sahili inayokuza uwezo wa kueleza matukio na dhana za kisayansi",
+            "Oneshombinu: Waongoze wanafunzi kwa oneshombinu kucheza michezo sahili kwa kutumia TEHAMA",
+            "Kazi za vitendo: Waongoze wanafunzi kutumia vifaa vya TEHAMA kucheza michezo inayokuza uwezo wa kueleza matukio na dhana za kisayansi"
+          ],
+          "assessment_criteria": "TEHAMA imetumika kucheza michezo sahili inayokuza uwezo wa kueleza matukio na dhana za kisayansi",
+          "suggested_resources": [
+            "Simu",
+            "kompyuta",
+            "tableti",
+            "Runinga",
+            "kamera",
+            "printa na skana"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-3-9"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(a) Kueleza kanuni za afya (mlo kamili, mazoezi ya mwili, usafi wa mwili na mazingira, alama na taarifa muhimu)",
+          "suggested_methods": [
+            "Bunguabongo: Wanafunzi waongozwe kubungua bongo kuhusu maana ya mlo kamili, mazoezi ya mwili, usafi wa mwili na mazingira, alama na taarifa muhimu",
+            "Majadiliano: Wanafunzi waongozwe katika vikundi kujadiliana kuhusu dhana ya kanuni za afya",
+            "Kualika mgeni: Mtaalamu wa afya kuelezea kanuni za afya kwa wanafunzi",
+            "Maswali na majibu: Waongoze wanafunzi kueleza dhana ya kanuni za afya",
+            "Kisa mafunzo: Waongoze wanafunzi waweze kuelezea umuhimu wa usafi wa mwili na mazingira kupitia kisa mafunzo"
+          ],
+          "assessment_criteria": "Kanuni za afya zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Video, picha mjongeo za mlo kamili, mazoezi, usafi wa mwili na mazingira, picha za alama muhimu, vifaa vya usafi wa mwili, vifaa vya usafi wa mazingira",
+            "vitabu vya kielectroniki"
+          ],
+          "periods_for_specific_competence": 50,
+          "id": "saya-4-10"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(b) Kueleza magonjwa makuu ya binadamu (njia za maambukizi visababishi, kudhibiti na kujikinga)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu magonjwa makuu ya binadamu",
+            "Kualika mgeni: Mtaalamu wa afya kufafanua kwa wanafunzi aina za magonjwa, njia za maambukizi visababishi, namna ya kudhibiti na kujikinga",
+            "Kisa mafunzo: Waongoze wanafunzi kueleza njia za kujikinga na magonjwa makuu ya binadamu kupitia kisa mafunzo"
+          ],
+          "assessment_criteria": "Aina za magonjwa ya binadamu zimefafanuliwa kwa usahihi",
+          "suggested_resources": [
+            "Video na picha mjongeo za mlo kamili, mazoezi, usafi wa mwili na mazingira",
+            "vitabu vya kielektroniki",
+            "chati na vipeperushi vya magonjwa mbalimbali"
+          ],
+          "periods_for_specific_competence": 21,
+          "id": "saya-4-11"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(c) Kueleza dhana ya maada (aina na sifa)",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kwa njia ya maswali na majibu kueleza dhana ya maada",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kubaini aina na sifa za maada"
+          ],
+          "assessment_criteria": "Dhana ya maada imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Vitu mbalimbali katika hali yabisi, vimiminika na gesi",
+            "picha na picha mjongeo za aina za maada"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "saya-4-12"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(d) Kueleza kitendo cha uunguaji wa vitu (combustion: maana, visababishi, na matokeo)",
+          "suggested_methods": [
+            "Maswali na majibu: Wanafunzi waongozwe kueleza dhana ya uunguaji wa vitu",
+            "Uchunguzi: Waongoze wanafunzi kufanya uchunguzi wa vifaa vinavyoungua ili waweze kueleza dhana ya uunguaji",
+            "Majadiliano: Wanafunzi katika makundi wafanye majadiliano ili kubaini mahitaji ya kitu kuungua",
+            "Majaribio: Waongoze wanafunzi kufanya majaribio ya kuunguza vitu ili kuelezea dhana ya uunguaji wa vitu"
+          ],
+          "assessment_criteria": "Kitendo cha uunguaji wa vitu kimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Picha mjongeo",
+            "kiberiti au kiwashio cha moto na vifaa vinavyoungua mfano karatasi na vibanzi"
+          ],
+          "periods_for_specific_competence": 53,
+          "id": "saya-4-13"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kufanya uchunguzi sahili wa kisayansi",
+          "learning_activity": "(a) Kuchunguza hatua za ukuaji wa wadudu wanaoeneza magonjwa katika mazingira (mfano; nzi, mende na mbu)",
+          "suggested_methods": [
+            "Uchunguzi: Wanafunzi waongozwe kuchunguza hatua za ukuaji wa wadudu wanaoeneza magonjwa katika mazingira",
+            "Ziara: Waongoze wanafunzi kutembelea maeneo wanapopatikana wadudu ili waweze kubaini hatua za ukuaji wa wadudu",
+            "Majadiliano: Waongozwe Wanafunzi kujadiliana kuhusu hatua za ukuaji wa wadudu waliowabaini kuwa wanaeneza magonjwa wakati wa ziara"
+          ],
+          "assessment_criteria": "Uchunguzi wa hatua za ukuaji wa wadudu wanaoeneza magonjwa katika mazingira umefanywa kwa usahihi",
+          "suggested_resources": [
+            "Seti ya sayansi",
+            "nzi, mende, mbu, wadudu wengine wanaopatikana katika mazingira na chati inayoonesha hatua za ukuaji wa wadudu"
+          ],
+          "periods_for_specific_competence": 55,
+          "id": "saya-4-14"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.3 Kuonesha uelewa wa aina za nishati na matumizi yake",
+          "learning_activity": "(a) Kuaridhia aina za nishati (joto, mwanga na sauti) na matumizi yake",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu dhana ya nishati",
+            "Uchunguzi: Waongoze wanafunzi kufanya uchunguzi wa nishati za joto, mwanga na sauti ili waweze kueleza dhana ya nishati",
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili vyanzo, sifa na matumizi ya nishati za joto, mwanga na sauti",
+            "Oneshombinu: Waongoze wanafunzi kueleza matumizi mbalimbali ya nishati kupitia oneshombinu"
+          ],
+          "assessment_criteria": "Aina za nishati na matumizi yake yameelezwa kwa usahihi",
+          "suggested_resources": [
+            "Nyaya za umeme",
+            "kipimajoto",
+            "heater",
+            "betri",
+            "glopu",
+            "kengele",
+            "radio",
+            "vipaza sauti",
+            "spika",
+            "video na picha mjongeo za nishati ya joto, mwanga na sauti"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-15"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(a) Kufanya majaribio sahili ya kuchunguza hali za maada",
+          "suggested_methods": [
+            "Kisa mafunzo: Waongoze wanafunzi kupitia kisa mafunzo ili waweze kubainisha hali za maada",
+            "Majaribio: Waongoze wanafunzi katika vikundi wafanye majaribio sahili yatakayowawezesha kutambua na kuelezea sifa za maada"
+          ],
+          "assessment_criteria": "Majaribio sahili ya kuchunguza hali za maada yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Vitu vyenye hali ya yabisi, kimiminika na gesi",
+            "chanzo cha moto na barafu"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-16"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(b) Kufanya majaribio sahili ya kubaini umuhimu wa hewa katika uunguaji wa vitu",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi kujadili umuhimu wa hewa katika uunguaji wa vitu",
+            "Majaribio: Waongoze wanafunzi katika vikundi wafanye majaribio sahili yatakayowawezesha kubaini umuhimu wa hewa katika uunguaji wa vitu"
+          ],
+          "assessment_criteria": "Majaribio sahili ya kubaini umuhimu wa hewa katika uunguaji wa vitu yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Seti ya sayansi",
+            "chanzo cha moto",
+            "vitu mbalimbali",
+            "vyenye kuungua na kopo"
+          ],
+          "periods_for_specific_competence": 28,
+          "id": "saya-4-17"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(c) Kufanya majaribio sahili kuhusu nishati ya joto, mwanga na sauti",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kufanya majadiliano kuhusu namna ya kufanya majaribio sahili yanayohusu nishati",
+            "Majaribio: Waongoze wanafunzi katika vikundi wafanye majaribio sahili yanayohusu nishati"
+          ],
+          "assessment_criteria": "Majaribio sahili ya nishati yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Seti ya sayansi",
+            "kasha",
+            "chanzo cha mwanga",
+            "chanzo cha joto na chanzo cha sauti"
+          ],
+          "periods_for_specific_competence": 29,
+          "id": "saya-4-18"
+        },
+        {
+          "main_competence": "3.0 Kumudu matumizi ya TEHAMA",
+          "specific_competence": "3.1 Kutumia TEHAMA katika ujifunzaji",
+          "learning_activity": "(a) Kutumia TEHAMA kuchora na kupangilia maumbo mbalimbali kimantiki",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu taratibu za kutumia TEHAMA kuchora na kupangilia maumbo mbalimbali",
+            "Oneshombinu: Waongoze wanafunzi waweze kutumia TEHAMA kuchora na kupangilia maumbo mbalimbali kwa kutumia oneshombinu"
+          ],
+          "assessment_criteria": "TEHAMA imetumika kwa usahihi kuchora na kupangilia maumbo mbalimbali",
+          "suggested_resources": [
+            "Simu",
+            "kompyuta",
+            "tableti",
+            "programu sahili ya kuchora na kupangilia maumbo"
+          ],
+          "periods_for_specific_competence": 55,
+          "id": "saya-4-19"
+        },
+        {
+          "main_competence": "4.0 Kubuni programu sahili za kompyuta",
+          "specific_competence": "4.1 Kubuni programu sahili za kompyuta",
+          "learning_activity": "(a) Kutumia z ana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayotumia umbo moja",
+          "suggested_methods": [
+            "Kazimradi: Kuwaongoza wanafunzi kuunda michezo sahili inayotumia maumbo kwa kutumia zana inayoigiza lugha ya kompyuta",
+            "Oneshombinu: Waongoze wanafunzi waweze kubaini jinsi ya kuunda michezo sahili kwa kutumia zana inayoigiza lugha ya kompyuta kupitia oneshombinu"
+          ],
+          "assessment_criteria": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayotumia umbo moja.",
+          "suggested_resources": [
+            "Programu ya kompyuta",
+            "kompyuta",
+            "tableti na projekta"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "saya-4-20"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0. Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(a) Kueleza mfumo wa mmeng’enyo wa chakula wa binadamu (maana, sehemu na kazi zake)",
+          "suggested_methods": [
+            "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu maana ya mmeng’enyo wa chakula",
+            "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu za mfumo wa mmeng’enyo wa chakula wa binadamu na umuhimu wake",
+            "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa mmeng’enyo wa chakula kwa kutumia “simulation”"
+          ],
+          "assessment_criteria": "Mfumo wa mmeng’enyo wa chakula wa binadamu umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Modeli/vifani vya mfumo wa mmeng’enyo wa chakula wa binadamu, na picha mjongeo za mfumo wa mmeng’enyo wa chakula wa binadamu"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-21"
+        },
+        {
+          "main_competence": "1.0. Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(b) Kueleza mifumo ya uzazi wa binadamu",
+          "suggested_methods": [
+            "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kuelezea mifumo ya uzazi wa binadamu",
+            "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea mfumo wa uzazi wa mwanamke na mwanaume kwa kutumia “simulation”"
+          ],
+          "assessment_criteria": "Mifumo ya uzazi wa binadamu umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Modeli/vifani vya mifumo wa uzazi ya binadamu,",
+            "picha mjongeo,",
+            "michezo ya kompyuta, video na picha za mfumo wa uzazi wa binadamu"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "saya-5-22"
+        },
+        {
+          "main_competence": "1.0. Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(c) Kueleza ukuaji katika wanyama na mimea",
+          "suggested_methods": [
+            "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu dhana ya ukuaji",
+            "Majadiliano: Wanafunzi katika vikundi waongozwe kujadiliana na kuelezea dhana ya ukuaji katika wanyama na mimea"
+          ],
+          "assessment_criteria": "Ukuaji katika wanyama na mimea umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Modeli, picha mjongeo, video, picha zinazoonesha ukuaji katika wanyama na mimea na seti ya sayansi"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "saya-5-23"
+        },
+        {
+          "main_competence": "1.0. Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(d) Kueleza hatua za makuzi za mwili wa binadamu",
+          "suggested_methods": [
+            "Majadiliano: Wanafunzi katika makundi waongozwe kujadiliana na kueleza hatua za makuzi za mwili wa binadamu",
+            "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za makuzi za mwili wa binadamu kwa njia ya maswali na majibu"
+          ],
+          "assessment_criteria": "Hatua za makuzi za mwili wa binadamu zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Picha mjongeo, video, picha, chati/vipeperushi vinavyohusu hatua za makuzi za mwili wa binadamu"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "saya-5-24"
+        },
+        {
+          "main_competence": "1.0. Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+          "learning_activity": "(a) Kueleza dhana ya usumaku (maana, tabia na matumizi)",
+          "suggested_methods": [
+            "Maswali na majibu: Wanafunzi waongozwe kuelezea maana, tabia na matumizi ya sumaku kwa kutumia maswali na majibu",
+            "Ujifunzaji unaozingatia TEHAMA: Wanafunzi waongozwe kuelezea tabia na matumizi ya sumaku kwa kutumia video",
+            "Majadiliano: Katika vikundi waongoze wanafunzi kujadiliana na kuainisha matumizi mbalimbali ya sumaku",
+            "Matembezi ya galari: Waongoze wanafunzi kufanya matembezi ya galari baada ya majadiliano ili kujifunza matumizi mbalimbali ya sumaku kutoka kwa wanafunzi wenzao"
+          ],
+          "assessment_criteria": "Dhana ya usumaku imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Sumaku, picha mjongeo, video zinazoelezea dhana ya usumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-25"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(a) Kufanya majaribio sahili ya ukuaji katika wanyama na mimea",
+          "suggested_methods": [
+            "Maswali na majibu: Wanafunzi waongozwe kueleza hatua za kufanya majaribio sahili ya kisayansi kwa njia ya maswali na majibu",
+            "Majaribio: Wanafunzi waongozwe kufanya majaribio sahili ya ukuaji wa wanyama na mimea"
+          ],
+          "assessment_criteria": "Majaribio sahili ya ukuaji katika wanyama na mimea yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Seti ya sayansi, wanyama wadogowadogo, picha mjongeo, video, picha na chati zinazoonyesha hatua za ukuaji wa wanyama na mimea, mbegu za mimea na futikamba au rula"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-5-26"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(b) Kufanya majaribio sahili ya kubaini tabia za sumaku",
+          "suggested_methods": [
+            "Majaribio: Wanafunzi waongozwe katika vikundi kufanya majaribio sahili ya kubaini tabia za sumaku"
+          ],
+          "assessment_criteria": "Majaribio sahili ya kubaini tabia za sumaku yamefanywa kwa ukamilifu",
+          "suggested_resources": [
+            "Sumaku, picha mjongeo, video zinazoonesha tabia za sumaku, seti ya sayansi na vitu vyenye asili ya chuma"
+          ],
+          "periods_for_specific_competence": 39,
+          "id": "saya-5-27"
+        },
+        {
+          "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+          "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+          "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo mawili",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu kuunda michezo sahili inayounganisha maumbo mawili",
+            "Oneshombinu: Waongoze wanafunzi kwa oneshombinu namna ya kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili",
+            "Kazi za vitendo: Waongoze wanafunzi kutumia zana inayoigiza lugha ya kompyuta kuunda michezo sahili inayounganisha maumbo mawili"
+          ],
+          "assessment_criteria": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo mawili",
+          "suggested_resources": [
+            "Kompyuta, programu ya kompyuta na projekta"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "saya-5-28"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(a) Kueleza mfumo wa upumuaji katika wanyama na mimea (maana, sehemu za mfumo na namna upumuaji unavyofanyika)",
+          "suggested_methods": [
+            "Bunguabongo: Wanafunzi waongozwe kubunguabongo kuhusu maana ya mfumo wa upumuaji",
+            "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu za mfumo wa upumuaji wa binadamu na mimea na namna unavyofanyika",
+            "Ujifunzaji unaozingatia matumizi ya TEHAMA: Waongoze wanafunzi kueleza mfumo wa upumuaji unavyofanya kazi kwa njia ya “simulation”"
+          ],
+          "assessment_criteria": "Mfumo wa upumuaji katika wanyama na mimea umeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Picha, michoro, na modeli ya mfumo wa upumuaji"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-29"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(b) Kueleza dhana ya tindikali na nyongo (maana, tabia, vyanzo na matumizi)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana maana, vyanzo, tabia na matumizi ya tindikali na nyongo",
+            "Kazi za vitendo: Waongoze wanafunzi kufanya kazi za vitendo ili waweze kueleza tabia za tindikali na nyongo"
+          ],
+          "assessment_criteria": "Dhana ya tindikali na nyongo imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi vyenye tindikali au nyongo na karatasi za litimasi"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "saya-6-30"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(c) Kueleza dhana ya mashine (maana, aina na matumizi)",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kwa njia ya maswali na majibu kueleza maana ya mashine",
+            "Majadiliano: Waongoze wanafunzi katika vikundi wajadiliane kuhusu aina na matumizi ya mashine",
+            "Ziara: Waongoze wanafunzi kutembelea maeneo yanayotumia mashine kuzalisha bidhaa ili waweze kueleza dhana ya mashine",
+            "Kazi za vitendo: Waongoze wanafunzi kutumia mashine sahili waweze kueleza matumizi mbalimbali ya mashine"
+          ],
+          "assessment_criteria": "Dhana ya mashine imeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Mashine sahili na tata"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-31"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.1 Kuonesha uelewa wa nadharia za kisayansi",
+          "learning_activity": "(d) Kueleza dhana ya kuelea na kuzama",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi wafanye majadiliano juu ya dhana ya kuelea na kuzama",
+            "Maswali na majibu: Wanafunzi waongozwe kubaini sifa za vitu vinavyoweza kuzama na kuelea"
+          ],
+          "assessment_criteria": "Dhana ya kuelea na kuzama imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi mfano maji, kipande cha ubao na sarafu"
+          ],
+          "periods_for_specific_competence": 46,
+          "id": "saya-6-32"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+          "learning_activity": "(a) Kueleza dhana ya umeme (maana, vyanzo na matumizi)",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi katika vikundi wajadiliane kuhusu maana, vyanzo na matumizi ya umeme",
+            "Matembezi ya galari: Wanafunzi waongozwe kubaini vyanzo vya umeme kwa kutumia matembezi ya galari",
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu matumizi ya umeme na kanuni za usalama wake",
+            "Maswali na majibu: Waongoze wanafunzi kueleza matumizi ya umeme na kanuni za usalama wake"
+          ],
+          "assessment_criteria": "Dhana ya umeme imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Waya, glopu, swichi, amita, voltimita na betri"
+          ],
+          "periods_for_specific_competence": 40,
+          "id": "saya-6-33"
+        },
+        {
+          "main_competence": "1.0 Kumudu nadharia za kisayansi",
+          "specific_competence": "1.2 Kuonesha uelewa wa aina za nishati na matumizi yake",
+          "learning_activity": "(b) Kuaridhia sakiti sahili ya umeme (sehemu, aina, alama na muunganiko)",
+          "suggested_methods": [
+            "Maswali na majibu: Waongoze wanafunzi kueleza maana ya sakiti sahili ya umeme kwa njia ya maswali na majibu",
+            "Majadiliano: Wanafunzi waongozwe kujadiliana kuhusu sehemu, aina, alama na muunganiko wa sakiti sahili ya umeme",
+            "Oneshombinu: Wanafunzi waongozwe kueleza sehemu, aina, alama na muunganiko wa sakiti sahili ya umeme kupitia oneshombinu"
+          ],
+          "assessment_criteria": "Dhana ya sakiti sahili ya umeme imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Waya, balbu, glopu, swichi, amita,voltimita na betri"
+          ],
+          "periods_for_specific_competence": 49,
+          "id": "saya-6-34"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(a) Kufanya majaribio sahili ya kubaini vitu vyenye tindikali au nyongo katika mazingira",
+          "suggested_methods": [
+            "Bunguabongo: Waongoze wanafunzi kubunguabongo kuhusu vyanzo mbalimbali vya tindikali katika mazingira",
+            "Majaribio: Waongoze wanafunzi kubaini uwepo wa tindikali au nyongo kwenye vitu mbalimbali vinavyopatikana katika mazingira"
+          ],
+          "assessment_criteria": "Majaribio ya kubaini vitu vyenye tindikali au nyongo katika mazingira yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi vyenye tindikali au nyongo na karatasi za litimasi"
+          ],
+          "periods_for_specific_competence": 45,
+          "id": "saya-6-35"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(b) Kufanya majaribio sahili kuhusu mashine",
+          "suggested_methods": [
+            "Majaribio: Waongoze wanafunzi kufanya majaribio sahili mbalimbali kwa kutumia mashine",
+            "Kazimradi: Waongoze wanafunzi kutengeneza mashine sahili"
+          ],
+          "assessment_criteria": "Majaribio sahili kuhusu mashine yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi, mashine sahili na tata"
+          ],
+          "periods_for_specific_competence": 51,
+          "id": "saya-6-36"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(c) Kufanya majaribio sahili kuhusu kuelea na kuzama",
+          "suggested_methods": [
+            "Majaribio: Waongoze wanafunzi kufanya majaribio ya kubainisha vitu vinavyoelea na vinavyozama",
+            "Ziara: Waongoze wanafunzi kutembelea maeneo ya ufukweni mwa ziwa au bahari kubaini jinsi vyombo vya usafiri majini vinavyoelea",
+            "Kazi za vitendo: Waongoze wanafunzi kutengeneza vifani vya vitu vinavyoelea au kuzama"
+          ],
+          "assessment_criteria": "Majaribio sahili ya kuelea na kuzama yamefanywa kwa ufanisi",
+          "suggested_resources": [
+            "Vitu halisi kama maji, kipande cha ubao, sarafu, puto lenye hewa na picha za vitu vinavyozama /kuelea"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "saya-6-37"
+        },
+        {
+          "main_competence": "2.0 Kumudu stadi za awali za kisayansi",
+          "specific_competence": "2.1 Kufanya majaribio sahili ya kisayansi",
+          "learning_activity": "(d) Kufanya majaribio kuhusu sakiti sahili za umeme",
+          "suggested_methods": [
+            "Kazimradi: Waongoze wanafunzi kutengeneza sakiti sahili ya umeme",
+            "Kazi za vitendo: Waongoze wanafunzi kufanya shughuli za kubaini muundo wa sakiti sahili ya umeme"
+          ],
+          "assessment_criteria": "Majaribio ya kutengeneza sakiti sahili ya umeme yamefanywa kwa usahihi",
+          "suggested_resources": [
+            "Betri, nyaya za umeme, glopu na swichi"
+          ],
+          "periods_for_specific_competence": 53,
+          "id": "saya-6-38"
+        },
+        {
+          "main_competence": "3.0 Kubuni programu sahili za kompyuta",
+          "specific_competence": "3.1 Kubuni programu sahili za kompyuta",
+          "learning_activity": "(a) Kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages) kuunda michezo sahili inayounganisha maumbo zaidi ya mawili",
+          "suggested_methods": [
+            "Majadiliano: Waongoze wanafunzi kujadiliana kuhusu matumizi ya zana inayoigiza ili kucheza michezo sahili inayokuza uwezo wa kueleza matukio na dhana za kisayansi",
+            "Oneshombinu: Waongoze wanafunzi kwa oneshombinu kuunda michezo sahili inayounganisha maumbo zaidi ya mawili",
+            "Majaribio: Waongoze wanafunzi kuunda michezo sahili inayounganisha maumbo zaidi ya mawili kwa kutumia zana inayoigiza lugha ya kompyuta (block-based programming languages)"
+          ],
+          "assessment_criteria": "Zana sahihi inayoigiza lugha ya kompyuta imetumika kuunda michezo sahili inayounganisha maumbo zaidi ya mawili",
+          "suggested_resources": [
+            "Vifaa vya TEHAMA mfano kompyuta na projekta, na programu ya kompyuta"
+          ],
+          "periods_for_specific_competence": 35,
+          "id": "saya-6-39"
+        }
+      ]
+    }
+  }
+}

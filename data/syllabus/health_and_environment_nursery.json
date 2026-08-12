@@ -1,0 +1,229 @@
+{
+  "subject": "Health and Environment",
+  "level": "Pre-primary Education (Awali)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1724242261-MTAALA%20WA%20ELIMU%20YA%20AWALI%20FINAL.pdf",
+  "period_length_minutes": 20,
+  "forms": {
+    "Awali": {
+      "activities": [
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.1 Kutunza mwili",
+          "learning_activity": "Kubainisha sehemu za mwili na kazi zake",
+          "suggested_methods": [],
+          "assessment_criteria": "Sehemu za mwili na kazi zake zimebainishwa",
+          "suggested_resources": [
+            "Picha/chati inayoonesha vifaa vya usafi wa mwili",
+            "chati inayoonesha sehemu za mwili",
+            "picha inayoonesha vifaa/sehemu za kuhifadhia nguo"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "awal-awali-57"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.1 Kutunza mwili",
+          "learning_activity": "Kusafisha mwili",
+          "suggested_methods": [],
+          "assessment_criteria": "Mwili umesafishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-58"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.1 Kutunza mwili",
+          "learning_activity": "Kutunza mavazi",
+          "suggested_methods": [],
+          "assessment_criteria": "Mavazi yametunzwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 25,
+          "id": "awal-awali-59"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.2 Kuthamini vyakula vya aina mbalimbali",
+          "learning_activity": "Kubaini vyakula mbalimbali",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyakula mbalimbali vimebainishwa",
+          "suggested_resources": [
+            "Picha za vyakula mbalimbali",
+            "vyakula halisi",
+            "picha zinazoonesha vifaa vya kuhifadhia chakula",
+            "vifani vya vyakula",
+            "picha zinazoonesha taratibu za kula katika miktadha mbalimbali"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "awal-awali-60"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.2 Kuthamini vyakula vya aina mbalimbali",
+          "learning_activity": "Kueleza taratibu za kuzingatia wakati wa kula",
+          "suggested_methods": [],
+          "assessment_criteria": "Taratibu za kuzingatia wakati wa kula zimeelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-61"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.2 Kuthamini vyakula vya aina mbalimbali",
+          "learning_activity": "Kutunza vyakula",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyakula vimetunzwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-62"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.3 Kutunza vyombo vya chakula",
+          "learning_activity": "Kutumia vyombo vya chakula",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyombo vya chakula vimetumika",
+          "suggested_resources": [
+            "Picha za vyombo vya chakula",
+            "vifaa vya kuoshea vyombo vya chakula",
+            "picha zinazoonesha sehemu za kuhifadhia chakula"
+          ],
+          "periods_for_specific_competence": 10,
+          "id": "awal-awali-63"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.3 Kutunza vyombo vya chakula",
+          "learning_activity": "Kuosha vyombo vya chakula",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyombo vya chakula vimeoshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-64"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.3 Kutunza vyombo vya chakula",
+          "learning_activity": "Kuhifadhi vyombo vya chakula",
+          "suggested_methods": [],
+          "assessment_criteria": "Vyombo vya chakula vimehifadhiwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-65"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.4 Kuchunguza vitu vilivyopo katika mazingira",
+          "learning_activity": "Kutaja vitu vinavyopatikana katika mazingira",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu vinavyopatikana katika mazingira vimetajwa",
+          "suggested_resources": [
+            "Picha/vifani vya vitu mbalimbali katika mazingira",
+            "picha za wanyama na mimea"
+          ],
+          "periods_for_specific_competence": 24,
+          "id": "awal-awali-66"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.4 Kuchunguza vitu vilivyopo katika mazingira",
+          "learning_activity": "Kutofautisha vitu katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Vitu katika mazingira yake vimetofautishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 26,
+          "id": "awal-awali-67"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.5 Kusafisha mazingira",
+          "learning_activity": "Kufanya usafi katika mazingira yanayomzunguka",
+          "suggested_methods": [],
+          "assessment_criteria": "Usafi umefanyika katika mazingira yanayomzunguka",
+          "suggested_resources": [
+            "Picha zinazoonesha madhara ya mazingira machafu",
+            "vitabu vya hadithi vinavyoonesha madhara ya mazingira machafu"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "awal-awali-68"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.5 Kusafisha mazingira",
+          "learning_activity": "Kueleza madhara yanayotokana na mazingira machafu",
+          "suggested_methods": [],
+          "assessment_criteria": "Madhara yanayotokana na mazingira machafu yameelezwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-69"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.6 Kuepuka mazingira hatarishi",
+          "learning_activity": "Kubaini matendo hatarishi",
+          "suggested_methods": [],
+          "assessment_criteria": "Matendo hatarishi yamebainishwa",
+          "suggested_resources": [
+            "Picha zinazoonesha matendo hatarishi na mazingira hatarishi",
+            "picha inayoonesha alama za usalama"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "awal-awali-70"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.6 Kuepuka mazingira hatarishi",
+          "learning_activity": "Kubaini mazingira hatarishi",
+          "suggested_methods": [],
+          "assessment_criteria": "Mazingira hatarishi yamebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-71"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.6 Kuepuka mazingira hatarishi",
+          "learning_activity": "Kuonesha namna ya kuepuka mazingira hatarishi",
+          "suggested_methods": [],
+          "assessment_criteria": "Namna ya kuepuka mazingira hatarishi imeoneshwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-72"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.6 Kuepuka mazingira hatarishi",
+          "learning_activity": "Kubaini alama za usalama katika mazingira yake",
+          "suggested_methods": [],
+          "assessment_criteria": "Alama za usalama katika mazingira yake zimebainishwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 27,
+          "id": "awal-awali-73"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.7 Kuchukua tahadhari dhidi ya magonjwa mbalimbali",
+          "learning_activity": "Kubaini magonjwa ya kuambukiza",
+          "suggested_methods": [],
+          "assessment_criteria": "Magonjwa ya kuambukiza yamebainishwa",
+          "suggested_resources": [
+            "Picha /chati zinazoonesha dalili za magonjwa ya kuambukiza",
+            "picha zinazoonesha namna ya kujikinga na magonjwa ya kuambukiza"
+          ],
+          "periods_for_specific_competence": 15,
+          "id": "awal-awali-74"
+        },
+        {
+          "main_competence": "5.0 Kutunza afya na mazingira",
+          "specific_competence": "5.7 Kuchukua tahadhari dhidi ya magonjwa mbalimbali",
+          "learning_activity": "Kujikinga na magonjwa",
+          "suggested_methods": [],
+          "assessment_criteria": "Amejikinga na magonjwa",
+          "suggested_resources": [],
+          "periods_for_specific_competence": 0,
+          "id": "awal-awali-75"
+        }
+      ]
+    }
+  }
+}

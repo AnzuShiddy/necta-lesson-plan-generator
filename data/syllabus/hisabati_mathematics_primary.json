@@ -1,0 +1,972 @@
+{
+  "subject": "Hisabati / Mathematics",
+  "level": "Primary Education (Grade 1-6)",
+  "syllabus_edition": "2023 (Tanzania Institute of Education)",
+  "source_pdf": "https://www.tie.go.tz/uploads/documents/sw-1727169918-MUHTASARI%20%20WA%20SOMO%20LA%20HISABATI%20DRS%20III-VI.pdf",
+  "period_length_minutes": 40,
+  "forms": {
+    "Grade 3": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 kuonesha uelewa wa dhana ya namba",
+          "learning_activity": "(a) Kubaini thamani ya tarakimu katika namba nzima zenye tarakimu zaidi ya moja",
+          "suggested_methods": [
+            "Mfano wa nyenzo: Waongoze wanafunzi kutumia vifaa, kama vibao vya kujifunzia, vyenye tarakimu 1 hadi 9 na 0 kuunda namba yenye tarakimu zaidi ya moja na kuweka thamani kwa kila tarakimu",
+            "Maswali na majadiliano: Waongoze wanafunzi kwa kuuliza maswali ya kubaini thamani ya tarakimu katika namba nzima zenye tarakimu zaidi ya moja"
+          ],
+          "assessment_criteria": "Thamani ya tarakimu katika namba nzima zenye tarakimu zaidi ya moja zimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za tarakimu 1 hadi 9 na 0",
+            "abakasi",
+            "sinia la namba",
+            "chati ya thamani ya tarakimu na programu za mtandaoni zinazohusiana na kubaini thamani ya tarakimu katika namba nzima"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "hisa-3-1"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 kuonesha uelewa wa dhana ya namba",
+          "learning_activity": "(b) Kusoma na kuandika namba nzima zenye tarakimu zaidi ya moja",
+          "suggested_methods": [
+            "Majadiliano ya Vikundi: Waongoze wanafunzi kusoma na kuandika namba nzima zenye tarakimu zaidi ya moja kwa kujadiliana"
+          ],
+          "assessment_criteria": "Namba nzima zenye tarakimu zaidi ya moja zimesomwa na kuandikwa kwa ufasaha",
+          "suggested_resources": [
+            "Kadi za tarakimu 1 hadi 9 na 0",
+            "abakasi",
+            "sinia la namba na orodha hakiki"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-2"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 kuonesha uelewa wa dhana ya namba",
+          "learning_activity": "(c) Kulinganisha namba nzima kwa kutumia alama =, < na >",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia mifano ya vitu halisi kulinganisha namba nzima na kutumia alama sahihi za kulinganisha kati ya =, < na >"
+          ],
+          "assessment_criteria": "Namba nzima zimelinganishwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba nzima",
+            "kadi za manila",
+            "abakasi",
+            "sinia la namba na orodha hakiki"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-3"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 kuonesha uelewa wa dhana ya namba",
+          "learning_activity": "(d) Kubaini mfuatano katika namba nzima",
+          "suggested_methods": [
+            "Majadiliano ya vikundi:Waongoze wanafunzi kujadili kwa kutoa mifano ya mfuatano katika mambo mbalimbali katika maisha halisi na kujadili maswali mbalimbali ya mpangilio katika namba nzima"
+          ],
+          "assessment_criteria": "Mfuatano wa namba nzima umeinishwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba",
+            "abakasi",
+            "sinia la namba",
+            "orodha hakiki na programu za mtandaoni zinazohusu kubaini mfuatano katika namba nzima"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-4"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uelewa wa matendo ya namba",
+          "learning_activity": "Kujumlisha na kutoa namba nzima",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: waongoze wanafunzi kujumlisha na kutoa namba nzima wakitumia mifano katika maisha halisi"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa namba nzima yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vihesabio",
+            "abakasi",
+            "sinia la namba na programu za mtandaoni zinazohusu kujumlisha na kutoa namba nzima"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "hisa-3-5"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa vipimo",
+          "learning_activity": "Kubaini vipimo vya urefu, uzani na ujazo",
+          "suggested_methods": [
+            "Mazoezi ya vitendo: Waongoze wanafunzi kwa makundi kupima vitu tofauti na kubaini vipimo vyake. Kisha kila kundi lishirikishe darasa matokeo ya upimaji huo"
+          ],
+          "assessment_criteria": "Vipimo vya urefu, uzani na ujazo vimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya vipimo",
+            "rula",
+            "futikamba",
+            "mzani",
+            "chupa",
+            "bika",
+            "silinda kipimo",
+            "kamba",
+            "jagi",
+            "kikombe na ndoo"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "hisa-3-6"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa stadi za maumbo",
+          "learning_activity": "(a) Kufafanua dhana ya maumbo",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutambua maumbo kwenye picha au michoro kwa kuyafananisha na maumbo halisi kutoka kwenye mazingira yao na kujadili sifa za maumbo hayo",
+            "Kazi za mikono: Waongoze wanafunzi kuchora na kutengeneza maumbo mbalimbali na kueleza sifa zake"
+          ],
+          "assessment_criteria": "Dhana ya maumbo imefafanuliwa kwa usahihi",
+          "suggested_resources": [
+            "Maumbo mbalimbali (halisi na picha) na vitu halisi",
+            "kadi za maumbo mbalimbali",
+            "vitambaa vya maumbo",
+            "na programu za mtandaoni zinazohusu kufafanua dhana ya maumbo"
+          ],
+          "periods_for_specific_competence": 30,
+          "id": "hisa-3-7"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa stadi za maumbo",
+          "learning_activity": "(b) Kueleza dhana ya nukta, mstari, kipande cha mstari na mwale",
+          "suggested_methods": [
+            "Mfano wa vitu halisi : Waongoze wanafunzi kueleza dhana ya nukta, mstari, kipande cha mstari na mwale katika vitu halisi"
+          ],
+          "assessment_criteria": "Dhana ya nukta, mstari, kipande cha mstari na mwale imeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Michoro mbalimbali ya maumbo",
+            "picha",
+            "vitu halisi",
+            "mkebe",
+            "rula",
+            "kadi za manila na kalamu rashasha"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-8"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa stadi za maumbo",
+          "learning_activity": "(c) Kuunda maumbo bapa kwa kutumia nukta, mstari, na kipande cha mstari",
+          "suggested_methods": [
+            "Michoro ya vitu: Waongoze wanafunzi katika makundi kuunda maumbo bapa kwa kutumia nukta, mstari na kipande cha mstari"
+          ],
+          "assessment_criteria": "Maumbo paba yameundwa kwa kutumia nukta, mstari na kipande cha mstari kwa usahihi",
+          "suggested_resources": [
+            "Maumbo mbalimbali (halisi na picha)",
+            "vitu halisi",
+            "mkebe",
+            "rula",
+            "kadi za manila",
+            "kalamu rashasha na boksi"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-9"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(a) Kutumia mgawanyo wa vitu kueleza dhana ya sehemu",
+          "suggested_methods": [
+            "Michoro ya vitu: Waongoze wanafunzi kutumia michoro rahisi kueleza dhana ya sehemu",
+            "Mazoezi ya vitendo: Waongoze wanafunzi kutumia mgawanyo wa vitu halisi kama matunda, keki na muwa kueleza dhana ya sehemu"
+          ],
+          "assessment_criteria": "Dhana ya sehemu imeelezwa kwa ufasaha kwa kutumia mgawanyo wa vitu",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi za manila na programu za mtandaoni zinazohusiana na kueleza dhana ya sehemu"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-3-10"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(b) Kujumlisha na kutoa sehemu zenye asili moja",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Kuwaongoza kujumlisha na kutoa sehemu zenye asili moja na programu za mtandaoni zinazohusu kujumlisha na kutoa sehemu zenye asili moja"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa sehemu zenye asili moja yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi",
+            "kadi za manila na programu za mtandaoni zinazohusu kujumlisha na kutoa sehemu zenye asili moja"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-11"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(a) Kueleza vipimo vya muda",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Wangoze wanafunzi kujadili vipimo vya muda katika hali halisi kwa kuonesha mifano ya shughuli zinazohusisha muda katika maisha ya kila siku"
+          ],
+          "assessment_criteria": "Vipimo vya muda vimeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Kalenda",
+            "saa",
+            "chati ya vipimo vya muda na programu za mtandaoni zinazohusiana na vipimo vya muda"
+          ],
+          "periods_for_specific_competence": 36,
+          "id": "hisa-3-12"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(b) Kusoma muda katika mtindo wa saa 12",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia vitu halisi kama saa na chati ya vipimo vya muda kusoma muda katika mtindo wa saa 12",
+            "Michezo ya ujifunzaji: Waongoze wanafunzi kutumia michezo ya kusoma muda katika mtindo wa saa 12"
+          ],
+          "assessment_criteria": "Muda katika mtindo wa saa 12 umesomwa kwa usahihi",
+          "suggested_resources": [
+            "Saa",
+            "mifano ya saa",
+            "chati ya vipimo vya muda na programu za mtandaoni zinazohusiana na kusoma muda katika mtindo wa saa 12"
+          ],
+          "periods_for_specific_competence": 16,
+          "id": "hisa-3-13"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(c) Kusoma muda katika mtindo wa saa 24",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia vitu halisi kama saa na chati ya vipimo vya muda kusoma muda katika mtindo wa saa 24"
+          ],
+          "assessment_criteria": "Muda katika mtindo wa saa 24 umesomwa kwa usahihi",
+          "suggested_resources": [
+            "Saa za mtindo wa saa 24",
+            "mifano ya saa na programu za mtandaoni zinazohusiana na kusoma muda katika mtindo wa saa 24"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-3-14"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(d) Kutambua idadi ya saa katika siku, siku katika wiki, wiki katika mwezi na miezi katika mwaka",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia vitu halisi kama kalenda na saa kutambua idadi ya saa katika siku, siku katika wiki, wiki katika mwezi na miezi katika mwaka"
+          ],
+          "assessment_criteria": "Idadi ya saa katika siku, siku katika wiki, wiki katika mwezi na miezi katika mwaka",
+          "suggested_resources": [
+            "Kalenda",
+            "saa na chati zinazoonesha idadi ya saa katika siku, siku katika wiki, wiki katika mwezi, na miezi katika mwaka"
+          ],
+          "periods_for_specific_competence": 17,
+          "id": "hisa-3-15"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.2. Kuonesha uelewa wa hesabu za fedha",
+          "learning_activity": "(a) Kubaini fedha ya Tanzania katika shilingi na senti",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia fedha halisi ya Tazania kubaini fedha ya Tanzania katika shilingi na senti"
+          ],
+          "assessment_criteria": "Fedha ya Tanzania katika shilingi na senti imebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Fedha halisi (sarafu na noti)",
+            "picha za noti na sarafu",
+            "mfano wa noti zilizoundwa kwa karatasi na chati ya vipimo vya fedha"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "hisa-3-16"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.2. Kuonesha uelewa wa hesabu za fedha",
+          "learning_activity": "(b) Kujumlisha na kutoa fedha",
+          "suggested_methods": [
+            "Majadiliano na mifano halisi: Waongoze wanafunzi kutumia fedha halisi kujumlisha na kutoa fedha katika shilingi na senti",
+            "Michezo ya ujifunzaji:Waongoze wanafunzi kufanya shughuli za kucheza zinazohusiana na kujumlisha na kutoa fedha halisi"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa fedha katika shilingi na senti yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Fedha halisi (sarafu na noti) mifano ya fedha za kitanzania iliyoundwa kwa karatasi",
+            "kadi zenye thamani tofauti ya sarafu ya kitanzania na chati ya vipimo vya fedha"
+          ],
+          "periods_for_specific_competence": 19,
+          "id": "hisa-3-17"
+        }
+      ]
+    },
+    "Grade 4": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 Kuonesha uelewa wa dhana ya namba",
+          "learning_activity": "Kutambua namba za kirumi (hadi M)",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kama saa na vitabu kuonesha jinsi namba za kirumi hadi M zinavyotumika"
+          ],
+          "assessment_criteria": "Namba za kirumi zimetambuliwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba",
+            "chati ya namba za kirumi hadi M na saa yenye namba za kirumi"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "hisa-4-18"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uelewa wa matendo ya namba",
+          "learning_activity": "Kuzidisha na kugawanya namba nzima",
+          "suggested_methods": [
+            "Programu za mtandaoni: Waongoze wanafunzi kutumia programu za mtandaoni kuzidisha na kugawanya namba nzima",
+            "Mafumbo halisia: Waongoze wanafunzi kufanya maswali ya kuzidisha na kugawanya namba nzima kwa kutumia mafumbo halisia"
+          ],
+          "assessment_criteria": "Matendo ya kuzidisha na kugawanya namba nzima yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati ya namba ya kuzidisha",
+            "sinia la namba",
+            "programu za mtandaoni zilizonahusiana na kuzidisha na kugawanya namba nzima",
+            "kikokotoo na abakasi"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-4-19"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa vipimo",
+          "learning_activity": "(a) Kubadili vipimo vya urefu,uzani na ujazo katika vijenzi vyake (milimita hadi kilomita, miligramu hadi tani na mililita hadi lita)",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kujadili na kubadili vipimo vya urefu, uzani na ujazo wa vitu halisi pamoja na kutumia mizani za kidigiti",
+            "Majadiliano ya Vikundi:Waongoze wanafunzi kujadiliana ili kutatua shughuli za kubadili vipimo katika vijenzi vyake"
+          ],
+          "assessment_criteria": "Vipimo vya urefu, uzani na ujazo vimebadilishwa kwa ufasaha",
+          "suggested_resources": [
+            "Chati ya vipimo",
+            "rula",
+            "futikamba",
+            "mzani",
+            "chupa",
+            "bika",
+            "silinda kipimo",
+            "futikamba",
+            "mkebe",
+            "na programu za mtandaoni zinazohusiana na kubadili vipimo vya urefu, uzani na ujazo katika vijenzi vyake"
+          ],
+          "periods_for_specific_competence": 38,
+          "id": "hisa-4-20"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa vipimo",
+          "learning_activity": "(b) Kujumlisha na kutoa vipimo vya urefu, uzani na ujazo",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kujumlisha na kutoa vipimo vya urefu, uzani na ujazo wa vitu halisi"
+          ],
+          "assessment_criteria": "Kujumlisha na kutoa vipimo vya urefu, uzani na ujazo kumefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati ya vipimo",
+            "rula",
+            "futikamba",
+            "mzani",
+            "chupa",
+            "bika",
+            "silinda kipimo",
+            "kamba na mkebe"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-21"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa stadi za awali za maumbo",
+          "learning_activity": "Kutafuta mzingo na maeneo ya maumbo bapa (mstatili, mraba na pembetatu)",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kutafuta mzingo na maeneo ya maumbo bapa katika maumbo bapa ya vitu halisi pamoja na maswali ya kukokotoa mizingo na maeneo ya maumbo bapa"
+          ],
+          "assessment_criteria": "Mzingo na maeneo ya maumbo bapa yametafutwa kwa usahihi",
+          "suggested_resources": [
+            "Maumbo mbalimbali halisi kama ubao na meza",
+            "kadi za manila zinazounda maumbo bapa mbalimbali",
+            "picha na programu za mtandaoni zinazohusiana na kutafuta mzingo na maeneo ya maumbo bapa"
+          ],
+          "periods_for_specific_competence": 32,
+          "id": "hisa-4-22"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(a) Kulinganisha sehemu kwa kutumia alama =, < na >",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya maswali ya kulinganisha sehemu kwa kutumia alama =, < na >"
+          ],
+          "assessment_criteria": "Ulinganifu wa sehemu kwa kutumia alama =, < na > umefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi",
+            "vitu vyenye rangi mbalimbali",
+            "Chati za alama =, < na > na programu za mtandaoni zinazohusiana na kulinganisha sehemu"
+          ],
+          "periods_for_specific_competence": 66,
+          "id": "hisa-4-23"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(b) Kuzidisha na kugawanya sehemu",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kuzidisha na kugawanya sehemu"
+          ],
+          "assessment_criteria": "Matendo ya kuzidisha na kugawanya sehemu yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi kama matunda na pipi",
+            "karatasi za michoro ya vitu",
+            "kadi za namba za sehemu na programu za mtandaoni zinazohusu kuzidisha na kugawanya sehemu"
+          ],
+          "periods_for_specific_competence": 22,
+          "id": "hisa-4-24"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(c) Kueleza dhana ya desimali",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya dhana ya desimali"
+          ],
+          "assessment_criteria": "Dhana ya desimali imeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Chati za namba za desimali",
+            "vitu halisi na programu za mtandaoni zinazohusiana na desimali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-25"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.5 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(d) Kujumlisha na kutoa desimali",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kujumlisha na kutoa desimali"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa desimali yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati ya namba za desimali",
+            "vitu halisi",
+            "programu za mtandaoni zinazohusiana na kujumlisha na kutoa desimali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-26"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(a) Kubadili vipimo vya muda katika vijenzi vyake (sekunde hadi saa)",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kubadili vipimo vya muda kwa kutumia saa za kidigiti"
+          ],
+          "assessment_criteria": "Vipimo vya muda katika vijenzi vyake vimebadilishwa kwa usahihi",
+          "suggested_resources": [
+            "Saa",
+            "mfano wa saa",
+            "chati ya vipimo vya muda katika vijenzi vyake na programu za mtandaoni zinazohusiana na kubadili vipimo vya muda katika vijenzi vyake"
+          ],
+          "periods_for_specific_competence": 34,
+          "id": "hisa-4-27"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.1 Kuonesha uelewa wa hesabu za muda",
+          "learning_activity": "(b) Kujumlisha na kutoa muda katika saa",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kujumlisha na kutoa muda katika saa"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa muda katika saa yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Saa na programu za mtandaoni zinazohusiana na kujumlisha na kutoa muda katika saa"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-4-28"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya stadi za kihisabati",
+          "specific_competence": "2.2 Kuonesha uelewa wa hesabu za fedha",
+          "learning_activity": "Kuzidisha na kugawanya fedha za kitanzania",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kuzidisha na kugawanya fedha za kitanzania"
+          ],
+          "assessment_criteria": "Matendo ya kuzidisha na kugawanya fedha za kitanzania yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Fedha halisi (sarafu na noti)",
+            "chati ya fedha za kitanzania na programu za mtandaoni zinazohusiana na kuzidisha na kugawanya fedha za kitanzania"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-4-29"
+        }
+      ]
+    },
+    "Grade 5": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 Kuonesha uelewa wa vipimo",
+          "learning_activity": "(a) Kuzidisha vipimo vya urefu, uzani na ujazo",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kuzidisha vipimo vya urefu, uzani na ujazo"
+          ],
+          "assessment_criteria": "Tendo la kuzidisha vipimo vya urefu, uzani na ujazo limefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati ya vipimo vya urefu, uzani na ujazo na programu za mtandaoni zinazohusu kuzidisha vipimo vya urefu, uzani na ujazo"
+          ],
+          "periods_for_specific_competence": 44,
+          "id": "hisa-5-30"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 Kuonesha uelewa wa vipimo",
+          "learning_activity": "(b) Kugawanya vipimo vya urefu, uzani na ujazo",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutumia mifano kugawanya vipimo vya urefu, uzani na ujazo"
+          ],
+          "assessment_criteria": "Tendo la kugawanya vipimo vya urefu, uzani na ujazo limefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati ya vipimo, chati ya namba na programu za mtandaoni zinazohusu kugawanya vipimo vya urefu, uzani na ujazo"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-31"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uelewa wa awali stadi za maumbo",
+          "learning_activity": "(a) Kueleza dhana ya pai",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kueleza dhana ya pai kwa kutumia vitu halisi vya duara",
+            "Kazimradi: Waongoze wanafunzi kutafuta thamani ya pai kwa kutumia vitu halisi vya duara",
+            "programu za mtandaoni zinazohusu kueleza dhana ya pai"
+          ],
+          "assessment_criteria": "Dhana ya pai imelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Maumbo ya duara, kamba, rula, kadi za manila, kalamu rashasha, mkebe"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "hisa-5-32"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uelewa wa awali stadi za maumbo",
+          "learning_activity": "(b) Kutafuta mzingo wa duara",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutafuta mzingo wa duara kwa kutumia vitu halisi",
+            "Majadiliano ya vikundi: Waongoze wanafunzi kutumia mifano kutafuta mzingo wa duara"
+          ],
+          "assessment_criteria": "Mzingo wa duara umetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Maumbo ya duara, kamba, rula, kadi za manila, kalamu rashasha, mkasi na mkebe"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-33"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uelewa wa awali stadi za maumbo",
+          "learning_activity": "(c) Kutafuta eneo la duara",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutafuta eneo la duara kwa kutumia vitu halisi vya duara",
+            "Programu za mtandaoni: Waongoze wanafunzi kutumia programu za mtandaoni kama vile chemsha bongo kubaini eneo la duara"
+          ],
+          "assessment_criteria": "Eneo la duara limetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Maumbo ya duara, kamba, rula, kadi za manila, kalamu rashasha, mkasi, mkebe na programu"
+          ],
+          "periods_for_specific_competence": 26,
+          "id": "hisa-5-34"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(a) Kubaini namba shufwa, witiri na tasa",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali kubaini namba shufwa, witiri na tasa",
+            "Programu za mtandaoni: Waongoze wanafunzi kutumia programu za mitandao kubaini namba shufwa, witiri na tasa"
+          ],
+          "assessment_criteria": "Namba shufwa, witiri na tasa zimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba shufwa, witiri na tasa na programu za mtandaoni zinazohusiana na namba shufwa,witiri na tasa"
+          ],
+          "periods_for_specific_competence": 68,
+          "id": "hisa-5-35"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(b) Kutafuta vigawo na vigawe vya namba zisizozidi tatu",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kutafuta vigawo na vigawe vya namba zisizozidi tatu"
+          ],
+          "assessment_criteria": "Vigawo na vigawe vya namba zisizozidi tatu vimetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba, sinia la namba na programu za mtandaoni zinazohusiana na vigawe na vigawo vya namba"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-36"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(c) Kutafuta Kigawo Kikubwa cha Shirika (KKS) na Kigawe Kidogo cha Shirika (KDS) cha namba nzima",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kutafuta Kigawo Kikubwa cha Shirika (KKS) na Kigawe Kidogo cha Shirika (KDS) cha namba nzima"
+          ],
+          "assessment_criteria": "Kigawo Kikubwa cha Shirika (KKS) na Kigawe Kidogo cha Shirika (KDS) cha namba nzima kimetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba, sinia la namba na programu za mtandaoni zinazohusu KKS na KDS"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-37"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(d) Kujumlisha na kutoa sehemu zenye asili tofauti",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kuunda maswali na kujadiliana kujumlisha na kutoa sehemu zenye asili tofauti",
+            "Programu za mtandaoni: Waongoze wanafunzi kutumia programu za mtandaoni kujumlisha na kutoa sehemu zenye asili tofauti"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa sehemu zenye asili tofauti yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi, chati ya mifano ya kujumlisha na kutoa sehemu na programu za mtandaoni zinazohusu kujumlisha na kutoa sehemu zenye asili tofauti"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-38"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(e) Kujumlisha na kutoa sehemu mchanganyiko",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kujumlisha na kutoa sehemu mchanganyiko kwa kutumia vitu halisi",
+            "Programu za mtandaoni: Waongoze wanafunzi kutumia program za mitandao kujumlisha na kutoa sehemu mchanganyiko"
+          ],
+          "assessment_criteria": "Matendo ya kujumlisha na kutoa sehemu mchanganyiko yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Kadi za namba zenye asili tofauti, vitu halisi na programu za mtandaoni zinazohusu kujumlisha na kutoa sehemu mchanganyiko"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-39"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(f) Kuzidisha desimali",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kuzidisha desimali"
+          ],
+          "assessment_criteria": "Tendo la kuzidisha desimali limefanyika kwa usahihi",
+          "suggested_resources": [
+            "Vitu halisi na programu za mtandaoni za kuzidisha desimali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-40"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(g) Kugawanya namba kupata jawabu lenye nafasi za desimali zisizozidi tatu",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kugawanya desimali kupata jawabu lenye viwango vya desimali visivyozidi vitatu kwa kutumia zana mbalimbali na vitu halisi",
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kugawanya desimali kupata jawabu lenye viwango vya desimali visivyozidi vitatu"
+          ],
+          "assessment_criteria": "Tendo la kugawanya desimali limefanyika kwa usahihi",
+          "suggested_resources": [
+            "Chati yenye mifano ya kugawanya namba kupata desimali, abakasi na programu za mtandaoni zinazohusu kugawanya namba kupata jawabu lenye nafasi za desimali zisizozidi tatu"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-41"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uelewa wa stadi za awali za namba",
+          "learning_activity": "(h) Kubadili asilimia katika sehemu au desimali",
+          "suggested_methods": [
+            "Mifano wa vitu halisi: Waongoze wanafunzi kutumia vitu halisi kubadilisha asilimia katika sehemu au desimali",
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kubadilisha asilimia katika sehemu au desimali"
+          ],
+          "assessment_criteria": "Asilimia katika sehemu au desimali imebadilishwa kwa usahihi",
+          "suggested_resources": [
+            "Kadi zenye asilimia tofauti, abakasi na programu za mtandaoni zinazohusu kubadili asilimia kuwa sehemu au desimali"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-42"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa awali wa aljebra",
+          "learning_activity": "(a) Kueleza dhana ya aljebra",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kueleza dhana ya aljebra kwa kutumia vitu halisi"
+          ],
+          "assessment_criteria": "Dhana ya aljebra imelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Chati ya herufi, kadi za herufi na programu za mtandaoni zinazohusiana na aljebra"
+          ],
+          "periods_for_specific_competence": 54,
+          "id": "hisa-5-43"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa awali wa aljebra",
+          "learning_activity": "(b) Kubaini vigeu na vizigeu katika mitajo",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kubaini mitajo, vigeu na vizigeu"
+          ],
+          "assessment_criteria": "Mitajo, vigeu na vizigeu vimebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya vigeu vizigeu na mitajo kadi za herufi na programu za mtandaoni zinazohusiana na aljebra"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-44"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa awali wa aljebra",
+          "learning_activity": "(c) Kuunda sentensi za aljebra",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kuunda sentensi za aljebra"
+          ],
+          "assessment_criteria": "Sentensi za aljebra zimeundwa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya sentensi za aljebra, chati ya herufi na programu za mtandaoni zinazohusiana na uundaji wa sentensi za aljebra"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-45"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa awali wa aljebra",
+          "learning_activity": "(d) Kurahisisha milinganyo ya kialjebra kwa kufuata mpangilio sahihi wa kihisabati",
+          "suggested_methods": [
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya majadiliano na maswali ya kurahisisha milinganyo ya kialjebra yenye muktadha wa maisha halisi"
+          ],
+          "assessment_criteria": "Milinganyo ya kialjebra imerahisishwa kwa kufuata mpangilio sahihi wa kihisabati",
+          "suggested_resources": [
+            "Chati ya herufi, abakasi, sinia la namba na programu za mtandaoni zinazohusu kurahisisha milinganyo ya kialjebra"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-46"
+        },
+        {
+          "main_competence": "1.0 Kumudu Misingi ya awali ya kihisabati",
+          "specific_competence": "1.4 Kuonesha uelewa wa awali wa aljebra",
+          "learning_activity": "(e) Kukokotoa milinganyo sahili",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kukokotoa milinganyo sahili ya kialjebra"
+          ],
+          "assessment_criteria": "Milinganyo sahili ya kialjebra imekokotolewa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya namba, chati ya herufi, vijiti, kadi, abakasi, sinia la namba na programu za mtandaoni zinazohusu kukokotoa milinganyo sahili"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-5-47"
+        },
+        {
+          "main_competence": "2.1 Kuonesha uelewa wa hesabu za fedha",
+          "specific_competence": "Kutatua mafumbo ya mauzo na manunuzi",
+          "learning_activity": "Kutatua mafumbo ya mauzo na manunuzi",
+          "suggested_methods": [
+            "Michezo ya ujifunzaji: Waongoze wanafunzi kutatua mafumbo ya mauzo na manunuzi kwa kutumia fedha za mchezo au kadi za mchezo",
+            "Majadiliano ya vikundi: Waongoze wanafunzi katika vikundi kutatua mafumbo ya mauzo na manunuzi kisha kila kundi kuwasilisha kwa wenzao"
+          ],
+          "assessment_criteria": "Mafumbo ya mauzo na manunuzi yametatuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Vifani vya fedha, fedha halisi, vitu mbalimbali na programu za mtandaoni zinazohusiana na kutatua mafumbo ya mauzo na manunuzi"
+          ],
+          "periods_for_specific_competence": 12,
+          "id": "hisa-5-48"
+        }
+      ]
+    },
+    "Grade 6": {
+      "activities": [
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.1 Kuonesha uuelewa wa vipimo",
+          "learning_activity": "Kukokotoa mafumbo yanayohusu umbali na muda",
+          "suggested_methods": [
+            "Mifano ya vitu halisi: Waongoze wanafunzi kutumia vitu halisi kukokotoa muda na umbali",
+            "Majadiliano katika vikundi: Waongoze wanafunzi kujadiliana maswali ya kukokotoa muda na umbali"
+          ],
+          "assessment_criteria": "Mafumbo yanayohusu muda na umbali yamekokotolewa kwa usahihi",
+          "suggested_resources": [
+            "Saa",
+            "ramani ndogo",
+            "futikamba na programu za mtandaoni zenye michezo au mazoezi yanayohusu kukokotoa umbali na muda"
+          ],
+          "periods_for_specific_competence": 18,
+          "id": "hisa-6-49"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+          "learning_activity": "(a) Kutafuta eneo na ujazo wa maumbo ya ukumbi (mche mstatili,mche mraba na mche duara)",
+          "suggested_methods": [
+            "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila ili kutafuta maeneo ya nyuso na ujazo wa maumbo ya ukumbi"
+          ],
+          "assessment_criteria": "Eneo na ujazo wa maumbo ya ukumbi yametafutwa kwa usahihi",
+          "suggested_resources": [
+            "Maumbo mbalimbali (halisi na picha)",
+            "rula",
+            "kadi za manila zenye michoro ya vitu",
+            "kalamu rashasha na programu za mtandaoni zinazohusu kutafuta eneo na ujazo wa maumbo ya ukumbi"
+          ],
+          "periods_for_specific_competence": 102,
+          "id": "hisa-6-50"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+          "learning_activity": "(b) Kutafuta nyuzi katika maumbo bapa (pembetatu, mstatili na duara)",
+          "suggested_methods": [
+            "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu katika ubao na kadi za manila kutafuta nyuzi katika maumbo bapa"
+          ],
+          "assessment_criteria": "Nyuzi katika maumbo bapa zimetafutwa kwa ufasaha",
+          "suggested_resources": [
+            "Kipimo cha nyuzi (protractor)",
+            "kadi za manila zenye michoro ya vitu na programu za mtandaoni zinazohusiana na kutafuta nyuzi katika maumbo bapa"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-51"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.2 Kuonesha uuelewa wa stadi za awali za maumbo",
+          "learning_activity": "(c) Kueleza aina za pembetatu na kanuni ya Pythagoras",
+          "suggested_methods": [
+            "Michoro ya vitu: Waongoze wanafunzi kutumia michoro ya vitu vya maumbo ya pembetatu katika ubao na kadi za manila kueleza aina za pembe tatu na kanuni ya Pythagoras"
+          ],
+          "assessment_criteria": "Aina za pembetatu na kanuni ya Pythagoras zimeelezwa kwa usahihi",
+          "suggested_resources": [
+            "Kipimo cha nyuzi (protractor)",
+            "kadi za manila",
+            "kalamu rashasha na programu za mtandaoni zinazohusiana na kueleza aina za pembe tatu na kanuni ya Pythagoras"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-52"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+          "learning_activity": "(a) Kutafuta kipeo cha pili cha namba",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeo cha pili cha namba"
+          ],
+          "assessment_criteria": "Kipeo cha pili cha namba kimetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya namba na alama za kipeo cha pili",
+            "programu za mtandaoni zinazohusiana na kutafuta kipeo cha pili cha namba"
+          ],
+          "periods_for_specific_competence": 52,
+          "id": "hisa-6-53"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+          "learning_activity": "(b) Kufuta kipeuo cha pili cha namba",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kufanya majadiliano ya kutafuta kipeuo cha pili cha namba"
+          ],
+          "assessment_criteria": "Kipeuo cha pili cha namba kimetafutwa kwa usahihi",
+          "suggested_resources": [
+            "Chati ya namba na alama ya kipeuo cha pili",
+            "programu za mtandaoni zinazohusiana na kutafuta kipeuo cha pili cha namba"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-54"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+          "learning_activity": "(c) Kufafanua dhana ya namba kamili",
+          "suggested_methods": [
+            "Mifano halisi: Waongoze wanafunzi kufafanua dhana ya namba kamili kwa kutoa mifano halisi"
+          ],
+          "assessment_criteria": "Dhana ya namba kamili imefafanuliwa kwa ufasaha",
+          "suggested_resources": [
+            "Karatasi za rangi",
+            "vibao vya rangi",
+            "pesa",
+            "vitabu",
+            "kalamu na vihesabio"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-55"
+        },
+        {
+          "main_competence": "1.0 Kumudu misingi ya awali ya kihisabati",
+          "specific_competence": "1.3 Kuonesha uuelewa wa stadi za awali za namba",
+          "learning_activity": "(d) Kufanya matendo katika namba kamili",
+          "suggested_methods": [
+            "Michezo ya ujifunzaji: Waongoze wanafunzi kutumia kadi zenye rangi tofauti kucheza mchezo kwa kufananisha kadi ili kufanya matendo ya namba kamili kwa kuzingatia jozi ya sifuri",
+            "Maswali na majadiliano: Waongoze wanafunzi kufanya maswali na matendo katika namba kamili"
+          ],
+          "assessment_criteria": "Matendo katika namba kamili yamefanyika kwa usahihi",
+          "suggested_resources": [
+            "Sinia la namba",
+            "abakasi",
+            "chati ya namba",
+            "na programu za mtandaoni zinazohusiana na matendo ya hisabati katika namba kamili"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-56"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+          "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+          "learning_activity": "(a) Kuelezea dhana ya takwimu",
+          "suggested_methods": [
+            "Majadiliano ya vikundi: Waongoze wanafunzi kukusanya na kuorodhesha vitu kwa mpangilio kwa kutumia makundi ya vitu mchanganyiko",
+            "Mazoezi ya vitendo: Waongoze wanafunzi kufanya mazoezi ya kuchora grafu za takwimu kuonesha data mbalimbali"
+          ],
+          "assessment_criteria": "Dhana ya takwimu imeelezwa kwa ufasaha",
+          "suggested_resources": [
+            "Makundi ya vitu mchanganyiko",
+            "ramani zinazoonesha takwimu halisi",
+            "michoro ya kijiografia inayoeleza takwimu ya maeneo tofauti",
+            "picha na video za kuonesha data na takwimu"
+          ],
+          "periods_for_specific_competence": 62,
+          "id": "hisa-6-57"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+          "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+          "learning_activity": "(b) Kutafuta wastani, namba ya katikati (Mediani) na namba iliyojitokeza mara nyingi (modi) kwenye data zisizo katika makundi",
+          "suggested_methods": [
+            "Mfano wa vitu halisi: Waongoze wanafunzi kutumia taarifa za vitu halisi zisizo katika makundi ya vitu mchanganyiko kutafuta wastani, mediani, na modi",
+            "Programu za mtandaoni:Waongoze wanafunzi kutumia programu za mitandao kutafuta wastani, mediani, na modi kwenye taarifa zisizo katika makundi"
+          ],
+          "assessment_criteria": "Wastani, namba ya katikati, na namba iliyojitokeza mara nyingi kwenye data zisizo za makundi zimetafutwa wa kwa usahihi",
+          "suggested_resources": [
+            "Makundi ya vitu mchanganyiko na programu za mtandaoni zinazohusiana na kutafuta mediani na modi kwenye data"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-58"
+        },
+        {
+          "main_competence": "2.0 Kumudu matumizi ya awali ya hisabati",
+          "specific_competence": "2.1 Kuonesha uuelewa wa awali wa takwimu na matumizi yake",
+          "learning_activity": "(c) Kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa",
+          "suggested_methods": [
+            "Mifano halisi: Waongoze wanafunzi kubaini matumizi ya takwimu (duara na mihimili) kuwasilisha taarifa kwa kutumia data halisi",
+            "Kazimradi: Waongoze wanafunzi kutafuta taarifa katika jamii yao na wawasilishe taarifa kwa njia ya mihimili na duara"
+          ],
+          "assessment_criteria": "Matumizi ya takwimu kuwasilisha taarifa yamebainishwa kwa usahihi",
+          "suggested_resources": [
+            "Chati za takwimu halisi kama duara na mihimili",
+            "programu za mtandaoni za kutengeneza chati na grafu na michoro ya kijiografia inayoonesha takwimu"
+          ],
+          "periods_for_specific_competence": 0,
+          "id": "hisa-6-59"
+        }
+      ]
+    }
+  }
+}

@@ -42,6 +42,40 @@ SOURCES = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"
 # PDFs, including OCR/typo variants: Form IV is sometimes "1V" (digit-1 + V),
 # Form III sometimes "1II", Form VI sometimes "V1".
 LEVELS = {
+    "nursery": {
+        "forms": ["Awali"],
+        "label": "Pre-primary Education (Awali)",
+        # One document for the whole level: there are no per-form sections to
+        # find, so the matrix is taken whole and split by subject afterwards.
+        # 30 pages of front matter precede it, so start at the matrix heading.
+        "single_section": True,
+        "matrix_start": r"Maudhui ya Muhtasari wa Elimu ya Awali",
+        "aliases": {"Awali": {"rn": "Awali", "word": "Awali", "sw": "Awali"}},
+    },
+    "primary": {
+        "forms": [f"Grade {n}" for n in range(1, 7)],
+        "label": "Primary Education (Grade 1-6)",
+        "anchor_running_head": True,
+        "unit_en": "Standard",
+        # "Darasa la IV" but also plain "Darasa IV" — TIE drops the "la" in
+        # places (Historia ya Tanzania na Maadili heads Grade 4 that way).
+        "unit_sw": r"Darasa(?:\s+la)?",
+        # Primary syllabuses are written in Kiswahili and head each grade
+        # "Maudhui ya Darasa la III"; the English-medium ones say "Standard III".
+        # A bare "Darasa la I" matches running prose ("Darasa la I-VI, Tanzania
+        # Bara"), so primary drops that fallback and relies on the real headings.
+        "strict_headings": True,
+        "aliases": {
+            "Grade 1": {"rn": "I",           "word": "One",   "sw": "I"},
+            "Grade 2": {"rn": "II",          "word": "Two",   "sw": "II"},
+            # Swahili headings carry the same OCR variants as the English ones
+            # (Darasa la 1V for IV), so the numerals allow both spellings.
+            "Grade 3": {"rn": "(?:III|1II)", "word": "Three", "sw": "(?:III|1II)", "fr": "IIIe"},
+            "Grade 4": {"rn": "(?:IV|1V)",   "word": "Four",  "sw": "(?:IV|1V)",  "fr": "IVe"},
+            "Grade 5": {"rn": "V",           "word": "Five",  "sw": "V",          "fr": "Ve"},
+            "Grade 6": {"rn": "(?:VI|V1)",   "word": "Six",   "sw": "(?:VI|V1)",  "fr": "VIe"},
+        },
+    },
     "ordinary": {
         "forms": ["Form One", "Form Two", "Form Three", "Form Four"],
         "label": "Ordinary Secondary Education (Form I-IV)",
@@ -66,9 +100,16 @@ LEVELS = {
 }
 
 
+SUFFIX = {"ordinary": "", "advanced": "_advanced",
+          "primary": "_primary", "nursery": "_nursery"}
+
+
 def slug(subject: str, level: str = "ordinary") -> str:
-    s = subject.lower().replace(" ", "_").replace("ya_", "").replace("'", "")
-    return s + "_advanced" if level == "advanced" else s
+    s = re.sub(r"\bya\b", " ", subject.lower())
+    # subject names carry slashes and commas ("Sayansi / Science"); keep the
+    # filename plain ASCII words.
+    s = re.sub(r"_+", "_", re.sub(r"[^a-z0-9]+", "_", s)).strip("_")
+    return s + SUFFIX.get(level, "")
 
 
 # --- structured-output schema the model must fill (one Form at a time) --------
@@ -126,9 +167,23 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
     contents for Form Six'. Of what survives we take the LAST occurrence, and
     fall back to a bare 'Form <ROMAN>' heading for subjects that word it
     differently again."""
+    cfg = LEVELS[level]
+    forms = cfg["forms"]
+    if cfg.get("single_section"):
+        # Pre-primary is one document for one "form"; there is nothing to slice
+        # beyond skipping the front matter.
+        start = 0
+        if cfg.get("matrix_start"):
+            hits = list(re.finditer(cfg["matrix_start"], full_text, re.IGNORECASE))
+            hits = [h for h in hits if not _is_contents_entry(full_text, h.end())]
+            if hits:
+                start = hits[-1].start()
+        return {forms[0]: full_text[start:]}
     # Each form can be headed in English (roman or spelled-out) or Swahili.
-    aliases = LEVELS[level]["aliases"]
-    forms = LEVELS[level]["forms"]
+    # Secondary calls a year "Form"/"Kidato cha", primary "Standard"/"Darasa la".
+    unit_en = cfg.get("unit_en", "Form")
+    unit_sw = cfg.get("unit_sw", "Kidato cha")
+    aliases = cfg["aliases"]
     idx: dict[str, int] = {}
     for name, a in aliases.items():
         pats = []
@@ -146,8 +201,9 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
             # than the caption), and those four-form splits are already
             # validated against all 14 ingested subjects — no reason to perturb
             # them for a fault none of them has.
-            pats.append(rf"(?m)^[ \t]*Form\s*{a['rn']}[ \t]*$"
-                        rf"(?=\n[^\n]{{0,90}}(?:Table\s*\d|Detailed\s+Contents?))")
+            pats.append(rf"(?m)^[ \t]*{unit_en}\s*{a['rn']}[ \t]*$"
+                        rf"(?=\n[^\n]{{0,90}}"
+                        rf"(?:Table\s*\d|Jedwali|Detailed\s+Contents?|Maudhui))")
         if a.get("fr"):
             pats += [
                 rf"(?m)^[ \t]*{a['fr']}\s*Ann[ée]e[ \t]*$"
@@ -156,16 +212,19 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
             ]
         pats += [
             # "Detailed Content(s)" — the 's' and inner spacing vary by PDF.
-            rf"Detailed\s+Contents?\s+for\s+Form\s*{a['rn']}\b",
-            rf"Detailed\s+Contents?\s+for\s+Form\s*{a['word']}\b",
-            # Swahili-medium syllabi: "Maudhui ya Kidato cha I" (Contents of
-            # Form I) is the section heading — specific enough to avoid the
-            # "Kidato cha I – IV" running footer that plain "Kidato cha I" hits.
-            rf"Maudhui ya Kidato cha\s*{a['sw']}\b",
-            rf"Kidato cha\s*{a['sw']}\b",
+            rf"Detailed\s+Contents?\s+for\s+{unit_en}\s*{a['rn']}\b",
+            rf"Detailed\s+Contents?\s+for\s+{unit_en}\s*{a['word']}\b",
+            # Swahili-medium syllabi: "Maudhui ya Kidato cha I" / "Maudhui ya
+            # Darasa la III" is the section heading — specific enough to avoid
+            # the "Kidato cha I - IV" running footer that the bare form hits.
+            # "Maudhui ya|kwa [Muhtasari] Darasa la III" — TIE varies the
+            # preposition and sometimes slips a word in before the unit.
+            rf"Maudhui\s+(?:ya|kwa)\s+(?:\w+\s+)?{unit_sw}\s*{a['sw']}\b",
+            *([] if cfg.get("strict_headings")
+              else [rf"{unit_sw}\s*{a['sw']}\b"]),
             # Bare heading before the matrix, tolerating a page number in between
             # e.g. "Form III\n38\nMain competences".
-            rf"\bForm\s*{a['rn']}\s*\n?\s*\d*\s*Main\b",
+            rf"\b{unit_en}\s*{a['rn']}\s*\n?\s*\d*\s*(?:Main|Umahiri)\b",
         ]
         pos = -1
         for pat in pats:
@@ -182,6 +241,66 @@ def split_by_form(full_text: str, level: str = "ordinary") -> dict[str, str]:
         end = idx[ordered[i + 1]] if i + 1 < len(ordered) else len(full_text)
         out[name] = full_text[start:end]
     return out
+
+
+# ---------------------------------------------------------------------------
+# Combined documents
+#
+# Pre-primary and Grade 1-2 are not published one PDF per subject: a single
+# document carries the whole band, organised by main competence rather than by
+# subject. Each numbered main competence IS a subject, so an activity is filed
+# under the subject its competence number names. The maps below are read
+# straight off each document's own competence table, cited beside them, so the
+# split stays grounded in the source rather than in the model's judgement.
+# ---------------------------------------------------------------------------
+COMBINED_DOCS = {
+    # Muhtasari wa Elimu ya Msingi Darasa la I na la II (2023), Jedwali Na. 1.
+    "grade_1_2": {
+        "level": "primary",
+        "subjects": {
+            1: "Kusoma / Reading",              # 1.0 Kusoma
+            2: "Kuandika / Writing",            # 2.0 Kuandika
+            3: "English",                       # 3.0 Demonstrate mastery of basic
+                                                #     English language skills
+            4: "Kuhesabu / Arithmetic",         # 4.0 Kuhesabu
+            5: "Utamaduni, Sanaa na Michezo",   # 5.0 Kuthamini utamaduni, sanaa
+                                                #     na michezo
+            6: "Afya na Mazingira",             # 6.0 Kutunza afya na mazingira
+        },
+    },
+    # Mtaala na Muhtasari wa Elimu ya Awali (2023), Jedwali Na. 1.2.
+    "awali": {
+        "level": "nursery",
+        "subjects": {
+            1: "Creative Arts and Sports",       # 1.0 Kumudu stadi za kisanii,
+                                                 #     ubunifu na michezo
+            2: "Naipenda Nchi Yangu Tanzania",   # 2.0 Kuthamini utamaduni ... na
+                                                 #     tunu za taifa
+            3: "Early Literacy Skills",          # 3.0 Kumudu stadi za awali za
+                                                 #     lugha ya mawasiliano
+            4: "Early Life Skills",              # 4.0 Kuhusiana
+            5: "Health and Environment",         # 5.0 Kutunza afya na mazingira
+            6: "Arithmetic, Science and ICT",    # 6.0 Kutumia stadi za awali za
+                                                 #     kihisabati, sayansi na TEHAMA
+        },
+    },
+}
+
+# A pre-primary session is 20 minutes (Mtaala wa Elimu ya Awali, Jedwali Na.
+# 1.5); everything else runs on 40-minute periods.
+PERIOD_MINUTES = {"nursery": 20}
+
+# "1.0 Kusoma", "1. Kusoma" and plain "6 Kutumia stadi ..." all occur — the
+# decimal part survives transcription inconsistently.
+_LEADING_NUMBER = re.compile(r"^\s*(\d+)\s*(?:[.．]\s*\d*)?\s+\S")
+
+
+def competence_number(activity: dict) -> int | None:
+    """The main competence's number, which names the subject in a combined
+    document. TIE numbers them "1.0 Kusoma", and the transcription keeps the
+    number, so it can be read straight back off."""
+    m = _LEADING_NUMBER.match(activity.get("main_competence", "") or "")
+    return int(m.group(1)) if m else None
 
 
 def carry_merged_competences(activities: list[dict]) -> int:
@@ -207,6 +326,90 @@ def carry_merged_competences(activities: list[dict]) -> int:
     return filled
 
 
+def _form_key(form: str) -> str:
+    """Short id fragment for a form: "Form One" -> one, "Grade 3" -> 3,
+    "Awali" -> awali."""
+    parts = form.split()
+    return (parts[1] if len(parts) > 1 else parts[0]).lower()
+
+
+def transcribe(label: str, sections: dict[str, str], id_prefix: str) -> dict[str, list[dict]]:
+    """Send each form's matrix text to the model and return its activity rows."""
+    out: dict[str, list[dict]] = {}
+    counter = 0
+    for form, text in sections.items():
+        text = text[:60000]  # keep the request bounded
+        print(f"  · {form}: {len(text)} chars → {llm.MODEL}")
+        parsed = llm.structured(
+            system=SYSTEM,
+            user=f"Subject: {label}\nForm: {form}\n\nDetailed contents text:\n{text}",
+            schema=FormContents,
+        )
+        if parsed is None:
+            print("    ! model returned no activities", file=sys.stderr)
+            continue
+        acts = []
+        for a in parsed.activities:
+            counter += 1
+            d = a.model_dump()
+            d["id"] = f"{id_prefix}-{_form_key(form)}-{counter}"
+            acts.append(d)
+        carried = carry_merged_competences(acts)
+        if carried:
+            print(f"    · carried {carried} merged competence cell(s) down")
+        blank = sum(1 for a in acts if not a.get("main_competence"))
+        if blank:
+            print(f"    ! {blank}/{len(acts)} rows still have no main competence — "
+                  f"the PDF text extraction dropped those cells", file=sys.stderr)
+        out[form] = acts
+    return out
+
+
+def ingest_combined(doc_key: str) -> None:
+    """Ingest a document that holds a whole band's subjects, filing each
+    activity under the subject its main competence number names."""
+    cfg = COMBINED_DOCS[doc_key]
+    level = cfg["level"]
+    pdf = PDF_DIR / f"{slug(doc_key, level)}.pdf"
+    if not pdf.exists():
+        print(f"  ! no PDF for {doc_key} at {pdf}", file=sys.stderr)
+        return
+    print(f"→ {doc_key} ({level}, combined): extracting text …")
+    sections = split_by_form(extract_text(pdf), level)
+    if not sections:
+        print(f"  ! could not locate sections in {doc_key}", file=sys.stderr)
+        return
+    per_form = transcribe(doc_key, sections, doc_key[:4])
+
+    by_subject: dict[str, dict[str, list[dict]]] = {}
+    unmapped: list[str] = []
+    for form, acts in per_form.items():
+        for a in acts:
+            subject = cfg["subjects"].get(competence_number(a))
+            if subject is None:
+                unmapped.append((a.get("main_competence") or "")[:60])
+                continue
+            by_subject.setdefault(subject, {}).setdefault(form, []).append(a)
+    if unmapped:
+        print(f"    ! {len(unmapped)} row(s) had no recognisable competence number "
+              f"and were not filed: {unmapped[:3]}", file=sys.stderr)
+
+    url = SOURCES["levels"][level].get("combined", {}).get(doc_key, "")
+    for subject, forms in sorted(by_subject.items()):
+        doc = {
+            "subject": subject,
+            "level": LEVELS[level]["label"],
+            "syllabus_edition": "2023 (Tanzania Institute of Education)",
+            "source_pdf": url,
+            "period_length_minutes": PERIOD_MINUTES.get(level, 40),
+            "forms": {f: {"activities": a} for f, a in forms.items()},
+        }
+        out = OUT_DIR / f"{slug(subject, level)}.json"
+        out.write_text(json.dumps(doc, indent=2, ensure_ascii=False), encoding="utf-8")
+        n = sum(len(a) for a in forms.values())
+        print(f"  ✓ {subject}: {n} activities across {len(forms)} form(s) → {out.name}")
+
+
 def ingest(subject: str, level: str = "ordinary") -> None:
     pdf = PDF_DIR / f"{slug(subject, level)}.pdf"
     if not pdf.exists():
@@ -219,58 +422,42 @@ def ingest(subject: str, level: str = "ordinary") -> None:
         print(f"  ! could not locate Form sections in {subject}", file=sys.stderr)
         return
 
-    forms_out: dict[str, dict] = {}
-    counter = 0
-    for form, text in sections.items():
-        text = text[:60000]  # keep the request bounded
-        print(f"  · {form}: {len(text)} chars → {llm.MODEL}")
-        parsed = llm.structured(
-            system=SYSTEM,
-            user=f"Subject: {subject}\nForm: {form}\n\nDetailed contents text:\n{text}",
-            schema=FormContents,
-        )
-        if parsed is None:
-            print("    ! model returned no activities", file=sys.stderr)
-            continue
-        acts = []
-        for a in parsed.activities:
-            counter += 1
-            d = a.model_dump()
-            d["id"] = f"{slug(subject)[:4]}-{form.split()[1].lower()}-{counter}"
-            acts.append(d)
-        carried = carry_merged_competences(acts)
-        if carried:
-            print(f"    · carried {carried} merged competence cell(s) down")
-        blank = sum(1 for a in acts if not a.get("main_competence"))
-        if blank:
-            print(f"    ! {blank}/{len(acts)} rows still have no main competence — "
-                  f"the PDF text extraction dropped those cells", file=sys.stderr)
-        forms_out[form] = {"activities": acts}
+    forms_out = {f: {"activities": a} for f, a in
+                 transcribe(subject, sections, slug(subject)[:4]).items()}
 
     out = OUT_DIR / f"{slug(subject, level)}.json"
 
-    # Forms rebuilt from a teacher-authored scheme of work (they carry a
-    # "source" block) are richer than anything this transcription produces and
-    # are NOT regenerated here — re-ingesting a subject must not silently
-    # discard them. See scripts/build_syllabus_from_schemes.py.
+    # Keep every form this document does not itself cover:
+    #  * forms rebuilt from a teacher-authored scheme of work carry a "source"
+    #    block and are richer than anything this transcription produces
+    #    (see scripts/build_syllabus_from_schemes.py);
+    #  * a subject can also be split across two TIE documents — English is in
+    #    both the combined Grade 1-2 syllabus and its own Grade 3-6 one, and
+    #    ingesting either must not wipe the other's grades.
     if out.exists():
         existing = json.loads(out.read_text(encoding="utf-8")).get("forms", {})
         for form, data in existing.items():
-            if data.get("source"):
-                forms_out[form] = data
-                print(f"  · {form}: kept teacher-scheme version "
-                      f"({len(data.get('activities', []))} activities, not re-ingested)")
+            if form in forms_out:
+                continue
+            forms_out[form] = data
+            why = "teacher-scheme" if data.get("source") else "other document"
+            print(f"  · {form}: kept {why} version "
+                  f"({len(data.get('activities', []))} activities, not re-ingested)")
+        forms_out = {f: forms_out[f] for f in
+                     sorted(forms_out, key=lambda x: LEVELS[level]["forms"].index(x)
+                            if x in LEVELS[level]["forms"] else 99)}
 
     doc = {
         "subject": subject,
         "level": LEVELS[level]["label"],
         "syllabus_edition": "2023 (Tanzania Institute of Education)",
         "source_pdf": SOURCES["levels"][level]["subjects"].get(subject, ""),
-        "period_length_minutes": 40,
+        "period_length_minutes": PERIOD_MINUTES.get(level, 40),
         "forms": forms_out,
     }
     out.write_text(json.dumps(doc, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"  ✓ wrote {out} ({counter} activities)")
+    total = sum(len(f["activities"]) for f in forms_out.values())
+    print(f"  ✓ wrote {out} ({total} activities)")
 
 
 def main() -> None:
@@ -280,7 +467,10 @@ def main() -> None:
     ap.add_argument("--force", action="store_true",
                     help="Re-ingest even subjects that already have a JSON file")
     ap.add_argument("--level", default="ordinary", choices=list(LEVELS),
-                    help="ordinary = Form I-IV (default), advanced = Form V-VI")
+                    help="nursery = Awali, primary = Grade 1-6, "
+                         "ordinary = Form I-IV (default), advanced = Form V-VI")
+    ap.add_argument("--combined", choices=list(COMBINED_DOCS),
+                    help="Ingest one multi-subject document (pre-primary, Grade 1-2)")
     args = ap.parse_args()
 
     if not llm.has_credentials():
@@ -291,8 +481,30 @@ def main() -> None:
             "and re-run:  python scripts/ingest_syllabus.py --all"
         )
 
+    combined_here = [k for k, c in COMBINED_DOCS.items() if c["level"] == args.level]
+
+    if args.combined:
+        ingest_combined(args.combined)
+        return
+
     if args.all:
         done, skipped, failed = [], [], []
+        # Combined documents first: they define subjects the per-subject loop
+        # never sees.
+        for key in combined_here:
+            already = all((OUT_DIR / f"{slug(s, args.level)}.json").exists()
+                          for s in COMBINED_DOCS[key]["subjects"].values())
+            if already and not args.force:
+                print(f"= {key}: already ingested (use --force to redo)")
+                skipped.append(key)
+                continue
+            try:
+                ingest_combined(key)
+                done.append(key)
+            except Exception as e:
+                print(f"  ! {key}: failed ({type(e).__name__}: {str(e)[:120]})",
+                      file=sys.stderr)
+                failed.append(key)
         for subj in SOURCES["levels"][args.level]["subjects"]:
             if not (PDF_DIR / f"{slug(subj, args.level)}.pdf").exists():
                 continue

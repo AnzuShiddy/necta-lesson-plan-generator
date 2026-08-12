@@ -84,14 +84,23 @@ def build_user_prompt(req: LessonPlanRequest, entry: dict) -> str:
     else:
         provenance = "The scheme entry is derived from the official TIE syllabus."
         edition = meta["syllabus_edition"]
-    if calendars.level_of(req.form) == calendars.ADVANCED:
-        level_note = ("LEVEL: Advanced Secondary Education (Form V-VI), leading to the "
-                      "NECTA ACSEE examination. Pitch the depth, subject language and "
-                      "assessment at A-level, not at Form I-IV.")
-        year = "2026/2027"
-    else:
-        level_note = "LEVEL: Ordinary Secondary Education (Form I-IV), leading to CSEE."
-        year = "2026"
+    level = calendars.level_of(req.form)
+    year = "2026/2027" if level == calendars.ADVANCED else "2026"
+    level_note = {
+        calendars.NURSERY: (
+            "LEVEL: Pre-primary (Elimu ya Awali). The learners are 5-6 years old and "
+            "not yet reading fluently. Every stage must be play-based, oral and "
+            "concrete — songs, games, stories, drawing, sorting real objects. Never "
+            "set written exercises or homework, and keep each stage short."),
+        calendars.PRIMARY: (
+            "LEVEL: Primary (Elimu ya Msingi). Pitch the language, examples and "
+            "assessment at a primary child, using concrete materials from the local "
+            "environment and plenty of practical group activity."),
+        calendars.ADVANCED: (
+            "LEVEL: Advanced Secondary Education (Form V-VI), leading to the NECTA "
+            "ACSEE examination. Pitch the depth, subject language and assessment at "
+            "A-level, not at Form I-IV."),
+    }.get(level, "LEVEL: Ordinary Secondary Education (Form I-IV), leading to CSEE.")
     return f"""Prepare a lesson plan for one scheduled lesson, taken from the {year} scheme \
 of work below. {provenance}
 
