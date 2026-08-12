@@ -267,6 +267,14 @@ COMBINED_DOCS = {
                                                 #     na michezo
             6: "Afya na Mazingira",             # 6.0 Kutunza afya na mazingira
         },
+        # Subjects a school timetables under one name that the syllabus states
+        # as several competences. This document has no Kiswahili competence —
+        # it says Kiswahili is the *language of instruction* at Standard I-II
+        # ("kwa kutumia Kiswahili kama lugha ya kufundishia") and its literacy
+        # work is Kusoma and Kuandika. Schools still timetable that period as
+        # Kiswahili, so it is offered under that name too, carrying exactly
+        # those two competences' rows and nothing else.
+        "aggregates": {"Kiswahili": (1, 2)},
     },
     # Mtaala na Muhtasari wa Elimu ya Awali (2023), Jedwali Na. 1.2.
     "awali": {
@@ -394,20 +402,42 @@ def ingest_combined(doc_key: str) -> None:
         print(f"    ! {len(unmapped)} row(s) had no recognisable competence number "
               f"and were not filed: {unmapped[:3]}", file=sys.stderr)
 
+    # Subjects a school names once but the syllabus states as several
+    # competences. The rows are the same ones already filed above, re-presented
+    # under the timetable's name — nothing is duplicated in the source.
+    for name, numbers in cfg.get("aggregates", {}).items():
+        for form, acts in per_form.items():
+            rows = [a for a in acts if competence_number(a) in numbers]
+            if rows:
+                by_subject.setdefault(name, {})[form] = rows
+
     url = SOURCES["levels"][level].get("combined", {}).get(doc_key, "")
     for subject, forms in sorted(by_subject.items()):
+        out = OUT_DIR / f"{slug(subject, level)}.json"
+        forms_out = {f: {"activities": a} for f, a in forms.items()}
+        # A subject can be split across documents — Kiswahili is Grade 1-2 here
+        # and Grade 3-6 in its own syllabus — so keep the forms this document
+        # does not cover, exactly as ingest() does.
+        if out.exists():
+            for form, data in json.loads(out.read_text(encoding="utf-8")).get("forms", {}).items():
+                if form not in forms_out:
+                    forms_out[form] = data
+                    print(f"  · {subject} {form}: kept other document version "
+                          f"({len(data.get('activities', []))} activities)")
+        order = LEVELS[level]["forms"]
+        forms_out = {f: forms_out[f] for f in
+                     sorted(forms_out, key=lambda x: order.index(x) if x in order else 99)}
         doc = {
             "subject": subject,
             "level": LEVELS[level]["label"],
             "syllabus_edition": "2023 (Tanzania Institute of Education)",
             "source_pdf": url,
             "period_length_minutes": PERIOD_MINUTES.get(level, 40),
-            "forms": {f: {"activities": a} for f, a in forms.items()},
+            "forms": forms_out,
         }
-        out = OUT_DIR / f"{slug(subject, level)}.json"
         out.write_text(json.dumps(doc, indent=2, ensure_ascii=False), encoding="utf-8")
-        n = sum(len(a) for a in forms.values())
-        print(f"  ✓ {subject}: {n} activities across {len(forms)} form(s) → {out.name}")
+        n = sum(len(f["activities"]) for f in forms_out.values())
+        print(f"  ✓ {subject}: {n} activities across {len(forms_out)} form(s) → {out.name}")
 
 
 def ingest(subject: str, level: str = "ordinary") -> None:

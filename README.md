@@ -136,8 +136,15 @@ handles both shapes:
 
   Grade 1–2 maps the same way onto Kusoma / Reading, Kuandika / Writing,
   English, Kuhesabu / Arithmetic, Utamaduni Sanaa na Michezo, and Afya na
-  Mazingira. Kiswahili is *not* a separate Grade 1–2 subject — at that stage its
-  literacy strands are Kusoma and Kuandika, which is what the document says.
+  Mazingira.
+
+  That document has **no Kiswahili competence**: it states that Kiswahili is the
+  *language of instruction* at Standard I–II (*"kwa kutumia Kiswahili kama lugha
+  ya kufundishia"*) and that its literacy work is Kusoma and Kuandika. Schools
+  timetable that period as Kiswahili, so the subject is also offered under that
+  name, carrying exactly those two competences' rows and nothing else — see
+  `aggregates` in `COMBINED_DOCS`. Kiswahili therefore runs Grade 1–6: Grade 1–2
+  from the combined document, Grade 3–6 from its own.
 
 Ingest them with:
 
